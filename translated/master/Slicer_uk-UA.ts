@@ -6,27 +6,27 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Діалог</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
       <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-      <translation type="unfinished">AnnotationText (vtkMRMLAnnotationTextNode1)</translation>
+      <translation>Анотація (vtkMRMLAnnotationTextNode1)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
       <source>Toggle visibility</source>
-      <translation type="unfinished">Toggle visibility</translation>
+      <translation>Змінити видимість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
       <source>Toggle un-/locked</source>
-      <translation type="unfinished">Toggle un-/locked</translation>
+      <translation>Ввімкнення роз-/заблоковано</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
       <source>Properties</source>
-      <translation type="unfinished">Properties</translation>
+      <translation>Властивості</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="127"/>
@@ -34,7 +34,7 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="275"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="372"/>
       <source>Unselected Color</source>
-      <translation type="unfinished">Unselected Color</translation>
+      <translation>Не вибраний колір</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="134"/>
@@ -42,7 +42,7 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="282"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="419"/>
       <source>Selected Color</source>
-      <translation type="unfinished">Selected Color</translation>
+      <translation>Вибраний колір</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="158"/>
@@ -50,7 +50,7 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="356"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="475"/>
       <source>Material</source>
-      <translation type="unfinished">Material</translation>
+      <translation>Матеріал</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>
