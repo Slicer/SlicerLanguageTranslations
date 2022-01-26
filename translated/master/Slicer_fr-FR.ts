@@ -80,7 +80,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="295"/>
       <source>Text Scale:</source>
-      <translation type="unfinished">Text Scale:</translation>
+      <translation>Échelle du Texte :</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
