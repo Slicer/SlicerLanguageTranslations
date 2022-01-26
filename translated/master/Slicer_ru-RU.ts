@@ -548,72 +548,72 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
       <source>Storage listener:</source>
-      <translation type="unfinished">Storage listener:</translation>
+      <translation>Сервер-хранилище:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
       <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-      <translation type="unfinished">Enable DICOM listening server to receive images (C-Store SCP)</translation>
+      <translation>Включить сервер DICOM для приема изображений (C-Store SCP)</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
       <source>Start storage listener on startup:</source>
-      <translation type="unfinished">Start storage listener on startup:</translation>
+      <translation>Запуск слушателя хранилища при запуске:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
       <source>Automatically start listener on application startup</source>
-      <translation type="unfinished">Automatically start listener on application startup</translation>
+      <translation>Автоматически запускать слушателя при запуске приложения</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
       <source>DICOM database settings</source>
-      <translation type="unfinished">DICOM database settings</translation>
+      <translation>Настройки базы данных DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
       <source>Database location:</source>
-      <translation type="unfinished">Database location:</translation>
+      <translation>Расположение базы данных:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
       <source>Auto-hide browser window:</source>
-      <translation type="unfinished">Auto-hide browser window:</translation>
+      <translation>Автоскрытие окна браузера:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
       <source>Maintenance:</source>
-      <translation type="unfinished">Maintenance:</translation>
+      <translation>Поддержка:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
       <source>Hide DICOM database browser after data loaded</source>
-      <translation type="unfinished">Hide DICOM database browser after data loaded</translation>
+      <translation>Скрыть браузер базы данных DICOM после загрузки данных</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
       <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-      <translation type="unfinished">Remove all items from the DICOM database if referenced DICOM file is not found on disk.</translation>
+      <translation>Удалить все записи из базы данных DICOM, если ссылка на DICOM файл не найдена на диске.</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
       <source>Remove unavailable data sets</source>
-      <translation type="unfinished">Remove unavailable data sets</translation>
+      <translation>Удалить недоступные наборы данных</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
       <source>Removes all data from the database and all files that were copied into the database during import.</source>
-      <translation type="unfinished">Removes all data from the database and all files that were copied into the database during import.</translation>
+      <translation>Удаляет все данные из базы данных и все файлы, которые были скопированы в базу данных во время импорта.</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
       <source>Remove all data sets</source>
-      <translation type="unfinished">Remove all data sets</translation>
+      <translation>Удалить все наборы данных</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
       <source>DICOM plugins</source>
-      <translation type="unfinished">DICOM plugins</translation>
+      <translation>Подключаемые модули DICOM</translation>
     </message>
   </context>
   <context>
@@ -621,22 +621,22 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="20"/>
       <source>PointName</source>
-      <translation type="unfinished">PointName</translation>
+      <translation>ИмяТочки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
       <source>Glyph type combo box</source>
-      <translation type="unfinished">Glyph type combo box</translation>
+      <translation>Комб. поле типа глифа</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
   </context>
   <context>
@@ -644,51 +644,51 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLAnnotationFiducialProjectionPropertyWidget</source>
-      <translation type="unfinished">qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
+      <translation>qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="45"/>
       <source>Turn on/off visualization of projected fiducial on 2D viewers</source>
-      <translation type="unfinished">Turn on/off visualization of projected fiducial on 2D viewers</translation>
+      <translation>Вкл/выкл отображение проецированных меток в 2D просмотрщиках</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="38"/>
       <source>2D Projection</source>
-      <translation type="unfinished">2D Projection</translation>
+      <translation>2D Проекция</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
       <source>Color of the projected fiducial on 2D viewers</source>
-      <translation type="unfinished">Color of the projected fiducial on 2D viewers</translation>
+      <translation>Цвет проецируемой метки в 2D просмотрщиках</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
       <source>Projection Color</source>
-      <translation type="unfinished">Projection Color</translation>
+      <translation>Цвет Проекции</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="109"/>
       <source>Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</source>
-      <translation type="unfinished">Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</translation>
+      <translation>Проекция метки отображается заполненной поверх плоскости среза, только периметр когда за плоскостью среза, и полностью прозрачной когда на плоскости</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
       <source>Outlined Behind Slice Plane</source>
-      <translation type="unfinished">Outlined Behind Slice Plane</translation>
+      <translation>Только Периметр Когда За Плоскостью Среза</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="132"/>
       <source>Use the same color as fiducial</source>
-      <translation type="unfinished">Use the same color as fiducial</translation>
+      <translation>Использовать тот же цвет, что и у метки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="125"/>
       <source>Use Fiducial Color</source>
-      <translation type="unfinished">Use Fiducial Color</translation>
+      <translation>Использовать Цвет Метки</translation>
     </message>
   </context>
   <context>
@@ -696,39 +696,39 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="20"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="31"/>
       <source>L-R Range:</source>
-      <translation type="unfinished">L-R Range:</translation>
+      <translation>Диапазон L-R:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="672"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1319"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1965"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>длина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="679"/>
       <source>P-A Range:</source>
-      <translation type="unfinished">P-A Range:</translation>
+      <translation>Диапазон P-A:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1326"/>
       <source>I-S Range:</source>
-      <translation type="unfinished">I-S Range:</translation>
+      <translation>Диапазон I-S:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2004"/>
       <source>Display Clipping box</source>
-      <translation type="unfinished">Display Clipping box</translation>
+      <translation>Отображать окно обрезки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2027"/>
       <source>Interactive Mode</source>
-      <translation type="unfinished">Interactive Mode</translation>
+      <translation>Интерактивный режим</translation>
     </message>
   </context>
   <context>
