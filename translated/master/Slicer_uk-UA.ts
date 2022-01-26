@@ -55,77 +55,77 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>
       <source>Points</source>
-      <translation type="unfinished">Points</translation>
+      <translation>Точки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="194"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Розмір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="201"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Тип:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
       <source>Glyph type combo box</source>
-      <translation type="unfinished">Glyph type combo box</translation>
+      <translation>Комбо бокс для вибору типу гліфа</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>Текст</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="295"/>
       <source>Text Scale:</source>
-      <translation type="unfinished">Text Scale:</translation>
+      <translation>Розмір тексту:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>Прозорість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
       <source>Lines</source>
-      <translation type="unfinished">Lines</translation>
+      <translation>Рядки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
       <source>Width:</source>
-      <translation type="unfinished">Width:</translation>
+      <translation>Ширина:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
       <source>Label Visibility</source>
-      <translation type="unfinished">Label Visibility</translation>
+      <translation>Видимість мітки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
       <source>Distance in mm between major ticks</source>
-      <translation type="unfinished">Distance in mm between major ticks</translation>
+      <translation>Відстань в мм між основними позначками</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
       <source>Tick Spacing:</source>
-      <translation type="unfinished">Tick Spacing:</translation>
+      <translation>Інтервал між позначками:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
       <source>Label Position:</source>
-      <translation type="unfinished">Label Position:</translation>
+      <translation>Розташування мітки:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
       <source>Position the label along the line</source>
-      <translation type="unfinished">Position the label along the line</translation>
+      <translation>Розташування мітки вздовж лінії</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
       <source>Max # of Ticks:</source>
-      <translation type="unfinished">Max # of Ticks:</translation>
+      <translation>Макс. кількість позначок:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
@@ -138,12 +138,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
       <source>vtkMRMLCameraNode</source>
-      <translation type="unfinished">vtkMRMLCameraNode</translation>
+      <translation>vtkMRMLCameraNode</translation>
     </message>
   </context>
   <context>
@@ -151,12 +151,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
       <source>Markups</source>
-      <translation type="unfinished">Markups</translation>
+      <translation>Розмітка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
       <source>Sequence browser</source>
-      <translation type="unfinished">Sequence browser</translation>
+      <translation>Переглядач послідовностей</translation>
     </message>
   </context>
   <context>
@@ -164,12 +164,12 @@
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="105"/>
       <source>patient right is screen left (default)</source>
-      <translation type="unfinished">patient right is screen left (default)</translation>
+      <translation>активність користувача - це екран ліворуч (за замовчуванням)</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
       <source>patient right is screen right</source>
-      <translation type="unfinished">patient right is screen right</translation>
+      <translation>активність користувача - праворуч на екрані</translation>
     </message>
   </context>
   <context>
@@ -177,82 +177,82 @@
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
       <source>Scene Performance</source>
-      <translation type="unfinished">Scene Performance</translation>
+      <translation>Продуктивність</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>Дія</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="35"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>Файл</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
       <source>Add Data (or Scene)</source>
-      <translation type="unfinished">Add Data (or Scene)</translation>
+      <translation>Додати дані (або сценарій)</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="51"/>
       <source>Restore scene</source>
-      <translation type="unfinished">Restore scene</translation>
+      <translation>Відновити сцену</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="56"/>
       <source>Close Scene</source>
-      <translation type="unfinished">Close Scene</translation>
+      <translation>Закрити сцену</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
       <source>Switch to Layout</source>
-      <translation type="unfinished">Switch to Layout</translation>
+      <translation>Змінити розташування</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
       <source>Add (copy of current) node</source>
-      <translation type="unfinished">Add (copy of current) node</translation>
+      <translation>Додати (скопіювати поточний) об'єкт</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="71"/>
       <source>Modify (current) node</source>
-      <translation type="unfinished">Modify (current) node</translation>
+      <translation>Змінити (поточний) об'єкт</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="79"/>
       <source>URL</source>
-      <translation type="unfinished">URL</translation>
+      <translation>URL-адреса</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="86"/>
       <source>Results</source>
-      <translation type="unfinished">Results</translation>
+      <translation>Результати</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>Розмітка</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
       <source>file name:</source>
-      <translation type="unfinished">file name:</translation>
+      <translation>ім'я файлу:</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
       <source>Node</source>
-      <translation type="unfinished">Node</translation>
+      <translation>Об'єкт</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
       <source>Run and time</source>
-      <translation type="unfinished">Run and time</translation>
+      <translation>Запуск та час</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
       <source>SceneView</source>
-      <translation type="unfinished">SceneView</translation>
+      <translation>Знімок сценарію</translation>
     </message>
   </context>
   <context>
@@ -275,47 +275,47 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
       <source>Active Corners</source>
-      <translation type="unfinished">Active Corners</translation>
+      <translation>Активні повороти</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
       <source>Top Left</source>
-      <translation type="unfinished">Top Left</translation>
+      <translation>Зверху ліворуч</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="68"/>
       <source>Top Right</source>
-      <translation type="unfinished">Top Right</translation>
+      <translation>Зверху праворуч</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="78"/>
       <source>Bottom Left</source>
-      <translation type="unfinished">Bottom Left</translation>
+      <translation>Внизу зліва</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="104"/>
       <source>Amount</source>
-      <translation type="unfinished">Amount</translation>
+      <translation>Кількість</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
       <source>Annotation Display Level:</source>
-      <translation type="unfinished">Annotation Display Level:</translation>
+      <translation>Рівень показника анотації:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="127"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="134"/>
       <source>3</source>
-      <translation type="unfinished">3</translation>
+      <translation>3</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
