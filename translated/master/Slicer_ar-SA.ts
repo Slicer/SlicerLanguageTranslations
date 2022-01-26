@@ -554,7 +554,7 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
       <source>Storage listener:</source>
-      <translation type="unfinished">Storage listener:</translation>
+      <translation>سماعة التخزين:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
@@ -564,7 +564,7 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
       <source>Start storage listener on startup:</source>
-      <translation type="unfinished">Start storage listener on startup:</translation>
+      <translation>ا بدء سماعة التخزين عند التشغيل</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
@@ -770,7 +770,7 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="108"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="118"/>
       <source>Thickness of the part of the line on top of the slice plane</source>
-      <translation type="unfinished">Thickness of the part of the line on top of the slice plane</translation>
+      <translation>سماكة جزء الخط الموجود أعلى الشريحة</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
