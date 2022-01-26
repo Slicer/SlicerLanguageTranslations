@@ -330,7 +330,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
       <source>Times</source>
-      <translation type="unfinished">Times</translation>
+      <translation>倍数</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
@@ -480,7 +480,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
       <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-      <translation type="unfinished">If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</translation>
+      <translation>如果选中，超过阈值的值将设置为0。如果未选中，低于阈值的值将设置为0。</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
@@ -803,7 +803,7 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="183"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="193"/>
       <source>Display the projected part of the ruler on the top of the slice plane thicker than the part under</source>
-      <translation type="unfinished">Display the projected part of the ruler on the top of the slice plane thicker than the part under</translation>
+      <translation>在切片平面上方加粗显示标尺的投影部分</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
