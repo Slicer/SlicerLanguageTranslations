@@ -775,7 +775,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
       <source>Overline Thickness</source>
-      <translation type="unfinished">Overline Thickness</translation>
+      <translation>سمك التسطير</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="121"/>
@@ -825,12 +825,12 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="209"/>
       <source>Dashed</source>
-      <translation type="unfinished">Dashed</translation>
+      <translation>منقط</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="229"/>
       <source>Use Ruler Color</source>
-      <translation type="unfinished">Use Ruler Color</translation>
+      <translation>استخدم لون المسطرة</translation>
     </message>
   </context>
   <context>
@@ -838,7 +838,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
       <source>Screenshot</source>
-      <translation type="unfinished">Screenshot</translation>
+      <translation>لقطة للشاشة</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
@@ -848,7 +848,8 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
       <source>Scene view</source>
-      <translation type="unfinished">Scene view</translation>
+      <translation>مشهد العرض
+مشهد الحلقة</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
