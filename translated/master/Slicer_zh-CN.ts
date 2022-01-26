@@ -852,7 +852,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
       <source>Restore view</source>
-      <translation type="unfinished">Restore view</translation>
+      <translation>重载数据</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
@@ -885,7 +885,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
       <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-      <translation type="unfinished">When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</translation>
+      <translation>当使用多个切片平面时，此选项控制它&apos;是否是用于裁剪模型的正和/或负空间的并集或交集。选择空间内的模型部分被保留，选择区域外的部分被剪切掉。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
@@ -895,7 +895,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
       <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-      <translation type="unfinished">Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+      <translation>使用由层面平面定义的正和/或负空间的并集来裁剪模型。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
@@ -915,7 +915,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
       <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-      <translation type="unfinished">Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+      <translation>使用红色切片平面定义的正或负空间来裁剪模型。正面朝向上级，负面朝向下级。保持模型的部分在选定的空间，剪辑掉其余的。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
