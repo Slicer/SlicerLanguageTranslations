@@ -538,12 +538,12 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
       <source>Query and retrieve DICOM data sets from remote server</source>
-      <translation type="unfinished">Query and retrieve DICOM data sets from remote server</translation>
+      <translation>Запросить и получить DICOM данные с удаленного сервера</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
       <source>Query and retrieve</source>
-      <translation type="unfinished">Query and retrieve</translation>
+      <translation>Запрос и получение</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
