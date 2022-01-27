@@ -797,34 +797,34 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="163"/>
       <source>Colored When Parallel</source>
-      <translation type="unfinished">Colored When Parallel</translation>
+      <translation>Кольоровий при паралельному розташуванні</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="183"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="193"/>
       <source>Display the projected part of the ruler on the top of the slice plane thicker than the part under</source>
-      <translation type="unfinished">Display the projected part of the ruler on the top of the slice plane thicker than the part under</translation>
+      <translation>Показати проєктовану частину лінійки, що на верхній площині зрізу товща, ніж частина під</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
       <source>Thicker On Top</source>
-      <translation type="unfinished">Thicker On Top</translation>
+      <translation>Товстіше зверху</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="206"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="216"/>
       <source>Display the line dashed when not parallel to the slice plane</source>
-      <translation type="unfinished">Display the line dashed when not parallel to the slice plane</translation>
+      <translation>Показати лінії пунктиром, якщо вони не паралельні площині зрізу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="209"/>
       <source>Dashed</source>
-      <translation type="unfinished">Dashed</translation>
+      <translation>Пунктир</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="229"/>
       <source>Use Ruler Color</source>
-      <translation type="unfinished">Use Ruler Color</translation>
+      <translation>Використовуйте колір лінійки</translation>
     </message>
   </context>
   <context>
@@ -832,42 +832,42 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
       <source>Screenshot</source>
-      <translation type="unfinished">Screenshot</translation>
+      <translation>Знімок екрана</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
       <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</source>
-      <translation type="unfinished">Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
+      <translation>Зробіть знімок екрана повного макета, 3D-виду або у вигляді зрізів. Натисніть Файл, Зберегти, щоб зберегти зображення. Відредагуйте у модулі анотації.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
       <source>Scene view</source>
-      <translation type="unfinished">Scene view</translation>
+      <translation>Вигляд робочого простору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
       <source>Capture and name a scene view.</source>
-      <translation type="unfinished">Capture and name a scene view.</translation>
+      <translation>Створення та присвоєння імені вигляду робочого простору.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
       <source>Restore view</source>
-      <translation type="unfinished">Restore view</translation>
+      <translation>Відновити вигляд</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
       <source>Restore or delete saved scene views.</source>
-      <translation type="unfinished">Restore or delete saved scene views.</translation>
+      <translation>Відновити або видалити збережений вигляд робочого простору.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
       <source>SceneView Name</source>
-      <translation type="unfinished">SceneView Name</translation>
+      <translation>Ім'я вигляду робочого простору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
       <source>SceneView Name:</source>
-      <translation type="unfinished">SceneView Name:</translation>
+      <translation>Ім'я вигляду робочого простору:</translation>
     </message>
   </context>
   <context>
