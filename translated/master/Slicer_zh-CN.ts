@@ -814,12 +814,12 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="206"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="216"/>
       <source>Display the line dashed when not parallel to the slice plane</source>
-      <translation type="unfinished">Display the line dashed when not parallel to the slice plane</translation>
+      <translation>当断面不平行时显示虚线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="209"/>
       <source>Dashed</source>
-      <translation type="unfinished">Dashed</translation>
+      <translation>虚线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="229"/>
@@ -847,7 +847,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
       <source>Capture and name a scene view.</source>
-      <translation type="unfinished">Capture and name a scene view.</translation>
+      <translation>截取并命名这个场景</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
