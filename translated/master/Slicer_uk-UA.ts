@@ -320,32 +320,32 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
       <source>Font Properties</source>
-      <translation type="unfinished">Font Properties</translation>
+      <translation>Параметри шрифту</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
       <source>Font Family: </source>
-      <translation type="unfinished">Font Family: </translation>
+      <translation>Сімейство шрифтів: </translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
       <source>Times</source>
-      <translation type="unfinished">Times</translation>
+      <translation>Times</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
       <source>Arial</source>
-      <translation type="unfinished">Arial</translation>
+      <translation>Arial</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
       <source>Font Size: </source>
-      <translation type="unfinished">Font Size: </translation>
+      <translation>Розмір шрифту: </translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
       <source>DICOM Annotations</source>
-      <translation type="unfinished">DICOM Annotations</translation>
+      <translation>Примітки DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
