@@ -350,62 +350,62 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
       <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-      <translation type="unfinished">Show background volume DICOM annotations if foreground volume is non-DICOM.</translation>
+      <translation>Показувати анотації DICOM для фонового зображення, якщо на передньому плані не є DICOM.</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
       <source>Background DICOM annotations persistence</source>
-      <translation type="unfinished">Background DICOM annotations persistence</translation>
+      <translation>Збереження анотацій DICOM у фоновому режимі</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="260"/>
       <source>Color Scalar Bar</source>
-      <translation type="unfinished">Color Scalar Bar</translation>
+      <translation>Шкала кольорів</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="266"/>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>Увімкнути</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="273"/>
       <source>Layer Selection</source>
-      <translation type="unfinished">Layer Selection</translation>
+      <translation>Вибір рівня</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="279"/>
       <source>Active Layer:</source>
-      <translation type="unfinished">Active Layer:</translation>
+      <translation>Активний рівень:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="286"/>
       <source>Background</source>
-      <translation type="unfinished">Background</translation>
+      <translation>Тло</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="296"/>
       <source>Foreground</source>
-      <translation type="unfinished">Foreground</translation>
+      <translation>Передній план</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="319"/>
       <source>Labels Properties</source>
-      <translation type="unfinished">Labels Properties</translation>
+      <translation>Властивості міток</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="325"/>
       <source>Range Label Format:</source>
-      <translation type="unfinished">Range Label Format:</translation>
+      <translation>Формат для діапазону мітки:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="332"/>
       <source>%G</source>
-      <translation type="unfinished">%G</translation>
+      <translation>%G</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="360"/>
       <source>Restore Defaults</source>
-      <translation type="unfinished">Restore Defaults</translation>
+      <translation>Відновлення стандартних налаштувань</translation>
     </message>
   </context>
   <context>
@@ -413,84 +413,84 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
       <source>Inputs</source>
-      <translation type="unfinished">Inputs</translation>
+      <translation>Вхідні дані</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
       <source>Input volume:</source>
-      <translation type="unfinished">Input volume:</translation>
+      <translation>Вхідне зображення:</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
       <source>Pick the input to the algorithm.</source>
-      <translation type="unfinished">Pick the input to the algorithm.</translation>
+      <translation>Виберіть вхідні дані для алгоритму.</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="33"/>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="96"/>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="127"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
       <source>Image threshold:</source>
-      <translation type="unfinished">Image threshold:</translation>
+      <translation>Поля зображення:</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
       <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-      <translation type="unfinished">Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</translation>
+      <translation>Встановіть крайні значення для розрахунку вихідного зображення. Для вокселів, інтенсивність яких менша від цього значення, встановлюється нульове значення.</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
       <source>Outputs</source>
-      <translation type="unfinished">Outputs</translation>
+      <translation>Вихідні дані</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
       <source>Thresholded volume:</source>
-      <translation type="unfinished">Thresholded volume:</translation>
+      <translation>Зображення з краями:</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
       <source>Pick the output to the algorithm.</source>
-      <translation type="unfinished">Pick the output to the algorithm.</translation>
+      <translation>Виберіть вихідні дані для алгоритму.</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
       <source>Inverted volume:</source>
-      <translation type="unfinished">Inverted volume:</translation>
+      <translation>Перевернуте зображення:</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
       <source>Result with inverted threshold will be written into this volume</source>
-      <translation type="unfinished">Result with inverted threshold will be written into this volume</translation>
+      <translation>Результат з інвертованим краєм буде записаний у це зображення</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
       <source>Invert threshold: </source>
-      <translation type="unfinished">Invert threshold: </translation>
+      <translation>Край інвертування: </translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
       <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-      <translation type="unfinished">If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</translation>
+      <translation>При обраній опції значення вище за поріг встановлюються в 0. Якщо опція не обрана, значення нижче за поріг будуть встановлені в 0.</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
       <source>Run the algorithm.</source>
-      <translation type="unfinished">Run the algorithm.</translation>
+      <translation>Виконати алгоритм.</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>Застосувати</translation>
     </message>
   </context>
   <context>
@@ -498,32 +498,32 @@
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
       <source>My custom UI</source>
-      <translation type="unfinished">My custom UI</translation>
+      <translation>Користувацький інтерфейс</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
       <source>Import files into DICOM database</source>
-      <translation type="unfinished">Import files into DICOM database</translation>
+      <translation>Імпортувати файли до бази даних DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
       <source>    Import DICOM files</source>
-      <translation type="unfinished">    Import DICOM files</translation>
+      <translation>    Імпортувати файли DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
       <source>Show DICOM database browser window</source>
-      <translation type="unfinished">Show DICOM database browser window</translation>
+      <translation>Показати вікно браузера бази даних DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
       <source>    Show DICOM database</source>
-      <translation type="unfinished">    Show DICOM database</translation>
+      <translation>    Показати базу даних DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
       <source>Loaded data</source>
-      <translation type="unfinished">Loaded data</translation>
+      <translation>Завантажені дані</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
