@@ -14232,7 +14232,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
       <source>Replace current node</source>
-      <translation type="unfinished">Replace current node</translation>
+      <translation>替换当前节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="139"/>
@@ -14242,7 +14242,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
@@ -14252,12 +14252,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="131"/>
       <source>Convert to label map:</source>
-      <translation type="unfinished">Convert to label map:</translation>
+      <translation>转换为标签映射：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
       <source>Convert to scalar volume:</source>
-      <translation type="unfinished">Convert to scalar volume:</translation>
+      <translation>转换为标量数据：</translation>
     </message>
   </context>
   <context>
@@ -14266,22 +14266,22 @@ This should only used by advanced users who understand the consequences of chang
       <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
       <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
       <source>Web download</source>
-      <translation type="unfinished">Web download</translation>
+      <translation>网络下载</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="52"/>
       <source>Load data into Slicer or download to separate location.</source>
-      <translation type="unfinished">Load data into Slicer or download to separate location.</translation>
+      <translation>将数据加载到 Slicer 或下载到单独的位置。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="53"/>
       <source>Load...</source>
-      <translation type="unfinished">Load...</translation>
+      <translation>加载中...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="55"/>
       <source>Download the data and open in Slicer</source>
-      <translation type="unfinished">Download the data and open in Slicer</translation>
+      <translation>下载数据并在Slicer中打开</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="56"/>
@@ -14362,7 +14362,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="122"/>
       <source>Customize Slicer</source>
-      <translation type="unfinished">Customize Slicer</translation>
+      <translation>自定义Slicer</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="139"/>
@@ -14372,7 +14372,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="175"/>
       <source>Feedback</source>
-      <translation type="unfinished">Feedback</translation>
+      <translation>用户反馈</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="212"/>
@@ -14397,7 +14397,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="172"/>
       <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-      <translation type="unfinished">Unfortunately, this requested module is not available in this Slicer session.</translation>
+      <translation>很遗憾此请求的模块在此Slicer中不可用。</translation>
     </message>
   </context>
 </TS>
