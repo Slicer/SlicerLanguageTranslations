@@ -325,7 +325,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
       <source>Font Family: </source>
-      <translation type="unfinished">Font Family: </translation>
+      <translation>Betűkészlet: </translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
@@ -340,7 +340,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
       <source>Font Size: </source>
-      <translation type="unfinished">Font Size: </translation>
+      <translation>Betűméret: </translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
@@ -470,7 +470,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Haladó</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
