@@ -786,13 +786,13 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
       <source>Underline Thickness</source>
-      <translation type="unfinished">Underline Thickness</translation>
+      <translation>Товщина підкреслення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="160"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="170"/>
       <source>Color projected line, with slice plane color, when parallel to it</source>
-      <translation type="unfinished">Color projected line, with slice plane color, when parallel to it</translation>
+      <translation>Колір проєктованої лінії, з кольором площини зрізу, коли вона паралельна їй</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="163"/>
