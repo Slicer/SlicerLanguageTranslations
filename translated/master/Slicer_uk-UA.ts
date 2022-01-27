@@ -260,17 +260,17 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
       <source>Slice View Annotations Settings</source>
-      <translation type="unfinished">Slice View Annotations Settings</translation>
+      <translation>Налаштування анотацій у вигляді зрізу</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
       <source>Enable Slice View Annotations</source>
-      <translation type="unfinished">Enable Slice View Annotations</translation>
+      <translation>Увімкнути анотації у вигляді зрізу</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
       <source>Corner Text Annotation</source>
-      <translation type="unfinished">Corner Text Annotation</translation>
+      <translation>Кутовий текст анотації</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
@@ -528,92 +528,92 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
       <source>DICOM networking</source>
-      <translation type="unfinished">DICOM networking</translation>
+      <translation>Мережа DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
       <source>Pull data from remote server:</source>
-      <translation type="unfinished">Pull data from remote server:</translation>
+      <translation>Витягнути дані із віддаленого сервера:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
       <source>Query and retrieve DICOM data sets from remote server</source>
-      <translation type="unfinished">Query and retrieve DICOM data sets from remote server</translation>
+      <translation>Запит і отримання наборів даних DICOM із віддаленого сервера</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
       <source>Query and retrieve</source>
-      <translation type="unfinished">Query and retrieve</translation>
+      <translation>Запит і отримання</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
       <source>Storage listener:</source>
-      <translation type="unfinished">Storage listener:</translation>
+      <translation>Сервер-сховище:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
       <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-      <translation type="unfinished">Enable DICOM listening server to receive images (C-Store SCP)</translation>
+      <translation>Увімкнути DICOM сервер для отримання зображень (C-Store SCP)</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
       <source>Start storage listener on startup:</source>
-      <translation type="unfinished">Start storage listener on startup:</translation>
+      <translation>Запуск сервера-сховища при його включенні:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
       <source>Automatically start listener on application startup</source>
-      <translation type="unfinished">Automatically start listener on application startup</translation>
+      <translation>Автоматичний запуск сервера під час включення програми</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
       <source>DICOM database settings</source>
-      <translation type="unfinished">DICOM database settings</translation>
+      <translation>Налаштування бази даних DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
       <source>Database location:</source>
-      <translation type="unfinished">Database location:</translation>
+      <translation>Розташування бази даних:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
       <source>Auto-hide browser window:</source>
-      <translation type="unfinished">Auto-hide browser window:</translation>
+      <translation>Автоматичне приховування вікна браузера:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
       <source>Maintenance:</source>
-      <translation type="unfinished">Maintenance:</translation>
+      <translation>Технічне обслуговування:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
       <source>Hide DICOM database browser after data loaded</source>
-      <translation type="unfinished">Hide DICOM database browser after data loaded</translation>
+      <translation>Приховати браузер бази даних DICOM після завантаження даних</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
       <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-      <translation type="unfinished">Remove all items from the DICOM database if referenced DICOM file is not found on disk.</translation>
+      <translation>Видалити всі елементи з бази даних DICOM, якщо вказаний файл DICOM не знайдений на диску.</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
       <source>Remove unavailable data sets</source>
-      <translation type="unfinished">Remove unavailable data sets</translation>
+      <translation>Видалити недоступні набори даних</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
       <source>Removes all data from the database and all files that were copied into the database during import.</source>
-      <translation type="unfinished">Removes all data from the database and all files that were copied into the database during import.</translation>
+      <translation>Видаляє всі файли з бази даних та всі файли, які були скопійовані в базу даних під час імпорту.</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
       <source>Remove all data sets</source>
-      <translation type="unfinished">Remove all data sets</translation>
+      <translation>Видалити всі дані</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
       <source>DICOM plugins</source>
-      <translation type="unfinished">DICOM plugins</translation>
+      <translation>Модулі DICOM</translation>
     </message>
   </context>
   <context>
@@ -621,22 +621,22 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="20"/>
       <source>PointName</source>
-      <translation type="unfinished">PointName</translation>
+      <translation>Назва точки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
       <source>Glyph type combo box</source>
-      <translation type="unfinished">Glyph type combo box</translation>
+      <translation>Комбо бокс для вибору типу гліфа</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
   </context>
   <context>
@@ -644,51 +644,51 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLAnnotationFiducialProjectionPropertyWidget</source>
-      <translation type="unfinished">qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
+      <translation>qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="45"/>
       <source>Turn on/off visualization of projected fiducial on 2D viewers</source>
-      <translation type="unfinished">Turn on/off visualization of projected fiducial on 2D viewers</translation>
+      <translation>Увімкнення/вимкнення візуалізації проєктованого поділу на 2D програвачах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="38"/>
       <source>2D Projection</source>
-      <translation type="unfinished">2D Projection</translation>
+      <translation>2D Проєкція</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
       <source>Color of the projected fiducial on 2D viewers</source>
-      <translation type="unfinished">Color of the projected fiducial on 2D viewers</translation>
+      <translation>Колір проєктованого поділу на 2D програвачах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
       <source>Projection Color</source>
-      <translation type="unfinished">Projection Color</translation>
+      <translation>Колір проєкції</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="109"/>
       <source>Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</source>
-      <translation type="unfinished">Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</translation>
+      <translation>Проєкція мітки зображається заповненою, коли знаходиться поверх площини зрізу, окреслена, коли позаду, і з повною непрозорістю, коли знаходиться в площині</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
       <source>Outlined Behind Slice Plane</source>
-      <translation type="unfinished">Outlined Behind Slice Plane</translation>
+      <translation>Окреслений за площиною зрізу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="132"/>
       <source>Use the same color as fiducial</source>
-      <translation type="unfinished">Use the same color as fiducial</translation>
+      <translation>Використовувати той самий колір, що і на мітці</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="125"/>
       <source>Use Fiducial Color</source>
-      <translation type="unfinished">Use Fiducial Color</translation>
+      <translation>Використовувати колір мітки</translation>
     </message>
   </context>
   <context>
@@ -696,39 +696,39 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="20"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="31"/>
       <source>L-R Range:</source>
-      <translation type="unfinished">L-R Range:</translation>
+      <translation>Діапазон L-R:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="672"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1319"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1965"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>довжина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="679"/>
       <source>P-A Range:</source>
-      <translation type="unfinished">P-A Range:</translation>
+      <translation>Діапазон P-A:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1326"/>
       <source>I-S Range:</source>
-      <translation type="unfinished">I-S Range:</translation>
+      <translation>Діапазон I-S:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2004"/>
       <source>Display Clipping box</source>
-      <translation type="unfinished">Display Clipping box</translation>
+      <translation>Показати вікно обрізання</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2027"/>
       <source>Interactive Mode</source>
-      <translation type="unfinished">Interactive Mode</translation>
+      <translation>Інтерактивний режим</translation>
     </message>
   </context>
   <context>
@@ -736,52 +736,52 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLAnnotationRulerProjectionPropertyWidget</source>
-      <translation type="unfinished">qMRMLAnnotationRulerProjectionPropertyWidget</translation>
+      <translation>qMRMLAnnotationRulerProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="48"/>
       <source>Turn on/off visualization of projected line on 2D viewers</source>
-      <translation type="unfinished">Turn on/off visualization of projected line on 2D viewers</translation>
+      <translation>Увімкнення/вимкнення візуалізації лінії, що проєктується на 2D-переглядачах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
       <source>2D Projection</source>
-      <translation type="unfinished">2D Projection</translation>
+      <translation>2D Проєкція</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
       <source>Color of the projected line on 2D viewers</source>
-      <translation type="unfinished">Color of the projected line on 2D viewers</translation>
+      <translation>Колір лінії, що проєктується на 2D переглядачах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
       <source>Projection Color</source>
-      <translation type="unfinished">Projection Color</translation>
+      <translation>Колір проєкції</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="108"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="118"/>
       <source>Thickness of the part of the line on top of the slice plane</source>
-      <translation type="unfinished">Thickness of the part of the line on top of the slice plane</translation>
+      <translation>Товщина частини лінії поверх площини зрізу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
       <source>Overline Thickness</source>
-      <translation type="unfinished">Overline Thickness</translation>
+      <translation>Товщина надкреслення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="121"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="147"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> пікс.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="134"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="144"/>
       <source>Thickness of the part of the line under the slice plane</source>
-      <translation type="unfinished">Thickness of the part of the line under the slice plane</translation>
+      <translation>Товщина частини лінії під площиною зрізу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
