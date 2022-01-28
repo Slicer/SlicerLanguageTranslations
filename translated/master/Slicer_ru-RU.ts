@@ -736,79 +736,79 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLAnnotationRulerProjectionPropertyWidget</source>
-      <translation type="unfinished">qMRMLAnnotationRulerProjectionPropertyWidget</translation>
+      <translation>qMRMLAnnotationRulerProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="48"/>
       <source>Turn on/off visualization of projected line on 2D viewers</source>
-      <translation type="unfinished">Turn on/off visualization of projected line on 2D viewers</translation>
+      <translation>Вкл/выкл отображение проецированной линии в 2D просмотрщиках</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
       <source>2D Projection</source>
-      <translation type="unfinished">2D Projection</translation>
+      <translation>2D Проекция</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
       <source>Color of the projected line on 2D viewers</source>
-      <translation type="unfinished">Color of the projected line on 2D viewers</translation>
+      <translation>Цвет проецируемой линии в 2D просмотрщиках</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
       <source>Projection Color</source>
-      <translation type="unfinished">Projection Color</translation>
+      <translation>Цвет Проекции</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="108"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="118"/>
       <source>Thickness of the part of the line on top of the slice plane</source>
-      <translation type="unfinished">Thickness of the part of the line on top of the slice plane</translation>
+      <translation>Толщина части линии поверх плоскости среза</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
       <source>Overline Thickness</source>
-      <translation type="unfinished">Overline Thickness</translation>
+      <translation>Толщина Линии Поверх Среза</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="121"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="147"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> пикс.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="134"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="144"/>
       <source>Thickness of the part of the line under the slice plane</source>
-      <translation type="unfinished">Thickness of the part of the line under the slice plane</translation>
+      <translation>Толщина части линии под плоскостью среза</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
       <source>Underline Thickness</source>
-      <translation type="unfinished">Underline Thickness</translation>
+      <translation>Толщина Линии За Срезом</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="160"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="170"/>
       <source>Color projected line, with slice plane color, when parallel to it</source>
-      <translation type="unfinished">Color projected line, with slice plane color, when parallel to it</translation>
+      <translation>Окрасить проецируемую линию цветом плоскости среза, если проекция параллельна срезу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="163"/>
       <source>Colored When Parallel</source>
-      <translation type="unfinished">Colored When Parallel</translation>
+      <translation>Окрасить, Когда Параллельна</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="183"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="193"/>
       <source>Display the projected part of the ruler on the top of the slice plane thicker than the part under</source>
-      <translation type="unfinished">Display the projected part of the ruler on the top of the slice plane thicker than the part under</translation>
+      <translation>Отображение проецируемой части линейки поверх плоскости среза с большой толщиной, чем под плоскоскостью среза</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
       <source>Thicker On Top</source>
-      <translation type="unfinished">Thicker On Top</translation>
+      <translation>Толще поверх</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="206"/>
@@ -1079,7 +1079,7 @@
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="233"/>
       <source>Horizontal position of the color legend</source>
-      <translation type="unfinished">Horizontal position of the color legend</translation>
+      <translation>Горизонтальное положение цветовой шкалы</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
@@ -1105,32 +1105,32 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
       <source>Short side length of the color legend, as percentage of view size</source>
-      <translation type="unfinished">Short side length of the color legend, as percentage of view size</translation>
+      <translation>Меньший размер цветовой шкалы, как процент размера области просмотра (от 0 до 100)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
       <source>S:</source>
-      <translation type="unfinished">S:</translation>
+      <translation>К:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
       <source>Short side length of the color legend, as fraction of view size</source>
-      <translation type="unfinished">Short side length of the color legend, as fraction of view size</translation>
+      <translation>Меньший размер цветовой шкалы, как доля размера области просмотра (от 0 до 1)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
       <source>Long side length of the color legend, as percentage of view size</source>
-      <translation type="unfinished">Long side length of the color legend, as percentage of view size</translation>
+      <translation>Больший размер цветовой шкалы, как процент размера области просмотра (от 0 до 100)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
       <source>L:</source>
-      <translation type="unfinished">L:</translation>
+      <translation>Д:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
       <source>Long side length of the color legend, as fraction of view size</source>
-      <translation type="unfinished">Long side length of the color legend, as fraction of view size</translation>
+      <translation>Больший размер цветовой шкалы, как доля размера области просмотра (от 0 до 1)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -1145,7 +1145,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="380"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>Формат:</translation>
     </message>
   </context>
   <context>
@@ -1153,7 +1153,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
       <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;Поле "Формат" использует синтаксис функции printf. Примеры форматов:&lt;br&gt;    - отображение с 1-ой дробной цифрой: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - целое число: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - отображение с 4 значащими цифрами: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - Аннотация строки с меткой: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -1161,7 +1161,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Отсутствует</translation>
     </message>
   </context>
   <context>
@@ -1169,12 +1169,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="14"/>
       <source>Color Picker</source>
-      <translation type="unfinished">Color Picker</translation>
+      <translation>Выбор цвета</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="20"/>
       <source>Color node:</source>
-      <translation type="unfinished">Color node:</translation>
+      <translation>Цветовой узел:</translation>
     </message>
   </context>
   <context>
@@ -1182,27 +1182,27 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
       <source>Display Node</source>
-      <translation type="unfinished">Display Node</translation>
+      <translation>Узел Отображения</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
       <source>Visibility</source>
-      <translation type="unfinished">Visibility</translation>
+      <translation>Видимость</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
       <source>&amp;Visible:</source>
-      <translation type="unfinished">&amp;Visible:</translation>
+      <translation>&amp;Видимый:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
       <source>&amp;Selected:</source>
-      <translation type="unfinished">&amp;Selected:</translation>
+      <translation>Выбранные:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
       <source>&amp;Clip:</source>
-      <translation type="unfinished">&amp;Clip:</translation>
+      <translation>&amp;Обрезание:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
