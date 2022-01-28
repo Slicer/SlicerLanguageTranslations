@@ -1212,12 +1212,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
       <source>Slice Intersections &amp;Thickness:</source>
-      <translation type="unfinished">Slice Intersections &amp;Thickness:</translation>
+      <translation>&amp;Толщина Линии Пересечения Слоёв:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> пикс.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="132"/>
@@ -1227,7 +1227,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="161"/>
       <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-      <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+      <translation>Выберите виды (просмотрщики) для отображения этого узла. Если не выбран ни один - отобразить во всех 3D и 2D видах (просмотрщиках).</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="168"/>
@@ -1245,7 +1245,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLEventLoggerWidget.ui" line="14"/>
       <source>MRML Event logger</source>
-      <translation type="unfinished">MRML Event logger</translation>
+      <translation>MRML журнал событий</translation>
     </message>
   </context>
   <context>
@@ -1253,17 +1253,17 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
       <source>Angle Settings</source>
-      <translation type="unfinished">Angle Settings</translation>
+      <translation>Настройки угла</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="50"/>
       <source>Measurement mode:</source>
-      <translation type="unfinished">Measurement mode:</translation>
+      <translation>Режим измерения:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
