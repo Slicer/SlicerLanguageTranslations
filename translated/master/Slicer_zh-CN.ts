@@ -13584,27 +13584,27 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>应用</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="127"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>复制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="133"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>粘贴</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>转换失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
       <source>Failed to convert transform. See application log for details.</source>
-      <translation type="unfinished">Failed to convert transform. See application log for details.</translation>
+      <translation>转换失败，详情请查看应用程序日志。</translation>
     </message>
   </context>
   <context>
@@ -13612,7 +13612,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
       <source>Units Settings</source>
-      <translation type="unfinished">Units Settings</translation>
+      <translation>单位设置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="26"/>
@@ -13631,13 +13631,13 @@ p, li { white-space: pre-wrap; }
       <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
       <source>Show all the units&apos; properties.
 This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</source>
-      <translation type="unfinished">Show all the units&apos; properties.
-This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</translation>
+      <translation>显示所有单位&apos; 属性。
+这只能由了解改变单位&apos;s 属性后果的高级用户使用。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
       <source>Show advanced options</source>
-      <translation type="unfinished">Show advanced options</translation>
+      <translation>显示高级选项</translation>
     </message>
   </context>
   <context>
@@ -13650,47 +13650,47 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
       <source>Slice Controllers</source>
-      <translation type="unfinished">Slice Controllers</translation>
+      <translation>切片控制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="28"/>
       <source>3D View Controllers</source>
-      <translation type="unfinished">3D View Controllers</translation>
+      <translation>3D 视图控制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
       <source>Plot View Controllers</source>
-      <translation type="unfinished">Plot View Controllers</translation>
+      <translation>绘图视窗控制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="47"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高级</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
       <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-      <translation type="unfinished">Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</translation>
+      <translation>从当前场景中选择视图，每个元素对应一个特定的小部件。查看节点与3D渲染部件连接，绘图视图使用绘图小部件。切片(Red, Green, Yellow) 使用 2D 渲染小部件。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="67"/>
       <source>vtkMRMLSliceNode</source>
-      <translation type="unfinished">vtkMRMLSliceNode</translation>
+      <translation>vtkMRMLSliceNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="67"/>
       <source>vtkMRMLViewNode</source>
-      <translation type="unfinished">vtkMRMLViewNode</translation>
+      <translation>vtkMRMLViewNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="67"/>
       <source>vtkMRMLPlotViewNode</source>
-      <translation type="unfinished">vtkMRMLPlotViewNode</translation>
+      <translation>vtkMRMLPlotViewNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
       <source>View Node:</source>
-      <translation type="unfinished">View Node:</translation>
+      <translation>查看节点：</translation>
     </message>
   </context>
   <context>
@@ -13798,12 +13798,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="150"/>
       <source>Thick crosshair</source>
-      <translation type="unfinished">Thick crosshair</translation>
+      <translation>粗十字线</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
       <source>Thick crosshair.</source>
-      <translation type="unfinished">Thick crosshair.</translation>
+      <translation>粗十字线。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="171"/>
@@ -13818,12 +13818,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="179"/>
       <source>Interaction</source>
-      <translation type="unfinished">Interaction</translation>
+      <translation>交互</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="180"/>
       <source>Show handles for slice interaction.</source>
-      <translation type="unfinished">Show handles for slice interaction.</translation>
+      <translation>显示切片交互的控键。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="189"/>
@@ -13838,7 +13838,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="196"/>
       <source>Rotate</source>
-      <translation type="unfinished">Rotate</translation>
+      <translation>旋转</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
@@ -13869,7 +13869,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
       <source>Volume Rendering</source>
-      <translation type="unfinished">Volume Rendering</translation>
+      <translation>容积渲染</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
@@ -13949,7 +13949,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="222"/>
       <source>Display ROI</source>
-      <translation type="unfinished">Display ROI</translation>
+      <translation>显示 ROI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="243"/>
@@ -13964,17 +13964,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="276"/>
       <source>Advanced...</source>
-      <translation type="unfinished">Advanced...</translation>
+      <translation>高级...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="304"/>
       <source>Techniques</source>
-      <translation type="unfinished">Techniques</translation>
+      <translation>技术</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="310"/>
       <source>GPU memory size:</source>
-      <translation type="unfinished">GPU memory size:</translation>
+      <translation>GPU内存大小：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="317"/>
@@ -13984,7 +13984,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="327"/>
       <source>Quality:</source>
-      <translation type="unfinished">Quality:</translation>
+      <translation>质量:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="341"/>
@@ -14042,7 +14042,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="14"/>
       <source>Volume Rendering Presets</source>
-      <translation type="unfinished">Volume Rendering Presets</translation>
+      <translation>容积渲染预设</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
@@ -14063,7 +14063,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="73"/>
       <source>%1</source>
-      <translation type="unfinished">%1</translation>
+      <translation>%1</translation>
     </message>
   </context>
   <context>
@@ -14071,12 +14071,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="14"/>
       <source>Volume Rendering Settings</source>
-      <translation type="unfinished">Volume Rendering Settings</translation>
+      <translation>容积渲染设置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="23"/>
       <source>Default rendering method:</source>
-      <translation type="unfinished">Default rendering method:</translation>
+      <translation>默认渲染方式:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="30"/>
