@@ -11,22 +11,22 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
       <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-      <translation type="unfinished">AnnotationText (vtkMRMLAnnotationTextNode1)</translation>
+      <translation>AnnotationText (vtkMRMLAnnotationTextNode1)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
       <source>Toggle visibility</source>
-      <translation type="unfinished">Toggle visibility</translation>
+      <translation>Attiva/Disattiva visibilità</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
       <source>Toggle un-/locked</source>
-      <translation type="unfinished">Toggle un-/locked</translation>
+      <translation>Attiva/disattiva bloccato/sbloccato</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
       <source>Properties</source>
-      <translation type="unfinished">Properties</translation>
+      <translation>Proprietà</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="127"/>
@@ -34,7 +34,7 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="275"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="372"/>
       <source>Unselected Color</source>
-      <translation type="unfinished">Unselected Color</translation>
+      <translation>Colore Non Selezionato</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="134"/>
@@ -42,7 +42,7 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="282"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="419"/>
       <source>Selected Color</source>
-      <translation type="unfinished">Selected Color</translation>
+      <translation>Colore Selezionato</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="158"/>
@@ -50,22 +50,22 @@
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="356"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="475"/>
       <source>Material</source>
-      <translation type="unfinished">Material</translation>
+      <translation>Materiale</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>
       <source>Points</source>
-      <translation type="unfinished">Points</translation>
+      <translation>Punti</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="194"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Dimensioni:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="201"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Tipo:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
@@ -75,62 +75,62 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>Testo</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="295"/>
       <source>Text Scale:</source>
-      <translation type="unfinished">Text Scale:</translation>
+      <translation>Scala Testuale:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>Opacità:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
       <source>Lines</source>
-      <translation type="unfinished">Lines</translation>
+      <translation>Righe</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
       <source>Width:</source>
-      <translation type="unfinished">Width:</translation>
+      <translation>Larghezza:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
       <source>Label Visibility</source>
-      <translation type="unfinished">Label Visibility</translation>
+      <translation>Visibilità dell'Etichetta</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
       <source>Distance in mm between major ticks</source>
-      <translation type="unfinished">Distance in mm between major ticks</translation>
+      <translation>Distanza in mm tra tick principali</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
       <source>Tick Spacing:</source>
-      <translation type="unfinished">Tick Spacing:</translation>
+      <translation>Spaziatura dei Tick:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
       <source>Label Position:</source>
-      <translation type="unfinished">Label Position:</translation>
+      <translation>Posizione dell'Etichetta:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
       <source>Position the label along the line</source>
-      <translation type="unfinished">Position the label along the line</translation>
+      <translation>Posiziona l'etichetta lungo la riga</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
       <source>Max # of Ticks:</source>
-      <translation type="unfinished">Max # of Ticks:</translation>
+      <translation>Max. # di Tick:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>ROI</translation>
     </message>
   </context>
   <context>
@@ -138,12 +138,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Modulo</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
       <source>vtkMRMLCameraNode</source>
-      <translation type="unfinished">vtkMRMLCameraNode</translation>
+      <translation>vtkMRMLCameraNode</translation>
     </message>
   </context>
   <context>
@@ -151,12 +151,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
       <source>Markups</source>
-      <translation type="unfinished">Markups</translation>
+      <translation>Markup</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
       <source>Sequence browser</source>
-      <translation type="unfinished">Sequence browser</translation>
+      <translation>Navigatore della sequenza</translation>
     </message>
   </context>
   <context>
@@ -177,72 +177,72 @@
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
       <source>Scene Performance</source>
-      <translation type="unfinished">Scene Performance</translation>
+      <translation>Prestazioni della Scena</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>Azione</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="35"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>File</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
       <source>Add Data (or Scene)</source>
-      <translation type="unfinished">Add Data (or Scene)</translation>
+      <translation>Aggiungi Dati (o Scena)</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="51"/>
       <source>Restore scene</source>
-      <translation type="unfinished">Restore scene</translation>
+      <translation>Ripristina la scena</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="56"/>
       <source>Close Scene</source>
-      <translation type="unfinished">Close Scene</translation>
+      <translation>Chiudi la Scena</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
       <source>Switch to Layout</source>
-      <translation type="unfinished">Switch to Layout</translation>
+      <translation>Passa al Layout</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
       <source>Add (copy of current) node</source>
-      <translation type="unfinished">Add (copy of current) node</translation>
+      <translation>Aggiungi (copia del corrente) nodo</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="71"/>
       <source>Modify (current) node</source>
-      <translation type="unfinished">Modify (current) node</translation>
+      <translation>Modifica il nodo (corrente)</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="79"/>
       <source>URL</source>
-      <translation type="unfinished">URL</translation>
+      <translation>URL</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="86"/>
       <source>Results</source>
-      <translation type="unfinished">Results</translation>
+      <translation>Risultati</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>Layout</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
       <source>file name:</source>
-      <translation type="unfinished">file name:</translation>
+      <translation>nome del file:</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
       <source>Node</source>
-      <translation type="unfinished">Node</translation>
+      <translation>Nodo</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
@@ -252,7 +252,7 @@
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
       <source>SceneView</source>
-      <translation type="unfinished">SceneView</translation>
+      <translation>SceneView</translation>
     </message>
   </context>
   <context>
@@ -275,7 +275,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
       <source>Active Corners</source>
-      <translation type="unfinished">Active Corners</translation>
+      <translation>Angoli Attivi</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
