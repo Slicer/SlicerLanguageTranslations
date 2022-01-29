@@ -569,7 +569,7 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
       <source>Automatically start listener on application startup</source>
-      <translation type="unfinished">Automatically start listener on application startup</translation>
+      <translation>بدء تشغيل المستمع تلقائياً عند بدء تشغيل التطبيق</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
@@ -584,7 +584,7 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
       <source>Auto-hide browser window:</source>
-      <translation type="unfinished">Auto-hide browser window:</translation>
+      <translation>إخفاء تلقائي لنافذة المستعرض:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
@@ -594,27 +594,27 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
       <source>Hide DICOM database browser after data loaded</source>
-      <translation type="unfinished">Hide DICOM database browser after data loaded</translation>
+      <translation>إخفاء متصفح قاعدة البيانات DICOM بعد تحميل البيانات</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
       <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-      <translation type="unfinished">Remove all items from the DICOM database if referenced DICOM file is not found on disk.</translation>
+      <translation>إزالة جميع العناصر من قاعدة بيانات DICOM إذا لم يتم العثور على ملف DICOM المشار إليه في القرص.</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
       <source>Remove unavailable data sets</source>
-      <translation type="unfinished">Remove unavailable data sets</translation>
+      <translation>إزالة مجموعات البيانات غير المتوفرة</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
       <source>Removes all data from the database and all files that were copied into the database during import.</source>
-      <translation type="unfinished">Removes all data from the database and all files that were copied into the database during import.</translation>
+      <translation>إزالة جميع البيانات من قاعدة البيانات وجميع الملفات التي تم نسخها إلى قاعدة البيانات أثناء الاستيراد.</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
       <source>Remove all data sets</source>
-      <translation type="unfinished">Remove all data sets</translation>
+      <translation>حذف كل البيانات</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
@@ -672,7 +672,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
       <source>Projection Color</source>
-      <translation type="unfinished">Projection Color</translation>
+      <translation>لون الإسقاط</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
@@ -10287,42 +10287,42 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="134"/>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
       <source>Modules history</source>
-      <translation type="unfinished">Modules history</translation>
+      <translation>تاريخ الوحدات</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="136"/>
       <source>History</source>
-      <translation type="unfinished">History</translation>
+      <translation>السّجل</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="146"/>
       <source>Modules Previous History</source>
-      <translation type="unfinished">Modules Previous History</translation>
+      <translation>الوحدات النمطية السابقة</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="149"/>
       <source>Previous</source>
-      <translation type="unfinished">Previous</translation>
+      <translation>السابق</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="150"/>
       <source>Previous modules</source>
-      <translation type="unfinished">Previous modules</translation>
+      <translation>وحدات سابقة</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="163"/>
       <source>Modules Next History</source>
-      <translation type="unfinished">Modules Next History</translation>
+      <translation>وحدات التاريخ المقبل</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>التالي</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
       <source>Next modules</source>
-      <translation type="unfinished">Next modules</translation>
+      <translation>الوحدات التالية</translation>
     </message>
   </context>
   <context>
@@ -10330,12 +10330,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
       <source>Translate/rotate view, adjust displayed objects</source>
-      <translation type="unfinished">Translate/rotate view, adjust displayed objects</translation>
+      <translation>ترجمة/تدوير طريقة العرض ، ضبط العناصر المعروضة</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>عرض</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
@@ -12212,27 +12212,27 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="771"/>
       <source>Move to the left</source>
-      <translation type="unfinished">Move to the left</translation>
+      <translation>انتقل إلى اليسار</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="774"/>
       <source>Move Left</source>
-      <translation type="unfinished">Move Left</translation>
+      <translation>تحرك يسارا</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="781"/>
       <source>Move to the right</source>
-      <translation type="unfinished">Move to the right</translation>
+      <translation>انتقل إلى اليمين</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="784"/>
       <source>Move Right</source>
-      <translation type="unfinished">Move Right</translation>
+      <translation>تحرك يمينا</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="315"/>
       <source>Select folder</source>
-      <translation type="unfinished">Select folder</translation>
+      <translation>تحديد مجلد</translation>
     </message>
   </context>
   <context>
@@ -12240,7 +12240,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="14"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>لغة البرمجة "بايثون"</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
@@ -12250,7 +12250,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
       <source>Display in dockable window:</source>
-      <translation type="unfinished">Display in dockable window:</translation>
+      <translation>العرض في نافذة قابلة للإرساء:</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
@@ -13169,7 +13169,7 @@ p, li { white-space: pre-wrap; }
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
       <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="119"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>نسخ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="116"/>
@@ -13181,43 +13181,43 @@ p, li { white-space: pre-wrap; }
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="282"/>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="296"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="127"/>
       <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="126"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>لصق</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="174"/>
       <source>Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</source>
-      <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</translation>
+      <translation>إنشاء أرض تفاعلية استنادًا إلى اختيار المستخدم من أعمدة الجدول. سيتم استخدام العمود الأول (من اليسار إلى اليمين) كمحور X وسيتم رسم كل عمود إضافي في نفس الرسم البياني كمحور Y.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
       <source>Add column</source>
-      <translation type="unfinished">Add column</translation>
+      <translation>إضافة عمود</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="218"/>
       <source>Delete column</source>
-      <translation type="unfinished">Delete column</translation>
+      <translation>حذف عمود</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="232"/>
       <source>Lock first column</source>
-      <translation type="unfinished">Lock first column</translation>
+      <translation>قفل العمود الأول</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="265"/>
       <source>Add row</source>
-      <translation type="unfinished">Add row</translation>
+      <translation>اضف سطر</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="279"/>
       <source>Delete row</source>
-      <translation type="unfinished">Delete row</translation>
+      <translation>احذف صف</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="293"/>
@@ -14039,12 +14039,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="461"/>
       <source>Ignore threshold</source>
-      <translation type="unfinished">Ignore threshold</translation>
+      <translation>تجاهل العتبة</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="488"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>منطقة الاهتمام</translation>
     </message>
   </context>
   <context>
@@ -14057,7 +14057,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
       <source>Preset:</source>
-      <translation type="unfinished">Preset:</translation>
+      <translation>الحالي:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
