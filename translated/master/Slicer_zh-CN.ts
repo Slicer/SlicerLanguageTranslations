@@ -1401,7 +1401,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="282"/>
       <source>Output node: </source>
-      <translation type="unfinished">Output node: </translation>
+      <translation>输出节点： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="289"/>
