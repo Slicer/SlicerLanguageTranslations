@@ -498,37 +498,37 @@
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
       <source>My custom UI</source>
-      <translation type="unfinished">My custom UI</translation>
+      <translation>La mia UI personalizzata</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
       <source>Import files into DICOM database</source>
-      <translation type="unfinished">Import files into DICOM database</translation>
+      <translation>Importa file nel database DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
       <source>    Import DICOM files</source>
-      <translation type="unfinished">    Import DICOM files</translation>
+      <translation>    Importa i file DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
       <source>Show DICOM database browser window</source>
-      <translation type="unfinished">Show DICOM database browser window</translation>
+      <translation>Mostra la finestra di navigazione del database DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
       <source>    Show DICOM database</source>
-      <translation type="unfinished">    Show DICOM database</translation>
+      <translation>    Mostra il database DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
       <source>Loaded data</source>
-      <translation type="unfinished">Loaded data</translation>
+      <translation>Dati caricati</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
       <source>DICOM networking</source>
-      <translation type="unfinished">DICOM networking</translation>
+      <translation>Rete di DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
@@ -538,17 +538,17 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
       <source>Query and retrieve DICOM data sets from remote server</source>
-      <translation type="unfinished">Query and retrieve DICOM data sets from remote server</translation>
+      <translation>Richiedi e recupera i datiset DICOM dal server remoto</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
       <source>Query and retrieve</source>
-      <translation type="unfinished">Query and retrieve</translation>
+      <translation>Richiedi e recupera</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
       <source>Storage listener:</source>
-      <translation type="unfinished">Storage listener:</translation>
+      <translation>Ascoltatore d'archiviazione:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
@@ -573,17 +573,17 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
       <source>Database location:</source>
-      <translation type="unfinished">Database location:</translation>
+      <translation>Posizione del database:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
       <source>Auto-hide browser window:</source>
-      <translation type="unfinished">Auto-hide browser window:</translation>
+      <translation>Nascondi automaticamente la finestra di navigazione:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
       <source>Maintenance:</source>
-      <translation type="unfinished">Maintenance:</translation>
+      <translation>Manutenzione:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
@@ -608,12 +608,12 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
       <source>Remove all data sets</source>
-      <translation type="unfinished">Remove all data sets</translation>
+      <translation>Rimuovi tutti i dataset</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
       <source>DICOM plugins</source>
-      <translation type="unfinished">DICOM plugins</translation>
+      <translation>Plugin DICOM</translation>
     </message>
   </context>
   <context>
@@ -621,12 +621,12 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Modulo</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="20"/>
       <source>PointName</source>
-      <translation type="unfinished">PointName</translation>
+      <translation>PointName</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
@@ -636,7 +636,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
   </context>
   <context>
@@ -644,7 +644,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLAnnotationFiducialProjectionPropertyWidget</source>
-      <translation type="unfinished">qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
+      <translation>qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
