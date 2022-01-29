@@ -1347,111 +1347,111 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Функция, используемая для вычисления скалярных весов для определения пути. К скаляру текущей активной точки можно получить доступ используя имя переменной &amp;quot;активныйCкаляр&amp;quot;. Все остальные скалары могут быть доступны как переменные при условии, что они не содержат недопустимые символы (&amp;quot;./* и др.).&lt;/p&gt;&lt;p&gt; Примеры функций: &amp;quot;активныйCкаляр*активныйCкаляр&amp;quot;, &amp;quot;exp(активныйCкаляр)&amp;quot;, &amp;quot;1.0-активныйCкаляр &amp;quot;, &amp;quot;cкалярА*скалярБ&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"/>
       <source>activeScalar</source>
-      <translation type="unfinished">activeScalar</translation>
+      <translation>активныйCкаляр</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="180"/>
       <source>)^2</source>
-      <translation type="unfinished">)^2</translation>
+      <translation>)^2</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="196"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="374"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Расширенный режим</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="211"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="389"/>
       <source>Maximum projection distance:</source>
-      <translation type="unfinished">Maximum projection distance:</translation>
+      <translation>Максимальное расстояние проекции:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="218"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="396"/>
       <source>Select the maximum projection distance as percentage of bounding box size.</source>
-      <translation type="unfinished">Select the maximum projection distance as percentage of bounding box size.</translation>
+      <translation>Выберите максимальное расстояние проекции в процентах от размера границы.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="233"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="411"/>
       <source> %</source>
-      <translation type="unfinished"> %</translation>
+      <translation> %</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
       <source>Resample a curve and optionally constrain the points to a node</source>
-      <translation type="unfinished">Resample a curve and optionally constrain the points to a node</translation>
+      <translation>Обработать кривую и, по возможности, ограничить точки одним узлом</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
       <source>Resample</source>
-      <translation type="unfinished">Resample</translation>
+      <translation>Переразбить</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
       <source>Fiducials will be constrained to the surface if a node is selected</source>
-      <translation type="unfinished">Fiducials will be constrained to the surface if a node is selected</translation>
+      <translation>Точки (метки) будут ограниченны поверхностью, если выбран узел</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="282"/>
       <source>Output node: </source>
-      <translation type="unfinished">Output node: </translation>
+      <translation>Выходной узел: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="289"/>
       <source>Select the number of points on the resampled curve. </source>
-      <translation type="unfinished">Select the number of points on the resampled curve. </translation>
+      <translation>Выберите количество точек на переразбитой кривой. </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="292"/>
       <source>Number of resampled points: </source>
-      <translation type="unfinished">Number of resampled points: </translation>
+      <translation>Количество переразбитых точек: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="302"/>
       <source>The active curve will be resamples with the number of points specified.</source>
-      <translation type="unfinished">The active curve will be resamples with the number of points specified.</translation>
+      <translation>Активная кривая будет переразбита на количество указанных точек.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="324"/>
       <source>Select a node to store the resampled curve </source>
-      <translation type="unfinished">Select a node to store the resampled curve </translation>
+      <translation>Выберите узел для сохранения переразбитой кривой </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="327"/>
       <source>vtkMRMLMarkupsCurveNode</source>
-      <translation type="unfinished">vtkMRMLMarkupsCurveNode</translation>
+      <translation>vtkMRMLMarkupsCurveNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="347"/>
       <source>(Overwrite current node)</source>
-      <translation type="unfinished">(Overwrite current node)</translation>
+      <translation>(Перезаписать текущий узел)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="354"/>
       <source>Resamples the active curve with the number of fiducials spcified. Can be constrained to a node surface.</source>
-      <translation type="unfinished">Resamples the active curve with the number of fiducials spcified. Can be constrained to a node surface.</translation>
+      <translation>Переразбить активную кривую с использованием количества указанных точек (меток). Может быть ограниченно поверхностью узла.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="357"/>
       <source>Resample curve</source>
-      <translation type="unfinished">Resample curve</translation>
+      <translation>Переразбить кривую</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="364"/>
       <source>Optionally select a node to constrain placement of resampled curve points. </source>
-      <translation type="unfinished">Optionally select a node to constrain placement of resampled curve points. </translation>
+      <translation>При необходимости выберите узел для ограничения расположения переразбитых точек кривой. </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="367"/>
       <source>Constrain points to surface: </source>
-      <translation type="unfinished">Constrain points to surface: </translation>
+      <translation>Ограничить точки поверхностью: </translation>
     </message>
   </context>
   <context>
@@ -1459,12 +1459,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
       <source>Markups Display Node</source>
-      <translation type="unfinished">Markups Display Node</translation>
+      <translation>Узел Отображения Точек (Меток)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
       <source>Overall visibility of the selected node in all views</source>
-      <translation type="unfinished">Overall visibility of the selected node in all views</translation>
+      <translation>Общая видимость выделенного узла во всех просмотрщиках</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="44"/>
@@ -1477,41 +1477,41 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>Видимость:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
       <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-      <translation type="unfinished">If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</translation>
+      <translation>Если нажата кнопка, то размер глифа контрольной точки указывается в единице физической длины, в противном случае в процентах от размера окна</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="354"/>
       <source>absolute</source>
-      <translation type="unfinished">absolute</translation>
+      <translation>абсолютный</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="91"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="376"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="566"/>
       <source> %</source>
-      <translation type="unfinished"> %</translation>
+      <translation> %</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="107"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="392"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>длина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Расширенный режим</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
       <source>Text Display</source>
-      <translation type="unfinished">Text Display</translation>
+      <translation>Отображение Текста</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="148"/>
@@ -1541,12 +1541,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
       <source>Background:</source>
-      <translation type="unfinished">Background:</translation>
+      <translation>Задний план:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
       <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-      <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+      <translation>Выберите виды (просмотрщики) для отображения этого узла. Если не выбран ни один - отобразить во всех 3D и 2D видах (просмотрщиках).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
@@ -1556,17 +1556,17 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
       <source>2D Display</source>
-      <translation type="unfinished">2D Display</translation>
+      <translation>2D Просмотрщик</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
       <source>Fill:</source>
-      <translation type="unfinished">Fill:</translation>
+      <translation>Заливка:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
       <source>Glyph Type:</source>
-      <translation type="unfinished">Glyph Type:</translation>
+      <translation>Тип Глифа:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
@@ -1581,22 +1581,22 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
       <source>Outline:</source>
-      <translation type="unfinished">Outline:</translation>
+      <translation>Обводка:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="332"/>
       <source>Show control point labels</source>
-      <translation type="unfinished">Show control point labels</translation>
+      <translation>Показывать метки контрольной точки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
       <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-      <translation type="unfinished">If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</translation>
+      <translation>Если нажата кнопка, то толщина линии указывается в единице физической длины, в противном случае в процентах от размера глифа</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
       <source>Line Thickness:</source>
-      <translation type="unfinished">Line Thickness:</translation>
+      <translation>Толщина линии:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
@@ -1606,12 +1606,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
       <source>Control Point Labels:</source>
-      <translation type="unfinished">Control Point Labels:</translation>
+      <translation>Метки Контрольной Точки:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
       <source>3D Display</source>
-      <translation type="unfinished">3D Display</translation>
+      <translation>3D Просмотрщик</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
