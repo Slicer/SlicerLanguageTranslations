@@ -1268,32 +1268,32 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Минимальный: минимальный неориентированный угол в диапазоне [0..180)&lt;br/&gt;- Ориентированный со знаком: угол ориентации в диапазоне [-180.. 80), используя ось вращения в правилу правой руки&lt;br/&gt;- Ориентированный положительно: угол ориентации в диапазоне [0. 360), используя ось вращения по правилу правой руки&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
       <source>Minimal</source>
-      <translation type="unfinished">Minimal</translation>
+      <translation>Минимальный</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
       <source>Oriented signed</source>
-      <translation type="unfinished">Oriented signed</translation>
+      <translation>Ориентированный со знаком</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="71"/>
       <source>Oriented positive</source>
-      <translation type="unfinished">Oriented positive</translation>
+      <translation>Ориентированный положительно</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="79"/>
       <source>Rotation axis:</source>
-      <translation type="unfinished">Rotation axis:</translation>
+      <translation>Ось вращения:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="86"/>
       <source>Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</source>
-      <translation type="unfinished">Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</translation>
+      <translation>Ось вращения в системе координат RAS. Используется для определения направления в ориентированных угловых режимах с помощью правила правой руки.</translation>
     </message>
   </context>
   <context>
@@ -1301,48 +1301,48 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
       <source>Curve Settings</source>
-      <translation type="unfinished">Curve Settings</translation>
+      <translation>Настройки Кривой</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="58"/>
       <source>Curve Type:</source>
-      <translation type="unfinished">Curve Type:</translation>
+      <translation>Тип Кривой:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="68"/>
       <source>Constrain to Model:</source>
-      <translation type="unfinished">Constrain to Model:</translation>
+      <translation>Ограничить Моделью:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="75"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="264"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
       <source>Surface</source>
-      <translation type="unfinished">Surface</translation>
+      <translation>Поверхность</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="98"/>
       <source>Cost function:</source>
-      <translation type="unfinished">Cost function:</translation>
+      <translation>Оценочная функция:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="105"/>
       <source>Distance weighting function:</source>
-      <translation type="unfinished">Distance weighting function:</translation>
+      <translation>Весовая функция расстояния:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="142"/>
       <source>distance / (</source>
-      <translation type="unfinished">distance / (</translation>
+      <translation>расстояние / (</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
