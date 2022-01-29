@@ -7638,7 +7638,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="142"/>
       <source>Output volume is under a non-linear tansform.</source>
-      <translation type="unfinished">Output volume is under a non-linear tansform.</translation>
+      <translation>حجم الإخراج يخضع لعملية تحويل غير خطي</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="153"/>
