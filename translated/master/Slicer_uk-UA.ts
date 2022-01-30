@@ -1646,12 +1646,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
       <source>Scalars</source>
-      <translation type="unfinished">Scalars</translation>
+      <translation>Величини</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="595"/>
       <source>Interaction handles</source>
-      <translation type="unfinished">Interaction handles</translation>
+      <translation>Інструменти взаємодії</translation>
     </message>
   </context>
   <context>
@@ -1659,7 +1659,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
       <source>unconstrained</source>
-      <translation type="unfinished">unconstrained</translation>
+      <translation>необмежений</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="119"/>
@@ -1935,7 +1935,7 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
       <source>3D Display</source>
-      <translation type="unfinished">3D Display</translation>
+      <translation>3D відображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
