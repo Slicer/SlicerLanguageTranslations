@@ -1311,7 +1311,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="58"/>
       <source>Curve Type:</source>
-      <translation>曲线类型</translation>
+      <translation>曲线类型:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="68"/>
@@ -1551,7 +1551,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
       <source>Active Color:</source>
-      <translation>活动颜色：</translation>
+      <translation>活动颜色:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
@@ -1601,7 +1601,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
       <source>Selected Color:</source>
-      <translation>所选颜色：</translation>
+      <translation>所选颜色:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
@@ -8722,7 +8722,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="233"/>
       <source>&amp;Edit</source>
-      <translation>编辑</translation>
+      <translation>&amp;编辑</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="245"/>
@@ -12508,7 +12508,7 @@ p, li { white-space: pre-wrap; }
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="70"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="207"/>
       <source>human</source>
-      <translation>人</translation>
+      <translation>人体</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="75"/>
@@ -14392,7 +14392,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="171"/>
       <source>Raising %1 Module:</source>
-      <translation>正在升级 %1 模块：</translation>
+      <translation>正在升级 %1模块：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="172"/>
