@@ -1130,22 +1130,22 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
       <source>Long side length of the color legend, as fraction of view size</source>
-      <translation type="unfinished">Long side length of the color legend, as fraction of view size</translation>
+      <translation>Довжина довгої сторони маркування кольору, як частка від зображення розміру</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
       <source>Title properties</source>
-      <translation type="unfinished">Title properties</translation>
+      <translation>Властивості назви</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="371"/>
       <source>Label properties</source>
-      <translation type="unfinished">Label properties</translation>
+      <translation>Властивості мітки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="380"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>Формат:</translation>
     </message>
   </context>
   <context>
