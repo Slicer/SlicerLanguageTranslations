@@ -1153,7 +1153,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
       <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;Поле формату використовує синтаксис функції друку. Приклади форматів:&lt;br&gt;    - відображення з 1 дробовою цифрою: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - відображення цілого числа: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - відображення з 4 значущими цифрами: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - анотація мітки рядка: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -1161,7 +1161,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Відсутньо</translation>
     </message>
   </context>
   <context>
@@ -1169,12 +1169,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="14"/>
       <source>Color Picker</source>
-      <translation type="unfinished">Color Picker</translation>
+      <translation>Палітра кольорів</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="20"/>
       <source>Color node:</source>
-      <translation type="unfinished">Color node:</translation>
+      <translation>Колір об'єкта:</translation>
     </message>
   </context>
   <context>
@@ -1182,62 +1182,62 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
       <source>Display Node</source>
-      <translation type="unfinished">Display Node</translation>
+      <translation>Показати об'єкт</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
       <source>Visibility</source>
-      <translation type="unfinished">Visibility</translation>
+      <translation>Видимість</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
       <source>&amp;Visible:</source>
-      <translation type="unfinished">&amp;Visible:</translation>
+      <translation>&amp;Видимий:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
       <source>&amp;Selected:</source>
-      <translation type="unfinished">&amp;Selected:</translation>
+      <translation>&amp;Вибрано:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
       <source>&amp;Clip:</source>
-      <translation type="unfinished">&amp;Clip:</translation>
+      <translation>&amp;Обрізати:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
       <source>Slice &amp;Intersections Visible:</source>
-      <translation type="unfinished">Slice &amp;Intersections Visible:</translation>
+      <translation>Видимі зрізи та перетини:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
       <source>Slice Intersections &amp;Thickness:</source>
-      <translation type="unfinished">Slice Intersections &amp;Thickness:</translation>
+      <translation>Перетин зрізу та товщина:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> пікс.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="132"/>
       <source>Slice Intersections Opacity:</source>
-      <translation type="unfinished">Slice Intersections Opacity:</translation>
+      <translation>Непрозорість перетину зрізу:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="161"/>
       <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-      <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+      <translation>Виберіть відображення, де потрібно показати цей об'єкт. Все, що не зазначено, показує у 3D та 2D.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="168"/>
       <source>View:</source>
-      <translation type="unfinished">View:</translation>
+      <translation>Вид:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
       <source>3D Visible:</source>
-      <translation type="unfinished">3D Visible:</translation>
+      <translation>3D видимість:</translation>
     </message>
   </context>
   <context>
@@ -1245,7 +1245,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLEventLoggerWidget.ui" line="14"/>
       <source>MRML Event logger</source>
-      <translation type="unfinished">MRML Event logger</translation>
+      <translation>Журнал подій MRML</translation>
     </message>
   </context>
   <context>
@@ -1253,17 +1253,17 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
       <source>Angle Settings</source>
-      <translation type="unfinished">Angle Settings</translation>
+      <translation>Параметри кута</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="50"/>
       <source>Measurement mode:</source>
-      <translation type="unfinished">Measurement mode:</translation>
+      <translation>Режим вимірювання:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
@@ -1273,7 +1273,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
       <source>Minimal</source>
-      <translation type="unfinished">Minimal</translation>
+      <translation>Мінімально</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
@@ -1288,12 +1288,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="79"/>
       <source>Rotation axis:</source>
-      <translation type="unfinished">Rotation axis:</translation>
+      <translation>Вісь обертання:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="86"/>
       <source>Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</source>
-      <translation type="unfinished">Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</translation>
+      <translation>Напрямок осі обертання у системі координат RAS. Використовується для визначення напрямку в режимі орієнтованих кутів за допомогою правила правої руки.</translation>
     </message>
   </context>
   <context>
@@ -1301,102 +1301,102 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
       <source>Curve Settings</source>
-      <translation type="unfinished">Curve Settings</translation>
+      <translation>Параметри кривої</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="58"/>
       <source>Curve Type:</source>
-      <translation type="unfinished">Curve Type:</translation>
+      <translation>Тип кривої:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="68"/>
       <source>Constrain to Model:</source>
-      <translation type="unfinished">Constrain to Model:</translation>
+      <translation>Обмеження моделі:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="75"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="264"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
       <source>Surface</source>
-      <translation type="unfinished">Surface</translation>
+      <translation>Поверхня</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="98"/>
       <source>Cost function:</source>
-      <translation type="unfinished">Cost function:</translation>
+      <translation>Функція витрат:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="105"/>
       <source>Distance weighting function:</source>
-      <translation type="unfinished">Distance weighting function:</translation>
+      <translation>Функція оцінки відстані:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="142"/>
       <source>distance / (</source>
-      <translation type="unfinished">distance / (</translation>
+      <translation>відстань / (</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Функція, яка використовується для розрахунку скалярної величини для пошуку шляху. Доступ до величини активної точки можна отримати використовуючи назву змінної &amp;quot;activeScalar&amp;quot;. Інші величини можуть бути доступні як змінні за умови, що вони не містять жодних неприпустимих символів (&amp;quot;./* і тд.).&lt;/p&gt;&lt;p&gt;Приклад функцій: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"/>
       <source>activeScalar</source>
-      <translation type="unfinished">activeScalar</translation>
+      <translation>activeScalar</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="180"/>
       <source>)^2</source>
-      <translation type="unfinished">)^2</translation>
+      <translation>)^2</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="196"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="374"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="211"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="389"/>
       <source>Maximum projection distance:</source>
-      <translation type="unfinished">Maximum projection distance:</translation>
+      <translation>Максимальна відстань проєктування:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="218"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="396"/>
       <source>Select the maximum projection distance as percentage of bounding box size.</source>
-      <translation type="unfinished">Select the maximum projection distance as percentage of bounding box size.</translation>
+      <translation>Виберіть максимальну відстань проєкції у відсотках від розміру рамки, що обмежує.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="233"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="411"/>
       <source> %</source>
-      <translation type="unfinished"> %</translation>
+      <translation> %</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
       <source>Resample a curve and optionally constrain the points to a node</source>
-      <translation type="unfinished">Resample a curve and optionally constrain the points to a node</translation>
+      <translation>Змініть криву та, за бажанням, обмежуйте точки об'єктом</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
       <source>Resample</source>
-      <translation type="unfinished">Resample</translation>
+      <translation>Змінити</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
       <source>Fiducials will be constrained to the surface if a node is selected</source>
-      <translation type="unfinished">Fiducials will be constrained to the surface if a node is selected</translation>
+      <translation>Координати будуть обмежені поверхнею, якщо об'єкт обрано</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="282"/>
@@ -1912,7 +1912,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
