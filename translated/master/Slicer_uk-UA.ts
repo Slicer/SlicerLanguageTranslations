@@ -1018,114 +1018,114 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
       <source>Show numeric value as label text</source>
-      <translation type="unfinished">Show numeric value as label text</translation>
+      <translation>Показати числове значення як назву мітки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Значення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
       <source>Show color name as label text</source>
-      <translation type="unfinished">Show color name as label text</translation>
+      <translation>Показати назву кольору як текст мітки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
       <source>Color name</source>
-      <translation type="unfinished">Color name</translation>
+      <translation>Назва кольору</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
       <source>Number of labels:</source>
-      <translation type="unfinished">Number of labels:</translation>
+      <translation>Кількість міток:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
       <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-      <translation type="unfinished">Number of labels to display. Only applicable if values are used as label text (not color name).</translation>
+      <translation>Кількість міток для показу. Застосовується лише у випадку, якщо значення використовуються як текст мітки (не назва кольору).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
       <source>Number of colors:</source>
-      <translation type="unfinished">Number of colors:</translation>
+      <translation>Кількість кольорів:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
       <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-      <translation type="unfinished">Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</translation>
+      <translation>Максимальна кількість зображених кольорів. Зменште кількість, щоб побачити окремі кольори замість безперервного градієнта кольорів. Застосовується лише в тому випадку, якщо значення використовуються як текст мітки (а не назва кольору).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
       <source>Orientation:</source>
-      <translation type="unfinished">Orientation:</translation>
+      <translation>Обертання:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="189"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Вертикально</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="202"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Горизонтально</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="214"/>
       <source>Position:</source>
-      <translation type="unfinished">Position:</translation>
+      <translation>Розташування:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="233"/>
       <source>Horizontal position of the color legend</source>
-      <translation type="unfinished">Horizontal position of the color legend</translation>
+      <translation>Горизонтальне положення маркування кольору</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
       <source>H:</source>
-      <translation type="unfinished">H:</translation>
+      <translation>Г:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="252"/>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="262"/>
       <source>Vertical position of the color legend</source>
-      <translation type="unfinished">Vertical position of the color legend</translation>
+      <translation>Вертикальне положення маркування кольору</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
       <source>V:</source>
-      <translation type="unfinished">V:</translation>
+      <translation>В:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Розмір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
       <source>Short side length of the color legend, as percentage of view size</source>
-      <translation type="unfinished">Short side length of the color legend, as percentage of view size</translation>
+      <translation>Довжина короткої сторони маркування кольору, у відсотках до розміру представлення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
       <source>S:</source>
-      <translation type="unfinished">S:</translation>
+      <translation>С:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
       <source>Short side length of the color legend, as fraction of view size</source>
-      <translation type="unfinished">Short side length of the color legend, as fraction of view size</translation>
+      <translation>Довжина короткої сторони маркування кольору, як частка від зображення розміру</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
       <source>Long side length of the color legend, as percentage of view size</source>
-      <translation type="unfinished">Long side length of the color legend, as percentage of view size</translation>
+      <translation>Довжина довгої сторони маркування кольору, у відсотках до розміру представлення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
       <source>L:</source>
-      <translation type="unfinished">L:</translation>
+      <translation>Д:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
@@ -1401,57 +1401,57 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="282"/>
       <source>Output node: </source>
-      <translation type="unfinished">Output node: </translation>
+      <translation>Вихідний об'єкт: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="289"/>
       <source>Select the number of points on the resampled curve. </source>
-      <translation type="unfinished">Select the number of points on the resampled curve. </translation>
+      <translation>Виберіть кількість точок на кривій, що показується повторно. </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="292"/>
       <source>Number of resampled points: </source>
-      <translation type="unfinished">Number of resampled points: </translation>
+      <translation>Кількість повторно зображених точок: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="302"/>
       <source>The active curve will be resamples with the number of points specified.</source>
-      <translation type="unfinished">The active curve will be resamples with the number of points specified.</translation>
+      <translation>Активна крива буде перерозподілена з зазначеною кількістю точок.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="324"/>
       <source>Select a node to store the resampled curve </source>
-      <translation type="unfinished">Select a node to store the resampled curve </translation>
+      <translation>Виберіть об'єкт, щоб зберегти повторно змінену криву </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="327"/>
       <source>vtkMRMLMarkupsCurveNode</source>
-      <translation type="unfinished">vtkMRMLMarkupsCurveNode</translation>
+      <translation>vtkMRMLMarkupsCurveNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="347"/>
       <source>(Overwrite current node)</source>
-      <translation type="unfinished">(Overwrite current node)</translation>
+      <translation>(Перезаписати поточний об'єкт)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="354"/>
       <source>Resamples the active curve with the number of fiducials spcified. Can be constrained to a node surface.</source>
-      <translation type="unfinished">Resamples the active curve with the number of fiducials spcified. Can be constrained to a node surface.</translation>
+      <translation>Зміна активної кривої із зазначеною кількістю точок опори. Може бути обмежена поверхнею об'єкта.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="357"/>
       <source>Resample curve</source>
-      <translation type="unfinished">Resample curve</translation>
+      <translation>Змінити криву</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="364"/>
       <source>Optionally select a node to constrain placement of resampled curve points. </source>
-      <translation type="unfinished">Optionally select a node to constrain placement of resampled curve points. </translation>
+      <translation>При необхідності оберіть об'єкт для обмеження розміщення змінених точок кривої. </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="367"/>
       <source>Constrain points to surface: </source>
-      <translation type="unfinished">Constrain points to surface: </translation>
+      <translation>Обмеження точок поверхні: </translation>
     </message>
   </context>
   <context>
@@ -1459,12 +1459,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
       <source>Markups Display Node</source>
-      <translation type="unfinished">Markups Display Node</translation>
+      <translation>Показ розмітки об'єкту</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
       <source>Overall visibility of the selected node in all views</source>
-      <translation type="unfinished">Overall visibility of the selected node in all views</translation>
+      <translation>Загальна видимість вибраного об'єкта у всіх виглядах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="44"/>
@@ -1472,146 +1472,146 @@
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>Прозорість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>Видимість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
       <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-      <translation type="unfinished">If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</translation>
+      <translation>Якщо кнопка натиснута, то розмір елемента управління задається в одиницях фізичної довжини, інакше - у відсотках від розміру вікна</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="354"/>
       <source>absolute</source>
-      <translation type="unfinished">absolute</translation>
+      <translation>абсолютно</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="91"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="376"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="566"/>
       <source> %</source>
-      <translation type="unfinished"> %</translation>
+      <translation> %</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="107"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="392"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>довжина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
       <source>Text Display</source>
-      <translation type="unfinished">Text Display</translation>
+      <translation>Налаштування тексту</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="148"/>
       <source>Bold</source>
-      <translation type="unfinished">Bold</translation>
+      <translation>Жирний</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="155"/>
       <source>Italic</source>
-      <translation type="unfinished">Italic</translation>
+      <translation>Курсив</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
       <source>Shadow</source>
-      <translation type="unfinished">Shadow</translation>
+      <translation>Тінь</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>Шрифт:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
       <source>Opacity</source>
-      <translation type="unfinished">Opacity</translation>
+      <translation>Прозорість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
       <source>Background:</source>
-      <translation type="unfinished">Background:</translation>
+      <translation>Фон:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
       <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-      <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+      <translation>Виберіть відображення, де потрібно показати цей об'єкт. Все, що не зазначено, показує у 3D та 2D.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
       <source>Active Color:</source>
-      <translation type="unfinished">Active Color:</translation>
+      <translation>Активний колір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
       <source>2D Display</source>
-      <translation type="unfinished">2D Display</translation>
+      <translation>2D відображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
       <source>Fill:</source>
-      <translation type="unfinished">Fill:</translation>
+      <translation>Заповнити:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
       <source>Glyph Type:</source>
-      <translation type="unfinished">Glyph Type:</translation>
+      <translation>Тип гліфа:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
       <source>View:</source>
-      <translation type="unfinished">View:</translation>
+      <translation>Вид:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
       <source>Unselected Color:</source>
-      <translation type="unfinished">Unselected Color:</translation>
+      <translation>Не вибраний колір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
       <source>Outline:</source>
-      <translation type="unfinished">Outline:</translation>
+      <translation>Контур:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="332"/>
       <source>Show control point labels</source>
-      <translation type="unfinished">Show control point labels</translation>
+      <translation>Показати мітки контрольних точок</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
       <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-      <translation type="unfinished">If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</translation>
+      <translation>Якщо кнопка натиснута, то товщина лінії визначається в одиницях фізичної довжини, інакше у відсотках від розміру гліфа</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
       <source>Line Thickness:</source>
-      <translation type="unfinished">Line Thickness:</translation>
+      <translation>Товщина лінії:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
       <source>Selected Color:</source>
-      <translation type="unfinished">Selected Color:</translation>
+      <translation>Вибраний колір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
       <source>Control Point Labels:</source>
-      <translation type="unfinished">Control Point Labels:</translation>
+      <translation>Мітки контрольних точок:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
       <source>3D Display</source>
-      <translation type="unfinished">3D Display</translation>
+      <translation>3D відображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
@@ -1621,27 +1621,27 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
       <source>Placement mode:</source>
-      <translation type="unfinished">Placement mode:</translation>
+      <translation>Спосіб розміщення:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
       <source>Properties Label:</source>
-      <translation type="unfinished">Properties Label:</translation>
+      <translation>Властивості мітки:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
       <source>Show node name and measurements</source>
-      <translation type="unfinished">Show node name and measurements</translation>
+      <translation>Показати ім'я об'єкту та виміри</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
       <source>Glyph Size:</source>
-      <translation type="unfinished">Glyph Size:</translation>
+      <translation>Розмір гліфа:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
       <source>Text Size:</source>
-      <translation type="unfinished">Text Size:</translation>
+      <translation>Розмір тексту:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
