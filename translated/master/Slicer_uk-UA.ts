@@ -875,12 +875,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
       <source>Clip</source>
-      <translation type="unfinished">Clip</translation>
+      <translation>Обрізати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="23"/>
       <source>Clipping Type:</source>
-      <translation type="unfinished">Clipping Type:</translation>
+      <translation>Тип обрізання:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
