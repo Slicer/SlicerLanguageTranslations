@@ -661,7 +661,7 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
       <source>Color of the projected fiducial on 2D viewers</source>
-      <translation>2D 查看器的投影颜色</translation>
+      <translation>2D 查看器上基准点投影的颜色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
@@ -701,7 +701,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="31"/>
       <source>L-R Range:</source>
-      <translation>左-右范围：</translation>
+      <translation>左-右范围:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="672"/>
@@ -713,12 +713,12 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="679"/>
       <source>P-A Range:</source>
-      <translation>后-前范围：</translation>
+      <translation>后-前范围:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1326"/>
       <source>I-S Range:</source>
-      <translation>下-上范围：</translation>
+      <translation>下-上范围:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2004"/>
@@ -736,13 +736,13 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLAnnotationRulerProjectionPropertyWidget</source>
-      <translation>qMRML注释测量组合窗口</translation>
+      <translation>qMRMLAnnotationRulerProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="48"/>
       <source>Turn on/off visualization of projected line on 2D viewers</source>
-      <translation>开启/关闭2D查看器上预测行的可视化</translation>
+      <translation>开启/关闭2D查看器上投影线的可视化</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
@@ -753,7 +753,7 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
       <source>Color of the projected line on 2D viewers</source>
-      <translation>2D 查看器的预测行颜色</translation>
+      <translation>2D 查看器上投影线的颜色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
@@ -764,12 +764,12 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="108"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="118"/>
       <source>Thickness of the part of the line on top of the slice plane</source>
-      <translation>切片平面上方线的部分厚度</translation>
+      <translation>切片平面顶部线部分的厚度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
       <source>Overline Thickness</source>
-      <translation>外线厚度</translation>
+      <translation>上划线厚度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="121"/>
@@ -781,7 +781,7 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="134"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="144"/>
       <source>Thickness of the part of the line under the slice plane</source>
-      <translation>切片平面下线部分的厚度</translation>
+      <translation>切片平面下方线部分的厚度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
@@ -895,7 +895,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
       <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-      <translation>使用由层面平面定义的正和/或负空间的并集来裁剪模型。</translation>
+      <translation>使用由切片平面定义的正向和/或负向空间的并集来裁剪模型。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
@@ -1187,7 +1187,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
       <source>Visibility</source>
-      <translation>可见性</translation>
+      <translation>可视性</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
@@ -1212,7 +1212,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
       <source>Slice Intersections &amp;Thickness:</source>
-      <translation>切片间隔和厚度</translation>
+      <translation>切片间隔&amp;厚度</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
