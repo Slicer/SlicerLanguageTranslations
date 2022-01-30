@@ -814,7 +814,7 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="206"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="216"/>
       <source>Display the line dashed when not parallel to the slice plane</source>
-      <translation>当断面不平行时显示虚线</translation>
+      <translation>与切片平面不平行时显示虚线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="209"/>
@@ -847,12 +847,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
       <source>Capture and name a scene view.</source>
-      <translation>截取并命名这个场景</translation>
+      <translation>捕获并命名场景视图。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
       <source>Restore view</source>
-      <translation>重载数据</translation>
+      <translation>还原视图</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
@@ -862,12 +862,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
       <source>SceneView Name</source>
-      <translation>场景视图名字</translation>
+      <translation>场景视图名称</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
       <source>SceneView Name:</source>
-      <translation>场景视图名字</translation>
+      <translation>场景视图名称:</translation>
     </message>
   </context>
   <context>
@@ -880,12 +880,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="23"/>
       <source>Clipping Type:</source>
-      <translation>剪切类型：</translation>
+      <translation>剪切类型:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
       <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-      <translation>当使用多个切片平面时，此选项控制它&apos;是否是用于裁剪模型的正和/或负空间的并集或交集。选择空间内的模型部分被保留，选择区域外的部分被剪切掉。</translation>
+      <translation>当使用多个切片平面时，此选项控制它&apos;是否是用于裁剪模型的正和/或负空间的并集或交集。选择空间内的模型部分被保留，选择空间外的部分被剪切掉。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
@@ -915,7 +915,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
       <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-      <translation>使用红色切片平面定义的正或负空间来裁剪模型。正面朝向上级，负面朝向下级。保持模型的部分在选定的空间，剪辑掉其余的。</translation>
+      <translation>使用水平位切片平面定义的正向或负向空间来裁剪模型。正面朝向上，负面朝向下。将模型的一部分保留在所选空间中，剪切其余部分。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
@@ -13773,7 +13773,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
       <source>Small crosshair.</source>
-      <translation type="unfinished">Small crosshair.</translation>
+      <translation>小准心。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="140"/>
@@ -13989,12 +13989,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="341"/>
       <source>Interactive speed:</source>
-      <translation type="unfinished">Interactive speed:</translation>
+      <translation>交互速度:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="360"/>
       <source> fps</source>
-      <translation type="unfinished"> fps</translation>
+      <translation> 帧/秒</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="367"/>
@@ -14034,7 +14034,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="488"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>感兴趣区域</translation>
     </message>
   </context>
   <context>
@@ -14047,7 +14047,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
       <source>Preset:</source>
-      <translation type="unfinished">Preset:</translation>
+      <translation>预设:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
@@ -14086,17 +14086,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="37"/>
       <source>Default quality:</source>
-      <translation type="unfinished">Default quality:</translation>
+      <translation>默认质量:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="44"/>
       <source>GPU memory size:</source>
-      <translation type="unfinished">GPU memory size:</translation>
+      <translation>GPU 内存大小:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
       <source>Amount of memory allocated for volume rendering on the graphic card</source>
-      <translation type="unfinished">Amount of memory allocated for volume rendering on the graphic card</translation>
+      <translation>为图形卡上的容积渲染分配的内存量</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
@@ -14106,17 +14106,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="68"/>
       <source>Default interactive speed:</source>
-      <translation type="unfinished">Default interactive speed:</translation>
+      <translation>默认交互速度:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
       <source> fps</source>
-      <translation type="unfinished"> fps</translation>
+      <translation> 帧/秒</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="94"/>
       <source>Default surface smoothing:</source>
-      <translation type="unfinished">Default surface smoothing:</translation>
+      <translation>默认平滑表面:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="101"/>
@@ -14126,7 +14126,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="111"/>
       <source>Auto-release resources:</source>
-      <translation type="unfinished">Auto-release resources:</translation>
+      <translation>自动发布资源:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
@@ -14154,7 +14154,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="43"/>
       <source>Single File</source>
-      <translation type="unfinished">Single File</translation>
+      <translation>单一文件</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="46"/>
@@ -14164,7 +14164,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="53"/>
       <source>Centered</source>
-      <translation type="unfinished">Centered</translation>
+      <translation>居中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="56"/>
@@ -14202,32 +14202,32 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
       <source>Volumes</source>
-      <translation type="unfinished">Volumes</translation>
+      <translation>体数据</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
       <source>Active Volume: </source>
-      <translation type="unfinished">Active Volume: </translation>
+      <translation>当前数据: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="48"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
       <source>Volume Information</source>
-      <translation type="unfinished">Volume Information</translation>
+      <translation>体数据信息</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
       <source>Convert to LabelMap:</source>
-      <translation type="unfinished">Convert to LabelMap:</translation>
+      <translation>转换为标签映射:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="121"/>
       <source>vtkMRMLLabelMapVolumeNode</source>
-      <translation type="unfinished">vtkMRMLLabelMapVolumeNode</translation>
+      <translation>vtkMRMLLabelMapVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
@@ -14237,7 +14237,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="139"/>
       <source>Convert</source>
-      <translation type="unfinished">Convert</translation>
+      <translation>转换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
