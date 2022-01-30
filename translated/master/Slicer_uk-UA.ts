@@ -885,107 +885,107 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
       <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-      <translation type="unfinished">When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</translation>
+      <translation>Якщо використовується більше однієї площини зрізу, цей параметр визначає, що використовуватиметься для обрізання моделі: об'єднання або перетин додатних та/або від'ємних областей. Частини моделі всередині вибраного простору зберігаються, частини поза виділення обрізаються.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
       <source>Union</source>
-      <translation type="unfinished">Union</translation>
+      <translation>Об'єднати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
       <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-      <translation type="unfinished">Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+      <translation>Використовуйте об'єднання позитивних та/або негативних просторів, визначених площинами зрізів, для обрізання моделі.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
       <source>Intersection</source>
-      <translation type="unfinished">Intersection</translation>
+      <translation>Перетин</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="57"/>
       <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-      <translation type="unfinished">Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+      <translation>Використовуйте перетин додатних і/або від'ємних просторів, визначених фрагментами для обрізання моделі.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="64"/>
       <source>Red Slice Clipping:</source>
-      <translation type="unfinished">Red Slice Clipping:</translation>
+      <translation>Обробка червоного зрізу:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
       <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-      <translation type="unfinished">Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+      <translation>Для обрізання моделі використовуйте позитивний або негативний простір, визначений площиною червоного зрізу. Позитивна сторона спрямована до верхньої частини, негативна – до нижньої. Частина моделі у вибраному просторі зберігається, інше вирізається.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="121"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="165"/>
       <source>Positive</source>
-      <translation type="unfinished">Positive</translation>
+      <translation>Позитивний</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="84"/>
       <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-      <translation type="unfinished">Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</translation>
+      <translation>Збережіть частини моделі, що знаходяться всередині додатного простору, до вершини (голови), визначеного площиною червоного зрізу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="94"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="138"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="182"/>
       <source>Negative</source>
-      <translation type="unfinished">Negative</translation>
+      <translation>Негативний</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="101"/>
       <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-      <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</translation>
+      <translation>Збережіть частини моделі, що знаходяться всередині від'ємного простору, у напрямку до нижньої частини (ноги), яка визначається площиною червоного зрізу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
       <source>Yellow Slice Clipping:</source>
-      <translation type="unfinished">Yellow Slice Clipping:</translation>
+      <translation>Обробка жовтого зрізу:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="111"/>
       <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-      <translation type="unfinished">Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</translation>
+      <translation>Для обрізання моделі використовуйте позитивний або негативний простір, визначений площиною жовтого зрізу. Позитивна сторона спрямована праворуч, негативна - ліворуч. Частина моделі у вибраному просторі зберігається, інше вирізається.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="128"/>
       <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-      <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</translation>
+      <translation>Збережіть частини моделі, що знаходяться всередині додатного простору, у напрямку вправо, що визначається площиною жовтого зрізу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="145"/>
       <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-      <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</translation>
+      <translation>Збережіть частини моделі, що знаходяться всередині від'ємного простору, у напрямку вліво, що визначається площиною жовтого зрізу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="152"/>
       <source>Green Slice Clipping:</source>
-      <translation type="unfinished">Green Slice Clipping:</translation>
+      <translation>Обробка зеленого зрізу:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="155"/>
       <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-      <translation type="unfinished">Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+      <translation>Для обрізання моделі використовуйте позитивний або негативний простір, визначений площиною зеленого зрізу. Позитивна сторона спрямована до переднього краю, негативна – до заднього. Частина моделі у вибраному просторі зберігається, інше вирізається.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="172"/>
       <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-      <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</translation>
+      <translation>Збережіть частини моделі, що знаходяться всередині додатного простору, у напрямку до передньої частини (Anterior), що визначається площиною зеленого зрізу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="189"/>
       <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-      <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</translation>
+      <translation>Збережіть частини моделі, що знаходяться всередині від'ємного простору, у напрямку до задньої частини (Posterior), що визначається площиною зеленого зрізу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="202"/>
       <source>Keep only whole cells when clipping</source>
-      <translation type="unfinished">Keep only whole cells when clipping</translation>
+      <translation>Зберігати тільки цілі клітини під час обрізання</translation>
     </message>
   </context>
   <context>
@@ -993,27 +993,27 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
       <source>Color Legend</source>
-      <translation type="unfinished">Color Legend</translation>
+      <translation>Маркування кольором</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
       <source>Visible:</source>
-      <translation type="unfinished">Visible:</translation>
+      <translation>Видимість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
       <source>View:</source>
-      <translation type="unfinished">View:</translation>
+      <translation>Вид:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="68"/>
       <source>Title:</source>
-      <translation type="unfinished">Title:</translation>
+      <translation>Назва:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
       <source>Label text:</source>
-      <translation type="unfinished">Label text:</translation>
+      <translation>Назва мітки:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
