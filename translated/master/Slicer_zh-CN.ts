@@ -1053,7 +1053,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
       <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-      <translation type="unfinished">Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</translation>
+      <translation>显示的最大颜色数，仅当值为数字(非颜色名称)时生效。降低该值增加颜色的离散程度，增加该值增加颜色的连续程度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
@@ -1253,7 +1253,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>表单</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
