@@ -1038,12 +1038,12 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
       <source>Number of labels:</source>
-      <translation type="unfinished">Number of labels:</translation>
+      <translation>标签数量</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
       <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-      <translation type="unfinished">Number of labels to display. Only applicable if values are used as label text (not color name).</translation>
+      <translation>显示的标签数，值为数字(而非颜色名称)时生效</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
