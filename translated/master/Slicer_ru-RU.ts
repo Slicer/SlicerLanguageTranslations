@@ -2236,17 +2236,17 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="246"/>
       <source>Strips</source>
-      <translation type="unfinished">Strips</translation>
+      <translation>Полос</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="253"/>
       <source>Max cell size</source>
-      <translation type="unfinished">Max cell size</translation>
+      <translation>Макс. размер ячейки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="275"/>
       <source>Number of Cells:</source>
-      <translation type="unfinished">Number of Cells:</translation>
+      <translation>Количество Ячеек:</translation>
     </message>
   </context>
   <context>
@@ -2254,39 +2254,39 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="26"/>
       <source>qMRMLNodeAttributeTableView</source>
-      <translation type="unfinished">qMRMLNodeAttributeTableView</translation>
+      <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="53"/>
       <source>No node selected</source>
-      <translation type="unfinished">No node selected</translation>
+      <translation>Узел не выбран</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="85"/>
       <source>Attribute Name</source>
-      <translation type="unfinished">Attribute Name</translation>
+      <translation>Название Атрибута</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="90"/>
       <source>Attribute Value</source>
-      <translation type="unfinished">Attribute Value</translation>
+      <translation>Значения Атрибута</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="133"/>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="254"/>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="283"/>
       <source>No node is selected</source>
-      <translation type="unfinished">No node is selected</translation>
+      <translation>Узел не выбран</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="142"/>
       <source>Selected node has no attributes</source>
-      <translation type="unfinished">Selected node has no attributes</translation>
+      <translation>Выбранный узел не имеет атрибутов</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="198"/>
       <source>There is already an attribute with the same name</source>
-      <translation type="unfinished">There is already an attribute with the same name</translation>
+      <translation>Атрибут с таким именем уже существует</translation>
     </message>
   </context>
   <context>
@@ -2294,37 +2294,37 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="14"/>
       <source>qMRMLNodeAttributeTableWidget</source>
-      <translation type="unfinished">qMRMLNodeAttributeTableWidget</translation>
+      <translation>qMRMLNodeAttributeTableWidget</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="44"/>
       <source>Add blank row to the table. The attribute is added to the MRML node when the name and value is set</source>
-      <translation type="unfinished">Add blank row to the table. The attribute is added to the MRML node when the name and value is set</translation>
+      <translation>Добавить пустую строку в таблицу. Атрибут будет добавлен в MRML узел, когда будут заданы имя и значение</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="47"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Добавить</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="73"/>
       <source>Remove selected attribute(s)</source>
-      <translation type="unfinished">Remove selected attribute(s)</translation>
+      <translation>Удалить выбранный(е) атрибут(ы)</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="76"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Удалить</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="85"/>
       <source>Node information</source>
-      <translation type="unfinished">Node information</translation>
+      <translation>Информация об узле</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="100"/>
       <source>No node information is available.</source>
-      <translation type="unfinished">No node information is available.</translation>
+      <translation>Нет информации об узле.</translation>
     </message>
   </context>
   <context>
@@ -2332,12 +2332,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Ничего</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="241"/>
       <source>Select a </source>
-      <translation type="unfinished">Select a </translation>
+      <translation>Выберите </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="299"/>
@@ -2355,7 +2355,7 @@
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1045"/>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1288"/>
       <source>Edit current </source>
-      <translation type="unfinished">Edit current </translation>
+      <translation>Править текущий </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="310"/>
@@ -2368,7 +2368,7 @@
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="993"/>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1284"/>
       <source>Create new </source>
-      <translation type="unfinished">Create new </translation>
+      <translation>Создать новый </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="313"/>
@@ -2376,7 +2376,7 @@
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="459"/>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="462"/>
       <source> as...</source>
-      <translation type="unfinished"> as...</translation>
+      <translation> как...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="319"/>
@@ -2390,7 +2390,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="607"/>
       <source>node</source>
-      <translation type="unfinished">node</translation>
+      <translation>узел</translation>
     </message>
   </context>
   <context>
@@ -2398,22 +2398,22 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
       <source>Plot data series:</source>
-      <translation type="unfinished">Plot data series:</translation>
+      <translation>Рисовать последовательность данных:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
       <source>Add/Remove plots data series to/from the current chart.</source>
-      <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+      <translation>Добавить/Удалить рисунки последовательностей данных на/с текущ. график.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="48"/>
       <source>vtkMRMLPlotSeriesNode</source>
-      <translation type="unfinished">vtkMRMLPlotSeriesNode</translation>
+      <translation>vtkMRMLPlotSeriesNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
@@ -2433,12 +2433,12 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
       <source>Enter a label for the X-axis.</source>
-      <translation type="unfinished">Enter a label for the X-axis.</translation>
+      <translation>Введите название оси X.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
       <source>X axis range:</source>
-      <translation type="unfinished">X axis range:</translation>
+      <translation>Диапазон оси X:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="121"/>
