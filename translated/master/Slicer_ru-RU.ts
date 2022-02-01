@@ -1616,22 +1616,22 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
       <source>Occluded Visibility:</source>
-      <translation type="unfinished">Occluded Visibility:</translation>
+      <translation>Скрывая Видимость:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
       <source>Placement mode:</source>
-      <translation type="unfinished">Placement mode:</translation>
+      <translation>Режим размещения:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
       <source>Properties Label:</source>
-      <translation type="unfinished">Properties Label:</translation>
+      <translation>Ярлык Свойств:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
       <source>Show node name and measurements</source>
-      <translation type="unfinished">Show node name and measurements</translation>
+      <translation>Показывать название узла и измерения</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
@@ -1646,12 +1646,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
       <source>Scalars</source>
-      <translation type="unfinished">Scalars</translation>
+      <translation>Скалярные величины</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="595"/>
       <source>Interaction handles</source>
-      <translation type="unfinished">Interaction handles</translation>
+      <translation>Ручки взаимодействия</translation>
     </message>
   </context>
   <context>
