@@ -1672,7 +1672,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLMarkupsFiducialProjectionPropertyWidget</source>
-      <translation type="unfinished">qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
+      <translation>qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
