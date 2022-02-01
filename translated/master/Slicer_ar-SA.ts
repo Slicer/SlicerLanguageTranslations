@@ -574,7 +574,7 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
       <source>DICOM database settings</source>
-      <translation type="unfinished">DICOM database settings</translation>
+      <translation>إعدادات قاعدة بيانات DICOM</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
@@ -14106,7 +14106,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
       <source>Amount of memory allocated for volume rendering on the graphic card</source>
-      <translation type="unfinished">Amount of memory allocated for volume rendering on the graphic card</translation>
+      <translation>كمية الذاكرة المخصصة لعرض الحجم على بطاقة الرسوم البيانية</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
@@ -14141,7 +14141,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
       <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-      <translation type="unfinished">Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</translation>
+      <translation>إلغاء تحميل المجلدات فورا من ذاكرة الرسوم البيانية عندما لا تكون مرئية. يقلل من استخدام الذاكرة ولكن يجعل تبديل الحجم أبطأ.</translation>
     </message>
   </context>
   <context>
