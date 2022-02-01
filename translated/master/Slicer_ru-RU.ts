@@ -1659,12 +1659,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
       <source>unconstrained</source>
-      <translation type="unfinished">unconstrained</translation>
+      <translation>неограниченный</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="119"/>
       <source>snap to visible surface</source>
-      <translation type="unfinished">snap to visible surface</translation>
+      <translation>привязка к видимой поверхности</translation>
     </message>
   </context>
   <context>
@@ -1672,23 +1672,23 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLMarkupsFiducialProjectionPropertyWidget</source>
-      <translation type="unfinished">qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
+      <translation>qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="135"/>
       <source>If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</source>
-      <translation type="unfinished">If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</translation>
+      <translation>Если включено, то все контрольные точки будут отображаться в 2D просмотрщиках, с проекцией их на плоскость среза.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="44"/>
       <source>Projection Visibility:</source>
-      <translation type="unfinished">Projection Visibility:</translation>
+      <translation>Видимость Проекции:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="51"/>
       <source>Color of the projected control points on 2D viewers</source>
-      <translation type="unfinished">Color of the projected control points on 2D viewers</translation>
+      <translation>Цвет проецируемых контрольных точек в 2D просмотрщиках</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
@@ -1698,24 +1698,24 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
       <source>Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</source>
-      <translation type="unfinished">Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</translation>
+      <translation>Цвет проецированных контрольных точек в 2D просмотрщиках. Используется если &quot;Использовать цвет разметки&quot; не активирован, иначе проекция использует выбранный или невыбранный цвет разметки.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="97"/>
       <source>Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</source>
-      <translation type="unfinished">Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</translation>
+      <translation>Проецированные контрольные точки отображаются заполненными (прозрачность = Прозрачность Проекции) когда они над плоскостью среза, контуром когда позади и с полной непрозрачностью когда на плоскости. Контур не используется для некоторых глифов (Dash2D, Cross2D, Starburst).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="90"/>
       <source>Outlined Behind Slice Plane:</source>
-      <translation type="unfinished">Outlined Behind Slice Plane:</translation>
+      <translation>Только Контур За Плоскостью Среза:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="110"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="120"/>
       <source>Use the same color as the markup</source>
-      <translation type="unfinished">Use the same color as the markup</translation>
+      <translation>Использовать тот же цвет, что и в разметке</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="113"/>
@@ -1738,7 +1738,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="38"/>
@@ -1748,27 +1748,27 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="51"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>Видимость:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="64"/>
       <source> %</source>
-      <translation type="unfinished"> %</translation>
+      <translation> %</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="73"/>
       <source>Translate</source>
-      <translation type="unfinished">Translate</translation>
+      <translation>Перенос</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="80"/>
       <source>Rotate</source>
-      <translation type="unfinished">Rotate</translation>
+      <translation>Вращение</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="87"/>
       <source>Scale</source>
-      <translation type="unfinished">Scale</translation>
+      <translation>Масштаб</translation>
     </message>
   </context>
   <context>
@@ -1776,22 +1776,22 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
       <source>Plane settings</source>
-      <translation type="unfinished">Plane settings</translation>
+      <translation>Настройки плоскости</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="52"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Тип</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="62"/>
       <source>Size mode:</source>
-      <translation type="unfinished">Size mode:</translation>
+      <translation>Режим размера:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
@@ -1801,42 +1801,42 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
       <source>X:</source>
-      <translation type="unfinished">X:</translation>
+      <translation>X:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="107"/>
       <source>Y:</source>
-      <translation type="unfinished">Y:</translation>
+      <translation>Y:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
       <source>Bounds:</source>
-      <translation type="unfinished">Bounds:</translation>
+      <translation>Границы:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
       <source>X max:</source>
-      <translation type="unfinished">X max:</translation>
+      <translation>Макс. Х:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="171"/>
       <source>X min:</source>
-      <translation type="unfinished">X min:</translation>
+      <translation>Мин. Х:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="184"/>
       <source>Y min:</source>
-      <translation type="unfinished">Y min:</translation>
+      <translation>Мин. Y:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="217"/>
       <source>Y max:</source>
-      <translation type="unfinished">Y max:</translation>
+      <translation>Макс. Y:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="226"/>
       <source>Normal:</source>
-      <translation type="unfinished">Normal:</translation>
+      <translation>Нормаль:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
@@ -1849,44 +1849,44 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
       <source>ROI Settings</source>
-      <translation type="unfinished">ROI Settings</translation>
+      <translation>Параметры ROI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="49"/>
       <source>ROI type:</source>
-      <translation type="unfinished">ROI type:</translation>
+      <translation>Тип ROI:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="59"/>
       <source>Inside out:</source>
-      <translation type="unfinished">Inside out:</translation>
+      <translation>Наизнанку:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="77"/>
       <source>L-R Range:</source>
-      <translation type="unfinished">L-R Range:</translation>
+      <translation>Диапазон L-R:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="713"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1356"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1989"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>длина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
       <source>P-A Range:</source>
-      <translation type="unfinished">P-A Range:</translation>
+      <translation>Диапазон P-A:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1996"/>
       <source>I-S Range:</source>
-      <translation type="unfinished">I-S Range:</translation>
+      <translation>Диапазон I-S:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2038"/>
@@ -1896,7 +1896,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2061"/>
       <source>Interactive Mode</source>
-      <translation type="unfinished">Interactive Mode</translation>
+      <translation>Интерактивный режим</translation>
     </message>
   </context>
   <context>
@@ -1904,7 +1904,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
   </context>
   <context>
@@ -1912,17 +1912,17 @@
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
       <source>Test Line Settings</source>
-      <translation type="unfinished">Test Line Settings</translation>
+      <translation>Проверить Настройки Линии</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="50"/>
       <source>This is a test label in a test widget!</source>
-      <translation type="unfinished">This is a test label in a test widget!</translation>
+      <translation>Это тестовая метка в тестовом виджете!</translation>
     </message>
   </context>
   <context>
@@ -1930,37 +1930,37 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
       <source>Model Display Node</source>
-      <translation type="unfinished">Model Display Node</translation>
+      <translation>Узел Отображения Модели</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
       <source>3D Display</source>
-      <translation type="unfinished">3D Display</translation>
+      <translation>3D Просмотрщик</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
       <source>Representation:</source>
-      <translation type="unfinished">Representation:</translation>
+      <translation>Представление:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
       <source>Points</source>
-      <translation type="unfinished">Points</translation>
+      <translation>Точки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
       <source>Wireframe</source>
-      <translation type="unfinished">Wireframe</translation>
+      <translation>Каркас</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="62"/>
       <source>Surface</source>
-      <translation type="unfinished">Surface</translation>
+      <translation>Поверхность</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="67"/>
       <source>Surface with Edges</source>
-      <translation type="unfinished">Surface with Edges</translation>
+      <translation>Поверхность с краями</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
@@ -1970,47 +1970,47 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
       <source>All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</source>
-      <translation type="unfinished">All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</translation>
+      <translation>Все: рекомендуется для незамкнутой поверхности. Спереди: рекомендуется для ускорения отрисовки замкнутых прозрачных поверхностей. Сзади: полезно для отрисовки задней поверхности незамкнутых поверхностей другого цвета.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>Все</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="91"/>
       <source>Front-facing</source>
-      <translation type="unfinished">Front-facing</translation>
+      <translation>Спереди</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="96"/>
       <source>Back-facing</source>
-      <translation type="unfinished">Back-facing</translation>
+      <translation>Сзади</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
       <source>Clipping:</source>
-      <translation type="unfinished">Clipping:</translation>
+      <translation>Обрезание:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
       <source>Hide part of the model according to Clipping Planes settings.</source>
-      <translation type="unfinished">Hide part of the model according to Clipping Planes settings.</translation>
+      <translation>Скрыть часть модели в соответствии с настройками Обрезающих Плоскостей.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
       <source>Configure clipping planes</source>
-      <translation type="unfinished">Configure clipping planes</translation>
+      <translation>Настройка плоскостей обрезания</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
       <source>Configure...</source>
-      <translation type="unfinished">Configure...</translation>
+      <translation>Настроить...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Расширенный режим</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
@@ -2031,59 +2031,59 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="216"/>
       <source>Lighting:</source>
-      <translation type="unfinished">Lighting:</translation>
+      <translation>Освещение:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="230"/>
       <source>Interpolation:</source>
-      <translation type="unfinished">Interpolation:</translation>
+      <translation>Интерполяция:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="238"/>
       <source>Flat</source>
-      <translation type="unfinished">Flat</translation>
+      <translation>Плоский</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
       <source>Gouraud</source>
-      <translation type="unfinished">Gouraud</translation>
+      <translation>Gouraud</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
       <source>Phong</source>
-      <translation type="unfinished">Phong</translation>
+      <translation>Phong</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="269"/>
       <source>Backface color hue, saturation, and brightess offset to frontface color</source>
-      <translation type="unfinished">Backface color hue, saturation, and brightess offset to frontface color</translation>
+      <translation>Оттенок цвета задней поверхности, насыщенность и смещение яркости на цвет лицевой поверхности</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="272"/>
       <source>Backface Color Offset:</source>
-      <translation type="unfinished">Backface Color Offset:</translation>
+      <translation>Смещение Цвета Задней Поверхности:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="281"/>
       <source>Color hue offset</source>
-      <translation type="unfinished">Color hue offset</translation>
+      <translation>Смещение оттенка цвета</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="300"/>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="319"/>
       <source>Color saturation offset</source>
-      <translation type="unfinished">Color saturation offset</translation>
+      <translation>Смещение насыщенности цвета</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="346"/>
       <source>Slice Display</source>
-      <translation type="unfinished">Slice Display</translation>
+      <translation>Просмотрщик Среза</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="355"/>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="553"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>Видимость:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="369"/>
@@ -2094,57 +2094,57 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="401"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>Режим:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="408"/>
       <source>Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</source>
-      <translation type="unfinished">Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</translation>
+      <translation>Пересечение: показывает пересечение модели с среза. Проекция: показывает полную модель, проецированную на плоскость среза сплошным цветом. Цветная проекция: показывает полную модель, проецированную на плоскость среза, окрашенную в зависимости от расстояния до плоскости среза (переопределяется выбором Активного скаляра).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="412"/>
       <source>Intersection</source>
-      <translation type="unfinished">Intersection</translation>
+      <translation>Пересечение</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
       <source>Projection</source>
-      <translation type="unfinished">Projection</translation>
+      <translation>Проекция</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="422"/>
       <source>Distance encoded projection</source>
-      <translation type="unfinished">Distance encoded projection</translation>
+      <translation>Проекция в кодировке расстоянием</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="437"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> пикс.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="453"/>
       <source>Color Table:</source>
-      <translation type="unfinished">Color Table:</translation>
+      <translation>Цветовая Таблица:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="460"/>
       <source>Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</source>
-      <translation type="unfinished">Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</translation>
+      <translation>Цветная таблица, которая отображает расстояние от плоскости в цвета. Используется когда выбран режим &apos;Проекция в кодировке расстоянием&apos;.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="470"/>
       <source>Scalars</source>
-      <translation type="unfinished">Scalars</translation>
+      <translation>Скалярные величины</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="488"/>
       <source>Visibility</source>
-      <translation type="unfinished">Visibility</translation>
+      <translation>Видимость</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="494"/>
       <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-      <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+      <translation>Выберите виды (просмотрщики) для отображения этого узла. Если не выбран ни один - отобразить во всех 3D и 2D видах (просмотрщиках).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="501"/>
@@ -2162,52 +2162,52 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="14"/>
       <source>Model Information</source>
-      <translation type="unfinished">Model Information</translation>
+      <translation>Информация По Модели</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="23"/>
       <source>Mesh Type:</source>
-      <translation type="unfinished">Mesh Type:</translation>
+      <translation>Тип Сетки:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="37"/>
       <source>Surface Area:</source>
-      <translation type="unfinished">Surface Area:</translation>
+      <translation>Площадь Поверхности:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
       <source>mm^2</source>
-      <translation type="unfinished">mm^2</translation>
+      <translation>мм^2</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="57"/>
       <source>Volume:</source>
-      <translation type="unfinished">Volume:</translation>
+      <translation>Объём:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="67"/>
       <source>mm^3</source>
-      <translation type="unfinished">mm^3</translation>
+      <translation>мм^3</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="77"/>
       <source>Number of Points:</source>
-      <translation type="unfinished">Number of Points:</translation>
+      <translation>Количество Точек:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="94"/>
       <source>Number of Points Scalars:</source>
-      <translation type="unfinished">Number of Points Scalars:</translation>
+      <translation>Количество Скалярных Точек:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="111"/>
       <source>Number of Cells Scalars:</source>
-      <translation type="unfinished">Number of Cells Scalars:</translation>
+      <translation>Количество Скалярных Ячеек:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
       <source>Filename:</source>
-      <translation type="unfinished">Filename:</translation>
+      <translation>Имя файла:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="185"/>
@@ -2216,22 +2216,22 @@
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="229"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="260"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="195"/>
       <source>Verts</source>
-      <translation type="unfinished">Verts</translation>
+      <translation>Вершин</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
       <source>Lines</source>
-      <translation type="unfinished">Lines</translation>
+      <translation>Линий</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="239"/>
       <source>Polys</source>
-      <translation type="unfinished">Polys</translation>
+      <translation>Полигонов</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="246"/>
