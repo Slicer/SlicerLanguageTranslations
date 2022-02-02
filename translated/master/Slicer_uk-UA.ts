@@ -130,7 +130,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>Область інтересів</translation>
     </message>
   </context>
   <context>
@@ -1268,7 +1268,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Мінімальний: мінімальний неорієнтований кут, між [0..180)&lt;br/&gt;- Орієнтований зі знаком: кут орієнтації в діапазоні [-180..180), використовуючи осі обертання за правилом правої руки&lt;br/&gt;- Орієнтований додатньо: кут орієнтації в діапазоні [0..360), використовуючи осі обертання за правилом правої руки&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
@@ -1278,12 +1278,12 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
       <source>Oriented signed</source>
-      <translation type="unfinished">Oriented signed</translation>
+      <translation>Орієнтований зі знаком</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="71"/>
       <source>Oriented positive</source>
-      <translation type="unfinished">Oriented positive</translation>
+      <translation>Додатно орієнтований</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="79"/>
@@ -1616,7 +1616,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
       <source>Occluded Visibility:</source>
-      <translation type="unfinished">Occluded Visibility:</translation>
+      <translation>Непрозора видимість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
@@ -1664,7 +1664,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="119"/>
       <source>snap to visible surface</source>
-      <translation type="unfinished">snap to visible surface</translation>
+      <translation>прив'язка до видимої поверхні</translation>
     </message>
   </context>
   <context>
@@ -1678,59 +1678,59 @@
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="135"/>
       <source>If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</source>
-      <translation type="unfinished">If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</translation>
+      <translation>Якщо цю опцію увімкнено, всі контрольні точки відображатимуться у 2D-виді, проєктуючись на площину зрізу.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="44"/>
       <source>Projection Visibility:</source>
-      <translation type="unfinished">Projection Visibility:</translation>
+      <translation>Видимість проєкції:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="51"/>
       <source>Color of the projected control points on 2D viewers</source>
-      <translation type="unfinished">Color of the projected control points on 2D viewers</translation>
+      <translation>Колір контрольних точок, що проєктуються на 2D переглядачах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
       <source>Projection Color:</source>
-      <translation type="unfinished">Projection Color:</translation>
+      <translation>Колір проєкції:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
       <source>Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</source>
-      <translation type="unfinished">Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</translation>
+      <translation>Колір контрольних точок, що проєктуються на 2D переглядачах. Використовуйте лише якщо функція &quot;Використовувати колір розмітки&quot; не встановлена, інакше проєкція використовує вибраний або невибраний колір розмітки.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="97"/>
       <source>Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</source>
-      <translation type="unfinished">Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</translation>
+      <translation>Проєктовані контрольні точки показуватися заповненими (прозорість = Прозорість Проєкції), коли вони над площиною зрізу, контуром коли позаду та з повною непрозорістю коли на площині. Контур не використовується для деяких гліфів (Dash2D, Cross2D, Starburst).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="90"/>
       <source>Outlined Behind Slice Plane:</source>
-      <translation type="unfinished">Outlined Behind Slice Plane:</translation>
+      <translation>Тільки контур за площиною зрізу:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="110"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="120"/>
       <source>Use the same color as the markup</source>
-      <translation type="unfinished">Use the same color as the markup</translation>
+      <translation>Використовувати той самий колір, що й в розмітці</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="113"/>
       <source>Use Markup Color:</source>
-      <translation type="unfinished">Use Markup Color:</translation>
+      <translation>Використати колір розмітки:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>Прозорість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
       <source>The opacity of the projection.</source>
-      <translation type="unfinished">The opacity of the projection.</translation>
+      <translation>Прозорість проєкції.</translation>
     </message>
   </context>
   <context>
@@ -1738,37 +1738,37 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="38"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Розмір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="51"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>Видимість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="64"/>
       <source> %</source>
-      <translation type="unfinished"> %</translation>
+      <translation> %</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="73"/>
       <source>Translate</source>
-      <translation type="unfinished">Translate</translation>
+      <translation>Перекласти</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="80"/>
       <source>Rotate</source>
-      <translation type="unfinished">Rotate</translation>
+      <translation>Повернути</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="87"/>
       <source>Scale</source>
-      <translation type="unfinished">Scale</translation>
+      <translation>Масштаб</translation>
     </message>
   </context>
   <context>
@@ -1776,72 +1776,72 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
       <source>Plane settings</source>
-      <translation type="unfinished">Plane settings</translation>
+      <translation>Параметри площини</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="52"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Тип</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="62"/>
       <source>Size mode:</source>
-      <translation type="unfinished">Size mode:</translation>
+      <translation>Тип розміру:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Розмір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
       <source>X:</source>
-      <translation type="unfinished">X:</translation>
+      <translation>X:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="107"/>
       <source>Y:</source>
-      <translation type="unfinished">Y:</translation>
+      <translation>Y:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
       <source>Bounds:</source>
-      <translation type="unfinished">Bounds:</translation>
+      <translation>Межі:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
       <source>X max:</source>
-      <translation type="unfinished">X max:</translation>
+      <translation>X макс.:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="171"/>
       <source>X min:</source>
-      <translation type="unfinished">X min:</translation>
+      <translation>X мін.:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="184"/>
       <source>Y min:</source>
-      <translation type="unfinished">Y min:</translation>
+      <translation>Y мін.:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="217"/>
       <source>Y max:</source>
-      <translation type="unfinished">Y max:</translation>
+      <translation>Y макс.:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="226"/>
       <source>Normal:</source>
-      <translation type="unfinished">Normal:</translation>
+      <translation>Нормаль:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>Прозорість:</translation>
     </message>
   </context>
   <context>
@@ -1854,49 +1854,49 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
       <source>ROI Settings</source>
-      <translation type="unfinished">ROI Settings</translation>
+      <translation>Налаштування області інтересів</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="49"/>
       <source>ROI type:</source>
-      <translation type="unfinished">ROI type:</translation>
+      <translation>Тип області інтересів:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="59"/>
       <source>Inside out:</source>
-      <translation type="unfinished">Inside out:</translation>
+      <translation>Всередині:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="77"/>
       <source>L-R Range:</source>
-      <translation type="unfinished">L-R Range:</translation>
+      <translation>Діапазон L-R:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="713"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1356"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1989"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>довжина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
       <source>P-A Range:</source>
-      <translation type="unfinished">P-A Range:</translation>
+      <translation>Діапазон P-A:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1996"/>
       <source>I-S Range:</source>
-      <translation type="unfinished">I-S Range:</translation>
+      <translation>Діапазон I-S:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2038"/>
       <source>Display ROI</source>
-      <translation type="unfinished">Display ROI</translation>
+      <translation>Показати область інтересів</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2061"/>
       <source>Interactive Mode</source>
-      <translation type="unfinished">Interactive Mode</translation>
+      <translation>Інтерактивний режим</translation>
     </message>
   </context>
   <context>
@@ -1904,7 +1904,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
   </context>
   <context>
@@ -1917,12 +1917,12 @@
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
       <source>Test Line Settings</source>
-      <translation type="unfinished">Test Line Settings</translation>
+      <translation>Перевірити налаштування лінії</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="50"/>
       <source>This is a test label in a test widget!</source>
-      <translation type="unfinished">This is a test label in a test widget!</translation>
+      <translation>Це тестова мітка в тестовому віджеті!</translation>
     </message>
   </context>
   <context>
@@ -2192,22 +2192,22 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="77"/>
       <source>Number of Points:</source>
-      <translation type="unfinished">Number of Points:</translation>
+      <translation>Кількість точок:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="94"/>
       <source>Number of Points Scalars:</source>
-      <translation type="unfinished">Number of Points Scalars:</translation>
+      <translation>Кількість скалярних точок:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="111"/>
       <source>Number of Cells Scalars:</source>
-      <translation type="unfinished">Number of Cells Scalars:</translation>
+      <translation>Кількість скалярних клітин:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
       <source>Filename:</source>
-      <translation type="unfinished">Filename:</translation>
+      <translation>Назва файлу:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="185"/>
@@ -2216,17 +2216,17 @@
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="229"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="260"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="195"/>
       <source>Verts</source>
-      <translation type="unfinished">Verts</translation>
+      <translation>Вершини</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
       <source>Lines</source>
-      <translation type="unfinished">Lines</translation>
+      <translation>Лінії</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="239"/>
@@ -2236,17 +2236,17 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="246"/>
       <source>Strips</source>
-      <translation type="unfinished">Strips</translation>
+      <translation>Смуги</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="253"/>
       <source>Max cell size</source>
-      <translation type="unfinished">Max cell size</translation>
+      <translation>Максимальний розмір клітини</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="275"/>
       <source>Number of Cells:</source>
-      <translation type="unfinished">Number of Cells:</translation>
+      <translation>Кількість клітин:</translation>
     </message>
   </context>
   <context>
@@ -2254,39 +2254,39 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="26"/>
       <source>qMRMLNodeAttributeTableView</source>
-      <translation type="unfinished">qMRMLNodeAttributeTableView</translation>
+      <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="53"/>
       <source>No node selected</source>
-      <translation type="unfinished">No node selected</translation>
+      <translation>Об'єкт не вибраний</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="85"/>
       <source>Attribute Name</source>
-      <translation type="unfinished">Attribute Name</translation>
+      <translation>Назва атрибута</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="90"/>
       <source>Attribute Value</source>
-      <translation type="unfinished">Attribute Value</translation>
+      <translation>Значення атрибута</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="133"/>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="254"/>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="283"/>
       <source>No node is selected</source>
-      <translation type="unfinished">No node is selected</translation>
+      <translation>Об'єкт не вибраний</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="142"/>
       <source>Selected node has no attributes</source>
-      <translation type="unfinished">Selected node has no attributes</translation>
+      <translation>Вибраний об'єкт не має атрибутів</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="198"/>
       <source>There is already an attribute with the same name</source>
-      <translation type="unfinished">There is already an attribute with the same name</translation>
+      <translation>Атрибут з таким ім'ям вже існує</translation>
     </message>
   </context>
   <context>
@@ -2294,37 +2294,37 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="14"/>
       <source>qMRMLNodeAttributeTableWidget</source>
-      <translation type="unfinished">qMRMLNodeAttributeTableWidget</translation>
+      <translation>qMRMLNodeAttributeTableWidget</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="44"/>
       <source>Add blank row to the table. The attribute is added to the MRML node when the name and value is set</source>
-      <translation type="unfinished">Add blank row to the table. The attribute is added to the MRML node when the name and value is set</translation>
+      <translation>Додати пустий рядок в таблицю. Атрибут доданий до об'єкта MRML, коли ім'я і значення встановлено</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="47"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Додати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="73"/>
       <source>Remove selected attribute(s)</source>
-      <translation type="unfinished">Remove selected attribute(s)</translation>
+      <translation>Видалити вибраний(-ні) атрибут(-и)</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="76"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Видалити</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="85"/>
       <source>Node information</source>
-      <translation type="unfinished">Node information</translation>
+      <translation>Відомості про об'єкт</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="100"/>
       <source>No node information is available.</source>
-      <translation type="unfinished">No node information is available.</translation>
+      <translation>Немає даних про об'єкт.</translation>
     </message>
   </context>
   <context>
@@ -2332,12 +2332,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Нічого</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="241"/>
       <source>Select a </source>
-      <translation type="unfinished">Select a </translation>
+      <translation>Виберіть </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="299"/>
@@ -4386,57 +4386,57 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1133"/>
       <source>Show thin ruler</source>
-      <translation type="unfinished">Show thin ruler</translation>
+      <translation>Показати тонку лінійку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
       <source>Thick</source>
-      <translation type="unfinished">Thick</translation>
+      <translation>Потовщений</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1144"/>
       <source>Show thick ruler</source>
-      <translation type="unfinished">Show thick ruler</translation>
+      <translation>Показати потовщену лінійку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1152"/>
       <source>White ruler</source>
-      <translation type="unfinished">White ruler</translation>
+      <translation>Лінійка білого кольору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1160"/>
       <source>Black ruler</source>
-      <translation type="unfinished">Black ruler</translation>
+      <translation>Лінійка чорного кольору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1168"/>
       <source>Yellow ruler</source>
-      <translation type="unfinished">Yellow ruler</translation>
+      <translation>Лінійка жовтого кольору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1177"/>
       <source>Toggle segmentation outline/fill</source>
-      <translation type="unfinished">Toggle segmentation outline/fill</translation>
+      <translation>Перемкнути контур/заповнення сегментації</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1180"/>
       <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-      <translation type="unfinished">Toggle between segmentation outline only, outline and fill, and fill only states</translation>
+      <translation>Перемикання між режимами "лише контур сегментації", "контур і заповнення" і лише заливка"</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1196"/>
       <source>Show Segmentation</source>
-      <translation type="unfinished">Show Segmentation</translation>
+      <translation>Показати сегментацію</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1199"/>
       <source>Toggle segmentation visibility</source>
-      <translation type="unfinished">Toggle segmentation visibility</translation>
+      <translation>Перемкнути видимість сегментації</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
       <source>S: </source>
-      <translation type="unfinished">S: </translation>
+      <translation>С: </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
@@ -4467,17 +4467,17 @@ Do you wish to proceed with changing master representation?</translation>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1564"/>
       <source>Oblique</source>
-      <translation type="unfinished">Oblique</translation>
+      <translation>Косий</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="401"/>
       <source>Slice distance from RAS origin</source>
-      <translation type="unfinished">Slice distance from RAS origin</translation>
+      <translation>Відстань зрізу від центру RAS</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2591"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>Продовжити</translation>
     </message>
   </context>
   <context>
@@ -4485,107 +4485,107 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="469"/>
       <source>Linked</source>
-      <translation type="unfinished">Linked</translation>
+      <translation>Пов'язаний</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="484"/>
       <source>Reformat</source>
-      <translation type="unfinished">Reformat</translation>
+      <translation>Змінити формат</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="499"/>
       <source>Lightbox view</source>
-      <translation type="unfinished">Lightbox view</translation>
+      <translation>Перегляд за допомогою лайт-боксу</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="511"/>
       <source>Custom</source>
-      <translation type="unfinished">Custom</translation>
+      <translation>Користувацький</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="521"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>Застосувати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="548"/>
       <source>Compositing</source>
-      <translation type="unfinished">Compositing</translation>
+      <translation>Компонування</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="569"/>
       <source>Slice spacing mode</source>
-      <translation type="unfinished">Slice spacing mode</translation>
+      <translation>Режим інтервалу між зрізами</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="573"/>
       <source>Manual spacing</source>
-      <translation type="unfinished">Manual spacing</translation>
+      <translation>Регулювання відстані вручну</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="588"/>
       <source>Field of view</source>
-      <translation type="unfinished">Field of view</translation>
+      <translation>Область зображення</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="613"/>
       <source>Slice model mode</source>
-      <translation type="unfinished">Slice model mode</translation>
+      <translation>Режим моделювання зрізів</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="633"/>
       <source>Manual FOV</source>
-      <translation type="unfinished">Manual FOV</translation>
+      <translation>Ручне управління FOV</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="658"/>
       <source>Manual Dimensions</source>
-      <translation type="unfinished">Manual Dimensions</translation>
+      <translation>Ручні розміри</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="683"/>
       <source>Manual Origin</source>
-      <translation type="unfinished">Manual Origin</translation>
+      <translation>Походження ручного управління</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="712"/>
       <source>Segmentation</source>
-      <translation type="unfinished">Segmentation</translation>
+      <translation>Сегментація</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="721"/>
       <source>LabelMap</source>
-      <translation type="unfinished">LabelMap</translation>
+      <translation>Показ позначки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="730"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="889"/>
       <source>Hide label volume outlines</source>
-      <translation type="unfinished">Hide label volume outlines</translation>
+      <translation>Приховати контури зображення позначки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="889"/>
       <source>Show label volume outlines</source>
-      <translation type="unfinished">Show label volume outlines</translation>
+      <translation>Показати контури зображення позначки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="894"/>
       <source>Hide reformat widget</source>
-      <translation type="unfinished">Hide reformat widget</translation>
+      <translation>Приховати віджет для зміни формату</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="894"/>
       <source>Show reformat widget</source>
-      <translation type="unfinished">Show reformat widget</translation>
+      <translation>Показати віджет для зміни формату</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1512"/>
       <source>Orientation marker</source>
-      <translation type="unfinished">Orientation marker</translation>
+      <translation>Маркер обертання</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1548"/>
@@ -5152,7 +5152,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="398"/>
       <source>Center</source>
-      <translation type="unfinished">Center</translation>
+      <translation>Центр</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="409"/>
@@ -5167,7 +5167,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
       <source>Show/Hide frames per second (FPS)</source>
-      <translation type="unfinished">Show/Hide frames per second (FPS)</translation>
+      <translation>Показати/Приховати кількість кадрів у секунду (FPS)</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="432"/>
