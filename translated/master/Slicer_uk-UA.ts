@@ -7320,7 +7320,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
       <source>Scalar Range:</source>
-      <translation type="unfinished">Scalar Range:</translation>
+      <translation>Скалярний Діапазон:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="283"/>
@@ -7330,12 +7330,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="211"/>
       <source>Discrete table</source>
-      <translation type="unfinished">Discrete table</translation>
+      <translation>Таблиця дискретних даних</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="269"/>
       <source>Continuous scale</source>
-      <translation type="unfinished">Continuous scale</translation>
+      <translation>Безперервна шкала</translation>
     </message>
   </context>
   <context>
@@ -7343,7 +7343,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="741"/>
       <source>Failed to create %1 directory</source>
-      <translation type="unfinished">Failed to create %1 directory</translation>
+      <translation>Не вдалося створити %1 каталог</translation>
     </message>
   </context>
   <context>
@@ -7351,19 +7351,19 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="592"/>
       <source>%1 load failed.</source>
-      <translation type="unfinished">%1 load failed.</translation>
+      <translation>%1 завантаження не вдалося.</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="827"/>
       <source>Unable to find a storable node with ID %1</source>
-      <translation type="unfinished">Unable to find a storable node with ID %1</translation>
+      <translation>Неможливо знайти збережений об'єкт з ID %1</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="840"/>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="883"/>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="910"/>
       <source>Error encountered while exporting %1</source>
-      <translation type="unfinished">Error encountered while exporting %1</translation>
+      <translation>Сталася помилка під час експорту %1</translation>
     </message>
   </context>
   <context>
@@ -7372,22 +7372,22 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
       <source>Crop Volume</source>
-      <translation type="unfinished">Crop Volume</translation>
+      <translation>Обрізати Зображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
       <source>Parameter set:</source>
-      <translation type="unfinished">Parameter set:</translation>
+      <translation>Налаштування параметрів:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="78"/>
       <source>vtkMRMLCropVolumeParametersNode</source>
-      <translation type="unfinished">vtkMRMLCropVolumeParametersNode</translation>
+      <translation>vtkMRMLCropVolumeParametersNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
       <source>IO</source>
-      <translation type="unfinished">IO</translation>
+      <translation>IO</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
@@ -7398,7 +7398,7 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="148"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="262"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
@@ -7408,12 +7408,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="179"/>
       <source>vtkMRMLMarkupsROINode</source>
-      <translation type="unfinished">vtkMRMLMarkupsROINode</translation>
+      <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="179"/>
       <source>vtkMRMLAnnotationROINode</source>
-      <translation type="unfinished">vtkMRMLAnnotationROINode</translation>
+      <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="185"/>
@@ -7443,23 +7443,23 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="262"/>
       <source>vtkMRMLVectorVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVectorVolumeNode</translation>
+      <translation>vtkMRMLVectorVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="268"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="587"/>
       <source>Cropped volume</source>
-      <translation type="unfinished">Cropped volume</translation>
+      <translation>Обрізане зображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="280"/>
       <source>Create new volume</source>
-      <translation type="unfinished">Create new volume</translation>
+      <translation>Створити нове зображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="296"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="326"/>
@@ -7475,22 +7475,22 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="349"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="359"/>
       <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-      <translation type="unfinished">The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</translation>
+      <translation>Відстань між вокселями в отриманому зображенні буде масштабована цим значенням. При значеннях понад 1,0 обрізане зображення матиме меншу роздільну здатність, ніж первинне зображення. При значеннях менш як 1,0 обрізане зображення матиме більшу роздільну здатність, ніж первинне зображення.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="352"/>
       <source>Spacing scale:</source>
-      <translation type="unfinished">Spacing scale:</translation>
+      <translation>Шкала інтервалів:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="362"/>
       <source>x</source>
-      <translation type="unfinished">x</translation>
+      <translation>x</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="375"/>
       <source>Isotropic spacing:</source>
-      <translation type="unfinished">Isotropic spacing:</translation>
+      <translation>Ізотропний інтервал:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="395"/>
@@ -7501,7 +7501,7 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="404"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="434"/>
       <source>High quality, slow</source>
-      <translation type="unfinished">High quality, slow</translation>
+      <translation>Висока якість, повільна</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="407"/>
@@ -7511,7 +7511,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="414"/>
       <source>Low quality, fastest</source>
-      <translation type="unfinished">Low quality, fastest</translation>
+      <translation>Низька якість, найшвидша</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="417"/>
@@ -7521,12 +7521,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="424"/>
       <source>Medium quality, medium speed</source>
-      <translation type="unfinished">Medium quality, medium speed</translation>
+      <translation>Середня якість, середня швидкість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="427"/>
       <source>Linear</source>
-      <translation type="unfinished">Linear</translation>
+      <translation>Лінійна</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="437"/>
@@ -7541,23 +7541,23 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="453"/>
       <source>Voxel values outside the input volume will be filled with this value</source>
-      <translation type="unfinished">Voxel values outside the input volume will be filled with this value</translation>
+      <translation>Значення вокселів поза межами первинного зображення будуть заповнені цим значенням</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="484"/>
       <source>Volume information</source>
-      <translation type="unfinished">Volume information</translation>
+      <translation>Інформація про зображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="508"/>
       <source>Input volume</source>
-      <translation type="unfinished">Input volume</translation>
+      <translation>Первинне зображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="517"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="596"/>
       <source>Output volume dimension after cropping</source>
-      <translation type="unfinished">Output volume dimension after cropping</translation>
+      <translation>Розмір отриманого зображення після обрізання</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="529"/>
@@ -7565,13 +7565,13 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="608"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="636"/>
       <source>0,0,0</source>
-      <translation type="unfinished">0,0,0</translation>
+      <translation>0,0,0</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="542"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="621"/>
       <source>Output volume spacing after cropping</source>
-      <translation type="unfinished">Output volume spacing after cropping</translation>
+      <translation>Відстань між отриманими зображеннями після обрізання</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="560"/>
@@ -7763,12 +7763,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>Видимість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>Прозорість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
@@ -7778,7 +7778,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="79"/>
       <source>vtkMRMLDiffusionTensorDisplayPropertiesNode</source>
-      <translation type="unfinished">vtkMRMLDiffusionTensorDisplayPropertiesNode</translation>
+      <translation>vtkMRMLDiffusionTensorDisplayPropertiesNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
@@ -7788,7 +7788,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
       <source>Scalar Range:</source>
-      <translation type="unfinished">Scalar Range:</translation>
+      <translation>Скалярний Діапазон:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
