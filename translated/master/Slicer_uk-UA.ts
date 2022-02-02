@@ -4336,52 +4336,52 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1078"/>
       <source>Hide orientation marker</source>
-      <translation type="unfinished">Hide orientation marker</translation>
+      <translation>Приховати маркер обертання</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1086"/>
       <source>Small</source>
-      <translation type="unfinished">Small</translation>
+      <translation>Малий</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1089"/>
       <source>Set orientation marker size to small</source>
-      <translation type="unfinished">Set orientation marker size to small</translation>
+      <translation>Задати маркеру обертання невеликий розмір</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1097"/>
       <source>Medium</source>
-      <translation type="unfinished">Medium</translation>
+      <translation>Середній</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1100"/>
       <source>Set orientation marker size to small to medium</source>
-      <translation type="unfinished">Set orientation marker size to small to medium</translation>
+      <translation>Задати маркеру обертання розмір від малого до середнього</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1108"/>
       <source>Large</source>
-      <translation type="unfinished">Large</translation>
+      <translation>Великий</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1111"/>
       <source>Set orientation marker size to large</source>
-      <translation type="unfinished">Set orientation marker size to large</translation>
+      <translation>Задати маркеру обертання великий розмір</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1119"/>
       <source>No ruler</source>
-      <translation type="unfinished">No ruler</translation>
+      <translation>Без лінійки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1122"/>
       <source>Hide ruler</source>
-      <translation type="unfinished">Hide ruler</translation>
+      <translation>Приховати лінійку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1130"/>
       <source>Thin</source>
-      <translation type="unfinished">Thin</translation>
+      <translation>Тонкий</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1133"/>
