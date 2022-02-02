@@ -3308,12 +3308,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="441"/>
       <source>Higher value means stronger smoothing during closed surface representation conversion.</source>
-      <translation type="unfinished">Higher value means stronger smoothing during closed surface representation conversion.</translation>
+      <translation>Більше значення означає сильніше згладжування при перетворенні уявлення замкнутої поверхні.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1438"/>
       <source>Change master representation to binary labelmap?</source>
-      <translation type="unfinished">Change master representation to binary labelmap?</translation>
+      <translation>Змінити основне уявлення на двійкову карту міток?</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1461"/>
@@ -6043,17 +6043,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="207"/>
       <source>Quantity</source>
-      <translation type="unfinished">Quantity</translation>
+      <translation>Кількість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="221"/>
       <source>Coefficient</source>
-      <translation type="unfinished">Coefficient</translation>
+      <translation>Коефіцієнт</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="244"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Зсув</translation>
     </message>
   </context>
   <context>
@@ -6061,12 +6061,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="379"/>
       <source>Restore view layout</source>
-      <translation type="unfinished">Restore view layout</translation>
+      <translation>Відновити зображення макета</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="384"/>
       <source>Maximize view</source>
-      <translation type="unfinished">Maximize view</translation>
+      <translation>Збільшити вигляд</translation>
     </message>
   </context>
   <context>
@@ -6074,7 +6074,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="139"/>
       <source>Maximize/restore view</source>
-      <translation type="unfinished">Maximize/restore view</translation>
+      <translation>Збільшити/відновити зображення</translation>
     </message>
   </context>
   <context>
@@ -6082,33 +6082,33 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="20"/>
       <source>Volume Information</source>
-      <translation type="unfinished">Volume Information</translation>
+      <translation>Інформація про зображення</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
       <source>Image Dimensions:</source>
-      <translation type="unfinished">Image Dimensions:</translation>
+      <translation>Розміри зображення:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
       <source>Image Spacing:</source>
-      <translation type="unfinished">Image Spacing:</translation>
+      <translation>Відстань між зображеннями:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="77"/>
       <source>0,0,0</source>
-      <translation type="unfinished">0,0,0</translation>
+      <translation>0,0,0</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="80"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="109"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>довжина</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="90"/>
       <source>Image Origin:</source>
-      <translation type="unfinished">Image Origin:</translation>
+      <translation>Першоджерело зображення:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
@@ -6118,47 +6118,47 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
       <source>Set a parent transform to the volume that center it on the origin. Harden the transform to permanently change the volume position.</source>
-      <translation type="unfinished">Set a parent transform to the volume that center it on the origin. Harden the transform to permanently change the volume position.</translation>
+      <translation>Установіть батьківське перетворення для зображення, щоб відцентрувати його відносно початку координат. Закріпіть перетворення, щоб назавжди змінити розташування зображення.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="160"/>
       <source>Center Volume</source>
-      <translation type="unfinished">Center Volume</translation>
+      <translation>Відцентрувати зображення</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="167"/>
       <source>Scan Order:</source>
-      <translation type="unfinished">Scan Order:</translation>
+      <translation>Порядок сканування:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="188"/>
       <source>Number of Scalars:</source>
-      <translation type="unfinished">Number of Scalars:</translation>
+      <translation>Кількість скалярів:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="216"/>
       <source>Scalar Type:</source>
-      <translation type="unfinished">Scalar Type:</translation>
+      <translation>Скалярний тип:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="240"/>
       <source>Scalar Range:</source>
-      <translation type="unfinished">Scalar Range:</translation>
+      <translation>Скалярний діапазон:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="254"/>
       <source>Volume type:</source>
-      <translation type="unfinished">Volume type:</translation>
+      <translation>Тип зображення:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="261"/>
       <source>VolumeTag</source>
-      <translation type="unfinished">VolumeTag</translation>
+      <translation>Ярлик зображення</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="268"/>
       <source>File Name:</source>
-      <translation type="unfinished">File Name:</translation>
+      <translation>Ім'я файлу:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
@@ -6171,7 +6171,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="14"/>
       <source>Volume Property Node</source>
-      <translation type="unfinished">Volume Property Node</translation>
+      <translation>Об'єкт, що містить властивості зображення</translation>
     </message>
   </context>
   <context>
@@ -6179,32 +6179,32 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
       <source>Threshold: </source>
-      <translation type="unfinished">Threshold: </translation>
+      <translation>Граничне значення: </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="37"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Автоматично</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="42"/>
       <source>Manual</source>
-      <translation type="unfinished">Manual</translation>
+      <translation>Вручну</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="47"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>Вимкнути</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="60"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
   </context>
   <context>
@@ -6213,7 +6213,7 @@ p, li { white-space: pre-wrap; }
       <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="83"/>
       <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="93"/>
       <source>Set the range boundaries to control large numbers or allow fine tuning</source>
-      <translation type="unfinished">Set the range boundaries to control large numbers or allow fine tuning</translation>
+      <translation>Задати межі діапазону, щоб контролювати великі числа або забезпечити точне налаштування</translation>
     </message>
   </context>
   <context>
@@ -6754,22 +6754,22 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="435"/>
       <source>Set all annotations in active list visible</source>
-      <translation type="unfinished">Set all annotations in active list visible</translation>
+      <translation>Встановити видимість всіх анотацій в активному списку</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="454"/>
       <source>Click a hierarchy to activate it. If the Main Hierarchy is active, new per-annotation lists will be created under it, otherwise annotations will be added to the active list.</source>
-      <translation type="unfinished">Click a hierarchy to activate it. If the Main Hierarchy is active, new per-annotation lists will be created under it, otherwise annotations will be added to the active list.</translation>
+      <translation>Натисніть на ієрархію, щоб активувати її. Якщо активна головна ієрархія, під нею будуть створені нові списки анотацій, інакше анотації будуть додані в активний список.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="457"/>
       <source>Active list: </source>
-      <translation type="unfinished">Active list: </translation>
+      <translation>Активний список: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="522"/>
       <source>Select all annotations and hierarchies</source>
-      <translation type="unfinished">Select all annotations and hierarchies</translation>
+      <translation>Обрати всі анотації та ієрархії</translation>
     </message>
   </context>
   <context>
