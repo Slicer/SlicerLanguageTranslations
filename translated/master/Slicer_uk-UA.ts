@@ -6777,33 +6777,33 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
       <source>&amp;Keyboard Shortcuts</source>
-      <translation type="unfinished">&amp;Keyboard Shortcuts</translation>
+      <translation>&amp;Гарячі Клавіші</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
       <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
-      <translation type="unfinished">Raise a window that lists commonly-used keyboard shortcuts.</translation>
+      <translation>Викликати вікно зі списком часто використовуваних гарячих клавіш.</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
       <source>Interface Documentation</source>
-      <translation type="unfinished">Interface Documentation</translation>
+      <translation>Документація про інтерфейс</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
       <source>Ctrl+1</source>
       <comment>Interface Documentation</comment>
-      <translation type="unfinished">Ctrl+1</translation>
+      <translation>Ctrl+1</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
       <source>Browse tutorials</source>
-      <translation type="unfinished">Browse tutorials</translation>
+      <translation>Переглянути посібники</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="88"/>
       <source>Raise the training pages in your favorite web browser</source>
-      <translation type="unfinished">Raise the training pages in your favorite web browser</translation>
+      <translation>Викликати навчальні сторінки у вашому улюбленому веб-браузері</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="92"/>
@@ -6813,32 +6813,32 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="96"/>
       <source>Visual Blog</source>
-      <translation type="unfinished">Visual Blog</translation>
+      <translation>Візуальний Блог</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="97"/>
       <source>Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</source>
-      <translation type="unfinished">Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</translation>
+      <translation>Відкрийте візуальний блог Slicer за допомогою вашого улюбленого веб-браузера, де ви можете розмістити скріншоти цікавих способів використання програмного пакету Slicer у ваших дослідженнях і поділитися ними зі спільнотою Slicer.</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="101"/>
       <source>Report a bug</source>
-      <translation type="unfinished">Report a bug</translation>
+      <translation>Повідомити про помилку</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
       <source>Report error or request enhancement or new feature.</source>
-      <translation type="unfinished">Report error or request enhancement or new feature.</translation>
+      <translation>Повідомити про помилку або зробити запит про вдосконалення програми або її нову функцію.</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="106"/>
       <source>About 3D Slicer</source>
-      <translation type="unfinished">About 3D Slicer</translation>
+      <translation>Про 3D Slicer</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
       <source>Provides a description of the Slicer effort and its support.</source>
-      <translation type="unfinished">Provides a description of the Slicer effort and its support.</translation>
+      <translation>Надає інформацію про зусилля при створенні Slicer і його технічну підтримку.</translation>
     </message>
   </context>
   <context>
@@ -6846,58 +6846,58 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="275"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>Основне</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="278"/>
       <source>Modules</source>
-      <translation type="unfinished">Modules</translation>
+      <translation>Модулі</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="282"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Інтерфейс</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="286"/>
       <source>Views</source>
-      <translation type="unfinished">Views</translation>
+      <translation>Перегляди</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="290"/>
       <source>User</source>
-      <translation type="unfinished">User</translation>
+      <translation>Користувач</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="294"/>
       <source>Extensions</source>
-      <translation type="unfinished">Extensions</translation>
+      <translation>Розширення</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="298"/>
       <source>Cache</source>
-      <translation type="unfinished">Cache</translation>
+      <translation>Кеш</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="303"/>
       <source>Internationalization</source>
-      <translation type="unfinished">Internationalization</translation>
+      <translation>Інтернаціоналізація</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="309"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="314"/>
       <source>Developer</source>
-      <translation type="unfinished">Developer</translation>
+      <translation>Розробник</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="417"/>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="453"/>
       <source>%1 has caught an application error, </source>
-      <translation type="unfinished">%1 has caught an application error, </translation>
+      <translation>%1 помітив помилку у програмі, </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="418"/>
@@ -6905,14 +6905,14 @@ p, li { white-space: pre-wrap; }
       <source>please save your work and restart.
 
 </source>
-      <translation type="unfinished">please save your work and restart.
+      <translation>будь ласка, збережіть свою роботу та перезавантажте.
 
 </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="419"/>
       <source>The application has run out of memory. </source>
-      <translation type="unfinished">The application has run out of memory. </translation>
+      <translation>У програми закінчилася пам'ять. </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
@@ -6924,14 +6924,14 @@ p, li { white-space: pre-wrap; }
       <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
-      <translation type="unfinished">Increasing virtual memory size in system settings or adding more RAM may fix this issue.
+      <translation>Збільшення розміру віртуальної пам'яті в системних налаштуваннях або додавання більшого об'єму оперативній пам'яті може усунути цю проблему.
 
 </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="424"/>
       <source>linux</source>
-      <translation type="unfinished">linux</translation>
+      <translation>linux</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="426"/>
@@ -6945,14 +6945,14 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="428"/>
       <source>darwin</source>
-      <translation type="unfinished">darwin</translation>
+      <translation>Дарвін</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="430"/>
       <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
-      <translation type="unfinished">Increasing free disk space or adding more RAM may fix this issue.
+      <translation>Збільшення вільного місця на диску або об'єму оперативної пам'яті може вирішити цю проблему.
 
 </translation>
     </message>
@@ -6961,7 +6961,7 @@ p, li { white-space: pre-wrap; }
       <source>Adding more RAM may fix this issue.
 
 </source>
-      <translation type="unfinished">Adding more RAM may fix this issue.
+      <translation>Збільшення об'єму оперативної пам'яті може вирішити цю проблему.
 
 </translation>
     </message>
@@ -6969,7 +6969,7 @@ p, li { white-space: pre-wrap; }
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="436"/>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="455"/>
       <source>If you have a repeatable sequence of steps that causes this message, </source>
-      <translation type="unfinished">If you have a repeatable sequence of steps that causes this message, </translation>
+      <translation>Якщо ви виявили послідовність дій, що повторюється і викликає це повідомлення, </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="437"/>
@@ -6978,7 +6978,7 @@ p, li { white-space: pre-wrap; }
 
 
 </source>
-      <translation type="unfinished">please report the issue following instructions available at http://slicer.org
+      <translation>будь ласка, повідомте про проблему за допомогою інструкцій, що доступні на сайті http://slicer.org
 
 
 </translation>
@@ -6989,7 +6989,7 @@ p, li { white-space: pre-wrap; }
       <source>The message detail is:
 
 </source>
-      <translation type="unfinished">The message detail is:
+      <translation>Деталі повідомлення:
 
 </translation>
     </message>
@@ -7003,12 +7003,12 @@ p, li { white-space: pre-wrap; }
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="447"/>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="466"/>
       <source>Application Error</source>
-      <translation type="unfinished">Application Error</translation>
+      <translation>Помилка в роботі програми</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="623"/>
       <source>Are you sure you want to restart?</source>
-      <translation type="unfinished">Are you sure you want to restart?</translation>
+      <translation>Ви дійсно хочете перезавантажити?</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="765"/>
@@ -7021,7 +7021,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="254"/>
       <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
-      <translation type="unfinished">Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</translation>
+      <translation>Можливостей графіки комп'ютера недостатньо, аби запустити цю програму. Програма, швидше за все, не працюватиме як слід.</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="257"/>
@@ -7031,17 +7031,17 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-      <translation type="unfinished">See more information and help at:
+      <translation>Додаткову інформацію та допомогу можна отримати на сайті: 
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
-Graphics capabilities of this computer:
+Графічні можливості цього комп'ютера:
 
 </translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="266"/>
       <source>Insufficient graphics capability</source>
-      <translation type="unfinished">Insufficient graphics capability</translation>
+      <translation>Можливостей графіки недостатньо</translation>
     </message>
   </context>
   <context>
@@ -7049,17 +7049,17 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
       <source>Module</source>
-      <translation type="unfinished">Module</translation>
+      <translation>Модуль</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
       <source>Module Title</source>
-      <translation type="unfinished">Module Title</translation>
+      <translation>Назва Модуля</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="58"/>
       <source>vtkMRMLCommandLineModuleNode</source>
-      <translation type="unfinished">vtkMRMLCommandLineModuleNode</translation>
+      <translation>vtkMRMLCommandLineModuleNode</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
@@ -7305,12 +7305,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
       <source>Number of Colors: </source>
-      <translation type="unfinished">Number of Colors: </translation>
+      <translation>Кількість Кольорів: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="256"/>
       <source>Hide empty Colors: </source>
-      <translation type="unfinished">Hide empty Colors: </translation>
+      <translation>Приховати відсутні Кольори: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
