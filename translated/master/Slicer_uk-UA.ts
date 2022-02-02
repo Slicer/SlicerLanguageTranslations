@@ -7793,22 +7793,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
       <source>Glyph Type:</source>
-      <translation type="unfinished">Glyph Type:</translation>
+      <translation>Тип гліфа:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
       <source>Lines</source>
-      <translation type="unfinished">Lines</translation>
+      <translation>Лінії</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
       <source>Tubes</source>
-      <translation type="unfinished">Tubes</translation>
+      <translation>Трубки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
       <source>Ellipsoids</source>
-      <translation type="unfinished">Ellipsoids</translation>
+      <translation>Еліпсоїди</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
@@ -7818,7 +7818,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
       <source>Spacing:</source>
-      <translation type="unfinished">Spacing:</translation>
+      <translation>Відстань:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
@@ -7830,24 +7830,24 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
       <source>Major</source>
-      <translation type="unfinished">Major</translation>
+      <translation>Основна</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
       <source>Middle</source>
-      <translation type="unfinished">Middle</translation>
+      <translation>Середній</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
       <source>Minor</source>
-      <translation type="unfinished">Minor</translation>
+      <translation>Незначна</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
       <source>Manual or Auto scalar range</source>
-      <translation type="unfinished">Manual or Auto scalar range</translation>
+      <translation>Ручний або Автоматичний скалярний діапазон</translation>
     </message>
   </context>
   <context>
@@ -7855,42 +7855,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
       <source>Add data into the scene</source>
-      <translation type="unfinished">Add data into the scene</translation>
+      <translation>Додати дані в робочий простір</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
       <source>Choose Directory to Add</source>
-      <translation type="unfinished">Choose Directory to Add</translation>
+      <translation>Обрати теку для Додавання</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="27"/>
       <source>Choose File(s) to Add</source>
-      <translation type="unfinished">Choose File(s) to Add</translation>
+      <translation>Обрати файл(и) для Додавання</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="90"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>Файл</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="95"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Опис</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="100"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Налаштування</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="118"/>
       <source>Show Options</source>
-      <translation type="unfinished">Show Options</translation>
+      <translation>Показати Налаштування</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="524"/>
       <source>Any Data</source>
-      <translation type="unfinished">Any Data</translation>
+      <translation>Усі Дані</translation>
     </message>
   </context>
   <context>
@@ -7898,12 +7898,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="446"/>
       <source>Open archive?</source>
-      <translation type="unfinished">Open archive?</translation>
+      <translation>Відкрити архів?</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="447"/>
       <source>The selected file is a .zip archive, open it and load contents?</source>
-      <translation type="unfinished">The selected file is a .zip archive, open it and load contents?</translation>
+      <translation>Вибраний файл є архівом .zip, відкрити його і завантажити вміст?</translation>
     </message>
   </context>
   <context>
@@ -7911,12 +7911,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
       <source>Data</source>
-      <translation type="unfinished">Data</translation>
+      <translation>Дані</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
       <source>Filter:</source>
-      <translation type="unfinished">Filter:</translation>
+      <translation>Фільтр:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
@@ -7931,7 +7931,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
       <source>Show transforms</source>
-      <translation type="unfinished">Show transforms</translation>
+      <translation>Показати зміни</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
@@ -7948,28 +7948,28 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
       <source>No item selected</source>
-      <translation type="unfinished">No item selected</translation>
+      <translation>Жоден елемент не вибрано</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
       <source>Transform hierarchy</source>
-      <translation type="unfinished">Transform hierarchy</translation>
+      <translation>Ієрархія перетворень</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
       <source>Show hidden nodes</source>
-      <translation type="unfinished">Show hidden nodes</translation>
+      <translation>Показати приховані об'єкти</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="273"/>
       <source>vtkMRMLTransformableNode</source>
-      <translation type="unfinished">vtkMRMLTransformableNode</translation>
+      <translation>vtkMRMLTransformableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
       <source>All nodes</source>
-      <translation type="unfinished">All nodes</translation>
+      <translation>Усі об'єкти</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
@@ -7979,12 +7979,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
       <source>Insert transform</source>
-      <translation type="unfinished">Insert transform</translation>
+      <translation>Вставити зміни</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
       <source>Harden transform</source>
-      <translation type="unfinished">Harden transform</translation>
+      <translation>Серйозна трансформація</translation>
     </message>
   </context>
   <context>
@@ -7997,12 +7997,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
       <source>Scalar Display</source>
-      <translation type="unfinished">Scalar Display</translation>
+      <translation>Скалярне відображення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
       <source>Scalar Mode:</source>
-      <translation type="unfinished">Scalar Mode:</translation>
+      <translation>Скалярний Режим:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
@@ -8012,22 +8012,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
       <source>Slice Visibility:</source>
-      <translation type="unfinished">Slice Visibility:</translation>
+      <translation>Видимість зрізу:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
       <source>Red</source>
-      <translation type="unfinished">Red</translation>
+      <translation>Червоний</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
       <source>Yellow</source>
-      <translation type="unfinished">Yellow</translation>
+      <translation>Жовтий</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
       <source>Green</source>
-      <translation type="unfinished">Green</translation>
+      <translation>Зелений</translation>
     </message>
   </context>
   <context>
@@ -8254,7 +8254,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="145"/>
       <source>Uninstall</source>
-      <translation type="unfinished">Uninstall</translation>
+      <translation>Видалити</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="152"/>
@@ -8264,7 +8264,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="155"/>
       <source>Cancel Uninstall</source>
-      <translation type="unfinished">Cancel Uninstall</translation>
+      <translation>Скасувати Видалення</translation>
     </message>
   </context>
   <context>
@@ -8277,7 +8277,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
       <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-      <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</translation>
+      <translation>&lt;font color=&quot;red&quot;&gt;* Запит на перезавантаження&lt;/font&gt;</translation>
     </message>
   </context>
   <context>
@@ -8285,17 +8285,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="529"/>
       <source>Failed to open extensions settings file %1</source>
-      <translation type="unfinished">Failed to open extensions settings file %1</translation>
+      <translation>Не вдалося відкрити файл налаштувань розширень %1</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="567"/>
       <source>Failed to open extensions settings file: %1</source>
-      <translation type="unfinished">Failed to open extensions settings file: %1</translation>
+      <translation>Не вдалося відкрити файл налаштувань розширень %1</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="605"/>
       <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-      <translation type="unfinished">Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+      <translation>Каталогу для встановлення розширень НЕ існує: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="622"/>
@@ -8348,17 +8348,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
       <source>Install Extensions</source>
-      <translation type="unfinished">Install Extensions</translation>
+      <translation>Встановити Розширення</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="70"/>
       <source>Restore Extensions</source>
-      <translation type="unfinished">Restore Extensions</translation>
+      <translation>Відновити Розширення</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="586"/>
       <source>restore %1 extension(s)</source>
-      <translation type="unfinished">restore %1 extension(s)</translation>
+      <translation>відновити %1 розширення</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="598"/>
@@ -8437,7 +8437,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="467"/>
       <source>Installing %1 (%2/%3)</source>
-      <translation type="unfinished">Installing %1 (%2/%3)</translation>
+      <translation>Встановлення %1 (%2/%3)</translation>
     </message>
   </context>
   <context>
@@ -8445,27 +8445,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
       <source>Install Extension from File...</source>
-      <translation type="unfinished">Install Extension from File...</translation>
+      <translation>Встановити Розширення з Файлу...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
       <source>Install from file...</source>
-      <translation type="unfinished">Install from file...</translation>
+      <translation>Встановити з файлу...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="68"/>
       <source>&amp;Check for Updates</source>
-      <translation type="unfinished">&amp;Check for Updates</translation>
+      <translation>&amp;Перевірити наявність Оновлень</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="76"/>
       <source>Install Updates &amp;Automatically</source>
-      <translation type="unfinished">Install Updates &amp;Automatically</translation>
+      <translation>Встановити оновлення &amp;Автоматично</translation>
     </message>
   </context>
   <context>
@@ -8473,52 +8473,52 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="81"/>
       <source>128 MB</source>
-      <translation type="unfinished">128 MB</translation>
+      <translation>128 МБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="82"/>
       <source>256 MB</source>
-      <translation type="unfinished">256 MB</translation>
+      <translation>256 МБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="83"/>
       <source>512 MB</source>
-      <translation type="unfinished">512 MB</translation>
+      <translation>512 МБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="84"/>
       <source>1024 MB</source>
-      <translation type="unfinished">1024 MB</translation>
+      <translation>1024 МБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="85"/>
       <source>1.5 GB</source>
-      <translation type="unfinished">1.5 GB</translation>
+      <translation>1,5 ГБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="86"/>
       <source>2 GB</source>
-      <translation type="unfinished">2 GB</translation>
+      <translation>2 ГБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="87"/>
       <source>3 GB</source>
-      <translation type="unfinished">3 GB</translation>
+      <translation>3 ГБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="88"/>
       <source>4 GB</source>
-      <translation type="unfinished">4 GB</translation>
+      <translation>4 ГБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="89"/>
       <source>6 GB</source>
-      <translation type="unfinished">6 GB</translation>
+      <translation>6 ГБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="90"/>
       <source>8 GB</source>
-      <translation type="unfinished">8 GB</translation>
+      <translation>8 ГБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="91"/>
