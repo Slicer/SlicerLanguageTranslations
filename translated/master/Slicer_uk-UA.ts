@@ -4331,7 +4331,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1075"/>
       <source>No orientation marker</source>
-      <translation type="unfinished">No orientation marker</translation>
+      <translation>Без маркеру обертання</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1078"/>
@@ -4598,22 +4598,22 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
       <source>Layout Name:</source>
-      <translation type="unfinished">Layout Name:</translation>
+      <translation>Назва макета:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="33"/>
       <source>Name of the slice</source>
-      <translation type="unfinished">Name of the slice</translation>
+      <translation>Назва зрізу</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
       <source>Orientation:</source>
-      <translation type="unfinished">Orientation:</translation>
+      <translation>Орієнтація:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
@@ -4623,7 +4623,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
       <source>Axial</source>
-      <translation type="unfinished">Axial</translation>
+      <translation>Осьовий</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="59"/>
@@ -4654,7 +4654,7 @@ Do you wish to proceed with changing master representation?</translation>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="121"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
@@ -4719,12 +4719,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>Автоматично</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
       <source>Manual</source>
-      <translation type="unfinished">Manual</translation>
+      <translation>Власноруч</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
@@ -4752,7 +4752,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
       <source>qMRMLSliceWidget</source>
-      <translation type="unfinished">qMRMLSliceWidget</translation>
+      <translation>qMRMLSliceWidget</translation>
     </message>
   </context>
   <context>
@@ -4760,7 +4760,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Відсутньо</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="130"/>
@@ -4770,7 +4770,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="131"/>
       <source>Node description</source>
-      <translation type="unfinished">Node description</translation>
+      <translation>Опис об'єкта</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
@@ -4780,7 +4780,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
       <source>Node color</source>
-      <translation type="unfinished">Node color</translation>
+      <translation>Колір об'єкта</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
@@ -4790,7 +4790,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
       <source>Node ID</source>
-      <translation type="unfinished">Node ID</translation>
+      <translation>ID об'єкта</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1028"/>
@@ -4899,7 +4899,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="28"/>
       <source>vtkMRMLTableNode</source>
-      <translation type="unfinished">vtkMRMLTableNode</translation>
+      <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
@@ -4921,7 +4921,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="251"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="265"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
@@ -4936,12 +4936,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
       <source>Add column</source>
-      <translation type="unfinished">Add column</translation>
+      <translation>Додати стовпчик</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="187"/>
       <source>Delete column</source>
-      <translation type="unfinished">Delete column</translation>
+      <translation>Видалити стовпець</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
@@ -4951,12 +4951,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="234"/>
       <source>Add row</source>
-      <translation type="unfinished">Add row</translation>
+      <translation>Додати рядок</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="248"/>
       <source>Delete row</source>
-      <translation type="unfinished">Delete row</translation>
+      <translation>Видалити рядок</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
@@ -4966,7 +4966,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="135"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
   </context>
   <context>
@@ -4974,12 +4974,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Копіювати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Вставити</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
@@ -4992,22 +4992,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Редагувати</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="47"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Скасувати</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="57"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>Зберегти</translation>
     </message>
   </context>
   <context>
@@ -5092,7 +5092,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="312"/>
       <source>Anaglyph</source>
-      <translation type="unfinished">Anaglyph</translation>
+      <translation>Анагліф</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="320"/>
@@ -5102,7 +5102,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="328"/>
       <source>Interlaced</source>
-      <translation type="unfinished">Interlaced</translation>
+      <translation>Із чергуванням рядків</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="331"/>
@@ -5122,32 +5122,32 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
       <source>Light blue background</source>
-      <translation type="unfinished">Light blue background</translation>
+      <translation>Світло-синій фон</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="367"/>
       <source>Set light blue background</source>
-      <translation type="unfinished">Set light blue background</translation>
+      <translation>Налаштувати світло-синій фон</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="375"/>
       <source>Black background</source>
-      <translation type="unfinished">Black background</translation>
+      <translation>Чорний фон</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="378"/>
       <source>Set black background</source>
-      <translation type="unfinished">Set black background</translation>
+      <translation>Налаштувати чорний фон</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="386"/>
       <source>White background</source>
-      <translation type="unfinished">White background</translation>
+      <translation>Білий фон</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="389"/>
       <source>Set white background</source>
-      <translation type="unfinished">Set white background</translation>
+      <translation>Налаштувати білий фон</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="398"/>
@@ -5493,12 +5493,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="396"/>
       <source>Contour</source>
-      <translation type="unfinished">Contour</translation>
+      <translation>Контур</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="429"/>
       <source>Show transform in the 3D views</source>
-      <translation type="unfinished">Show transform in the 3D views</translation>
+      <translation>Показати перетворення у 3D-вигляді</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="442"/>
@@ -5508,42 +5508,42 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="445"/>
       <source>Region:</source>
-      <translation type="unfinished">Region:</translation>
+      <translation>Регіон:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="461"/>
       <source>Region for visualizing transform nodes (will only use size, orientation and position)</source>
-      <translation type="unfinished">Region for visualizing transform nodes (will only use size, orientation and position)</translation>
+      <translation>Область для візуалізації об'єктів перетворення (буде використовувати тільки розмір, орієнтацію та положення)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
       <source>vtkMRMLSliceNode</source>
-      <translation type="unfinished">vtkMRMLSliceNode</translation>
+      <translation>vtkMRMLSliceNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="489"/>
       <source>Select a node</source>
-      <translation type="unfinished">Select a node</translation>
+      <translation>Оберіть об'єкт</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="498"/>
       <source>Colors</source>
-      <translation type="unfinished">Colors</translation>
+      <translation>Кольори</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="529"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="544"/>
@@ -5555,28 +5555,28 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="547"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="924"/>
       <source>Spacing:</source>
-      <translation type="unfinished">Spacing:</translation>
+      <translation>Відстань:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="554"/>
       <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-      <translation type="unfinished">Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</translation>
+      <translation>Відсоток зсуву, що використовується для встановлення розміру гліфа. Це 100% означає, що розмір гліфа дорівнює фактичному зсуву.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="557"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="971"/>
       <source>Scale factor:</source>
-      <translation type="unfinished">Scale factor:</translation>
+      <translation>Коефіцієнт масштабування:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="564"/>
       <source>Glyphs are shown if the displacement magnitude is within this range</source>
-      <translation type="unfinished">Glyphs are shown if the displacement magnitude is within this range</translation>
+      <translation>Гліфи відображаються, якщо величина зсуву знаходиться в цьому діапазоні</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="567"/>
       <source>Visible range:</source>
-      <translation type="unfinished">Visible range:</translation>
+      <translation>Видимий діапазон:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="601"/>
@@ -5586,28 +5586,28 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1081"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1189"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>довжина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="611"/>
       <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-      <translation type="unfinished">Only those glyphs are shown that have displacement magnitude within this range</translation>
+      <translation>Відображаються лише ті гліфи, величина зсуву яких знаходиться в цьому діапазоні</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="636"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="652"/>
       <source>Choose a glyph type to use</source>
-      <translation type="unfinished">Choose a glyph type to use</translation>
+      <translation>Виберіть тип гліфа для використання</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="639"/>
       <source>Glyph type:</source>
-      <translation type="unfinished">Glyph type:</translation>
+      <translation>Тип гліфа:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="659"/>
       <source>Arrow</source>
-      <translation type="unfinished">Arrow</translation>
+      <translation>Стрілка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="664"/>
@@ -5617,12 +5617,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="669"/>
       <source>Sphere</source>
-      <translation type="unfinished">Sphere</translation>
+      <translation>Сфера</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="683"/>
       <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
-      <translation type="unfinished">Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</translation>
+      <translation>Відсоток зсуву, що використовується для встановлення розміру гліфа. Це 100% означає, що розмір гліфа дорівнює фактичному зсуву. Не впливає на забарвлення і видимий діапазон.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="701"/>
@@ -5631,12 +5631,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1002"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1221"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="714"/>
       <source>3D glyph settings</source>
-      <translation type="unfinished">3D glyph settings</translation>
+      <translation>Параметри 3D-гліфів</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="735"/>
@@ -5713,7 +5713,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="888"/>
       <source>vtkMRMLMarkupsNode</source>
-      <translation type="unfinished">vtkMRMLMarkupsNode</translation>
+      <translation>vtkMRMLMarkupsNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="902"/>
@@ -5950,12 +5950,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Укажіть префікс пристрою..&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Префікс одиниці виміру буде відображатися у програмі перед значенням одиниці&apos;виміру. Наприклад, префікс &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; може використовуватися перед одиницею.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"/>
@@ -6287,7 +6287,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="44"/>
       <source>More...</source>
-      <translation type="unfinished">More...</translation>
+      <translation>Більше…</translation>
     </message>
   </context>
   <context>
@@ -6295,7 +6295,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="73"/>
       <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-      <translation type="unfinished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
+      <translation>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
     </message>
   </context>
   <context>
@@ -6313,7 +6313,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
       <source>Ruler</source>
-      <translation type="unfinished">Ruler</translation>
+      <translation>Лінійка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
@@ -6337,12 +6337,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="35"/>
       <source>Color:</source>
-      <translation type="unfinished">Color:</translation>
+      <translation>Колір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="60"/>
       <source>Propagate changes to all nodes in this list. If not checked, only when the hierarchy is collapsed will the nodes below it use these display properties.</source>
-      <translation type="unfinished">Propagate changes to all nodes in this list. If not checked, only when the hierarchy is collapsed will the nodes below it use these display properties.</translation>
+      <translation>Поширити зміни на всі об'єкти в цьому списку. Якщо прапорець не встановлений, лише коли ієрархія згорнута, об'єкти нижче використовуватимуть ці властивості відображення.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="66"/>
@@ -6367,23 +6367,23 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="142"/>
       <source>Description:</source>
-      <translation type="unfinished">Description:</translation>
+      <translation>Опис:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="191"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="637"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Размір:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="200"/>
       <source>Change the annotation size to small by setting the scale on all components of the annotation (text, point, line) to half of the large scale</source>
-      <translation type="unfinished">Change the annotation size to small by setting the scale on all components of the annotation (text, point, line) to half of the large scale</translation>
+      <translation>Змінити розмір анотації на маленький, встановивши масштаб для всіх компонентів анотації (текст, точка, лінія) на половину від великого масштабу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="203"/>
       <source>small</source>
-      <translation type="unfinished">small</translation>
+      <translation>малий</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="210"/>
