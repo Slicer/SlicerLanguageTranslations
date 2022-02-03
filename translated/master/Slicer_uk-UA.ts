@@ -1940,7 +1940,7 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
       <source>Representation:</source>
-      <translation type="unfinished">Representation:</translation>
+      <translation>Представлення:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
@@ -1975,7 +1975,7 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>Все</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="91"/>
@@ -2129,7 +2129,7 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="460"/>
       <source>Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</source>
-      <translation type="unfinished">Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</translation>
+      <translation>Таблиця кольорів відображає відстань від площини зрізу на кольори. Використовується, коли вибрано режим "Проєкція з кодуванням відстані".</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="470"/>
@@ -2483,17 +2483,17 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="266"/>
       <source>Font Type:</source>
-      <translation type="unfinished">Font Type:</translation>
+      <translation>Тип шрифту:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="273"/>
       <source>Chart title font size:</source>
-      <translation type="unfinished">Chart title font size:</translation>
+      <translation>Розмір шрифту заголовку діаграми:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
       <source>Axis title font size:</source>
-      <translation type="unfinished">Axis title font size:</translation>
+      <translation>Розмір шрифту назви осі:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
@@ -6388,22 +6388,22 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="210"/>
       <source>Change the annotation size to medium by setting the scale on all components of the annotation (text, point, line) to three quarters of the large scale</source>
-      <translation type="unfinished">Change the annotation size to medium by setting the scale on all components of the annotation (text, point, line) to three quarters of the large scale</translation>
+      <translation>Змінити розмір анотації на середній, встановивши масштаб для всіх компонентів анотації (текст, точка, лінія) на три чверті від великого масштабу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="213"/>
       <source>Medium</source>
-      <translation type="unfinished">Medium</translation>
+      <translation>Середній</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="220"/>
       <source>Change the annotation size to large (default) by setting the scale on all components of the annotation (text, point, line)</source>
-      <translation type="unfinished">Change the annotation size to large (default) by setting the scale on all components of the annotation (text, point, line)</translation>
+      <translation>Змінити розмір анотації на великий (за умовчанням), встановивши масштаб для всіх компонентів анотації (текст, точка, лінія)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="223"/>
       <source>LARGE</source>
-      <translation type="unfinished">LARGE</translation>
+      <translation>ВЕЛИКИЙ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="232"/>
@@ -6414,12 +6414,12 @@ p, li { white-space: pre-wrap; }
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="239"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="923"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>довжина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="255"/>
       <source>Apply text scale to all annotations in this hierarchy</source>
-      <translation type="unfinished">Apply text scale to all annotations in this hierarchy</translation>
+      <translation>Застосувати масштабування тексту до всіх анотацій у цій ієрархії</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="258"/>
@@ -6429,26 +6429,26 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="265"/>
       <source>Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</source>
-      <translation type="unfinished">Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+      <translation>Застосувати масштабування тексту до всіх анотацій у цій ієрархії (поточне налаштування може не відображати масштаб тексту, це налаштування лише для списку, натисніть кнопку за умовчанням, щоб повернутися до стандартного розміру).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="278"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="315"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="352"/>
       <source>Set to default</source>
-      <translation type="unfinished">Set to default</translation>
+      <translation>Встановити за умовчанням</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="281"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="318"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="355"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>За умовчанням</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="292"/>
       <source>Apply glyph scale to all annotations in this hierarchy</source>
-      <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy</translation>
+      <translation>Застосувати масштабування гліфів до всіх анотацій у цій ієрархії</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="295"/>
@@ -6458,12 +6458,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="302"/>
       <source>Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</source>
-      <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+      <translation>Застосувати масштабування гліфів до всіх анотацій у цій ієрархії (поточне налаштування може не відображати масштаб гліфів, це налаштування лише для списку, натисніть кнопку за умовчанням, щоб повернутися до стандартного розміру)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
       <source>Apply glyph type to all annotations in this hierarchy</source>
-      <translation type="unfinished">Apply glyph type to all annotations in this hierarchy</translation>
+      <translation>Застосувати тип гліфів до всіх анотацій у цій ієрархії</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="332"/>
@@ -6473,7 +6473,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="339"/>
       <source>Apply glyph type to all annotations in this hierarchy (current setting may not reflect glyph types, this is a push to list only setting, use default button to get back to standard glyph)</source>
-      <translation type="unfinished">Apply glyph type to all annotations in this hierarchy (current setting may not reflect glyph types, this is a push to list only setting, use default button to get back to standard glyph)</translation>
+      <translation>Застосувати тип гліфа до всіх анотацій у цій ієрархії (поточне налаштування може не відображати тип гліфа, це налаштування лише для списку, натисніть кнопку за умовчанням, щоб повернутися до стандартного гліфа)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="342"/>
@@ -7080,7 +7080,7 @@ Graphics capabilities of this computer:
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="95"/>
       <source>AutoRun</source>
-      <translation type="unfinished">AutoRun</translation>
+      <translation>Автозапуск</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
@@ -7110,7 +7110,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="100"/>
       <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-      <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</translation>
+      <translation>Поки натиснута кнопка Автозапуску, модуль запускається при будь-якій зміні значення параметра.</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="107"/>
@@ -7222,7 +7222,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="74"/>
       <source>vtkMRMLCameraNode</source>
-      <translation type="unfinished">vtkMRMLCameraNode</translation>
+      <translation>vtkMRMLCameraNode</translation>
     </message>
   </context>
   <context>
@@ -7250,12 +7250,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
@@ -8053,12 +8053,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
       <source>Report bugs and request enhancements</source>
-      <translation type="unfinished">Report bugs and request enhancements</translation>
+      <translation>Повідомити про помилки і відправити запит на вдосконалення</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Питання та побажання по функціоналу:&lt;/span&gt; перейдіть на &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Форум Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Повідомлення про помилку: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;опублікуйте нову тему на форумі Slicer&lt;/span&gt;&lt;/a&gt; щоб розповісти нам про свою проблему або відправити повідомлення про помилку в &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;службу відстежування помилок 3d Slicer&lt;/span&gt;&lt;/a&gt;. Опишіть кроки, які призвели до виникнення помилки, а також прикріпіть повідомлення з журналу.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Увага - якщо ви працюєте з даними про пацієнтів:&lt;/span&gt; Переконайтеся, що повідомлення журналу не містять жодної інформації, яка може ідентифікувати пацієнта. Відправляйте повідомлення журналу конкретним людям, а не публікуйте їх у відкритому доступі в списку розсилання чи на вебсайті.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -8068,22 +8068,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
       <source>Copy log messages to clipboard</source>
-      <translation type="unfinished">Copy log messages to clipboard</translation>
+      <translation>Копіювати повідомлення з журналу в буфер обміну</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
       <source>Open log file in editor</source>
-      <translation type="unfinished">Open log file in editor</translation>
+      <translation>Відкривати файл із журналу в редакторі</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
       <source>Edit Log</source>
-      <translation type="unfinished">Edit Log</translation>
+      <translation>Редагувати журнал</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="112"/>
       <source>Log file content:</source>
-      <translation type="unfinished">Log file content:</translation>
+      <translation>Вміст файлу журналу:</translation>
     </message>
   </context>
   <context>
@@ -8096,12 +8096,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Оновити</translation>
     </message>
     <message>
       <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
       <source>Reset Times</source>
-      <translation type="unfinished">Reset Times</translation>
+      <translation>Час Перезавантаження</translation>
     </message>
     <message>
       <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
@@ -8523,12 +8523,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="91"/>
       <source>12 GB</source>
-      <translation type="unfinished">12 GB</translation>
+      <translation>12 ГБ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="92"/>
       <source>16 GB</source>
-      <translation type="unfinished">16 GB</translation>
+      <translation>16 ГБ</translation>
     </message>
   </context>
   <context>
