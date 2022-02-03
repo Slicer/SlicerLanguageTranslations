@@ -1945,7 +1945,7 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
       <source>Points</source>
-      <translation type="unfinished">Points</translation>
+      <translation>Пункти</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
