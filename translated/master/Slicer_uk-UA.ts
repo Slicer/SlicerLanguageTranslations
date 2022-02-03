@@ -2498,37 +2498,37 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
       <source>Axis label font size:</source>
-      <translation type="unfinished">Axis label font size:</translation>
+      <translation>Розмір шрифту мітки осі:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
       <source>Legend visible:</source>
-      <translation type="unfinished">Legend visible:</translation>
+      <translation>Показати умовні позначення:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="329"/>
       <source>Grid visible:</source>
-      <translation type="unfinished">Grid visible:</translation>
+      <translation>Видима сітка:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="336"/>
       <source>Legend font size:</source>
-      <translation type="unfinished">Legend font size:</translation>
+      <translation>Розмір шрифту умовних позначень:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="350"/>
       <source>Logarithmic scale:</source>
-      <translation type="unfinished">Logarithmic scale:</translation>
+      <translation>Логарифмічна шкала:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="359"/>
       <source>X axis</source>
-      <translation type="unfinished">X axis</translation>
+      <translation>Вісь Х</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="366"/>
       <source>Y axis</source>
-      <translation type="unfinished">Y axis</translation>
+      <translation>Вісь Y</translation>
     </message>
   </context>
   <context>
@@ -2536,63 +2536,63 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
       <source>Input Table:</source>
-      <translation type="unfinished">Input Table:</translation>
+      <translation>Таблиця введення даних:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="48"/>
       <source>vtkMRMLTableNode</source>
-      <translation type="unfinished">vtkMRMLTableNode</translation>
+      <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
       <source>Plot Type:</source>
-      <translation type="unfinished">Plot Type:</translation>
+      <translation>Тип графіку:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
       <source>line</source>
-      <translation type="unfinished">line</translation>
+      <translation>лінія</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="91"/>
       <source>bar</source>
-      <translation type="unfinished">bar</translation>
+      <translation>панель</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="96"/>
       <source>scatter</source>
-      <translation type="unfinished">scatter</translation>
+      <translation>розсіювання</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="101"/>
       <source>scatter bar</source>
-      <translation type="unfinished">scatter bar</translation>
+      <translation>панель розсіювання</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="109"/>
       <source>X Axis Column:</source>
-      <translation type="unfinished">X Axis Column:</translation>
+      <translation>Колонка вісі Х:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="123"/>
       <source>Y Axis Column:</source>
-      <translation type="unfinished">Y Axis Column:</translation>
+      <translation>Колонка вісі Y:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
       <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-      <translation type="unfinished">This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</translation>
+      <translation>Цей стовпчик містить позначку для кожної точки даних. Мітка відображається у підказці під час наведення курсору миші на точку даних у режимі перегляду графіка.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="195"/>
       <source>none</source>
-      <translation type="unfinished">none</translation>
+      <translation>відсутньо</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="156"/>
@@ -2602,42 +2602,42 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="161"/>
       <source>plus</source>
-      <translation type="unfinished">plus</translation>
+      <translation>плюс</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="166"/>
       <source>square</source>
-      <translation type="unfinished">square</translation>
+      <translation>квадрат</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="171"/>
       <source>circle</source>
-      <translation type="unfinished">circle</translation>
+      <translation>коло</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="176"/>
       <source>diamond</source>
-      <translation type="unfinished">diamond</translation>
+      <translation>ромб</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="200"/>
       <source>solid</source>
-      <translation type="unfinished">solid</translation>
+      <translation>суцільний</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="205"/>
       <source>dash</source>
-      <translation type="unfinished">dash</translation>
+      <translation>тире</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="210"/>
       <source>dot</source>
-      <translation type="unfinished">dot</translation>
+      <translation>крапка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="215"/>
       <source>dash-dot</source>
-      <translation type="unfinished">dash-dot</translation>
+      <translation>пунктир-крапка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="220"/>
@@ -2647,32 +2647,32 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="258"/>
       <source>Labels Column:</source>
-      <translation type="unfinished">Labels Column:</translation>
+      <translation>Колонка міток:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="265"/>
       <source>Markers Style:</source>
-      <translation type="unfinished">Markers Style:</translation>
+      <translation>Стиль позначок:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="272"/>
       <source>Markers Size:</source>
-      <translation type="unfinished">Markers Size:</translation>
+      <translation>Розмір позначок:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="279"/>
       <source>Line Style:</source>
-      <translation type="unfinished">Line Style:</translation>
+      <translation>Стиль лінії:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="286"/>
       <source>Line Width:</source>
-      <translation type="unfinished">Line Width:</translation>
+      <translation>Ширина лінії:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="293"/>
       <source>Color:</source>
-      <translation type="unfinished">Color:</translation>
+      <translation>Колір:</translation>
     </message>
   </context>
   <context>
@@ -2680,7 +2680,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="166"/>
       <source>This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</source>
-      <translation type="unfinished">This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</translation>
+      <translation>Цей тип графіка використовує індекси як значення по осі X. Перейдіть на тип діаграми розсіювання, щоб можна було вибирати стовпці.</translation>
     </message>
   </context>
   <context>
@@ -2693,27 +2693,27 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
       <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-      <translation type="unfinished">Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</translation>
+      <translation>Виберіть PlotChartNode, який керує загальними властивостями графіка та дозволяє вибрати декілька PlotSeriesNode.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="27"/>
       <source>vtkMRMLPlotChartNode</source>
-      <translation type="unfinished">vtkMRMLPlotChartNode</translation>
+      <translation>vtkMRMLPlotChartNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
       <source>Export plot to SVG file</source>
-      <translation type="unfinished">Export plot to SVG file</translation>
+      <translation>Експорт графіку у SVG файл</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="54"/>
       <source>Export...</source>
-      <translation type="unfinished">Export...</translation>
+      <translation>Експортувати...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
       <source>Add/Remove plots data series to/from the current chart.</source>
-      <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+      <translation>Додати/видалити створені послідовності даних до/з поточного графіка.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
@@ -3198,22 +3198,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="225"/>
       <source>Redo</source>
-      <translation type="unfinished">Redo</translation>
+      <translation>Відновити</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="262"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="305"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Налаштування</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="344"/>
       <source>Show details.</source>
-      <translation type="unfinished">Show details.</translation>
+      <translation>Показати деталі.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="363"/>
@@ -3233,17 +3233,17 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="408"/>
       <source>Only those regions are allowed to be changed where the master volume intensity is in the specified range</source>
-      <translation type="unfinished">Only those regions are allowed to be changed where the master volume intensity is in the specified range</translation>
+      <translation>Дозволяється змінювати ті області, де інтенсивність основного обсягу знаходиться в зазначеному діапазоні</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="425"/>
       <source>Modify other segments:</source>
-      <translation type="unfinished">Modify other segments:</translation>
+      <translation>Змінити інші сегменти:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="432"/>
       <source>Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</source>
-      <translation type="unfinished">Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</translation>
+      <translation>Визначає, які сегменти перезаписуватиме поточний сегмент. Сегменти, які не будуть перезаписані, можуть перекриватися із вибраним сегментом.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="403"/>
@@ -3318,12 +3318,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1461"/>
       <source>Failed to create binary labelmap for editing</source>
-      <translation type="unfinished">Failed to create binary labelmap for editing</translation>
+      <translation>Не вдалося створити двійкову картку міток для редагування</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2445"/>
       <source>Inside </source>
-      <translation type="unfinished">Inside </translation>
+      <translation>Всередині </translation>
     </message>
   </context>
   <context>
@@ -3331,22 +3331,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="14"/>
       <source>qMRMLSegmentSelectorWidget</source>
-      <translation type="unfinished">qMRMLSegmentSelectorWidget</translation>
+      <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
       <source>Segment: </source>
-      <translation type="unfinished">Segment: </translation>
+      <translation>Сегмент: </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
       <source>Messages label</source>
-      <translation type="unfinished">Messages label</translation>
+      <translation>Мітка повідомлень</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="108"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
   </context>
   <context>
@@ -3354,72 +3354,72 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="14"/>
       <source>Segmentation conversion parameters</source>
-      <translation type="unfinished">Segmentation conversion parameters</translation>
+      <translation>Параметри перетворення сегментації</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
       <source>Converting</source>
-      <translation type="unfinished">Converting</translation>
+      <translation>Перетворення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
       <source>Closed surface model</source>
-      <translation type="unfinished">Closed surface model</translation>
+      <translation>Модель закритої поверхні</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
       <source>in</source>
-      <translation type="unfinished">in</translation>
+      <translation>в</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
       <source>Segmentation</source>
-      <translation type="unfinished">Segmentation</translation>
+      <translation>Сегментація</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="83"/>
       <source>1. Conversion path</source>
-      <translation type="unfinished">1. Conversion path</translation>
+      <translation>1. Перетворення шляху</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
       <source>Estimated relative cost</source>
-      <translation type="unfinished">Estimated relative cost</translation>
+      <translation>Орієнтовна відноста вартість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Шлях</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="127"/>
       <source>2. Conversion parameters</source>
-      <translation type="unfinished">2. Conversion parameters</translation>
+      <translation>2. Параметри перетворення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Значення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
       <source>Convert</source>
-      <translation type="unfinished">Convert</translation>
+      <translation>Перетворити</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
       <source>Specify geometry</source>
-      <translation type="unfinished">Specify geometry</translation>
+      <translation>Вказати геометрію</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>Помилка перетворення</translation>
     </message>
   </context>
   <context>
@@ -3427,92 +3427,92 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="14"/>
       <source>qMRMLSegmentationDisplayNodeWidget</source>
-      <translation type="unfinished">qMRMLSegmentationDisplayNodeWidget</translation>
+      <translation>qMRMLSegmentationDisplayNodeWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="48"/>
       <source>Overall visibility:</source>
-      <translation type="unfinished">Overall visibility:</translation>
+      <translation>Загальна видимість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="55"/>
       <source>Overall opacity:</source>
-      <translation type="unfinished">Overall opacity:</translation>
+      <translation>Загальна непрозорість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="105"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="372"/>
       <source>Slice fill:</source>
-      <translation type="unfinished">Slice fill:</translation>
+      <translation>Заливка зрізу:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="118"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="358"/>
       <source>Slice outline:</source>
-      <translation type="unfinished">Slice outline:</translation>
+      <translation>Контур зрізу:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="125"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="425"/>
       <source>3D:</source>
-      <translation type="unfinished">3D:</translation>
+      <translation>3D:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="138"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="495"/>
       <source>Opacity</source>
-      <translation type="unfinished">Opacity</translation>
+      <translation>Прозорість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="225"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="392"/>
       <source>Visibility</source>
-      <translation type="unfinished">Visibility</translation>
+      <translation>Видимість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="252"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="282"/>
       <source>Views:</source>
-      <translation type="unfinished">Views:</translation>
+      <translation>Перегляди:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="289"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation>  пікс.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="299"/>
       <source>Representation in 2D views:</source>
-      <translation type="unfinished">Representation in 2D views:</translation>
+      <translation>Представлення у 2D вигляді:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="306"/>
       <source>Representation that is shown in 3D (models only)</source>
-      <translation type="unfinished">Representation that is shown in 3D (models only)</translation>
+      <translation>Представлення, показане в 3D (тільки для моделей)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="313"/>
       <source>Representation that is shown as a model in 3D and as slice intersections in 2D if exists</source>
-      <translation type="unfinished">Representation that is shown as a model in 3D and as slice intersections in 2D if exists</translation>
+      <translation>Представлення показане як модель в 3D та як перетин зрізів у двовимірному просторі, якщо існує</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="316"/>
       <source>Representation in 3D views:</source>
-      <translation type="unfinished">Representation in 3D views:</translation>
+      <translation>Представлення у 3D вигляді:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="323"/>
       <source>Representation that is shown in the 2D slice views</source>
-      <translation type="unfinished">Representation that is shown in the 2D slice views</translation>
+      <translation>Представлення, що відображається на двовимірних видах зрізів</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="330"/>
       <source>Slice intersection thickness:</source>
-      <translation type="unfinished">Slice intersection thickness:</translation>
+      <translation>Товщина зрізів для перетину:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="337"/>
@@ -3552,12 +3552,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
       <source>Destination folder: </source>
-      <translation type="unfinished">Destination folder: </translation>
+      <translation>Тека призначення: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="106"/>
       <source>Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</source>
-      <translation type="unfinished">Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</translation>
+      <translation>Виведена модель XYZ відображена в LPS (ліва поза винятковою стороною) або RAS (right-anterior-superior) напрямки для пацієнтів. LPS використовується більш поширено.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
@@ -3632,12 +3632,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="278"/>
       <source>STL</source>
-      <translation type="unfinished">STL</translation>
+      <translation>Стандартна бібліотека шаблонів</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="283"/>
       <source>OBJ</source>
-      <translation type="unfinished">OBJ</translation>
+      <translation>Об'єкт</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="288"/>
@@ -3662,7 +3662,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="315"/>
       <source>Reference volume:</source>
-      <translation type="unfinished">Reference volume:</translation>
+      <translation>Посилання на зображення:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="322"/>
@@ -3715,7 +3715,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="91"/>
       <source>Volume spacing options</source>
-      <translation type="unfinished">Volume spacing options</translation>
+      <translation>Параметри інтервалу зображень</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="115"/>
@@ -3742,7 +3742,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="170"/>
       <source>Segmentation labelmap geometry</source>
-      <translation type="unfinished">Segmentation labelmap geometry</translation>
+      <translation>Геометрія сегментації карти міток</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="194"/>
@@ -3773,7 +3773,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="323"/>
       <source>Error message</source>
-      <translation type="unfinished">Error message</translation>
+      <translation>Повідомлення про помилку</translation>
     </message>
   </context>
   <context>
@@ -3781,41 +3781,41 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="26"/>
       <source>qMRMLSegmentationRepresentationsListView</source>
-      <translation type="unfinished">qMRMLSegmentationRepresentationsListView</translation>
+      <translation>qMRMLSegmentationRepresentationsListView</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
       <source>No node selected</source>
-      <translation type="unfinished">No node selected</translation>
+      <translation>Об'єкт не вибраний</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="169"/>
       <source>No node is selected</source>
-      <translation type="unfinished">No node is selected</translation>
+      <translation>Об'єкт не вибраний</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="208"/>
       <source>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
-      <translation type="unfinished">This is the master representation.
-  1. This representation is saved on disk
-  2. If this representation is modified, the others are cleared</translation>
+      <translation>Це основне представлення.
+  1. Воно зберігається на диску
+  2. Якщо його змінено, інші будуть очищені</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="213"/>
       <source>This representation is present</source>
-      <translation type="unfinished">This representation is present</translation>
+      <translation>Це представлення присутнє</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="221"/>
       <source>This representation is not present</source>
-      <translation type="unfinished">This representation is not present</translation>
+      <translation>Такого представлення немає</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="314"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>Помилка перетворення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="409"/>
@@ -3843,7 +3843,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
       <source>Segment name</source>
-      <translation type="unfinished">Segment name</translation>
+      <translation>Назва сегмента</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="139"/>
@@ -3871,7 +3871,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="20"/>
       <source>qMRMLSegmentsTableView</source>
-      <translation type="unfinished">qMRMLSegmentsTableView</translation>
+      <translation>qMRMLSegmentsTableView</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
@@ -4050,12 +4050,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
       <source>Toggle slice visibility in the 3D view.</source>
-      <translation type="unfinished">Toggle slice visibility in the 3D view.</translation>
+      <translation>Перемикнути видимість зрізу в 3D-виді.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
       <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-      <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat).</translation>
+      <translation>Орієнтація зрізів (аксіальна, сагітальна, корональна, реформат).</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="495"/>
@@ -4065,17 +4065,17 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="500"/>
       <source>Sagittal</source>
-      <translation type="unfinished">Sagittal</translation>
+      <translation>Сагітальна</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="505"/>
       <source>Coronal</source>
-      <translation type="unfinished">Coronal</translation>
+      <translation>Корональна</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="510"/>
       <source>Reformat</source>
-      <translation type="unfinished">Reformat</translation>
+      <translation>Реформат</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
@@ -4291,7 +4291,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
       <source>Show Foreground</source>
-      <translation type="unfinished">Show Foreground</translation>
+      <translation>Показати передній план</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1021"/>
@@ -4301,7 +4301,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
       <source>Show Background</source>
-      <translation type="unfinished">Show Background</translation>
+      <translation>Показати задній план</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1040"/>
@@ -4311,7 +4311,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
       <source>Show in 3D</source>
-      <translation type="unfinished">Show in 3D</translation>
+      <translation>Показати у 3D-вигляді</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
@@ -4800,7 +4800,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1194"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1204"/>
@@ -4946,7 +4946,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
       <source>Lock first column</source>
-      <translation type="unfinished">Lock first column</translation>
+      <translation>Заблокувати перший стовпець</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="234"/>
@@ -5747,7 +5747,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1050"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1060"/>
       <source>Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</source>
-      <translation type="unfinished">Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</translation>
+      <translation>Відстань між точками вибірки уздовж ліній сітки. Менші значення призводять до створення ліній сітки, які точніше слідують фактичним векторам зсуву, але вимагають більше часу на обчислення.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1091"/>
@@ -5774,7 +5774,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1142"/>
       <source>1 2 3 4</source>
-      <translation type="unfinished">1 2 3 4</translation>
+      <translation>1 2 3 4</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1152"/>
@@ -7130,7 +7130,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="118"/>
       <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
-      <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</translation>
+      <translation>Поки натиснута кнопка Автозапуску, модуль запускається кожного разу, коли на вхідному об'єкті відбувається подія, відмінна від зміненої події.</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="125"/>
@@ -7189,7 +7189,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
       <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-      <translation type="unfinished">&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</translation>
+      <translation>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;Ця робота здійснюється за підтримки NA-MIC, NAC, BIRN, NCIGT і співтовариства Slicer.</translation>
     </message>
   </context>
   <context>
@@ -8865,7 +8865,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="447"/>
       <source>Ctrl+W</source>
-      <translation type="unfinished">Ctrl+W</translation>
+      <translation>Ctrl+W</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="452"/>
@@ -8890,7 +8890,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="470"/>
       <source>Ctrl+Z</source>
-      <translation type="unfinished">Ctrl+Z</translation>
+      <translation>Ctrl+Z</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="479"/>
