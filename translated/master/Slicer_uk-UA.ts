@@ -2099,32 +2099,32 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="408"/>
       <source>Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</source>
-      <translation type="unfinished">Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</translation>
+      <translation>Перетин: показує перетин моделі зі зрізом. Проєкція: показує повну модель, спроектовану на площину зрізу, суцільним кольором. Кольорова проєкція: показує повну модель, спроектовану на площину зрізу, забарвлену по відстані від плоскості зрізу (відміняє вибір Активного скаляра).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="412"/>
       <source>Intersection</source>
-      <translation type="unfinished">Intersection</translation>
+      <translation>Перетин</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
       <source>Projection</source>
-      <translation type="unfinished">Projection</translation>
+      <translation>Проєкція</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="422"/>
       <source>Distance encoded projection</source>
-      <translation type="unfinished">Distance encoded projection</translation>
+      <translation>Проєкція з кодуванням відстані</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="437"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> px</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="453"/>
       <source>Color Table:</source>
-      <translation type="unfinished">Color Table:</translation>
+      <translation>Колір Таблиці:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="460"/>
@@ -2134,27 +2134,27 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="470"/>
       <source>Scalars</source>
-      <translation type="unfinished">Scalars</translation>
+      <translation>Скаляри</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="488"/>
       <source>Visibility</source>
-      <translation type="unfinished">Visibility</translation>
+      <translation>Видимість</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="494"/>
       <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-      <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+      <translation>Оберіть відображення, у яких необхідно показати цей об'єкт. Усе, що не відмічене, відображається у 3D і 2D видах.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="501"/>
       <source>View:</source>
-      <translation type="unfinished">View:</translation>
+      <translation>Вид:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="515"/>
       <source>Color:</source>
-      <translation type="unfinished">Color:</translation>
+      <translation>Колір:</translation>
     </message>
   </context>
   <context>
@@ -2162,32 +2162,32 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="14"/>
       <source>Model Information</source>
-      <translation type="unfinished">Model Information</translation>
+      <translation>Інформація про модель</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="23"/>
       <source>Mesh Type:</source>
-      <translation type="unfinished">Mesh Type:</translation>
+      <translation>Тип Комірки:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="37"/>
       <source>Surface Area:</source>
-      <translation type="unfinished">Surface Area:</translation>
+      <translation>Площа Поверхні:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
       <source>mm^2</source>
-      <translation type="unfinished">mm^2</translation>
+      <translation>мм^2</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="57"/>
       <source>Volume:</source>
-      <translation type="unfinished">Volume:</translation>
+      <translation>Зображення:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="67"/>
       <source>mm^3</source>
-      <translation type="unfinished">mm^3</translation>
+      <translation>мм^3</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="77"/>
@@ -2718,22 +2718,22 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
       <source>vtkMRMLPlotSeriesNode</source>
-      <translation type="unfinished">vtkMRMLPlotSeriesNode</translation>
+      <translation>vtkMRMLPlotSeriesNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
       <source>Plot chart:</source>
-      <translation type="unfinished">Plot chart:</translation>
+      <translation>Графік/Діаграма:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
       <source>Plot data series:</source>
-      <translation type="unfinished">Plot data series:</translation>
+      <translation>Побудуйте послідовність даних:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
       <source>Plot type:</source>
-      <translation type="unfinished">Plot type:</translation>
+      <translation>Тип графіку:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
@@ -2803,12 +2803,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="194"/>
       <source>Legend</source>
-      <translation type="unfinished">Legend</translation>
+      <translation>Умовна позначка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="197"/>
       <source>Show legend</source>
-      <translation type="unfinished">Show legend</translation>
+      <translation>Показати умовну позначку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
@@ -2934,7 +2934,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="95"/>
       <source>Data type</source>
-      <translation type="unfinished">Data type</translation>
+      <translation>Тип даних</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="100"/>
@@ -2974,7 +2974,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Формувати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
@@ -3018,77 +3018,77 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Ім'я:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
       <source>Thumbnail:</source>
-      <translation type="unfinished">Thumbnail:</translation>
+      <translation>Ескіз:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
       <source>Full layout</source>
-      <translation type="unfinished">Full layout</translation>
+      <translation>Повний макет</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
       <source>3D View</source>
-      <translation type="unfinished">3D View</translation>
+      <translation>3D вигляд</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
       <source>Red Slice View</source>
-      <translation type="unfinished">Red Slice View</translation>
+      <translation>Вигляд зрізу червоного кольору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="83"/>
       <source>Yellow Slice View</source>
-      <translation type="unfinished">Yellow Slice View</translation>
+      <translation>Вигляд зрізу жовтого кольору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="94"/>
       <source>Green Slice View</source>
-      <translation type="unfinished">Green Slice View</translation>
+      <translation>Вигляд зрізу зеленого кольору</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="138"/>
       <source>Scale factor:</source>
-      <translation type="unfinished">Scale factor:</translation>
+      <translation>Коефіцієнт масштабування:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="145"/>
       <source>Adjust the Magnification factor.</source>
-      <translation type="unfinished">Adjust the Magnification factor.</translation>
+      <translation>Налаштувати коефіцієнт збільшення.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="154"/>
       <source>x</source>
-      <translation type="unfinished">x</translation>
+      <translation>x</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="173"/>
       <source>Save As...:</source>
-      <translation type="unfinished">Save As...:</translation>
+      <translation>Зберегти як...:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="180"/>
       <source>Description:</source>
-      <translation type="unfinished">Description:</translation>
+      <translation>Опис:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
       <source>Save snapshot via File Save. Edit in Annotations module.</source>
-      <translation type="unfinished">Save snapshot via File Save. Edit in Annotations module.</translation>
+      <translation>Зберегти знімок через Збереження файлу. Редагувати в модулі Примітки.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
       <source>Save File</source>
-      <translation type="unfinished">Save File</translation>
+      <translation>Зберегти Файл</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
       <source>Images (*.png *.jpg)</source>
-      <translation type="unfinished">Images (*.png *.jpg)</translation>
+      <translation>Зображення (*.png *.jpg)</translation>
     </message>
   </context>
   <context>
@@ -3096,33 +3096,33 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
       <source>qMRMLSegmentEditorWidget</source>
-      <translation type="unfinished">qMRMLSegmentEditorWidget</translation>
+      <translation>qMRMLSegmentEditorWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
       <source>Master volume:</source>
-      <translation type="unfinished">Master volume:</translation>
+      <translation>Головне зображення:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="29"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="34"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="78"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
       <source>Select master volume to enable editing</source>
-      <translation type="unfinished">Select master volume to enable editing</translation>
+      <translation>Оберіть головне зображення, щоб перейти до редагування</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
       <source>Segmentation:</source>
-      <translation type="unfinished">Segmentation:</translation>
+      <translation>Сегментація:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
