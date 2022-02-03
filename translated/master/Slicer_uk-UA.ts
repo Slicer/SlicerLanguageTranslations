@@ -4125,7 +4125,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="710"/>
       <source>Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</source>
-      <translation type="unfinished">Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</translation>
+      <translation>Скинути поле перегляду. Налаштовує поле зору зрізу відповідно до розміру нижнього шару об'єму (фон, потім передній план, потім мітка).</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
@@ -4136,12 +4136,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
       <source>Hide labelmap outlines</source>
-      <translation type="unfinished">Hide labelmap outlines</translation>
+      <translation>Сховати контури міток</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="741"/>
       <source>Toggle between showing label map volume with regions outlined or filled.</source>
-      <translation type="unfinished">Toggle between showing label map volume with regions outlined or filled.</translation>
+      <translation>Перемикання між відображенням об'єму картки позначок з обведеними або залитими областями.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
@@ -4151,17 +4151,17 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="762"/>
       <source>Cube</source>
-      <translation type="unfinished">Cube</translation>
+      <translation>Куб</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="770"/>
       <source>Human</source>
-      <translation type="unfinished">Human</translation>
+      <translation>Людина</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="778"/>
       <source>Axes</source>
-      <translation type="unfinished">Axes</translation>
+      <translation>Вісі</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="786"/>
@@ -4176,17 +4176,17 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="802"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Додати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="810"/>
       <source>Subtract</source>
-      <translation type="unfinished">Subtract</translation>
+      <translation>Відняти</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="823"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>Автоматично</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="831"/>
@@ -4256,37 +4256,37 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="935"/>
       <source>Foreground volume</source>
-      <translation type="unfinished">Foreground volume</translation>
+      <translation>Зображення переднього плану</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="943"/>
       <source>Background volume</source>
-      <translation type="unfinished">Background volume</translation>
+      <translation>Зображення заднього плану</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="951"/>
       <source>Label map volume</source>
-      <translation type="unfinished">Label map volume</translation>
+      <translation>Зображення карти міток</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="967"/>
       <source>Interpolate foreground</source>
-      <translation type="unfinished">Interpolate foreground</translation>
+      <translation>Інтерполювати передній план</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="983"/>
       <source>Interpolate background</source>
-      <translation type="unfinished">Interpolate background</translation>
+      <translation>Інтерполювати тло</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="999"/>
       <source>Show LabelMap</source>
-      <translation type="unfinished">Show LabelMap</translation>
+      <translation>Показати карту міток</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1002"/>
       <source>Toggle labelmap visibility</source>
-      <translation type="unfinished">Toggle labelmap visibility</translation>
+      <translation>Перемикнути видимість карти міток</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
@@ -4296,7 +4296,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1021"/>
       <source>Toggle foreground visibility</source>
-      <translation type="unfinished">Toggle foreground visibility</translation>
+      <translation>Перемкнути видимість переднього плану</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
@@ -4306,7 +4306,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1040"/>
       <source>Toggle background visibility</source>
-      <translation type="unfinished">Toggle background visibility</translation>
+      <translation>Перемкнути видимість тла</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
@@ -4316,12 +4316,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
       <source>Toggle slice visibility in 3D view</source>
-      <translation type="unfinished">Toggle slice visibility in 3D view</translation>
+      <translation>Перемикнути видимість зрізу в 3D-виді</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1064"/>
       <source>Lock Normal To Camera</source>
-      <translation type="unfinished">Lock Normal To Camera</translation>
+      <translation>Фіксація звичайного положення камери</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1067"/>
@@ -4775,7 +4775,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
       <source>Show/hide branch or node</source>
-      <translation type="unfinished">Show/hide branch or node</translation>
+      <translation>Показати/приховати гілку або об'єкт</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
@@ -4785,7 +4785,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
       <source>Applied transform</source>
-      <translation type="unfinished">Applied transform</translation>
+      <translation>Прикладне перетворення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
@@ -4795,7 +4795,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1028"/>
       <source>No subject hierarchy role assigned! Please report error</source>
-      <translation type="unfinished">No subject hierarchy role assigned! Please report error</translation>
+      <translation>Не призначено роль предметної ієрархії! Будь ласка, повідомте про помилку</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1194"/>
@@ -4805,26 +4805,26 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1204"/>
       <source>Apply transform to children</source>
-      <translation type="unfinished">Apply transform to children</translation>
+      <translation>Застосувати перетворення до дітей</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1208"/>
       <source>This node is not transformable</source>
-      <translation type="unfinished">This node is not transformable</translation>
+      <translation>Цей об'єкт не можна трансформувати</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1385"/>
       <source>Some nodes in the branch are already transformed</source>
-      <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+      <translation>Деякі об'єкти в гілці вже трансформовані</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1386"/>
       <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-      <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+      <translation>Чи потрібно посилити всі вже використані перетворення перед встановленням нового?
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+  Примітка: Якщо ви оберете "ні", то застосоване перетворення буде просто замінено.</translation>
     </message>
   </context>
   <context>
@@ -4832,7 +4832,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1987"/>
       <source>Delete subject hierarchy branch?</source>
-      <translation type="unfinished">Delete subject hierarchy branch?</translation>
+      <translation>Видалити гілку ієрархії суб'єктів?</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
@@ -4840,10 +4840,10 @@ Do you wish to proceed with changing master representation?</translation>
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-      <translation type="unfinished">The deleted subject hierarchy item has children. Do you want to remove those too?
+      <translation>Видалений елемент предметної ієрархії має дочірні елементи. Чи хочете ви видалити їх?
 
-If you choose yes, the whole branch will be deleted, including all children.
-If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</translation>
+Якщо ви виберете "Так", буде видалена вся гілка, включаючи всі дочірні елементи.
+Якщо вибрати "Так" всім, це питання більше не з'явиться, а всі дочірні елементи предметної ієрархії будуть видалені автоматично. Пізніше це можна змінити в налаштуваннях програми.</translation>
     </message>
   </context>
   <context>
@@ -4851,27 +4851,27 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="252"/>
       <source>Allow interactively modify the transform in 3D views</source>
-      <translation type="unfinished">Allow interactively modify the transform in 3D views</translation>
+      <translation>Дозволити інтерактивно змінювати трансформацію у 3D-видах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="257"/>
       <source>Edit properties of the current transform</source>
-      <translation type="unfinished">Edit properties of the current transform</translation>
+      <translation>Змінити властивості поточного перетворення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="262"/>
       <source>Harden current transform on this node and all children nodes</source>
-      <translation type="unfinished">Harden current transform on this node and all children nodes</translation>
+      <translation>Посилити поточне перетворення на цьому об'єкті та всіх дочірніх об'єктах</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="267"/>
       <source>Create and apply new transform</source>
-      <translation type="unfinished">Create and apply new transform</translation>
+      <translation>Створити та застосувати нове перетворення</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="275"/>
       <source>Remove parent transform from all the nodes in this branch</source>
-      <translation type="unfinished">Remove parent transform from all the nodes in this branch</translation>
+      <translation>Видалити батьківське перетворення з усіх об'єктів у цій галузі</translation>
     </message>
   </context>
   <context>
@@ -4881,12 +4881,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
       <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
       <source>Failed to create Plot</source>
-      <translation type="unfinished">Failed to create Plot</translation>
+      <translation>Не вдалося створити графік</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
       <source>Failed to plot data</source>
-      <translation type="unfinished">Failed to plot data</translation>
+      <translation>Не вдалося створити графік даних</translation>
     </message>
   </context>
   <context>
@@ -4904,12 +4904,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
       <source>Allow table editing</source>
-      <translation type="unfinished">Allow table editing</translation>
+      <translation>Дозволити редагування таблиць</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Скопіювати</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -4926,12 +4926,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Вставити</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
       <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-      <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+      <translation>Створіть інтерактивний графік на основі вибору користувачем стовпчиків таблиці.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
@@ -4961,7 +4961,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
       <source>Lock first row</source>
-      <translation type="unfinished">Lock first row</translation>
+      <translation>Заблокувати перший рядок</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="135"/>
@@ -4984,7 +4984,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
       <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-      <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+      <translation>Створіть інтерактивний графік на основі вибору користувачем стовпчиків таблиці.</translation>
     </message>
   </context>
   <context>
@@ -5025,7 +5025,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="79"/>
       <source>Spin the 3D view.</source>
-      <translation type="unfinished">Spin the 3D view.</translation>
+      <translation>Покрутіть 3D-панораму.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="99"/>
@@ -5035,13 +5035,13 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="119"/>
       <source>Toggle visibility of elements in the 3D view.</source>
-      <translation type="unfinished">Toggle visibility of elements in the 3D view.</translation>
+      <translation>Перемикнути видимість елементів у 3D вигляді.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
       <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="185"/>
       <source>Orientation marker</source>
-      <translation type="unfinished">Orientation marker</translation>
+      <translation>Маркет орієнтації екрану</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
@@ -5051,43 +5051,43 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
       <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-      <translation type="unfinished">Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</translation>
+      <translation>Виберіть один з варіантів перегляду стерео (для використання цих функцій 3DSlicer має бути запущений з увімкненим стерео).</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
       <source>Show ruler. Only available in orthographic projection mode.</source>
-      <translation type="unfinished">Show ruler. Only available in orthographic projection mode.</translation>
+      <translation>Показати лінійку. Доступно лише у режимі ортографічної проєкції.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="219"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="236"/>
       <source>Toggle between orthographic and perspective rendering in the 3D view.</source>
-      <translation type="unfinished">Toggle between orthographic and perspective rendering in the 3D view.</translation>
+      <translation>Перемикання між ортографічним та перспективою у 3D-виді.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="257"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="401"/>
       <source>Center view</source>
-      <translation type="unfinished">Center view</translation>
+      <translation>Вид по центру</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="264"/>
       <source>Link 3D views. Synchronizes properties of all 3D views in the same view group.</source>
-      <translation type="unfinished">Link 3D views. Synchronizes properties of all 3D views in the same view group.</translation>
+      <translation>Приєднання до 3D-видів. Синхронізує властивості всіх 3D-видів однієї групи видів.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="296"/>
       <source>No Stereo</source>
-      <translation type="unfinished">No Stereo</translation>
+      <translation>Немає стерео</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="304"/>
       <source>Red/blue</source>
-      <translation type="unfinished">Red/blue</translation>
+      <translation>Червоний/синій</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="312"/>
@@ -5097,7 +5097,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="320"/>
       <source>QuadBuffer</source>
-      <translation type="unfinished">QuadBuffer</translation>
+      <translation>Квадро буфер</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="328"/>
@@ -5107,17 +5107,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="331"/>
       <source>Switch to Interlaced stereo mode</source>
-      <translation type="unfinished">Switch to Interlaced stereo mode</translation>
+      <translation>Перемикання в режим стерео через рядок</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="342"/>
       <source>3D cube</source>
-      <translation type="unfinished">3D cube</translation>
+      <translation>3D куб</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="353"/>
       <source>3D axis label</source>
-      <translation type="unfinished">3D axis label</translation>
+      <translation>Назва тривимірної осі</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
@@ -5365,7 +5365,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="50"/>
       <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-      <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+      <translation>Навігація та пов'язані властивості синхронізуються у представленнях, що мають однаковий індекс групи.</translation>
     </message>
   </context>
   <context>
@@ -5393,12 +5393,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="87"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Відновлення меж віджету трансформації.&lt;/p&gt;&lt;p&gt;Трансформація оновить свої межі, щоб вони відповідали кордонам всіх об'єктів під нею (якщо є).&lt;/p&gt;&lt;p&gt;В іншому випадку віджет змінить розмір до розміру взаємодії за замовчуванням.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="90"/>
       <source>Update bounds</source>
-      <translation type="unfinished">Update bounds</translation>
+      <translation>Оновити межі</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="97"/>
@@ -5408,12 +5408,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="109"/>
       <source>Visible in 3D view: </source>
-      <translation type="unfinished">Visible in 3D view: </translation>
+      <translation>Видимий у 3D перегляді: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="149"/>
       <source>Enable translation: </source>
-      <translation type="unfinished">Enable translation: </translation>
+      <translation>Увімкнути переклад: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="159"/>
