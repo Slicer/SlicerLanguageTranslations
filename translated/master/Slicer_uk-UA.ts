@@ -1950,27 +1950,27 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
       <source>Wireframe</source>
-      <translation type="unfinished">Wireframe</translation>
+      <translation>Каркас вебсайту</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="62"/>
       <source>Surface</source>
-      <translation type="unfinished">Surface</translation>
+      <translation>Площина/Поверхня</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="67"/>
       <source>Surface with Edges</source>
-      <translation type="unfinished">Surface with Edges</translation>
+      <translation>Поверхня з краями</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
       <source>Visible Sides:</source>
-      <translation type="unfinished">Visible Sides:</translation>
+      <translation>Видимі грані:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
       <source>All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</source>
-      <translation type="unfinished">All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</translation>
+      <translation>All: рекомендується для відкритих поверхонь. Front: рекомендується для швидшої візуалізації закритих непрозорих поверхонь. Back: Використовується для візуалізації задньої поверхні відкритих поверхонь різного кольору.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
@@ -1980,121 +1980,121 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="91"/>
       <source>Front-facing</source>
-      <translation type="unfinished">Front-facing</translation>
+      <translation>Фронтальний</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="96"/>
       <source>Back-facing</source>
-      <translation type="unfinished">Back-facing</translation>
+      <translation>Заднього виду</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
       <source>Clipping:</source>
-      <translation type="unfinished">Clipping:</translation>
+      <translation>Обрізання:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
       <source>Hide part of the model according to Clipping Planes settings.</source>
-      <translation type="unfinished">Hide part of the model according to Clipping Planes settings.</translation>
+      <translation>Приховати частину моделі відповідно до налаштувань Обрізання Площин.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
       <source>Configure clipping planes</source>
-      <translation type="unfinished">Configure clipping planes</translation>
+      <translation>Налаштувати площини обрізання</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
       <source>Configure...</source>
-      <translation type="unfinished">Configure...</translation>
+      <translation>Налаштувати...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Додатково</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
       <source>Point Size:</source>
-      <translation type="unfinished">Point Size:</translation>
+      <translation>Розмір Шрифта:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="186"/>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="430"/>
       <source>Line Width:</source>
-      <translation type="unfinished">Line Width:</translation>
+      <translation>Ширина Рядка:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="206"/>
       <source>Edge Color:</source>
-      <translation type="unfinished">Edge Color:</translation>
+      <translation>Колір Контуру:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="216"/>
       <source>Lighting:</source>
-      <translation type="unfinished">Lighting:</translation>
+      <translation>Освітлення:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="230"/>
       <source>Interpolation:</source>
-      <translation type="unfinished">Interpolation:</translation>
+      <translation>Інтерполяція:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="238"/>
       <source>Flat</source>
-      <translation type="unfinished">Flat</translation>
+      <translation>Плоский</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
       <source>Gouraud</source>
-      <translation type="unfinished">Gouraud</translation>
+      <translation>Гуро́</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
       <source>Phong</source>
-      <translation type="unfinished">Phong</translation>
+      <translation>Фонг</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="269"/>
       <source>Backface color hue, saturation, and brightess offset to frontface color</source>
-      <translation type="unfinished">Backface color hue, saturation, and brightess offset to frontface color</translation>
+      <translation>Відтінок, насиченість і яскравість кольору заднього плану зміщені до кольору переднього плану</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="272"/>
       <source>Backface Color Offset:</source>
-      <translation type="unfinished">Backface Color Offset:</translation>
+      <translation>Зміщення кольору задного плану:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="281"/>
       <source>Color hue offset</source>
-      <translation type="unfinished">Color hue offset</translation>
+      <translation>Вирівнювання відтінку кольору</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="300"/>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="319"/>
       <source>Color saturation offset</source>
-      <translation type="unfinished">Color saturation offset</translation>
+      <translation>Вирівнювання насиченості кольору</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="346"/>
       <source>Slice Display</source>
-      <translation type="unfinished">Slice Display</translation>
+      <translation>Відображення зрізу</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="355"/>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="553"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>Видимість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="369"/>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="531"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>Прозорість:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="401"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>Режим:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="408"/>
