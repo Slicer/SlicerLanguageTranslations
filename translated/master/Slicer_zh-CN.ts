@@ -11601,7 +11601,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
       <source>Display index string in SPRINTF format. Only the first conversion specification is replaced. Available specifiers are: fFgGeEs.</source>
-      <translation>以SPRINTF格式显示索引字符串，仅替换第一个转换规范，可用的说明符有：FFGGES。</translation>
+      <translation>以SPRINTF格式显示索引字符串，仅替换第一个转换规范，可用的说明符有：fFgGeEs。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
@@ -12433,7 +12433,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
       <source>Organization role:</source>
-      <translation>单位职务:</translation>
+      <translation>组织角色:</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="58"/>
