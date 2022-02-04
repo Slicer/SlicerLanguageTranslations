@@ -2698,7 +2698,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="27"/>
       <source>vtkMRMLPlotChartNode</source>
-      <translation type="unfinished">vtkMRMLPlotChartNode</translation>
+      <translation>vtkMRMLPlotChartNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
