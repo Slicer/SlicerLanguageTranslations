@@ -16,7 +16,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
       <source>Toggle visibility</source>
-      <translation>切换显示/隐藏</translation>
+      <translation>切换可见性</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
@@ -10611,22 +10611,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="397"/>
       <source>Normal</source>
-      <translation>适中</translation>
+      <translation>法线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="406"/>
       <source>NormalX</source>
-      <translation>适中X</translation>
+      <translation>法线X</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="413"/>
       <source>NormalY</source>
-      <translation>适中Y</translation>
+      <translation>法线Y</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="420"/>
       <source>NormalZ</source>
-      <translation>适中Z</translation>
+      <translation>法线Z</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="429"/>
@@ -11601,7 +11601,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
       <source>Display index string in SPRINTF format. Only the first conversion specification is replaced. Available specifiers are: fFgGeEs.</source>
-      <translation>以SPRINTF格式显示索引字符串，仅替换第一个转换规范，可用的说明符有：fFgGeEs。</translation>
+      <translation>以SPRINTF格式显示索引字符串，仅替换第一个转换规范，可用的说明符是：fFgGeEs。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
@@ -12443,7 +12443,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
       <source>Directory where scenes are saved to by default</source>
-      <translation>默认保存场景的目录</translation>
+      <translation>默认场景保存目录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
@@ -13463,7 +13463,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
       <source>Split</source>
-      <translation>分裂</translation>
+      <translation>拆分</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
@@ -14033,7 +14033,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="488"/>
       <source>ROI</source>
-      <translation>感兴趣区域</translation>
+      <translation>ROI</translation>
     </message>
   </context>
   <context>
@@ -14216,7 +14216,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
       <source>Volume Information</source>
-      <translation>体数据信息</translation>
+      <translation>数据信息</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
