@@ -1431,22 +1431,22 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="347"/>
       <source>(Overwrite current node)</source>
-      <translation type="unfinished">(Overwrite current node)</translation>
+      <translation>(覆盖当前节点)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="354"/>
       <source>Resamples the active curve with the number of fiducials spcified. Can be constrained to a node surface.</source>
-      <translation type="unfinished">Resamples the active curve with the number of fiducials spcified. Can be constrained to a node surface.</translation>
+      <translation>使用指定的基准点数量对活动曲线重新采样，可以限制到曲面节点。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="357"/>
       <source>Resample curve</source>
-      <translation type="unfinished">Resample curve</translation>
+      <translation>重采样曲线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="364"/>
       <source>Optionally select a node to constrain placement of resampled curve points. </source>
-      <translation type="unfinished">Optionally select a node to constrain placement of resampled curve points. </translation>
+      <translation>（可选）选择一个节点以约束重采样曲线点的放置。 </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="367"/>
@@ -2413,7 +2413,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="48"/>
       <source>vtkMRMLPlotSeriesNode</source>
-      <translation type="unfinished">vtkMRMLPlotSeriesNode</translation>
+      <translation>vtkMRMLPlotSeriesNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
@@ -2423,7 +2423,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
       <source>Enter a title for the chart.</source>
-      <translation type="unfinished">Enter a title for the chart.</translation>
+      <translation>输入图表的标题。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="95"/>
@@ -2433,7 +2433,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
       <source>Enter a label for the X-axis.</source>
-      <translation type="unfinished">Enter a label for the X-axis.</translation>
+      <translation>输入X轴的标签</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
@@ -2443,7 +2443,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="121"/>
       <source>Enable manual setting of X axis range for all views of this chart</source>
-      <translation type="unfinished">Enable manual setting of X axis range for all views of this chart</translation>
+      <translation>为该图表的所有视图启用X轴范围的手动设置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="171"/>
@@ -2493,12 +2493,12 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
       <source>Axis title font size:</source>
-      <translation type="unfinished">Axis title font size:</translation>
+      <translation>轴标题字号:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
       <source>Axis label font size:</source>
-      <translation type="unfinished">Axis label font size:</translation>
+      <translation>轴标签字号:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
@@ -2546,47 +2546,47 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="48"/>
       <source>vtkMRMLTableNode</source>
-      <translation type="unfinished">vtkMRMLTableNode</translation>
+      <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
       <source>Plot Type:</source>
-      <translation type="unfinished">Plot Type:</translation>
+      <translation>绘制样式:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
       <source>line</source>
-      <translation type="unfinished">line</translation>
+      <translation>线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="91"/>
       <source>bar</source>
-      <translation type="unfinished">bar</translation>
+      <translation>条</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="96"/>
       <source>scatter</source>
-      <translation type="unfinished">scatter</translation>
+      <translation>散点图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="101"/>
       <source>scatter bar</source>
-      <translation type="unfinished">scatter bar</translation>
+      <translation>散射条</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="109"/>
       <source>X Axis Column:</source>
-      <translation type="unfinished">X Axis Column:</translation>
+      <translation>X 轴列:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="123"/>
       <source>Y Axis Column:</source>
-      <translation type="unfinished">Y Axis Column:</translation>
+      <translation>Y 轴列:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
       <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-      <translation type="unfinished">This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</translation>
+      <translation>此列包含每个数据点的标签，当鼠标悬停在打印视图中的数据点上时，标签将显示在工具提示中。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
@@ -2627,7 +2627,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="205"/>
       <source>dash</source>
-      <translation type="unfinished">dash</translation>
+      <translation>破折号</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="210"/>
@@ -2637,17 +2637,17 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="215"/>
       <source>dash-dot</source>
-      <translation type="unfinished">dash-dot</translation>
+      <translation>线点相间</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="220"/>
       <source>dash-dot-dot</source>
-      <translation type="unfinished">dash-dot-dot</translation>
+      <translation>线点点相间</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="258"/>
       <source>Labels Column:</source>
-      <translation type="unfinished">Labels Column:</translation>
+      <translation>标签栏:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="265"/>
@@ -2743,27 +2743,27 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
       <source>line</source>
-      <translation type="unfinished">line</translation>
+      <translation>线</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="123"/>
       <source>bar</source>
-      <translation type="unfinished">bar</translation>
+      <translation>条</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="128"/>
       <source>scatter</source>
-      <translation type="unfinished">scatter</translation>
+      <translation>散点</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="133"/>
       <source>scatter bar</source>
-      <translation type="unfinished">scatter bar</translation>
+      <translation>散射条</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="141"/>
       <source>Interaction mode:</source>
-      <translation type="unfinished">Interaction mode:</translation>
+      <translation>交互模式:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="148"/>
@@ -2773,27 +2773,27 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="155"/>
       <source>pan view</source>
-      <translation type="unfinished">pan view</translation>
+      <translation>平面图</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="160"/>
       <source>select points</source>
-      <translation type="unfinished">select points</translation>
+      <translation>选择点</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="165"/>
       <source>free-hand select points</source>
-      <translation type="unfinished">free-hand select points</translation>
+      <translation>自由选择点</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="170"/>
       <source>move points</source>
-      <translation type="unfinished">move points</translation>
+      <translation>移动点</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="183"/>
       <source>Grid</source>
-      <translation type="unfinished">Grid</translation>
+      <translation>网格</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="186"/>
@@ -3182,12 +3182,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="202"/>
       <source>Undo last editing operation</source>
-      <translation type="unfinished">Undo last editing operation</translation>
+      <translation>撤销上次编辑操作</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="205"/>
       <source>Undo</source>
-      <translation type="unfinished">Undo</translation>
+      <translation>撤销</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="222"/>
@@ -3358,12 +3358,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
       <source>Converting</source>
-      <translation type="unfinished">Converting</translation>
+      <translation>转换中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
       <source>Closed surface model</source>
-      <translation type="unfinished">Closed surface model</translation>
+      <translation>闭合表面模型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
@@ -3398,27 +3398,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名称</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
       <source>Convert</source>
-      <translation type="unfinished">Convert</translation>
+      <translation>转换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
       <source>Specify geometry</source>
-      <translation type="unfinished">Specify geometry</translation>
+      <translation>指定几何体</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>转换失败</translation>
     </message>
   </context>
   <context>
@@ -3426,23 +3426,23 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="14"/>
       <source>qMRMLSegmentationDisplayNodeWidget</source>
-      <translation type="unfinished">qMRMLSegmentationDisplayNodeWidget</translation>
+      <translation>qMRMLSegmentationDisplayNodeWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="48"/>
       <source>Overall visibility:</source>
-      <translation type="unfinished">Overall visibility:</translation>
+      <translation>总体可见性:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="55"/>
       <source>Overall opacity:</source>
-      <translation type="unfinished">Overall opacity:</translation>
+      <translation>总体透明度:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="105"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="372"/>
       <source>Slice fill:</source>
-      <translation type="unfinished">Slice fill:</translation>
+      <translation>切片填充:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="118"/>
@@ -3561,17 +3561,17 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
       <source>LPS</source>
-      <translation type="unfinished">LPS</translation>
+      <translation>LPS</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="115"/>
       <source>RAS</source>
-      <translation type="unfinished">RAS</translation>
+      <translation>RAS</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
       <source>Use color table values:</source>
-      <translation type="unfinished">Use color table values:</translation>
+      <translation>使用颜色表值:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
@@ -3591,7 +3591,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="160"/>
       <source>Merge into single file:</source>
-      <translation type="unfinished">Merge into single file:</translation>
+      <translation>合并为单个文件:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="167"/>
@@ -3631,42 +3631,42 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="278"/>
       <source>STL</source>
-      <translation type="unfinished">STL</translation>
+      <translation>STL</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="283"/>
       <source>OBJ</source>
-      <translation type="unfinished">OBJ</translation>
+      <translation>OBJ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="288"/>
       <source>NRRD</source>
-      <translation type="unfinished">NRRD</translation>
+      <translation>NRRD</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="293"/>
       <source>NIFTI</source>
-      <translation type="unfinished">NIFTI</translation>
+      <translation>NIFTI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="301"/>
       <source>Use compression:</source>
-      <translation type="unfinished">Use compression:</translation>
+      <translation>使用压缩:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="308"/>
       <source>Show destination folder:</source>
-      <translation type="unfinished">Show destination folder:</translation>
+      <translation>选择目标文件夹:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="315"/>
       <source>Reference volume:</source>
-      <translation type="unfinished">Reference volume:</translation>
+      <translation>参考数据:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="322"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
   </context>
   <context>
@@ -3674,12 +3674,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="14"/>
       <source>SegmentationGeometryWidget</source>
-      <translation type="unfinished">SegmentationGeometryWidget</translation>
+      <translation>SegmentationGeometryWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="59"/>
       <source>Source geometry:</source>
-      <translation type="unfinished">Source geometry:</translation>
+      <translation>源几何体:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
@@ -3751,28 +3751,28 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="201"/>
       <source>Origin:</source>
-      <translation type="unfinished">Origin:</translation>
+      <translation>原点:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="208"/>
       <source>Spacing:</source>
-      <translation type="unfinished">Spacing:</translation>
+      <translation>间距:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="240"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="263"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>长度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="247"/>
       <source>Dimensions:</source>
-      <translation type="unfinished">Dimensions:</translation>
+      <translation>尺寸:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="323"/>
       <source>Error message</source>
-      <translation type="unfinished">Error message</translation>
+      <translation>错误信息</translation>
     </message>
   </context>
   <context>
@@ -3895,22 +3895,22 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="171"/>
       <source>Show/Hide completed segments</source>
-      <translation type="unfinished">Show/Hide completed segments</translation>
+      <translation>显示/隐藏已完成的分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="194"/>
       <source>Show/Hide flagged segments</source>
-      <translation type="unfinished">Show/Hide flagged segments</translation>
+      <translation>显示/隐藏已标记的分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="470"/>
       <source>No node is selected</source>
-      <translation type="unfinished">No node is selected</translation>
+      <translation>未选择任何节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
       <source>Empty segmentation</source>
-      <translation type="unfinished">Empty segmentation</translation>
+      <translation>空分割</translation>
     </message>
   </context>
   <context>
@@ -3918,47 +3918,47 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
       <source>qMRMLSequenceBrowserPlayWidget</source>
-      <translation type="unfinished">qMRMLSequenceBrowserPlayWidget</translation>
+      <translation>qMRMLSequenceBrowserPlayWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
       <source>First frame</source>
-      <translation type="unfinished">First frame</translation>
+      <translation>第一帧</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="40"/>
       <source>Previous frame</source>
-      <translation type="unfinished">Previous frame</translation>
+      <translation>上一帧</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="54"/>
       <source>Play/Pause</source>
-      <translation type="unfinished">Play/Pause</translation>
+      <translation>播放/暂停</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="72"/>
       <source>Next frame</source>
-      <translation type="unfinished">Next frame</translation>
+      <translation>下一帧</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="86"/>
       <source>Last frame</source>
-      <translation type="unfinished">Last frame</translation>
+      <translation>尾帧</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="100"/>
       <source>fps</source>
-      <translation type="unfinished">fps</translation>
+      <translation>帧/秒</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="122"/>
       <source>Loop playback</source>
-      <translation type="unfinished">Loop playback</translation>
+      <translation>循环播放</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="139"/>
       <source>Record proxy nodes modifications continuously</source>
-      <translation type="unfinished">Record proxy nodes modifications continuously</translation>
+      <translation>连续记录代理节点的修改</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="156"/>
@@ -3971,18 +3971,18 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
       <source>qMRMLSequenceBrowserSeekWidget</source>
-      <translation type="unfinished">qMRMLSequenceBrowserSeekWidget</translation>
+      <translation>qMRMLSequeBrowserSeekWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
       <source>Index name</source>
-      <translation type="unfinished">Index name</translation>
+      <translation>索引名</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="67"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
   </context>
   <context>
@@ -3995,7 +3995,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
       <source>Unit:</source>
-      <translation type="unfinished">Unit:</translation>
+      <translation>单位:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
@@ -4005,7 +4005,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="36"/>
       <source>vtkMRMLUnitNode</source>
-      <translation type="unfinished">vtkMRMLUnitNode</translation>
+      <translation>vtkMRMLUnitNode</translation>
     </message>
   </context>
   <context>
@@ -4023,23 +4023,23 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="54"/>
       <source>vtkMRMLLabelMapVolumeNode</source>
-      <translation type="unfinished">vtkMRMLLabelMapVolumeNode</translation>
+      <translation>vtkMRMLLabelMapVolumeNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="179"/>
       <source>Select the foreground</source>
-      <translation type="unfinished">Select the foreground</translation>
+      <translation>选择前景</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="182"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="322"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="319"/>
       <source>Select the background</source>
-      <translation type="unfinished">Select the background</translation>
+      <translation>选中背景</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
@@ -8676,7 +8676,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
       <source>Undo Redo ToolBar</source>
-      <translation type="unfinished">Undo Redo ToolBar</translation>
+      <translation>撤消重做工具栏</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>
@@ -8879,12 +8879,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="464"/>
       <source>Undo</source>
-      <translation type="unfinished">Undo</translation>
+      <translation>撤销</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="467"/>
       <source>Undo the history of undoable commands, from last to first.</source>
-      <translation type="unfinished">Undo the history of undoable commands, from last to first.</translation>
+      <translation>撤消可撤消命令的历史记录，从最后一个到第一个。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="470"/>
@@ -8899,7 +8899,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="482"/>
       <source>Redo the history of commands most recently undone, from last to first.</source>
-      <translation type="unfinished">Redo the history of commands most recently undone, from last to first.</translation>
+      <translation>从最后一个到第一个，重做最近撤消的命令的历史记录。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="485"/>
