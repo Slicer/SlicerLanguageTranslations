@@ -2443,17 +2443,17 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="121"/>
       <source>Enable manual setting of X axis range for all views of this chart</source>
-      <translation type="unfinished">Enable manual setting of X axis range for all views of this chart</translation>
+      <translation>Включить ручную настройку диапазона оси X для всех просмотров этого графика</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="171"/>
       <source>Y axis range:</source>
-      <translation type="unfinished">Y axis range:</translation>
+      <translation>Диапазон оси Y:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="180"/>
       <source>Enable manual setting of Y axis range for all views of this chart</source>
-      <translation type="unfinished">Enable manual setting of Y axis range for all views of this chart</translation>
+      <translation>Включить ручную настройку диапазона оси Y для всех просмотров этого графика</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="230"/>
@@ -2463,22 +2463,22 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="237"/>
       <source>Enter a label for the Y-axis.</source>
-      <translation type="unfinished">Enter a label for the Y-axis.</translation>
+      <translation>Введите название оси Y.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="248"/>
       <source>Arial</source>
-      <translation type="unfinished">Arial</translation>
+      <translation>Arial</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="253"/>
       <source>Times</source>
-      <translation type="unfinished">Times</translation>
+      <translation>Times</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="258"/>
       <source>Courier</source>
-      <translation type="unfinished">Courier</translation>
+      <translation>Courier</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="266"/>
@@ -2518,17 +2518,17 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="350"/>
       <source>Logarithmic scale:</source>
-      <translation type="unfinished">Logarithmic scale:</translation>
+      <translation>Логарифмический масштаб:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="359"/>
       <source>X axis</source>
-      <translation type="unfinished">X axis</translation>
+      <translation>Ось X</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="366"/>
       <source>Y axis</source>
-      <translation type="unfinished">Y axis</translation>
+      <translation>Ось Y</translation>
     </message>
   </context>
   <context>
@@ -2536,118 +2536,118 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
       <source>Input Table:</source>
-      <translation type="unfinished">Input Table:</translation>
+      <translation>Входная Таблица:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="48"/>
       <source>vtkMRMLTableNode</source>
-      <translation type="unfinished">vtkMRMLTableNode</translation>
+      <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
       <source>Plot Type:</source>
-      <translation type="unfinished">Plot Type:</translation>
+      <translation>Тип Графика:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
       <source>line</source>
-      <translation type="unfinished">line</translation>
+      <translation>линия</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="91"/>
       <source>bar</source>
-      <translation type="unfinished">bar</translation>
+      <translation>полоса</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="96"/>
       <source>scatter</source>
-      <translation type="unfinished">scatter</translation>
+      <translation>рассеянный</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="101"/>
       <source>scatter bar</source>
-      <translation type="unfinished">scatter bar</translation>
+      <translation>рассеянная полоса</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="109"/>
       <source>X Axis Column:</source>
-      <translation type="unfinished">X Axis Column:</translation>
+      <translation>Столбец оси X:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="123"/>
       <source>Y Axis Column:</source>
-      <translation type="unfinished">Y Axis Column:</translation>
+      <translation>Столбец оси Y:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
       <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-      <translation type="unfinished">This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</translation>
+      <translation>Этот столбец содержит название для каждой точки данных. Название отображается в подсказке при наведении курсора мыши на координатную точку на графике.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="195"/>
       <source>none</source>
-      <translation type="unfinished">none</translation>
+      <translation>ничего</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="156"/>
       <source>cross</source>
-      <translation type="unfinished">cross</translation>
+      <translation>крест</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="161"/>
       <source>plus</source>
-      <translation type="unfinished">plus</translation>
+      <translation>плюс</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="166"/>
       <source>square</source>
-      <translation type="unfinished">square</translation>
+      <translation>квадрат</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="171"/>
       <source>circle</source>
-      <translation type="unfinished">circle</translation>
+      <translation>круг</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="176"/>
       <source>diamond</source>
-      <translation type="unfinished">diamond</translation>
+      <translation>ромб</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="200"/>
       <source>solid</source>
-      <translation type="unfinished">solid</translation>
+      <translation>сплошной</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="205"/>
       <source>dash</source>
-      <translation type="unfinished">dash</translation>
+      <translation>тире</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="210"/>
       <source>dot</source>
-      <translation type="unfinished">dot</translation>
+      <translation>точка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="215"/>
       <source>dash-dot</source>
-      <translation type="unfinished">dash-dot</translation>
+      <translation>тире-точка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="220"/>
       <source>dash-dot-dot</source>
-      <translation type="unfinished">dash-dot-dot</translation>
+      <translation>тире-точка-точка</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="258"/>
       <source>Labels Column:</source>
-      <translation type="unfinished">Labels Column:</translation>
+      <translation>Столбец Названий:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="265"/>
@@ -2680,7 +2680,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="166"/>
       <source>This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</source>
-      <translation type="unfinished">This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</translation>
+      <translation>Этот тип графика использует индексы как значения оси X. Переключитесь на тип графика "рассеянный", чтобы разрешить выбор столбцов.</translation>
     </message>
   </context>
   <context>
@@ -2688,12 +2688,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="14"/>
       <source>Plot View Controller</source>
-      <translation type="unfinished">Plot View Controller</translation>
+      <translation>Диспетчер Диаграммы</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
       <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-      <translation type="unfinished">Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</translation>
+      <translation>Выберите PlotChartNode, который собержит общие свойства графика и позволяет выбрать несколько PlotSeriesNodes.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="27"/>
