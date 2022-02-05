@@ -7643,12 +7643,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="153"/>
       <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-      <translation type="unfinished">Interpolation is disabled and input volume is under a non-linear tansform</translation>
+      <translation>يتم تعطيل الاستيفاء ويكون حجم الإدخال تحت تحويل غير خطي</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
       <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-      <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+      <translation>يتم تعطيل الاستيفاء وعدم محاذاة منطقة الإدخال ذات الأهمية مع محاور حجم الإدخال.</translation>
     </message>
   </context>
   <context>
@@ -8555,7 +8555,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
       <source>Select ray casting technique for the views where the current volume is visible</source>
-      <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+      <translation>حدد تقنية وضع الأشعة للعرض حيث يكون المجلد الحالي مرئيا</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
@@ -10422,7 +10422,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
       <source>Select ray casting technique for the views where the current volume is visible</source>
-      <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+      <translation>حدد تقنية وضع الأشعة للعرض حيث المجلد الحالي مرئي</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
@@ -10794,7 +10794,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="14"/>
       <source>Scalar Volume Display</source>
-      <translation type="unfinished">Scalar Volume Display</translation>
+      <translation>عرض الحجم القياسي</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="32"/>
@@ -12904,7 +12904,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
       <source>Switch to Volume Rendering module to manage display options</source>
-      <translation type="unfinished">Switch to Volume Rendering module to manage display options</translation>
+      <translation>التبديل إلى وحدة عرض الحجم لإدارة خيارات العرض</translation>
     </message>
   </context>
   <context>
@@ -12920,7 +12920,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="174"/>
       <source>Default preset for the selected volume</source>
-      <translation type="unfinished">Default preset for the selected volume</translation>
+      <translation>الإعداد الافتراضي للمجلد المحدد</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="182"/>
@@ -12930,7 +12930,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="184"/>
       <source>Display the full intensity range of the volume.</source>
-      <translation type="unfinished">Display the full intensity range of the volume.</translation>
+      <translation>عرض النطاق الكامل للحجم.</translation>
     </message>
   </context>
   <context>
@@ -13964,7 +13964,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="243"/>
       <source>Fit to Volume</source>
-      <translation type="unfinished">Fit to Volume</translation>
+      <translation>تناسب مع الحجم</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="256"/>
@@ -14029,7 +14029,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="445"/>
       <source>Synchronize with Volumes module</source>
-      <translation type="unfinished">Synchronize with Volumes module</translation>
+      <translation>تزامن مع وحدات الحجم</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="458"/>
