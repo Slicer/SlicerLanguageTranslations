@@ -2818,22 +2818,22 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
       <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-      <translation type="unfinished">Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</translation>
+      <translation>Отрегулировать область графика, чтобы соответствовать границам осей графика</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
       <source>P</source>
-      <translation type="unfinished">P</translation>
+      <translation>P</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="339"/>
       <source>Save as SVG</source>
-      <translation type="unfinished">Save as SVG</translation>
+      <translation>Сохранить как SVG</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="340"/>
       <source>Scalable Vector Graphics (*.svg)</source>
-      <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+      <translation>Векторное изображение (*.svg)</translation>
     </message>
   </context>
   <context>
@@ -2841,39 +2841,39 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
       <source>L-R Range:</source>
-      <translation type="unfinished">L-R Range:</translation>
+      <translation>Диапазон L-R:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="672"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1318"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1964"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>длина</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
       <source>P-A Range:</source>
-      <translation type="unfinished">P-A Range:</translation>
+      <translation>Диапазон P-A:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
       <source>I-S Range:</source>
-      <translation type="unfinished">I-S Range:</translation>
+      <translation>Диапазон I-S:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2003"/>
       <source>Display Clipping box</source>
-      <translation type="unfinished">Display Clipping box</translation>
+      <translation>Отображать окно обрезки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2026"/>
       <source>Interactive Mode</source>
-      <translation type="unfinished">Interactive Mode</translation>
+      <translation>Интерактивный режим</translation>
     </message>
   </context>
   <context>
@@ -2881,7 +2881,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLRangeWidget.cxx" line="70"/>
       <source>Symmetric handles</source>
-      <translation type="unfinished">Symmetric handles</translation>
+      <translation>Симметричные регуляторы</translation>
     </message>
   </context>
   <context>
@@ -2889,7 +2889,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="14"/>
       <source>Scalars Display</source>
-      <translation type="unfinished">Scalars Display</translation>
+      <translation>Отображение скаларов</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
@@ -2899,17 +2899,17 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="46"/>
       <source>Active Scalar:</source>
-      <translation type="unfinished">Active Scalar:</translation>
+      <translation>Активный скаляр:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="56"/>
       <source>Color Table:</source>
-      <translation type="unfinished">Color Table:</translation>
+      <translation>Цветовая Таблица:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="66"/>
       <source>Scalar Range Mode:</source>
-      <translation type="unfinished">Scalar Range Mode:</translation>
+      <translation>Режим Скалярного Диапазона:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
