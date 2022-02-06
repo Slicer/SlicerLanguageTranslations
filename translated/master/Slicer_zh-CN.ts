@@ -275,7 +275,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
       <source>Active Corners</source>
-      <translation>活动角</translation>
+      <translation>活动角点</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
@@ -360,7 +360,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="260"/>
       <source>Color Scalar Bar</source>
-      <translation>色阶框</translation>
+      <translation>颜色标量条</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="266"/>
@@ -385,7 +385,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="296"/>
       <source>Foreground</source>
-      <translation>前景</translation>
+      <translation>前景层</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="319"/>
@@ -395,7 +395,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="325"/>
       <source>Range Label Format:</source>
-      <translation>标签版式范围</translation>
+      <translation>范围标签格式:</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="332"/>
@@ -13812,7 +13812,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="172"/>
       <source>Show how the other slice planes intersect each slice plane.</source>
-      <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+      <translation>显示其他切片平面如何与每个切片平面相交。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="179"/>
@@ -13827,12 +13827,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="189"/>
       <source>Translate</source>
-      <translation type="unfinished">Translate</translation>
+      <translation>翻转</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="190"/>
       <source>Control visibility of translation handles for slice intersection.</source>
-      <translation type="unfinished">Control visibility of translation handles for slice intersection.</translation>
+      <translation>控制切片相交的平移控制柄的可见性。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="196"/>
@@ -13842,12 +13842,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
       <source>Control visibility of rotation handles for slice intersection.</source>
-      <translation type="unfinished">Control visibility of rotation handles for slice intersection.</translation>
+      <translation>控制切片交点旋转控制柄的可见性。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="203"/>
       <source>Interaction options</source>
-      <translation type="unfinished">Interaction options</translation>
+      <translation>交互选项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="208"/>
@@ -13855,12 +13855,12 @@ This should only used by advanced users who understand the consequences of chang
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="226"/>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="236"/>
       <source>Crosshair</source>
-      <translation type="unfinished">Crosshair</translation>
+      <translation>十字线</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="234"/>
       <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-      <translation type="unfinished">Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</translation>
+      <translation>切换十字线可见性，按住Shift键并在视图中移动鼠标以设置十字线位置。</translation>
     </message>
   </context>
   <context>
@@ -13873,47 +13873,47 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
       <source>Volume:</source>
-      <translation type="unfinished">Volume:</translation>
+      <translation>体数据:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="63"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
       <source>vtkMRMLDiffusionWeightedVolumeNode</source>
-      <translation type="unfinished">vtkMRMLDiffusionWeightedVolumeNode</translation>
+      <translation>vtkMRMLDiffusionWeightedVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
       <source>vtkMRMLDiffusionTensorVolumeNode</source>
-      <translation type="unfinished">vtkMRMLDiffusionTensorVolumeNode</translation>
+      <translation>vtkMRMLDiffusionTensorVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
       <source>vtkMRMLMultiVolumeNode</source>
-      <translation type="unfinished">vtkMRMLMultiVolumeNode</translation>
+      <translation>vtkMRMLMultiVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="88"/>
       <source>Inputs</source>
-      <translation type="unfinished">Inputs</translation>
+      <translation>输入</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="115"/>
       <source>ROI:</source>
-      <translation type="unfinished">ROI:</translation>
+      <translation>ROI:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="122"/>
       <source>vtkMRMLMarkupsROINode</source>
-      <translation type="unfinished">vtkMRMLMarkupsROINode</translation>
+      <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="122"/>
       <source>vtkMRMLAnnotationROINode</source>
-      <translation type="unfinished">vtkMRMLAnnotationROINode</translation>
+      <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="138"/>
@@ -13923,17 +13923,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="145"/>
       <source>vtkMRMLVolumePropertyNode</source>
-      <translation type="unfinished">vtkMRMLVolumePropertyNode</translation>
+      <translation>vtkMRMLVolumePropertyNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="160"/>
       <source>View:</source>
-      <translation type="unfinished">View:</translation>
+      <translation>视图:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="173"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="200"/>
@@ -14052,7 +14052,7 @@ This should only used by advanced users who understand the consequences of chang
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="55"/>
       <source>Shift transfer functions</source>
-      <translation type="unfinished">Shift transfer functions</translation>
+      <translation>移位传递函数</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="48"/>
@@ -14148,7 +14148,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="36"/>
       <source>Load the volume as a labelmap (each voxel value representing a segmented structure).</source>
-      <translation type="unfinished">Load the volume as a labelmap (each voxel value representing a segmented structure).</translation>
+      <translation>将数据加载为labelmap（每个体素值表示分割结构）。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="43"/>
@@ -14158,7 +14158,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="46"/>
       <source>Only load the selected file. The application will not attempt to look for similar files that can make up the complete volume.</source>
-      <translation type="unfinished">Only load the selected file. The application will not attempt to look for similar files that can make up the complete volume.</translation>
+      <translation>仅加载选定的文件，应用程序不会尝试查找可以组成完整数据的类似文件。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="53"/>
@@ -14168,7 +14168,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="56"/>
       <source>Ignore image position information that is specified in the image header.</source>
-      <translation type="unfinished">Ignore image position information that is specified in the image header.</translation>
+      <translation>忽略图像标题中指定的图像位置信息。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="63"/>
