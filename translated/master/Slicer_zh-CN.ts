@@ -13792,7 +13792,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
       <source>Medium crosshair.</source>
-      <translation type="unfinished">Medium crosshair.</translation>
+      <translation>中十字线。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="150"/>
@@ -13807,7 +13807,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="171"/>
       <source>Slice intersections</source>
-      <translation type="unfinished">Slice intersections</translation>
+      <translation>切片相交</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="172"/>
