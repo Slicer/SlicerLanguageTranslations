@@ -2703,72 +2703,72 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
       <source>Export plot to SVG file</source>
-      <translation type="unfinished">Export plot to SVG file</translation>
+      <translation>Экспорт графика в файл SVG</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="54"/>
       <source>Export...</source>
-      <translation type="unfinished">Export...</translation>
+      <translation>Экспорт...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
       <source>Add/Remove plots data series to/from the current chart.</source>
-      <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+      <translation>Добавить/Удалить графики данных на/с текущ. график.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
       <source>vtkMRMLPlotSeriesNode</source>
-      <translation type="unfinished">vtkMRMLPlotSeriesNode</translation>
+      <translation>vtkMRMLPlotSeriesNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
       <source>Plot chart:</source>
-      <translation type="unfinished">Plot chart:</translation>
+      <translation>График:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
       <source>Plot data series:</source>
-      <translation type="unfinished">Plot data series:</translation>
+      <translation>Рисовать последовательность данных:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
       <source>Plot type:</source>
-      <translation type="unfinished">Plot type:</translation>
+      <translation>Тип графика:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
       <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-      <translation type="unfinished">This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </translation>
+      <translation>Этот комбокс позволяет изменить Тип для всех активных PlotSeriesNodes. Если выбрано значение, все PlotSeriesNodes на которые ссылается PlotChartChartNode, будут обновлены с новым значением. </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
       <source>line</source>
-      <translation type="unfinished">line</translation>
+      <translation>линия</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="123"/>
       <source>bar</source>
-      <translation type="unfinished">bar</translation>
+      <translation>полоса</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="128"/>
       <source>scatter</source>
-      <translation type="unfinished">scatter</translation>
+      <translation>рассеянный</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="133"/>
       <source>scatter bar</source>
-      <translation type="unfinished">scatter bar</translation>
+      <translation>рассеянная полоса</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="141"/>
       <source>Interaction mode:</source>
-      <translation type="unfinished">Interaction mode:</translation>
+      <translation>Интерактивный режим:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="148"/>
       <source>Action performed on mouse left-click and drag.</source>
-      <translation type="unfinished">Action performed on mouse left-click and drag.</translation>
+      <translation>Действие выполняется при щелчке левой кнопкой мыши и перетаскивании.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="155"/>
@@ -2778,42 +2778,42 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="160"/>
       <source>select points</source>
-      <translation type="unfinished">select points</translation>
+      <translation>выберите точки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="165"/>
       <source>free-hand select points</source>
-      <translation type="unfinished">free-hand select points</translation>
+      <translation>свободный выбор точек</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="170"/>
       <source>move points</source>
-      <translation type="unfinished">move points</translation>
+      <translation>переместить точки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="183"/>
       <source>Grid</source>
-      <translation type="unfinished">Grid</translation>
+      <translation>Сетка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="186"/>
       <source>Show grid</source>
-      <translation type="unfinished">Show grid</translation>
+      <translation>Показывать сетку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="194"/>
       <source>Legend</source>
-      <translation type="unfinished">Legend</translation>
+      <translation>Легенда</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="197"/>
       <source>Show legend</source>
-      <translation type="unfinished">Show legend</translation>
+      <translation>Показать легенду</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
       <source>Fit_to_window</source>
-      <translation type="unfinished">Fit_to_window</translation>
+      <translation>По размеру окна</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
