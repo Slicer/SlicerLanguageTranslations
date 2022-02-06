@@ -105,7 +105,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
       <source>Distance in mm between major ticks</source>
-      <translation type="unfinished">Distance in mm between major ticks</translation>
+      <translation>Fő osztások közötti távolság mm-ben</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
@@ -192,12 +192,12 @@
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
       <source>Add Data (or Scene)</source>
-      <translation type="unfinished">Add Data (or Scene)</translation>
+      <translation>Adatok (vagy munkaterület) hozzáadása</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="51"/>
       <source>Restore scene</source>
-      <translation type="unfinished">Restore scene</translation>
+      <translation>Munkaterület visszaállítása</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="56"/>
