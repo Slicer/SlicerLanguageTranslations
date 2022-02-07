@@ -460,7 +460,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
       <source>Inverted volume:</source>
-      <translation>数据反相</translation>
+      <translation>反向数据</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
@@ -644,7 +644,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="20"/>
       <source>qMRMLAnnotationFiducialProjectionPropertyWidget</source>
-      <translation>qMRMLAnnotationFiducialProjectyWidget</translation>
+      <translation>qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
@@ -677,7 +677,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
       <source>Outlined Behind Slice Plane</source>
-      <translation>在切片平面后勾勒出轮廓</translation>
+      <translation>切片平面背后的轮廓</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
@@ -769,7 +769,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
       <source>Overline Thickness</source>
-      <translation>上划线厚度</translation>
+      <translation>线条粗细</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="121"/>
@@ -786,13 +786,13 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
       <source>Underline Thickness</source>
-      <translation>下划线厚度</translation>
+      <translation>线条粗细</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="160"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="170"/>
       <source>Color projected line, with slice plane color, when parallel to it</source>
-      <translation>与切片平面颜色平行时显示投影线颜色</translation>
+      <translation>当投影线与切片平面平行时，使用切片平面颜色对其进行着色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="163"/>
@@ -803,7 +803,7 @@
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="183"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="193"/>
       <source>Display the projected part of the ruler on the top of the slice plane thicker than the part under</source>
-      <translation>在切片平面上方加粗显示标尺的投影部分</translation>
+      <translation>在切片平面顶部显示标尺的投影部分，该部分比下面的部分厚</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
@@ -885,7 +885,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
       <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-      <translation>当使用多个切片平面时，此选项控制它&apos;是否是用于裁剪模型的正和/或负空间的并集或交集。选择空间内的模型部分被保留，选择空间外的部分被剪切掉。</translation>
+      <translation>当使用多个切片平面时，此选项控制它是否是用于裁剪模型的正和/或负空间的并集或交集。选择空间内的模型部分被保留，选择空间外的部分被剪切掉。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
@@ -927,7 +927,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="84"/>
       <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-      <translation>保持模型中位于正空间内的部分，朝向由水平位切片平面定义的上方（头部）。</translation>
+      <translation>保持模型中位于正空间内的部分，朝向由水平位切片平面定义的上方(头部)。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="94"/>
@@ -939,7 +939,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="101"/>
       <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-      <translation>保持模型中位于负空间内的部分，朝向由水平位切片平面定义的下方（脚）。</translation>
+      <translation>保持模型中位于负空间内的部分，朝向由水平位切片平面定义的下方(脚)。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
@@ -974,18 +974,18 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="172"/>
       <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-      <translation>保持模型中位于正空间内的部分朝向前面，由冠状位切片平面定义。</translation>
+      <translation>保持模型中位于正空间内的部分朝向前面(前)，由冠状位切片平面定义。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="189"/>
       <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-      <translation>保留模型中位于负空间内的部分，朝向后面，由冠状位切片平面定义。</translation>
+      <translation>保留模型中位于负空间内的部分，朝向后面(后)，由冠状位切片平面定义。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="202"/>
       <source>Keep only whole cells when clipping</source>
-      <translation>剪切时保留整个单元格</translation>
+      <translation>剪切时保留整个单元</translation>
     </message>
   </context>
   <context>
@@ -993,7 +993,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
       <source>Color Legend</source>
-      <translation>颜色图例，或颜色板、颜色条</translation>
+      <translation>颜色条</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
@@ -1043,7 +1043,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
       <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-      <translation>显示的标签数，值为数字(而非颜色名称) 时生效。</translation>
+      <translation>要显示的标签数，仅当值用作标签文本(而非颜色名称) 时适用。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -1278,7 +1278,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
       <source>Oriented signed</source>
-      <translation>定向签名</translation>
+      <translation>定向符号</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="71"/>
@@ -1704,7 +1704,7 @@
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="97"/>
       <source>Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</source>
-      <translation>投影的控制点显示为填充(不透明度=投影不透明度) ，当在切片平面上方时，背面勾勒出轮廓，在平面上时具有完全不透明。在轮廓内&apos;t 用于一些字形 (Dash2D, Cross2D, Starburst).</translation>
+      <translation>投影的控制点显示为填充(不透明度=投影不透明度) ，当在切片平面上方时，背面勾勒出轮廓，在平面上时具有完全不透明。在轮廓内不用于一些字形 (Dash2D, Cross2D, Starburst).</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="90"/>
@@ -2149,7 +2149,7 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="501"/>
       <source>View:</source>
-      <translation>视图:</translation>
+      <translation>视图：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="515"/>
@@ -2167,12 +2167,12 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="23"/>
       <source>Mesh Type:</source>
-      <translation>网格类型:</translation>
+      <translation>网格类型：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="37"/>
       <source>Surface Area:</source>
-      <translation>表面区域:</translation>
+      <translation>表面区域：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
@@ -2182,7 +2182,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="57"/>
       <source>Volume:</source>
-      <translation>体数据:</translation>
+      <translation>体数据：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="67"/>
@@ -2192,7 +2192,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="77"/>
       <source>Number of Points:</source>
-      <translation>点的数量:</translation>
+      <translation>点的数量：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="94"/>
@@ -2207,7 +2207,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
       <source>Filename:</source>
-      <translation>文件名:</translation>
+      <translation>文件名：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="185"/>
@@ -2246,7 +2246,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="275"/>
       <source>Number of Cells:</source>
-      <translation>单元数量:</translation>
+      <translation>单元数量：</translation>
     </message>
   </context>
   <context>
@@ -2403,7 +2403,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
       <source>Plot data series:</source>
-      <translation>绘制数据系列:</translation>
+      <translation>绘制数据系列：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
@@ -2433,12 +2433,12 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
       <source>Enter a label for the X-axis.</source>
-      <translation>输入X轴的标签</translation>
+      <translation>输入X轴的标签。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
       <source>X axis range:</source>
-      <translation>X轴范围:</translation>
+      <translation>X轴范围：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="121"/>
@@ -3312,12 +3312,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1438"/>
       <source>Change master representation to binary labelmap?</source>
-      <translation>将主表示更改为二进制labelmap？</translation>
+      <translation>将主表示更改为二进制标签图？</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1461"/>
       <source>Failed to create binary labelmap for editing</source>
-      <translation>无法创建用于编辑的二进制labelmap</translation>
+      <translation>无法创建用于编辑的二进制标签图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2445"/>
@@ -3335,7 +3335,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
       <source>Segment: </source>
-      <translation>分割: </translation>
+      <translation>分割： </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
@@ -3368,7 +3368,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
       <source>in</source>
-      <translation>in</translation>
+      <translation>进入</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
@@ -3431,24 +3431,24 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="48"/>
       <source>Overall visibility:</source>
-      <translation>总体可见性:</translation>
+      <translation>总体可见性：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="55"/>
       <source>Overall opacity:</source>
-      <translation>总体透明度:</translation>
+      <translation>总体透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="105"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="372"/>
       <source>Slice fill:</source>
-      <translation>切片填充:</translation>
+      <translation>切片填充：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="118"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="358"/>
       <source>Slice outline:</source>
-      <translation>切片轮廓:</translation>
+      <translation>切片轮廓：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="125"/>
@@ -3476,7 +3476,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="282"/>
       <source>Views:</source>
-      <translation>视图:</translation>
+      <translation>视图：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="289"/>
@@ -3571,12 +3571,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
       <source>Use color table values:</source>
-      <translation>使用颜色表值:</translation>
+      <translation>使用颜色表值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
       <source>File format:</source>
-      <translation>文件格式:</translation>
+      <translation>文件格式：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="137"/>
@@ -3591,7 +3591,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="160"/>
       <source>Merge into single file:</source>
-      <translation>合并为单个文件:</translation>
+      <translation>合并为单个文件：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="167"/>
@@ -13182,7 +13182,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="174"/>
       <source>Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</source>
-      <translation>根据用户对表格列的选择生成交互式绘图。第一列（从左到右）将用作X轴，每个附加列将与Y轴绘制在同一图表中。</translation>
+      <translation>根据用户对表格列的选择生成交互式绘图。第一列(从左到右) 将用作X轴，每个附加列将与Y轴绘制在同一图表中。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
@@ -13240,7 +13240,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="146"/>
       <source>Database Password:</source>
-      <translation>数据库密码:</translation>
+      <translation>数据库密码：</translation>
     </message>
   </context>
   <context>
@@ -13928,7 +13928,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="160"/>
       <source>View:</source>
-      <translation>视图:</translation>
+      <translation>视图：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="173"/>
@@ -13938,7 +13938,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="200"/>
       <source>Crop:</source>
-      <translation>裁切:</translation>
+      <translation>剪切：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="212"/>
@@ -13958,7 +13958,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="256"/>
       <source>Rendering:</source>
-      <translation>渲染:</translation>
+      <translation>渲染：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="276"/>
