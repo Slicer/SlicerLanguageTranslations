@@ -6086,7 +6086,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
       <source>Image Dimensions:</source>
-      <translation type="unfinished">Image Dimensions:</translation>
+      <translation>图像维度</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
