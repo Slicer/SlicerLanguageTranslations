@@ -2478,7 +2478,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="258"/>
       <source>Courier</source>
-      <translation type="unfinished">Courier</translation>
+      <translation>信使</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="266"/>
@@ -2703,22 +2703,22 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
       <source>Export plot to SVG file</source>
-      <translation type="unfinished">Export plot to SVG file</translation>
+      <translation>导出绘图到 SVG 文件</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="54"/>
       <source>Export...</source>
-      <translation type="unfinished">Export...</translation>
+      <translation>导出...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
       <source>Add/Remove plots data series to/from the current chart.</source>
-      <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+      <translation>到/从当前图表中添加/删除图形数据序列。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
       <source>vtkMRMLPlotSeriesNode</source>
-      <translation type="unfinished">vtkMRMLPlotSeriesNode</translation>
+      <translation>vtkMRMLPlotSeriesNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
@@ -2738,7 +2738,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
       <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-      <translation type="unfinished">This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </translation>
+      <translation>他的组合框允许更改所有活动PlotSeriesNode的类型。如果选择了一个值，则PlotChartNode引用的所有PlotSeriesNode都将用新值更新。 </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
@@ -3105,13 +3105,13 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="29"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="34"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="78"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
@@ -3546,7 +3546,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="79"/>
       <source>vtkMRMLColorTableNode</source>
-      <translation type="unfinished">vtkMRMLColorTableNode</translation>
+      <translation>vtkMRMLColorTableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
@@ -3684,27 +3684,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLMarkupsROINode</source>
-      <translation type="unfinished">vtkMRMLMarkupsROINode</translation>
+      <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLAnnotationROINode</source>
-      <translation type="unfinished">vtkMRMLAnnotationROINode</translation>
+      <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="84"/>
@@ -3785,12 +3785,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
       <source>No node selected</source>
-      <translation type="unfinished">No node selected</translation>
+      <translation>未选择节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="169"/>
       <source>No node is selected</source>
-      <translation type="unfinished">No node is selected</translation>
+      <translation>未选定节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="208"/>
@@ -3875,7 +3875,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
       <source>No node selected</source>
-      <translation type="unfinished">No node selected</translation>
+      <translation>未选定节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
@@ -4898,7 +4898,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="28"/>
       <source>vtkMRMLTableNode</source>
-      <translation type="unfinished">vtkMRMLTableNode</translation>
+      <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
@@ -5517,22 +5517,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
       <source>vtkMRMLSliceNode</source>
-      <translation type="unfinished">vtkMRMLSliceNode</translation>
+      <translation>vtkMRMLSliceNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="489"/>
       <source>Select a node</source>
-      <translation type="unfinished">Select a node</translation>
+      <translation>选定节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="498"/>
@@ -5707,12 +5707,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="885"/>
       <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
-      <translation type="unfinished">Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</translation>
+      <translation>标记节点定义了glyph 起始位置。如果指定3D 视图 &apos;区域&apos; 被忽略。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="888"/>
       <source>vtkMRMLMarkupsNode</source>
-      <translation type="unfinished">vtkMRMLMarkupsNode</translation>
+      <translation>vtkMRMLMarkupsNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="902"/>
@@ -5929,7 +5929,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="30"/>
       <source>vtkMRMLUnitNode</source>
-      <translation type="unfinished">vtkMRMLUnitNode</translation>
+      <translation>vtkMRMLUnitNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="53"/>
@@ -6170,7 +6170,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="14"/>
       <source>Volume Property Node</source>
-      <translation type="unfinished">Volume Property Node</translation>
+      <translation>数据属性节点</translation>
     </message>
   </context>
   <context>
@@ -7211,7 +7211,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="46"/>
       <source>vtkMRMLViewNode</source>
-      <translation type="unfinished">vtkMRMLViewNode</translation>
+      <translation>vtkMRMLViewNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
@@ -7221,7 +7221,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="74"/>
       <source>vtkMRMLCameraNode</source>
-      <translation type="unfinished">vtkMRMLCameraNode</translation>
+      <translation>vtkMRMLCameraNode</translation>
     </message>
   </context>
   <context>
@@ -7249,12 +7249,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
@@ -8113,7 +8113,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="17"/>
       <source>Export node</source>
-      <translation type="unfinished">Export node</translation>
+      <translation>导出节点</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="42"/>
@@ -8143,7 +8143,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="591"/>
       <source>Export an individual node</source>
-      <translation type="unfinished">Export an individual node</translation>
+      <translation>导出单个节点</translation>
     </message>
   </context>
   <context>
@@ -8170,12 +8170,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="302"/>
       <source>Failed to export node %1; filename is empty.</source>
-      <translation type="unfinished">Failed to export node %1; filename is empty.</translation>
+      <translation>无法导出节点 %1; 文件名为空。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="310"/>
       <source>Exporting node...</source>
-      <translation type="unfinished">Exporting node...</translation>
+      <translation>正在导出...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="311"/>
@@ -10431,7 +10431,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="14"/>
       <source>Node Writer Options</source>
-      <translation type="unfinished">Node Writer Options</translation>
+      <translation>节点编写选项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
@@ -11061,7 +11061,7 @@ Please choose an empty directory.</translation>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="57"/>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="413"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="104"/>
@@ -11247,7 +11247,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="622"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="640"/>
@@ -11257,7 +11257,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="656"/>
       <source>vtkMRMLColorTableNode</source>
-      <translation type="unfinished">vtkMRMLColorTableNode</translation>
+      <translation>vtkMRMLColorTableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="673"/>
@@ -11457,7 +11457,7 @@ Please choose an empty directory.</translation>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="321"/>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="413"/>
       <source>vtkMRMLSequenceNode</source>
-      <translation type="unfinished">vtkMRMLSequenceNode</translation>
+      <translation>vtkMRMLSequenceNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="99"/>
@@ -11492,7 +11492,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="167"/>
       <source>The &quot;proxy&quot; node for the sequence (the node to playback into or record from).</source>
-      <translation type="unfinished">The &quot;proxy&quot; node for the sequence (the node to playback into or record from).</translation>
+      <translation>序列的 &quot;代理&quot; 节点(要播放或记录的节点)。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="175"/>
@@ -11557,7 +11557,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="314"/>
       <source>Master node:</source>
-      <translation type="unfinished">Master node:</translation>
+      <translation>主节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
@@ -11646,12 +11646,12 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="512"/>
       <source>Data nodes</source>
-      <translation type="unfinished">Data nodes</translation>
+      <translation>数据节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="550"/>
       <source>Add/remove data nodes</source>
-      <translation type="unfinished">Add/remove data nodes</translation>
+      <translation>添加/删除数据节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="560"/>
@@ -11676,7 +11676,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="621"/>
       <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-      <translation type="unfinished">If enabled then after the selected node is added to the sequence items the selection moves to the next item</translation>
+      <translation>如果启用，则在将所选节点添加到序列项目后，选择将移动到下一个项目</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="624"/>
@@ -11686,7 +11686,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="678"/>
       <source>Node type:</source>
-      <translation type="unfinished">Node type:</translation>
+      <translation>节点类型:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="691"/>
@@ -12620,7 +12620,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="52"/>
       <source>vtkMRMLMarkupsFiducialNode</source>
-      <translation type="unfinished">vtkMRMLMarkupsFiducialNode</translation>
+      <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
   </context>
   <context>
@@ -13412,18 +13412,18 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
       <source>vtkMRMLBSplineTransformNode</source>
-      <translation type="unfinished">vtkMRMLBSplineTransformNode</translation>
+      <translation>vtkMRMLBSplineTransformNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
       <source>vtkMRMLGridTransformNode</source>
-      <translation type="unfinished">vtkMRMLGridTransformNode</translation>
+      <translation>vtkMRMLGridTransformNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="519"/>
       <source>vtkMRMLTransformNode</source>
-      <translation type="unfinished">vtkMRMLTransformNode</translation>
+      <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
@@ -13573,7 +13573,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="519"/>
       <source>vtkMRMLVectorVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVectorVolumeNode</translation>
+      <translation>vtkMRMLVectorVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
