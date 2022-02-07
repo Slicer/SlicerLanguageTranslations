@@ -3116,37 +3116,37 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
       <source>Select master volume to enable editing</source>
-      <translation type="unfinished">Select master volume to enable editing</translation>
+      <translation>选择主数据以启用编辑</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
       <source>Segmentation:</source>
-      <translation type="unfinished">Segmentation:</translation>
+      <translation>分割：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
       <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-      <translation type="unfinished">Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</translation>
+      <translation>指定编辑的标签图表达的几何图形(栅格原点、间距、轴方向和默认范围)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
       <source>Specify geometry of the edited labelmap representation</source>
-      <translation type="unfinished">Specify geometry of the edited labelmap representation</translation>
+      <translation>指定编辑的标签图表达的几何图形</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
       <source>Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</source>
-      <translation type="unfinished">Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</translation>
+      <translation>切片视图的方向与分割不一致，可能会出现条纹瑕疵，单击以将切片视图与分割对齐。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="93"/>
       <source>Slice rotated</source>
-      <translation type="unfinished">Slice rotated</translation>
+      <translation>切片旋转</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="113"/>
       <source>Add new empty segment</source>
-      <translation type="unfinished">Add new empty segment</translation>
+      <translation>添加新的空白分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="116"/>
@@ -3171,7 +3171,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="155"/>
       <source>Go to Segmentations module</source>
-      <translation type="unfinished">Go to Segmentations module</translation>
+      <translation>转到分割模块</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="158"/>
@@ -4821,9 +4821,9 @@ Do you wish to proceed with changing master representation?</translation>
       <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-      <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+      <translation>在设置新变换之前，是否要固定所有已应用的变换？
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+ 注意：如果选择“否”，则应用的变换将被替换。</translation>
     </message>
   </context>
   <context>
@@ -4860,7 +4860,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="262"/>
       <source>Harden current transform on this node and all children nodes</source>
-      <translation type="unfinished">Harden current transform on this node and all children nodes</translation>
+      <translation>固定此节点和所有子节点上的当前变换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="267"/>
@@ -7049,17 +7049,17 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
       <source>Module</source>
-      <translation type="unfinished">Module</translation>
+      <translation>模块</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
       <source>Module Title</source>
-      <translation type="unfinished">Module Title</translation>
+      <translation>模块标题</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="58"/>
       <source>vtkMRMLCommandLineModuleNode</source>
-      <translation type="unfinished">vtkMRMLCommandLineModuleNode</translation>
+      <translation>vtkMRMLCommandLineModuleNode</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
@@ -7085,7 +7085,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
       <source>Cancel the execution of the module</source>
-      <translation type="unfinished">Cancel the execution of the module</translation>
+      <translation>取消模块的执行</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
@@ -7095,7 +7095,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
       <source>Execute the module</source>
-      <translation type="unfinished">Execute the module</translation>
+      <translation>执行模块</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
@@ -7110,7 +7110,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="100"/>
       <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-      <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</translation>
+      <translation>只要“自动运行”按钮处于关闭状态，只要参数值发生变化，模块就会运行。</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="107"/>
@@ -7120,7 +7120,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
       <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
-      <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node is modified.</translation>
+      <translation>只要“自动运行”按钮处于关闭状态，只要修改输入节点，模块就会运行。</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="116"/>
@@ -7130,7 +7130,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="118"/>
       <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
-      <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</translation>
+      <translation>只要“自动运行”按钮处于关闭状态，只要输入节点触发事件而不是修改的事件，模块就会运行。</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="125"/>
@@ -7140,7 +7140,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="127"/>
       <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
-      <translation type="unfinished">When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</translation>
+      <translation>如果勾选此项，模块取消/停止现有的运行实例(如果有的话)，否则它将等待完成以启动新的运行。</translation>
     </message>
   </context>
   <context>
@@ -7983,7 +7983,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
       <source>Harden transform</source>
-      <translation type="unfinished">Harden transform</translation>
+      <translation>固定变换</translation>
     </message>
   </context>
   <context>
@@ -8661,7 +8661,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="60"/>
       <source>Data Probe</source>
-      <translation type="unfinished">Data Probe</translation>
+      <translation>数据探针</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
@@ -10182,12 +10182,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="14"/>
       <source>Module finder</source>
-      <translation type="unfinished">Module finder</translation>
+      <translation>查找模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
       <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-      <translation type="unfinished">Search in full text (module name and description). If unchecked then only module names are searched.</translation>
+      <translation>全文搜索(模块名称和描述)，如果未选中，则只搜索模块名称。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
@@ -10197,7 +10197,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
       <source>Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</source>
-      <translation type="unfinished">Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</translation>
+      <translation>显示内置模块，不选中将更容易找到扩展提供的模块。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
@@ -10207,7 +10207,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
       <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-      <translation type="unfinished">Show testing modules. Useful for software testing and troubleshooting.</translation>
+      <translation>显示测试模块，用于软件测试和故障排除。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
@@ -10220,7 +10220,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="96"/>
       <source>Switch to module</source>
-      <translation type="unfinished">Switch to module</translation>
+      <translation>切换到模块</translation>
     </message>
   </context>
   <context>
@@ -10228,7 +10228,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="20"/>
       <source>Module Panel</source>
-      <translation type="unfinished">Module Panel</translation>
+      <translation>模块面板</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
@@ -10251,7 +10251,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="98"/>
       <source>Modules:</source>
-      <translation type="unfinished">Modules:</translation>
+      <translation>模块：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
@@ -10261,23 +10261,23 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="110"/>
       <source>Find module</source>
-      <translation type="unfinished">Find module</translation>
+      <translation>查找模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="120"/>
       <source>Select a module from the module list</source>
-      <translation type="unfinished">Select a module from the module list</translation>
+      <translation>从模块列表中选择模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="127"/>
       <source>Modules</source>
-      <translation type="unfinished">Modules</translation>
+      <translation>模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="134"/>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
       <source>Modules history</source>
-      <translation type="unfinished">Modules history</translation>
+      <translation>模块历史</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="136"/>
@@ -10287,7 +10287,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="146"/>
       <source>Modules Previous History</source>
-      <translation type="unfinished">Modules Previous History</translation>
+      <translation>模块上一个历史记录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="149"/>
@@ -10297,12 +10297,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="150"/>
       <source>Previous modules</source>
-      <translation type="unfinished">Previous modules</translation>
+      <translation>上一个模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="163"/>
       <source>Modules Next History</source>
-      <translation type="unfinished">Modules Next History</translation>
+      <translation>模块下一个历史记录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
@@ -10312,7 +10312,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
       <source>Next modules</source>
-      <translation type="unfinished">Next modules</translation>
+      <translation>下一个模块</translation>
     </message>
   </context>
   <context>
@@ -12013,7 +12013,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="20"/>
       <source>Module</source>
-      <translation type="unfinished">Module</translation>
+      <translation>模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
@@ -12023,18 +12023,18 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
       <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-      <translation type="unfinished">To temporarily disable, pass --disable-loadable-modules on the command line</translation>
+      <translation>要临时禁用，请在命令行上通过--disable可加载模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="130"/>
       <source>loadable modules</source>
-      <translation type="unfinished">loadable modules</translation>
+      <translation>可加载模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
       <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-      <translation type="unfinished">To temporarily disable, pass --disable-cli-modules on the command line</translation>
+      <translation>要临时禁用，请在命令行上通过--disable cli模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
@@ -12045,13 +12045,13 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
       <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-      <translation type="unfinished">To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</translation>
+      <translation>要临时禁用，请在命令行上通过--disable脚本化可加载模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="150"/>
       <source>scripted loadable modules</source>
-      <translation type="unfinished">scripted loadable modules</translation>
+      <translation>脚本化可加载模块</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
@@ -12783,9 +12783,9 @@ p, li { white-space: pre-wrap; }
       <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-      <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+      <translation>在设置新变换之前，是否要固定所有已应用的变换？
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+ 注意：如果选择“否”，则应用的变换将被替换。</translation>
     </message>
   </context>
   <context>
@@ -13448,7 +13448,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="184"/>
       <source>Identity</source>
-      <translation>身份</translation>
+      <translation>标识</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="194"/>
@@ -13518,7 +13518,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
       <source>Remove the active transform from the selected transformed nodes</source>
-      <translation type="unfinished">Remove the active transform from the selected transformed nodes</translation>
+      <translation>从选定的变换节点中删除活动变换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
@@ -13528,7 +13528,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
       <source>Harden transform</source>
-      <translation type="unfinished">Harden transform</translation>
+      <translation>固定变换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
