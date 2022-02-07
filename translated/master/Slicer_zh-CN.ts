@@ -885,7 +885,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
       <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-      <translation>当使用多个切片平面时，此选项控制它是否是用于裁剪模型的正和/或负空间的并集或交集。选择空间内的模型部分被保留，选择空间外的部分被剪切掉。</translation>
+      <translation>当使用多个切片平面时，此选项控制它是否是用于剪切模型的正和/或负空间的并集或交集。选择空间内的模型部分被保留，选择空间外的部分被剪切掉。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
@@ -895,7 +895,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
       <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-      <translation>使用由切片平面定义的正向和/或负向空间的并集来裁剪模型。</translation>
+      <translation>使用由切片平面定义的正向和/或负向空间的并集来剪切模型。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
@@ -915,7 +915,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
       <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-      <translation>使用水平位切片平面定义的正向或负向空间来裁剪模型。正面朝向上，负面朝向下。将模型的一部分保留在所选空间中，剪切其余部分。</translation>
+      <translation>使用水平位切片平面定义的正向或负向空间来剪切模型。正面朝向上，负面朝向下。将模型的一部分保留在所选空间中，剪切其余部分。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
@@ -969,7 +969,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="155"/>
       <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-      <translation>使用冠状位切片平面定义的正空间或负空间剪裁模型。正面朝前，反面朝后。将模型的一部分保留在选定的空间中，将其余部分裁剪掉。</translation>
+      <translation>使用冠状位切片平面定义的正空间或负空间剪切模型。正面朝前，反面朝后。将模型的一部分保留在选定的空间中，将其余部分剪切掉。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="172"/>
@@ -1758,7 +1758,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="73"/>
       <source>Translate</source>
-      <translation>翻转</translation>
+      <translation>平移</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="80"/>
@@ -2041,17 +2041,17 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="238"/>
       <source>Flat</source>
-      <translation>平的</translation>
+      <translation>Flat</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
       <source>Gouraud</source>
-      <translation>高洛德</translation>
+      <translation>Gouraud</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
       <source>Phong</source>
-      <translation>冯氏</translation>
+      <translation>Phong</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="269"/>
@@ -2172,7 +2172,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="37"/>
       <source>Surface Area:</source>
-      <translation>表面区域：</translation>
+      <translation>表面面积：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
@@ -2182,7 +2182,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="57"/>
       <source>Volume:</source>
-      <translation>体数据：</translation>
+      <translation>体积：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="67"/>
@@ -3100,7 +3100,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
       <source>Master volume:</source>
-      <translation>主体数据</translation>
+      <translation>主数据</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="29"/>
@@ -4191,22 +4191,22 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="831"/>
       <source>FOV, Spacing match Volumes</source>
-      <translation>FOV，间距匹配数据</translation>
+      <translation>视场，间距匹配数据</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="839"/>
       <source>FOV, Spacing match 2D</source>
-      <translation>FOV，间距匹配2D</translation>
+      <translation>视场，间距匹配2D</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="847"/>
       <source>FOV matches 2D, Spacing matches Volumes</source>
-      <translation>FOV匹配2D，间距匹配数据</translation>
+      <translation>视场匹配2D，间距匹配数据</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="855"/>
       <source>FOV matches Volumes, Spacing matches 2D View</source>
-      <translation>FOV匹配数据，间距匹配2D视图</translation>
+      <translation>视场匹配数据，间距匹配2D视图</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="863"/>
@@ -7321,7 +7321,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
       <source>Scalar Range:</source>
-      <translation type="unfinished">Scalar Range:</translation>
+      <translation>标量范围：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="283"/>
@@ -7788,7 +7788,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
       <source>Scalar Range:</source>
-      <translation type="unfinished">Scalar Range:</translation>
+      <translation>标量范围：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
@@ -7997,7 +7997,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
       <source>Scalar Display</source>
-      <translation type="unfinished">Scalar Display</translation>
+      <translation>标量显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
@@ -8040,7 +8040,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
       <source>Scalar Display</source>
-      <translation>缩放显示</translation>
+      <translation>标量显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
@@ -10785,7 +10785,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="14"/>
       <source>Scalar Volume Display</source>
-      <translation type="unfinished">Scalar Volume Display</translation>
+      <translation>标量数据显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="32"/>
@@ -13828,7 +13828,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="189"/>
       <source>Translate</source>
-      <translation>翻转</translation>
+      <translation>平移</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="190"/>
@@ -13874,7 +13874,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
       <source>Volume:</source>
-      <translation>体数据：</translation>
+      <translation>3D显示    体数据：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="63"/>
@@ -14004,7 +14004,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="398"/>
       <source>Auto-release resources:</source>
-      <translation>自动发布资源：</translation>
+      <translation>自动释放资源：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="405"/>
@@ -14126,7 +14126,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="111"/>
       <source>Auto-release resources:</source>
-      <translation>自动发布资源：</translation>
+      <translation>自动释放资源：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
