@@ -4131,17 +4131,17 @@ Do you wish to proceed with changing master representation?</source>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="722"/>
       <source>Rotate to volume plane</source>
-      <translation type="unfinished">Rotate to volume plane</translation>
+      <translation>旋转到数据平面</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
       <source>Hide labelmap outlines</source>
-      <translation type="unfinished">Hide labelmap outlines</translation>
+      <translation>隐藏标签图轮廓</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="741"/>
       <source>Toggle between showing label map volume with regions outlined or filled.</source>
-      <translation type="unfinished">Toggle between showing label map volume with regions outlined or filled.</translation>
+      <translation>在显示带有轮廓或填充区域的标签图数据之间切换。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
@@ -4151,7 +4151,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="762"/>
       <source>Cube</source>
-      <translation type="unfinished">Cube</translation>
+      <translation>立方体</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="770"/>
@@ -4421,12 +4421,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1180"/>
       <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-      <translation type="unfinished">Toggle between segmentation outline only, outline and fill, and fill only states</translation>
+      <translation>只在分割轮廓之间切换，轮廓和填充，且只能填充状态</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1196"/>
       <source>Show Segmentation</source>
-      <translation type="unfinished">Show Segmentation</translation>
+      <translation>显示分割</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1199"/>
@@ -7584,7 +7584,7 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="570"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="656"/>
       <source>Dimensions:</source>
-      <translation type="unfinished">Dimensions:</translation>
+      <translation>维度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="577"/>
