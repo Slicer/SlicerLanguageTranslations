@@ -85,7 +85,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
       <source>Opacity:</source>
-      <translation>透明度:</translation>
+      <translation>透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
@@ -115,7 +115,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
       <source>Label Position:</source>
-      <translation>标签位置:</translation>
+      <translation>标签位置：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
@@ -435,12 +435,12 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
       <source>Image threshold:</source>
-      <translation>图像阈值</translation>
+      <translation>图像阈值：</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
       <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-      <translation>设置设置输出图像阈值，体素强度低于该阈值则默认阈值为0。</translation>
+      <translation>设置用于计算输出图像的阈值。强度低于此值的体素将设置为零。</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
@@ -450,7 +450,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
       <source>Thresholded volume:</source>
-      <translation>阈值容量：</translation>
+      <translation>阈值数据：</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
@@ -465,7 +465,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
       <source>Result with inverted threshold will be written into this volume</source>
-      <translation>计算结果若存在反相阈值，将写入体数据</translation>
+      <translation>反向阈值的结果将写入该数据</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
@@ -475,7 +475,7 @@
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
       <source>Invert threshold: </source>
-      <translation>反相阈值:</translation>
+      <translation>反向阈值： </translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
@@ -1018,7 +1018,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
       <source>Show numeric value as label text</source>
-      <translation>将数字值作为标签文本</translation>
+      <translation>将数值显示为标签文本</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
@@ -1038,12 +1038,12 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
       <source>Number of labels:</source>
-      <translation>标签数量</translation>
+      <translation>标签数量：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
       <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-      <translation>显示的标签数，值为数字(而非颜色名称)时生效</translation>
+      <translation>显示的标签数，值为数字(而非颜色名称) 时生效。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -2202,7 +2202,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="111"/>
       <source>Number of Cells Scalars:</source>
-      <translation>标量单元格数量</translation>
+      <translation>标量单元数量</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
@@ -2408,7 +2408,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
       <source>Add/Remove plots data series to/from the current chart.</source>
-      <translation>到/从当前图表中添加/删除绘图数据序列。</translation>
+      <translation>到/从当前图表中添加/删除图形数据序列。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="48"/>
@@ -2418,7 +2418,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
       <source>Chart title:</source>
-      <translation>图表标题:</translation>
+      <translation>图表标题：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
@@ -2428,7 +2428,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="95"/>
       <source>X axis title:</source>
-      <translation>X轴标题:</translation>
+      <translation>X轴标题：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
@@ -2458,7 +2458,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="230"/>
       <source>Y axis title:</source>
-      <translation>Y轴标题</translation>
+      <translation>Y轴标题：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="237"/>
@@ -2488,17 +2488,17 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="273"/>
       <source>Chart title font size:</source>
-      <translation>图表标题字号:</translation>
+      <translation>图表标题字号：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
       <source>Axis title font size:</source>
-      <translation>轴标题字号:</translation>
+      <translation>轴标题字号：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
       <source>Axis label font size:</source>
-      <translation>轴标签字号:</translation>
+      <translation>轴标签字号：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
@@ -2954,13 +2954,13 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
       <source>Threshold:</source>
-      <translation>阈值:</translation>
+      <translation>阈值：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
       <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-      <translation>根据显示的模型的标量值对其应用阈值。有些单元格的法线可能会翻转，在这种情况下应该设定 &quot;后面&quot; 和 &quot;前面&quot; 在“表示”选项中禁用，以可视化所有单元格。</translation>
+      <translation>根据显示的模型的标量值对其应用阈值。有些单元的法线可能会翻转，在这种情况下应该设定 &quot;后面&quot; 和 &quot;前面&quot; 在“表示”选项中禁用，以可视化所有单元。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
@@ -3087,7 +3087,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
       <source>Images (*.png *.jpg)</source>
-      <translation type="unfinished">Images (*.png *.jpg)</translation>
+      <translation>图像(*.png *.jpg)</translation>
     </message>
   </context>
   <context>
@@ -4270,12 +4270,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="967"/>
       <source>Interpolate foreground</source>
-      <translation type="unfinished">Interpolate foreground</translation>
+      <translation>插值前景层</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="983"/>
       <source>Interpolate background</source>
-      <translation type="unfinished">Interpolate background</translation>
+      <translation>插值背景层</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="999"/>
@@ -5901,7 +5901,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="110"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>重命名</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="117"/>
@@ -6086,12 +6086,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
       <source>Image Dimensions:</source>
-      <translation>图像维度</translation>
+      <translation>图像维度：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
       <source>Image Spacing:</source>
-      <translation type="unfinished">Image Spacing:</translation>
+      <translation>图像间距：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="77"/>
@@ -6107,22 +6107,23 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="90"/>
       <source>Image Origin:</source>
-      <translation type="unfinished">Image Origin:</translation>
+      <translation>图像原点：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
       <source>IJK to RAS Direction Matrix:</source>
-      <translation type="unfinished">IJK to RAS Direction Matrix:</translation>
+      <translation>方向矩阵：
+(IJK-RAS)</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
       <source>Set a parent transform to the volume that center it on the origin. Harden the transform to permanently change the volume position.</source>
-      <translation type="unfinished">Set a parent transform to the volume that center it on the origin. Harden the transform to permanently change the volume position.</translation>
+      <translation>将父变换设置为以原点为中心的数据，固定变换以永久更改数据位置。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="160"/>
       <source>Center Volume</source>
-      <translation type="unfinished">Center Volume</translation>
+      <translation>数据居中</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="167"/>
@@ -6132,7 +6133,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="188"/>
       <source>Number of Scalars:</source>
-      <translation type="unfinished">Number of Scalars:</translation>
+      <translation>标量数量：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="216"/>
@@ -6162,7 +6163,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
       <source>Window/Level Presets:</source>
-      <translation type="unfinished">Window/Level Presets:</translation>
+      <translation>窗宽/窗位预设：</translation>
     </message>
   </context>
   <context>
@@ -6183,27 +6184,27 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
       <source>Threshold: </source>
-      <translation type="unfinished">Threshold: </translation>
+      <translation>阈值： </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="37"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>自动</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="42"/>
       <source>Manual</source>
-      <translation type="unfinished">Manual</translation>
+      <translation>手动</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="47"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="60"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
   </context>
   <context>
@@ -6235,17 +6236,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="56"/>
       <source>Auto W/L</source>
-      <translation type="unfinished">Auto W/L</translation>
+      <translation>自动调节窗宽/窗位</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="61"/>
       <source>Manual W/L</source>
-      <translation type="unfinished">Manual W/L</translation>
+      <translation>手动调节窗宽/窗位</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="66"/>
       <source>Manual Min/Max</source>
-      <translation type="unfinished">Manual Min/Max</translation>
+      <translation>手动调节最小/最大值</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="74"/>
@@ -7229,12 +7230,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="14"/>
       <source>Colors</source>
-      <translation type="unfinished">Colors</translation>
+      <translation>颜色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="49"/>
       <source>Colors:</source>
-      <translation type="unfinished">Colors:</translation>
+      <translation>颜色：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="68"/>
@@ -7244,7 +7245,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="86"/>
       <source>Color Legend</source>
-      <translation type="unfinished">Color Legend</translation>
+      <translation>颜色图例</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
@@ -7304,7 +7305,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
       <source>Number of Colors: </source>
-      <translation type="unfinished">Number of Colors: </translation>
+      <translation>颜色数量： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="256"/>
@@ -7463,12 +7464,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="326"/>
       <source>Interpolated cropping:</source>
-      <translation type="unfinished">Interpolated cropping:</translation>
+      <translation>剪切插值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="333"/>
       <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-      <translation type="unfinished">Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</translation>
+      <translation>插值并填充输入数据，使输出图像与ROI的大小完全一致，并具有所需的间距。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="349"/>
@@ -7708,8 +7709,7 @@ but cannot be interpreted by most standard DICOM imaging applications.</translat
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="321"/>
       <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-      <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+      <translation>如果选中，导出的DICOM文件将写入指定的文件夹。如果未选中，则导出的数据集将添加到DICOM数据库中。</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="325"/>
@@ -7854,17 +7854,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
       <source>Add data into the scene</source>
-      <translation type="unfinished">Add data into the scene</translation>
+      <translation>添加数据到场景中</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
       <source>Choose Directory to Add</source>
-      <translation type="unfinished">Choose Directory to Add</translation>
+      <translation>选择要添加的目录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="27"/>
       <source>Choose File(s) to Add</source>
-      <translation type="unfinished">Choose File(s) to Add</translation>
+      <translation>选择要添加的文件</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="90"/>
@@ -8574,7 +8574,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="577"/>
       <source>Adding data succeeded</source>
-      <translation type="unfinished">Adding data succeeded</translation>
+      <translation>添加数据成功</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="579"/>
@@ -8584,7 +8584,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="583"/>
       <source>Adding data failed</source>
-      <translation type="unfinished">Adding data failed</translation>
+      <translation>添加数据失败</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="585"/>
@@ -8622,7 +8622,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="64"/>
       <source>Lookup Table:</source>
-      <translation type="unfinished">Lookup Table:</translation>
+      <translation>查找表：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
@@ -8763,7 +8763,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="330"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="366"/>
       <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-      <translation type="unfinished">Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</translation>
+      <translation>启动一个 &quot;添加数据&quot; 的小部件，允许您选择要添加到现有场景中的单个数据集。当您希望同时加载多种不同的数据类型（数据、模型等）时，此加载选项最有用，场景文件可能尚未对其进行描述。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="339"/>
@@ -8788,7 +8788,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="363"/>
       <source>&amp;Add Data</source>
-      <translation type="unfinished">&amp;Add Data</translation>
+      <translation>&amp;添加数据</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="369"/>
@@ -8803,7 +8803,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="381"/>
       <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
-      <translation type="unfinished">Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</translation>
+      <translation>启动一个 &quot;添加数据&quot; 的小部件，允许您选择要添加到现有场景的数据集。&quot;数据选项&quot; 面板可用于阐明如何加载和显示选定的数据集。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="390"/>
@@ -9672,7 +9672,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="725"/>
       <source>Rename all control points in this list according to the current name format, trying to preserve numbers.</source>
-      <translation type="unfinished">Rename all control points in this list according to the current name format, trying to preserve numbers.</translation>
+      <translation>根据当前名称格式重命名此列表中的所有控制点，尝试保留数字。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
@@ -10330,12 +10330,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
       <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
-      <translation type="unfinished">Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</translation>
+      <translation>通过在切片视图中单击并拖动鼠标左键来调整窗宽/窗位，按住Ctrl/Cmd键可在调整和基于区域的设置之间临时切换。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="135"/>
       <source>Window/level</source>
-      <translation type="unfinished">Window/level</translation>
+      <translation>窗宽/窗位</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
@@ -10369,7 +10369,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
       <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-      <translation type="unfinished">Adjust window/level by click-and-drag in a slice viewer.</translation>
+      <translation>通过在切片查看器中单击并拖动来调节窗宽/窗位。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
@@ -10394,7 +10394,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
       <source>Adjust window/level</source>
-      <translation type="unfinished">Adjust window/level</translation>
+      <translation>调节窗宽/窗位</translation>
     </message>
   </context>
   <context>
@@ -10789,22 +10789,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="32"/>
       <source>Lookup Table:</source>
-      <translation type="unfinished">Lookup Table:</translation>
+      <translation>查找表：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="52"/>
       <source>Interpolate:</source>
-      <translation type="unfinished">Interpolate:</translation>
+      <translation>插值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="72"/>
       <source>Window/Level:</source>
-      <translation type="unfinished">Window/Level:</translation>
+      <translation>窗宽/窗位：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="117"/>
       <source>Histogram</source>
-      <translation type="unfinished">Histogram</translation>
+      <translation>直方图</translation>
     </message>
   </context>
   <context>
@@ -11287,7 +11287,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="751"/>
       <source>Number of layers:</source>
-      <translation type="unfinished">Number of layers:</translation>
+      <translation>图层数量：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="761"/>
@@ -11308,7 +11308,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="778"/>
       <source>Number of segments:</source>
-      <translation type="unfinished">Number of segments:</translation>
+      <translation>分割数量：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="794"/>
@@ -11507,7 +11507,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>重命名</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
@@ -12652,7 +12652,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
       <source>Opacity</source>
-      <translation type="unfinished">Opacity</translation>
+      <translation>透明度</translation>
     </message>
   </context>
   <context>
@@ -12811,7 +12811,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="147"/>
       <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
-      <translation type="unfinished">Center the slice on the currently visible 3D view content and all loaded volumes.</translation>
+      <translation>在当前可见的三维视图内容和所有加载的数据上居中放置切片。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="152"/>
@@ -12821,7 +12821,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="154"/>
       <source>Center the slice view on the currently displayed volume.</source>
-      <translation type="unfinished">Center the slice view on the currently displayed volume.</translation>
+      <translation>当前显示的数据在切片视图中居中显示。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
@@ -12861,7 +12861,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="182"/>
       <source>Copy image</source>
-      <translation type="unfinished">Copy image</translation>
+      <translation>复制图像</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="184"/>
@@ -13988,7 +13988,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="341"/>
       <source>Interactive speed:</source>
-      <translation>交互速度:</translation>
+      <translation>交互速度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="360"/>
@@ -14105,7 +14105,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="68"/>
       <source>Default interactive speed:</source>
-      <translation>默认交互速度:</translation>
+      <translation>默认交互速度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
@@ -14206,7 +14206,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
       <source>Active Volume: </source>
-      <translation>当前数据: </translation>
+      <translation>当前数据： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="48"/>
@@ -14221,7 +14221,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
       <source>Convert to LabelMap:</source>
-      <translation>转换为标签映射:</translation>
+      <translation>转换为标签图：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="121"/>
@@ -14251,7 +14251,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="131"/>
       <source>Convert to label map:</source>
-      <translation>转换为标签映射：</translation>
+      <translation>转换为标签图：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
