@@ -164,7 +164,7 @@
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="105"/>
       <source>patient right is screen left (default)</source>
-      <translation type="unfinished">patient right is screen left (default)</translation>
+      <translation>droite du patient correspond à la gauche de l'écran (défaut)</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
