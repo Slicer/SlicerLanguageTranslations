@@ -8228,27 +8228,27 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
       <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-      <translation type="unfinished">Tell the application to load this extension by adding all associated module paths to the application settings.</translation>
+      <translation>通过将所有相关模块路径添加到应用程序设置中，告知应用程序加载此扩展。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="108"/>
       <source>Enable</source>
-      <translation type="unfinished">Enable</translation>
+      <translation>启用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="115"/>
       <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-      <translation type="unfinished">Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</translation>
+      <translation>通过从应用程序设置中删除所有关联的模块路径，告知应用程序跳过此扩展的加载。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="118"/>
       <source>Disable</source>
-      <translation type="unfinished">Disable</translation>
+      <translation>停用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="142"/>
       <source>Tell the application to uninstall this extension when it will restart.</source>
-      <translation type="unfinished">Tell the application to uninstall this extension when it will restart.</translation>
+      <translation>告诉应用程序在重新启动时卸载此扩展。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="145"/>
@@ -8258,12 +8258,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="152"/>
       <source>Tell the application to keep this extension installed.</source>
-      <translation type="unfinished">Tell the application to keep this extension installed.</translation>
+      <translation>告诉应用程序继续安装此扩展。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="155"/>
       <source>Cancel Uninstall</source>
-      <translation type="unfinished">Cancel Uninstall</translation>
+      <translation>取消卸载</translation>
     </message>
   </context>
   <context>
@@ -8271,12 +8271,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
       <source>Extensions Manager</source>
-      <translation type="unfinished">Extensions Manager</translation>
+      <translation>扩展管理器</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
       <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-      <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</translation>
+      <translation>&lt;font color=&quot;red&quot;&gt;*请求重新启动&lt;/font&gt;</translation>
     </message>
   </context>
   <context>
@@ -8284,57 +8284,57 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="529"/>
       <source>Failed to open extensions settings file %1</source>
-      <translation type="unfinished">Failed to open extensions settings file %1</translation>
+      <translation>无法打开扩展名设置文件%1</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="567"/>
       <source>Failed to open extensions settings file: %1</source>
-      <translation type="unfinished">Failed to open extensions settings file: %1</translation>
+      <translation>无法打开扩展名设置文件：%1</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="605"/>
       <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-      <translation type="unfinished">Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+      <translation>扩展安装目录不存在：&lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="622"/>
       <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
-      <translation type="unfinished">Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+      <translation>扩展安装目录应该是可读/可写/可执行的：&lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="834"/>
       <source>slicerRevision is not specified</source>
-      <translation type="unfinished">slicerRevision is not specified</translation>
+      <translation>slicer修订版未指定</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="838"/>
       <source>slicerOs is not specified</source>
-      <translation type="unfinished">slicerOs is not specified</translation>
+      <translation>slicer操作系统未指定</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="842"/>
       <source>slicerArch is not specified</source>
-      <translation type="unfinished">slicerArch is not specified</translation>
+      <translation>slicerArch未指定</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="848"/>
       <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
-      <translation type="unfinished">extensionSlicerRevision [%1] is different from slicerRevision [%2]</translation>
+      <translation>slicer版本扩展 [%1] 不同于Slicer版本 [%2]</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="853"/>
       <source>extensionArch [%1] is different from slicerArch [%2]</source>
-      <translation type="unfinished">extensionArch [%1] is different from slicerArch [%2]</translation>
+      <translation>扩展Arch [%1] 不同于SlicerArch [%2]</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="858"/>
       <source>extensionOs [%1] is different from slicerOs [%2]</source>
-      <translation type="unfinished">extensionOs [%1] is different from slicerOs [%2]</translation>
+      <translation>扩展Os [%1] 不同于SlicerOs [%2]</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2714"/>
       <source>extensionName is not specified</source>
-      <translation type="unfinished">extensionName is not specified</translation>
+      <translation>扩展名称未指定</translation>
     </message>
   </context>
   <context>
@@ -8342,28 +8342,28 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="14"/>
       <source>Slicer Extensions Manager</source>
-      <translation type="unfinished">Slicer Extensions Manager</translation>
+      <translation>Slicer扩展管理器</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
       <source>Install Extensions</source>
-      <translation type="unfinished">Install Extensions</translation>
+      <translation>安装扩展</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="70"/>
       <source>Restore Extensions</source>
-      <translation type="unfinished">Restore Extensions</translation>
+      <translation>还原扩展</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="586"/>
       <source>restore %1 extension(s)</source>
-      <translation type="unfinished">restore %1 extension(s)</translation>
+      <translation>还原 %1 扩展</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="598"/>
       <source>Install/uninstall operations are still in progress:
 - </source>
-      <translation type="unfinished">Install/uninstall operations are still in progress:
+      <translation>安装/卸载操作仍在进行：
 - </translation>
     </message>
     <message>
@@ -8371,9 +8371,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
       <source>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
-      <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+      <translation>单击“确定”等待它们完成，或者选择“忽略”立即关闭扩展管理器。</translation>
     </message>
   </context>
   <context>
@@ -8381,62 +8379,62 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="203"/>
       <source>Select All</source>
-      <translation type="unfinished">Select All</translation>
+      <translation>选择全部</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="209"/>
       <source>Deselect All</source>
-      <translation type="unfinished">Deselect All</translation>
+      <translation>取消全选</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="215"/>
       <source>&amp;Install Selected...</source>
-      <translation type="unfinished">&amp;Install Selected...</translation>
+      <translation>&amp;安装已选...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="222"/>
       <source>Check previous extensions on startup</source>
-      <translation type="unfinished">Check previous extensions on startup</translation>
+      <translation>启动时检查以前的扩展</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="223"/>
       <source>Install previous extensions without request</source>
-      <translation type="unfinished">Install previous extensions without request</translation>
+      <translation>无需请求即可安装以前的扩展</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="295"/>
       <source>%1 compatible extension(s) from a previous Slicer installation found. Do you want to install? (For details see: Extensions Manager &gt; Restore Extensions)</source>
-      <translation type="unfinished">%1 compatible extension(s) from a previous Slicer installation found. Do you want to install? (For details see: Extensions Manager &gt; Restore Extensions)</translation>
+      <translation>找到先前Slicer安装的 %1 个兼容的扩展，您想要安装吗？(详情见：扩展管理器 &gt; 还原扩展)</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="358"/>
       <source>currently installed</source>
-      <translation type="unfinished">currently installed</translation>
+      <translation>当前已安装</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="364"/>
       <source>was used in previously installed Slicer version (%1)</source>
-      <translation type="unfinished">was used in previously installed Slicer version (%1)</translation>
+      <translation>在先前安装的 Slicer 版本 (%1) 中被使用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="368"/>
       <source>was last used in Slicer version %1</source>
-      <translation type="unfinished">was last used in Slicer version %1</translation>
+      <translation>上次使用Slicer版本 %1</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="373"/>
       <source>not found for current Slicer version (was last used in Slicer version %1)</source>
-      <translation type="unfinished">not found for current Slicer version (was last used in Slicer version %1)</translation>
+      <translation>没有找到当前的Slicer版本 (最后一次使用于Slicer版本 %1)</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="451"/>
       <source>All extensions restored. Please restart Slicer.</source>
-      <translation type="unfinished">All extensions restored. Please restart Slicer.</translation>
+      <translation>所有扩展都已恢复。请重新启动Slicer。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="467"/>
       <source>Installing %1 (%2/%3)</source>
-      <translation type="unfinished">Installing %1 (%2/%3)</translation>
+      <translation>安装 %1 (%2/%3)</translation>
     </message>
   </context>
   <context>
@@ -8449,22 +8447,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
       <source>Install Extension from File...</source>
-      <translation type="unfinished">Install Extension from File...</translation>
+      <translation>从文件安装扩展...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
       <source>Install from file...</source>
-      <translation type="unfinished">Install from file...</translation>
+      <translation>从文件安装...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="68"/>
       <source>&amp;Check for Updates</source>
-      <translation type="unfinished">&amp;Check for Updates</translation>
+      <translation>&amp;检查更新</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="76"/>
       <source>Install Updates &amp;Automatically</source>
-      <translation type="unfinished">Install Updates &amp;Automatically</translation>
+      <translation>自动安装更新</translation>
     </message>
   </context>
   <context>
@@ -8545,18 +8543,18 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
       <source>Select ray casting technique for the views where the current volume is visible</source>
-      <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+      <translation>为当前可见数据视图选择光线投射技术</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="56"/>
       <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-      <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+      <translation>通过对光线投射应用随机噪声来移除木纹瑕疵的选项</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
       <source>Surface smoothing:</source>
-      <translation type="unfinished">Surface smoothing:</translation>
+      <translation>表面平滑：</translation>
     </message>
   </context>
   <context>
@@ -8607,17 +8605,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>表单</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
       <source>When displaying the label map with the outline/not filled option, this controls the width of the outline.</source>
-      <translation type="unfinished">When displaying the label map with the outline/not filled option, this controls the width of the outline.</translation>
+      <translation>使用“轮廓/未填充”选项显示标签贴图时，这将控制轮廓的宽度。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="35"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> 像素</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="64"/>
@@ -8627,7 +8625,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
       <source>Label Outline &amp;Thickness:</source>
-      <translation type="unfinished">Label Outline &amp;Thickness:</translation>
+      <translation>标签轮廓和厚度：</translation>
     </message>
   </context>
   <context>
@@ -8635,12 +8633,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="14"/>
       <source>Foo bar</source>
-      <translation type="unfinished">Foo bar</translation>
+      <translation>页脚栏</translation>
     </message>
     <message>
       <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="23"/>
       <source>Foo Bar</source>
-      <translation type="unfinished">Foo Bar</translation>
+      <translation>页脚栏</translation>
     </message>
   </context>
   <context>
@@ -8648,7 +8646,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>表单</translation>
     </message>
     <message>
       <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -8666,12 +8664,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
       <source>Load/Save</source>
-      <translation type="unfinished">Load/Save</translation>
+      <translation>载入/保存</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="87"/>
       <source>Favorite Modules</source>
-      <translation type="unfinished">Favorite Modules</translation>
+      <translation>收藏模块</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
@@ -8681,7 +8679,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>
       <source>Layout Selection</source>
-      <translation type="unfinished">Layout Selection</translation>
+      <translation>布局选择</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="123"/>
@@ -8691,12 +8689,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
       <source>Capture/Restore</source>
-      <translation type="unfinished">Capture/Restore</translation>
+      <translation>捕获/恢复</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="148"/>
       <source>Crosshair Selection</source>
-      <translation type="unfinished">Crosshair Selection</translation>
+      <translation>十字光标选择</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="159"/>
@@ -8706,7 +8704,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="171"/>
       <source>Layout ToolBar</source>
-      <translation type="unfinished">Layout ToolBar</translation>
+      <translation>布局工具栏</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="217"/>
@@ -8716,7 +8714,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="221"/>
       <source>Recently Loaded</source>
-      <translation type="unfinished">Recently Loaded</translation>
+      <translation>最近加载</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="233"/>
@@ -8732,7 +8730,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="249"/>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="372"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>布局</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="286"/>
@@ -8752,7 +8750,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="318"/>
       <source>Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</source>
-      <translation type="unfinished">Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</translation>
+      <translation>启动文件浏览器以选择要加载的场景（mrml、xcat或xml），它首先清除Slicer中的任何现有场景，并重置应用程序状态。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="327"/>
@@ -8768,22 +8766,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="339"/>
       <source>Load DICOM</source>
-      <translation type="unfinished">Load DICOM</translation>
+      <translation>加载 DICOM</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="342"/>
       <source>Raise the DICOM module for loading DICOM datasets.</source>
-      <translation type="unfinished">Raise the DICOM module for loading DICOM datasets.</translation>
+      <translation>启动DICOM模块以加载DICOM数据集。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="351"/>
       <source>Import Scene</source>
-      <translation type="unfinished">Import Scene</translation>
+      <translation>导入场景</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="354"/>
       <source>Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</source>
-      <translation type="unfinished">Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</translation>
+      <translation>启动文件浏览器以浏览并选择要添加到现有场景的场景文件，场景未被清除。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="363"/>
@@ -8798,7 +8796,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="378"/>
       <source>Add Volume</source>
-      <translation type="unfinished">Add Volume</translation>
+      <translation>添加数据</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="381"/>
@@ -8808,18 +8806,18 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="390"/>
       <source>Add Transform</source>
-      <translation type="unfinished">Add Transform</translation>
+      <translation>添加变换</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="393"/>
       <source>Raise a standard file browser that allows you to select a transform to the existing scene.</source>
-      <translation type="unfinished">Raise a standard file browser that allows you to select a transform to the existing scene.</translation>
+      <translation>打开一个标准文件浏览器，该浏览器允许您选择对现有场景的变换。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="402"/>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="635"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="405"/>
@@ -8829,12 +8827,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="408"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="417"/>
       <source>Save Scene To Directory</source>
-      <translation type="unfinished">Save Scene To Directory</translation>
+      <translation>保存场景到目录</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="420"/>
@@ -8844,7 +8842,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="429"/>
       <source>Save Scene to MRB File</source>
-      <translation type="unfinished">Save Scene to MRB File</translation>
+      <translation>保存场景到 MRB 文件</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="432"/>
@@ -8854,27 +8852,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="441"/>
       <source>Close Scene</source>
-      <translation type="unfinished">Close Scene</translation>
+      <translation>关闭场景</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="444"/>
       <source>Close the current scene and reset the application state. </source>
-      <translation type="unfinished">Close the current scene and reset the application state. </translation>
+      <translation>关闭当前场景，重置应用程序状态。 </translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="447"/>
       <source>Ctrl+W</source>
-      <translation type="unfinished">Ctrl+W</translation>
+      <translation>Ctrl+W</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="452"/>
       <source>E&amp;xit</source>
-      <translation type="unfinished">E&amp;xit</translation>
+      <translation>退出(&amp;X)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="455"/>
       <source>Quit the application</source>
-      <translation type="unfinished">Quit the application</translation>
+      <translation>退出应用程序</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="464"/>
@@ -8909,12 +8907,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="490"/>
       <source>New Fiducial List</source>
-      <translation type="unfinished">New Fiducial List</translation>
+      <translation>新的基准点列表</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="493"/>
       <source>Create a new list of fiducial points.</source>
-      <translation type="unfinished">Create a new list of fiducial points.</translation>
+      <translation>创建一个新的基准点列表。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="496"/>
@@ -8924,12 +8922,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="505"/>
       <source>Extensions Manager</source>
-      <translation type="unfinished">Extensions Manager</translation>
+      <translation>扩展管理器</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="508"/>
       <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-      <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</translation>
+      <translation>启动&quot;扩展管理&quot;向导，提供可用扩展的状态和信息</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
@@ -8939,7 +8937,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="516"/>
       <source>Cache &amp; Remote I/O Manager</source>
-      <translation type="unfinished">Cache &amp; Remote I/O Manager</translation>
+      <translation>缓存和远程I/O管理器</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="519"/>
@@ -8974,7 +8972,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="545"/>
       <source>Ctrl+X</source>
-      <translation type="unfinished">Ctrl+X</translation>
+      <translation>Ctrl+X</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="554"/>
@@ -8989,7 +8987,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="560"/>
       <source>Ctrl+C</source>
-      <translation type="unfinished">Ctrl+C</translation>
+      <translation>Ctrl+C</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="569"/>
@@ -11881,7 +11879,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="28"/>
       <source>Enable extensions manager:</source>
-      <translation type="unfinished">Enable extensions manager:</translation>
+      <translation>启用扩展管理器：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="45"/>
@@ -11901,7 +11899,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="93"/>
       <source>Open Extensions Manager...</source>
-      <translation type="unfinished">Open Extensions Manager...</translation>
+      <translation>打开扩展管理器...</translation>
     </message>
   </context>
   <context>
@@ -12846,7 +12844,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="169"/>
       <source>Ctrl+b</source>
-      <translation type="unfinished">Ctrl+b</translation>
+      <translation>Ctrl+b</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
@@ -14351,7 +14349,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="102"/>
       <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-      <translation>提升 &quot;扩展管理器&quot; 向导允许查找、下载和安装Slicer扩展。&lt;br&gt;&lt;br&gt;扩展是将一个或多个Slicer模块捆绑在一起的插件包。&lt;br&gt;&lt;br&gt;安装扩展后，相关模块将可在模块选择器中使用。</translation>
+      <translation>启动 &quot;扩展管理器&quot; 向导允许查找、下载和安装Slicer扩展。&lt;br&gt;&lt;br&gt;扩展是将一个或多个Slicer模块捆绑在一起的插件包。&lt;br&gt;&lt;br&gt;安装扩展后，相关模块将可在模块选择器中使用。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="105"/>
