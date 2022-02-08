@@ -6420,46 +6420,46 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="255"/>
       <source>Apply text scale to all annotations in this hierarchy</source>
-      <translation type="unfinished">Apply text scale to all annotations in this hierarchy</translation>
+      <translation>将文本缩放到此层次结构中的所有批注</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="258"/>
       <source>List Text Scale:</source>
-      <translation type="unfinished">List Text Scale:</translation>
+      <translation>列表文字缩放：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="265"/>
       <source>Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</source>
-      <translation type="unfinished">Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+      <translation>将文本缩放到此层次结构中的所有注释 (当前设置可能不反映文本缩放， 这是一个仅列出的设置，使用默认按钮恢复到标准大小)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="278"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="315"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="352"/>
       <source>Set to default</source>
-      <translation type="unfinished">Set to default</translation>
+      <translation>设为默认值</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="281"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="318"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="355"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>默认</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="292"/>
       <source>Apply glyph scale to all annotations in this hierarchy</source>
-      <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy</translation>
+      <translation>将图示符比例应用于此层次结构中的所有注释</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="295"/>
       <source>List Glyph Scale:</source>
-      <translation type="unfinished">List Glyph Scale:</translation>
+      <translation>列出字形比例：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="302"/>
       <source>Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</source>
-      <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+      <translation>将图示符比例应用于此层次结构中的所有注释（当前设置可能不反映图示符比例，这是一个只按列表的设置，使用默认按钮返回标准大小）</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
@@ -6485,12 +6485,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="366"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高级</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="388"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>文本</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="404"/>
@@ -6509,19 +6509,19 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="426"/>
       <source>Text Scale:</source>
-      <translation type="unfinished">Text Scale:</translation>
+      <translation>文本比例：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="442"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="644"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="809"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="455"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>可视性：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="488"/>
@@ -6624,12 +6624,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="962"/>
       <source>Ruler Projection</source>
-      <translation type="unfinished">Ruler Projection</translation>
+      <translation>标尺投影</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="1004"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>ROI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/GUI/qSlicerAnnotationModulePropertyDialog.cxx" line="123"/>
@@ -6642,17 +6642,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleReportDialog.ui" line="14"/>
       <source>Annotation Report</source>
-      <translation type="unfinished">Annotation Report</translation>
+      <translation>注释报告</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleReportDialog.ui" line="28"/>
       <source>Title:</source>
-      <translation type="unfinished">Title:</translation>
+      <translation>标题：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/GUI/qSlicerAnnotationModuleReportDialog.cxx" line="260"/>
       <source>Print Annotation Report</source>
-      <translation type="unfinished">Print Annotation Report</translation>
+      <translation>打印注释报告</translation>
     </message>
   </context>
   <context>
@@ -6660,117 +6660,117 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="20"/>
       <source>Annotation</source>
-      <translation type="unfinished">Annotation</translation>
+      <translation>注解</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="26"/>
       <source>Annotations</source>
-      <translation type="unfinished">Annotations</translation>
+      <translation>注释</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="41"/>
       <source>Fiducials have moved to the Markups module.</source>
-      <translation type="unfinished">Fiducials have moved to the Markups module.</translation>
+      <translation>基准点已移动到标记模块。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="48"/>
       <source>Create-and-place</source>
-      <translation type="unfinished">Create-and-place</translation>
+      <translation>创建和放置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="54"/>
       <source>Select node types to create and place annotations.</source>
-      <translation type="unfinished">Select node types to create and place annotations.</translation>
+      <translation>选择节点类型以创建和放置注释。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="57"/>
       <source>Select node type: </source>
-      <translation type="unfinished">Select node type: </translation>
+      <translation>选择节点类型： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="82"/>
       <source>Create-and-place an annotation ruler node.</source>
-      <translation type="unfinished">Create-and-place an annotation ruler node.</translation>
+      <translation>创建并放置一个注释标尺节点。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="114"/>
       <source>Create-and-place an annotation ROI node.</source>
-      <translation type="unfinished">Create-and-place an annotation ROI node.</translation>
+      <translation>创建并放置一个注释ROI节点。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="145"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>编辑</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="169"/>
       <source>Toggle the visibility of highlighted Annotations. Hierarchies are ignored.</source>
-      <translation type="unfinished">Toggle the visibility of highlighted Annotations. Hierarchies are ignored.</translation>
+      <translation>切换高亮显示批注的可见性，层次结构被忽略。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="195"/>
       <source>Unselect all annotations and hierarchies</source>
-      <translation type="unfinished">Unselect all annotations and hierarchies</translation>
+      <translation>取消选择所有注释和层次结构</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="227"/>
       <source>Lock/ unlock highlighted annotations. Hierarchies are ignored.</source>
-      <translation type="unfinished">Lock/ unlock highlighted annotations. Hierarchies are ignored.</translation>
+      <translation>锁定/解锁高亮显示的注释，层次结构被忽略。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="259"/>
       <source>Reset sliceViews to the first coordinate of the highlighted annotation.</source>
-      <translation type="unfinished">Reset sliceViews to the first coordinate of the highlighted annotation.</translation>
+      <translation>将切片视图重置为高亮显示注释的第一个坐标。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="291"/>
       <source>Create a new hierarchy. If a hierarchy is currently highlighted, the new one will be a sub-hierarchy.</source>
-      <translation type="unfinished">Create a new hierarchy. If a hierarchy is currently highlighted, the new one will be a sub-hierarchy.</translation>
+      <translation>创建一个新的层次结构，如果当前高亮显示了一个层次结构，则新的层次结构将是一个子层次结构。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="323"/>
       <source>Display a report of highlighted annotations</source>
-      <translation type="unfinished">Display a report of highlighted annotations</translation>
+      <translation>显示高亮显示注释的报告</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="355"/>
       <source>Delete highlighted annotations. Hierarchies have to single selected to get deleted.</source>
-      <translation type="unfinished">Delete highlighted annotations. Hierarchies have to single selected to get deleted.</translation>
+      <translation>删除突出显示的注释，必须选中层次结构才能删除。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="375"/>
       <source>Set all annotations in active list to be unlocked</source>
-      <translation type="unfinished">Set all annotations in active list to be unlocked</translation>
+      <translation>将活动列表中的所有注释设置为解锁</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="395"/>
       <source>Set all annotations in active list locked</source>
-      <translation type="unfinished">Set all annotations in active list locked</translation>
+      <translation>将活动列表中的所有注释设置为锁定</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="415"/>
       <source>Set all annotations in active list invisible</source>
-      <translation type="unfinished">Set all annotations in active list invisible</translation>
+      <translation>将活动列表中的所有注释设置为不可见</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="435"/>
       <source>Set all annotations in active list visible</source>
-      <translation type="unfinished">Set all annotations in active list visible</translation>
+      <translation>将活动列表中的所有注释设置为可见</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="454"/>
       <source>Click a hierarchy to activate it. If the Main Hierarchy is active, new per-annotation lists will be created under it, otherwise annotations will be added to the active list.</source>
-      <translation type="unfinished">Click a hierarchy to activate it. If the Main Hierarchy is active, new per-annotation lists will be created under it, otherwise annotations will be added to the active list.</translation>
+      <translation>单击层次以激活它，如果主层次结构处于活动状态，将在其下创建新的每注释列表，否则注释将添加到活动列表中。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="457"/>
       <source>Active list: </source>
-      <translation type="unfinished">Active list: </translation>
+      <translation>活动列表： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="522"/>
       <source>Select all annotations and hierarchies</source>
-      <translation type="unfinished">Select all annotations and hierarchies</translation>
+      <translation>选择所有注释和层次结构</translation>
     </message>
   </context>
   <context>
@@ -6778,68 +6778,68 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
       <source>&amp;Keyboard Shortcuts</source>
-      <translation type="unfinished">&amp;Keyboard Shortcuts</translation>
+      <translation>&amp;键盘快捷键</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
       <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
-      <translation type="unfinished">Raise a window that lists commonly-used keyboard shortcuts.</translation>
+      <translation>打开一个列出常用键盘快捷键的窗口。</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
       <source>Interface Documentation</source>
-      <translation type="unfinished">Interface Documentation</translation>
+      <translation>接口文档</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
       <source>Ctrl+1</source>
       <comment>Interface Documentation</comment>
-      <translation type="unfinished">Ctrl+1</translation>
+      <translation>Ctrl+1</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
       <source>Browse tutorials</source>
-      <translation type="unfinished">Browse tutorials</translation>
+      <translation>浏览教程</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="88"/>
       <source>Raise the training pages in your favorite web browser</source>
-      <translation type="unfinished">Raise the training pages in your favorite web browser</translation>
+      <translation>在您最喜欢的web浏览器中打开培训页面</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="92"/>
       <source>Slicer Publications</source>
-      <translation type="unfinished">Slicer Publications</translation>
+      <translation>Slicer出版物</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="96"/>
       <source>Visual Blog</source>
-      <translation type="unfinished">Visual Blog</translation>
+      <translation>可视博客</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="97"/>
       <source>Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</source>
-      <translation type="unfinished">Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</translation>
+      <translation>使用你最喜欢的网络浏览器打开Slicer 可视博客，在那里你可以发布你在研究中使用Slicer软件包的有趣方式的截图，并与Slicer社区分享。</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="101"/>
       <source>Report a bug</source>
-      <translation type="unfinished">Report a bug</translation>
+      <translation>报告错误</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
       <source>Report error or request enhancement or new feature.</source>
-      <translation type="unfinished">Report error or request enhancement or new feature.</translation>
+      <translation>报告错误或请求增强功能或新功能。</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="106"/>
       <source>About 3D Slicer</source>
-      <translation type="unfinished">About 3D Slicer</translation>
+      <translation>关于3DSlicer</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
       <source>Provides a description of the Slicer effort and its support.</source>
-      <translation type="unfinished">Provides a description of the Slicer effort and its support.</translation>
+      <translation>提供Slicer工作及其支持的说明。</translation>
     </message>
   </context>
   <context>
