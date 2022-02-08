@@ -8562,12 +8562,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="319"/>
       <source>Select a reader</source>
-      <translation type="unfinished">Select a reader</translation>
+      <translation>选择一个读取器</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="320"/>
       <source>Select a reader to use for your data?</source>
-      <translation type="unfinished">Select a reader to use for your data?</translation>
+      <translation>选择要用于数据的读取器？</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="577"/>
@@ -8577,7 +8577,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="579"/>
       <source>The selected files were loaded successfully but errors or warnings were reported.</source>
-      <translation type="unfinished">The selected files were loaded successfully but errors or warnings were reported.</translation>
+      <translation>已成功加载所选文件，但报告了错误或警告。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="583"/>
@@ -8587,17 +8587,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="585"/>
       <source>Error occurred while loading the selected files.</source>
-      <translation type="unfinished">Error occurred while loading the selected files.</translation>
+      <translation>加载所选文件时出错。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
       <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
-      <translation type="unfinished">Click &apos;Show details&apos; button and check the application log for more information.</translation>
+      <translation>点击 &apos;显示详细信息&apos; 按钮并检查应用程序日志以获取更多信息。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="595"/>
       <source>Check the application log for more information.</source>
-      <translation type="unfinished">Check the application log for more information.</translation>
+      <translation>检查应用程序日志以获得更多信息。</translation>
     </message>
   </context>
   <context>
@@ -8822,7 +8822,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="405"/>
       <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-      <translation type="unfinished">Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</translation>
+      <translation>显示 &quot;保存数据&quot; 小部件，它提供保存场景和/或单个数据集的许多选项。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="408"/>
@@ -8837,7 +8837,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="420"/>
       <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-      <translation type="unfinished">UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</translation>
+      <translation>禁用：将当前场景保存到一个独立目录。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="429"/>
@@ -8847,7 +8847,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="432"/>
       <source>Create a Medical Reality Bundle containing the scene.</source>
-      <translation type="unfinished">Create a Medical Reality Bundle containing the scene.</translation>
+      <translation>创建一个包含场景的MRB文件(医疗实况包)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="441"/>
@@ -8942,17 +8942,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="519"/>
       <source>The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</source>
-      <translation type="unfinished">The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</translation>
+      <translation>缓存和远程数据处理接口提供所有远程数据传输的状态和信息，并允许对本地缓存进行一些控制。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="524"/>
       <source>Application Settings</source>
-      <translation type="unfinished">Application Settings</translation>
+      <translation>应用程序设置</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="527"/>
       <source>The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</source>
-      <translation type="unfinished">The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</translation>
+      <translation>应用程序设置提供了更改应用程序界面的一些选项，重启软件之后将之导入应用程序注册表，它们在整个会话中都会被保存。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="530"/>
@@ -8962,12 +8962,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="539"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>剪切</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="542"/>
       <source>Cut currently selected item and place in clipboard</source>
-      <translation type="unfinished">Cut currently selected item and place in clipboard</translation>
+      <translation>剪切当前选定的项目并放入剪贴板</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="545"/>
@@ -8977,12 +8977,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="554"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>复制</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="557"/>
       <source>Copy currently selected item to clipboard</source>
-      <translation type="unfinished">Copy currently selected item to clipboard</translation>
+      <translation>复制当前选中的项目到剪贴板</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="560"/>
@@ -9346,82 +9346,82 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
       <source>Python Interactor</source>
-      <translation type="unfinished">Python Interactor</translation>
+      <translation>Python交互窗口</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="462"/>
       <source>&amp;Python Interactor</source>
-      <translation type="unfinished">&amp;Python Interactor</translation>
+      <translation>&amp;Python交互窗口</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
       <source>Show Python Interactor window for controlling the application&apos;s data, user interface, and internals</source>
-      <translation type="unfinished">Show Python Interactor window for controlling the application&apos;s data, user interface, and internals</translation>
+      <translation>显示用于控制应用程序的Python交互窗口的数据、用户界面和内部结构</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="624"/>
       <source>Some data have been modified. Do you want to save them before exit?</source>
-      <translation type="unfinished">Some data have been modified. Do you want to save them before exit?</translation>
+      <translation>某些数据已被修改，您想要在退出前保存它们吗？</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="628"/>
       <source>The scene has been modified. Do you want to save it before exit?</source>
-      <translation type="unfinished">The scene has been modified. Do you want to save it before exit?</translation>
+      <translation>场景已被修改，您想要在退出前保存它吗？</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="633"/>
       <source>Save before exit?</source>
-      <translation type="unfinished">Save before exit?</translation>
+      <translation>退出前保存吗？</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="637"/>
       <source>Exit (discard modifications)</source>
-      <translation type="unfinished">Exit (discard modifications)</translation>
+      <translation>退出 (放弃修改)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="639"/>
       <source>Cancel exit</source>
-      <translation type="unfinished">Cancel exit</translation>
+      <translation>取消退出</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="669"/>
       <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-      <translation type="unfinished">Some data have been modified. Do you want to save them before closing the scene?</translation>
+      <translation>一些数据已被修改，您想要在关闭场景前保存它们吗？</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="673"/>
       <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-      <translation type="unfinished">The scene has been modified. Do you want to save it before closing the scene?</translation>
+      <translation>场景已被修改，您想要在关闭场景之前保存它吗？</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="683"/>
       <source>Save before closing scene?</source>
-      <translation type="unfinished">Save before closing scene?</translation>
+      <translation>关闭场景前保存？</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="688"/>
       <source>Close scene (discard modifications)</source>
-      <translation type="unfinished">Close scene (discard modifications)</translation>
+      <translation>关闭场景(放弃修改)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="689"/>
       <source>Save scene</source>
-      <translation type="unfinished">Save scene</translation>
+      <translation>保存场景</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="871"/>
       <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
-      <translation type="unfinished">Slicer Data Bundle Directory (Select Empty Directory)</translation>
+      <translation>Slicer数据包目录(选择空目录)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="896"/>
       <source>Save Data Bundle File</source>
-      <translation type="unfinished">Save Data Bundle File</translation>
+      <translation>保存数据包文件</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="897"/>
       <source>Medical Reality Bundle (*.mrb)</source>
-      <translation type="unfinished">Medical Reality Bundle (*.mrb)</translation>
+      <translation>医疗实况包 (*.mrb)</translation>
     </message>
   </context>
   <context>
@@ -9429,17 +9429,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="20"/>
       <source>Markups</source>
-      <translation type="unfinished">Markups</translation>
+      <translation>标记</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
       <source>Create Markups:</source>
-      <translation type="unfinished">Create Markups:</translation>
+      <translation>创建标记：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
@@ -9454,173 +9454,173 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
       <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-      <translation type="unfinished">Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</translation>
+      <translation>将当前显示属性设置保存为默认值，Slicer重启时将保存为默认值(见应用程序设置)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
       <source>Save to Defaults</source>
-      <translation type="unfinished">Save to Defaults</translation>
+      <translation>保存为默认？</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
       <source>Use default display properties.</source>
-      <translation type="unfinished">Use default display properties.</translation>
+      <translation>使用默认显示属性。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
       <source>Reset to Defaults</source>
-      <translation type="unfinished">Reset to Defaults</translation>
+      <translation>重设为默认值</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="138"/>
       <source>Control Points</source>
-      <translation type="unfinished">Control Points</translation>
+      <translation>控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
       <source>Interaction: </source>
-      <translation type="unfinished">Interaction: </translation>
+      <translation>交互: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
       <source>Enable/disable all interactions in slice and 3D views.</source>
-      <translation type="unfinished">Enable/disable all interactions in slice and 3D views.</translation>
+      <translation>启用/禁用切片和3D视图中的所有交互。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
       <source>Lock the number of points allowed in the active markup.</source>
-      <translation type="unfinished">Lock the number of points allowed in the active markup.</translation>
+      <translation>锁定活动标记中允许的点数。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
       <source>Jump Slices:</source>
-      <translation type="unfinished">Jump Slices:</translation>
+      <translation>跳转切片：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
       <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-      <translation type="unfinished">Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</translation>
+      <translation>偏移：设置切片平面位置。居中：设置切片平面位置，并将切片视图居中于控制点上。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
       <source>none</source>
-      <translation type="unfinished">none</translation>
+      <translation>不显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
       <source>offset</source>
-      <translation type="unfinished">offset</translation>
+      <translation>偏移</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
       <source>centered</source>
-      <translation type="unfinished">centered</translation>
+      <translation>居中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
       <source>Show Slice Intersections:</source>
-      <translation type="unfinished">Show Slice Intersections:</translation>
+      <translation>显示切片交互：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
       <source>Show how the other slice planes intersect each slice plane.</source>
-      <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+      <translation>显示其他切片平面如何与每个切片平面相交。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
       <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-      <translation type="unfinished">Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</translation>
+      <translation>切换列表中所有控制点的可见性标志，使用下拉菜单将全部设置为可见或不可见。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
       <source>Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</source>
-      <translation type="unfinished">Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</translation>
+      <translation>切换列表中所有控制点的选定标志，使用下拉菜单将全部设置为选中或不选中。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
       <source>Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</source>
-      <translation type="unfinished">Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</translation>
+      <translation>切换列表中所有控制点的锁定标志，使用下拉菜单将所有锁定或解锁。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
       <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-      <translation type="unfinished">Skip placement of highlighted control point(s) from the active list (will clear current position).</translation>
+      <translation>从活动列表中跳过高亮控制点的位置(将清除当前位置)。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
       <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-      <translation type="unfinished">Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</translation>
+      <translation>清除活动列表中突出显示的控制点位置(控制点将不会被删除)。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
       <source>Delete the highlighted control point(s) from the active list</source>
-      <translation type="unfinished">Delete the highlighted control point(s) from the active list</translation>
+      <translation>从活动列表中删除高亮的控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
       <source>Remove all control points from the active list</source>
-      <translation type="unfinished">Remove all control points from the active list</translation>
+      <translation>从活动列表中移除所有控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>剪切</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>复制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>粘贴</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="520"/>
       <source>Coordinates:  </source>
-      <translation type="unfinished">Coordinates:  </translation>
+      <translation>坐标：  </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
       <source>Set visibility and coordinate system of control point positions.</source>
-      <translation type="unfinished">Set visibility and coordinate system of control point positions.</translation>
+      <translation>设置控制点位置的可见性和坐标系。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
       <source>World</source>
-      <translation type="unfinished">World</translation>
+      <translation>世界</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="542"/>
       <source>Local</source>
-      <translation type="unfinished">Local</translation>
+      <translation>本地</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="547"/>
       <source>Hide</source>
-      <translation type="unfinished">Hide</translation>
+      <translation>隐藏</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="567"/>
       <source>The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</source>
-      <translation type="unfinished">The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</translation>
+      <translation>当前活动标记节点中的控制点，右键单击删除、跳转、复制和移动。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="570"/>
       <source>active markup control point table</source>
-      <translation type="unfinished">active markup control point table</translation>
+      <translation>活动标记控制点表</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
       <source>Display, naming, volume interactions, moving up/down, adding, Annotations import</source>
-      <translation type="unfinished">Display, naming, volume interactions, moving up/down, adding, Annotations import</translation>
+      <translation>显示、命名、数据交互、向上/向下移动、添加、注释导入</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="896"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高级</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="615"/>
@@ -9665,7 +9665,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>重置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="725"/>
@@ -9676,7 +9676,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="889"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>应用</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="738"/>
@@ -9706,22 +9706,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="833"/>
       <source>Export/import Table</source>
-      <translation type="unfinished">Export/import Table</translation>
+      <translation>导出/导入表</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="842"/>
       <source>Operation:</source>
-      <translation type="unfinished">Operation:</translation>
+      <translation>操作：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="851"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>导出</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="858"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>导入</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="867"/>
@@ -9736,7 +9736,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="923"/>
       <source>Export coordinate system:</source>
-      <translation type="unfinished">Export coordinate system:</translation>
+      <translation>导出坐标系：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="932"/>
@@ -9807,7 +9807,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3277"/>
       <source>Export control points coordinates and properties to table.</source>
-      <translation type="unfinished">Export control points coordinates and properties to table.</translation>
+      <translation>将控制点坐标和属性导出到表格。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3285"/>
@@ -10416,7 +10416,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="56"/>
       <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-      <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+      <translation>通过对光线投射应用随机噪声来移除木纹瑕疵的选项</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="49"/>
@@ -10891,7 +10891,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="82"/>
       <source>Medical Reality Bundle (.mrb)</source>
-      <translation type="unfinished">Medical Reality Bundle (.mrb)</translation>
+      <translation>医疗实况包 (*.mrb)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="83"/>
@@ -10997,12 +10997,12 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1207"/>
       <source>Apply to all segments:</source>
-      <translation type="unfinished">Apply to all segments:</translation>
+      <translation>适用于所有分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1208"/>
       <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
-      <translation type="unfinished">Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </translation>
+      <translation>将剪刀效果从上到下应用于所有可见分割。按 &apos;应用&apos;后请耐心等待-这可能耗费一些时间，进度将显示为状态消息。 </translation>
     </message>
   </context>
   <context>
@@ -11199,7 +11199,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="537"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>应用</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="544"/>
@@ -11214,7 +11214,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="558"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高级</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="588"/>
@@ -11535,7 +11535,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="268"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高级</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="283"/>
@@ -13372,7 +13372,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="90"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高级</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
