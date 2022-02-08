@@ -6847,7 +6847,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="275"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>通用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="278"/>
@@ -6857,48 +6857,48 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="282"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>外观</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="286"/>
       <source>Views</source>
-      <translation type="unfinished">Views</translation>
+      <translation>视图：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="290"/>
       <source>User</source>
-      <translation type="unfinished">User</translation>
+      <translation>用户</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="294"/>
       <source>Extensions</source>
-      <translation type="unfinished">Extensions</translation>
+      <translation>扩展</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="298"/>
       <source>Cache</source>
-      <translation type="unfinished">Cache</translation>
+      <translation>缓存</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="303"/>
       <source>Internationalization</source>
-      <translation type="unfinished">Internationalization</translation>
+      <translation>国际化</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="309"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="314"/>
       <source>Developer</source>
-      <translation type="unfinished">Developer</translation>
+      <translation>开发者</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="417"/>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="453"/>
       <source>%1 has caught an application error, </source>
-      <translation type="unfinished">%1 has caught an application error, </translation>
+      <translation>%1 捕获了应用程序错误， </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="418"/>
@@ -6906,54 +6906,54 @@ p, li { white-space: pre-wrap; }
       <source>please save your work and restart.
 
 </source>
-      <translation type="unfinished">please save your work and restart.
+      <translation>请保存您的工作并重启。
 
 </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="419"/>
       <source>The application has run out of memory. </source>
-      <translation type="unfinished">The application has run out of memory. </translation>
+      <translation>应用程序已耗尽内存. </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
       <source>winnt</source>
-      <translation type="unfinished">winnt</translation>
+      <translation>获胜者</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="422"/>
       <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
-      <translation type="unfinished">Increasing virtual memory size in system settings or adding more RAM may fix this issue.
+      <translation>在系统设置中增加虚拟内存大小或添加更多内存可能会解决此问题。
 
 </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="424"/>
       <source>linux</source>
-      <translation type="unfinished">linux</translation>
+      <translation>linux</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="426"/>
       <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
-      <translation type="unfinished">Increasing swap size in system settings or adding more RAM may fix this issue.
+      <translation>在系统设置中增加虚拟内存大小或添加更多内存可能会解决此问题。
 
 </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="428"/>
       <source>darwin</source>
-      <translation type="unfinished">darwin</translation>
+      <translation>darwin</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="430"/>
       <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
-      <translation type="unfinished">Increasing free disk space or adding more RAM may fix this issue.
+      <translation>增加可用磁盘空间或添加更多内存可能会解决此问题。
 
 </translation>
     </message>
@@ -6962,7 +6962,7 @@ p, li { white-space: pre-wrap; }
       <source>Adding more RAM may fix this issue.
 
 </source>
-      <translation type="unfinished">Adding more RAM may fix this issue.
+      <translation>添加更多内存可能会解决此问题。
 
 </translation>
     </message>
@@ -6970,7 +6970,7 @@ p, li { white-space: pre-wrap; }
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="436"/>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="455"/>
       <source>If you have a repeatable sequence of steps that causes this message, </source>
-      <translation type="unfinished">If you have a repeatable sequence of steps that causes this message, </translation>
+      <translation>如果您有一系列可重复的步骤导致此消息， </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="437"/>
@@ -6979,7 +6979,7 @@ p, li { white-space: pre-wrap; }
 
 
 </source>
-      <translation type="unfinished">please report the issue following instructions available at http://slicer.org
+      <translation>请按照以下说明报告问题，网址为http://slicer.org
 
 
 </translation>
@@ -6990,7 +6990,7 @@ p, li { white-space: pre-wrap; }
       <source>The message detail is:
 
 </source>
-      <translation type="unfinished">The message detail is:
+      <translation>消息详细信息为：
 
 </translation>
     </message>
@@ -6998,23 +6998,23 @@ p, li { white-space: pre-wrap; }
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="439"/>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="458"/>
       <source>Exception thrown in event: </source>
-      <translation type="unfinished">Exception thrown in event: </translation>
+      <translation>事件中引发异常： </translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="447"/>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="466"/>
       <source>Application Error</source>
-      <translation type="unfinished">Application Error</translation>
+      <translation>应用程序错误</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="623"/>
       <source>Are you sure you want to restart?</source>
-      <translation type="unfinished">Are you sure you want to restart?</translation>
+      <translation>确定要重新启动吗？</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerApplication.cxx" line="765"/>
       <source>Extensions manager is starting, please wait...</source>
-      <translation type="unfinished">Extensions manager is starting, please wait...</translation>
+      <translation>扩展管理器正在启动，请稍候...</translation>
     </message>
   </context>
   <context>
@@ -7022,7 +7022,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="254"/>
       <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
-      <translation type="unfinished">Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</translation>
+      <translation>此计算机的图形功能不足以运行此应用程序，应用程序很可能无法正常工作。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="257"/>
@@ -7032,17 +7032,17 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-      <translation type="unfinished">See more information and help at:
-%1/user_guide/get_help.html#slicer-application-does-not-start
+      <translation>查看更多信息和帮助：
+%1/user_guid/get_help.html#slicer-application-does -not start
 
-Graphics capabilities of this computer:
+此计算机的图形功能：
 
 </translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="266"/>
       <source>Insufficient graphics capability</source>
-      <translation type="unfinished">Insufficient graphics capability</translation>
+      <translation>图形能力不足</translation>
     </message>
   </context>
   <context>
@@ -7065,23 +7065,23 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
       <source>Parameter set:</source>
-      <translation type="unfinished">Parameter set:</translation>
+      <translation>参数设置：</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="104"/>
       <source>Reset parameters to default.</source>
-      <translation type="unfinished">Reset parameters to default.</translation>
+      <translation>重置参数为默认值。</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="107"/>
       <source>Restore Defaults</source>
-      <translation type="unfinished">Restore Defaults</translation>
+      <translation>恢复默认</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="95"/>
       <source>AutoRun</source>
-      <translation type="unfinished">AutoRun</translation>
+      <translation>自动运行</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
@@ -7091,7 +7091,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
@@ -7101,12 +7101,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>应用</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
       <source>AutoRun on changed parameter</source>
-      <translation type="unfinished">AutoRun on changed parameter</translation>
+      <translation>更改参数后自动运行</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="100"/>
@@ -7116,7 +7116,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="107"/>
       <source>AutoRun on modified input</source>
-      <translation type="unfinished">AutoRun on modified input</translation>
+      <translation>修改后输入自动运行</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
@@ -7126,7 +7126,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="116"/>
       <source>AutoRun on other input events</source>
-      <translation type="unfinished">AutoRun on other input events</translation>
+      <translation>自动运行其他输入事件</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="118"/>
@@ -7136,7 +7136,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="125"/>
       <source>AutoRun cancels running process</source>
-      <translation type="unfinished">AutoRun cancels running process</translation>
+      <translation>自动运行取消正在运行的进程</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="127"/>
@@ -7149,17 +7149,17 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="124"/>
       <source>Show details</source>
-      <translation type="unfinished">Show details</translation>
+      <translation>显示细节</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="149"/>
       <source>Status:</source>
-      <translation type="unfinished">Status:</translation>
+      <translation>状态：</translation>
     </message>
     <message>
       <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="150"/>
       <source>Idle</source>
-      <translation type="unfinished">Idle</translation>
+      <translation>空闲</translation>
     </message>
   </context>
   <context>
@@ -7167,17 +7167,17 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
       <source>GPU RayCast</source>
-      <translation type="unfinished">GPU RayCast</translation>
+      <translation>GPU光线投射</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
       <source>Technique:</source>
-      <translation type="unfinished">Technique:</translation>
+      <translation>技术：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
       <source>Select ray casting technique for the views where the current volume is visible</source>
-      <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+      <translation>为当前数据可见的视图选择光线投射技术</translation>
     </message>
   </context>
   <context>
@@ -7185,7 +7185,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
       <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-      <translation type="unfinished">Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</translation>
+      <translation>管理3D视图和摄像头。&lt;br&gt;下面的视图下拉菜单可用于创建新视图并选择活动视图。将布局切换到 &quot;Tabbed 3D布局&quot; 从工具栏中的布局图标访问多个视图。在 &quot;Tabbed 3D布局 &quot;中选择的视图。 &quot;Tabbed 3D Layout&quot;成为活动视图，并替换所有其他布局中的三维视图。下面的摄像头下拉菜单可用于设置选定视图的活动摄像头。&lt;br&gt;警告：目前这是相当实验性的(基准点、IO/数据、关闭场景可能因新视图而中断)&lt;br&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
