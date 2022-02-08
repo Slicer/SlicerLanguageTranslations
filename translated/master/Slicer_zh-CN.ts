@@ -9625,42 +9625,42 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="615"/>
       <source>Move a highlighted control point up one spot in the list</source>
-      <translation type="unfinished">Move a highlighted control point up one spot in the list</translation>
+      <translation>将高亮显示的控制点在列表中上移一个位置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="647"/>
       <source>Move a highlighted control point down one spot in the list</source>
-      <translation type="unfinished">Move a highlighted control point down one spot in the list</translation>
+      <translation>将高亮显示的控制点向下移动列表中的一个点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
       <source>Add a new control point to the active list, at origin</source>
-      <translation type="unfinished">Add a new control point to the active list, at origin</translation>
+      <translation>将新控制点添加到活动列表的原点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
       <source>Naming</source>
-      <translation type="unfinished">Naming</translation>
+      <translation>命名</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="698"/>
       <source>Include %N for list name, %d for number.</source>
-      <translation type="unfinished">Include %N for list name, %d for number.</translation>
+      <translation>列表名称包含 %N ，号码为 %d。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="701"/>
       <source>Name Format</source>
-      <translation type="unfinished">Name Format</translation>
+      <translation>名称格式</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="708"/>
       <source>Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</source>
-      <translation type="unfinished">Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</translation>
+      <translation>使用sprintf格式样式创建新控制点名称的格式：%N被列表名替换，%S被标记的短名称和%d代之以整数</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="715"/>
       <source>Reset the name format field to the default value.</source>
-      <translation type="unfinished">Reset the name format field to the default value.</translation>
+      <translation>重置名称格式字段为默认值。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
@@ -9681,27 +9681,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="738"/>
       <source>Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</source>
-      <translation type="unfinished">Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</translation>
+      <translation>使用基准点层次结构来制作标记列表，一旦被移动就删除注释。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="741"/>
       <source>Convert Annotation Fiducials</source>
-      <translation type="unfinished">Convert Annotation Fiducials</translation>
+      <translation>转换注释基准点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="757"/>
       <source>Measurements</source>
-      <translation type="unfinished">Measurements</translation>
+      <translation>测量</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="766"/>
       <source>No measurement</source>
-      <translation type="unfinished">No measurement</translation>
+      <translation>没有测量</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="773"/>
       <source>Measurement settings</source>
-      <translation type="unfinished">Measurement settings</translation>
+      <translation>测量设置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="833"/>
@@ -9726,12 +9726,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="867"/>
       <source>Table:</source>
-      <translation type="unfinished">Table:</translation>
+      <translation>列表：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="874"/>
       <source>vtkMRMLTableNode</source>
-      <translation type="unfinished">vtkMRMLTableNode</translation>
+      <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="923"/>
@@ -9813,8 +9813,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3285"/>
       <source>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
-      <translation type="unfinished">Import control points coordinates and properties from table node.
-Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</translation>
+      <translation>从表格节点导入控制点坐标和属性。
+表格列名：label、r、a、s(或l、p、s) 定义、选定、可见、锁定、描述。</translation>
     </message>
   </context>
   <context>
@@ -11129,7 +11129,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="329"/>
       <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-      <translation type="unfinished">Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+      <translation>从当前分割复制到其他节点(拷贝分割节点和导入/导出模型或标签图节点)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="332"/>
@@ -11139,7 +11139,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="357"/>
       <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-      <translation type="unfinished">Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+      <translation>从其他节点复制到当前的分割(复制的分割节点和导入/导出模型或标签节点)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="360"/>
@@ -11164,7 +11164,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="451"/>
       <source>Export/import models and labelmaps</source>
-      <translation type="unfinished">Export/import models and labelmaps</translation>
+      <translation>导出/导入模型和标签图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="483"/>
@@ -11204,7 +11204,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="544"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>导出</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="551"/>
@@ -11219,7 +11219,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="588"/>
       <source>Exported segments:</source>
-      <translation type="unfinished">Exported segments:</translation>
+      <translation>导出的分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="596"/>
@@ -11235,7 +11235,7 @@ Please choose an empty directory.</translation>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="609"/>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="619"/>
       <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
-      <translation type="unfinished">Exported labelmap geometry will match this volume&apos;s geometry</translation>
+      <translation>导出的标签图几何形状将与此数据的几何形状匹配</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="612"/>
@@ -11275,7 +11275,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="699"/>
       <source>Export to files</source>
-      <translation type="unfinished">Export to files</translation>
+      <translation>导出到文件</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="742"/>
@@ -11334,12 +11334,12 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="966"/>
       <source>Failed to export segments to labelmap</source>
-      <translation type="unfinished">Failed to export segments to labelmap</translation>
+      <translation>导出分割到标签映射失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="982"/>
       <source>Failed to export segments to models</source>
-      <translation type="unfinished">Failed to export segments to models</translation>
+      <translation>导出分割到模型失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1041"/>
@@ -11384,7 +11384,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="66"/>
       <source>Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</source>
-      <translation type="unfinished">Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</translation>
+      <translation>在二进制标签映射中启用表面平滑到新分割的封闭表面转换，平滑改善了3D视图和导出模型的外观，但是分割编辑速度要慢得多。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="79"/>
@@ -12634,7 +12634,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="490"/>
       <source>Create new patient and study for DICOM export?</source>
-      <translation type="unfinished">Create new patient and study for DICOM export?</translation>
+      <translation>为DICOM导出创建新的患者和研究？</translation>
     </message>
   </context>
   <context>
@@ -12681,19 +12681,19 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1004"/>
       <source>Failed to export segmentation to labelmap node</source>
-      <translation type="unfinished">Failed to export segmentation to labelmap node</translation>
+      <translation>将分割导出为标签节点失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1043"/>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
       <source>Failed to export segments</source>
-      <translation type="unfinished">Failed to export segments</translation>
+      <translation>导出分割失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1068"/>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1332"/>
       <source>Failed to export segmentation to models</source>
-      <translation type="unfinished">Failed to export segmentation to models</translation>
+      <translation>导出分割至模型失败</translation>
     </message>
   </context>
   <context>
@@ -13546,7 +13546,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
       <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-      <translation type="unfinished">Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</translation>
+      <translation>定义导出置换场的原点、间距和轴方向的数据，如果参考数据处于非线性变换下，则使用未变换的几何体作为参考。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="473"/>
