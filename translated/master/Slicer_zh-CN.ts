@@ -993,7 +993,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
       <source>Color Legend</source>
-      <translation>颜色条</translation>
+      <translation>颜色图例</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
@@ -1063,7 +1063,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="189"/>
       <source>Vertical</source>
-      <translation>垂直布局</translation>
+      <translation>垂直</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="202"/>
@@ -1105,7 +1105,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
       <source>Short side length of the color legend, as percentage of view size</source>
-      <translation>色彩图的短侧长度作为视图大小的百分比</translation>
+      <translation>颜色图例的短侧长度作为视图大小的百分比</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
@@ -1115,12 +1115,12 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
       <source>Short side length of the color legend, as fraction of view size</source>
-      <translation>色彩图的短侧长度作为视图大小的分数</translation>
+      <translation>颜色图例的短侧长度作为视图大小的分数</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
       <source>Long side length of the color legend, as percentage of view size</source>
-      <translation>色彩图的长边长度作为视图大小的百分比</translation>
+      <translation>颜色图例的长边长度作为视图大小的百分比</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
@@ -1130,7 +1130,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
       <source>Long side length of the color legend, as fraction of view size</source>
-      <translation>色彩图的长边长度作为视图大小的分数</translation>
+      <translation>颜色图例的长边长度作为视图大小的分数</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -7241,12 +7241,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="68"/>
       <source>Duplicate the current color node to allow editing colors, scalar range, size.</source>
-      <translation type="unfinished">Duplicate the current color node to allow editing colors, scalar range, size.</translation>
+      <translation>复制当前颜色节点以允许编辑颜色、标量范围和大小。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="86"/>
       <source>Color Legend</source>
-      <translation>颜色条</translation>
+      <translation>颜色图例</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
@@ -7261,47 +7261,47 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
       <source>Displayable node:</source>
-      <translation type="unfinished">Displayable node:</translation>
+      <translation>可显示节点：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
       <source>Create color legend for the selected displayable node.</source>
-      <translation type="unfinished">Create color legend for the selected displayable node.</translation>
+      <translation>为选定的可显示节点创建颜色图例。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="137"/>
       <source>Create</source>
-      <translation type="unfinished">Create</translation>
+      <translation>创建</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="144"/>
       <source>Use the currently selected colors for the selected displayable node.</source>
-      <translation type="unfinished">Use the currently selected colors for the selected displayable node.</translation>
+      <translation>为选定的可显示节点使用当前选定的颜色。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="147"/>
       <source>Use current colors</source>
-      <translation type="unfinished">Use current colors</translation>
+      <translation>使用当前颜色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="154"/>
       <source>Delete the color legend for the selected displayable node.</source>
-      <translation type="unfinished">Delete the color legend for the selected displayable node.</translation>
+      <translation>删除所选可显示节点的颜色图例。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="157"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>删除</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="166"/>
       <source>Color legend:</source>
-      <translation type="unfinished">Color legend:</translation>
+      <translation>颜色图例：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
       <source>Color Table</source>
-      <translation type="unfinished">Color Table</translation>
+      <translation>颜色表：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
@@ -7311,12 +7311,12 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="256"/>
       <source>Hide empty Colors: </source>
-      <translation type="unfinished">Hide empty Colors: </translation>
+      <translation>隐藏空颜色： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
       <source>Show/Hide the unnamed color entries in the list below.</source>
-      <translation type="unfinished">Show/Hide the unnamed color entries in the list below.</translation>
+      <translation>在下面的列表中显示/隐藏未命名的颜色条目。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
@@ -7326,17 +7326,17 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="283"/>
       <source>The range of scalars that are mapped to the full range of colors.</source>
-      <translation type="unfinished">The range of scalars that are mapped to the full range of colors.</translation>
+      <translation>映射到全部颜色范围的标量范围。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="211"/>
       <source>Discrete table</source>
-      <translation type="unfinished">Discrete table</translation>
+      <translation>离散表</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="269"/>
       <source>Continuous scale</source>
-      <translation type="unfinished">Continuous scale</translation>
+      <translation>连续缩放</translation>
     </message>
   </context>
   <context>
@@ -7344,7 +7344,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="741"/>
       <source>Failed to create %1 directory</source>
-      <translation type="unfinished">Failed to create %1 directory</translation>
+      <translation>创建 %1 目录失败</translation>
     </message>
   </context>
   <context>
@@ -7352,19 +7352,19 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="592"/>
       <source>%1 load failed.</source>
-      <translation type="unfinished">%1 load failed.</translation>
+      <translation>%1 加载失败。</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="827"/>
       <source>Unable to find a storable node with ID %1</source>
-      <translation type="unfinished">Unable to find a storable node with ID %1</translation>
+      <translation>找不到ID为 %1 的可存储节点</translation>
     </message>
     <message>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="840"/>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="883"/>
       <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="910"/>
       <source>Error encountered while exporting %1</source>
-      <translation type="unfinished">Error encountered while exporting %1</translation>
+      <translation>导出 %1 时发生错误</translation>
     </message>
   </context>
   <context>
@@ -7373,94 +7373,94 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
       <source>Crop Volume</source>
-      <translation type="unfinished">Crop Volume</translation>
+      <translation>剪切数据</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
       <source>Parameter set:</source>
-      <translation type="unfinished">Parameter set:</translation>
+      <translation>参数设置：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="78"/>
       <source>vtkMRMLCropVolumeParametersNode</source>
-      <translation type="unfinished">vtkMRMLCropVolumeParametersNode</translation>
+      <translation>vtkMRMLCropVolumeParametersNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
       <source>IO</source>
-      <translation type="unfinished">IO</translation>
+      <translation>IO</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
       <source>Input volume:</source>
-      <translation type="unfinished">Input volume:</translation>
+      <translation>输入数据：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="148"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="262"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
       <source>Input ROI:</source>
-      <translation type="unfinished">Input ROI:</translation>
+      <translation>输入ROI：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="179"/>
       <source>vtkMRMLMarkupsROINode</source>
-      <translation type="unfinished">vtkMRMLMarkupsROINode</translation>
+      <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="179"/>
       <source>vtkMRMLAnnotationROINode</source>
-      <translation type="unfinished">vtkMRMLAnnotationROINode</translation>
+      <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="185"/>
       <source>Crop Volume ROI</source>
-      <translation type="unfinished">Crop Volume ROI</translation>
+      <translation>裁剪数据ROI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="197"/>
       <source>Select region of interest</source>
-      <translation type="unfinished">Select region of interest</translation>
+      <translation>选择感兴趣区域</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="215"/>
       <source>Display ROI</source>
-      <translation type="unfinished">Display ROI</translation>
+      <translation>显示 ROI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="236"/>
       <source>Fit to Volume</source>
-      <translation type="unfinished">Fit to Volume</translation>
+      <translation>初始大小</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="249"/>
       <source>Output volume:</source>
-      <translation type="unfinished">Output volume:</translation>
+      <translation>输出数据：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="262"/>
       <source>vtkMRMLVectorVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVectorVolumeNode</translation>
+      <translation>vtkMRMLVectorVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="268"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="587"/>
       <source>Cropped volume</source>
-      <translation type="unfinished">Cropped volume</translation>
+      <translation>已剪切数据</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="280"/>
       <source>Create new volume</source>
-      <translation type="unfinished">Create new volume</translation>
+      <translation>创建新的数据</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="296"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高级</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="326"/>
@@ -7476,89 +7476,89 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="349"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="359"/>
       <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-      <translation type="unfinished">The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</translation>
+      <translation>输出数据中的体素间距将按此值缩放。大于1.0的值将使剪切数据的分辨率低于输入数据。小于1.0的值将使剪切数据的分辨率高于输入数据。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="352"/>
       <source>Spacing scale:</source>
-      <translation type="unfinished">Spacing scale:</translation>
+      <translation>间距缩放：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="362"/>
       <source>x</source>
-      <translation type="unfinished">x</translation>
+      <translation>x</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="375"/>
       <source>Isotropic spacing:</source>
-      <translation type="unfinished">Isotropic spacing:</translation>
+      <translation>各向同性间距：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="395"/>
       <source>Interpolator:</source>
-      <translation type="unfinished">Interpolator:</translation>
+      <translation>插值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="404"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="434"/>
       <source>High quality, slow</source>
-      <translation type="unfinished">High quality, slow</translation>
+      <translation>高质量，慢速</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="407"/>
       <source>B-spline</source>
-      <translation type="unfinished">B-spline</translation>
+      <translation>B-样条</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="414"/>
       <source>Low quality, fastest</source>
-      <translation type="unfinished">Low quality, fastest</translation>
+      <translation>低质量，最快</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="417"/>
       <source>Nearest Neighbor</source>
-      <translation type="unfinished">Nearest Neighbor</translation>
+      <translation>最近邻</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="424"/>
       <source>Medium quality, medium speed</source>
-      <translation type="unfinished">Medium quality, medium speed</translation>
+      <translation>中等质量，中等速度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="427"/>
       <source>Linear</source>
-      <translation type="unfinished">Linear</translation>
+      <translation>线性</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="437"/>
       <source>Windowed Sinc</source>
-      <translation type="unfinished">Windowed Sinc</translation>
+      <translation>窗口正弦</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="446"/>
       <source>Fill value:</source>
-      <translation type="unfinished">Fill value:</translation>
+      <translation>填充值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="453"/>
       <source>Voxel values outside the input volume will be filled with this value</source>
-      <translation type="unfinished">Voxel values outside the input volume will be filled with this value</translation>
+      <translation>输入数据外的体素值将用该值填充</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="484"/>
       <source>Volume information</source>
-      <translation type="unfinished">Volume information</translation>
+      <translation>数据信息</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="508"/>
       <source>Input volume</source>
-      <translation type="unfinished">Input volume</translation>
+      <translation>输入数据</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="517"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="596"/>
       <source>Output volume dimension after cropping</source>
-      <translation type="unfinished">Output volume dimension after cropping</translation>
+      <translation>剪切后的输出数据维度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="529"/>
@@ -7566,7 +7566,7 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="608"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="636"/>
       <source>0,0,0</source>
-      <translation type="unfinished">0,0,0</translation>
+      <translation>0,0,0</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="542"/>
@@ -9447,12 +9447,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
       <source>Color legend for the Color Table selected in Scalars section.</source>
-      <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+      <translation>在“标量”部分中选择的颜色表的颜色图例。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="96"/>
       <source>Color Legend</source>
-      <translation type="unfinished">Color Legend</translation>
+      <translation>颜色图例</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
@@ -10155,12 +10155,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
       <source>Color legend for the Color Table selected in Scalars section.</source>
-      <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+      <translation>在“标量”部分中选择的颜色表的颜色图例。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
       <source>Color Legend</source>
-      <translation type="unfinished">Color Legend</translation>
+      <translation>颜色图例</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
@@ -12857,7 +12857,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
       <source>Configures display of corner annotations and color legend.</source>
-      <translation type="unfinished">Configures display of corner annotations and color legend.</translation>
+      <translation>角点注释和颜色图例配置显示。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="182"/>
