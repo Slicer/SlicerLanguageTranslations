@@ -8195,7 +8195,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="375"/>
       <source>Export information</source>
-      <translation type="unfinished">Export information</translation>
+      <translation>导出信息</translation>
     </message>
   </context>
   <context>
@@ -8208,22 +8208,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
       <source>Tell the application to update this extension on restart.</source>
-      <translation type="unfinished">Tell the application to update this extension on restart.</translation>
+      <translation>告诉应用程序在重启时更新此扩展。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="70"/>
       <source>Update</source>
-      <translation type="unfinished">Update</translation>
+      <translation>升级</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="77"/>
       <source>Tell the application to keep the currently installed version of this extension.</source>
-      <translation type="unfinished">Tell the application to keep the currently installed version of this extension.</translation>
+      <translation>告诉应用程序保留此扩展的当前安装版本。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="80"/>
       <source>Cancel Update</source>
-      <translation type="unfinished">Cancel Update</translation>
+      <translation>取消升级</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
@@ -8527,7 +8527,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="92"/>
       <source>16 GB</source>
-      <translation type="unfinished">16 GB</translation>
+      <translation>16 GB</translation>
     </message>
   </context>
   <context>
@@ -8535,12 +8535,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
       <source>GPU RayCast</source>
-      <translation type="unfinished">GPU RayCast</translation>
+      <translation>GPU光线投射</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
       <source>Technique:</source>
-      <translation type="unfinished">Technique:</translation>
+      <translation>技术：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -8889,12 +8889,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="470"/>
       <source>Ctrl+Z</source>
-      <translation type="unfinished">Ctrl+Z</translation>
+      <translation>Ctrl+Z</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="479"/>
       <source>Redo</source>
-      <translation type="unfinished">Redo</translation>
+      <translation>重做</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="482"/>
@@ -8904,7 +8904,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="485"/>
       <source>Ctrl+Y</source>
-      <translation type="unfinished">Ctrl+Y</translation>
+      <translation>Ctrl+Y</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="490"/>
@@ -8919,7 +8919,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="496"/>
       <source>Ctrl+L</source>
-      <translation type="unfinished">Ctrl+L</translation>
+      <translation>Ctrl+L</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="505"/>
@@ -8934,7 +8934,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
       <source>Ctrl+4</source>
-      <translation type="unfinished">Ctrl+4</translation>
+      <translation>Ctrl+4</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="516"/>
@@ -8959,7 +8959,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="530"/>
       <source>Ctrl+2</source>
-      <translation type="unfinished">Ctrl+2</translation>
+      <translation>Ctrl+2</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="539"/>
@@ -8994,356 +8994,356 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="569"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>粘贴</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="572"/>
       <source>Paste the current contents of the clipboard</source>
-      <translation type="unfinished">Paste the current contents of the clipboard</translation>
+      <translation>粘贴剪贴板的当前内容</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="575"/>
       <source>Ctrl+V</source>
-      <translation type="unfinished">Ctrl+V</translation>
+      <translation>Ctrl+V</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="586"/>
       <source>&amp;Maximize view</source>
-      <translation type="unfinished">&amp;Maximize view</translation>
+      <translation>&amp;最大化视图</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="589"/>
       <source>Maximize/Minimize the current view.</source>
-      <translation type="unfinished">Maximize/Minimize the current view.</translation>
+      <translation>最大化/最小化当前视图。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="592"/>
       <source>Ctrl+6</source>
-      <translation type="unfinished">Ctrl+6</translation>
+      <translation>Ctrl+6</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="597"/>
       <source>&amp;Error Log</source>
-      <translation type="unfinished">&amp;Error Log</translation>
+      <translation>&amp;错误日志</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="600"/>
       <source>Raise the error log display.</source>
-      <translation type="unfinished">Raise the error log display.</translation>
+      <translation>显示错误日志。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="603"/>
       <source>Ctrl+0</source>
-      <translation type="unfinished">Ctrl+0</translation>
+      <translation>Ctrl+0</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="608"/>
       <source>Feedback: report usability issue (www)</source>
-      <translation type="unfinished">Feedback: report usability issue (www)</translation>
+      <translation>反馈：报告可用性问题（www）</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="611"/>
       <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</source>
-      <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</translation>
+      <translation>在Slicer论坛(https://discourse.slicer.org)上创建一个主题报告可用性问题并提出解决建议。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="616"/>
       <source>Feedback: make a feature request (www)</source>
-      <translation type="unfinished">Feedback: make a feature request (www)</translation>
+      <translation>反馈：提出一个功能请求(www)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="619"/>
       <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</source>
-      <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</translation>
+      <translation>在Slicer论坛(https://discourse.slicer.org)上创建一个主题请求新功能。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="624"/>
       <source>Load Module</source>
-      <translation type="unfinished">Load Module</translation>
+      <translation>加载模块</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="633"/>
       <source>Conventional</source>
-      <translation type="unfinished">Conventional</translation>
+      <translation>常规视窗(上下)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="645"/>
       <source>Four-Up</source>
-      <translation type="unfinished">Four-Up</translation>
+      <translation>四格视窗(3D)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="657"/>
       <source>Dual 3D</source>
-      <translation type="unfinished">Dual 3D</translation>
+      <translation>双3D视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="669"/>
       <source>3D only</source>
-      <translation type="unfinished">3D only</translation>
+      <translation>3D视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="681"/>
       <source>3D Table</source>
-      <translation type="unfinished">3D Table</translation>
+      <translation>3D视窗+表格</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="693"/>
       <source>Red slice only</source>
-      <translation type="unfinished">Red slice only</translation>
+      <translation>红色视窗(水平位)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="705"/>
       <source>Yellow slice only</source>
-      <translation type="unfinished">Yellow slice only</translation>
+      <translation>黄色视窗(矢状位)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="717"/>
       <source>Green slice only</source>
-      <translation type="unfinished">Green slice only</translation>
+      <translation>绿色视窗(冠状位)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="729"/>
       <source>Tabbed 3D</source>
-      <translation type="unfinished">Tabbed 3D</translation>
+      <translation>3D视窗(分页式)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="741"/>
       <source>Tabbed slice</source>
-      <translation type="unfinished">Tabbed slice</translation>
+      <translation>切片视窗(分页式)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="753"/>
       <source>Compare</source>
-      <translation type="unfinished">Compare</translation>
+      <translation>比较视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="765"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="768"/>
       <source>Compare Widescreen</source>
-      <translation type="unfinished">Compare Widescreen</translation>
+      <translation>比较视窗(左右)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="780"/>
       <source>Two over two</source>
-      <translation type="unfinished">Two over two</translation>
+      <translation>2+2视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="783"/>
       <source>Two over Two Layout</source>
-      <translation type="unfinished">Two over Two Layout</translation>
+      <translation>二对二布局</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="795"/>
       <source>Home</source>
-      <translation type="unfinished">Home</translation>
+      <translation>首页</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="798"/>
       <source>Favorite module for easy access</source>
-      <translation type="unfinished">Favorite module for easy access</translation>
+      <translation>易于访问的收藏模块</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="801"/>
       <source>Ctrl+H</source>
-      <translation type="unfinished">Ctrl+H</translation>
+      <translation>Ctrl+H</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="813"/>
       <source>Conventional Widescreen</source>
-      <translation type="unfinished">Conventional Widescreen</translation>
+      <translation>常规视窗(左右)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="822"/>
       <source>Triple 3D</source>
-      <translation type="unfinished">Triple 3D</translation>
+      <translation>三3D视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="831"/>
       <source>Three over three</source>
-      <translation type="unfinished">Three over three</translation>
+      <translation>3+3视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="840"/>
       <source>Four over four</source>
-      <translation type="unfinished">Four over four</translation>
+      <translation>4+4视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="849"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="912"/>
       <source>2 viewers</source>
-      <translation type="unfinished">2 viewers</translation>
+      <translation>2视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="858"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="921"/>
       <source>3 viewers</source>
-      <translation type="unfinished">3 viewers</translation>
+      <translation>3视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="867"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="930"/>
       <source>4 viewers</source>
-      <translation type="unfinished">4 viewers</translation>
+      <translation>4视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="876"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="939"/>
       <source>5 viewers</source>
-      <translation type="unfinished">5 viewers</translation>
+      <translation>5视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="885"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="948"/>
       <source>6 viewers</source>
-      <translation type="unfinished">6 viewers</translation>
+      <translation>6视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="894"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="957"/>
       <source>7 viewers</source>
-      <translation type="unfinished">7 viewers</translation>
+      <translation>7视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="903"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="966"/>
       <source>8 viewers</source>
-      <translation type="unfinished">8 viewers</translation>
+      <translation>8视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="975"/>
       <source>Compare Grid</source>
-      <translation type="unfinished">Compare Grid</translation>
+      <translation>比较视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="984"/>
       <source>2x2 viewers</source>
-      <translation type="unfinished">2x2 viewers</translation>
+      <translation>2x2 视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="993"/>
       <source>3x3 viewers</source>
-      <translation type="unfinished">3x3 viewers</translation>
+      <translation>3x3视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1002"/>
       <source>4x4 viewers</source>
-      <translation type="unfinished">4x4 viewers</translation>
+      <translation>4x4视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1007"/>
       <source>Record Macro</source>
-      <translation type="unfinished">Record Macro</translation>
+      <translation>录制宏</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1015"/>
       <source>Play Macro</source>
-      <translation type="unfinished">Play Macro</translation>
+      <translation>运行宏</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1027"/>
       <source>Side by side</source>
-      <translation type="unfinished">Side by side</translation>
+      <translation>1×1切片视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1036"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1039"/>
       <source>Four by three slice</source>
-      <translation type="unfinished">Four by three slice</translation>
+      <translation>4×3切片视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1048"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1051"/>
       <source>Four by two slice</source>
-      <translation type="unfinished">Four by two slice</translation>
+      <translation>4×2切片视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1060"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1063"/>
       <source>Five by two slice</source>
-      <translation type="unfinished">Five by two slice</translation>
+      <translation>5×2切片视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1072"/>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1075"/>
       <source>Three by three slice</source>
-      <translation type="unfinished">Three by three slice</translation>
+      <translation>3×3切片视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1084"/>
       <source>Plot only</source>
-      <translation type="unfinished">Plot only</translation>
+      <translation>绘图视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1087"/>
       <source>Plot view</source>
-      <translation type="unfinished">Plot view</translation>
+      <translation>绘图视图</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1099"/>
       <source>Four-Up Plot</source>
-      <translation type="unfinished">Four-Up Plot</translation>
+      <translation>四格视窗(绘图)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1102"/>
       <source>Three slices and a plot in four-Up layout</source>
-      <translation type="unfinished">Three slices and a plot in four-Up layout</translation>
+      <translation>3个切片和1个绘图的布局</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1114"/>
       <source>Conventional Plot</source>
-      <translation type="unfinished">Conventional Plot</translation>
+      <translation>常规视窗+绘图</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1117"/>
       <source>Conventional three slices and 3D view with an additional plot</source>
-      <translation type="unfinished">Conventional three slices and 3D view with an additional plot</translation>
+      <translation>3个切片和3D视图加上一个额外的绘图视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1129"/>
       <source>Three over three Plot</source>
-      <translation type="unfinished">Three over three Plot</translation>
+      <translation>切片视窗+3绘图</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1132"/>
       <source>Three plots over three slices</source>
-      <translation type="unfinished">Three plots over three slices</translation>
+      <translation>3个切片加上3个绘图视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1141"/>
       <source>Four-Up Table</source>
-      <translation type="unfinished">Four-Up Table</translation>
+      <translation>四格视窗(表格)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1150"/>
       <source>Four-Up Quantitative</source>
-      <translation type="unfinished">Four-Up Quantitative</translation>
+      <translation>四格视窗(定量分析)+表格</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1153"/>
       <source>Four-up slice and 3D view with an additional table and plot</source>
-      <translation type="unfinished">Four-up slice and 3D view with an additional table and plot</translation>
+      <translation>切片视窗带有额外的表格和绘图</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1158"/>
       <source>Reset to default</source>
-      <translation type="unfinished">Reset to default</translation>
+      <translation>恢复为默认值</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="161"/>
       <source>&amp;Module Panel</source>
-      <translation type="unfinished">&amp;Module Panel</translation>
+      <translation>&amp;模块面板</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="163"/>
       <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-      <translation type="unfinished">Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</translation>
+      <translation>折叠/展开GUI面板并允许切片器的视窗占据整个应用程序窗口</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="318"/>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="332"/>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="346"/>
       <source>Select number of viewers...</source>
-      <translation type="unfinished">Select number of viewers...</translation>
+      <translation>选择视窗数量</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
@@ -9743,12 +9743,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="932"/>
       <source>RAS</source>
-      <translation type="unfinished">RAS</translation>
+      <translation>RAS</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="939"/>
       <source>LPS</source>
-      <translation type="unfinished">LPS</translation>
+      <translation>LPS</translation>
     </message>
   </context>
   <context>
@@ -9756,55 +9756,55 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="257"/>
       <source>Visibility</source>
-      <translation type="unfinished">Visibility</translation>
+      <translation>可视性</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="285"/>
       <source>Lock</source>
-      <translation type="unfinished">Lock</translation>
+      <translation>锁定</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="313"/>
       <source>Selected</source>
-      <translation type="unfinished">Selected</translation>
+      <translation>已选定</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="359"/>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="363"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>剪切</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="369"/>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="373"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>复制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="379"/>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="383"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>粘贴</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="964"/>
       <source>Convert</source>
-      <translation type="unfinished">Convert</translation>
+      <translation>转换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1637"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>删除</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1843"/>
       <source>Delete All</source>
-      <translation type="unfinished">Delete All</translation>
+      <translation>全部刪除</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3190"/>
       <source>No measurement</source>
-      <translation type="unfinished">No measurement</translation>
+      <translation>无测量值</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3277"/>
@@ -9841,43 +9841,43 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="86"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="106"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
       <source>Delete last added control point</source>
-      <translation type="unfinished">Delete last added control point</translation>
+      <translation>删除最后添加的控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="103"/>
       <source>Click for more options</source>
-      <translation type="unfinished">Click for more options</translation>
+      <translation>点击查看更多选项</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="123"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="126"/>
       <source>Place multiple control points</source>
-      <translation type="unfinished">Place multiple control points</translation>
+      <translation>放置多个控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="135"/>
       <source>Delete all control points</source>
-      <translation type="unfinished">Delete all control points</translation>
+      <translation>删除所有控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="138"/>
       <source>Delete all control points in the list</source>
-      <translation type="unfinished">Delete all control points in the list</translation>
+      <translation>删除列表中的所有控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="147"/>
       <source>Clear last control point position</source>
-      <translation type="unfinished">Clear last control point position</translation>
+      <translation>清除最后一个控制点位置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="150"/>
       <source>Clear the position of the last control point placed (the control point will not be deleted).</source>
-      <translation type="unfinished">Clear the position of the last control point placed (the control point will not be deleted).</translation>
+      <translation>清除所放置的最后一个控制点的位置(控制点不会被删除)。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="160"/>
@@ -9990,32 +9990,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="72"/>
       <source>Diamond2D</source>
-      <translation type="unfinished">Diamond2D</translation>
+      <translation>钻石2D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="77"/>
       <source>Arrow2D</source>
-      <translation type="unfinished">Arrow2D</translation>
+      <translation>箭头2D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="82"/>
       <source>ThickArrow2D</source>
-      <translation type="unfinished">ThickArrow2D</translation>
+      <translation>粗箭头2D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="87"/>
       <source>HookedArrow2D</source>
-      <translation type="unfinished">HookedArrow2D</translation>
+      <translation>钩箭头2D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="92"/>
       <source>StarBurst2D</source>
-      <translation type="unfinished">StarBurst2D</translation>
+      <translation>星状2D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="97"/>
       <source>Sphere3D</source>
-      <translation type="unfinished">Sphere3D</translation>
+      <translation>球形3D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="105"/>
