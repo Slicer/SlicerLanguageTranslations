@@ -7167,7 +7167,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
       <source>GPU RayCast</source>
-      <translation>GPU光线投射</translation>
+      <translation>GPU渲染</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
@@ -7177,7 +7177,7 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
       <source>Select ray casting technique for the views where the current volume is visible</source>
-      <translation>为当前数据可见的视图选择光线投射技术</translation>
+      <translation>为当前数据可见的视图选择渲染方式</translation>
     </message>
   </context>
   <context>
@@ -8533,7 +8533,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
       <source>GPU RayCast</source>
-      <translation>GPU光线投射</translation>
+      <translation>GPU渲染</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
@@ -8543,7 +8543,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
       <source>Select ray casting technique for the views where the current volume is visible</source>
-      <translation>为当前可见数据视图选择光线投射技术</translation>
+      <translation>为当前可见数据视图选择渲染方式</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
@@ -10089,12 +10089,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="32"/>
       <source>Coordinate system:</source>
-      <translation type="unfinished">Coordinate system:</translation>
+      <translation>坐标系：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="45"/>
       <source>Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</source>
-      <translation type="unfinished">Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</translation>
+      <translation>使用LPS（左后上）可以更好地与大多数软件兼容（这是默认设置）。使用RAS（右前上）与早期切片器版本更好地兼容。如果文件中定义了坐标系，则将使用该坐标系，并忽略此选项。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="49"/>
@@ -10127,17 +10127,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
       <source>Turn the visibility off on all models (does not include hierarchies)</source>
-      <translation type="unfinished">Turn the visibility off on all models (does not include hierarchies)</translation>
+      <translation>关闭所有模型的可见性 (不包括隐藏文件)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
       <source>Turns visibility on for all models (does not include hierarchies)</source>
-      <translation type="unfinished">Turns visibility on for all models (does not include hierarchies)</translation>
+      <translation>打开所有模型的可见性 (不包括层次结构)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="113"/>
       <source>vtkMRMLAnnotationNode</source>
-      <translation type="unfinished">vtkMRMLAnnotationNode</translation>
+      <translation>vtkMRMLAnnotationNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
@@ -10147,7 +10147,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
@@ -10162,17 +10162,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
       <source>vtkMRMLClipModelsNode</source>
-      <translation type="unfinished">vtkMRMLClipModelsNode</translation>
+      <translation>vtkMRMLClipModelsNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
       <source>Clipping Planes</source>
-      <translation type="unfinished">Clipping Planes</translation>
+      <translation>剪切板</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="219"/>
       <source>Clip selected model:</source>
-      <translation type="unfinished">Clip selected model:</translation>
+      <translation>剪切所选模型：</translation>
     </message>
   </context>
   <context>
@@ -10190,7 +10190,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
       <source>&amp;Full text</source>
-      <translation type="unfinished">&amp;Full text</translation>
+      <translation>&amp;完整文本</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
@@ -10200,7 +10200,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
       <source>&amp;Built-in</source>
-      <translation type="unfinished">&amp;Built-in</translation>
+      <translation>&amp;内置项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
@@ -10210,7 +10210,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
       <source>&amp;Testing</source>
-      <translation type="unfinished">&amp;Testing</translation>
+      <translation>&amp;测试</translation>
     </message>
   </context>
   <context>
@@ -10231,7 +10231,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
       <source>Help &amp;&amp; Acknowledgement</source>
-      <translation type="unfinished">Help &amp;&amp; Acknowledgement</translation>
+      <translation>帮助及致谢</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
@@ -10241,7 +10241,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
       <source>Acknowledgement</source>
-      <translation type="unfinished">Acknowledgement</translation>
+      <translation>致谢</translation>
     </message>
   </context>
   <context>
@@ -10254,7 +10254,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>查找</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="110"/>
@@ -10280,7 +10280,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="136"/>
       <source>History</source>
-      <translation type="unfinished">History</translation>
+      <translation>历史</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="146"/>
@@ -10290,7 +10290,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="149"/>
       <source>Previous</source>
-      <translation type="unfinished">Previous</translation>
+      <translation>向前</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="150"/>
@@ -10305,7 +10305,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>向后</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
@@ -10318,12 +10318,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
       <source>Translate/rotate view, adjust displayed objects</source>
-      <translation type="unfinished">Translate/rotate view, adjust displayed objects</translation>
+      <translation>翻译/旋转视图，调整显示的对象</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>视图</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
@@ -10339,22 +10339,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
       <source>Toggle Markups Toolbar</source>
-      <translation type="unfinished">Toggle Markups Toolbar</translation>
+      <translation>切换标记工具栏</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="157"/>
       <source>Place Menu</source>
-      <translation type="unfinished">Place Menu</translation>
+      <translation>放置菜单</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
       <source>Create and Place</source>
-      <translation type="unfinished">Create and Place</translation>
+      <translation>创建和放置</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="165"/>
       <source>Place</source>
-      <translation type="unfinished">Place</translation>
+      <translation>放置</translation>
     </message>
   </context>
   <context>
@@ -10362,7 +10362,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
       <source>Adjust</source>
-      <translation type="unfinished">Adjust</translation>
+      <translation>调整</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
@@ -10372,22 +10372,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
       <source>Select region</source>
-      <translation type="unfinished">Select region</translation>
+      <translation>选择区域</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="104"/>
       <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-      <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</translation>
+      <translation>基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域角点。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
       <source>Select region - centered</source>
-      <translation type="unfinished">Select region - centered</translation>
+      <translation>选择区域-居中</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="110"/>
       <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-      <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</translation>
+      <translation>基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域中心。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
@@ -10400,17 +10400,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="14"/>
       <source>MultiVolume GPU RayCast</source>
-      <translation type="unfinished">MultiVolume GPU RayCast</translation>
+      <translation>多数据GPU渲染</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
       <source>Technique:</source>
-      <translation type="unfinished">Technique:</translation>
+      <translation>技术：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
       <source>Select ray casting technique for the views where the current volume is visible</source>
-      <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+      <translation>为当前数据可见的视图选择渲染方式</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
@@ -10421,7 +10421,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="49"/>
       <source>Surface smoothing:</source>
-      <translation type="unfinished">Surface smoothing:</translation>
+      <translation>表面平滑：</translation>
     </message>
   </context>
   <context>
@@ -10434,7 +10434,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
       <source>Compress</source>
-      <translation type="unfinished">Compress</translation>
+      <translation>压缩</translation>
     </message>
   </context>
   <context>
@@ -10442,47 +10442,47 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="20"/>
       <source>Plots</source>
-      <translation type="unfinished">Plots</translation>
+      <translation>绘图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
       <source>Charts</source>
-      <translation type="unfinished">Charts</translation>
+      <translation>图表</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="58"/>
       <source>Chart:</source>
-      <translation type="unfinished">Chart:</translation>
+      <translation>图表：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="70"/>
       <source>vtkMRMLPlotChartNode</source>
-      <translation type="unfinished">vtkMRMLPlotChartNode</translation>
+      <translation>vtkMRMLPlotChartNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
       <source>Allow plot editing</source>
-      <translation type="unfinished">Allow plot editing</translation>
+      <translation>允许绘图编辑</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="114"/>
       <source>Series</source>
-      <translation type="unfinished">Series</translation>
+      <translation>系列</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
       <source>Data series:</source>
-      <translation type="unfinished">Data series:</translation>
+      <translation>数据序列：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="127"/>
       <source>vtkMRMLPlotSeriesNode</source>
-      <translation type="unfinished">vtkMRMLPlotSeriesNode</translation>
+      <translation>vtkMRMLPlotSeriesNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
       <source>Clone data series</source>
-      <translation type="unfinished">Clone data series</translation>
+      <translation>克隆数据序列</translation>
     </message>
   </context>
   <context>
@@ -10490,12 +10490,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="145"/>
       <source>Preset</source>
-      <translation type="unfinished">Preset</translation>
+      <translation>预设</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="239"/>
       <source>Select a Preset</source>
-      <translation type="unfinished">Select a Preset</translation>
+      <translation>选择预设</translation>
     </message>
   </context>
   <context>
@@ -10548,7 +10548,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="204"/>
       <source>In Volume</source>
-      <translation type="unfinished">In Volume</translation>
+      <translation>数据中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="229"/>
@@ -10629,17 +10629,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="429"/>
       <source>Normal To Camera</source>
-      <translation type="unfinished">Normal To Camera</translation>
+      <translation>法线至相机</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="486"/>
       <source>Lock Normal To Camera</source>
-      <translation type="unfinished">Lock Normal To Camera</translation>
+      <translation>锁定相机的法线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
       <source>Lock reformat widget&apos;s normal to the camera one. </source>
-      <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+      <translation>锁定重新格式化小部件的法线至相机 </translation>
     </message>
   </context>
   <context>
@@ -10647,32 +10647,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
       <source>Save Scene and Unsaved Data</source>
-      <translation type="unfinished">Save Scene and Unsaved Data</translation>
+      <translation>保存场景和未保存数据</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
       <source>select modified data only</source>
-      <translation type="unfinished">select modified data only</translation>
+      <translation>只选择修改过的数据</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
       <source>Change directory for selected files</source>
-      <translation type="unfinished">Change directory for selected files</translation>
+      <translation>更改选中文件的目录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
       <source>Show options</source>
-      <translation type="unfinished">Show options</translation>
+      <translation>显示选项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
       <source>Select scene &amp; modified data only</source>
-      <translation type="unfinished">Select scene &amp; modified data only</translation>
+      <translation>只选择场景和修改的数据</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
       <source>File Name</source>
-      <translation type="unfinished">File Name</translation>
+      <translation>文件名</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="103"/>
@@ -10682,42 +10682,42 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
       <source>Directory</source>
-      <translation type="unfinished">Directory</translation>
+      <translation>目录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>选项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="118"/>
       <source>Node Name</source>
-      <translation type="unfinished">Node Name</translation>
+      <translation>节点名称</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="123"/>
       <source>Node Type</source>
-      <translation type="unfinished">Node Type</translation>
+      <translation>节点类型</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="128"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>状态</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
       <source>Create a Medical Record Bundle containing the scene</source>
-      <translation type="unfinished">Create a Medical Record Bundle containing the scene</translation>
+      <translation>创建包含场景的MRB文件</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;保存时发生错误或警告。详情请查看状态图标&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1437"/>
       <source>Any Data</source>
-      <translation type="unfinished">Any Data</translation>
+      <translation>任意数据</translation>
     </message>
   </context>
   <context>
@@ -10728,53 +10728,53 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1150"/>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1157"/>
       <source>Modified</source>
-      <translation type="unfinished">Modified</translation>
+      <translation>已修改</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="613"/>
       <source>Not Modified</source>
-      <translation type="unfinished">Not Modified</translation>
+      <translation>未修改</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="743"/>
       <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-      <translation type="unfinished">Scene file was not saved because user chose not to overwrite existing file: %1.</translation>
+      <translation>场景文件未保存，因为用户选择不覆盖现有文件： %1。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="831"/>
       <source>Node %1 not saved, file name is empty.</source>
-      <translation type="unfinished">Node %1 not saved, file name is empty.</translation>
+      <translation>节点 %1 未保存，文件名为空。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="841"/>
       <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-      <translation type="unfinished">Node %1 was not saved because user chose not to overwrite existing file: %2.</translation>
+      <translation>节点 %1 未保存，因为用户选择不覆盖现有文件： %2。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="879"/>
       <source>Cannot write data file: %1.</source>
-      <translation type="unfinished">Cannot write data file: %1.</translation>
+      <translation>无法写入数据文件： %1</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="884"/>
       <source>Failed to save node %1 to file %2.</source>
-      <translation type="unfinished">Failed to save node %1 to file %2.</translation>
+      <translation>节点 %1 保存到文件 %2 失败。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="933"/>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1137"/>
       <source>Scene</source>
-      <translation type="unfinished">Scene</translation>
+      <translation>場景</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1467"/>
       <source>Saving file...</source>
-      <translation type="unfinished">Saving file...</translation>
+      <translation>保存文件...</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1468"/>
       <source>The file: %1 already exists. Do you want to replace it ?</source>
-      <translation type="unfinished">The file: %1 already exists. Do you want to replace it ?</translation>
+      <translation>文件 %1 已经存在，你想要替换它吗？</translation>
     </message>
   </context>
   <context>
@@ -10810,12 +10810,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="14"/>
       <source>Scene Options</source>
-      <translation type="unfinished">Scene Options</translation>
+      <translation>场景选项</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
       <source>Clear existing scene</source>
-      <translation type="unfinished">Clear existing scene</translation>
+      <translation>清除现有场景</translation>
     </message>
   </context>
   <context>
@@ -10823,22 +10823,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
       <source>The scene file was saved with %1 application (this application is %2).</source>
-      <translation type="unfinished">The scene file was saved with %1 application (this application is %2).</translation>
+      <translation>场景文件使用 %1 应用程序保存(此应用程序是 %2)。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
       <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
-      <translation type="unfinished">The scene file was created with a newer version of the application (%1) than the current version (%2).</translation>
+      <translation>场景文件是用一个新版本的应用程序 (%1) 创建的，比当前版本(%2)。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
       <source>The scene may not load correctly.</source>
-      <translation type="unfinished">The scene may not load correctly.</translation>
+      <translation>场景加载可能不正确。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="169"/>
       <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
-      <translation type="unfinished">These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</translation>
+      <translation>当场景保存时安装了这些扩展，但现在没有安装： %1这些扩展可能是成功装入场景所必需的。</translation>
     </message>
   </context>
   <context>
@@ -10855,25 +10855,25 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
       <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="14"/>
       <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="45"/>
       <source>SceneViews</source>
-      <translation type="unfinished">SceneViews</translation>
+      <translation>场景视图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="177"/>
       <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="178"/>
       <source>Restore</source>
-      <translation type="unfinished">Restore</translation>
+      <translation>还原</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
       <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="184"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>编辑</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
       <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="190"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>删除</translation>
     </message>
   </context>
   <context>
@@ -10881,12 +10881,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="61"/>
       <source>MRML Scene</source>
-      <translation type="unfinished">MRML Scene</translation>
+      <translation>MRML场景</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="81"/>
       <source>MRML Scene (.mrml)</source>
-      <translation type="unfinished">MRML Scene (.mrml)</translation>
+      <translation>MRML场景(.mrml)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="82"/>
@@ -10896,34 +10896,34 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="83"/>
       <source>Slicer Data Bundle (*)</source>
-      <translation type="unfinished">Slicer Data Bundle (*)</translation>
+      <translation>Slicer数据包 (*)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="99"/>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="175"/>
       <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-      <translation type="unfinished">Failed to save scene as %1 (path %2 is not writeable)</translation>
+      <translation>无法将场景保存为 %1 (路径 %2 不可写)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="147"/>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="192"/>
       <source>Failed to save scene as %1</source>
-      <translation type="unfinished">Failed to save scene as %1</translation>
+      <translation>无法将场景保存为 %1</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="228"/>
       <source>fails to be created</source>
-      <translation type="unfinished">fails to be created</translation>
+      <translation>创建失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="231"/>
       <source>contains 1 file or directory</source>
-      <translation type="unfinished">contains 1 file or directory</translation>
+      <translation>包含1个文件或目录</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="234"/>
       <source>contains %1 files or directories</source>
-      <translation type="unfinished">contains %1 files or directories</translation>
+      <translation>包含 %1 文件或目录</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="237"/>
@@ -10931,10 +10931,10 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 &quot;%1&quot;
 %2.
 Please choose an empty directory.</source>
-      <translation type="unfinished">Selected directory
+      <translation>选定的目录
 &quot;%1&quot;
-%2.
-Please choose an empty directory.</translation>
+%2。
+请选择一个空目录。</translation>
     </message>
   </context>
   <context>
@@ -10942,57 +10942,57 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
       <source>Unlimited</source>
-      <translation type="unfinished">Unlimited</translation>
+      <translation>无限制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1182"/>
       <source>Cut through the entire segmentation. Only used for slice views.</source>
-      <translation type="unfinished">Cut through the entire segmentation. Only used for slice views.</translation>
+      <translation>剪切整个分割，仅用于切片视图。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1183"/>
       <source>Positive</source>
-      <translation type="unfinished">Positive</translation>
+      <translation>正向</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1184"/>
       <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-      <translation type="unfinished">Only positive side of the slice plane is included in cut region. Only used for slice views.</translation>
+      <translation>切割区域只包含切片平面的正向部分，仅用于切片视图。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1185"/>
       <source>Negative</source>
-      <translation type="unfinished">Negative</translation>
+      <translation>反向</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1186"/>
       <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
-      <translation type="unfinished">Only negative side of the slice plane is included in cut region. Only used for slice views.</translation>
+      <translation>切割区域只包含切片平面的反向部分，仅用于切片视图。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1187"/>
       <source>Symmetric</source>
-      <translation type="unfinished">Symmetric</translation>
+      <translation>对称</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1188"/>
       <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
-      <translation type="unfinished">Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</translation>
+      <translation>剪切区域仅限于切片平面周围的特定厚度，仅用于切片视图。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1191"/>
       <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
-      <translation type="unfinished">Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</translation>
+      <translation>切割区域的厚度，0 表示只包括当前切片，仅用于切片视图。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1198"/>
       <source>Slice cut:</source>
-      <translation type="unfinished">Slice cut:</translation>
+      <translation>切片剪切：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1199"/>
       <source>Restrict cut region in slice views.</source>
-      <translation type="unfinished">Restrict cut region in slice views.</translation>
+      <translation>在切片视图中限制剪切区域。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1207"/>
@@ -11010,27 +11010,27 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="14"/>
       <source>Segmentations Options</source>
-      <translation type="unfinished">Segmentations Options</translation>
+      <translation>分割选项</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
       <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-      <translation type="unfinished">Automatically set opacities of the segments based on which contains which, so that no segment obscures another</translation>
+      <translation>自动设定分割的不透明性，基于该分割的不透明性，因此没有任何分割会遮蔽另一个分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
       <source>Automatic Segment Opacities</source>
-      <translation type="unfinished">Automatic Segment Opacities</translation>
+      <translation>自动分割透明度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="51"/>
       <source>Color node:</source>
-      <translation type="unfinished">Color node:</translation>
+      <translation>色彩节点：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="64"/>
       <source>vtkMRMLColorTableNode</source>
-      <translation type="unfinished">vtkMRMLColorTableNode</translation>
+      <translation>vtkMRMLColorTableNode</translation>
     </message>
   </context>
   <context>
@@ -11038,22 +11038,22 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="14"/>
       <source>Segmentations</source>
-      <translation type="unfinished">Segmentations</translation>
+      <translation>分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="40"/>
       <source> Active segmentation:</source>
-      <translation type="unfinished"> Active segmentation:</translation>
+      <translation> 活动分割：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
       <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
-      <translation type="unfinished">Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</translation>
+      <translation>用于设置分割几何形状的节点(原点、间隔、轴方向和默认范围)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="50"/>
       <source> Source geometry:</source>
-      <translation type="unfinished"> Source geometry:</translation>
+      <translation> 源几何体：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="57"/>
@@ -11064,67 +11064,67 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="104"/>
       <source>Add empty segment</source>
-      <translation type="unfinished">Add empty segment</translation>
+      <translation>添加空白分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="107"/>
       <source>Add segment</source>
-      <translation type="unfinished">Add segment</translation>
+      <translation>添加分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="118"/>
       <source>Remove selected segment</source>
-      <translation type="unfinished">Remove selected segment</translation>
+      <translation>删除选中的分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="121"/>
       <source>Remove selected</source>
-      <translation type="unfinished">Remove selected</translation>
+      <translation>删除所选</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="132"/>
       <source>Edit selected</source>
-      <translation type="unfinished">Edit selected</translation>
+      <translation>编辑所选</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="158"/>
       <source>Display settings for the segmentation (all segments)</source>
-      <translation type="unfinished">Display settings for the segmentation (all segments)</translation>
+      <translation>显示分割设置(所有分割)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="161"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="188"/>
       <source>List of representations to see available and existing ones, and creating or updating them</source>
-      <translation type="unfinished">List of representations to see available and existing ones, and creating or updating them</translation>
+      <translation>要查看可用和现有表示的列表，以及创建或更新它们的列表</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="191"/>
       <source>Representations</source>
-      <translation type="unfinished">Representations</translation>
+      <translation>表示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="218"/>
       <source>Copy/move segments</source>
-      <translation type="unfinished">Copy/move segments</translation>
+      <translation>复制/移动分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="259"/>
       <source>Current segmentation</source>
-      <translation type="unfinished">Current segmentation</translation>
+      <translation>当前分割</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="301"/>
       <source>Move from current segmentation to other Segmentation node</source>
-      <translation type="unfinished">Move from current segmentation to other Segmentation node</translation>
+      <translation>从当前分割移至其他分割节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="304"/>
       <source>&gt;</source>
-      <translation type="unfinished">&gt;</translation>
+      <translation>&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="329"/>
@@ -11134,7 +11134,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="332"/>
       <source>+&gt;</source>
-      <translation type="unfinished">+&gt;</translation>
+      <translation>+&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="357"/>
@@ -11144,22 +11144,22 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="360"/>
       <source>&lt;+</source>
-      <translation type="unfinished">&lt;+</translation>
+      <translation>&lt;+</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="385"/>
       <source>Move to current segmentation from other Segmentation node</source>
-      <translation type="unfinished">Move to current segmentation from other Segmentation node</translation>
+      <translation>从其它分割节点移到当前分割。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="388"/>
       <source>&lt;</source>
-      <translation type="unfinished">&lt;</translation>
+      <translation>&lt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="410"/>
       <source>Select Segmentation node to copy/move segments to/from.</source>
-      <translation type="unfinished">Select Segmentation node to copy/move segments to/from.</translation>
+      <translation>选择要复制/移动分割到/从的分割节点。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="451"/>
@@ -11169,32 +11169,32 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="483"/>
       <source>Clear selection indicating that a new node should be created</source>
-      <translation type="unfinished">Clear selection indicating that a new node should be created</translation>
+      <translation>清除选中的选项，表示应该创建一个新节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="499"/>
       <source>Operation:</source>
-      <translation type="unfinished">Operation:</translation>
+      <translation>操作：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="506"/>
       <source>Labelmap</source>
-      <translation type="unfinished">Labelmap</translation>
+      <translation>标签图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="516"/>
       <source>Models</source>
-      <translation type="unfinished">Models</translation>
+      <translation>模型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="523"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>类型：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="530"/>
       <source>Output:</source>
-      <translation type="unfinished">Output:</translation>
+      <translation>输出：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="537"/>
@@ -11209,7 +11209,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="551"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>导入</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="558"/>
@@ -11224,12 +11224,12 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="596"/>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>所有</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="601"/>
       <source>Visible</source>
-      <translation type="unfinished">Visible</translation>
+      <translation>可见</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="609"/>
@@ -11240,7 +11240,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="612"/>
       <source>Reference volume:</source>
-      <translation type="unfinished">Reference volume:</translation>
+      <translation>参考数据：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="622"/>
@@ -11250,7 +11250,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="640"/>
       <source>Use color table values:</source>
-      <translation type="unfinished">Use color table values:</translation>
+      <translation>使用颜色表值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="656"/>
@@ -11260,17 +11260,17 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="673"/>
       <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
-      <translation type="unfinished">Labels of the imported labelmap will be mapped to terminology entries of this context</translation>
+      <translation>导入标签图的标签将被映射到此上下文的术语条目中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="679"/>
       <source>Choose terminology...</source>
-      <translation type="unfinished">Choose terminology...</translation>
+      <translation>选择术语...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="686"/>
       <source>Terminology context:</source>
-      <translation type="unfinished">Terminology context:</translation>
+      <translation>术语上下文：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="699"/>
@@ -11280,7 +11280,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="742"/>
       <source>Binary labelmap layers</source>
-      <translation type="unfinished">Binary labelmap layers</translation>
+      <translation>二进制标签图图层</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="751"/>
@@ -11291,7 +11291,7 @@ Please choose an empty directory.</translation>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="761"/>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="804"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="768"/>
@@ -11583,13 +11583,13 @@ Please choose an empty directory.</translation>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="371"/>
       <source>Index</source>
       <extracomment>Display item index of master node</extracomment>
-      <translation type="unfinished">Index</translation>
+      <translation>索引</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="376"/>
       <source>Index value</source>
       <extracomment>Display index value of selected item</extracomment>
-      <translation type="unfinished">Index value</translation>
+      <translation>索引值</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="384"/>
@@ -11604,42 +11604,42 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>编辑</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="431"/>
       <source>Sequence:</source>
-      <translation type="unfinished">Sequence:</translation>
+      <translation>序列：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="446"/>
       <source>Index properties</source>
-      <translation type="unfinished">Index properties</translation>
+      <translation>索引属性</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="452"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名称：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="465"/>
       <source>time</source>
-      <translation type="unfinished">time</translation>
+      <translation>时间</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="472"/>
       <source>Unit:</source>
-      <translation type="unfinished">Unit:</translation>
+      <translation>单位：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="485"/>
       <source>s</source>
-      <translation type="unfinished">s</translation>
+      <translation>s</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="492"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>类型：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="512"/>
@@ -11654,22 +11654,22 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="560"/>
       <source>Add to sequence items</source>
-      <translation type="unfinished">Add to sequence items</translation>
+      <translation>添加至序列项目</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="570"/>
       <source>Index value:</source>
-      <translation type="unfinished">Index value:</translation>
+      <translation>索引值︰</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="577"/>
       <source>0</source>
-      <translation type="unfinished">0</translation>
+      <translation>0</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="588"/>
       <source>Index increment:</source>
-      <translation type="unfinished">Index increment:</translation>
+      <translation>索引增量：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="621"/>
@@ -11679,7 +11679,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="624"/>
       <source>Auto-advance</source>
-      <translation type="unfinished">Auto-advance</translation>
+      <translation>自动推进</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="678"/>
@@ -11689,7 +11689,7 @@ Please choose an empty directory.</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="691"/>
       <source>undefined</source>
-      <translation type="unfinished">undefined</translation>
+      <translation>未指定</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1331"/>
