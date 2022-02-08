@@ -3383,7 +3383,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
       <source>Estimated relative cost</source>
-      <translation>估计相对成本</translation>
+      <translation>估计相对代价</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
@@ -7572,13 +7572,13 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="542"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="621"/>
       <source>Output volume spacing after cropping</source>
-      <translation type="unfinished">Output volume spacing after cropping</translation>
+      <translation>剪切后的输出数据间距</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="560"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="639"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>长度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="570"/>
@@ -7590,57 +7590,57 @@ Graphics capabilities of this computer:
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="577"/>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="649"/>
       <source>Spacing:</source>
-      <translation type="unfinished">Spacing:</translation>
+      <translation>间距：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="693"/>
       <source>Fix</source>
-      <translation type="unfinished">Fix</translation>
+      <translation>修复</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="708"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>应用</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="88"/>
       <source>Select or create a new parameter node.</source>
-      <translation type="unfinished">Select or create a new parameter node.</translation>
+      <translation>选择或创建新的参数节点。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="99"/>
       <source>Select an input volume.</source>
-      <translation type="unfinished">Select an input volume.</translation>
+      <translation>选择一个输入数据。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="106"/>
       <source>Output volume type does not match input volume type.</source>
-      <translation type="unfinished">Output volume type does not match input volume type.</translation>
+      <translation>输出数据类型与输入数据类型不匹配。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="129"/>
       <source>Input ROI is under a non-linear tansform.</source>
-      <translation type="unfinished">Input ROI is under a non-linear tansform.</translation>
+      <translation>输入ROI处于非线性变换形式下。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="135"/>
       <source>Select or create a new input ROI.</source>
-      <translation type="unfinished">Select or create a new input ROI.</translation>
+      <translation>选择或创建一个新输入 ROI 。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="142"/>
       <source>Output volume is under a non-linear tansform.</source>
-      <translation type="unfinished">Output volume is under a non-linear tansform.</translation>
+      <translation>输出数据处于非线性变换形式下。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="153"/>
       <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-      <translation type="unfinished">Interpolation is disabled and input volume is under a non-linear tansform</translation>
+      <translation>插值被禁用，输入数据处于非线性变换形式下</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
       <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-      <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+      <translation>插值被禁用，且输入ROI未与输入数据轴对齐。</translation>
     </message>
   </context>
   <context>
@@ -7648,63 +7648,62 @@ Graphics capabilities of this computer:
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
       <source>DICOM Export</source>
-      <translation type="unfinished">DICOM Export</translation>
+      <translation>DICOM 导出</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="73"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>模式：</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="80"/>
       <source>Export selected data to standard DICOM fields.
 Created data objects are compatible with most standard DICOM software.</source>
-      <translation type="unfinished">Export selected data to standard DICOM fields.
-Created data objects are compatible with most standard DICOM software.</translation>
+      <translation>将所选数据导出到标准DICOM字段。
+创建的数据对象与大多数标准DICOM软件兼容。</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="84"/>
       <source>Export series</source>
-      <translation type="unfinished">Export series</translation>
+      <translation>导出序列</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="94"/>
       <source>Save the entire scene, with all data and display settings embedded in private fields.
 The file can be stored on standard image archival systems and used in this application,
 but cannot be interpreted by most standard DICOM imaging applications.</source>
-      <translation type="unfinished">Save the entire scene, with all data and display settings embedded in private fields.
-The file can be stored on standard image archival systems and used in this application,
-but cannot be interpreted by most standard DICOM imaging applications.</translation>
+      <translation>保存整个场景，所有数据和显示设置嵌入到私有字段中。
+该文件可以存储在标准图像存档系统中，并用于此应用程序，但大多数标准DICOM成像应用无法解读。</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="99"/>
       <source>Export entire scene</source>
-      <translation type="unfinished">Export entire scene</translation>
+      <translation>导出整个场景</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="165"/>
       <source>1. Select node</source>
-      <translation type="unfinished">1. Select node</translation>
+      <translation>1. 选择节点</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="208"/>
       <source>2. Select export type</source>
-      <translation type="unfinished">2. Select export type</translation>
+      <translation>2. 选择导出类型</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="251"/>
       <source>3. Edit DICOM tags</source>
-      <translation type="unfinished">3. Edit DICOM tags</translation>
+      <translation>3. 编辑 DICOM 标签</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="282"/>
       <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-      <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+      <translation>如果选中此选项，手动编辑的标记将保存到场景中，并为下次导出保留。如果未选中，则只能对此导出操作进行临时更改。</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="285"/>
       <source>Save modified tags</source>
-      <translation type="unfinished">Save modified tags</translation>
+      <translation>保存修改过的标签</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="321"/>
@@ -7715,42 +7714,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="325"/>
       <source>Export to folder:</source>
-      <translation type="unfinished">Export to folder:</translation>
+      <translation>导出到文件夹：</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="335"/>
       <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-      <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+      <translation>将DICOM文件导出到此文件夹，而不是应用程序的DICOM数据库。</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="344"/>
       <source>DICOM/ExportFolder</source>
-      <translation type="unfinished">DICOM/ExportFolder</translation>
+      <translation>DICOM/导出文件夹</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="405"/>
       <source>Error messages</source>
-      <translation type="unfinished">Error messages</translation>
+      <translation>错误消息</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="442"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>导出</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="497"/>
       <source>DICOM dataset successfully exported to </source>
-      <translation type="unfinished">DICOM dataset successfully exported to </translation>
+      <translation>DICOM 数据集成功导出到 </translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="500"/>
       <source>the DICOM database</source>
-      <translation type="unfinished">the DICOM database</translation>
+      <translation>DICOM数据库</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="506"/>
       <source>Export successful</source>
-      <translation type="unfinished">Export successful</translation>
+      <translation>导出成功</translation>
     </message>
   </context>
   <context>
@@ -7758,32 +7757,32 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
       <source>Diffusion Tensor Volume Slice Display</source>
-      <translation type="unfinished">Diffusion Tensor Volume Slice Display</translation>
+      <translation>扩散张量数据切片显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
       <source>Visibility:</source>
-      <translation type="unfinished">Visibility:</translation>
+      <translation>可见性：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
       <source>Opacity:</source>
-      <translation type="unfinished">Opacity:</translation>
+      <translation>透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
       <source>Scalar ColorMap:</source>
-      <translation type="unfinished">Scalar ColorMap:</translation>
+      <translation>标量颜色映射：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="79"/>
       <source>vtkMRMLDiffusionTensorDisplayPropertiesNode</source>
-      <translation type="unfinished">vtkMRMLDiffusionTensorDisplayPropertiesNode</translation>
+      <translation>vtkMRMLDiffusionTensorDisplayPropertiesNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
       <source>Color by Scalar:</source>
-      <translation type="unfinished">Color by Scalar:</translation>
+      <translation>按标量颜色：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
@@ -7798,56 +7797,56 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
       <source>Lines</source>
-      <translation type="unfinished">Lines</translation>
+      <translation>线</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
       <source>Tubes</source>
-      <translation type="unfinished">Tubes</translation>
+      <translation>管状</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
       <source>Ellipsoids</source>
-      <translation type="unfinished">Ellipsoids</translation>
+      <translation>椭球</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
       <source>Scale Factor:</source>
-      <translation type="unfinished">Scale Factor:</translation>
+      <translation>比例系数：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
       <source>Spacing:</source>
-      <translation type="unfinished">Spacing:</translation>
+      <translation>间距：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
       <source>Glyph EigenVector:</source>
-      <translation type="unfinished">Glyph EigenVector:</translation>
+      <translation>粒子效果：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
       <source>Major</source>
-      <translation type="unfinished">Major</translation>
+      <translation>大的</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
       <source>Middle</source>
-      <translation type="unfinished">Middle</translation>
+      <translation>中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
       <source>Minor</source>
-      <translation type="unfinished">Minor</translation>
+      <translation>小的</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
       <source>Manual or Auto scalar range</source>
-      <translation type="unfinished">Manual or Auto scalar range</translation>
+      <translation>手动或自动缩放范围</translation>
     </message>
   </context>
   <context>
@@ -7870,27 +7869,27 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="90"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>文件</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="95"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>描述</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="100"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>选项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="118"/>
       <source>Show Options</source>
-      <translation type="unfinished">Show Options</translation>
+      <translation>显示选项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="524"/>
       <source>Any Data</source>
-      <translation type="unfinished">Any Data</translation>
+      <translation>任意数据</translation>
     </message>
   </context>
   <context>
@@ -7898,12 +7897,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="446"/>
       <source>Open archive?</source>
-      <translation type="unfinished">Open archive?</translation>
+      <translation>打开归档？</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="447"/>
       <source>The selected file is a .zip archive, open it and load contents?</source>
-      <translation type="unfinished">The selected file is a .zip archive, open it and load contents?</translation>
+      <translation>所选文件是一个.zip压缩文件，打开并加载内容？</translation>
     </message>
   </context>
   <context>
@@ -7911,60 +7910,60 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
       <source>Data</source>
-      <translation type="unfinished">Data</translation>
+      <translation>数据</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
       <source>Filter:</source>
-      <translation type="unfinished">Filter:</translation>
+      <translation>过滤：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
       <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-      <translation type="unfinished">A case sensitive string to filter nodes, uses all the columns (even if hidden)</translation>
+      <translation>区分大小写的字符串用于筛选节点，使用所有列（即使隐藏）</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
       <source>Subject hierarchy</source>
-      <translation type="unfinished">Subject hierarchy</translation>
+      <translation>主题层次结构</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
       <source>Show transforms</source>
-      <translation type="unfinished">Show transforms</translation>
+      <translation>显示变换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
       <source>Show MRML ID&apos;s</source>
-      <translation type="unfinished">Show MRML ID&apos;s</translation>
+      <translation>显示MRML ID&apos;s</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
       <source>Subject hierarchy item information</source>
-      <translation type="unfinished">Subject hierarchy item information</translation>
+      <translation>标题层次结构项目信息</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
       <source>No item selected</source>
-      <translation type="unfinished">No item selected</translation>
+      <translation>没有选择项目</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
       <source>Transform hierarchy</source>
-      <translation type="unfinished">Transform hierarchy</translation>
+      <translation>变换层次结构</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
       <source>Show hidden nodes</source>
-      <translation type="unfinished">Show hidden nodes</translation>
+      <translation>显示隐藏节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="273"/>
       <source>vtkMRMLTransformableNode</source>
-      <translation type="unfinished">vtkMRMLTransformableNode</translation>
+      <translation>vtkMRMLTransformableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
@@ -7974,12 +7973,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
       <source>MRML node information</source>
-      <translation type="unfinished">MRML node information</translation>
+      <translation>查看节点信息</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
       <source>Insert transform</source>
-      <translation type="unfinished">Insert transform</translation>
+      <translation>插入变换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
@@ -7992,7 +7991,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="14"/>
       <source>Tensor Display Properties</source>
-      <translation type="unfinished">Tensor Display Properties</translation>
+      <translation>张量显示特性</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
@@ -8002,32 +8001,32 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
       <source>Scalar Mode:</source>
-      <translation type="unfinished">Scalar Mode:</translation>
+      <translation>缩放模式：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
       <source>Glyphs on Slices Display</source>
-      <translation type="unfinished">Glyphs on Slices Display</translation>
+      <translation>切片上的图示符显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
       <source>Slice Visibility:</source>
-      <translation type="unfinished">Slice Visibility:</translation>
+      <translation>切片可视性：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
       <source>Red</source>
-      <translation type="unfinished">Red</translation>
+      <translation>红色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
       <source>Yellow</source>
-      <translation type="unfinished">Yellow</translation>
+      <translation>黃色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
       <source>Green</source>
-      <translation type="unfinished">Green</translation>
+      <translation>绿色</translation>
     </message>
   </context>
   <context>
@@ -8035,7 +8034,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
       <source>DWI Display Properties</source>
-      <translation type="unfinished">DWI Display Properties</translation>
+      <translation>DWI 显示属性</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
@@ -8045,7 +8044,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
       <source>DWI Component:</source>
-      <translation type="unfinished">DWI Component:</translation>
+      <translation>DWI 组件：</translation>
     </message>
   </context>
   <context>
@@ -8053,27 +8052,27 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
       <source>Report bugs and request enhancements</source>
-      <translation type="unfinished">Report bugs and request enhancements</translation>
+      <translation>报告故障和请求改进</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;问题和功能请求：&lt;/span&gt; 查看 &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;错误汇报： &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;在Slicer论坛上发布一个新主题&lt;/span&gt;&lt;/a&gt;告诉我们您的问题或向 &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer 追踪器&lt;/span&gt;&lt;/a&gt;. 描述导致错误的步骤，并附加日志消息。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;警告-如果处理患者数据&lt;/span&gt; 检查日志消息是否不包含任何可能识别患者的信息。将日志信息发送给特定的人，而不是在邮件列表或网站上公开共享。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
       <source>Recent log files:</source>
-      <translation type="unfinished">Recent log files:</translation>
+      <translation>最近的日志文件：</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
       <source>Copy log messages to clipboard</source>
-      <translation type="unfinished">Copy log messages to clipboard</translation>
+      <translation>将日志消息复制到剪贴板</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
       <source>Open log file in editor</source>
-      <translation type="unfinished">Open log file in editor</translation>
+      <translation>在编辑器中打开日志文件</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
@@ -8083,7 +8082,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="112"/>
       <source>Log file content:</source>
-      <translation type="unfinished">Log file content:</translation>
+      <translation>日志文件内容：</translation>
     </message>
   </context>
   <context>
@@ -8091,22 +8090,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="20"/>
       <source>Event Broker</source>
-      <translation type="unfinished">Event Broker</translation>
+      <translation>事件代理</translation>
     </message>
     <message>
       <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>刷新</translation>
     </message>
     <message>
       <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
       <source>Reset Times</source>
-      <translation type="unfinished">Reset Times</translation>
+      <translation>重置时间</translation>
     </message>
     <message>
       <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
       <source>Show observations with Elapsed Times &gt; 0</source>
-      <translation type="unfinished">Show observations with Elapsed Times &gt; 0</translation>
+      <translation>用经过的时间显示观察结果&amp;gt；0</translation>
     </message>
   </context>
   <context>
@@ -8129,17 +8128,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="66"/>
       <source>Export format</source>
-      <translation type="unfinished">Export format</translation>
+      <translation>导出格式</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="76"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>选项</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="101"/>
       <source>Apply transforms</source>
-      <translation type="unfinished">Apply transforms</translation>
+      <translation>应用变换</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="591"/>
@@ -8152,13 +8151,13 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="274"/>
       <source>Filename not standard</source>
-      <translation type="unfinished">Filename not standard</translation>
+      <translation>非标准文件名</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="275"/>
       <source>The following filename is recommended:
 </source>
-      <translation type="unfinished">The following filename is recommended:
+      <translation>推荐下列文件名：
 </translation>
     </message>
     <message>
@@ -8166,7 +8165,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="353"/>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="364"/>
       <source>Export error</source>
-      <translation type="unfinished">Export error</translation>
+      <translation>导出错误</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="302"/>
@@ -8181,17 +8180,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="311"/>
       <source>The file %1 already exists. Do you want to replace it?</source>
-      <translation type="unfinished">The file %1 already exists. Do you want to replace it?</translation>
+      <translation>文件 %1 已经存在，你想要替换它吗？</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="348"/>
       <source>Cannot write data file: %1.</source>
-      <translation type="unfinished">Cannot write data file: %1.</translation>
+      <translation>无法写入数据文件： %1。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="371"/>
       <source>Export warning</source>
-      <translation type="unfinished">Export warning</translation>
+      <translation>导出警告</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="375"/>
