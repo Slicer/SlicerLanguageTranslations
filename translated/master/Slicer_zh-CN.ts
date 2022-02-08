@@ -11301,7 +11301,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="771"/>
       <source>Force collapse to single layer:</source>
-      <translation type="unfinished">Force collapse to single layer:</translation>
+      <translation>强制折叠到单一图层：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="778"/>
