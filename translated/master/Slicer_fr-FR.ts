@@ -164,12 +164,12 @@
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="105"/>
       <source>patient right is screen left (default)</source>
-      <translation>droite du patient correspond à la gauche de l'écran (défaut)</translation>
+      <translation>droit du patient correspond à la gauche de l'écran (défaut)</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
       <source>patient right is screen right</source>
-      <translation type="unfinished">patient right is screen right</translation>
+      <translation>droit du patient correspond au droit de l'écran</translation>
     </message>
   </context>
   <context>
@@ -237,7 +237,7 @@
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
       <source>file name:</source>
-      <translation type="unfinished">file name:</translation>
+      <translation>nom du fichier:</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
