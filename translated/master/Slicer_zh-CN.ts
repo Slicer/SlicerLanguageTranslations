@@ -11981,16 +11981,16 @@ Default: https://slicer.readthedocs.io/{language}/{version}</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
       <source>Module documentation URL:</source>
-      <translation type="unfinished">Module documentation URL:</translation>
+      <translation>模块文档 URL：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="188"/>
       <source>Specify URL for module documentation.
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
-      <translation type="unfinished">Specify URL for module documentation.
-Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
-Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
+      <translation>指定模块文档的 URL。
+可用的占位符： {documentationbaseurl}, {lowercasemodulename}。
+默认： {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
     </message>
   </context>
   <context>
@@ -11998,12 +11998,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
       <source>Internationalization</source>
-      <translation type="unfinished">Internationalization</translation>
+      <translation>国际化</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
       <source>Enable Internationalization:</source>
-      <translation type="unfinished">Enable Internationalization:</translation>
+      <translation>启用国际化：</translation>
     </message>
   </context>
   <context>
@@ -12016,7 +12016,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
       <source>Skip loading of any:</source>
-      <translation type="unfinished">Skip loading of any:</translation>
+      <translation>跳过任何加载：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
@@ -12038,7 +12038,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
       <source>command-line plugins</source>
-      <translation type="unfinished">command-line plugins</translation>
+      <translation>命令行插件</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
@@ -12054,7 +12054,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
       <source>Skip loading of builtin:</source>
-      <translation type="unfinished">Skip loading of builtin:</translation>
+      <translation>跳过内置加载：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
@@ -12079,7 +12079,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
       <source>Temporary directory:</source>
-      <translation type="unfinished">Temporary directory:</translation>
+      <translation>临时目录：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
@@ -12089,18 +12089,18 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="279"/>
       <source>Paths</source>
-      <translation type="unfinished">Paths</translation>
+      <translation>路径</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="285"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>添加</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="292"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="764"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>删除</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="334"/>
@@ -12115,7 +12115,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="399"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>筛选</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="408"/>
@@ -12125,7 +12125,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="411"/>
       <source>To load</source>
-      <translation type="unfinished">To load</translation>
+      <translation>加载</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="430"/>
@@ -12135,7 +12135,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="433"/>
       <source>To ignore</source>
-      <translation type="unfinished">To ignore</translation>
+      <translation>忽略</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="452"/>
@@ -12145,7 +12145,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="455"/>
       <source>Loaded</source>
-      <translation type="unfinished">Loaded</translation>
+      <translation>已载入</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="505"/>
@@ -12155,7 +12155,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="508"/>
       <source>Ignored</source>
-      <translation type="unfinished">Ignored</translation>
+      <translation>已忽略</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="558"/>
@@ -12165,7 +12165,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="561"/>
       <source>Failed</source>
-      <translation type="unfinished">Failed</translation>
+      <translation>失败</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="628"/>
@@ -12190,7 +12190,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="755"/>
       <source>Favorite</source>
-      <translation type="unfinished">Favorite</translation>
+      <translation>收藏</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="761"/>
@@ -12200,27 +12200,27 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="771"/>
       <source>Move to the left</source>
-      <translation type="unfinished">Move to the left</translation>
+      <translation>向左移动</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="774"/>
       <source>Move Left</source>
-      <translation type="unfinished">Move Left</translation>
+      <translation>左移</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="781"/>
       <source>Move to the right</source>
-      <translation type="unfinished">Move to the right</translation>
+      <translation>向右移动</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="784"/>
       <source>Move Right</source>
-      <translation type="unfinished">Move Right</translation>
+      <translation>右移</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="315"/>
       <source>Select folder</source>
-      <translation type="unfinished">Select folder</translation>
+      <translation>选择目录</translation>
     </message>
   </context>
   <context>
@@ -12228,27 +12228,27 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="14"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
       <source>Shell Display</source>
-      <translation type="unfinished">Shell Display</translation>
+      <translation>Shell显示</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
       <source>Display in dockable window:</source>
-      <translation type="unfinished">Display in dockable window:</translation>
+      <translation>显示在可停靠窗口：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
       <source>Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</source>
-      <translation type="unfinished">Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</translation>
+      <translation>在可以放置在主窗口中的窗口中显示 Python 交互。 如果禁用，Python 交互将显示为独立窗口。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="49"/>
       <source>Shell font:</source>
-      <translation type="unfinished">Shell font:</translation>
+      <translation>Shell字体:</translation>
     </message>
   </context>
   <context>
@@ -12256,17 +12256,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="14"/>
       <source>StyleSettings</source>
-      <translation type="unfinished">StyleSettings</translation>
+      <translation>样式设置</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="23"/>
       <source>Additional style paths:</source>
-      <translation type="unfinished">Additional style paths:</translation>
+      <translation>其他样式路径：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="49"/>
       <source>Paths</source>
-      <translation type="unfinished">Paths</translation>
+      <translation>路径</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="55"/>
@@ -12288,7 +12288,7 @@ p, li own white-space: pre-wraward; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>添加</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="71"/>
@@ -12310,7 +12310,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>删除</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="103"/>
@@ -12328,7 +12328,7 @@ p, li v. white-space: pre-wraward; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>样式</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="130"/>
@@ -12346,7 +12346,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
       <source>Disable tooltips:</source>
-      <translation type="unfinished">Disable tooltips:</translation>
+      <translation>关闭工具提示：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="148"/>
@@ -12382,7 +12382,7 @@ p, li own white-space: pre-wraward; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
       <source>Show text under icons in toolbar buttons:</source>
-      <translation type="unfinished">Show text under icons in toolbar buttons:</translation>
+      <translation>在工具栏按钮中显示图标下的文字：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="187"/>
@@ -12400,7 +12400,7 @@ p, li own white-space: pre-wraward; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="201"/>
       <source>Save user interface size and position on exit:</source>
-      <translation type="unfinished">Save user interface size and position on exit:</translation>
+      <translation>退出时保存用户界面大小和位置：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="208"/>
@@ -12418,7 +12418,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
       <source>Select a path containing a &quot;styles&quot; plugin directory</source>
-      <translation type="unfinished">Select a path containing a &quot;styles&quot; plugin directory</translation>
+      <translation>选择包含 &quot;样式&quot; 插件目录的路径</translation>
     </message>
   </context>
   <context>
@@ -12474,18 +12474,18 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
       <source>ViewsSettings</source>
-      <translation type="unfinished">ViewsSettings</translation>
+      <translation>视图设置</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>
       <source>Slice viewer defaults</source>
-      <translation type="unfinished">Slice viewer defaults</translation>
+      <translation>切片视图默认</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="50"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="187"/>
       <source>Orientation marker:</source>
-      <translation type="unfinished">Orientation marker:</translation>
+      <translation>方向标记：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="60"/>
@@ -12552,7 +12552,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
       <source>View orientation:</source>
-      <translation type="unfinished">View orientation:</translation>
+      <translation>视图方向：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="150"/>
@@ -12572,27 +12572,27 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="254"/>
       <source>Ruler is only displayed if orthographic projection mode is used.</source>
-      <translation type="unfinished">Ruler is only displayed if orthographic projection mode is used.</translation>
+      <translation>标尺仅在使用正交投影模式时才显示。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="276"/>
       <source>Use depth peeling:</source>
-      <translation type="unfinished">Use depth peeling:</translation>
+      <translation>使用深度剥离：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="283"/>
       <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-      <translation type="unfinished">Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</translation>
+      <translation>启用深度剥离能够以较高的计算成本改善透明模型的渲染。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="293"/>
       <source>Use orthographic projection:</source>
-      <translation type="unfinished">Use orthographic projection:</translation>
+      <translation>使用正交投影：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="308"/>
       <source>Multi-sampling (MSAA):</source>
-      <translation type="unfinished">Multi-sampling (MSAA):</translation>
+      <translation>多采样(MSAA)：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="321"/>
@@ -12626,7 +12626,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="290"/>
       <source>Options:</source>
-      <translation type="unfinished">Options:</translation>
+      <translation>选项：</translation>
     </message>
   </context>
   <context>
@@ -12642,7 +12642,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchyModule.ui" line="14"/>
       <source>SubjectHierarchy</source>
-      <translation type="unfinished">SubjectHierarchy</translation>
+      <translation>主题层次结构</translation>
     </message>
   </context>
   <context>
@@ -12658,12 +12658,12 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
       <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-      <translation type="unfinished">Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</translation>
+      <translation>选择“数据”作为要配准的运动图像。设置第一个数据后，可以从上下文菜单中选择第二个数据。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
       <source>Right-click another volume to select second volume and start registration</source>
-      <translation type="unfinished">Right-click another volume to select second volume and start registration</translation>
+      <translation>右键单击另一个数据来选择第二个数据并开始配准</translation>
     </message>
   </context>
   <context>
@@ -12671,12 +12671,12 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="290"/>
       <source>Failed to import data to segmentation</source>
-      <translation type="unfinished">Failed to import data to segmentation</translation>
+      <translation>导入数据到分割失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>转换失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1004"/>
@@ -12702,12 +12702,12 @@ p, li own white-space: pre-wrap; }
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="211"/>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="224"/>
       <source>Failed to move segment between segmentations</source>
-      <translation type="unfinished">Failed to move segment between segmentations</translation>
+      <translation>在分割项目之间移动分割失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="235"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>转换失败</translation>
     </message>
   </context>
   <context>
@@ -12715,58 +12715,58 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
       <source>SubjectHierarchySettingsPanel</source>
-      <translation type="unfinished">SubjectHierarchySettingsPanel</translation>
+      <translation>SubjectHierarchySettingsPanel</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
       <source>Operation</source>
-      <translation type="unfinished">Operation</translation>
+      <translation>操作</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="29"/>
       <source>Delete whole branch under the deleted item from subject hierarchy.</source>
-      <translation type="unfinished">Delete whole branch under the deleted item from subject hierarchy.</translation>
+      <translation>从主题层次结构中删除项目下的整个分支。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="32"/>
       <source>Automatically delete subject hierarchy children:</source>
-      <translation type="unfinished">Automatically delete subject hierarchy children:</translation>
+      <translation>自动删除子层次结构：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="39"/>
       <source>Automatically delete subject hierarchy children for nodes removed from the scene.</source>
-      <translation type="unfinished">Automatically delete subject hierarchy children for nodes removed from the scene.</translation>
+      <translation>自动删除从场景中删除节点的主题层次结构子项。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="67"/>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="94"/>
       <source>  ID:</source>
-      <translation type="unfinished">  ID:</translation>
+      <translation>  ID:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
       <source>Patient tags in item name:</source>
-      <translation type="unfinished">Patient tags in item name:</translation>
+      <translation>项目名称中的患者标签：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
       <source>Study tags in item name:</source>
-      <translation type="unfinished">Study tags in item name:</translation>
+      <translation>项目名称的学习标签：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="135"/>
       <source>  Study date:</source>
-      <translation type="unfinished">  Study date:</translation>
+      <translation>  学习日期：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="148"/>
       <source>  Birth date:</source>
-      <translation type="unfinished">  Birth date:</translation>
+      <translation>  出生日期：</translation>
     </message>
   </context>
   <context>
