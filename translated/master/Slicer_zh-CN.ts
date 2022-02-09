@@ -3032,7 +3032,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
       <source>3D View</source>
-      <translation>3D 视图</translation>
+      <translation>3D视图</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
@@ -4241,7 +4241,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="911"/>
       <source>2x2 view</source>
-      <translation>2x2 视图</translation>
+      <translation>2x2视图</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="919"/>
@@ -9376,7 +9376,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="637"/>
       <source>Exit (discard modifications)</source>
-      <translation>退出 (放弃修改)</translation>
+      <translation>退出(放弃修改)</translation>
     </message>
     <message>
       <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="639"/>
@@ -12774,7 +12774,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="177"/>
       <source>Some nodes in the branch are already transformed</source>
-      <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+      <translation>分支中的一些节点已经被转换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
@@ -12791,12 +12791,12 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="309"/>
       <source>Restore view layout</source>
-      <translation type="unfinished">Restore view layout</translation>
+      <translation>恢复布局</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="313"/>
       <source>Maximize view</source>
-      <translation type="unfinished">Maximize view</translation>
+      <translation>最大化视图</translation>
     </message>
   </context>
   <context>
@@ -12804,7 +12804,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="145"/>
       <source>Center view</source>
-      <translation type="unfinished">Center view</translation>
+      <translation>居中视图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="147"/>
@@ -12824,22 +12824,22 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
       <source>Maximize view</source>
-      <translation type="unfinished">Maximize view</translation>
+      <translation>最大化视图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
       <source>Show this view maximized in the view layout</source>
-      <translation type="unfinished">Show this view maximized in the view layout</translation>
+      <translation>在视图布局中最大化显示此视图</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
       <source>Tilt lock</source>
-      <translation type="unfinished">Tilt lock</translation>
+      <translation>倾斜锁</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="168"/>
       <source>Prevent rotation around the horizontal axis when rotating this view.</source>
-      <translation type="unfinished">Prevent rotation around the horizontal axis when rotating this view.</translation>
+      <translation>旋转此视图时防止水平轴旋转。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="169"/>
@@ -12849,7 +12849,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
       <source>Configure slice view annotations...</source>
-      <translation type="unfinished">Configure slice view annotations...</translation>
+      <translation>配置切片视图注释...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
@@ -12864,27 +12864,27 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="184"/>
       <source>Copy a screenshot of this view to the clipboard</source>
-      <translation type="unfinished">Copy a screenshot of this view to the clipboard</translation>
+      <translation>将此视图的截图复制到剪贴板</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
       <source>Slice intersections</source>
-      <translation type="unfinished">Slice intersections</translation>
+      <translation>切片相交</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
       <source>Show how the other slice planes intersect each slice plane.</source>
-      <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+      <translation>显示其他切片平面如何与每个切片平面相交。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="200"/>
       <source>Interaction</source>
-      <translation type="unfinished">Interaction</translation>
+      <translation>交互</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="202"/>
       <source>Show handles for slice interaction.</source>
-      <translation type="unfinished">Show handles for slice interaction.</translation>
+      <translation>显示切片交互的控键。</translation>
     </message>
   </context>
   <context>
@@ -12900,7 +12900,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="350"/>
       <source>Default (WW=%1, WL=%2)</source>
-      <translation type="unfinished">Default (WW=%1, WL=%2)</translation>
+      <translation>默认 (WW=%1, WL=%2)</translation>
     </message>
   </context>
   <context>
@@ -12908,17 +12908,17 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="174"/>
       <source>Default preset for the selected volume</source>
-      <translation type="unfinished">Default preset for the selected volume</translation>
+      <translation>所选数据的默认预设</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="182"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>自动</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="184"/>
       <source>Display the full intensity range of the volume.</source>
-      <translation type="unfinished">Display the full intensity range of the volume.</translation>
+      <translation>显示数据的全部强度范围。</translation>
     </message>
   </context>
   <context>
@@ -12926,12 +12926,12 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="14"/>
       <source>Foo bar</source>
-      <translation type="unfinished">Foo bar</translation>
+      <translation>页脚栏</translation>
     </message>
     <message>
       <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="23"/>
       <source>Foo Bar</source>
-      <translation type="unfinished">Foo Bar</translation>
+      <translation>页脚栏</translation>
     </message>
   </context>
   <context>
@@ -12944,7 +12944,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
       <source>Display</source>
-      <translation type="unfinished">Display</translation>
+      <translation>显示</translation>
     </message>
   </context>
   <context>
@@ -12952,153 +12952,153 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="20"/>
       <source>Place markups</source>
-      <translation type="unfinished">Place markups</translation>
+      <translation>放置标记</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="41"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名称：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
       <source>Data type:</source>
-      <translation type="unfinished">Data type:</translation>
+      <translation>数据类型：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
       <source>string</source>
-      <translation type="unfinished">string</translation>
+      <translation>字符串型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="73"/>
       <source>double</source>
-      <translation type="unfinished">double</translation>
+      <translation>双精度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="78"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>整数</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="83"/>
       <source>bit</source>
-      <translation type="unfinished">bit</translation>
+      <translation>比特</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
       <source>float</source>
-      <translation type="unfinished">float</translation>
+      <translation>浮点数</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
       <source>char</source>
-      <translation type="unfinished">char</translation>
+      <translation>字符类型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="98"/>
       <source>signed char</source>
-      <translation type="unfinished">signed char</translation>
+      <translation>有符号字符型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="103"/>
       <source>short</source>
-      <translation type="unfinished">short</translation>
+      <translation>短整数型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="108"/>
       <source>long</source>
-      <translation type="unfinished">long</translation>
+      <translation>长整数型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
       <source>long long</source>
-      <translation type="unfinished">long long</translation>
+      <translation>超长整数型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
       <source>__int64</source>
-      <translation type="unfinished">__int64</translation>
+      <translation>__int64</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="123"/>
       <source>idtype</source>
-      <translation type="unfinished">idtype</translation>
+      <translation>idtype</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="128"/>
       <source>unsigned char</source>
-      <translation type="unfinished">unsigned char</translation>
+      <translation>无符号字符型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="133"/>
       <source>unsigned short</source>
-      <translation type="unfinished">unsigned short</translation>
+      <translation>无符号短整数型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
       <source>unsigned int</source>
-      <translation type="unfinished">unsigned int</translation>
+      <translation>无符号整数型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="143"/>
       <source>unsigned long</source>
-      <translation type="unfinished">unsigned long</translation>
+      <translation>无符号的长整数型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="148"/>
       <source>unsigned long long</source>
-      <translation type="unfinished">unsigned long long</translation>
+      <translation>无符号超长整数型</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="153"/>
       <source>unsigned __int64</source>
-      <translation type="unfinished">unsigned __int64</translation>
+      <translation>未签名的 __int64</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="161"/>
       <source>Convert</source>
-      <translation type="unfinished">Convert</translation>
+      <translation>转换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="168"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="177"/>
       <source>Null value:</source>
-      <translation type="unfinished">Null value:</translation>
+      <translation>无效值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
       <source>Long name:</source>
-      <translation type="unfinished">Long name:</translation>
+      <translation>长名称：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
       <source>Description:</source>
-      <translation type="unfinished">Description:</translation>
+      <translation>描述：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="207"/>
       <source>Unit label:</source>
-      <translation type="unfinished">Unit label:</translation>
+      <translation>单元标签：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="217"/>
       <source>Component count:</source>
-      <translation type="unfinished">Component count:</translation>
+      <translation>组件数量：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="238"/>
       <source>Component names:</source>
-      <translation type="unfinished">Component names:</translation>
+      <translation>组件名称：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="248"/>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="251"/>
       <source>Place multiple control points</source>
-      <translation type="unfinished">Place multiple control points</translation>
+      <translation>放置多个控制点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="260"/>
@@ -13246,12 +13246,12 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="14"/>
       <source>Foo bar</source>
-      <translation type="unfinished">Foo bar</translation>
+      <translation>页脚栏</translation>
     </message>
     <message>
       <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="23"/>
       <source>Foo Bar</source>
-      <translation type="unfinished">Foo Bar</translation>
+      <translation>页脚栏</translation>
     </message>
   </context>
   <context>
@@ -13290,37 +13290,37 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
       <source>Select type modifier...</source>
-      <translation type="unfinished">Select type modifier...</translation>
+      <translation>选择类型修改器...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
       <source>Select anatomic region context...</source>
-      <translation type="unfinished">Select anatomic region context...</translation>
+      <translation>选择原子区域上下文...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="201"/>
       <source>Anatomic region...</source>
-      <translation type="unfinished">Anatomic region...</translation>
+      <translation>组织区域...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="243"/>
       <source>Select anatomic region modifier...</source>
-      <translation type="unfinished">Select anatomic region modifier...</translation>
+      <translation>选择组织区域修改器...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
       <source>Select terminology...</source>
-      <translation type="unfinished">Select terminology...</translation>
+      <translation>选择术语...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="337"/>
       <source>Category...</source>
-      <translation type="unfinished">Category...</translation>
+      <translation>类别...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="400"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名称：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
@@ -13330,21 +13330,21 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1332"/>
       <source>No type modifier</source>
-      <translation type="unfinished">No type modifier</translation>
+      <translation>无类型修饰符</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1978"/>
       <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
-      <translation type="unfinished">There is a file with name &apos;%1&apos; in the stored contexts.
+      <translation>储存的上下文中有一个名为 &apos;%1&apos; 的文件。
 
-Do you wish to update the stored context file with the just loaded one?</translation>
+您想要更新刚加载的上下文文件吗？</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1981"/>
       <source>Context file exists</source>
-      <translation type="unfinished">Context file exists</translation>
+      <translation>上下文文件存在</translation>
     </message>
   </context>
   <context>
@@ -13352,22 +13352,22 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="20"/>
       <source>Texts</source>
-      <translation type="unfinished">Texts</translation>
+      <translation>文本</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="44"/>
       <source>Text node:</source>
-      <translation type="unfinished">Text node:</translation>
+      <translation>文本节点：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="51"/>
       <source>vtkMRMLTextNode</source>
-      <translation type="unfinished">vtkMRMLTextNode</translation>
+      <translation>vtkMRMLTextNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="74"/>
       <source>Contents</source>
-      <translation type="unfinished">Contents</translation>
+      <translation>目录</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="90"/>
@@ -13377,17 +13377,17 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果选中，文本节点会在编辑内容时立即更新。 如果未选中，文本节点仅在单击&amp; &amp;quot;保存&amp;quot; 时更新。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
       <source>Auto-save edits to the text node</source>
-      <translation type="unfinished">Auto-save edits to the text node</translation>
+      <translation>自动保存编辑到文本节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="109"/>
       <source>Enable word wrapping</source>
-      <translation type="unfinished">Enable word wrapping</translation>
+      <translation>启用单词换行</translation>
     </message>
   </context>
   <context>
@@ -13466,7 +13466,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
       <source>Translation in global or local (rotated) reference frame</source>
-      <translation type="unfinished">Translation in global or local (rotated) reference frame</translation>
+      <translation>在全局或局部（旋转）参考系中平移</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
@@ -13531,7 +13531,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
       <source>Transformed:</source>
-      <translation type="unfinished">Transformed:</translation>
+      <translation>变换：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
@@ -13576,7 +13576,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
       <source>Displacement Field</source>
-      <translation type="unfinished">Displacement Field</translation>
+      <translation>位移场</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
@@ -13695,47 +13695,47 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="59"/>
       <source>No jump slices</source>
-      <translation type="unfinished">No jump slices</translation>
+      <translation>无跳跃切片</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="60"/>
       <source>Slice views are not repositioned when crosshair is moved.</source>
-      <translation type="unfinished">Slice views are not repositioned when crosshair is moved.</translation>
+      <translation>切片视图移动时不会重定位。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="64"/>
       <source>Jump slices - offset</source>
-      <translation type="unfinished">Jump slices - offset</translation>
+      <translation>跳转切片-偏移</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="65"/>
       <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-      <translation type="unfinished">Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</translation>
+      <translation>切片视图平面将移动以匹配十字线位置(即使未显示十字线)。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="69"/>
       <source>Jump slices - centered</source>
-      <translation type="unfinished">Jump slices - centered</translation>
+      <translation>跳转切片-居中</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="70"/>
       <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-      <translation type="unfinished">Slice views are centered on crosshair position (even if crosshair is not displayed).</translation>
+      <translation>切片视图以十字线位置为中心(即使未显示十字线)。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="89"/>
       <source>No crosshair</source>
-      <translation type="unfinished">No crosshair</translation>
+      <translation>无十字线</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="90"/>
       <source>No crosshair displayed.</source>
-      <translation type="unfinished">No crosshair displayed.</translation>
+      <translation>无十字线显示</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
       <source>Basic crosshair</source>
-      <translation type="unfinished">Basic crosshair</translation>
+      <translation>基本十字线</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
@@ -13745,7 +13745,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
       <source>Basic + intersection</source>
-      <translation type="unfinished">Basic + intersection</translation>
+      <translation>基本十字线 + 相交</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
@@ -13755,17 +13755,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="104"/>
       <source>Small basic crosshair</source>
-      <translation type="unfinished">Small basic crosshair</translation>
+      <translation>小的基本十字线</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
       <source>Small crosshair with a small gap at the crosshair position.</source>
-      <translation type="unfinished">Small crosshair with a small gap at the crosshair position.</translation>
+      <translation>在十字线位置有小间隙的小十字线。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="109"/>
       <source>Small basic + intersection</source>
-      <translation type="unfinished">Small basic + intersection</translation>
+      <translation>小基本十字线+交互</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
@@ -13775,17 +13775,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="140"/>
       <source>Fine crosshair</source>
-      <translation type="unfinished">Fine crosshair</translation>
+      <translation>细十字线</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="141"/>
       <source>Fine crosshair.</source>
-      <translation type="unfinished">Fine crosshair.</translation>
+      <translation>细十字线。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="145"/>
       <source>Medium crosshair</source>
-      <translation type="unfinished">Medium crosshair</translation>
+      <translation>中十字线</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
