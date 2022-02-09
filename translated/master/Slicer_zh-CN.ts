@@ -11311,12 +11311,12 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="794"/>
       <source>Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</source>
-      <translation type="unfinished">Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</translation>
+      <translation>通过移动分割到共享层，最小化层数，以最大限度地减少内存使用量。 除非存在重叠的分割，否则各分割的内容不会被修改，而是被迫折叠到单一层。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="797"/>
       <source>Collapse labelmap layers</source>
-      <translation type="unfinished">Collapse labelmap layers</translation>
+      <translation>折叠标签图层</translation>
     </message>
   </context>
   <context>
@@ -11324,12 +11324,12 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
       <source>Failed to copy segment</source>
-      <translation type="unfinished">Failed to copy segment</translation>
+      <translation>复制分割失败。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="784"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>转换失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="966"/>
@@ -11344,17 +11344,17 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1041"/>
       <source>Failed to import labelmap volume</source>
-      <translation type="unfinished">Failed to import labelmap volume</translation>
+      <translation>导入标签图数据失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1052"/>
       <source>Failed to import model node</source>
-      <translation type="unfinished">Failed to import model node</translation>
+      <translation>导入模型节点失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1063"/>
       <source>Failed to import models</source>
-      <translation type="unfinished">Failed to import models</translation>
+      <translation>导入模型失败</translation>
     </message>
   </context>
   <context>
@@ -11362,24 +11362,24 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="14"/>
       <source>SegmentationsSettingsPanel</source>
-      <translation type="unfinished">SegmentationsSettingsPanel</translation>
+      <translation>分割设置面板</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="20"/>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="30"/>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="56"/>
       <source>Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</source>
-      <translation type="unfinished">Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</translation>
+      <translation>当从文件加载时，自动设置分割的透明度，基于哪个包含哪个，这样就不会有分割被遮住</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
       <source>Automatic segment opacities:</source>
-      <translation type="unfinished">Automatic segment opacities:</translation>
+      <translation>自动分割透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="59"/>
       <source>Enable surface smoothing by default:</source>
-      <translation type="unfinished">Enable surface smoothing by default:</translation>
+      <translation>默认启用表面平滑：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="66"/>
@@ -11389,28 +11389,28 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="79"/>
       <source>Default terminology entry:</source>
-      <translation type="unfinished">Default terminology entry:</translation>
+      <translation>默认术语条目:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="86"/>
       <source>This terminology will be used by default for new segments in an empty segmentation.</source>
-      <translation type="unfinished">This terminology will be used by default for new segments in an empty segmentation.</translation>
+      <translation>此术语将默认用于空分割项目中的新分割。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="89"/>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="175"/>
       <source>(set)</source>
-      <translation type="unfinished">(set)</translation>
+      <translation>(设置)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="96"/>
       <source>Edit hidden segments: </source>
-      <translation type="unfinished">Edit hidden segments: </translation>
+      <translation>编辑隐藏分割： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="103"/>
       <source>This option controls what the application should do if the user edits a segment that is currently not visible. It is meant to prevent unintentional changes to hidden segments.</source>
-      <translation type="unfinished">This option controls what the application should do if the user edits a segment that is currently not visible. It is meant to prevent unintentional changes to hidden segments.</translation>
+      <translation>此选项控制用户编辑当前不可见的分割时应用程序应执行的操作，这是为了防止对隐藏分割的无意更改。</translation>
     </message>
   </context>
   <context>
@@ -11423,32 +11423,32 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
       <source>Browse</source>
-      <translation type="unfinished">Browse</translation>
+      <translation>浏览</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="32"/>
       <source>Sequence browser:</source>
-      <translation type="unfinished">Sequence browser:</translation>
+      <translation>序列浏览器:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="39"/>
       <source>vtkMRMLSequenceBrowserNode</source>
-      <translation type="unfinished">vtkMRMLSequenceBrowserNode</translation>
+      <translation>vtkMRMLSequenceBrowserNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="44"/>
       <source>SequenceBrowser</source>
-      <translation type="unfinished">SequenceBrowser</translation>
+      <translation>序列浏览器</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="56"/>
       <source>Browsing</source>
-      <translation type="unfinished">Browsing</translation>
+      <translation>浏览</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="71"/>
       <source>Synchronized nodes</source>
-      <translation type="unfinished">Synchronized nodes</translation>
+      <translation>同步节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="82"/>
@@ -11460,32 +11460,32 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="99"/>
       <source>(new sequence)</source>
-      <translation type="unfinished">(new sequence)</translation>
+      <translation>(新序列)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="112"/>
       <source>Add the selected sequence to the browser.</source>
-      <translation type="unfinished">Add the selected sequence to the browser.</translation>
+      <translation>将选中的序列添加到浏览器。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="128"/>
       <source>Remove the selected sequence(s) from the browser.</source>
-      <translation type="unfinished">Remove the selected sequence(s) from the browser.</translation>
+      <translation>从浏览器中删除选中的序列。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="156"/>
       <source>Sequence</source>
-      <translation type="unfinished">Sequence</translation>
+      <translation>序列</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="159"/>
       <source>The sequence node&apos;s name.</source>
-      <translation type="unfinished">The sequence node&apos;s name.</translation>
+      <translation>序列节点的名称。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="164"/>
       <source>Proxy node</source>
-      <translation type="unfinished">Proxy node</translation>
+      <translation>代理节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="167"/>
@@ -11495,12 +11495,12 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="175"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Playback - update proxy node with sequence node contents during playback.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Playback - update proxy node with sequence node contents during playback.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;播放时更新代理节点内容。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="187"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;记录 - 在录制过程中将代理节点更改保存为序列节点。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
@@ -11510,27 +11510,27 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用序列节点名称和索引值设置代理节点名&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="204"/>
       <source>Save changes</source>
-      <translation type="unfinished">Save changes</translation>
+      <translation>保存更改</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="207"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the proxy node current state into the sequence when not in playback or recording mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the proxy node current state into the sequence when not in playback or recording mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当没有播放或录制模式时将代理节点当前状态保存到序列。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
       <source>Plotting</source>
-      <translation type="unfinished">Plotting</translation>
+      <translation>绘制中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
       <source>Enable interactive charting</source>
-      <translation type="unfinished">Enable interactive charting</translation>
+      <translation>启用交互式图表</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="268"/>
@@ -11540,17 +11540,17 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="283"/>
       <source>Enable item skip during playback:</source>
-      <translation type="unfinished">Enable item skip during playback:</translation>
+      <translation>在播放过程中启用跳过条目：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="290"/>
       <source>If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</source>
-      <translation type="unfinished">If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</translation>
+      <translation>如果选中此项，播放时可能会跳过项目以达到所要求的帧率。 如果未选中，每个项目都会在播放时显示，但播放速度可能低于所请求的速度。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="300"/>
       <source>Record on master node only:</source>
-      <translation type="unfinished">Record on master node only:</translation>
+      <translation>仅在主节点上录制：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="314"/>
@@ -11560,24 +11560,24 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
       <source>Recording sampling mode:</source>
-      <translation type="unfinished">Recording sampling mode:</translation>
+      <translation>录制采样模式：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
       <source>Maximum</source>
       <extracomment>Record all node changes</extracomment>
-      <translation type="unfinished">Maximum</translation>
+      <translation>最大</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="355"/>
       <source>Limited to playback rate</source>
       <extracomment>Limit recording frame rate to playback frame rate</extracomment>
-      <translation type="unfinished">Limited to playback rate</translation>
+      <translation>限制播放速率</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="363"/>
       <source>Index display:</source>
-      <translation type="unfinished">Index display:</translation>
+      <translation>索引显示：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="371"/>
@@ -11694,22 +11694,22 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1331"/>
       <source>Include this node in synchronized playback</source>
-      <translation type="unfinished">Include this node in synchronized playback</translation>
+      <translation>在同步播放中包含此节点</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1335"/>
       <source>Overwrite the associated node&apos;s name during playback</source>
-      <translation type="unfinished">Overwrite the associated node&apos;s name during playback</translation>
+      <translation>在播放过程中覆盖相关的节点的名称</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1339"/>
       <source>Save changes to the node into the sequence</source>
-      <translation type="unfinished">Save changes to the node into the sequence</translation>
+      <translation>将更改保存到节点到序列</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1343"/>
       <source>Include this node in synchronized recording</source>
-      <translation type="unfinished">Include this node in synchronized recording</translation>
+      <translation>在同步录制中包括此节点</translation>
     </message>
   </context>
   <context>
@@ -11717,98 +11717,98 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="14"/>
       <source>Cache</source>
-      <translation type="unfinished">Cache</translation>
+      <translation>缓存</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="23"/>
       <source>Cache directory for downloaded files</source>
-      <translation type="unfinished">Cache directory for downloaded files</translation>
+      <translation>下载文件的缓存目录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="26"/>
       <source>Cache location:</source>
-      <translation type="unfinished">Cache location:</translation>
+      <translation>缓存位置：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="35"/>
       <source>~0MB used</source>
-      <translation type="unfinished">~0MB used</translation>
+      <translation>~0MB 已使用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="42"/>
       <source>~200MB free</source>
-      <translation type="unfinished">~200MB free</translation>
+      <translation>~200MB可用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="51"/>
       <source>Current usage of the cache</source>
-      <translation type="unfinished">Current usage of the cache</translation>
+      <translation>缓存当前使用情况</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="54"/>
       <source>Cache usage:</source>
-      <translation type="unfinished">Cache usage:</translation>
+      <translation>缓存使用情况：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="61"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="90"/>
       <source>MB</source>
-      <translation type="unfinished">MB</translation>
+      <translation>MB</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
       <source>Upper limit of the dedicated cache for downloaded files</source>
-      <translation type="unfinished">Upper limit of the dedicated cache for downloaded files</translation>
+      <translation>下载文件的专用缓存的最大限制</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="83"/>
       <source>Cache size:</source>
-      <translation type="unfinished">Cache size:</translation>
+      <translation>缓存大小：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="106"/>
       <source>Amount of space that should remain free. It should be the typical size of a file to download.</source>
-      <translation type="unfinished">Amount of space that should remain free. It should be the typical size of a file to download.</translation>
+      <translation>应该保持可用的空间量，它应该是下载文件的典型大小。</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="109"/>
       <source>Cache free buffer:</source>
-      <translation type="unfinished">Cache free buffer:</translation>
+      <translation>缓存空闲缓冲区：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
       <source>Control whether a file must be downloaded even if it is already in the cache</source>
-      <translation type="unfinished">Control whether a file must be downloaded even if it is already in the cache</translation>
+      <translation>控制文件是否必须下载，即使它已经在缓存中</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
       <source>Force redownload:</source>
-      <translation type="unfinished">Force redownload:</translation>
+      <translation>强制重新下载：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="136"/>
       <source>Files in cache:</source>
-      <translation type="unfinished">Files in cache:</translation>
+      <translation>缓存中的文件：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="143"/>
       <source>Delete all files in cache directory</source>
-      <translation type="unfinished">Delete all files in cache directory</translation>
+      <translation>删除缓存目录中的全部文件</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="146"/>
       <source>Clear cache</source>
-      <translation type="unfinished">Clear cache</translation>
+      <translation>清空缓存</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
       <source>%1MB used</source>
-      <translation type="unfinished">%1MB used</translation>
+      <translation>%1MB 已使用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
       <source>%1MB free</source>
-      <translation type="unfinished">%1MB free</translation>
+      <translation>%1MB 可用</translation>
     </message>
   </context>
   <context>
@@ -11816,57 +11816,57 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="14"/>
       <source>Developer</source>
-      <translation type="unfinished">Developer</translation>
+      <translation>开发者</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
       <source>Enable developer mode:</source>
-      <translation type="unfinished">Enable developer mode:</translation>
+      <translation>启用开发者模式：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
       <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-      <translation type="unfinished">Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</translation>
+      <translation>在开发人员模式下运行应用程序：测试模块显示在模块列表中，重新加载和测试部分显示在脚本化模块用户界面中，CLI模块输入和输出文件在模块执行后不会被删除</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
       <source>Enable QtTesting:</source>
-      <translation type="unfinished">Enable QtTesting:</translation>
+      <translation>启用 QtT测试：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="51"/>
       <source>Self-test message delay:</source>
-      <translation type="unfinished">Self-test message delay:</translation>
+      <translation>自检消息延迟：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
       <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
-      <translation type="unfinished">Time to wait before resuming self-test execution and hiding messages displayed to the user</translation>
+      <translation>恢复自检执行和隐藏显示给用户的消息之前的等待时间</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="73"/>
       <source>ms</source>
-      <translation type="unfinished">ms</translation>
+      <translation>ms</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="80"/>
       <source>Qt Designer:</source>
-      <translation type="unfinished">Qt Designer:</translation>
+      <translation>Qt设计器</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="89"/>
       <source>launch</source>
-      <translation type="unfinished">launch</translation>
+      <translation>启动</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
       <source>Preserve CLI module data files:</source>
-      <translation type="unfinished">Preserve CLI module data files:</translation>
+      <translation>保留CLI 模块数据文件：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="118"/>
       <source>Preserve input and data files created during CLI module execution</source>
-      <translation type="unfinished">Preserve input and data files created during CLI module execution</translation>
+      <translation>保留在 CLI 模块执行期间创建的输入和数据文件</translation>
     </message>
   </context>
   <context>
@@ -11874,7 +11874,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
       <source>Extensions</source>
-      <translation type="unfinished">Extensions</translation>
+      <translation>扩展组件</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="28"/>
@@ -11884,17 +11884,17 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="45"/>
       <source>Extensions server URL:</source>
-      <translation type="unfinished">Extensions server URL:</translation>
+      <translation>扩展服务器 URL：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="55"/>
       <source>Extensions frontend server URL:</source>
-      <translation type="unfinished">Extensions frontend server URL:</translation>
+      <translation>扩展前端服务器URL：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="65"/>
       <source>Extensions installation path:</source>
-      <translation type="unfinished">Extensions installation path:</translation>
+      <translation>扩展安装路径：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="93"/>
@@ -11907,76 +11907,76 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>通用</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
       <source>Directory where scenes are saved to by default</source>
-      <translation type="unfinished">Directory where scenes are saved to by default</translation>
+      <translation>默认保存场景的目录</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
       <source>Default scene location:</source>
-      <translation type="unfinished">Default scene location:</translation>
+      <translation>默认场景位置：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
       <source>Disable splash screen:</source>
-      <translation type="unfinished">Disable splash screen:</translation>
+      <translation>禁用启动屏幕：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation>语言</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
       <source>Confirm on restart:</source>
-      <translation type="unfinished">Confirm on restart:</translation>
+      <translation>重启时确认：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
       <source>Confirm on exit:</source>
-      <translation type="unfinished">Confirm on exit:</translation>
+      <translation>退出时确认：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
       <source>Confirm on scene close:</source>
-      <translation type="unfinished">Confirm on scene close:</translation>
+      <translation>在场景关闭时确认：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
       <source>Documentation base URL:</source>
-      <translation type="unfinished">Documentation base URL:</translation>
+      <translation>文档库网址：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="115"/>
       <source>Specify documentation location.
 Available placeholders: {language}, {version}.
 Default: https://slicer.readthedocs.io/{language}/{version}</source>
-      <translation type="unfinished">Specify documentation location.
-Available placeholders: {language}, {version}.
-Default: https://slicer.readthedocs.io/{language}/{version}</translation>
+      <translation>指定文档位置。
+可用占位符: {language}, {version}.
+默认: https://slicer.readthedocs.io/{language}/{version}</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
       <source>Max. number of &apos;Recently Loaded&apos; menu items:</source>
-      <translation type="unfinished">Max. number of &apos;Recently Loaded&apos; menu items:</translation>
+      <translation>&apos;最近加载的菜单项最大数量&apos;</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
       <source>Python script that is executed after the application is started</source>
-      <translation type="unfinished">Python script that is executed after the application is started</translation>
+      <translation>应用程序启动后执行的 Python 脚本</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="147"/>
       <source>Application startup script:</source>
-      <translation type="unfinished">Application startup script:</translation>
+      <translation>应用程序启动脚本：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="169"/>
       <source>Open Slicer resource file</source>
-      <translation type="unfinished">Open Slicer resource file</translation>
+      <translation>打开Slicer资源文件</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
