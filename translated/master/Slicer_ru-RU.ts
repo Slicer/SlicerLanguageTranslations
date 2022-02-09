@@ -2914,42 +2914,42 @@
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
       <source>Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</source>
-      <translation type="unfinished">Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</translation>
+      <translation>Устанавливает флаг режима скалярного диапазона. Данные (автоматически) обновляют Отображение Скалярного Диапазона из скалярного диапазона данных. Опция прямого отображения цвета обходит цветовую таблицу (LUT) и использует скалярные значения в качестве цвета RGB.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
       <source>Manual</source>
-      <translation type="unfinished">Manual</translation>
+      <translation>Вручную</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="85"/>
       <source>Data scalar range (auto)</source>
-      <translation type="unfinished">Data scalar range (auto)</translation>
+      <translation>Диапазон скалярных данных (авто)</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="90"/>
       <source>Color table (LUT)</source>
-      <translation type="unfinished">Color table (LUT)</translation>
+      <translation>Цветовая таблица (LUT)</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="95"/>
       <source>Data type</source>
-      <translation type="unfinished">Data type</translation>
+      <translation>Тип данных</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="100"/>
       <source>Direct color mapping</source>
-      <translation type="unfinished">Direct color mapping</translation>
+      <translation>Прямое отображение цвета</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="108"/>
       <source>Displayed Range:</source>
-      <translation type="unfinished">Displayed Range:</translation>
+      <translation>Отображаемый диапазон:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="115"/>
       <source>Set the display scalar range, used when the Display option is selected.</source>
-      <translation type="unfinished">Set the display scalar range, used when the Display option is selected.</translation>
+      <translation>Задать отображение скалярного диапазона, используется когда параметр Отобразить выбран.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
@@ -2960,8 +2960,7 @@
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
       <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-      <translation type="unfinished">Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
-should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</translation>
+      <translation>Применить порог к вашей отображенной модели на основе её скалярных значений. Некоторые ячейки могут быть перевернуты, в этом случае вы должны установить &quot;заднюю поверхность&quot; и &quot;лицевую поверхность&quot; в состояние Выключить в параметрах Представление для отображения всех ячеек.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
