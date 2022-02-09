@@ -655,13 +655,13 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="38"/>
       <source>2D Projection</source>
-      <translation>2D 投影</translation>
+      <translation>2D投影</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
       <source>Color of the projected fiducial on 2D viewers</source>
-      <translation>2D 查看器上基准点投影的颜色</translation>
+      <translation>2D查看器上基准点投影的颜色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
@@ -747,13 +747,13 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
       <source>2D Projection</source>
-      <translation>2D 投影</translation>
+      <translation>2D投影</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
       <source>Color of the projected line on 2D viewers</source>
-      <translation>2D 查看器上投影线的颜色</translation>
+      <translation>2D查看器上投影线的颜色</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
@@ -837,7 +837,7 @@
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
       <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</source>
-      <translation>捕获完整布局、3D 视图或切片视图的截图。以文件形式保存图像，在注释模块中编辑。</translation>
+      <translation>捕获完整布局、3D视图或切片视图的截图。以文件形式保存图像，在注释模块中编辑。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
@@ -1556,7 +1556,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
       <source>2D Display</source>
-      <translation>2D 显示</translation>
+      <translation>2D显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
@@ -1611,7 +1611,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
       <source>3D Display</source>
-      <translation>3D 显示</translation>
+      <translation>3D显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
@@ -1698,7 +1698,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
       <source>Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</source>
-      <translation>2D 查看器的投影控制点的颜色，仅在 &quot;使用标记颜色&quot; 未选中时使用，否则投影使用所选或未选定的标记颜色。</translation>
+      <translation>2D查看器的投影控制点的颜色，仅在 &quot;使用标记颜色&quot; 未选中时使用，否则投影使用所选或未选定的标记颜色。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
@@ -1935,7 +1935,7 @@
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
       <source>3D Display</source>
-      <translation>3D 显示</translation>
+      <translation>3D显示</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
@@ -3166,7 +3166,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="141"/>
       <source> Show 3D</source>
-      <translation> 显示 3D</translation>
+      <translation> 显示3D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="155"/>
@@ -3287,7 +3287,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="428"/>
       <source>Show 3D</source>
-      <translation>显示 3D</translation>
+      <translation>显示3D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="430"/>
@@ -3486,7 +3486,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="299"/>
       <source>Representation in 2D views:</source>
-      <translation>在 2D 视图中显示：</translation>
+      <translation>在2D视图中显示：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="306"/>
@@ -4311,7 +4311,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
       <source>Show in 3D</source>
-      <translation>在 3D 中显示</translation>
+      <translation>在3D中显示</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
@@ -4648,7 +4648,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
       <source>Toggle the visibility of the slice in the 3D scene</source>
-      <translation>切换切片在 3D 场景中的可见性</translation>
+      <translation>切换切片在3D场景中的可见性</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
@@ -5015,7 +5015,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="20"/>
       <source>3D View Controller</source>
-      <translation>3D 视图控制</translation>
+      <translation>3D视图控制</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
@@ -5112,12 +5112,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="342"/>
       <source>3D cube</source>
-      <translation>3D 立方体</translation>
+      <translation>3D立方体</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="353"/>
       <source>3D axis label</source>
-      <translation>3D 轴标签</translation>
+      <translation>3D轴标签</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
@@ -5408,7 +5408,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="109"/>
       <source>Visible in 3D view: </source>
-      <translation>在3D视图中可见： </translation>
+      <translation>3D视图中可见： </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="149"/>
@@ -5708,7 +5708,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="885"/>
       <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
-      <translation>标记节点定义了图形起始位置。如果指定则3D 视图 &apos;区域&apos; 被忽略。</translation>
+      <translation>标记节点定义了图形起始位置。如果指定则3D视图 &apos;区域&apos; 被忽略。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="888"/>
@@ -5736,12 +5736,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1009"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1019"/>
       <source>Thickness of the gridlines in the 3D view</source>
-      <translation>3D 视图中网格线的粗细</translation>
+      <translation>3D视图中网格线的粗细</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1012"/>
       <source>3D gridline diameter:</source>
-      <translation>3D 网格直径：</translation>
+      <translation>3D网格直径：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1050"/>
@@ -5786,12 +5786,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1199"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1209"/>
       <source>Opacity of the contour isosurfaces in the 3D view</source>
-      <translation>3D 视图中轮廓线的透明度</translation>
+      <translation>3D视图中轮廓线的透明度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1202"/>
       <source>3D opacity:</source>
-      <translation>3D 透明度：</translation>
+      <translation>3D透明度：</translation>
     </message>
   </context>
   <context>
@@ -10003,7 +10003,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="87"/>
       <source>HookedArrow2D</source>
-      <translation>弯钩箭头2D</translation>
+      <translation>钩箭头2D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="92"/>
@@ -10061,7 +10061,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="14"/>
       <source>Add a 3D model</source>
-      <translation>添加3D 模型</translation>
+      <translation>添加3D模型</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="26"/>
@@ -10846,7 +10846,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="30"/>
       <source>3D Slicer SceneView</source>
-      <translation>3D 切片场景视图</translation>
+      <translation>3D切片场景视图</translation>
     </message>
   </context>
   <context>
@@ -12562,12 +12562,12 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="159"/>
       <source>Show 3D cube:</source>
-      <translation>显示3D 立方体：</translation>
+      <translation>显示3D立方体：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="173"/>
       <source>Show 3D axis label:</source>
-      <translation>显示3D 轴标签：</translation>
+      <translation>显示3D轴标签：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="254"/>
@@ -13652,7 +13652,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="28"/>
       <source>3D View Controllers</source>
-      <translation>3D 视图控制</translation>
+      <translation>3D视图控制</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
@@ -13667,7 +13667,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
       <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-      <translation>从当前场景中选择视图，每个元素对应一个特定的小部件。查看节点与3D渲染部件连接，绘图视图使用绘图小部件。切片(Red, Green, Yellow) 使用 2D 渲染小部件。</translation>
+      <translation>从当前场景中选择视图，每个元素对应一个特定的小部件。查看节点与3D渲染部件连接，绘图视图使用绘图小部件。切片(Red, Green, Yellow) 使用2D渲染小部件。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="67"/>
