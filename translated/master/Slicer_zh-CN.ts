@@ -11,7 +11,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
       <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-      <translation>注释文本（vtkMRML注释文本节点1）</translation>
+      <translation>注释文本(vtkMRMLAnnotationTextNode1)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
@@ -3741,7 +3741,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="170"/>
       <source>Segmentation labelmap geometry</source>
-      <translation>片段标签图几何体</translation>
+      <translation>分割项目标签图几何体</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="194"/>
