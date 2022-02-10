@@ -70,7 +70,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
       <source>Glyph type combo box</source>
-      <translation>图示符组合框</translation>
+      <translation>图形组合框</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
@@ -631,7 +631,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
       <source>Glyph type combo box</source>
-      <translation>图示符组合框</translation>
+      <translation>图形组合框</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
@@ -1566,7 +1566,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
       <source>Glyph Type:</source>
-      <translation>图示符样式：</translation>
+      <translation>图形样式：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
@@ -1591,7 +1591,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
       <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-      <translation>如果按下按钮，则线条厚度以物理长度单位指定，否则以图示符大小的百分比指定</translation>
+      <translation>如果按下按钮，则线条厚度以物理长度单位指定，否则以图形大小的百分比指定</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
@@ -1636,7 +1636,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
       <source>Glyph Size:</source>
-      <translation>图示符大小：</translation>
+      <translation>图形大小：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
@@ -2408,7 +2408,7 @@
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
       <source>Add/Remove plots data series to/from the current chart.</source>
-      <translation>到/从当前图表中添加/删除图示符数据序列。</translation>
+      <translation>到/从当前图表中添加/删除图形数据序列。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="48"/>
@@ -5378,7 +5378,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
       <source>Whether the transform widget can be translated.</source>
-      <translation>是否可以转化变换小部件</translation>
+      <translation>是否可以平移变换小部件</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="48"/>
@@ -5468,12 +5468,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="290"/>
       <source>Visualize transform using glyphs</source>
-      <translation>使用图示符可视化变换</translation>
+      <translation>使用图形可视化变换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="305"/>
       <source>Glyph</source>
-      <translation>图示符</translation>
+      <translation>图形</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
@@ -5549,7 +5549,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="544"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="580"/>
       <source>Distance between the glyph points</source>
-      <translation>图示符点之间的距离</translation>
+      <translation>图形点之间的距离</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="547"/>
@@ -5560,7 +5560,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="554"/>
       <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-      <translation>用于设置图示符大小的位移百分比。100%表示字形大小等于实际位移。</translation>
+      <translation>用于设置图形大小的位移百分比。100%表示字形大小等于实际位移。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="557"/>
@@ -5571,7 +5571,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="564"/>
       <source>Glyphs are shown if the displacement magnitude is within this range</source>
-      <translation>如果位移幅值在此范围内，则会显示图示符</translation>
+      <translation>如果位移幅值在此范围内，则会显示图形</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="567"/>
@@ -5591,13 +5591,13 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="611"/>
       <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-      <translation>仅显示位移量在此范围内的图示符</translation>
+      <translation>仅显示位移量在此范围内的图形</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="636"/>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="652"/>
       <source>Choose a glyph type to use</source>
-      <translation>选择要使用的图示符类型</translation>
+      <translation>选择要使用的图形样式</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="639"/>
@@ -5622,7 +5622,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="683"/>
       <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
-      <translation>用于设置图示符大小的位移百分比。100%表示图形大小等于实际位移。不影响颜色和可见范围。</translation>
+      <translation>用于设置图形大小的位移百分比。100%表示图形大小等于实际位移。不影响颜色和可见范围。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="701"/>
@@ -5636,7 +5636,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="714"/>
       <source>3D glyph settings</source>
-      <translation>3D图示符设置</translation>
+      <translation>3D图形设置</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="735"/>
@@ -6454,33 +6454,33 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="295"/>
       <source>List Glyph Scale:</source>
-      <translation>列出图示符比例：</translation>
+      <translation>列出图形比例：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="302"/>
       <source>Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</source>
-      <translation>将图示符比例应用于此层次结构中的所有注释（当前设置可能不反映图示符比例，这是一个只按列表的设置，使用默认按钮返回标准大小）</translation>
+      <translation>将图形比例应用于此层次结构中的所有注释（当前设置可能不反映图形比例，这是一个只按列表的设置，使用默认按钮返回标准大小）</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
       <source>Apply glyph type to all annotations in this hierarchy</source>
-      <translation>将图示符类型应用于此层次结构中的所有注释</translation>
+      <translation>将图形样式应用于此层次结构中的所有注释</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="332"/>
       <source>List Glyph Type:</source>
-      <translation>列出图示符样式：</translation>
+      <translation>列出图形样式：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="339"/>
       <source>Apply glyph type to all annotations in this hierarchy (current setting may not reflect glyph types, this is a push to list only setting, use default button to get back to standard glyph)</source>
-      <translation>将图示符样式应用于此层次结构中的所有注释（当前设置可能不反映图形样式，这是一个只按列表的设置，使用默认按钮返回标准图形）</translation>
+      <translation>将图形样式应用于此层次结构中的所有注释（当前设置可能不反映图形样式，这是一个只按列表的设置，使用默认按钮返回标准图形）</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="342"/>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="722"/>
       <source>Glyph type combo box</source>
-      <translation>图示符组合框</translation>
+      <translation>图形组合框</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="366"/>
@@ -7792,7 +7792,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
       <source>Glyph Type:</source>
-      <translation>图示符样式：</translation>
+      <translation>图形样式：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
@@ -9943,7 +9943,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="23"/>
       <source>Default glyph type:</source>
-      <translation>默认图示符样式：</translation>
+      <translation>默认图形样式：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="30"/>
@@ -10028,12 +10028,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="153"/>
       <source>Default glyph scale:</source>
-      <translation>默认图示符比例：</translation>
+      <translation>默认图形比例：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="160"/>
       <source>Default glyph scale</source>
-      <translation>默认图示符比例：</translation>
+      <translation>默认图形比例：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="176"/>
@@ -10318,7 +10318,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
       <source>Translate/rotate view, adjust displayed objects</source>
-      <translation>翻译/旋转视图，调整显示的对象</translation>
+      <translation>平移/旋转视图，调整显示的对象</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
@@ -13496,7 +13496,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
       <source>Transformable:</source>
-      <translation>可转换</translation>
+      <translation>可变换</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="345"/>
@@ -13531,7 +13531,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
       <source>Transformed:</source>
-      <translation>变换：</translation>
+      <translation>已变换：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
