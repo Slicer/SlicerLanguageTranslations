@@ -85,7 +85,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
       <source>Opacity:</source>
-      <translation>透明度：</translation>
+      <translation>不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
@@ -998,7 +998,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
       <source>Visible:</source>
-      <translation>可视化：</translation>
+      <translation>可视性：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
@@ -1018,12 +1018,12 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
       <source>Show numeric value as label text</source>
-      <translation>将数值显示为标签文本</translation>
+      <translation>将数值作为标签文本</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
       <source>Value</source>
-      <translation>值</translation>
+      <translation>数值</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
@@ -1043,7 +1043,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
       <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-      <translation>要显示的标签数，仅当值用作标签文本(而非颜色名称) 时适用。</translation>
+      <translation>要显示的标签数，仅当数值作为标签文本(而非颜色名称) 时适用。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -1053,7 +1053,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
       <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-      <translation>显示的最大颜色数。减少数量以查看离散的颜色，而不是连续的颜色渐变。仅当值用作标签文本（而非颜色名称）时适用。</translation>
+      <translation>显示的最大颜色数，减少数量以查看离散的颜色，而不是连续的颜色渐变。仅当数值作为标签文本(而非颜色名称) 时适用。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
@@ -1084,7 +1084,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
       <source>H:</source>
-      <translation>高：</translation>
+      <translation>水平：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="252"/>
@@ -1110,12 +1110,12 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
       <source>S:</source>
-      <translation>上：</translation>
+      <translation>短边：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
       <source>Short side length of the color legend, as fraction of view size</source>
-      <translation>颜色图例的短侧长度作为视图大小的分数</translation>
+      <translation>颜色图例的短侧长度作为视图大小的百分比</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
@@ -1125,12 +1125,12 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
       <source>L:</source>
-      <translation>左：</translation>
+      <translation>长边：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
       <source>Long side length of the color legend, as fraction of view size</source>
-      <translation>颜色图例的长边长度作为视图大小的分数</translation>
+      <translation>颜色图例的长边长度作为视图大小的百分比</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -1472,12 +1472,12 @@
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
       <source>Opacity:</source>
-      <translation>透明度：</translation>
+      <translation>不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
       <source>Visibility:</source>
-      <translation>可视性：</translation>
+      <translation>是否显示：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
@@ -1536,7 +1536,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
       <source>Opacity</source>
-      <translation>透明度</translation>
+      <translation>不透明度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
@@ -1571,7 +1571,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
       <source>View:</source>
-      <translation>视图：</translation>
+      <translation>选择视图：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
@@ -1725,7 +1725,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
       <source>Opacity:</source>
-      <translation>透明度：</translation>
+      <translation>不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
@@ -1841,7 +1841,7 @@
     <message>
       <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
       <source>Opacity:</source>
-      <translation>透明度：</translation>
+      <translation>不透明度：</translation>
     </message>
   </context>
   <context>
@@ -2089,7 +2089,7 @@
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="369"/>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="531"/>
       <source>Opacity:</source>
-      <translation>透明度：</translation>
+      <translation>不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="401"/>
@@ -3436,7 +3436,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="55"/>
       <source>Overall opacity:</source>
-      <translation>总体透明度：</translation>
+      <translation>总体不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="105"/>
@@ -5791,7 +5791,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1202"/>
       <source>3D opacity:</source>
-      <translation>3D透明度：</translation>
+      <translation>3D不透明度：</translation>
     </message>
   </context>
   <context>
@@ -7767,7 +7767,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
       <source>Opacity:</source>
-      <translation>透明度：</translation>
+      <translation>不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
@@ -10048,7 +10048,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="199"/>
       <source>Default opacity:</source>
-      <translation>默认透明度：</translation>
+      <translation>默认不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="219"/>
@@ -12651,7 +12651,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
       <source>Opacity</source>
-      <translation>透明度</translation>
+      <translation>不透明度</translation>
     </message>
   </context>
   <context>
