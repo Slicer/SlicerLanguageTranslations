@@ -3126,12 +3126,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
       <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-      <translation>指定编辑的标签图表达的几何图形(栅格原点、间距、轴方向和默认范围)</translation>
+      <translation>指定编辑的标签映射表达的几何图形(栅格原点、间距、轴方向和默认范围)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
       <source>Specify geometry of the edited labelmap representation</source>
-      <translation>指定编辑的标签图表达的几何图形</translation>
+      <translation>指定编辑的标签映射表达的几何图形</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
@@ -3312,12 +3312,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1438"/>
       <source>Change master representation to binary labelmap?</source>
-      <translation>将主表示更改为二进制标签图？</translation>
+      <translation>将主表示更改为二进制标签映射？</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1461"/>
       <source>Failed to create binary labelmap for editing</source>
-      <translation>无法创建用于编辑的二进制标签图</translation>
+      <translation>无法创建用于编辑的二进制标签映射</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2445"/>
@@ -3709,7 +3709,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="84"/>
       <source>Showing current segmentation labelmap geometry. Click here to change</source>
-      <translation>显示当前分割标签图几何图形，点击此处进行更改</translation>
+      <translation>显示当前分割标签映射几何图形，点击此处进行更改</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="91"/>
@@ -3741,7 +3741,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="170"/>
       <source>Segmentation labelmap geometry</source>
-      <translation>分割项目标签图几何体</translation>
+      <translation>分割项目标签映射几何体</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="194"/>
@@ -4019,7 +4019,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="51"/>
       <source>Select the label map</source>
-      <translation>选择标签图</translation>
+      <translation>选择标签映射</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="54"/>
@@ -4136,12 +4136,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
       <source>Hide labelmap outlines</source>
-      <translation>隐藏标签图轮廓</translation>
+      <translation>隐藏标签映射轮廓</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="741"/>
       <source>Toggle between showing label map volume with regions outlined or filled.</source>
-      <translation>在显示带有轮廓或填充区域的标签图数据之间切换。</translation>
+      <translation>在显示带有轮廓或填充区域的标签映射数据之间切换。</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
@@ -4266,7 +4266,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="951"/>
       <source>Label map volume</source>
-      <translation>标签图数据</translation>
+      <translation>标签映射数据</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="967"/>
@@ -4281,12 +4281,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="999"/>
       <source>Show LabelMap</source>
-      <translation>显示标签图</translation>
+      <translation>显示标签映射</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1002"/>
       <source>Toggle labelmap visibility</source>
-      <translation>切换标签图可见性</translation>
+      <translation>切换标签映射可见性</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
@@ -4555,7 +4555,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="721"/>
       <source>LabelMap</source>
-      <translation>标签图</translation>
+      <translation>标签映射</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="730"/>
@@ -6087,7 +6087,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
       <source>Image Dimensions:</source>
-      <translation>图像维度：</translation>
+      <translation>图像尺寸：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
@@ -6114,7 +6114,7 @@ p, li { white-space: pre-wrap; }
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
       <source>IJK to RAS Direction Matrix:</source>
       <translation>方向矩阵：
-(IJK-RAS)</translation>
+IJK - RAS</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
@@ -6139,7 +6139,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="216"/>
       <source>Scalar Type:</source>
-      <translation>标量类型</translation>
+      <translation>标量类型：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="240"/>
@@ -6149,7 +6149,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="254"/>
       <source>Volume type:</source>
-      <translation>数据类型</translation>
+      <translation>数据类型：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="261"/>
@@ -6159,7 +6159,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="268"/>
       <source>File Name:</source>
-      <translation>文件名：</translation>
+      <translation>文件路径：</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
@@ -6814,12 +6814,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="96"/>
       <source>Visual Blog</source>
-      <translation>图文博客</translation>
+      <translation>Slicer博客</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="97"/>
       <source>Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</source>
-      <translation>使用你最喜欢的网络浏览器打开Slicer图文博客，在那里可以发布你在研究中使用Slicer软件包的有趣方式的截图，并与Slicer社区分享。</translation>
+      <translation>使用你最喜欢的网络浏览器打开Slicer博客，在那里可以发布你在研究中使用Slicer软件包的有趣方式的截图，并与Slicer社区分享。</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="101"/>
@@ -11129,7 +11129,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="329"/>
       <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-      <translation>从当前分割复制到其他节点(拷贝分割节点和导入/导出模型或标签图节点)</translation>
+      <translation>从当前分割复制到其他节点(拷贝分割节点和导入/导出模型或标签映射节点)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="332"/>
@@ -11164,7 +11164,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="451"/>
       <source>Export/import models and labelmaps</source>
-      <translation>导出/导入模型和标签图</translation>
+      <translation>导出/导入模型和标签映射</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="483"/>
@@ -11179,7 +11179,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="506"/>
       <source>Labelmap</source>
-      <translation>标签图</translation>
+      <translation>标签映射</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="516"/>
@@ -11235,7 +11235,7 @@ Please choose an empty directory.</source>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="609"/>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="619"/>
       <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
-      <translation>导出的标签图几何形状将与此数据的几何形状匹配</translation>
+      <translation>导出的标签映射几何形状将与此数据的几何形状匹配</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="612"/>
@@ -11260,7 +11260,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="673"/>
       <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
-      <translation>导入标签图的标签将被映射到此上下文的术语条目中</translation>
+      <translation>导入标签映射的标签将被映射到此上下文的术语条目中</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="679"/>
@@ -11280,7 +11280,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="742"/>
       <source>Binary labelmap layers</source>
-      <translation>二进制标签图图层</translation>
+      <translation>二进制标签映射图层</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="751"/>
@@ -11316,7 +11316,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="797"/>
       <source>Collapse labelmap layers</source>
-      <translation>折叠标签图层</translation>
+      <translation>折叠标签映射图层</translation>
     </message>
   </context>
   <context>
@@ -11344,7 +11344,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1041"/>
       <source>Failed to import labelmap volume</source>
-      <translation>导入标签图数据失败</translation>
+      <translation>导入标签映射数据失败</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1052"/>
@@ -14146,7 +14146,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="36"/>
       <source>Load the volume as a labelmap (each voxel value representing a segmented structure).</source>
-      <translation>将数据加载为标签图(每个体素值表示分割结构)。</translation>
+      <translation>将数据加载为标签映射(每个体素值表示分割结构)。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="43"/>
@@ -14219,7 +14219,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
       <source>Convert to LabelMap:</source>
-      <translation>转换为标签图：</translation>
+      <translation>转换为标签映射：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="121"/>
@@ -14249,7 +14249,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="131"/>
       <source>Convert to label map:</source>
-      <translation>转换为标签图：</translation>
+      <translation>转换为标签映射：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
