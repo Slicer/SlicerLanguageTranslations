@@ -9215,7 +9215,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="984"/>
       <source>2x2 viewers</source>
-      <translation>2x2 视窗</translation>
+      <translation>2x2视窗</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="993"/>
