@@ -533,7 +533,7 @@
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
       <source>Pull data from remote server:</source>
-      <translation>从远程服务器拉取数据:</translation>
+      <translation>从远程服务器拉取数据：</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
@@ -10362,7 +10362,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
       <source>Adjust</source>
-      <translation>调整</translation>
+      <translation>鼠标调整</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
@@ -11020,7 +11020,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
       <source>Automatic Segment Opacities</source>
-      <translation>自动分割透明度</translation>
+      <translation>自动分割不透明度</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="51"/>
@@ -11374,7 +11374,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
       <source>Automatic segment opacities:</source>
-      <translation>自动分割透明度：</translation>
+      <translation>自动分割不透明度：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="59"/>
@@ -11831,7 +11831,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
       <source>Enable QtTesting:</source>
-      <translation>启用 QtT测试：</translation>
+      <translation>启用Qt测试：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="51"/>
@@ -11861,7 +11861,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
       <source>Preserve CLI module data files:</source>
-      <translation>保留CLI 模块数据文件：</translation>
+      <translation>保留CLI模块数据文件：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="118"/>
@@ -11884,7 +11884,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="45"/>
       <source>Extensions server URL:</source>
-      <translation>扩展服务器 URL：</translation>
+      <translation>扩展服务器URL：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="55"/>
@@ -11894,7 +11894,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="65"/>
       <source>Extensions installation path:</source>
-      <translation>扩展安装路径：</translation>
+      <translation>扩展模块安装路径：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="93"/>
@@ -11961,7 +11961,7 @@ Default: https://slicer.readthedocs.io/{language}/{version}</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
       <source>Max. number of &apos;Recently Loaded&apos; menu items:</source>
-      <translation>&apos;最近加载的菜单项最大数量&apos;</translation>
+      <translation>最近加载的菜单项最大数量：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
@@ -11981,7 +11981,7 @@ Default: https://slicer.readthedocs.io/{language}/{version}</source>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
       <source>Module documentation URL:</source>
-      <translation>模块文档 URL：</translation>
+      <translation>模块文档URL：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="188"/>
@@ -12110,7 +12110,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="337"/>
       <source>Modules:</source>
-      <translation>模块：</translation>
+      <translation>模块列表：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="399"/>
@@ -12180,7 +12180,8 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="675"/>
       <source>Favorite Modules:&lt;br&gt;&lt;small&gt;&lt;i&gt;Drag &amp;amp; drop from &lt;/i&gt;Modules&lt;i&gt; list&lt;/i&gt;&lt;/small&gt;</source>
-      <translation>收藏模块：&lt;br&gt;&lt;small&gt;&lt;i&gt;从 &lt;/i&gt;模块&lt;i&gt; 列表&lt;/i&gt;&lt;/small&gt;拖放到此处</translation>
+      <translation>喜爱的模块：
+&lt;/i&gt;从模块列表拖放到此处&lt;/i&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="752"/>
@@ -12328,7 +12329,7 @@ p, li v. white-space: pre-wraward; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
       <source>Style</source>
-      <translation>样式</translation>
+      <translation>选择软件样式：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="130"/>
@@ -12377,7 +12378,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li own white-space: pre-wraward; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;自定义应用程序&apos;s 字体和大小到您的偏好.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;按您的偏好自定义应用程序的字体和字号.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
@@ -12592,7 +12593,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="308"/>
       <source>Multi-sampling (MSAA):</source>
-      <translation>多采样(MSAA)：</translation>
+      <translation>多重采样(MSAA)：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="321"/>
@@ -12605,7 +12606,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li own white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;使用多采样进行全屏反锯齿。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;使用多重采样进行全屏反锯齿。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -12756,7 +12757,7 @@ p, li own white-space: pre-wrap; }
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
       <source>Study tags in item name:</source>
-      <translation>项目名称的学习标签：</translation>
+      <translation>项目名称中的学习标签：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="135"/>
@@ -13946,7 +13947,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="222"/>
       <source>Display ROI</source>
-      <translation>显示 ROI</translation>
+      <translation>显示ROI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="243"/>
@@ -14021,7 +14022,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="458"/>
       <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-      <translation>Don&apos;t 使用阈值，请从窗宽/窗位范围中设置透明度渐变。</translation>
+      <translation>不要使用阈值，请从窗宽/窗位范围中设置透明度渐变。</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="461"/>
@@ -14083,12 +14084,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="37"/>
       <source>Default quality:</source>
-      <translation>默认质量:</translation>
+      <translation>默认质量：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="44"/>
       <source>GPU memory size:</source>
-      <translation>GPU 内存大小：</translation>
+      <translation>GPU内存大小：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
