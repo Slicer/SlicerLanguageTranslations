@@ -2965,7 +2965,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
       <source>Range used to threshold scalar values.</source>
-      <translation type="unfinished">Range used to threshold scalar values.</translation>
+      <translation>Диапазон, используемый для пороговых скалярных значений.</translation>
     </message>
   </context>
   <context>
@@ -2973,27 +2973,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
       <source>New Scene</source>
-      <translation type="unfinished">New Scene</translation>
+      <translation>Новая Сцена</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
       <source>Delete Scene</source>
-      <translation type="unfinished">Delete Scene</translation>
+      <translation>Удалить Сцену</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
       <source>New Node</source>
-      <translation type="unfinished">New Node</translation>
+      <translation>Новый Узел</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="61"/>
       <source>Delete Node</source>
-      <translation type="unfinished">Delete Node</translation>
+      <translation>Удалить Узел</translation>
     </message>
   </context>
   <context>
@@ -3001,7 +3001,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="395"/>
       <source>Checked: Force color to children</source>
-      <translation type="unfinished">Checked: Force color to children</translation>
+      <translation>Отмечено: Принудительный цвет для дочерних элементов</translation>
     </message>
   </context>
   <context>
@@ -3009,7 +3009,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSceneViewMenu.cxx" line="257"/>
       <source>No scene views</source>
-      <translation type="unfinished">No scene views</translation>
+      <translation>Нет просмотрщиков сцены</translation>
     </message>
   </context>
   <context>
@@ -3017,62 +3017,62 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Имя:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
       <source>Thumbnail:</source>
-      <translation type="unfinished">Thumbnail:</translation>
+      <translation>Миниатюра:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
       <source>Full layout</source>
-      <translation type="unfinished">Full layout</translation>
+      <translation>Все компоновка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
       <source>3D View</source>
-      <translation type="unfinished">3D View</translation>
+      <translation>Вид 3D</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
       <source>Red Slice View</source>
-      <translation type="unfinished">Red Slice View</translation>
+      <translation>Просмотр Красных Срезов</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="83"/>
       <source>Yellow Slice View</source>
-      <translation type="unfinished">Yellow Slice View</translation>
+      <translation>Просмотр Желтых Срезов</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="94"/>
       <source>Green Slice View</source>
-      <translation type="unfinished">Green Slice View</translation>
+      <translation>Просмотр Зеленых Срезов</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="138"/>
       <source>Scale factor:</source>
-      <translation type="unfinished">Scale factor:</translation>
+      <translation>Масштаб:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="145"/>
       <source>Adjust the Magnification factor.</source>
-      <translation type="unfinished">Adjust the Magnification factor.</translation>
+      <translation>Настройка коэффициента увеличения.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="154"/>
       <source>x</source>
-      <translation type="unfinished">x</translation>
+      <translation>⨯</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="173"/>
       <source>Save As...:</source>
-      <translation type="unfinished">Save As...:</translation>
+      <translation>Сохранить как...:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="180"/>
       <source>Description:</source>
-      <translation type="unfinished">Description:</translation>
+      <translation>Описание:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
