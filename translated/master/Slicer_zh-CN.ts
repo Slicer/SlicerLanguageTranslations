@@ -3192,12 +3192,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="222"/>
       <source>Redo last editing operation</source>
-      <translation>重做上次编辑操作</translation>
+      <translation>恢复上次编辑操作</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="225"/>
       <source>Redo</source>
-      <translation>重做</translation>
+      <translation>恢复</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="262"/>
@@ -6814,12 +6814,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="96"/>
       <source>Visual Blog</source>
-      <translation>可视博客</translation>
+      <translation>图文博客</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="97"/>
       <source>Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</source>
-      <translation>使用你最喜欢的网络浏览器打开Slicer 可视博客，在那里你可以发布你在研究中使用Slicer软件包的有趣方式的截图，并与Slicer社区分享。</translation>
+      <translation>使用你最喜欢的网络浏览器打开Slicer图文博客，在那里可以发布你在研究中使用Slicer软件包的有趣方式的截图，并与Slicer社区分享。</translation>
     </message>
     <message>
       <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="101"/>
@@ -8674,7 +8674,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
       <source>Undo Redo ToolBar</source>
-      <translation>撤消重做工具栏</translation>
+      <translation>撤消恢复工具栏</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>
@@ -8892,12 +8892,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="479"/>
       <source>Redo</source>
-      <translation>重做</translation>
+      <translation>恢复</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="482"/>
       <source>Redo the history of commands most recently undone, from last to first.</source>
-      <translation>从最后一个到第一个，重做最近撤消的命令的历史记录。</translation>
+      <translation>从最后一个到第一个，恢复最近撤消的命令的历史记录。</translation>
     </message>
     <message>
       <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="485"/>
@@ -12079,7 +12079,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
       <source>Temporary directory:</source>
-      <translation>临时目录：</translation>
+      <translation>临时文件目录：</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
@@ -12180,7 +12180,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="675"/>
       <source>Favorite Modules:&lt;br&gt;&lt;small&gt;&lt;i&gt;Drag &amp;amp; drop from &lt;/i&gt;Modules&lt;i&gt; list&lt;/i&gt;&lt;/small&gt;</source>
-      <translation>喜爱模块：&lt;br&gt;&lt;small&gt;&lt;i&gt;拖 &amp; 放从 &lt;/i&gt;模块&lt;i&gt; 列表&lt;/i&gt;&lt;/small&gt;</translation>
+      <translation>收藏模块：&lt;br&gt;&lt;small&gt;&lt;i&gt;从 &lt;/i&gt;模块&lt;i&gt; 列表&lt;/i&gt;&lt;/small&gt;拖放到此处</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="752"/>
@@ -12499,7 +12499,7 @@ p, li own white-space: pre-wrap; }
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="65"/>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="202"/>
       <source>cube</source>
-      <translation>立方形</translation>
+      <translation>立方体</translation>
     </message>
     <message>
       <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="70"/>
