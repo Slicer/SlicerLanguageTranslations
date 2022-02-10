@@ -3077,17 +3077,17 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
       <source>Save snapshot via File Save. Edit in Annotations module.</source>
-      <translation type="unfinished">Save snapshot via File Save. Edit in Annotations module.</translation>
+      <translation>Сохранить снимок через Файл Сохранения. Редактировать в модуле аннотаций.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
       <source>Save File</source>
-      <translation type="unfinished">Save File</translation>
+      <translation>Сохранить Файл</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
       <source>Images (*.png *.jpg)</source>
-      <translation type="unfinished">Images (*.png *.jpg)</translation>
+      <translation>Изображения (*.png *.jpg)</translation>
     </message>
   </context>
   <context>
@@ -3095,139 +3095,139 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
       <source>qMRMLSegmentEditorWidget</source>
-      <translation type="unfinished">qMRMLSegmentEditorWidget</translation>
+      <translation>qMRMLSegmentEditorWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
       <source>Master volume:</source>
-      <translation type="unfinished">Master volume:</translation>
+      <translation>Главное Изображение:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="29"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="34"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="78"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
       <source>Select master volume to enable editing</source>
-      <translation type="unfinished">Select master volume to enable editing</translation>
+      <translation>Выберите главное изображение для редактирования</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
       <source>Segmentation:</source>
-      <translation type="unfinished">Segmentation:</translation>
+      <translation>Сегментация:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
       <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-      <translation type="unfinished">Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</translation>
+      <translation>Укажите геометрию (начало сетки, расстояние между соседними элементами, направление осей и размер по умолчанию) представления отредактированной карты ярлыков</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
       <source>Specify geometry of the edited labelmap representation</source>
-      <translation type="unfinished">Specify geometry of the edited labelmap representation</translation>
+      <translation>Укажите геометрию представления отредактированной карты ярлыков</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
       <source>Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</source>
-      <translation type="unfinished">Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</translation>
+      <translation>Ориентация просмотрщиков срезов не совпадает с сегментацией. Могут появиться полосы в качестве артефактов. Нажмите, чтобы выровнять просмотрщик среза к сегментации.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="93"/>
       <source>Slice rotated</source>
-      <translation type="unfinished">Slice rotated</translation>
+      <translation>Повернутый срез</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="113"/>
       <source>Add new empty segment</source>
-      <translation type="unfinished">Add new empty segment</translation>
+      <translation>Добавить новый пустой сегмент</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="116"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Добавить</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="127"/>
       <source>Remove selected segment(s)</source>
-      <translation type="unfinished">Remove selected segment(s)</translation>
+      <translation>Удалить выбранный сегмент(ы)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="130"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Удалить</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="141"/>
       <source> Show 3D</source>
-      <translation type="unfinished"> Show 3D</translation>
+      <translation> Показать 3D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="155"/>
       <source>Go to Segmentations module</source>
-      <translation type="unfinished">Go to Segmentations module</translation>
+      <translation>Перейти к модулю Сегментация</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="158"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="417"/>
       <source>Segmentations</source>
-      <translation type="unfinished">Segmentations</translation>
+      <translation>Сегментация</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="202"/>
       <source>Undo last editing operation</source>
-      <translation type="unfinished">Undo last editing operation</translation>
+      <translation>Отменить последнюю операцию редактирования</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="205"/>
       <source>Undo</source>
-      <translation type="unfinished">Undo</translation>
+      <translation>Отмена</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="222"/>
       <source>Redo last editing operation</source>
-      <translation type="unfinished">Redo last editing operation</translation>
+      <translation>Повторить последнюю операцию редактирования</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="225"/>
       <source>Redo</source>
-      <translation type="unfinished">Redo</translation>
+      <translation>Повтор</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="262"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="305"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Настройки</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="344"/>
       <source>Show details.</source>
-      <translation type="unfinished">Show details.</translation>
+      <translation>Подробнее.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="363"/>
       <source>Masking</source>
-      <translation type="unfinished">Masking</translation>
+      <translation>Маскирование</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="387"/>
       <source>Editable area:</source>
-      <translation type="unfinished">Editable area:</translation>
+      <translation>Редактируемая площадь:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="401"/>
       <source>Editable intensity range:</source>
-      <translation type="unfinished">Editable intensity range:</translation>
+      <translation>Редактируемый диапазон интенсивности:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="408"/>
