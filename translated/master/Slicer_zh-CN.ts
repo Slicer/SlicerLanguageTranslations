@@ -330,7 +330,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
       <source>Times</source>
-      <translation>倍数</translation>
+      <translation>Times</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
@@ -1095,7 +1095,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
       <source>V:</source>
-      <translation>竖直：</translation>
+      <translation>垂直：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
@@ -1110,7 +1110,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
       <source>S:</source>
-      <translation>短边：</translation>
+      <translation>粗细：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
@@ -1125,7 +1125,7 @@
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
       <source>L:</source>
-      <translation>长边：</translation>
+      <translation>长短：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
@@ -3571,7 +3571,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
       <source>Use color table values:</source>
-      <translation>使用颜色表值：</translation>
+      <translation>使用颜色表数值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
@@ -11250,7 +11250,7 @@ Please choose an empty directory.</source>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="640"/>
       <source>Use color table values:</source>
-      <translation>使用颜色表值：</translation>
+      <translation>使用颜色表数值：</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="656"/>
