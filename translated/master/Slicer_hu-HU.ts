@@ -130,7 +130,7 @@
     <message>
       <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
       <source>ROI</source>
-      <translation type="unfinished">ROI</translation>
+      <translation>Régió</translation>
     </message>
   </context>
   <context>
