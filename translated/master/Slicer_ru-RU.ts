@@ -3277,22 +3277,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="412"/>
       <source>Overwrite visible</source>
-      <translation type="unfinished">Overwrite visible</translation>
+      <translation>Перезаписать видимые</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="413"/>
       <source>Allow overlap</source>
-      <translation type="unfinished">Allow overlap</translation>
+      <translation>Разрешить перекрытие</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="428"/>
       <source>Show 3D</source>
-      <translation type="unfinished">Show 3D</translation>
+      <translation>Показать 3D</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="430"/>
       <source>Surface smoothing</source>
-      <translation type="unfinished">Surface smoothing</translation>
+      <translation>Сглаживание поверхности</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="431"/>
@@ -3302,27 +3302,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="436"/>
       <source>Smoothing factor</source>
-      <translation type="unfinished">Smoothing factor</translation>
+      <translation>Фактор сглаживания</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="441"/>
       <source>Higher value means stronger smoothing during closed surface representation conversion.</source>
-      <translation type="unfinished">Higher value means stronger smoothing during closed surface representation conversion.</translation>
+      <translation>Чем выше значение тем больше сглаживание при преобразовании представления замкнутой поверхности.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1438"/>
       <source>Change master representation to binary labelmap?</source>
-      <translation type="unfinished">Change master representation to binary labelmap?</translation>
+      <translation>Изменить главное представление на двоичную карту лейблов?</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1461"/>
       <source>Failed to create binary labelmap for editing</source>
-      <translation type="unfinished">Failed to create binary labelmap for editing</translation>
+      <translation>Не удалось создать бинарную карту лейблов для редактирования</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2445"/>
       <source>Inside </source>
-      <translation type="unfinished">Inside </translation>
+      <translation>Внутри </translation>
     </message>
   </context>
   <context>
@@ -3330,22 +3330,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="14"/>
       <source>qMRMLSegmentSelectorWidget</source>
-      <translation type="unfinished">qMRMLSegmentSelectorWidget</translation>
+      <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
       <source>Segment: </source>
-      <translation type="unfinished">Segment: </translation>
+      <translation>Сегмент: </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
       <source>Messages label</source>
-      <translation type="unfinished">Messages label</translation>
+      <translation>Лейбл сообщений</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="108"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
   </context>
   <context>
@@ -3353,52 +3353,52 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="14"/>
       <source>Segmentation conversion parameters</source>
-      <translation type="unfinished">Segmentation conversion parameters</translation>
+      <translation>Параметры преобразования сегментации</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
       <source>Converting</source>
-      <translation type="unfinished">Converting</translation>
+      <translation>Преобразование</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
       <source>Closed surface model</source>
-      <translation type="unfinished">Closed surface model</translation>
+      <translation>Модель с замкнутой поверхностью</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
       <source>in</source>
-      <translation type="unfinished">in</translation>
+      <translation>в</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
       <source>Segmentation</source>
-      <translation type="unfinished">Segmentation</translation>
+      <translation>Сегментация</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="83"/>
       <source>1. Conversion path</source>
-      <translation type="unfinished">1. Conversion path</translation>
+      <translation>1. Путь преобразования</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
       <source>Estimated relative cost</source>
-      <translation type="unfinished">Estimated relative cost</translation>
+      <translation>Предполагаемые относительные затраты</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Путь</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="127"/>
       <source>2. Conversion parameters</source>
-      <translation type="unfinished">2. Conversion parameters</translation>
+      <translation>2. Параметры преобразования</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Имя</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
@@ -3408,17 +3408,17 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
       <source>Convert</source>
-      <translation type="unfinished">Convert</translation>
+      <translation>Преобразовать</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
       <source>Specify geometry</source>
-      <translation type="unfinished">Specify geometry</translation>
+      <translation>Укажите геометрию</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>Преобразование не удалось</translation>
     </message>
   </context>
   <context>
@@ -3426,12 +3426,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="14"/>
       <source>qMRMLSegmentationDisplayNodeWidget</source>
-      <translation type="unfinished">qMRMLSegmentationDisplayNodeWidget</translation>
+      <translation>qMRMLSegmentationDisplayNodeWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="48"/>
       <source>Overall visibility:</source>
-      <translation type="unfinished">Overall visibility:</translation>
+      <translation>Общая видимость:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="55"/>
@@ -3442,19 +3442,19 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="105"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="372"/>
       <source>Slice fill:</source>
-      <translation type="unfinished">Slice fill:</translation>
+      <translation>Заполнение среза:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="118"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="358"/>
       <source>Slice outline:</source>
-      <translation type="unfinished">Slice outline:</translation>
+      <translation>Контур среза:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="125"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="425"/>
       <source>3D:</source>
-      <translation type="unfinished">3D:</translation>
+      <translation>3D:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="138"/>
@@ -3466,32 +3466,32 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="225"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="392"/>
       <source>Visibility</source>
-      <translation type="unfinished">Visibility</translation>
+      <translation>Видимость</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="252"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Расширенный режим</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="282"/>
       <source>Views:</source>
-      <translation type="unfinished">Views:</translation>
+      <translation>Просмотрщики:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="289"/>
       <source> px</source>
-      <translation type="unfinished"> px</translation>
+      <translation> пикс.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="299"/>
       <source>Representation in 2D views:</source>
-      <translation type="unfinished">Representation in 2D views:</translation>
+      <translation>Отображение в 2D видах:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="306"/>
       <source>Representation that is shown in 3D (models only)</source>
-      <translation type="unfinished">Representation that is shown in 3D (models only)</translation>
+      <translation>Представление в 3D (только для моделей)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="313"/>
