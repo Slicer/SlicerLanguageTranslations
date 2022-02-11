@@ -3232,47 +3232,47 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="408"/>
       <source>Only those regions are allowed to be changed where the master volume intensity is in the specified range</source>
-      <translation type="unfinished">Only those regions are allowed to be changed where the master volume intensity is in the specified range</translation>
+      <translation>Только эти регионы могут быть изменены, если интенсивность главного изображения находится в указанном диапазоне</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="425"/>
       <source>Modify other segments:</source>
-      <translation type="unfinished">Modify other segments:</translation>
+      <translation>Изменить другие сегменты:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="432"/>
       <source>Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</source>
-      <translation type="unfinished">Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</translation>
+      <translation>Управляет какие сегменты будут перезаписывать текущий сегмент. Сегменты, которые не будут перезаписаны, могут пересекаться (накладываться) с выбранным сегментом.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="403"/>
       <source>Everywhere</source>
-      <translation type="unfinished">Everywhere</translation>
+      <translation>Везде</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="404"/>
       <source>Inside all segments</source>
-      <translation type="unfinished">Inside all segments</translation>
+      <translation>Внутри всех сегментов</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="405"/>
       <source>Inside all visible segments</source>
-      <translation type="unfinished">Inside all visible segments</translation>
+      <translation>Внутри всех видимых сегментов</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="406"/>
       <source>Outside all segments</source>
-      <translation type="unfinished">Outside all segments</translation>
+      <translation>Снаружи всех сегментов</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="407"/>
       <source>Outside all visible segments</source>
-      <translation type="unfinished">Outside all visible segments</translation>
+      <translation>Снаружи всех видимых сегментов</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="411"/>
       <source>Overwrite all</source>
-      <translation type="unfinished">Overwrite all</translation>
+      <translation>Перезависать все</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="412"/>
