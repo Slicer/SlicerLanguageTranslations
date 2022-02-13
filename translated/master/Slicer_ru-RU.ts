@@ -3541,132 +3541,132 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="45"/>
       <source>Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</source>
-      <translation type="unfinished">Adjust the exported model size. Point coordinates in the exported model will be multiplied by this number. By default Slicer uses millimeter unit for coordinates.</translation>
+      <translation>Регулирует размер экспортируемой модели. Координаты точек в экспортируемой модели будут умножены на это число. По умолчанию Slicer использует размерность миллиметров для координат.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="79"/>
       <source>vtkMRMLColorTableNode</source>
-      <translation type="unfinished">vtkMRMLColorTableNode</translation>
+      <translation>vtkMRMLColorTableNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
       <source>Destination folder: </source>
-      <translation type="unfinished">Destination folder: </translation>
+      <translation>Конечная директория: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="106"/>
       <source>Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</source>
-      <translation type="unfinished">Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</translation>
+      <translation>Оси выходной модели XYZ преобразуются с LPS (левый-задний-сверху) или RAS (правый-передний-сверху) направления осей в пациенте. LPS используется гораздо чаще.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
       <source>LPS</source>
-      <translation type="unfinished">LPS</translation>
+      <translation>LPS</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="115"/>
       <source>RAS</source>
-      <translation type="unfinished">RAS</translation>
+      <translation>RAS</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
       <source>Use color table values:</source>
-      <translation type="unfinished">Use color table values:</translation>
+      <translation>Использовать значения цветовой таблицы:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
       <source>File format:</source>
-      <translation type="unfinished">File format:</translation>
+      <translation>Формат файла:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="137"/>
       <source>Coordinate system: </source>
-      <translation type="unfinished">Coordinate system: </translation>
+      <translation>Система координат: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="150"/>
       <source>Only export those segments that are currently visible.</source>
-      <translation type="unfinished">Only export those segments that are currently visible.</translation>
+      <translation>Экспортировать только те сегменты, которые в настоящее время видны.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="160"/>
       <source>Merge into single file:</source>
-      <translation type="unfinished">Merge into single file:</translation>
+      <translation>Объединить в один файл:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="167"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>Экспорт</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="180"/>
       <source>Open destination folder when export is completed.</source>
-      <translation type="unfinished">Open destination folder when export is completed.</translation>
+      <translation>Открыть директорию назначения после завершения экспорта.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="211"/>
       <source>Browse to destination folder</source>
-      <translation type="unfinished">Browse to destination folder</translation>
+      <translation>Выбрать директорию назначения</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="214"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
       <source>Size scale:</source>
-      <translation type="unfinished">Size scale:</translation>
+      <translation>Множитель:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="239"/>
       <source>Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</source>
-      <translation type="unfinished">Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</translation>
+      <translation>Экспортировать все сегменты в один OBJ файл. Всегда доступно для OBJ файлов, так как сегменты можно выделить по материалу.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="258"/>
       <source>Export all segments to a single output STL file.</source>
-      <translation type="unfinished">Export all segments to a single output STL file.</translation>
+      <translation>Экспортировать все сегменты в один выходной STL файл.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="278"/>
       <source>STL</source>
-      <translation type="unfinished">STL</translation>
+      <translation>STL</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="283"/>
       <source>OBJ</source>
-      <translation type="unfinished">OBJ</translation>
+      <translation>OBJ</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="288"/>
       <source>NRRD</source>
-      <translation type="unfinished">NRRD</translation>
+      <translation>NRRD</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="293"/>
       <source>NIFTI</source>
-      <translation type="unfinished">NIFTI</translation>
+      <translation>NIFTI</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="301"/>
       <source>Use compression:</source>
-      <translation type="unfinished">Use compression:</translation>
+      <translation>Использовать сжатие:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="308"/>
       <source>Show destination folder:</source>
-      <translation type="unfinished">Show destination folder:</translation>
+      <translation>Показать директорию назначения:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="315"/>
       <source>Reference volume:</source>
-      <translation type="unfinished">Reference volume:</translation>
+      <translation>Исходное изображение:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="322"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
   </context>
   <context>
@@ -3674,84 +3674,84 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="14"/>
       <source>SegmentationGeometryWidget</source>
-      <translation type="unfinished">SegmentationGeometryWidget</translation>
+      <translation>SegmentationGeometryWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="59"/>
       <source>Source geometry:</source>
-      <translation type="unfinished">Source geometry:</translation>
+      <translation>Начальная геометрия:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLScalarVolumeNode</source>
-      <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+      <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLSegmentationNode</source>
-      <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+      <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLModelNode</source>
-      <translation type="unfinished">vtkMRMLModelNode</translation>
+      <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLMarkupsROINode</source>
-      <translation type="unfinished">vtkMRMLMarkupsROINode</translation>
+      <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
       <source>vtkMRMLAnnotationROINode</source>
-      <translation type="unfinished">vtkMRMLAnnotationROINode</translation>
+      <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="84"/>
       <source>Showing current segmentation labelmap geometry. Click here to change</source>
-      <translation type="unfinished">Showing current segmentation labelmap geometry. Click here to change</translation>
+      <translation>Показывать геометрию карты сегментации. Нажмите здесь, чтобы изменить</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="91"/>
       <source>Volume spacing options</source>
-      <translation type="unfinished">Volume spacing options</translation>
+      <translation>Параметры шага вокселов в объёмном изображении</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="115"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="125"/>
       <source>Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</source>
-      <translation type="unfinished">Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</translation>
+      <translation>Разделить каждый воксел объёмного изображения на много вокселей вдоль каждого направления. Полезно при увеличении разрешения</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="118"/>
       <source>Oversampling factor:</source>
-      <translation type="unfinished">Oversampling factor:</translation>
+      <translation>Множитель:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="144"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="154"/>
       <source>Resample the volume to have isotropic spacing, which means the voxels will be cubes. Use smallest spacing. Useful if the volume has elongated voxels.</source>
-      <translation type="unfinished">Resample the volume to have isotropic spacing, which means the voxels will be cubes. Use smallest spacing. Useful if the volume has elongated voxels.</translation>
+      <translation>Переразбить объёмное изображение чтобы оно имело одинаковый шаг между вокселами - это означает, что вокселы будут кубиками. Использовать наименьший шаг. Полезно, если объёмное изображение имеет вытянутые вокселы.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="147"/>
       <source>Isotropic spacing:</source>
-      <translation type="unfinished">Isotropic spacing:</translation>
+      <translation>Одинаковый размер:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="170"/>
       <source>Segmentation labelmap geometry</source>
-      <translation type="unfinished">Segmentation labelmap geometry</translation>
+      <translation>Геометрия карты сегментации</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="194"/>
       <source>Directions:</source>
-      <translation type="unfinished">Directions:</translation>
+      <translation>Направления:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="201"/>
       <source>Origin:</source>
-      <translation type="unfinished">Origin:</translation>
+      <translation>Начало координат:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="208"/>
