@@ -3496,34 +3496,34 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="313"/>
       <source>Representation that is shown as a model in 3D and as slice intersections in 2D if exists</source>
-      <translation type="unfinished">Representation that is shown as a model in 3D and as slice intersections in 2D if exists</translation>
+      <translation>Представление, отображаемое как модель в 3D и как пересечение срезов в 2D, если существует</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="316"/>
       <source>Representation in 3D views:</source>
-      <translation type="unfinished">Representation in 3D views:</translation>
+      <translation>Представление в 3D просмотрщиках:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="323"/>
       <source>Representation that is shown in the 2D slice views</source>
-      <translation type="unfinished">Representation that is shown in the 2D slice views</translation>
+      <translation>Представление, которое отображается в 2D просмотрщиках срезов</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="330"/>
       <source>Slice intersection thickness:</source>
-      <translation type="unfinished">Slice intersection thickness:</translation>
+      <translation>Толщина пересечения срезов:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="337"/>
       <source>Selected segment</source>
-      <translation type="unfinished">Selected segment</translation>
+      <translation>Выбранный сегмент</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="432"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="451"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="470"/>
       <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-      <translation type="unfinished">Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</translation>
+      <translation>Значение относительно других сегментов. Окончательная непрозрачность зависит как от прозрачности других сегментов так и от общей прозрачности (см. выше)</translation>
     </message>
   </context>
   <context>
@@ -3531,12 +3531,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="14"/>
       <source>qMRMLSegmentationFileExportWidget</source>
-      <translation type="unfinished">qMRMLSegmentationFileExportWidget</translation>
+      <translation>qMRMLSegmentationFileExportWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
       <source>Visible segments only: </source>
-      <translation type="unfinished">Visible segments only: </translation>
+      <translation>Только видимые сегменты: </translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="45"/>
