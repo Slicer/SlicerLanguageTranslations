@@ -3756,23 +3756,23 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="208"/>
       <source>Spacing:</source>
-      <translation type="unfinished">Spacing:</translation>
+      <translation>Интервал:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="240"/>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="263"/>
       <source>length</source>
-      <translation type="unfinished">length</translation>
+      <translation>длина</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="247"/>
       <source>Dimensions:</source>
-      <translation type="unfinished">Dimensions:</translation>
+      <translation>Размеры:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="323"/>
       <source>Error message</source>
-      <translation type="unfinished">Error message</translation>
+      <translation>Сообщение об ошибке</translation>
     </message>
   </context>
   <context>
@@ -3780,46 +3780,46 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="26"/>
       <source>qMRMLSegmentationRepresentationsListView</source>
-      <translation type="unfinished">qMRMLSegmentationRepresentationsListView</translation>
+      <translation>qMRMLSegmentRepresentationsListView</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
       <source>No node selected</source>
-      <translation type="unfinished">No node selected</translation>
+      <translation>Узел не выбран</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="169"/>
       <source>No node is selected</source>
-      <translation type="unfinished">No node is selected</translation>
+      <translation>Узел не выбран</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="208"/>
       <source>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
-      <translation type="unfinished">This is the master representation.
-  1. This representation is saved on disk
-  2. If this representation is modified, the others are cleared</translation>
+      <translation>Это основное представление.
+  1. Это представление сохраняется на диске
+  2. Если это представление изменяется, другие очищаются</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="213"/>
       <source>This representation is present</source>
-      <translation type="unfinished">This representation is present</translation>
+      <translation>Это представление присутствует</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="221"/>
       <source>This representation is not present</source>
-      <translation type="unfinished">This representation is not present</translation>
+      <translation>Это представление отсутствует</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="314"/>
       <source>Conversion failed</source>
-      <translation type="unfinished">Conversion failed</translation>
+      <translation>Преобразование не удалось</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="409"/>
       <source>Confirm master representation change</source>
-      <translation type="unfinished">Confirm master representation change</translation>
+      <translation>Подтвердите изменение мастер-представления</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="410"/>
@@ -3829,12 +3829,12 @@ This may mean losing important data that cannot be created again from the new ma
 (Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing master representation?</source>
-      <translation type="unfinished">Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
+      <translation>Изменение мастер-представления сделает выбранное представление &apos;золотым стандартом&apos; и приведет к удалению всех других представлений.
+Это может означать потерю важных данных, которые не могут быть созданы заново из нового мастер-представления.
 
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
+(Напоминание: Мастер-представление - это тип данных, который сохраняется на диск, и который используется в качестве входных данных при создании других представлений)
 
-Do you wish to proceed with changing master representation?</translation>
+Вы хотите продолжить изменение мастер-представления?</translation>
     </message>
   </context>
   <context>
@@ -3842,17 +3842,17 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
       <source>Segment name</source>
-      <translation type="unfinished">Segment name</translation>
+      <translation>Название сегмента</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="139"/>
       <source>Segment visibility</source>
-      <translation type="unfinished">Segment visibility</translation>
+      <translation>Видимость сегмента</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="140"/>
       <source>Segment color</source>
-      <translation type="unfinished">Segment color</translation>
+      <translation>Цвет сегмента</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="141"/>
@@ -3862,7 +3862,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="142"/>
       <source>Segment status</source>
-      <translation type="unfinished">Segment status</translation>
+      <translation>Статус сегмента</translation>
     </message>
   </context>
   <context>
@@ -3870,47 +3870,47 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="20"/>
       <source>qMRMLSegmentsTableView</source>
-      <translation type="unfinished">qMRMLSegmentsTableView</translation>
+      <translation>qMRMLSegmentsTableView</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
       <source>No node selected</source>
-      <translation type="unfinished">No node selected</translation>
+      <translation>Узел не выбран</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>Фильтр</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="125"/>
       <source>Show/Hide not started segments</source>
-      <translation type="unfinished">Show/Hide not started segments</translation>
+      <translation>Показать/скрыть сегменты с которыми работа не начата</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="148"/>
       <source>Show/Hide in progress segments</source>
-      <translation type="unfinished">Show/Hide in progress segments</translation>
+      <translation>Показать/скрыть сегменты, находящихся в работе</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="171"/>
       <source>Show/Hide completed segments</source>
-      <translation type="unfinished">Show/Hide completed segments</translation>
+      <translation>Показать/скрыть законченные сегменты</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="194"/>
       <source>Show/Hide flagged segments</source>
-      <translation type="unfinished">Show/Hide flagged segments</translation>
+      <translation>Показать/скрыть сегменты, помеченные флажком</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="470"/>
       <source>No node is selected</source>
-      <translation type="unfinished">No node is selected</translation>
+      <translation>Узел не выбран</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
       <source>Empty segmentation</source>
-      <translation type="unfinished">Empty segmentation</translation>
+      <translation>Пустая сегментация</translation>
     </message>
   </context>
   <context>
@@ -3918,52 +3918,52 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
       <source>qMRMLSequenceBrowserPlayWidget</source>
-      <translation type="unfinished">qMRMLSequenceBrowserPlayWidget</translation>
+      <translation>qMRMLSequenceBrowserPlayWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
       <source>First frame</source>
-      <translation type="unfinished">First frame</translation>
+      <translation>Первый кадр</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="40"/>
       <source>Previous frame</source>
-      <translation type="unfinished">Previous frame</translation>
+      <translation>Предыдущий кадр</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="54"/>
       <source>Play/Pause</source>
-      <translation type="unfinished">Play/Pause</translation>
+      <translation>Пуск/Пауза</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="72"/>
       <source>Next frame</source>
-      <translation type="unfinished">Next frame</translation>
+      <translation>Следующий кадр</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="86"/>
       <source>Last frame</source>
-      <translation type="unfinished">Last frame</translation>
+      <translation>Последний кадр</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="100"/>
       <source>fps</source>
-      <translation type="unfinished">fps</translation>
+      <translation>кадр/с</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="122"/>
       <source>Loop playback</source>
-      <translation type="unfinished">Loop playback</translation>
+      <translation>Зацикливание</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="139"/>
       <source>Record proxy nodes modifications continuously</source>
-      <translation type="unfinished">Record proxy nodes modifications continuously</translation>
+      <translation>Постоянно записывать изменения прокси узлов</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="156"/>
       <source>Record snapshot of current state of all proxy nodes</source>
-      <translation type="unfinished">Record snapshot of current state of all proxy nodes</translation>
+      <translation>Записать снимок текущего состояния всех прокси узлов</translation>
     </message>
   </context>
   <context>
@@ -3971,18 +3971,18 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
       <source>qMRMLSequenceBrowserSeekWidget</source>
-      <translation type="unfinished">qMRMLSequenceBrowserSeekWidget</translation>
+      <translation>qMRMLSequenceBrowserSeekWidget</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
       <source>Index name</source>
-      <translation type="unfinished">Index name</translation>
+      <translation>Имя индекса</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
       <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="67"/>
       <source>-</source>
-      <translation type="unfinished">-</translation>
+      <translation>-</translation>
     </message>
   </context>
   <context>
@@ -3990,22 +3990,22 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
       <source>Unit:</source>
-      <translation type="unfinished">Unit:</translation>
+      <translation>Размерность:</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
       <source>Select the current unit node to modify.</source>
-      <translation type="unfinished">Select the current unit node to modify.</translation>
+      <translation>Выберите текущий узел размерности для изменения.</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="36"/>
       <source>vtkMRMLUnitNode</source>
-      <translation type="unfinished">vtkMRMLUnitNode</translation>
+      <translation>vtkMRMLUnitNode</translation>
     </message>
   </context>
   <context>
@@ -4013,33 +4013,33 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="14"/>
       <source>Slice Controller</source>
-      <translation type="unfinished">Slice Controller</translation>
+      <translation>Контроллер Среза</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="51"/>
       <source>Select the label map</source>
-      <translation type="unfinished">Select the label map</translation>
+      <translation>Выберите карту разметок</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="54"/>
       <source>vtkMRMLLabelMapVolumeNode</source>
-      <translation type="unfinished">vtkMRMLLabelMapVolumeNode</translation>
+      <translation>vtkMRMLLabelMapVolumeNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="179"/>
       <source>Select the foreground</source>
-      <translation type="unfinished">Select the foreground</translation>
+      <translation>Выберите передний план</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="182"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="322"/>
       <source>vtkMRMLVolumeNode</source>
-      <translation type="unfinished">vtkMRMLVolumeNode</translation>
+      <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="319"/>
       <source>Select the background</source>
-      <translation type="unfinished">Select the background</translation>
+      <translation>Выберите задний план</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
