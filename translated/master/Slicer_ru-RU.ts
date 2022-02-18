@@ -4044,7 +4044,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
       <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-      <translation type="unfinished">Link slice views. Synchronizes properties of all slice views in the same view group.</translation>
+      <translation>Связать виды срезов. Синхноризирует свойства всех видов срезов в одну групппу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
