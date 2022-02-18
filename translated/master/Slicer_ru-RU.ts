@@ -4044,52 +4044,52 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
       <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-      <translation>Связать виды срезов. Синхноризирует свойства всех видов срезов в одну групппу.</translation>
+      <translation>Связать срезы. Синхноризирует свойства всех срезов в одну групппу.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
       <source>Toggle slice visibility in the 3D view.</source>
-      <translation type="unfinished">Toggle slice visibility in the 3D view.</translation>
+      <translation>Вкл/выкл видимость среза в 3D представлении.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
       <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-      <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat).</translation>
+      <translation>Ориентация среза (Аксиальная, Сагиттальная, Корональная, Реформат).</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="495"/>
       <source>Axial</source>
-      <translation type="unfinished">Axial</translation>
+      <translation>Аксиальная</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="500"/>
       <source>Sagittal</source>
-      <translation type="unfinished">Sagittal</translation>
+      <translation>Сагиттальная</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="505"/>
       <source>Coronal</source>
-      <translation type="unfinished">Coronal</translation>
+      <translation>Корональная</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="510"/>
       <source>Reformat</source>
-      <translation type="unfinished">Reformat</translation>
+      <translation>Реформат</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
       <source>Lightbox view.</source>
-      <translation type="unfinished">Lightbox view.</translation>
+      <translation>Просмотр множества срезов.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="535"/>
       <source>Show reformat widget in 3D view</source>
-      <translation type="unfinished">Show reformat widget in 3D view</translation>
+      <translation>Показывать реформатный виджет в 3D</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="567"/>
       <source>Slice spacing may be set automatically or manually by the user or context</source>
-      <translation type="unfinished">Slice spacing may be set automatically or manually by the user or context</translation>
+      <translation>Интервал между срезами может быть установлен автоматически или вручную пользователем, или контекстом</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="598"/>
@@ -4099,17 +4099,17 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="615"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
       <source>Advanced options</source>
-      <translation type="unfinished">Advanced options</translation>
+      <translation>Дополнительно</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="695"/>
       <source>Hot linked</source>
-      <translation type="unfinished">Hot linked</translation>
+      <translation>Взаимосвязанные</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="698"/>
