@@ -4124,148 +4124,148 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="710"/>
       <source>Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</source>
-      <translation type="unfinished">Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</translation>
+      <translation>Сбросить поле просмотра. Регулирует поле просмотра среза, чтобы совпадать с размером слоя изображения нижнего уровня (задний план, передний план, разметка).</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="722"/>
       <source>Rotate to volume plane</source>
-      <translation type="unfinished">Rotate to volume plane</translation>
+      <translation>Повернуть в плоскость изображения</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
       <source>Hide labelmap outlines</source>
-      <translation type="unfinished">Hide labelmap outlines</translation>
+      <translation>Скрыть рамки карты ярлыков</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="741"/>
       <source>Toggle between showing label map volume with regions outlined or filled.</source>
-      <translation type="unfinished">Toggle between showing label map volume with regions outlined or filled.</translation>
+      <translation>Переключение между показом изображения с картой меток с регионами, очерченными по периметру или заполненными.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
       <source>Show reformat widget</source>
-      <translation type="unfinished">Show reformat widget</translation>
+      <translation>Показать виджет переформатирования</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="762"/>
       <source>Cube</source>
-      <translation type="unfinished">Cube</translation>
+      <translation>Куб</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="770"/>
       <source>Human</source>
-      <translation type="unfinished">Human</translation>
+      <translation>Человек</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="778"/>
       <source>Axes</source>
-      <translation type="unfinished">Axes</translation>
+      <translation>Oси</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="786"/>
       <source>Alpha blend</source>
-      <translation type="unfinished">Alpha blend</translation>
+      <translation>Смешение по альфа-каналу</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="794"/>
       <source>Reverse alpha blend</source>
-      <translation type="unfinished">Reverse alpha blend</translation>
+      <translation>Обратное смешение по альфа-каналу</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="802"/>
       <source>Add</source>
-      <translation type="unfinished">Add</translation>
+      <translation>Сложить</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="810"/>
       <source>Subtract</source>
-      <translation type="unfinished">Subtract</translation>
+      <translation>Вычесть</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="823"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>Автоматически</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="831"/>
       <source>FOV, Spacing match Volumes</source>
-      <translation type="unfinished">FOV, Spacing match Volumes</translation>
+      <translation>FOV, Расстояние соответствует 3D-изображениям</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="839"/>
       <source>FOV, Spacing match 2D</source>
-      <translation type="unfinished">FOV, Spacing match 2D</translation>
+      <translation>FOV, Расстояние соответствует 2D</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="847"/>
       <source>FOV matches 2D, Spacing matches Volumes</source>
-      <translation type="unfinished">FOV matches 2D, Spacing matches Volumes</translation>
+      <translation>FOV соответствует 2D, Расстояние соответствует 3D-изображениям</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="855"/>
       <source>FOV matches Volumes, Spacing matches 2D View</source>
-      <translation type="unfinished">FOV matches Volumes, Spacing matches 2D View</translation>
+      <translation>FOV соответствует 3D-изображениям, Расстояние соответствует 2D виду</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="863"/>
       <source>1x1 view</source>
-      <translation type="unfinished">1x1 view</translation>
+      <translation>Вид 1x1</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="871"/>
       <source>1x2 view</source>
-      <translation type="unfinished">1x2 view</translation>
+      <translation>Вид 1x2</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="879"/>
       <source>1x3 view</source>
-      <translation type="unfinished">1x3 view</translation>
+      <translation>Вид 1x3</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="887"/>
       <source>1x4 view</source>
-      <translation type="unfinished">1x4 view</translation>
+      <translation>Вид 1x4</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="895"/>
       <source>1x6 view</source>
-      <translation type="unfinished">1x6 view</translation>
+      <translation>Вид 1x6</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="903"/>
       <source>1x8 view</source>
-      <translation type="unfinished">1x8 view</translation>
+      <translation>Вид 1x8</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="911"/>
       <source>2x2 view</source>
-      <translation type="unfinished">2x2 view</translation>
+      <translation>Вид 2x2</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="919"/>
       <source>3x3 view</source>
-      <translation type="unfinished">3x3 view</translation>
+      <translation>Вид 3x3</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="927"/>
       <source>6x6 view</source>
-      <translation type="unfinished">6x6 view</translation>
+      <translation>Вид 6x6</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="935"/>
       <source>Foreground volume</source>
-      <translation type="unfinished">Foreground volume</translation>
+      <translation>Изображение на переднем плане</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="943"/>
       <source>Background volume</source>
-      <translation type="unfinished">Background volume</translation>
+      <translation>Изображение на заднем плане</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="951"/>
       <source>Label map volume</source>
-      <translation type="unfinished">Label map volume</translation>
+      <translation>Изображение карты ярлыков</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="967"/>
@@ -4280,52 +4280,52 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="999"/>
       <source>Show LabelMap</source>
-      <translation type="unfinished">Show LabelMap</translation>
+      <translation>Показать карту ярлыков</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1002"/>
       <source>Toggle labelmap visibility</source>
-      <translation type="unfinished">Toggle labelmap visibility</translation>
+      <translation>Переключить видимость карты ярлыков</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
       <source>Show Foreground</source>
-      <translation type="unfinished">Show Foreground</translation>
+      <translation>Показать передний план</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1021"/>
       <source>Toggle foreground visibility</source>
-      <translation type="unfinished">Toggle foreground visibility</translation>
+      <translation>Переключить видимость переднего плана</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
       <source>Show Background</source>
-      <translation type="unfinished">Show Background</translation>
+      <translation>Показать задний план</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1040"/>
       <source>Toggle background visibility</source>
-      <translation type="unfinished">Toggle background visibility</translation>
+      <translation>Переключить видимость заднего плана</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
       <source>Show in 3D</source>
-      <translation type="unfinished">Show in 3D</translation>
+      <translation>Показать на 3D</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
       <source>Toggle slice visibility in 3D view</source>
-      <translation type="unfinished">Toggle slice visibility in 3D view</translation>
+      <translation>Переключить видимость среза на 3D виде</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1064"/>
       <source>Lock Normal To Camera</source>
-      <translation type="unfinished">Lock Normal To Camera</translation>
+      <translation>Заблокировать Нормаль К Камере</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1067"/>
       <source>Lock reformat widget&apos;s normal to the camera one. </source>
-      <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+      <translation>Блокировать нормаль виджета переформатирования с нормалью вертора камеры. </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1075"/>
@@ -4340,7 +4340,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1086"/>
       <source>Small</source>
-      <translation type="unfinished">Small</translation>
+      <translation>Малый</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1089"/>
@@ -4350,17 +4350,17 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1097"/>
       <source>Medium</source>
-      <translation type="unfinished">Medium</translation>
+      <translation>Средний</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1100"/>
       <source>Set orientation marker size to small to medium</source>
-      <translation type="unfinished">Set orientation marker size to small to medium</translation>
+      <translation>Установить размер маркера ориентации из малого в средний</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1108"/>
       <source>Large</source>
-      <translation type="unfinished">Large</translation>
+      <translation>Большой</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1111"/>
@@ -4370,22 +4370,22 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1119"/>
       <source>No ruler</source>
-      <translation type="unfinished">No ruler</translation>
+      <translation>Нет линейки</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1122"/>
       <source>Hide ruler</source>
-      <translation type="unfinished">Hide ruler</translation>
+      <translation>Скрыть линейку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1130"/>
       <source>Thin</source>
-      <translation type="unfinished">Thin</translation>
+      <translation>Тонкий</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1133"/>
       <source>Show thin ruler</source>
-      <translation type="unfinished">Show thin ruler</translation>
+      <translation>Показать тонкую линейку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
