@@ -4390,27 +4390,27 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
       <source>Thick</source>
-      <translation type="unfinished">Thick</translation>
+      <translation>Толстая</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1144"/>
       <source>Show thick ruler</source>
-      <translation type="unfinished">Show thick ruler</translation>
+      <translation>Показать толстую линейку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1152"/>
       <source>White ruler</source>
-      <translation type="unfinished">White ruler</translation>
+      <translation>Белая линейка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1160"/>
       <source>Black ruler</source>
-      <translation type="unfinished">Black ruler</translation>
+      <translation>Черная линейка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1168"/>
       <source>Yellow ruler</source>
-      <translation type="unfinished">Yellow ruler</translation>
+      <translation>Жёлтый линейка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1177"/>
