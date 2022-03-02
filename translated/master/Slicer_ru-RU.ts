@@ -4114,7 +4114,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="698"/>
       <source>Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</source>
-      <translation type="unfinished">Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</translation>
+      <translation>Установить поведение связи как регуляторы с горячей привязкой. Когда включено, взаимодействие срезов немедленно влияет на другие срезы. Когда выключено, взаимодействия срезов влияют на другие срезы после завершения взаимодействия.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="707"/>
@@ -4415,52 +4415,52 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1177"/>
       <source>Toggle segmentation outline/fill</source>
-      <translation type="unfinished">Toggle segmentation outline/fill</translation>
+      <translation>Переключить сегментацию как оконтовку/заполнение</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1180"/>
       <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-      <translation type="unfinished">Toggle between segmentation outline only, outline and fill, and fill only states</translation>
+      <translation>Переключает сегментацию в состояние: только оконтовка, оконтовка с заполнением, только заполнение</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1196"/>
       <source>Show Segmentation</source>
-      <translation type="unfinished">Show Segmentation</translation>
+      <translation>Показать Сегментацию</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1199"/>
       <source>Toggle segmentation visibility</source>
-      <translation type="unfinished">Toggle segmentation visibility</translation>
+      <translation>Переключить видимость сегментации</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
       <source>S: </source>
-      <translation type="unfinished">S: </translation>
+      <translation>S: </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
       <source>I &lt;-----&gt; S</source>
-      <translation type="unfinished">I &lt;-----&gt; S</translation>
+      <translation>I &lt;-----&gt; S</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="78"/>
       <source>R: </source>
-      <translation type="unfinished">R: </translation>
+      <translation>R: </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="78"/>
       <source>L &lt;-----&gt; R</source>
-      <translation type="unfinished">L &lt;-----&gt; R</translation>
+      <translation>L &lt;-----&gt; R</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
       <source>A: </source>
-      <translation type="unfinished">A: </translation>
+      <translation>A: </translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
       <source>P &lt;-----&gt; A</source>
-      <translation type="unfinished">P &lt;-----&gt; A</translation>
+      <translation>P &lt;-----&gt; A</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
@@ -4471,7 +4471,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="401"/>
       <source>Slice distance from RAS origin</source>
-      <translation type="unfinished">Slice distance from RAS origin</translation>
+      <translation>Расстояние среза от начала координат RAS</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2591"/>
