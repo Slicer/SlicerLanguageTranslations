@@ -4466,7 +4466,7 @@ Do you wish to proceed with changing master representation?</source>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1564"/>
       <source>Oblique</source>
-      <translation type="unfinished">Oblique</translation>
+      <translation>Наклонный</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="401"/>
@@ -4476,7 +4476,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2591"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>Продолжить</translation>
     </message>
   </context>
   <context>
@@ -4484,62 +4484,62 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="469"/>
       <source>Linked</source>
-      <translation type="unfinished">Linked</translation>
+      <translation>Связанный</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="484"/>
       <source>Reformat</source>
-      <translation type="unfinished">Reformat</translation>
+      <translation>Переформатировать</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="499"/>
       <source>Lightbox view</source>
-      <translation type="unfinished">Lightbox view</translation>
+      <translation>Вид лайтбокса</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="511"/>
       <source>Custom</source>
-      <translation type="unfinished">Custom</translation>
+      <translation>Настроить</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="521"/>
       <source>Apply</source>
-      <translation type="unfinished">Apply</translation>
+      <translation>Применить</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="548"/>
       <source>Compositing</source>
-      <translation type="unfinished">Compositing</translation>
+      <translation>Состав</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="569"/>
       <source>Slice spacing mode</source>
-      <translation type="unfinished">Slice spacing mode</translation>
+      <translation>Режим интервала между срезами</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="573"/>
       <source>Manual spacing</source>
-      <translation type="unfinished">Manual spacing</translation>
+      <translation>Ручной интервал</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="588"/>
       <source>Field of view</source>
-      <translation type="unfinished">Field of view</translation>
+      <translation>Поле зрения</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="613"/>
       <source>Slice model mode</source>
-      <translation type="unfinished">Slice model mode</translation>
+      <translation>Режим модели среза</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="633"/>
       <source>Manual FOV</source>
-      <translation type="unfinished">Manual FOV</translation>
+      <translation>Ручное поле видимости</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="658"/>
       <source>Manual Dimensions</source>
-      <translation type="unfinished">Manual Dimensions</translation>
+      <translation>Ручные Размеры</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="683"/>
