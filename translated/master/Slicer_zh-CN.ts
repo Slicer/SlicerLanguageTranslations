@@ -14370,7 +14370,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="175"/>
       <source>Feedback</source>
-      <translation>用户反馈</translation>
+      <translation>翻译勘误请联系曹玉福（微信caoyufu）</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="212"/>
