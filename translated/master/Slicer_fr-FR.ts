@@ -10244,7 +10244,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation type="unfinished">Acknowledgement</translation>
+        <translation>Remerciements</translation>
     </message>
 </context>
 <context>
