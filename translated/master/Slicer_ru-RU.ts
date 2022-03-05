@@ -4544,42 +4544,42 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="683"/>
       <source>Manual Origin</source>
-      <translation type="unfinished">Manual Origin</translation>
+      <translation>Ручное Начало Отсчета</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="712"/>
       <source>Segmentation</source>
-      <translation type="unfinished">Segmentation</translation>
+      <translation>Сегментация</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="721"/>
       <source>LabelMap</source>
-      <translation type="unfinished">LabelMap</translation>
+      <translation>Карта меток</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="730"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Расширенный режим</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="889"/>
       <source>Hide label volume outlines</source>
-      <translation type="unfinished">Hide label volume outlines</translation>
+      <translation>Скрыть контуры карты ярлыков</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="889"/>
       <source>Show label volume outlines</source>
-      <translation type="unfinished">Show label volume outlines</translation>
+      <translation>Показать контуры карты меток</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="894"/>
       <source>Hide reformat widget</source>
-      <translation type="unfinished">Hide reformat widget</translation>
+      <translation>Скрыть виджет переформатирования</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="894"/>
       <source>Show reformat widget</source>
-      <translation type="unfinished">Show reformat widget</translation>
+      <translation>Показать виджет переформатирования</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1512"/>
@@ -4589,7 +4589,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1548"/>
       <source>Ruler</source>
-      <translation type="unfinished">Ruler</translation>
+      <translation>Линейка</translation>
     </message>
   </context>
   <context>
@@ -4597,17 +4597,17 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
       <source>Layout Name:</source>
-      <translation type="unfinished">Layout Name:</translation>
+      <translation>Название Расположения:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="33"/>
       <source>Name of the slice</source>
-      <translation type="unfinished">Name of the slice</translation>
+      <translation>Имя среза</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
@@ -4622,63 +4622,63 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
       <source>Axial</source>
-      <translation type="unfinished">Axial</translation>
+      <translation>Аксиальная</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="59"/>
       <source>Sagittal</source>
-      <translation type="unfinished">Sagittal</translation>
+      <translation>Сагиттальная</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="64"/>
       <source>Coronal</source>
-      <translation type="unfinished">Coronal</translation>
+      <translation>Корональная</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
       <source>Reformat</source>
-      <translation type="unfinished">Reformat</translation>
+      <translation>Переформатировать</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
       <source>Slice visible:</source>
-      <translation type="unfinished">Slice visible:</translation>
+      <translation>Видимый срез:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
       <source>Toggle the visibility of the slice in the 3D scene</source>
-      <translation type="unfinished">Toggle the visibility of the slice in the 3D scene</translation>
+      <translation>Вкл/выкл отображение среза в 3D сцене</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="121"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
       <source>Widget visible:</source>
-      <translation type="unfinished">Widget visible:</translation>
+      <translation>Видимость виджета:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
       <source>Toggle the visibility of the reformat widget in the 3D scene</source>
-      <translation type="unfinished">Toggle the visibility of the reformat widget in the 3D scene</translation>
+      <translation>Вкл/выкл отображение виджета переформатирования в 3D сцене</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="145"/>
       <source>Dimension of the slice.</source>
-      <translation type="unfinished">Dimension of the slice.</translation>
+      <translation>Размеры среза.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="148"/>
       <source>Dimension:</source>
-      <translation type="unfinished">Dimension:</translation>
+      <translation>Размер:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="171"/>
       <source>Field of view of slice</source>
-      <translation type="unfinished">Field of view of slice</translation>
+      <translation>Поле зрения среза</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
@@ -4688,57 +4688,57 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
       <source>Layout of the lightbox (rows, columns)</source>
-      <translation type="unfinished">Layout of the lightbox (rows, columns)</translation>
+      <translation>Макет Лайтбокса (строки, столбцы)</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="194"/>
       <source>Lightbox layout:</source>
-      <translation type="unfinished">Lightbox layout:</translation>
+      <translation>Размещение Лайтбокса:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="203"/>
       <source>Number of rows in the lightbox</source>
-      <translation type="unfinished">Number of rows in the lightbox</translation>
+      <translation>Количество строк в Lightbox</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="216"/>
       <source>Number of columns in the lightbox</source>
-      <translation type="unfinished">Number of columns in the lightbox</translation>
+      <translation>Количество столбцов в Lightbox</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="231"/>
       <source>Slice spacing may be set automatically or manually by the user or context</source>
-      <translation type="unfinished">Slice spacing may be set automatically or manually by the user or context</translation>
+      <translation>Интервал между срезами может быть установлен автоматически или вручную пользователем, или контекстом</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="234"/>
       <source>Slice spacing mode:</source>
-      <translation type="unfinished">Slice spacing mode:</translation>
+      <translation>Режим интервала между срезами:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
       <source>Automatic</source>
-      <translation type="unfinished">Automatic</translation>
+      <translation>Автоматически</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
       <source>Manual</source>
-      <translation type="unfinished">Manual</translation>
+      <translation>Вручную</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
       <source>Manual spacing:</source>
-      <translation type="unfinished">Manual spacing:</translation>
+      <translation>Ручной интервал:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="275"/>
       <source>Manual spacing is used when slice spacing is set manually by the user or context</source>
-      <translation type="unfinished">Manual spacing is used when slice spacing is set manually by the user or context</translation>
+      <translation>Ручной интервал используется, когда интервал между срезами задается вручную пользователем или контекстом</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
       <source>View group:</source>
-      <translation type="unfinished">View group:</translation>
+      <translation>Посмотреть группу:</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
