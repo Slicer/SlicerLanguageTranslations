@@ -345,7 +345,7 @@
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
       <source>DICOM Annotations</source>
-      <translation>DICOM 注释</translation>
+      <translation>DICOM注释</translation>
     </message>
     <message>
       <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
