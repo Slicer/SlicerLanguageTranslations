@@ -3117,7 +3117,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
         <source>Select master volume to enable editing</source>
-        <translation type="unfinished">Select master volume to enable editing</translation>
+        <translation>Sélectionnez le volume principal pour activer l&apos;édition</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
