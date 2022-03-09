@@ -4809,21 +4809,21 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1208"/>
       <source>This node is not transformable</source>
-      <translation type="unfinished">This node is not transformable</translation>
+      <translation>Этот узел не трансформируемый</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1385"/>
       <source>Some nodes in the branch are already transformed</source>
-      <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+      <translation>Некоторые узлы в ветке уже преобраваны</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1386"/>
       <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-      <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+      <translation>Вы хотите закрепить все уже примененные преобразования перед установкой нового?
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+  Примечание: Если вы выберете "Нет", то примененная трансформация будет просто заменена.</translation>
     </message>
   </context>
   <context>
@@ -4831,7 +4831,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1987"/>
       <source>Delete subject hierarchy branch?</source>
-      <translation type="unfinished">Delete subject hierarchy branch?</translation>
+      <translation>Удалить ветку иерархии?</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
@@ -4839,10 +4839,10 @@ Do you wish to proceed with changing master representation?</source>
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-      <translation type="unfinished">The deleted subject hierarchy item has children. Do you want to remove those too?
+      <translation>У удаленного элемента иерархии есть дочерние элементы. Вы хотите удалить их тоже?
 
-If you choose yes, the whole branch will be deleted, including all children.
-If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</translation>
+Если вы выберете "Да", вся ветка будет удалена, включая все дочерние элементы.
+Если вы выберете "Да для Всех", этот вопрос никогда не появляется снова, и все дочерние иерархические элементы автоматически удалятся. Это может быть изменено в настройках приложения.</translation>
     </message>
   </context>
   <context>
@@ -4850,27 +4850,27 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="252"/>
       <source>Allow interactively modify the transform in 3D views</source>
-      <translation type="unfinished">Allow interactively modify the transform in 3D views</translation>
+      <translation>Разрешить интерактивное изменение преобразования в 3D просмотрщиках</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="257"/>
       <source>Edit properties of the current transform</source>
-      <translation type="unfinished">Edit properties of the current transform</translation>
+      <translation>Редактировать свойства текущего преобразования</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="262"/>
       <source>Harden current transform on this node and all children nodes</source>
-      <translation type="unfinished">Harden current transform on this node and all children nodes</translation>
+      <translation>Зафиксировать текущее преобразование для текущего узла и всех дочерних узлов</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="267"/>
       <source>Create and apply new transform</source>
-      <translation type="unfinished">Create and apply new transform</translation>
+      <translation>Создать и применить новое преобразование</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="275"/>
       <source>Remove parent transform from all the nodes in this branch</source>
-      <translation type="unfinished">Remove parent transform from all the nodes in this branch</translation>
+      <translation>Удалить родительское преобразование из всех узлов этой ветки</translation>
     </message>
   </context>
   <context>
@@ -4880,12 +4880,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
       <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
       <source>Failed to create Plot</source>
-      <translation type="unfinished">Failed to create Plot</translation>
+      <translation>Не удалось создать График</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
       <source>Failed to plot data</source>
-      <translation type="unfinished">Failed to plot data</translation>
+      <translation>Не удалось построить график данных</translation>
     </message>
   </context>
   <context>
@@ -4893,22 +4893,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="14"/>
       <source>Table View Controller</source>
-      <translation type="unfinished">Table View Controller</translation>
+      <translation>Диспетчер Вида Таблиц</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="28"/>
       <source>vtkMRMLTableNode</source>
-      <translation type="unfinished">vtkMRMLTableNode</translation>
+      <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
       <source>Allow table editing</source>
-      <translation type="unfinished">Allow table editing</translation>
+      <translation>Разрешить редактирование таблицы</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Копировать</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -4920,52 +4920,52 @@ If you choose Yes to All, this question never appears again, and all subject hie
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="251"/>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="265"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Вставить</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
       <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-      <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+      <translation>Генерировать Интерактивный График на основе выбранных пользователем столбцов таблицы.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
       <source>Add column</source>
-      <translation type="unfinished">Add column</translation>
+      <translation>Добавить столбец</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="187"/>
       <source>Delete column</source>
-      <translation type="unfinished">Delete column</translation>
+      <translation>Удалить столбец</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
       <source>Lock first column</source>
-      <translation type="unfinished">Lock first column</translation>
+      <translation>Запереть первый столбец</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="234"/>
       <source>Add row</source>
-      <translation type="unfinished">Add row</translation>
+      <translation>Добавить строку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="248"/>
       <source>Delete row</source>
-      <translation type="unfinished">Delete row</translation>
+      <translation>Удалить строку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
       <source>Lock first row</source>
-      <translation type="unfinished">Lock first row</translation>
+      <translation>Заблокировать первую строку</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="135"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
   </context>
   <context>
@@ -4973,17 +4973,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Копировать</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Вставить</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
       <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-      <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+      <translation>Генерировать Интерактивный График на основе выбранных пользователем столбцов таблицы.</translation>
     </message>
   </context>
   <context>
@@ -4991,22 +4991,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Править</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="47"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Отмена</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="57"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>Сохранить</translation>
     </message>
   </context>
   <context>
@@ -5014,22 +5014,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="20"/>
       <source>3D View Controller</source>
-      <translation type="unfinished">3D View Controller</translation>
+      <translation>Контроллер 3D Вида</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
       <source>Zoom out of the scene by a small amount.</source>
-      <translation type="unfinished">Zoom out of the scene by a small amount.</translation>
+      <translation>Уменьшить масштаб сцены на небольшую сумму.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="79"/>
       <source>Spin the 3D view.</source>
-      <translation type="unfinished">Spin the 3D view.</translation>
+      <translation>Прокрутить 3D вид.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="99"/>
       <source>Rock the 3D view.</source>
-      <translation type="unfinished">Rock the 3D view.</translation>
+      <translation>Покачать 3D вид.</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="119"/>
@@ -5301,17 +5301,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="575"/>
       <source>White ruler</source>
-      <translation type="unfinished">White ruler</translation>
+      <translation>Белая линейка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="583"/>
       <source>Black ruler</source>
-      <translation type="unfinished">Black ruler</translation>
+      <translation>Черная линейка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="591"/>
       <source>Yellow ruler</source>
-      <translation type="unfinished">Yellow ruler</translation>
+      <translation>Жёлтая линейка</translation>
     </message>
     <message>
       <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="135"/>
