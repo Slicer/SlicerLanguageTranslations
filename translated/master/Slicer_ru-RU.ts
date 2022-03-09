@@ -4743,7 +4743,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
       <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-      <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+      <translation>Навигация и связанные свойства синхронизуются на просмотрщиках, которые имеют тот же групповой индекс.</translation>
     </message>
   </context>
   <context>
@@ -4751,7 +4751,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
       <source>qMRMLSliceWidget</source>
-      <translation type="unfinished">qMRMLSliceWidget</translation>
+      <translation>qMRMLSliceWidget</translation>
     </message>
   </context>
   <context>
@@ -4759,52 +4759,52 @@ Do you wish to proceed with changing master representation?</source>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Ничего</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="130"/>
       <source>Node name and type</source>
-      <translation type="unfinished">Node name and type</translation>
+      <translation>Имя и тип узла</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="131"/>
       <source>Node description</source>
-      <translation type="unfinished">Node description</translation>
+      <translation>Описание узла</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
       <source>Show/hide branch or node</source>
-      <translation type="unfinished">Show/hide branch or node</translation>
+      <translation>Показать/скрыть ветку или узел</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
       <source>Node color</source>
-      <translation type="unfinished">Node color</translation>
+      <translation>Цвет узла</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
       <source>Applied transform</source>
-      <translation type="unfinished">Applied transform</translation>
+      <translation>Применяемое преобразование</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
       <source>Node ID</source>
-      <translation type="unfinished">Node ID</translation>
+      <translation>Идентификатор узла</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1028"/>
       <source>No subject hierarchy role assigned! Please report error</source>
-      <translation type="unfinished">No subject hierarchy role assigned! Please report error</translation>
+      <translation>Роль иерархии не назначена! Пожалуйста, сообщите об ошибке</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1194"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1204"/>
       <source>Apply transform to children</source>
-      <translation type="unfinished">Apply transform to children</translation>
+      <translation>Применить преобразование к потомкам</translation>
     </message>
     <message>
       <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1208"/>
