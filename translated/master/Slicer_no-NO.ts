@@ -182,12 +182,12 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Handling</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="35"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
@@ -375,7 +375,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="279"/>
         <source>Active Layer:</source>
-        <translation type="unfinished">Active Layer:</translation>
+        <translation>Aktivt lag:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="286"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="360"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">Restore Defaults</translation>
+        <translation>Gjenopprett forvalg</translation>
     </message>
 </context>
 <context>
@@ -435,7 +435,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
         <source>Image threshold:</source>
-        <translation type="unfinished">Image threshold:</translation>
+        <translation>Bildeterskel:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
@@ -470,7 +470,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansert</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
@@ -485,12 +485,12 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Run the algorithm.</translation>
+        <translation>Kjør algoritmen.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Bruk</translation>
     </message>
 </context>
 <context>
@@ -498,17 +498,17 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
         <source>My custom UI</source>
-        <translation type="unfinished">My custom UI</translation>
+        <translation>Mitt egendefinerte brukergrensesnitt</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <source>Import files into DICOM database</source>
-        <translation type="unfinished">Import files into DICOM database</translation>
+        <translation>Importer filer inn i DICOM-database</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
         <source>    Import DICOM files</source>
-        <translation type="unfinished">    Import DICOM files</translation>
+        <translation>    Importer DICOM-filer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
@@ -518,12 +518,12 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation type="unfinished">    Show DICOM database</translation>
+        <translation>    Vis DICOM-database</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
         <source>Loaded data</source>
-        <translation type="unfinished">Loaded data</translation>
+        <translation>Innlastet data</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
@@ -583,7 +583,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
         <source>Maintenance:</source>
-        <translation type="unfinished">Maintenance:</translation>
+        <translation>Vedlikehold:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
@@ -598,7 +598,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
         <source>Remove unavailable data sets</source>
-        <translation type="unfinished">Remove unavailable data sets</translation>
+        <translation type="unfinished">Fjern utilgjengelige datasett</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
@@ -608,12 +608,12 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
         <source>Remove all data sets</source>
-        <translation type="unfinished">Remove all data sets</translation>
+        <translation type="unfinished">Fjern alle datasett</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
         <source>DICOM plugins</source>
-        <translation type="unfinished">DICOM plugins</translation>
+        <translation>DICOM-programtillegg</translation>
     </message>
 </context>
 <context>
@@ -708,7 +708,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1319"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1965"/>
         <source>length</source>
-        <translation type="unfinished">length</translation>
+        <translation>lengde</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="679"/>
@@ -728,7 +728,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2027"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished">Interactive Mode</translation>
+        <translation>Interaktivt modus</translation>
     </message>
 </context>
 <context>
@@ -808,7 +808,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
         <source>Thicker On Top</source>
-        <translation type="unfinished">Thicker On Top</translation>
+        <translation>Tykkere på toppen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="206"/>
@@ -832,7 +832,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Skjermavbildning</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
@@ -875,12 +875,12 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Klipp</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="23"/>
         <source>Clipping Type:</source>
-        <translation type="unfinished">Clipping Type:</translation>
+        <translation type="unfinished">Klipptype:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
@@ -998,7 +998,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
         <source>Visible:</source>
-        <translation type="unfinished">Visible:</translation>
+        <translation>Synlig:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
@@ -1013,17 +1013,17 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
         <source>Label text:</source>
-        <translation type="unfinished">Label text:</translation>
+        <translation>Etikett-tekst:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
         <source>Show numeric value as label text</source>
-        <translation type="unfinished">Show numeric value as label text</translation>
+        <translation>Vis numerisk verdi som etikett-tekst</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="103"/>
         <source>Value</source>
-        <translation type="unfinished">Value</translation>
+        <translation>Verdi</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
@@ -1033,12 +1033,12 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
         <source>Color name</source>
-        <translation type="unfinished">Color name</translation>
+        <translation>Fargenavn</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
         <source>Number of labels:</source>
-        <translation type="unfinished">Number of labels:</translation>
+        <translation>Antall etiketter:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
@@ -1048,7 +1048,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
         <source>Number of colors:</source>
-        <translation type="unfinished">Number of colors:</translation>
+        <translation>Antall farger:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
@@ -1063,17 +1063,17 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="189"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Loddrett</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="202"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Vannrett</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="214"/>
         <source>Position:</source>
-        <translation type="unfinished">Position:</translation>
+        <translation>Posisjon:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
@@ -1100,7 +1100,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Størrelse:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
@@ -1140,12 +1140,12 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="371"/>
         <source>Label properties</source>
-        <translation type="unfinished">Label properties</translation>
+        <translation>Etikettegenskaper</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="380"/>
         <source>Format:</source>
-        <translation type="unfinished">Format:</translation>
+        <translation>Format:</translation>
     </message>
 </context>
 <context>
@@ -1169,12 +1169,12 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="14"/>
         <source>Color Picker</source>
-        <translation type="unfinished">Color Picker</translation>
+        <translation>Fargevelger</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLColorPickerWidget.ui" line="20"/>
         <source>Color node:</source>
-        <translation type="unfinished">Color node:</translation>
+        <translation>Fargenode:</translation>
     </message>
 </context>
 <context>
@@ -1192,17 +1192,17 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visible:</source>
-        <translation type="unfinished">&amp;Visible:</translation>
+        <translation>&amp;amp;Synlig:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation type="unfinished">&amp;Selected:</translation>
+        <translation>&amp;amp;Valgt:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation type="unfinished">&amp;Clip:</translation>
+        <translation>&amp;amp;Klipp:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
@@ -1288,7 +1288,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="79"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">Rotation axis:</translation>
+        <translation>Rotasjonsakse:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="86"/>
@@ -1327,7 +1327,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Overflate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="98"/>
@@ -1342,7 +1342,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="142"/>
         <source>distance / (</source>
-        <translation type="unfinished">distance / (</translation>
+        <translation>distanse / (</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
@@ -1363,7 +1363,7 @@
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="196"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="374"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avansert</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="211"/>
@@ -1526,22 +1526,22 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
         <source>Shadow</source>
-        <translation type="unfinished">Shadow</translation>
+        <translation>Skygge</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation type="unfinished">Font:</translation>
+        <translation>Skrift:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Dekkevne</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
         <source>Background:</source>
-        <translation type="unfinished">Background:</translation>
+        <translation>Bakgrunn:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
@@ -1551,7 +1551,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
         <source>Active Color:</source>
-        <translation type="unfinished">Active Color:</translation>
+        <translation>Aktiv farge:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
@@ -1561,7 +1561,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
         <source>Fill:</source>
-        <translation type="unfinished">Fill:</translation>
+        <translation>Fyll:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
@@ -1601,7 +1601,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
         <source>Selected Color:</source>
-        <translation type="unfinished">Selected Color:</translation>
+        <translation>Valgt farge:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
@@ -1621,17 +1621,17 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation type="unfinished">Placement mode:</translation>
+        <translation>Plasseringsmous:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation type="unfinished">Properties Label:</translation>
+        <translation>Egenskapsetikett:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
         <source>Show node name and measurements</source>
-        <translation type="unfinished">Show node name and measurements</translation>
+        <translation>Vis nodenavn og målinger</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
@@ -1641,7 +1641,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
         <source>Text Size:</source>
-        <translation type="unfinished">Text Size:</translation>
+        <translation>Tekststørrelse:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
@@ -1725,7 +1725,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Dekkevne:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
@@ -1743,12 +1743,12 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="38"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Størrelse:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="51"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Synlighet:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="64"/>
@@ -1758,17 +1758,17 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="73"/>
         <source>Translate</source>
-        <translation type="unfinished">Translate</translation>
+        <translation>Oversett</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="80"/>
         <source>Rotate</source>
-        <translation type="unfinished">Rotate</translation>
+        <translation>Roter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="87"/>
         <source>Scale</source>
-        <translation type="unfinished">Scale</translation>
+        <translation type="unfinished">Skaler</translation>
     </message>
 </context>
 <context>
@@ -1776,7 +1776,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="unfinished">Skjema</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
@@ -1786,17 +1786,17 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="52"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="62"/>
         <source>Size mode:</source>
-        <translation type="unfinished">Size mode:</translation>
+        <translation>Størrelsesmodus:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Størrelse:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
@@ -1841,7 +1841,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Dekkevne:</translation>
     </message>
 </context>
 <context>
@@ -1876,7 +1876,7 @@
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1356"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1989"/>
         <source>length</source>
-        <translation type="unfinished">length</translation>
+        <translation>lengde</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
@@ -1945,7 +1945,7 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished">Points</translation>
+        <translation>Punkter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
@@ -1955,7 +1955,7 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Overflate</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="67"/>
@@ -1965,7 +1965,7 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
         <source>Visible Sides:</source>
-        <translation type="unfinished">Visible Sides:</translation>
+        <translation>Synlige sider:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
@@ -2005,23 +2005,23 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
         <source>Configure...</source>
-        <translation type="unfinished">Configure...</translation>
+        <translation type="unfinished">Sett opp …</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Advansert</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
         <source>Point Size:</source>
-        <translation type="unfinished">Point Size:</translation>
+        <translation>Punktstørrelse:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="186"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="430"/>
         <source>Line Width:</source>
-        <translation type="unfinished">Line Width:</translation>
+        <translation>Linjebredde:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="206"/>
