@@ -7788,7 +7788,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished">Scalar Range:</translation>
+        <translation>Intervalle de scalaire :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
