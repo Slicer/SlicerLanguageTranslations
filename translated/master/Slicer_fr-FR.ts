@@ -2197,7 +2197,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="94"/>
         <source>Number of Points Scalars:</source>
-        <translation type="unfinished">Number of Points Scalars:</translation>
+        <translation>Nombre de Points Scalaires :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="111"/>
