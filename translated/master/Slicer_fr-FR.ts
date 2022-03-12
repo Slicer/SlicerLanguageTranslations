@@ -237,7 +237,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
         <source>file name:</source>
-        <translation>nom du fichier :</translation>
+        <translation>Nom du fichier :</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
@@ -6113,7 +6113,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
         <source>IJK to RAS Direction Matrix:</source>
-        <translation>Matrice IJK vers RAS :</translation>
+        <translation>Matrice de transformation des directions</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
@@ -6128,7 +6128,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="167"/>
         <source>Scan Order:</source>
-        <translation>Orientation du Scan :</translation>
+        <translation>Ordre de balayage :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="188"/>
@@ -6148,7 +6148,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="254"/>
         <source>Volume type:</source>
-        <translation>Types de Volumes :</translation>
+        <translation>Type de Volumes :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="261"/>
