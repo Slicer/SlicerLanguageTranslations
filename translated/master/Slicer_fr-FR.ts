@@ -8119,7 +8119,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="42"/>
         <source>Filename</source>
-        <translation>Nom du fichier :</translation>
+        <translation>Nom du fichier</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="56"/>
