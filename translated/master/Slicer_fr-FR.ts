@@ -2207,7 +2207,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
         <source>Filename:</source>
-        <translation type="unfinished">Filename:</translation>
+        <translation>Nom du fichier :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="185"/>
@@ -6092,7 +6092,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
         <source>Image Spacing:</source>
-        <translation>Dimensions du Voxel :</translation>
+        <translation>Espacement de l&apos;image:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="77"/>
@@ -8119,7 +8119,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="42"/>
         <source>Filename</source>
-        <translation type="unfinished">Filename</translation>
+        <translation>Nom du fichier :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="56"/>
