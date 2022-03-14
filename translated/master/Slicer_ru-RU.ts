@@ -5081,77 +5081,77 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="296"/>
         <source>No Stereo</source>
-        <translation type="unfinished">No Stereo</translation>
+        <translation>Без Стерео</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="304"/>
         <source>Red/blue</source>
-        <translation type="unfinished">Red/blue</translation>
+        <translation>Красный/синий</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="312"/>
         <source>Anaglyph</source>
-        <translation type="unfinished">Anaglyph</translation>
+        <translation>Анаглиф</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="320"/>
         <source>QuadBuffer</source>
-        <translation type="unfinished">QuadBuffer</translation>
+        <translation>Четырехкратный буфер</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="328"/>
         <source>Interlaced</source>
-        <translation type="unfinished">Interlaced</translation>
+        <translation>Чересстрочный</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="331"/>
         <source>Switch to Interlaced stereo mode</source>
-        <translation type="unfinished">Switch to Interlaced stereo mode</translation>
+        <translation>Переключить в Чересстрочный стерео режим</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="342"/>
         <source>3D cube</source>
-        <translation type="unfinished">3D cube</translation>
+        <translation>Куб 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="353"/>
         <source>3D axis label</source>
-        <translation type="unfinished">3D axis label</translation>
+        <translation>Название осей в 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
         <source>Light blue background</source>
-        <translation type="unfinished">Light blue background</translation>
+        <translation>Светло-синий фон</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="367"/>
         <source>Set light blue background</source>
-        <translation type="unfinished">Set light blue background</translation>
+        <translation>Установить светло-синий фон</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="375"/>
         <source>Black background</source>
-        <translation type="unfinished">Black background</translation>
+        <translation>Чёрный фон</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="378"/>
         <source>Set black background</source>
-        <translation type="unfinished">Set black background</translation>
+        <translation>Установить чёрный фон</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="386"/>
         <source>White background</source>
-        <translation type="unfinished">White background</translation>
+        <translation>Белый фон</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="389"/>
         <source>Set white background</source>
-        <translation type="unfinished">Set white background</translation>
+        <translation>Установить белый фон</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="398"/>
         <source>Center</source>
-        <translation type="unfinished">Center</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="409"/>
@@ -5166,37 +5166,37 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
         <source>Show/Hide frames per second (FPS)</source>
-        <translation type="unfinished">Show/Hide frames per second (FPS)</translation>
+        <translation>Показать/Скрыть количество кадров в секунду (FPS)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="432"/>
         <source>User Defined 1</source>
-        <translation type="unfinished">User Defined 1</translation>
+        <translation>Заданный Пользователем 1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="435"/>
         <source>Switch to user defined stereo mode 1</source>
-        <translation type="unfinished">Switch to user defined stereo mode 1</translation>
+        <translation>Переключиться в стерео режим Заданный Пользователем 1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="443"/>
         <source>User Defined 2</source>
-        <translation type="unfinished">User Defined 2</translation>
+        <translation>Заданный Пользователем 2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="446"/>
         <source>Switch to user defined stereo mode 2</source>
-        <translation type="unfinished">Switch to user defined stereo mode 2</translation>
+        <translation>Переключиться в стерео режим Заданный Пользователем 2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="454"/>
         <source>User Defined 3</source>
-        <translation type="unfinished">User Defined 3</translation>
+        <translation>Заданный Пользователем 3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="457"/>
         <source>Switch to user defined stereo mode 3</source>
-        <translation type="unfinished">Switch to user defined stereo mode 3</translation>
+        <translation>Переключить в стерео режим Заданный Пользователем 3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="465"/>
@@ -5211,7 +5211,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="476"/>
         <source>Cube</source>
-        <translation type="unfinished">Cube</translation>
+        <translation>Куб</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="479"/>
@@ -5221,82 +5221,82 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="487"/>
         <source>Human</source>
-        <translation type="unfinished">Human</translation>
+        <translation>Человек</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="490"/>
         <source>Show human-shaped orientation marker</source>
-        <translation type="unfinished">Show human-shaped orientation marker</translation>
+        <translation>Показать маркер ориентации в виде человека</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="498"/>
         <source>Axes</source>
-        <translation type="unfinished">Axes</translation>
+        <translation>Оси</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="501"/>
         <source>Show axes orientation marker</source>
-        <translation type="unfinished">Show axes orientation marker</translation>
+        <translation>Показать маркер ориентации в виде осей</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="509"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Маленький</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="512"/>
         <source>Small orientation marker size</source>
-        <translation type="unfinished">Small orientation marker size</translation>
+        <translation>Маленький размер маркера ориентации</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="520"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Средний</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="523"/>
         <source>Medium orientation marker size</source>
-        <translation type="unfinished">Medium orientation marker size</translation>
+        <translation>Средний размер маркера ориентации</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="531"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Большой</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="534"/>
         <source>Large orientation marker size</source>
-        <translation type="unfinished">Large orientation marker size</translation>
+        <translation>Большой размер маркера ориентации</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="542"/>
         <source>No ruler</source>
-        <translation type="unfinished">No ruler</translation>
+        <translation>Без линейки</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="545"/>
         <source>Hide ruler</source>
-        <translation type="unfinished">Hide ruler</translation>
+        <translation>Спрятать линейку</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="553"/>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>Тонкая</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="556"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished">Show thin ruler</translation>
+        <translation>Показать тонкую линейку</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="564"/>
         <source>Thick</source>
-        <translation type="unfinished">Thick</translation>
+        <translation>Толстая</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="567"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished">Show thick ruler</translation>
+        <translation>Показать толстую линейку</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="575"/>
@@ -5316,22 +5316,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="135"/>
         <source>Stereo Modes</source>
-        <translation type="unfinished">Stereo Modes</translation>
+        <translation>Стерео Режимы</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="145"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Видимость</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="219"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>Линейка</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="227"/>
         <source>More</source>
-        <translation type="unfinished">More</translation>
+        <translation>Больше</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="280"/>
@@ -5344,22 +5344,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Из</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>Имя Компоновщика:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished">Name of the slice</translation>
+        <translation>Название среза</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="43"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>Группа видов:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="50"/>
