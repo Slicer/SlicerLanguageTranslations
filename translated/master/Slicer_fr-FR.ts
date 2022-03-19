@@ -1935,7 +1935,7 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
         <source>3D Display</source>
-        <translation type="unfinished">3D Display</translation>
+        <translation>Affichage 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
@@ -2010,7 +2010,7 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avancée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
@@ -2077,13 +2077,13 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="346"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Slice Display</translation>
+        <translation>Affichage de la coupe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="355"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="553"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilité :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="369"/>
@@ -2124,7 +2124,7 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="453"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>Table des couleurs :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="460"/>
@@ -2172,7 +2172,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="37"/>
         <source>Surface Area:</source>
-        <translation type="unfinished">Surface Area:</translation>
+        <translation>Superficie :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="47"/>
@@ -2182,7 +2182,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="57"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volume:</translation>
+        <translation>Volume :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="67"/>
@@ -2192,7 +2192,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="77"/>
         <source>Number of Points:</source>
-        <translation type="unfinished">Number of Points:</translation>
+        <translation>Nombre de points :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="94"/>
@@ -2202,7 +2202,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="111"/>
         <source>Number of Cells Scalars:</source>
-        <translation type="unfinished">Number of Cells Scalars:</translation>
+        <translation>Nombre de Cellules Scalaires :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="128"/>
@@ -2246,7 +2246,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="275"/>
         <source>Number of Cells:</source>
-        <translation type="unfinished">Number of Cells:</translation>
+        <translation>Le nombre de cellules :</translation>
     </message>
 </context>
 <context>
@@ -10079,7 +10079,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="111"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modèles</translation>
     </message>
 </context>
 <context>
