@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation type="unfinished">AnnotationText (vtkMRMLAnnotationTextNode1)</translation>
+        <translation>Merknadstekst (vtkMRMLMerknadstekstnode1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation type="unfinished">Toggle un-/locked</translation>
+        <translation>Veksle opp/låst</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
         <source>Glyph type combo box</source>
-        <translation type="unfinished">Glyph type combo box</translation>
+        <translation>Glyph type kombinasjonsboks</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
@@ -105,12 +105,12 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
         <source>Distance in mm between major ticks</source>
-        <translation type="unfinished">Distance in mm between major ticks</translation>
+        <translation>Avstand i mm mellom store haker</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
         <source>Tick Spacing:</source>
-        <translation type="unfinished">Tick Spacing:</translation>
+        <translation>Hakeavstand:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
@@ -125,7 +125,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
         <source>Max # of Ticks:</source>
-        <translation type="unfinished">Max # of Ticks:</translation>
+        <translation>Maks antall avmerkinger:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
         <source>vtkMRMLCameraNode</source>
-        <translation type="unfinished">vtkMRMLCameraNode</translation>
+        <translation>vtkMRMLKameraNode</translation>
     </message>
 </context>
 <context>
@@ -156,7 +156,7 @@
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
         <source>Sequence browser</source>
-        <translation type="unfinished">Sequence browser</translation>
+        <translation>Sekvensleser</translation>
     </message>
 </context>
 <context>
@@ -164,12 +164,12 @@
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="105"/>
         <source>patient right is screen left (default)</source>
-        <translation type="unfinished">patient right is screen left (default)</translation>
+        <translation>pasient høyre er venstre skjerm (standard)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
         <source>patient right is screen right</source>
-        <translation type="unfinished">patient right is screen right</translation>
+        <translation>pasientrett er skjermrett</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
         <source>Scene Performance</source>
-        <translation type="unfinished">Scene Performance</translation>
+        <translation>Sceneopptreden</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
         <source>Switch to Layout</source>
-        <translation type="unfinished">Switch to Layout</translation>
+        <translation>Bytt til grafiskvisning</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
@@ -232,7 +232,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Grafiskvisning</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
@@ -247,12 +247,12 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
         <source>Run and time</source>
-        <translation type="unfinished">Run and time</translation>
+        <translation>Løp og tid</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
         <source>SceneView</source>
-        <translation type="unfinished">SceneView</translation>
+        <translation>sceneanvisning</translation>
     </message>
 </context>
 <context>
@@ -260,17 +260,17 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice View Annotations Settings</translation>
+        <translation>Innstillinger for Slice View-merknader</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
         <source>Enable Slice View Annotations</source>
-        <translation type="unfinished">Enable Slice View Annotations</translation>
+        <translation>Aktiver Slice View-kommentarer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
         <source>Corner Text Annotation</source>
-        <translation type="unfinished">Corner Text Annotation</translation>
+        <translation>Hjørnetekstkommentar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation type="unfinished">Annotation Display Level:</translation>
+        <translation>Annoteringsvisningsnivå:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
@@ -330,7 +330,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation type="unfinished">Times</translation>
+        <translation>Antall ganger</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
@@ -360,17 +360,17 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="260"/>
         <source>Color Scalar Bar</source>
-        <translation type="unfinished">Color Scalar Bar</translation>
+        <translation>Fargeskalarlinje</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="266"/>
         <source>Enable</source>
-        <translation type="unfinished">Enable</translation>
+        <translation>Aktivere</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="273"/>
         <source>Layer Selection</source>
-        <translation type="unfinished">Layer Selection</translation>
+        <translation>Lagvalg</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="279"/>
@@ -395,7 +395,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="325"/>
         <source>Range Label Format:</source>
-        <translation type="unfinished">Range Label Format:</translation>
+        <translation>Områdeetikettformat:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="332"/>
@@ -413,17 +413,17 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Inndata</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished">Input volume:</translation>
+        <translation>Inndata volum:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Pick the input to the algorithm.</translation>
+        <translation>Velg å sette inn til algoritmen.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="33"/>
@@ -440,12 +440,12 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation type="unfinished">Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</translation>
+        <translation>Angi terskelverdi for å beregne utdatabildet. Voxler som har intensiteter lavere enn denne verdien vil settes til null.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Utdata</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -465,7 +465,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation type="unfinished">Result with inverted threshold will be written into this volume</translation>
+        <translation>Resultat med invertert terskel vil bli skrevet inn i dette volumet.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
@@ -480,7 +480,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-        <translation type="unfinished">If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</translation>
+        <translation>Hvis det er merket av, settes verdier over terskelen til 0. Hvis det ikke er merket av, settes verdiene under til 0.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
@@ -513,7 +513,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Show DICOM database browser window</source>
-        <translation type="unfinished">Show DICOM database browser window</translation>
+        <translation>Vis DICOM-databasenettleservinduet</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
@@ -533,7 +533,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
         <source>Pull data from remote server:</source>
-        <translation type="unfinished">Pull data from remote server:</translation>
+        <translation>Sett inn data fra ekstern server:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
