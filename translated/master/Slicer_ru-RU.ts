@@ -5707,7 +5707,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="885"/>
         <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
-        <translation type="unfinished">Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</translation>
+        <translation>Узел разметки, определяющий начальные позиции глифа. Если задан, то 3D вид &apos;Регион&apos; ингнорируется.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="888"/>
@@ -5717,30 +5717,30 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="902"/>
         <source>Entire region</source>
-        <translation type="unfinished">Entire region</translation>
+        <translation>Весь регион</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="921"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="937"/>
         <source>Distance between the gridlines</source>
-        <translation type="unfinished">Distance between the gridlines</translation>
+        <translation>Расстояние между линиями сетки</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="968"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="984"/>
         <source>Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</source>
-        <translation type="unfinished">Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</translation>
+        <translation>Процент смещения, применяемый к узлам сетки. 100% означает, что сетка деформированна в соответствии с действительной величиной смещения.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1009"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1019"/>
         <source>Thickness of the gridlines in the 3D view</source>
-        <translation type="unfinished">Thickness of the gridlines in the 3D view</translation>
+        <translation>Толщина линий сетки на 3D виде</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1012"/>
         <source>3D gridline diameter:</source>
-        <translation type="unfinished">3D gridline diameter:</translation>
+        <translation>Диаметр линии сетки в 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1050"/>
