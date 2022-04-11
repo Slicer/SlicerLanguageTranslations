@@ -120,7 +120,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
         <source>Position the label along the line</source>
-        <translation type="unfinished">Position the label along the line</translation>
+        <translation>Colocar la etiqueta a lo largo de la línea</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
