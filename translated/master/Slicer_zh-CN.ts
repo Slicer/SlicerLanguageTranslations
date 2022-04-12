@@ -125,7 +125,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
         <source>Max # of Ticks:</source>
-        <translation>刻度的最大值</translation>
+        <translation>#最大刻度数：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
         <source>vtkMRMLCameraNode</source>
-        <translation>vtkMRMLCameraNode</translation>
+        <translation>vtkMRML相机节点</translation>
     </message>
 </context>
 <context>
@@ -330,12 +330,12 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation>Times</translation>
+        <translation>时代</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
         <source>Arial</source>
-        <translation>Arial</translation>
+        <translation>宋体</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
@@ -350,7 +350,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation>如果没有前景层DICOM数据，默认显示背景层DICOM数据</translation>
+        <translation>如果没有前景层DICOM数据，默认显示背景层DICOM数据。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
@@ -423,14 +423,14 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation>选择算法输入项</translation>
+        <translation>选择算法输入项。</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="33"/>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="96"/>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="127"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML标量节点</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
@@ -644,7 +644,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLAnnotationFiducialProjectionPropertyWidget</source>
-        <translation>qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
+        <translation>qMRML注释基准投影属性小部件</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
@@ -736,7 +736,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLAnnotationRulerProjectionPropertyWidget</source>
-        <translation>qMRMLAnnotationRulerProjectionPropertyWidget</translation>
+        <translation>qMRML注释标尺投影属性小部件</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
@@ -1153,7 +1153,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;格式字段使用printf函数语法，示例格式：&lt;br&gt;    - 用1个小数位数显示： &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - 显示整数： &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - 用4位有效数字显示：&lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - 字符串标签注释： &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;格式字段使用printf函数语法，示例格式：&lt;br&gt;    - 用1个小数位数显示：&lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - 显示整数： &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - 用4位有效数字显示：&lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - 字符串标签注释： &lt;b&gt;%s&lt;/b&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
 </context>
 <context>
@@ -1192,7 +1192,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visible:</source>
-        <translation>&amp;可视化：</translation>
+        <translation>&amp;amp;可视化:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
