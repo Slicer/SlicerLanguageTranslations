@@ -2488,47 +2488,47 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="273"/>
         <source>Chart title font size:</source>
-        <translation type="unfinished">Chart title font size:</translation>
+        <translation>チャートタイトルのフォントサイズ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
         <source>Axis title font size:</source>
-        <translation type="unfinished">Axis title font size:</translation>
+        <translation>軸タイトルのフォントサイズ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
         <source>Axis label font size:</source>
-        <translation type="unfinished">Axis label font size:</translation>
+        <translation>軸ラベルのフォントサイズ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
         <source>Legend visible:</source>
-        <translation type="unfinished">Legend visible:</translation>
+        <translation>凡例の表示:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="329"/>
         <source>Grid visible:</source>
-        <translation type="unfinished">Grid visible:</translation>
+        <translation>グリッド表示:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="336"/>
         <source>Legend font size:</source>
-        <translation type="unfinished">Legend font size:</translation>
+        <translation>凡例フォントサイズ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="350"/>
         <source>Logarithmic scale:</source>
-        <translation type="unfinished">Logarithmic scale:</translation>
+        <translation>対数目盛：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="359"/>
         <source>X axis</source>
-        <translation type="unfinished">X axis</translation>
+        <translation>X軸</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="366"/>
         <source>Y axis</source>
-        <translation type="unfinished">Y axis</translation>
+        <translation>Y軸</translation>
     </message>
 </context>
 <context>
@@ -2536,143 +2536,143 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
         <source>Input Table:</source>
-        <translation type="unfinished">Input Table:</translation>
+        <translation>入力テーブル:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="48"/>
         <source>vtkMRMLTableNode</source>
-        <translation type="unfinished">vtkMRMLTableNode</translation>
+        <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
         <source>Plot Type:</source>
-        <translation type="unfinished">Plot Type:</translation>
+        <translation>プロットタイプ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="86"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>線</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="91"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>バー</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="96"/>
         <source>scatter</source>
-        <translation type="unfinished">scatter</translation>
+        <translation>スキャッター</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="101"/>
         <source>scatter bar</source>
-        <translation type="unfinished">scatter bar</translation>
+        <translation>スキャッターバー</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="109"/>
         <source>X Axis Column:</source>
-        <translation type="unfinished">X Axis Column:</translation>
+        <translation>X 軸列:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="123"/>
         <source>Y Axis Column:</source>
-        <translation type="unfinished">Y Axis Column:</translation>
+        <translation>Y 軸列:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
         <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-        <translation type="unfinished">This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</translation>
+        <translation>この列には、各データポイントのラベルが含まれています。ラベルは、プロットビューでデータポイントにマウスを乗せると、ツールチップに表示されます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="195"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="156"/>
         <source>cross</source>
-        <translation type="unfinished">cross</translation>
+        <translation>クロス</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="161"/>
         <source>plus</source>
-        <translation type="unfinished">plus</translation>
+        <translation>プラス</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="166"/>
         <source>square</source>
-        <translation type="unfinished">square</translation>
+        <translation>正方形</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="171"/>
         <source>circle</source>
-        <translation type="unfinished">circle</translation>
+        <translation>サークル</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="176"/>
         <source>diamond</source>
-        <translation type="unfinished">diamond</translation>
+        <translation>ダイアモンド</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="200"/>
         <source>solid</source>
-        <translation type="unfinished">solid</translation>
+        <translation>ソリッド</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="205"/>
         <source>dash</source>
-        <translation type="unfinished">dash</translation>
+        <translation>ダッシュ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="210"/>
         <source>dot</source>
-        <translation type="unfinished">dot</translation>
+        <translation>点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="215"/>
         <source>dash-dot</source>
-        <translation type="unfinished">dash-dot</translation>
+        <translation>一点鎖線</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="220"/>
         <source>dash-dot-dot</source>
-        <translation type="unfinished">dash-dot-dot</translation>
+        <translation>二点鎖線</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="258"/>
         <source>Labels Column:</source>
-        <translation type="unfinished">Labels Column:</translation>
+        <translation>ラベル列:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="265"/>
         <source>Markers Style:</source>
-        <translation type="unfinished">Markers Style:</translation>
+        <translation>マーカースタイル:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="272"/>
         <source>Markers Size:</source>
-        <translation type="unfinished">Markers Size:</translation>
+        <translation>マーカーサイズ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="279"/>
         <source>Line Style:</source>
-        <translation type="unfinished">Line Style:</translation>
+        <translation>線のスタイル:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="286"/>
         <source>Line Width:</source>
-        <translation type="unfinished">Line Width:</translation>
+        <translation>線幅:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="293"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>色:</translation>
     </message>
 </context>
 <context>
@@ -2680,7 +2680,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="166"/>
         <source>This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</source>
-        <translation type="unfinished">This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</translation>
+        <translation>このプロットタイプでは、X軸の値としてインデックスを使用します。列の選択を可能にするために散布図タイプに切り替えます。</translation>
     </message>
 </context>
 <context>
@@ -2688,152 +2688,152 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="14"/>
         <source>Plot View Controller</source>
-        <translation type="unfinished">Plot View Controller</translation>
+        <translation>プロットビューコントローラ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
         <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-        <translation type="unfinished">Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</translation>
+        <translation>プロットの一般的なプロパティを処理するプロットチャートノードを選択し、複数のプロット系列ノードを選択できるようにします。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="27"/>
         <source>vtkMRMLPlotChartNode</source>
-        <translation type="unfinished">vtkMRMLPlotChartNode</translation>
+        <translation>vtkMRMLPlotChartNode</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
         <source>Export plot to SVG file</source>
-        <translation type="unfinished">Export plot to SVG file</translation>
+        <translation>プロットをSVGファイルに書き出す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="54"/>
         <source>Export...</source>
-        <translation type="unfinished">Export...</translation>
+        <translation>書き出し...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+        <translation>プロットデータ系列を現在のチャートに追加/削除します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
         <source>vtkMRMLPlotSeriesNode</source>
-        <translation type="unfinished">vtkMRMLPlotSeriesNode</translation>
+        <translation>vtkMRMLPlotSeriesNode</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
         <source>Plot chart:</source>
-        <translation type="unfinished">Plot chart:</translation>
+        <translation>プロットチャート:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
         <source>Plot data series:</source>
-        <translation type="unfinished">Plot data series:</translation>
+        <translation>プロットデータ系列:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
         <source>Plot type:</source>
-        <translation type="unfinished">Plot type:</translation>
+        <translation>プロットタイプ:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
         <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-        <translation type="unfinished">This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </translation>
+        <translation>このコンボボックスでは、すべてのアクティブなPlotSeriesNodeのタイプを変更できます。値を選択すると、PlotChartNodeによって参照されるすべてのPlotSeriesNodeが新しい値で更新されます。 </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
         <source>line</source>
-        <translation type="unfinished">line</translation>
+        <translation>線</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="123"/>
         <source>bar</source>
-        <translation type="unfinished">bar</translation>
+        <translation>バー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="128"/>
         <source>scatter</source>
-        <translation type="unfinished">scatter</translation>
+        <translation>スキャッター</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="133"/>
         <source>scatter bar</source>
-        <translation type="unfinished">scatter bar</translation>
+        <translation>スキャッターバー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="141"/>
         <source>Interaction mode:</source>
-        <translation type="unfinished">Interaction mode:</translation>
+        <translation>対話モード:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="148"/>
         <source>Action performed on mouse left-click and drag.</source>
-        <translation type="unfinished">Action performed on mouse left-click and drag.</translation>
+        <translation>マウスの左クリックとドラッグで行う動作。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="155"/>
         <source>pan view</source>
-        <translation type="unfinished">pan view</translation>
+        <translation>パンビュー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="160"/>
         <source>select points</source>
-        <translation type="unfinished">select points</translation>
+        <translation>ポイントの選択</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="165"/>
         <source>free-hand select points</source>
-        <translation type="unfinished">free-hand select points</translation>
+        <translation>フリーハンド選択ポイント</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="170"/>
         <source>move points</source>
-        <translation type="unfinished">move points</translation>
+        <translation>ポイントの移動</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="183"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>グリッド</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="186"/>
         <source>Show grid</source>
-        <translation type="unfinished">Show grid</translation>
+        <translation>グリッドを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="194"/>
         <source>Legend</source>
-        <translation type="unfinished">Legend</translation>
+        <translation>凡例</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="197"/>
         <source>Show legend</source>
-        <translation type="unfinished">Show legend</translation>
+        <translation>凡例を表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
         <source>Fit_to_window</source>
-        <translation type="unfinished">Fit_to_window</translation>
+        <translation>ウィンドウに合わせる</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation type="unfinished">Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</translation>
+        <translation>プロットビューワの視野をプロット軸の範囲に合わせて調整する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
         <source>P</source>
-        <translation type="unfinished">P</translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="339"/>
         <source>Save as SVG</source>
-        <translation type="unfinished">Save as SVG</translation>
+        <translation>SVGとして保存</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="340"/>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+        <translation>Scalable Vector Graphics (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -2841,39 +2841,39 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
         <source>L-R Range:</source>
-        <translation type="unfinished">L-R Range:</translation>
+        <translation>L-R 範囲:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="672"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1318"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1964"/>
         <source>length</source>
-        <translation type="unfinished">length</translation>
+        <translation>長さ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation type="unfinished">P-A Range:</translation>
+        <translation>P-Aの範囲:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
         <source>I-S Range:</source>
-        <translation type="unfinished">I-S Range:</translation>
+        <translation>I-Sの範囲:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2003"/>
         <source>Display Clipping box</source>
-        <translation type="unfinished">Display Clipping box</translation>
+        <translation>クリッピングボックスを表示する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2026"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished">Interactive Mode</translation>
+        <translation>対話モード</translation>
     </message>
 </context>
 <context>
@@ -2881,7 +2881,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLRangeWidget.cxx" line="70"/>
         <source>Symmetric handles</source>
-        <translation type="unfinished">Symmetric handles</translation>
+        <translation>対称ハンドル</translation>
     </message>
 </context>
 <context>
@@ -2889,84 +2889,84 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="14"/>
         <source>Scalars Display</source>
-        <translation type="unfinished">Scalars Display</translation>
+        <translation>スカラー表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
         <source>Visible:</source>
-        <translation type="unfinished">Visible:</translation>
+        <translation>可視:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="46"/>
         <source>Active Scalar:</source>
-        <translation type="unfinished">Active Scalar:</translation>
+        <translation>アクティブスカラー:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="56"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>カラーテーブル:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="66"/>
         <source>Scalar Range Mode:</source>
-        <translation type="unfinished">Scalar Range Mode:</translation>
+        <translation>スカラーレンジモード:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
         <source>Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</source>
-        <translation type="unfinished">Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</translation>
+        <translation>スカラーレンジモードフラグを設定する。データは、データのスカラー範囲から表示スカラー範囲に（自動で）更新します。ダイレクトカラーマッピングオプションは、ルックアップテーブルを無視し、スカラー値をRGBカラーとして使用します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>手動</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="85"/>
         <source>Data scalar range (auto)</source>
-        <translation type="unfinished">Data scalar range (auto)</translation>
+        <translation>データスカラー範囲(自動)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="90"/>
         <source>Color table (LUT)</source>
-        <translation type="unfinished">Color table (LUT)</translation>
+        <translation>カラーテーブル (LUT)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="95"/>
         <source>Data type</source>
-        <translation type="unfinished">Data type</translation>
+        <translation>データ型</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="100"/>
         <source>Direct color mapping</source>
-        <translation type="unfinished">Direct color mapping</translation>
+        <translation>ダイレクトカラーマッピング</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="108"/>
         <source>Displayed Range:</source>
-        <translation type="unfinished">Displayed Range:</translation>
+        <translation>表示範囲:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="115"/>
         <source>Set the display scalar range, used when the Display option is selected.</source>
-        <translation type="unfinished">Set the display scalar range, used when the Display option is selected.</translation>
+        <translation>「表示」オプションが選択されている場合に使用する表示スカラー範囲を設定します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
         <source>Threshold:</source>
-        <translation type="unfinished">Threshold:</translation>
+        <translation>しきい値：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation type="unfinished">Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
-should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</translation>
+        <translation>表示されたモデルに対して、そのスカラー値に基づいて閾値を適用します。セルの法線が反転している場合がありますが、その場合は
+すべてのセルを可視化するには、Representationオプションで&quot;backface&quot;と&quot;frontface&quot;をOFFに設定する必要があります。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
         <source>Range used to threshold scalar values.</source>
-        <translation type="unfinished">Range used to threshold scalar values.</translation>
+        <translation>スカラー値に対する閾値範囲。</translation>
     </message>
 </context>
 <context>
@@ -2974,27 +2974,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
         <source>New Scene</source>
-        <translation type="unfinished">New Scene</translation>
+        <translation>新しいシーン</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
         <source>Delete Scene</source>
-        <translation type="unfinished">Delete Scene</translation>
+        <translation>シーンを削除</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
         <source>New Node</source>
-        <translation type="unfinished">New Node</translation>
+        <translation>新規ノード</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="61"/>
         <source>Delete Node</source>
-        <translation type="unfinished">Delete Node</translation>
+        <translation>ノードの削除</translation>
     </message>
 </context>
 <context>
@@ -3002,7 +3002,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="395"/>
         <source>Checked: Force color to children</source>
-        <translation type="unfinished">Checked: Force color to children</translation>
+        <translation>チェックされた場合：子ノードに色を強制する</translation>
     </message>
 </context>
 <context>
@@ -3010,7 +3010,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneViewMenu.cxx" line="257"/>
         <source>No scene views</source>
-        <translation type="unfinished">No scene views</translation>
+        <translation>シーンビューなし</translation>
     </message>
 </context>
 <context>
@@ -3018,77 +3018,77 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
         <source>Thumbnail:</source>
-        <translation type="unfinished">Thumbnail:</translation>
+        <translation>サムネイル:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
         <source>Full layout</source>
-        <translation type="unfinished">Full layout</translation>
+        <translation>フルレイアウト</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
         <source>3D View</source>
-        <translation type="unfinished">3D View</translation>
+        <translation>3Dビュー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
         <source>Red Slice View</source>
-        <translation type="unfinished">Red Slice View</translation>
+        <translation>赤色スライスビュー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="83"/>
         <source>Yellow Slice View</source>
-        <translation type="unfinished">Yellow Slice View</translation>
+        <translation>黄色スライスビュー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="94"/>
         <source>Green Slice View</source>
-        <translation type="unfinished">Green Slice View</translation>
+        <translation>緑色スライスビュー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="138"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>スケールファクター:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="145"/>
         <source>Adjust the Magnification factor.</source>
-        <translation type="unfinished">Adjust the Magnification factor.</translation>
+        <translation>倍率を調整します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="154"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="173"/>
         <source>Save As...:</source>
-        <translation type="unfinished">Save As...:</translation>
+        <translation>名前を付けて保存...：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="180"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>説明：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
         <source>Save snapshot via File Save. Edit in Annotations module.</source>
-        <translation type="unfinished">Save snapshot via File Save. Edit in Annotations module.</translation>
+        <translation>ファイル保存でスナップショットを保存する。アノテーションモジュールで編集する。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
         <source>Save File</source>
-        <translation type="unfinished">Save File</translation>
+        <translation>ファイルを保存</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
         <source>Images (*.png *.jpg)</source>
-        <translation type="unfinished">Images (*.png *.jpg)</translation>
+        <translation>Images (*.png *.jpg)</translation>
     </message>
 </context>
 <context>
@@ -3096,184 +3096,184 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
         <source>qMRMLSegmentEditorWidget</source>
-        <translation type="unfinished">qMRMLSegmentEditorWidget</translation>
+        <translation>qMRMLSegmentEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
         <source>Master volume:</source>
-        <translation type="unfinished">Master volume:</translation>
+        <translation>マスターボリューム:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="29"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="34"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="78"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation type="unfinished">vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRMLSegmentationNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
         <source>Select master volume to enable editing</source>
-        <translation type="unfinished">Select master volume to enable editing</translation>
+        <translation>マスターボリュームを選択し、編集可能にする</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="55"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentation:</translation>
+        <translation>セグメンテーション:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
         <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-        <translation type="unfinished">Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</translation>
+        <translation>編集したラベルマップ表現のジオメトリ（グリッド原点、間隔、軸方向、デフォルト範囲）を指定する。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
         <source>Specify geometry of the edited labelmap representation</source>
-        <translation type="unfinished">Specify geometry of the edited labelmap representation</translation>
+        <translation>編集したラベルマップ表現のジオメトリを指定する。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
         <source>Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</source>
-        <translation type="unfinished">Slice views orientation are not aligned with segmentation. Striping artifacts may appear. Click to align slice views to segmentation.</translation>
+        <translation>スライスビューの向きがセグメンテーションと一致していません。ストライピングアーティファクトが表示される場合があります。クリックして、スライスビューをセグメンテーションに合わせます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="93"/>
         <source>Slice rotated</source>
-        <translation type="unfinished">Slice rotated</translation>
+        <translation>回転したスライス</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="113"/>
         <source>Add new empty segment</source>
-        <translation type="unfinished">Add new empty segment</translation>
+        <translation>新しい空のセグメントを追加</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="116"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="127"/>
         <source>Remove selected segment(s)</source>
-        <translation type="unfinished">Remove selected segment(s)</translation>
+        <translation>選択したセグメントの削除</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="130"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="141"/>
         <source> Show 3D</source>
-        <translation type="unfinished"> Show 3D</translation>
+        <translation> 3Dを表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="155"/>
         <source>Go to Segmentations module</source>
-        <translation type="unfinished">Go to Segmentations module</translation>
+        <translation>セグメンテーションモジュールに移動</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="158"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="417"/>
         <source>Segmentations</source>
-        <translation type="unfinished">Segmentations</translation>
+        <translation>セグメンテーション</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="202"/>
         <source>Undo last editing operation</source>
-        <translation type="unfinished">Undo last editing operation</translation>
+        <translation>直前の編集操作を元に戻す</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="205"/>
         <source>Undo</source>
-        <translation type="unfinished">Undo</translation>
+        <translation>元に戻す</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="222"/>
         <source>Redo last editing operation</source>
-        <translation type="unfinished">Redo last editing operation</translation>
+        <translation>直前の編集操作のやり直し</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="225"/>
         <source>Redo</source>
-        <translation type="unfinished">Redo</translation>
+        <translation>やり直し</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="262"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="305"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="344"/>
         <source>Show details.</source>
-        <translation type="unfinished">Show details.</translation>
+        <translation>詳細を表示。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="363"/>
         <source>Masking</source>
-        <translation type="unfinished">Masking</translation>
+        <translation>マスキング</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="387"/>
         <source>Editable area:</source>
-        <translation type="unfinished">Editable area:</translation>
+        <translation>編集可能な領域:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="401"/>
         <source>Editable intensity range:</source>
-        <translation type="unfinished">Editable intensity range:</translation>
+        <translation>編集可能な濃度範囲:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="408"/>
         <source>Only those regions are allowed to be changed where the master volume intensity is in the specified range</source>
-        <translation type="unfinished">Only those regions are allowed to be changed where the master volume intensity is in the specified range</translation>
+        <translation>マスターボリュームの濃度が指定された範囲内にある領域のみを変更できます</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="425"/>
         <source>Modify other segments:</source>
-        <translation type="unfinished">Modify other segments:</translation>
+        <translation>他のセグメントを変更する:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="432"/>
         <source>Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</source>
-        <translation type="unfinished">Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</translation>
+        <translation>現在のセグメントをどのセグメントで上書きするかを制御します。上書きされないセグメントは、選択されたセグメントと重なる場合があります。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="403"/>
         <source>Everywhere</source>
-        <translation type="unfinished">Everywhere</translation>
+        <translation>どこでも</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="404"/>
         <source>Inside all segments</source>
-        <translation type="unfinished">Inside all segments</translation>
+        <translation>すべてのセグメント内</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="405"/>
         <source>Inside all visible segments</source>
-        <translation type="unfinished">Inside all visible segments</translation>
+        <translation>表示されているすべてのセグメントの内側</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="406"/>
         <source>Outside all segments</source>
-        <translation type="unfinished">Outside all segments</translation>
+        <translation>すべてのセグメントの外側</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="407"/>
         <source>Outside all visible segments</source>
-        <translation type="unfinished">Outside all visible segments</translation>
+        <translation>表示されているすべてのセグメントの外側</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="411"/>
         <source>Overwrite all</source>
-        <translation type="unfinished">Overwrite all</translation>
+        <translation>すべて上書き</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="412"/>
