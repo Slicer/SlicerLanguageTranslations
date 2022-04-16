@@ -435,7 +435,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
         <source>Image threshold:</source>
-        <translation type="unfinished">Image threshold:</translation>
+        <translation>Seuil d&apos;image :</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
