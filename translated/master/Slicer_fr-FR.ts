@@ -455,7 +455,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
         <source>Pick the output to the algorithm.</source>
-        <translation>Choisissez la sortie pour l&apos;algorythme.</translation>
+        <translation>Choisissez la sortie pour l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
@@ -480,12 +480,12 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-        <translation>Si coché, les valeurs au-dessus du seuil d&apos;entrée seront mises à 0. Si décoché, les valeurs en dessous seront mises à 0.</translation>
+        <translation>Si coché, les valeurs supérieures au seuil seront mises à 0. Si décoché, les valeurs inférieures seront mises à 0.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Lancer l&apos;algorythme.</translation>
+        <translation>Lancer l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
@@ -513,7 +513,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Show DICOM database browser window</source>
-        <translation>Affiche la fenêtre de recherche de la base de données DICOM</translation>
+        <translation>Affiche la fenêtre d&apos;exploration de la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
