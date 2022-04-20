@@ -503,7 +503,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <source>Import files into DICOM database</source>
-        <translation>Importer des documents dans la base de données DICOM</translation>
+        <translation type="unfinished">Importer des fichiers dans la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
