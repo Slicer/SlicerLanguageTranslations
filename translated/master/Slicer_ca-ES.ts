@@ -120,7 +120,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
         <source>Position the label along the line</source>
-        <translation>Col·loca l&apos;etiqueta al llarg de la línia</translation>
+        <translation>Posicionar l&apos;etiqueta al llarg de la línia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
         <source>Switch to Layout</source>
-        <translation>Commutar a maquetació</translation>
+        <translation>Commutar a Disseny</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
@@ -232,7 +232,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
         <source>Layout</source>
-        <translation>Maqueta</translation>
+        <translation>Disseny</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
@@ -270,7 +270,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
         <source>Corner Text Annotation</source>
-        <translation>Anotació de text cantonada</translation>
+        <translation>Anotació de text de cantonada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
@@ -320,12 +320,12 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
         <source>Font Properties</source>
-        <translation>Propietats del tipus de lletra</translation>
+        <translation>Propietats tipografia</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
         <source>Font Family: </source>
-        <translation>Família de tipus de lletra: </translation>
+        <translation>Família tipografia: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
@@ -340,7 +340,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
         <source>Font Size: </source>
-        <translation>Mida del tipus de lletra: </translation>
+        <translation>Mida tipografia: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
@@ -723,7 +723,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2004"/>
         <source>Display Clipping box</source>
-        <translation>Mostra la caixa de retalls</translation>
+        <translation>Mostrar la caixa de retalls</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2027"/>
@@ -1043,7 +1043,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
         <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-        <translation>Nombre d&apos;etiquetes a mostrar. Només aplicable si els valors s&apos;utilitzen com a text de l&apos;etiqueta (no com a nom de color).</translation>
+        <translation>Nombre d&apos;etiquetes a presentar. Només aplicable si els valors s&apos;utilitzen com a text de l&apos;etiqueta (no com a nom de color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -1053,7 +1053,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
         <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-        <translation>Nombre màxim de colors mostrats. Redueix el nombre per a veure colors discrets en lloc d&apos;un degradat de color continu. Només aplicable si els valors s&apos;utilitzen com a text de l&apos;etiqueta (no com a nom de color).</translation>
+        <translation>Nombre màxim de colors presentats. Redueix el nombre per a veure colors discrets en lloc d&apos;un degradat de color continu. Només aplicable si els valors s&apos;utilitzen com a text de l&apos;etiqueta (no com a nom de color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
@@ -1182,7 +1182,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
         <source>Display Node</source>
-        <translation>Node de visualització</translation>
+        <translation>Node presentat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
@@ -1464,7 +1464,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
         <source>Overall visibility of the selected node in all views</source>
-        <translation>Visibilitat general del node seleccionat en totes les vistes</translation>
+        <translation>Visibilitat global del node seleccionat en totes les vistes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="44"/>
@@ -1511,7 +1511,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
         <source>Text Display</source>
-        <translation>Visualització del text</translation>
+        <translation>Presentació del text</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="148"/>
@@ -1531,7 +1531,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation>Tipus de lletra:</translation>
+        <translation>Font:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
@@ -1556,7 +1556,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
         <source>2D Display</source>
-        <translation>Visualització 2D</translation>
+        <translation>Presentació 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
@@ -1611,7 +1611,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
         <source>3D Display</source>
-        <translation>Visualització 3D</translation>
+        <translation>Presentació 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
@@ -1678,7 +1678,7 @@
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="135"/>
         <source>If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</source>
-        <translation>Si s&apos;habilita, tots els punts de control es mostraran en visualitzadors 2D, projectant-los al pla de secció.</translation>
+        <translation>Si s&apos;habilita, tots els punts de control es presenten en visualitzadors 2D, projectant-los al pla de secció.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="44"/>
@@ -1704,7 +1704,7 @@
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="97"/>
         <source>Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</source>
-        <translation>Els punts de control projectats es mostren emplenats (opacitat = Opacitat de la projecció) quan es troben per sobre del pla de secció, es delimiten quan estan darrere i amb una opacitat total quan es troben al pla. La delimitació no s&apos;utilitza per a alguns glif (Guionets2D, Creus2D, Estrelletes).</translation>
+        <translation>Els punts de control projectats es presenten emplenats (opacitat = Opacitat de la projecció) quan es troben per sobre del pla de secció, es delimiten quan estan darrere i amb una opacitat total quan es troben al pla. La delimitació no s&apos;utilitza per a alguns glif (Guionets2D, Creus2D, Estrelletes).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="90"/>
@@ -1930,12 +1930,12 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
         <source>Model Display Node</source>
-        <translation>Node de visualització del model</translation>
+        <translation>Node de presentació del model</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
         <source>3D Display</source>
-        <translation>Visualització 3D</translation>
+        <translation>Presentació 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
@@ -2483,22 +2483,22 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="266"/>
         <source>Font Type:</source>
-        <translation>Tipus de lletra:</translation>
+        <translation>Tipus tipografia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="273"/>
         <source>Chart title font size:</source>
-        <translation>Mida de la lletra del títol del gràfic:</translation>
+        <translation>Mida lletra del títol del gràfic:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="287"/>
         <source>Axis title font size:</source>
-        <translation>Mida de lletra del títol de l&apos;eix:</translation>
+        <translation>Mida lletra del títol de l&apos;eix:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="301"/>
         <source>Axis label font size:</source>
-        <translation>Mida de lletra de l&apos;etiqueta de l&apos;eix:</translation>
+        <translation>Mida lletra de l&apos;etiqueta de l&apos;eix:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="315"/>
@@ -2513,7 +2513,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="336"/>
         <source>Legend font size:</source>
-        <translation>Mida de lletra de la llegenda:</translation>
+        <translation>Mida lletra de la llegenda:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="350"/>
@@ -2586,7 +2586,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="137"/>
         <source>This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</source>
-        <translation type="unfinished">This column contains a label for each data point. Label is displayed in the tooltip when the mouse hovers over a data point in the plot view.</translation>
+        <translation>Aquesta columna conté una etiqueta per a cada punt de dades. L&apos;etiqueta emergeix quan el ratolí passa per sobre d&apos;un punt de dades a la vista de dibuix.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
@@ -2602,7 +2602,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="161"/>
         <source>plus</source>
-        <translation type="unfinished">més</translation>
+        <translation>plus</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="166"/>
@@ -2889,7 +2889,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="14"/>
         <source>Scalars Display</source>
-        <translation>Pantalla escalars</translation>
+        <translation>Presentació d&apos;escalars</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
@@ -2914,7 +2914,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
         <source>Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</source>
-        <translation>Estableix l&apos;indicador de selecció del mode d&apos;interval escalar. Les dades (automàticament) actualitzen l&apos;interval escalar en funció de l&apos;interval de dades escalar. L&apos;opció de visualització en color directe passa per alt la taula de cerca i utilitza valors escalars com a color RGB.</translation>
+        <translation>Estableix l&apos;indicador de mode d&apos;interval escalar. Les dades (automàticament) actualitzen l&apos;interval escalar presentat en funció de l&apos;interval de dades escalar. L&apos;opció de visualització en color directe passa per alt la taula de cerca i utilitza valors escalars com a color RGB.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
@@ -2944,12 +2944,12 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="108"/>
         <source>Displayed Range:</source>
-        <translation>Interval mostrat:</translation>
+        <translation>Interval presentat:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="115"/>
         <source>Set the display scalar range, used when the Display option is selected.</source>
-        <translation>Estableix l&apos;interval escalar de visualització, que s&apos;utilitza quan l&apos;opció Mostra està seleccionada.</translation>
+        <translation>Estableix l&apos;interval escalar de presentació, que s&apos;utilitza quan l&apos;opció Presentació està seleccionada.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
@@ -2960,8 +2960,8 @@
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation>Aplicar un llindar al model que es mostra en funció dels seus valors escalars. Algunes cel·les normals es poden invertir, en aquest cas
-hauria d&apos;establir «cara posterior« i «cara frontal» a OFF a opcions de representació per a visualitzar totes les cel·les.</translation>
+        <translation>Aplicar un llindar al model presentat en funció dels seus valors escalars. Algunes cel·les normals es poden invertir, en aquest cas
+hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de representació per a visualitzar totes les cel·les.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
@@ -3096,7 +3096,7 @@ hauria d&apos;establir «cara posterior« i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
         <source>qMRMLSegmentEditorWidget</source>
-        <translation type="unfinished">qMRMLSegmentEditorWidget</translation>
+        <translation>qMRMLSegmentEditorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
@@ -3524,7 +3524,7 @@ hauria d&apos;establir «cara posterior« i «cara frontal» a OFF a opcions de 
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="451"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="470"/>
         <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-        <translation>Valor relatiu a altres segments. L&apos;opacitat final depèn tant de l&apos;opacitat per segment com de l&apos;opacitat global (a dalt)</translation>
+        <translation>Valor relatiu a altres segments. L&apos;opacitat final depèn tant de l&apos;opacitat del segment com de l&apos;opacitat global (a dalt)</translation>
     </message>
 </context>
 <context>
@@ -5030,7 +5030,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="99"/>
         <source>Rock the 3D view.</source>
-        <translation>Rock la vista 3D.</translation>
+        <translation>Rotar la vista 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="119"/>
@@ -5950,12 +5950,11 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Estableix el prefix de la unitat.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;El prefix de la unitat es mostrarà a l&apos;aplicació abans del valor de la unitat. Per exemple, el prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&amp;quot; es pot utilitzar abans d&apos;una unitat.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;El prefix de la unitat es presentarà a l&apos;aplicació abans del valor de la unitat. Per exemple, el prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&amp;quot; es pot utilitzar abans d&apos;una unitat.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"/>
@@ -6341,7 +6340,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="60"/>
         <source>Propagate changes to all nodes in this list. If not checked, only when the hierarchy is collapsed will the nodes below it use these display properties.</source>
-        <translation>Propaga els canvis a tots els nodes d&apos;aquesta llista. Si no està marcat, només quan la jerarquia estigui replegada, els nodes que hi ha a sota utilitzaran aquestes propietats de visualització.</translation>
+        <translation>Propaga els canvis a tots els nodes d&apos;aquesta llista. Si no està marcat, només quan la jerarquia estigui replegada, els nodes que hi ha a sota utilitzaran aquestes propietats de presentació.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="66"/>
@@ -6592,7 +6591,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="884"/>
         <source>Position the label along the line</source>
-        <translation>Col·loca l&apos;etiqueta al llarg de la línia</translation>
+        <translation>Posicionar l&apos;etiqueta al llarg de la línia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="897"/>
@@ -6728,7 +6727,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="323"/>
         <source>Display a report of highlighted annotations</source>
-        <translation>Mostra un informe de les anotacions destacades</translation>
+        <translation>Mostrar un informe de les anotacions destacades</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="355"/>
@@ -7183,7 +7182,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>Gestiona les vistes 3D i càmeres. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Canvia la disposició a «Disposició 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disposició 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES / dades, en tancar l&apos;escena probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
+        <translation>Gestiona les vistes 3D i càmeres. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Canvia la disposició a «Disseny 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disseny 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES / dades, en tancar l&apos;escena probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -7259,12 +7258,12 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
         <source>Displayable node:</source>
-        <translation>Node visible:</translation>
+        <translation>Node presentat:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
         <source>Create color legend for the selected displayable node.</source>
-        <translation>Crear una llegenda de colors per al node visualitzable seleccionat.</translation>
+        <translation>Crear una llegenda de colors per al node presentat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="137"/>
@@ -7274,7 +7273,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="144"/>
         <source>Use the currently selected colors for the selected displayable node.</source>
-        <translation>Utilitza els colors seleccionats actualment per al node visualitzable seleccionat.</translation>
+        <translation>Utilitzar els colors seleccionats actualment per al node presentat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="147"/>
@@ -7284,7 +7283,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="154"/>
         <source>Delete the color legend for the selected displayable node.</source>
-        <translation>Elimina la llegenda de colors del node visualitzable seleccionat.</translation>
+        <translation>Eliminar la llegenda de colors per al node presentat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="157"/>
@@ -7991,12 +7990,12 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="14"/>
         <source>Tensor Display Properties</source>
-        <translation>Propietats de visualització del tensor</translation>
+        <translation>Propietats de presentació del tensor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation>Pantalla escalar</translation>
+        <translation>Presentació d&apos;escalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
@@ -8006,7 +8005,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation>Glifs a la pantalla de seccions</translation>
+        <translation>Glifs a la presentació de seccions</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
@@ -8034,12 +8033,12 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
         <source>DWI Display Properties</source>
-        <translation>Propietats de visualització DWI</translation>
+        <translation>Propietats de presentació DWI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation>Pantalla escalar</translation>
+        <translation>Presentació d&apos;escalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
@@ -8276,7 +8275,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
         <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-        <translation>&amp;lt;colorfont=&quot;vermell&quot;&amp;gt;* Reinici sol·licitat</translation>
+        <translation>&lt;font color=&quot;vermell&quot;&gt;* Reinici sol·licitat&lt;/font&gt;</translation>
     </message>
 </context>
 <context>
@@ -8612,7 +8611,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
         <source>When displaying the label map with the outline/not filled option, this controls the width of the outline.</source>
-        <translation>Quan es mostra el mapa d&apos;etiquetes amb l&apos;opció delimitat/no emplenat, es controla l&apos;amplada de la delimitació.</translation>
+        <translation>Quan es presenta el mapa d&apos;etiquetes amb l&apos;opció delimitat/no emplenat, es controla l&apos;amplada de la delimitació.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="35"/>
@@ -8681,7 +8680,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>
         <source>Layout Selection</source>
-        <translation>Selecció de disseny</translation>
+        <translation>Selecció de Disseny</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="123"/>
@@ -8706,12 +8705,12 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="171"/>
         <source>Layout ToolBar</source>
-        <translation>Barra d&apos;eines de disseny</translation>
+        <translation>Barra d&apos;eines de Disseny</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="217"/>
         <source>&amp;File</source>
-        <translation>&amp;amp;fitxer</translation>
+        <translation>&amp;amp;Fitxer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="221"/>
@@ -8732,7 +8731,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="249"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="372"/>
         <source>Layout</source>
-        <translation>Disposició</translation>
+        <translation>Disseny</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="286"/>
@@ -8803,7 +8802,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="381"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
-        <translation>Eleva un estri «Afegir volum» que et permet seleccionar un conjunt de dades volumètric per a afegir a l&apos;escena existent. El quadre «Opcions de volum» es pot utilitzar per aclarir com s&apos;ha de carregar i mostrar un conjunt de dades seleccionat.</translation>
+        <translation>Eleva un estri «Afegir volum» que et permet seleccionar un conjunt de dades volumètric per a afegir a l&apos;escena existent. El quadre «Opcions de volum» es pot utilitzar per a aclarir com s&apos;ha de carregar i presentar el conjunt de dades seleccionat.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="390"/>
@@ -8824,7 +8823,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="405"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation>Mostra el giny «Desa dades», que ofereix moltes opcions per a desar una escena i/o conjunts de dades individuals.</translation>
+        <translation>Mostra el giny «Desar dades», que ofereix moltes opcions per a desar una escena i/o conjunts de dades individuals.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="408"/>
@@ -9029,7 +9028,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="600"/>
         <source>Raise the error log display.</source>
-        <translation>Eleva la visualització del registre d&apos;errors.</translation>
+        <translation>Eleva la presentació del registre d&apos;errors.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="603"/>
@@ -9456,7 +9455,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation>Desar la configuració actual de la propietat de pantalla a les predeterminades, es desarà quan es reiniciï Slicer (veure Configuració de l&apos;aplicació)</translation>
+        <translation>Desar la configuració actual de les propietats de presentació a les predeterminades, es desarà quan es reiniciï Slicer (veure Configuració de l&apos;aplicació)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -9466,7 +9465,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
         <source>Use default display properties.</source>
-        <translation>Utilitzar les propietats de pantalla per defecte.</translation>
+        <translation>Utilitzar les propietats de presentació per defecte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
@@ -9591,7 +9590,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
         <source>World</source>
-        <translation>Món</translation>
+        <translation>Global</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="542"/>
@@ -9829,7 +9828,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="35"/>
         <source>Select the display color.</source>
-        <translation>Selecciona el color de visualització.</translation>
+        <translation>Selecciona el color de presentació.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="57"/>
@@ -10320,7 +10319,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
         <source>Translate/rotate view, adjust displayed objects</source>
-        <translation>Traslladar / girar la vista, ajustar els objectes mostrats</translation>
+        <translation>Traslladar/girar la vista, ajustar els objectes presentats</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
@@ -10784,7 +10783,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="14"/>
         <source>Scalar Volume Display</source>
-        <translation>Visualització de volum escalar</translation>
+        <translation>Presentació de volum escalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="32"/>
@@ -11547,7 +11546,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="290"/>
         <source>If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</source>
-        <translation>Si està marcat, es poden saltar elements durant la reproducció per a assolir la velocitat de fotogrames sol·licitada. Si no es marca, cada element es mostra durant la reproducció, però la velocitat de reproducció pot ser inferior a la sol·licitada.</translation>
+        <translation>Si està marcat, es poden saltar elements durant la reproducció per a assolir la velocitat de fotogrames sol·licitada. Si no es marca, cada element es presenta durant la reproducció, però la velocitat de reproducció pot ser inferior a la sol·licitada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="300"/>
@@ -11579,7 +11578,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="363"/>
         <source>Index display:</source>
-        <translation>Mostrar l&apos;índex:</translation>
+        <translation>Presentació de l&apos;índex:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="371"/>
@@ -11596,7 +11595,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="384"/>
         <source>Index display format:</source>
-        <translation>Format de visualització de l&apos;índex:</translation>
+        <translation>Format de presentació de l&apos;índex:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
@@ -11843,7 +11842,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
         <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
-        <translation>Temps d&apos;espera abans de reprendre l&apos;execució de l&apos;autoprova i ocultar els missatges que es mostren a l&apos;usuari</translation>
+        <translation>Temps d&apos;espera abans de reprendre l&apos;execució de l&apos;autoprova i ocultar els missatges presentats a l&apos;usuari</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="73"/>
@@ -12235,7 +12234,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>Shell Display</source>
-        <translation>Mostrar el Shell</translation>
+        <translation>Presentació del Shell</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
@@ -12245,12 +12244,12 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</source>
-        <translation>Mostra l&apos;interaccionador de Python en una finestra que es pot col·locar dins la finestra principal. Si està desactivat, l&apos;interaccionador de Python es mostra com una finestra independent.</translation>
+        <translation>Mostra l&apos;interaccionador de Python en una finestra que es pot col·locar dins la finestra principal. Si està desactivat, l&apos;interaccionador de Python es presenta com una finestra independent.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="49"/>
         <source>Shell font:</source>
-        <translation>Tipus de lletra de Shell:</translation>
+        <translation>Font de Shell:</translation>
     </message>
 </context>
 <context>
@@ -12348,7 +12347,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
         <source>Disable tooltips:</source>
-        <translation>Inhabilitar els consells d&apos;eines:</translation>
+        <translation>Inhabilitar els consells emergents:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="148"/>
@@ -12357,11 +12356,10 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Defineix si apareixen o no els consells d&apos;eines (com aquest) quan el ratolí passa per sobre dels estris.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Defineix si emergeixen o no els consells (com aquest) quan el ratolí passa per sobre dels estris.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="162"/>
@@ -12821,7 +12819,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="154"/>
         <source>Center the slice view on the currently displayed volume.</source>
-        <translation>Centrar la vista de la secció al volum que es mostra actualment.</translation>
+        <translation>Centrar la vista de la secció al volum presentat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
@@ -12831,7 +12829,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
         <source>Show this view maximized in the view layout</source>
-        <translation>Mostra aquesta vista maximizada al disseny de la vista</translation>
+        <translation>Mostra aquesta vista maximitzada a la disposició de la vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
@@ -12856,7 +12854,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
         <source>Configures display of corner annotations and color legend.</source>
-        <translation>Configura la visualització de les anotacions de cantonada i la llegenda de colors.</translation>
+        <translation>Configura la presentació de les anotacions de cantonada i la llegenda de colors.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="182"/>
@@ -12894,7 +12892,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation>Commutar al mòdul de representació de volum per a gestionar les opcions de visualització</translation>
+        <translation>Commutar al mòdul de representació de volum per a gestionar les opcions de presentació</translation>
     </message>
 </context>
 <context>
@@ -13712,17 +13710,17 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="65"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation>Els plans de vista de secció es desplacen perquè coincideixin amb la posició del punt de mira (fins i tot si no es mostra el punt de mira).</translation>
+        <translation>Els plans de vista de secció es desplacen perquè coincideixin amb la posició del punt de mira (fins i tot si no hi ha punt de mira).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="69"/>
         <source>Jump slices - centered</source>
-        <translation>Saltar seccions - centrades</translation>
+        <translation>Saltar seccions - centrat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="70"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation>Les vistes de secció es centren a la posició del punt de mira (encara que el punt de mira no es mostri).</translation>
+        <translation>Les vistes de secció es centren a la posició del punt de mira (fins i tot si no hi ha punt de mira).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="89"/>
@@ -13732,7 +13730,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="90"/>
         <source>No crosshair displayed.</source>
-        <translation>No es mostra cap punt de mira.</translation>
+        <translation>No hi ha cap punt de mira.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
@@ -14193,7 +14191,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="95"/>
         <source>Color table node used to display this volume.</source>
-        <translation>Node de la taula de colors utilitzat per a mostrar aquest volum.</translation>
+        <translation>Node de la taula de colors utilitzat en presentar aquest volum.</translation>
     </message>
 </context>
 <context>
