@@ -16,12 +16,12 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
         <source>Toggle visibility</source>
-        <translation>Commuta la visibilitat</translation>
+        <translation>Commutar la visibilitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation>Habilita / deshabilita bloqueig</translation>
+        <translation>Commutar desbloqueig/bloqueig</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation>Nivell de visualització d&apos;anotacions:</translation>
+        <translation>Nivell de presentació d&apos;anotacions:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
@@ -503,7 +503,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <source>Import files into DICOM database</source>
-        <translation>Importa fitxers a la base de dades DICOM</translation>
+        <translation>Importar fitxers a la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
@@ -513,12 +513,12 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Show DICOM database browser window</source>
-        <translation>Mostra la finestra del navegador de la base de dades DICOM</translation>
+        <translation>Mostrar la finestra del navegador de la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation>    Mostra la base de dades DICOM</translation>
+        <translation>    Mostrar la base de dades DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
@@ -538,7 +538,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation>Consulta i recupera conjunts de dades DICOM des del servidor remot</translation>
+        <translation>Consultar i recuperar conjunts de dades DICOM des del servidor remot</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
@@ -650,7 +650,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="45"/>
         <source>Turn on/off visualization of projected fiducial on 2D viewers</source>
-        <translation type="unfinished">Turn on/off visualization of projected fiducial on 2D viewers</translation>
+        <translation>Activar/desactivar la visualització del fiducial projectat en visualitzadors 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="38"/>
@@ -672,7 +672,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="109"/>
         <source>Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</source>
-        <translation>La projecció fiduciària es mostra emplenada quan es troba a la part superior del pla de secció, delimitada quan està darrere i amb una opacitat total quan es troba al pla</translation>
+        <translation>La projecció fiduciària es presenta emplenada quan es troba a la part superior del pla de secció, delimitada quan està darrere i amb una opacitat total quan es troba al pla</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
@@ -683,12 +683,12 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="132"/>
         <source>Use the same color as fiducial</source>
-        <translation type="unfinished">Use the same color as fiducial</translation>
+        <translation>Utilitzar el mateix color que el fiducial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="125"/>
         <source>Use Fiducial Color</source>
-        <translation type="unfinished">Use Fiducial Color</translation>
+        <translation>Utilitzar el color fiducial</translation>
     </message>
 </context>
 <context>
@@ -723,7 +723,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2004"/>
         <source>Display Clipping box</source>
-        <translation>Mostrar la caixa de retalls</translation>
+        <translation>Mostra la caixa de retalls</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2027"/>
@@ -742,7 +742,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="48"/>
         <source>Turn on/off visualization of projected line on 2D viewers</source>
-        <translation type="unfinished">Turn on/off visualization of projected line on 2D viewers</translation>
+        <translation>Activa/desactiva la visualització de la línia projectada en visualitzadors 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
@@ -786,7 +786,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
         <source>Underline Thickness</source>
-        <translation type="unfinished">Underline Thickness</translation>
+        <translation>Gruix del subratllat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="160"/>
@@ -824,7 +824,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="229"/>
         <source>Use Ruler Color</source>
-        <translation type="unfinished">Use Ruler Color</translation>
+        <translation>Utilitzar el color del regle</translation>
     </message>
 </context>
 <context>
@@ -1063,7 +1063,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="189"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="202"/>
@@ -1459,7 +1459,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
         <source>Markups Display Node</source>
-        <translation>Node de visualització de marcatges</translation>
+        <translation>Node de presentació de marcatges</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
@@ -2221,7 +2221,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="195"/>
         <source>Verts</source>
-        <translation type="unfinished">Verts</translation>
+        <translation>Verts</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
@@ -2818,7 +2818,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation>Ajustar el camp de visió de la vista de traçat perquè coincideixi amb l&apos;extensió dels eixos de traçat</translation>
+        <translation>Ajustar el camp de visió del visualitzador de diagrama perquè coincideixi amb l&apos;extensió dels eixos de traçat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
@@ -3183,12 +3183,12 @@ hauria d&apos;establir «cara posterior« i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="202"/>
         <source>Undo last editing operation</source>
-        <translation type="unfinished">Undo last editing operation</translation>
+        <translation>Desfer l&apos;última operació d&apos;edició</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="205"/>
         <source>Undo</source>
-        <translation type="unfinished">Desfés</translation>
+        <translation>Desfer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="222"/>
@@ -3524,7 +3524,7 @@ hauria d&apos;establir «cara posterior« i «cara frontal» a OFF a opcions de 
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="451"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="470"/>
         <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-        <translation type="unfinished">Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</translation>
+        <translation>Valor relatiu a altres segments. L&apos;opacitat final depèn tant de l&apos;opacitat per segment com de l&apos;opacitat global (a dalt)</translation>
     </message>
 </context>
 <context>
@@ -3996,7 +3996,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unitat:</translation>
+        <translation>Unitat:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
@@ -4050,7 +4050,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
         <source>Toggle slice visibility in the 3D view.</source>
-        <translation type="unfinished">Toggle slice visibility in the 3D view.</translation>
+        <translation>Commutar la visibilitat de la secció a la vista 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
@@ -4296,7 +4296,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1021"/>
         <source>Toggle foreground visibility</source>
-        <translation type="unfinished">Toggle foreground visibility</translation>
+        <translation>Commutar la visibilitat del primer pla</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
@@ -4316,7 +4316,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
         <source>Toggle slice visibility in 3D view</source>
-        <translation type="unfinished">Toggle slice visibility in 3D view</translation>
+        <translation>Commutar la visibilitat del sector a la vista 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1064"/>
@@ -4421,7 +4421,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1180"/>
         <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-        <translation>Canviar entre els estats només delimitació de segments, delimitat i emplenat, i només emplenat</translation>
+        <translation>Commutar entre estats de segments: només delimitació, delimitació i emplenament, i només emplenament</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1196"/>
@@ -4431,7 +4431,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1199"/>
         <source>Toggle segmentation visibility</source>
-        <translation type="unfinished">Toggle segmentation visibility</translation>
+        <translation>Commutar la visibilitat de la segmentació</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
@@ -4648,7 +4648,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
         <source>Toggle the visibility of the slice in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the slice in the 3D scene</translation>
+        <translation>Commutar la visibilitat de la secció a l&apos;escena 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
@@ -4664,7 +4664,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
         <source>Toggle the visibility of the reformat widget in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the reformat widget in the 3D scene</translation>
+        <translation>Commutar la visibilitat del giny reformat a l&apos;escena 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="145"/>
@@ -4739,7 +4739,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>Veure grup:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
@@ -5035,7 +5035,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="119"/>
         <source>Toggle visibility of elements in the 3D view.</source>
-        <translation type="unfinished">Toggle visibility of elements in the 3D view.</translation>
+        <translation>Commutar la visibilitat dels elements a la vista 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
@@ -5056,7 +5056,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
         <source>Show ruler. Only available in orthographic projection mode.</source>
-        <translation>Mostra el regle. Només disponible en mode de projecció ortogràfica.</translation>
+        <translation>Mostra el regle. Només disponible en mode de projecció ortogonal.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="219"/>
@@ -5066,7 +5066,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="236"/>
         <source>Toggle between orthographic and perspective rendering in the 3D view.</source>
-        <translation>Commuta entre la representació ortogràfica i la representació en perspectiva a la vista 3D.</translation>
+        <translation>Commutar entre la representació ortogonal i la representació en perspectiva a la vista 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="257"/>
@@ -5172,7 +5172,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="432"/>
         <source>User Defined 1</source>
-        <translation type="unfinished">User Defined 1</translation>
+        <translation>Definit per l&apos;usuari 1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="435"/>
@@ -5182,7 +5182,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="443"/>
         <source>User Defined 2</source>
-        <translation type="unfinished">User Defined 2</translation>
+        <translation>Definit per l&apos;usuari 2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="446"/>
@@ -5192,7 +5192,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="454"/>
         <source>User Defined 3</source>
-        <translation type="unfinished">User Defined 3</translation>
+        <translation>Definit per l&apos;usuari 3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="457"/>
@@ -5360,7 +5360,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="43"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>Veure grup:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="50"/>
@@ -5398,7 +5398,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="90"/>
         <source>Update bounds</source>
-        <translation type="unfinished">Update bounds</translation>
+        <translation>Actualitzar els límits</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="97"/>
@@ -5799,12 +5799,12 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="14"/>
         <source>Transform Information</source>
-        <translation type="unfinished">Transform Information</translation>
+        <translation>Informació de la transformació</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="23"/>
         <source>Transform to parent:</source>
-        <translation type="unfinished">Transform to parent:</translation>
+        <translation>Transformar a pare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="48"/>
@@ -5815,12 +5815,12 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="60"/>
         <source>Transform from parent:</source>
-        <translation type="unfinished">Transform from parent:</translation>
+        <translation>Transforma des del pare:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
         <source>ViewerRAS</source>
-        <translation type="unfinished">ViewerRAS</translation>
+        <translation>VisualitzadorDAS</translation>
     </message>
 </context>
 <context>
@@ -5828,7 +5828,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="14"/>
         <source>Transform</source>
-        <translation type="unfinished">Transforma</translation>
+        <translation>Transformar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="26"/>
@@ -5920,7 +5920,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="14"/>
         <source>UnitWidget</source>
-        <translation type="unfinished">UnitWidget</translation>
+        <translation>UnitWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="23"/>
@@ -6081,7 +6081,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="20"/>
         <source>Volume Information</source>
-        <translation type="unfinished">Volume Information</translation>
+        <translation>Informació del volum</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
@@ -6356,7 +6356,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="116"/>
         <source>Toggle un-/locked</source>
-        <translation type="unfinished">Toggle un-/locked</translation>
+        <translation>Commutar desbloqueig/bloqueig</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="132"/>
@@ -6495,7 +6495,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="615"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="776"/>
         <source>Unselected Color</source>
-        <translation type="unfinished">Unselected Color</translation>
+        <translation>Color no seleccionat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="411"/>
@@ -6524,7 +6524,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="488"/>
         <source>Turn on/off visualization of text (when off, overrides ruler label visibility)</source>
-        <translation>Activa/desactiva la visualització del text (quan està desactivat, anul·la la visibilitat de l&apos;etiqueta de la regla)</translation>
+        <translation>Activa/desactiva la visualització del text (quan està desactivat, anul·la la visibilitat de l&apos;etiqueta del regle)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="521"/>
@@ -6703,12 +6703,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="169"/>
         <source>Toggle the visibility of highlighted Annotations. Hierarchies are ignored.</source>
-        <translation type="unfinished">Toggle the visibility of highlighted Annotations. Hierarchies are ignored.</translation>
+        <translation>Commutar la visibilitat de les anotacions destacades. S&apos;ignoren les jerarquies.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="195"/>
         <source>Unselect all annotations and hierarchies</source>
-        <translation type="unfinished">Unselect all annotations and hierarchies</translation>
+        <translation>Desmarcar totes les anotacions i jerarquies</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="227"/>
@@ -6865,7 +6865,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="290"/>
         <source>User</source>
-        <translation type="unfinished">Usuari</translation>
+        <translation>Usuari</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="294"/>
@@ -7183,7 +7183,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>Gestiona les visualitzacions i càmeres 3D. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Canvia la disposició a «Disposició 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disposició 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES / dades, en tancar l&apos;escena probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
+        <translation>Gestiona les vistes 3D i càmeres. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Canvia la disposició a «Disposició 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disposició 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES / dades, en tancar l&apos;escena probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -7274,12 +7274,12 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="144"/>
         <source>Use the currently selected colors for the selected displayable node.</source>
-        <translation type="unfinished">Use the currently selected colors for the selected displayable node.</translation>
+        <translation>Utilitza els colors seleccionats actualment per al node visualitzable seleccionat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="147"/>
         <source>Use current colors</source>
-        <translation type="unfinished">Use current colors</translation>
+        <translation>Utilitzar els colors actuals</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="154"/>
@@ -7355,7 +7355,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="827"/>
         <source>Unable to find a storable node with ID %1</source>
-        <translation type="unfinished">Unable to find a storable node with ID %1</translation>
+        <translation>No s&apos;ha pogut trobar un node emmagatzemable amb l&apos;ID %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="840"/>
@@ -7670,7 +7670,7 @@ Els objectes de dades creats són compatibles amb la majoria de programari DICOM
         <source>Save the entire scene, with all data and display settings embedded in private fields.
 The file can be stored on standard image archival systems and used in this application,
 but cannot be interpreted by most standard DICOM imaging applications.</source>
-        <translation>Desar tota l&apos;escena, amb totes les dades i la configuració de visualització incrustada en camps privats.
+        <translation>Desar tota l&apos;escena, amb totes les dades i els paràmetres de presentació incrustats en camps privats.
 El fitxer es pot emmagatzemar en sistemes d&apos;arxiu d&apos;imatges estàndard i utilitzar-lo en aquesta aplicació,
 però no pot ser interpretat per la majoria de les aplicacions d&apos;imatge DICOM estàndard.</translation>
     </message>
@@ -7802,7 +7802,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
         <source>Tubes</source>
-        <translation type="unfinished">Configura les gomes/tubs elàstics connectats</translation>
+        <translation>Tubs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
@@ -7920,7 +7920,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation>Una cadena sensible a majúscules i minúscules per a filtrar nodes, utilitza totes les columnes (encara que estigui ocult)</translation>
+        <translation>Una cadena sensible a majúscules i minúscules per a filtrar nodes, utilitza totes les columnes (encara que estiguin ocultes)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
@@ -7930,14 +7930,14 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
         <source>Show transforms</source>
-        <translation>Mostra les transformacions</translation>
+        <translation>Mostrar les transformacions</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation>Mostra els ID de MRML</translation>
+        <translation>Mostrar els ID de MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
@@ -7952,13 +7952,13 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
         <source>Transform hierarchy</source>
-        <translation type="unfinished">Transform hierarchy</translation>
+        <translation>Transformar la jerarquia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
-        <translation>Mostra els nodes ocults</translation>
+        <translation>Mostrar els nodes ocults</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="273"/>
@@ -8213,7 +8213,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="70"/>
         <source>Update</source>
-        <translation type="unfinished">Actualitza</translation>
+        <translation>Actualitzar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="77"/>
@@ -8253,7 +8253,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="145"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Desinstal·la</translation>
+        <translation>Desinstal·lar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="152"/>
@@ -8676,7 +8676,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
         <source>Undo Redo ToolBar</source>
-        <translation type="unfinished">Undo Redo ToolBar</translation>
+        <translation>Barra d&apos;eines Desfer Refer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>
@@ -8726,7 +8726,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="245"/>
         <source>&amp;View</source>
-        <translation type="unfinished">&amp;amp;Vista</translation>
+        <translation>&amp;amp;Vista</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="249"/>
@@ -8737,7 +8737,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="286"/>
         <source>&amp;Toolbars</source>
-        <translation>&amp;amp;Barres d’eines</translation>
+        <translation>&amp;amp;Barres d&apos;eines</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="301"/>
@@ -8773,7 +8773,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="342"/>
         <source>Raise the DICOM module for loading DICOM datasets.</source>
-        <translation>Eleva el mòdul DICOM per a carregar conjunts de dades DICOM.</translation>
+        <translation>Elevar el mòdul DICOM per a carregar conjunts de dades DICOM.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="351"/>
@@ -8839,7 +8839,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="420"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-        <translation type="unfinished">UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</translation>
+        <translation>EN CONSTRUCCIÓ: Desa l&apos;escena actual en un directori independent.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="429"/>
@@ -8879,12 +8879,12 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="464"/>
         <source>Undo</source>
-        <translation type="unfinished">Desfés</translation>
+        <translation>Desfer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="467"/>
         <source>Undo the history of undoable commands, from last to first.</source>
-        <translation type="unfinished">Undo the history of undoable commands, from last to first.</translation>
+        <translation>Desfer l&apos;historial de les ordres que es poden desfer, de l&apos;última a la primera.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="470"/>
@@ -9125,12 +9125,12 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="780"/>
         <source>Two over two</source>
-        <translation type="unfinished">Two over two</translation>
+        <translation>Dos sobre dos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="783"/>
         <source>Two over Two Layout</source>
-        <translation type="unfinished">Two over Two Layout</translation>
+        <translation>Disseny dos sobre dos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="795"/>
@@ -9155,7 +9155,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="822"/>
         <source>Triple 3D</source>
-        <translation type="unfinished">Triple 3D</translation>
+        <translation>Triple 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="831"/>
@@ -9171,43 +9171,43 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="849"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="912"/>
         <source>2 viewers</source>
-        <translation>2 espectadors</translation>
+        <translation>2 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="858"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="921"/>
         <source>3 viewers</source>
-        <translation>3 espectadors</translation>
+        <translation>3 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="867"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="930"/>
         <source>4 viewers</source>
-        <translation>4 espectadors</translation>
+        <translation>4 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="876"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="939"/>
         <source>5 viewers</source>
-        <translation>5 espectadors</translation>
+        <translation>5 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="885"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="948"/>
         <source>6 viewers</source>
-        <translation>6 espectadors</translation>
+        <translation>6 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="894"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="957"/>
         <source>7 viewers</source>
-        <translation>7 espectadors</translation>
+        <translation>7 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="903"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="966"/>
         <source>8 viewers</source>
-        <translation>8 espectadors</translation>
+        <translation>8 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="975"/>
@@ -9217,17 +9217,17 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="984"/>
         <source>2x2 viewers</source>
-        <translation>2x2 espectadors</translation>
+        <translation>2x2 visualitzadors</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="993"/>
         <source>3x3 viewers</source>
-        <translation>Espectadors 3x3</translation>
+        <translation>Visualitzadors 3x3</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1002"/>
         <source>4x4 viewers</source>
-        <translation>Espectadors 4x4</translation>
+        <translation>Visualitzadors 4x4</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1007"/>
@@ -9683,7 +9683,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="738"/>
         <source>Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</source>
-        <translation type="unfinished">Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</translation>
+        <translation>Utilitza jerarquies fiducials d&apos;anotacions per a fer llistes de marcatge. Elimina les anotacions un cop s&apos;han mogut.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="741"/>
@@ -9897,7 +9897,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="176"/>
         <source>Toggle markup visibility</source>
-        <translation type="unfinished">Toggle markup visibility</translation>
+        <translation>Commutar la visibilitat del marcatge</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="186"/>
@@ -9907,7 +9907,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="189"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished">Toggle control point positions lock</translation>
+        <translation>Commutar el bloqueig de les posicions dels punts de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="199"/>
@@ -9917,7 +9917,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="202"/>
         <source>Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</source>
-        <translation type="unfinished">Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</translation>
+        <translation>Commutar el bloqueig del número de punts de control. Si està bloquejat, no és possible afegir ni suprimir punts de control. En lloc de suprimir, els punts de control de posició es poden desassignar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="137"/>
@@ -9955,7 +9955,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="37"/>
         <source>Vertex2D</source>
-        <translation type="unfinished">Vertex2D</translation>
+        <translation>Vèrtex2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="42"/>
@@ -9975,7 +9975,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation type="unfinished">Triangle2D</translation>
+        <translation>Triangle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
@@ -10129,12 +10129,12 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
         <source>Turn the visibility off on all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turn the visibility off on all models (does not include hierarchies)</translation>
+        <translation>Desactiva la visibilitat a tots els models (no inclou jerarquies)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turns visibility on for all models (does not include hierarchies)</translation>
+        <translation>Activa la visibilitat de tots els models (no inclou jerarquies)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="113"/>
@@ -10341,7 +10341,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
         <source>Toggle Markups Toolbar</source>
-        <translation type="unfinished">Toggle Markups Toolbar</translation>
+        <translation>Commutar la barra d&apos;eines de marcatges</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="157"/>
@@ -10474,7 +10474,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
         <source>Data series:</source>
-        <translation>Sèrie de dades:</translation>
+        <translation>Sèries de dades:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="127"/>
@@ -10944,7 +10944,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Unlimited</source>
-        <translation type="unfinished">Il·limitat</translation>
+        <translation>Il·limitat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1182"/>
@@ -11091,7 +11091,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="158"/>
         <source>Display settings for the segmentation (all segments)</source>
-        <translation>Mostra la configuració de la segmentació (tots els segments)</translation>
+        <translation>Paràmetres de presentació de la segmentació (tots els segments)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="161"/>
@@ -11631,7 +11631,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="472"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unitat:</translation>
+        <translation>Unitat:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="485"/>
@@ -11691,7 +11691,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="691"/>
         <source>undefined</source>
-        <translation type="unfinished">no definit</translation>
+        <translation>no definit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1331"/>
@@ -11760,7 +11760,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
         <source>Upper limit of the dedicated cache for downloaded files</source>
-        <translation type="unfinished">Upper limit of the dedicated cache for downloaded files</translation>
+        <translation>Límit superior de la memòria cau dedicada per als fitxers descarregats</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="83"/>
@@ -12023,7 +12023,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-loadable-modules on the command line</translation>
+        <translation>Per a inhabilitar temporalment, fes --disable-loadable-modules a la línia d&apos;ordres</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
@@ -12034,7 +12034,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-cli-modules on the command line</translation>
+        <translation>Per a inhabilitar temporalment, fes --disable-cli-modules a la línia d&apos;ordres</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
@@ -12045,7 +12045,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</translation>
+        <translation>Per a inhabilitar temporalment, fes  --disable-scripted-loadable-modules a la línia d&apos;ordres</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
@@ -12127,7 +12127,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="411"/>
         <source>To load</source>
-        <translation type="unfinished">_Carrega</translation>
+        <translation>A carregar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="430"/>
@@ -12137,7 +12137,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="433"/>
         <source>To ignore</source>
-        <translation type="unfinished">_Ignora</translation>
+        <translation>A ignorar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="452"/>
@@ -12476,7 +12476,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
         <source>ViewsSettings</source>
-        <translation type="unfinished">ViewsSettings</translation>
+        <translation>Configuració de vistes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>
@@ -12543,7 +12543,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="120"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="263"/>
         <source>thin</source>
-        <translation type="unfinished">Prim</translation>
+        <translation>prim</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="125"/>
@@ -12554,12 +12554,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
         <source>View orientation:</source>
-        <translation type="unfinished">View orientation:</translation>
+        <translation>Orientació de la vista:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="150"/>
         <source>3D viewer defaults</source>
-        <translation>Valors predeterminats de l&apos;espectador 3D</translation>
+        <translation>Valors predeterminats del visualitzador 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="159"/>
@@ -12574,7 +12574,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="254"/>
         <source>Ruler is only displayed if orthographic projection mode is used.</source>
-        <translation>El regle només es mostra si s&apos;utilitza el mode de projecció ortogràfica.</translation>
+        <translation>El regle només es mostra si s&apos;utilitza el mode de projecció ortogonal.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="276"/>
@@ -12589,7 +12589,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="293"/>
         <source>Use orthographic projection:</source>
-        <translation type="unfinished">Use orthographic projection:</translation>
+        <translation>Utilitza la projecció ortogonal:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="308"/>
@@ -13084,7 +13084,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="207"/>
         <source>Unit label:</source>
-        <translation type="unfinished">Unit label:</translation>
+        <translation>Etiqueta de la unitat:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="217"/>
@@ -13120,7 +13120,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="276"/>
         <source>Toggle control point visibility</source>
-        <translation type="unfinished">Toggle control point visibility</translation>
+        <translation>Commutar la visibilitat dels punts de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="286"/>
@@ -13130,7 +13130,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="289"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished">Toggle control point positions lock</translation>
+        <translation>Commutar el bloqueig de les posicions dels punts de control</translation>
     </message>
 </context>
 <context>
@@ -13397,7 +13397,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transformacions</translation>
+        <translation>Transformacions</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
@@ -13438,7 +13438,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Matriu de transformació</translation>
+        <translation>Matriu de transformació</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="163"/>
@@ -13468,7 +13468,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
         <source>Translation in global or local (rotated) reference frame</source>
-        <translation>Translació en marc de referència global o local (rotat).</translation>
+        <translation>Translació en marc de referència global o local (rotat)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
@@ -13498,7 +13498,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
         <source>Transformable:</source>
-        <translation type="unfinished">Transformable:</translation>
+        <translation>Transformable:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="345"/>
@@ -13533,7 +13533,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
         <source>Transformed:</source>
-        <translation type="unfinished">Transformed:</translation>
+        <translation>Transformat:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
@@ -13611,7 +13611,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
         <source>Units Settings</source>
-        <translation type="unfinished">Units Settings</translation>
+        <translation>Configuració d&apos;unitats</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="26"/>
@@ -13689,7 +13689,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
         <source>View Node:</source>
-        <translation type="unfinished">View Node:</translation>
+        <translation>Veure el node:</translation>
     </message>
 </context>
 <context>
@@ -13860,7 +13860,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="234"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation>Commuta la visibilitat del punt de mira. Manteniu premuda la tecla Maj i moveu el ratolí en una vista per a establir la posició del punt de mira.</translation>
+        <translation>Commutar la visibilitat del punt de mira. Mantenir premuda la tecla Maj i moure el ratolí en una vista per a establir la posició del punt de mira.</translation>
     </message>
 </context>
 <context>
@@ -14396,7 +14396,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="172"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished">Unfortunately, this requested module is not available in this Slicer session.</translation>
+        <translation>Malauradament, aquest mòdul sol·licitat no està disponible en aquesta sessió de Slicer.</translation>
     </message>
 </context>
 </TS>
