@@ -465,7 +465,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation>Le résultat avec un seuil inversé sera écrit dans ce volume</translation>
+        <translation>Le résultat à seuil inversé sera écrit dans ce volume</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
@@ -485,7 +485,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
         <source>Run the algorithm.</source>
-        <translation>Lancer l&apos;algorithme.</translation>
+        <translation>Exécutez l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
@@ -3906,7 +3906,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="470"/>
         <source>No node is selected</source>
-        <translation type="unfinished">No node is selected</translation>
+        <translation>Aucun nœud n&apos;est sélectionné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
