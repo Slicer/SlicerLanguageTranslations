@@ -3018,7 +3018,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
@@ -3843,17 +3843,17 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
         <source>Segment name</source>
-        <translation type="unfinished">Segment name</translation>
+        <translation>Nom du segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="139"/>
         <source>Segment visibility</source>
-        <translation type="unfinished">Segment visibility</translation>
+        <translation>Visibilité du segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="140"/>
         <source>Segment color</source>
-        <translation type="unfinished">Segment color</translation>
+        <translation>Couleur du segment</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="141"/>
@@ -6362,7 +6362,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="132"/>
         <source>Name: </source>
-        <translation type="unfinished">Name: </translation>
+        <translation>Nom : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="142"/>
@@ -11622,7 +11622,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="452"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="465"/>
@@ -12449,7 +12449,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="95"/>
@@ -12960,7 +12960,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="41"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
@@ -13323,7 +13323,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="400"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
