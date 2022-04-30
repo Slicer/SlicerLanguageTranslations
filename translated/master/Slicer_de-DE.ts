@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation>Sperren umschalten</translation>
+        <translation type="unfinished">Sperren ausschalten</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
         <source>Glyph type combo box</source>
-        <translation>Kombinationsbox Glyph-Typ</translation>
+        <translation type="unfinished">Kombinationsbox Glyph-Typ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
@@ -105,12 +105,12 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
         <source>Distance in mm between major ticks</source>
-        <translation>Abstand in mm zwischen Haupt-Ticks</translation>
+        <translation type="unfinished">Abstand in mm zwischen Haupt-Ticks</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
         <source>Tick Spacing:</source>
-        <translation>Tick-Abstand:</translation>
+        <translation type="unfinished">Tick-Abstand:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
@@ -125,7 +125,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
         <source>Max # of Ticks:</source>
-        <translation>Max. Anzahl der Ticks:</translation>
+        <translation>Maximale Anzahl der Ticks:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
@@ -164,12 +164,12 @@
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="105"/>
         <source>patient right is screen left (default)</source>
-        <translation>Patient rechts ist Bildschirm links (Standard)</translation>
+        <translation type="unfinished">Patient rechts ist Bildschirm links (Standard)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
         <source>patient right is screen right</source>
-        <translation>Patient rechts ist Bildschirm rechts</translation>
+        <translation type="unfinished">Patient rechts ist Bildschirm rechts</translation>
     </message>
 </context>
 <context>
@@ -212,7 +212,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
         <source>Add (copy of current) node</source>
-        <translation>(Kopie des aktuellen) Knotens Hinzufügen</translation>
+        <translation type="unfinished">Füge (eine Kopie des aktuellen) Knotens hinzu</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="71"/>
