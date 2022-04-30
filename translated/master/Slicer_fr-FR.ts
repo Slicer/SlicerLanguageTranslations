@@ -538,12 +538,12 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation>Interroger et récupérer des jeux de données DICOM depuis un serveur distant</translation>
+        <translation>Lancer une requête et récupérer des jeux de données DICOM depuis un serveur distant</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation>Interroger et amasser</translation>
+        <translation>Lancer une requête</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
@@ -553,7 +553,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
         <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-        <translation>Autoriser le serveur DICOM à recevoir des images</translation>
+        <translation>Activer le serveur d&apos;écoute DICOM pour recevoir les images (C-Store SCP)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
@@ -568,7 +568,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
         <source>DICOM database settings</source>
-        <translation>Options de la base de données DICOM</translation>
+        <translation type="unfinished">Paramètres de la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
@@ -578,7 +578,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
         <source>Auto-hide browser window:</source>
-        <translation>Automatiquement cacher la fenêtre de recherche :</translation>
+        <translation>Masquer automatiquement la fenêtre du navigateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
@@ -588,7 +588,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
         <source>Hide DICOM database browser after data loaded</source>
-        <translation>Cacher la recherche dans la base de données DICOM après que les données aient été chargées</translation>
+        <translation>Masquer le navigateur de la base de données DICOM après le chargement des données</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
