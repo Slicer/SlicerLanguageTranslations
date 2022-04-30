@@ -593,12 +593,12 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation>Retirer tous les éléments de la base de données DICOM si le document DICOM référencé n&apos;est pas trouvé sur le disque.</translation>
+        <translation>Supprimer tous les éléments de la base de données DICOM si le fichier DICOM référencé n&apos;est pas trouvé sur le disque.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
         <source>Remove unavailable data sets</source>
-        <translation>Supprimer les sets de données non disponibles</translation>
+        <translation>Supprimer les jeux de données indisponibles</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
@@ -608,7 +608,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
         <source>Remove all data sets</source>
-        <translation>Supprimer tous les sets de données</translation>
+        <translation>Supprimer tous les jeux de données</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
