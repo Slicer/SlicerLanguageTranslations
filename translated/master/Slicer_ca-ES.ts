@@ -842,7 +842,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation>Vista de l&apos;escena</translation>
+        <translation>Vista d&apos;escena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
