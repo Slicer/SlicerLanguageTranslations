@@ -13293,7 +13293,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
         <source>Select type modifier...</source>
-        <translation>Sélectionnez le type à modifier...</translation>
+        <translation>Sélectionner le type à modifier...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
