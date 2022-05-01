@@ -7220,7 +7220,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="74"/>
         <source>vtkMRMLCameraNode</source>
-        <translation type="unfinished">vtkMRMLCameraNode</translation>
+        <translation>vtkMRMLCameraNode</translation>
     </message>
 </context>
 <context>
@@ -10138,7 +10138,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="113"/>
         <source>vtkMRMLAnnotationNode</source>
-        <translation type="unfinished">vtkMRMLAnnotationNode</translation>
+        <translation>vtkMRMLAnnotationNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
@@ -10163,7 +10163,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
         <source>vtkMRMLClipModelsNode</source>
-        <translation>vtkMRMLClipModelsNode</translation>
+        <translation type="unfinished">vtkMRMLClipModelsNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
