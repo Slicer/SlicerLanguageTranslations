@@ -440,7 +440,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation>Estableix el valor llindar per calcular la imatge de sortida. Els vòxels que tinguin intensitats inferiors a aquest valor es posaran a zero.</translation>
+        <translation>Establir el valor llindar per calcular la imatge de sortida. Els vòxels que tinguin intensitats inferiors a aquest valor es posaran a zero.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
@@ -543,7 +543,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation>Consulta i recupera</translation>
+        <translation>Consultar i recuperar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
@@ -661,7 +661,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
         <source>Color of the projected fiducial on 2D viewers</source>
-        <translation>Color del fiducial projectat en visualitzacions 2D</translation>
+        <translation>Color del fiducial projectat en visualitzadors 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
@@ -753,7 +753,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
         <source>Color of the projected line on 2D viewers</source>
-        <translation>Color de la línia projectada en visualitzacions 2D</translation>
+        <translation>Color de la línia projectada en visualitzadors 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
@@ -1546,7 +1546,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation>Seleccionar les visualitzacions on es mostrarà aquest node. Tot el que no està marcat es mostra en totes les vistes 3D i 2D.</translation>
+        <translation>Selecciona les vistes on es mostrarà aquest node. Tot el que no està marcat es mostra en totes les vistes 3D i 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
@@ -1688,7 +1688,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="51"/>
         <source>Color of the projected control points on 2D viewers</source>
-        <translation>Color dels punts de control projectats en visualitzacions 2D</translation>
+        <translation>Color dels punts de control projectats en visualitzadors 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
@@ -1698,7 +1698,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
         <source>Color of the projected control points on 2D viewers. Only used if &quot;Use Markup Color&quot; is not checked, otherwise the projection uses the selected or unselected markup color.</source>
-        <translation>Color dels punts de control projectats en visualitzacions 2D. Només s&apos;utilitza si no està marcat «Utilitzar el color de marcatge», en cas contrari, la projecció utilitza el color de marcatge seleccionat o no seleccionat.</translation>
+        <translation>Color dels punts de control projectats en visualitzadors 2D. Només s&apos;utilitza si no està marcat «Utilitzar el color de marcatge», en cas contrari, la projecció utilitza el color de marcatge seleccionat o no seleccionat.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
@@ -2680,7 +2680,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/qMRMLPlotSeriesPropertiesWidget.cxx" line="166"/>
         <source>This plot type uses indexes as X axis values. Switch to scatter plot type to allow column selection.</source>
-        <translation>Aquest tipus de gràfic utilitza índexs com a valors de l&apos;eix X. Canvieu al tipus de gràfic de dispersió per permetre la selecció de columnes.</translation>
+        <translation>Aquest tipus de gràfic utilitza índexs com a valors de l&apos;eix X. Commutar al tipus de gràfic de dispersió per a permetre la selecció de columnes.</translation>
     </message>
 </context>
 <context>
@@ -5393,7 +5393,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="87"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Actualitza els límits de l&apos;estri de transformació.&lt;/p&gt; &lt;p&gt;La transformada actualitzarà els seus límits perquè coincideixi amb la caixa contenidora de tots els nodes que hi ha sota d&apos;ella (si n&apos;hi ha).&lt;/p&gt; &lt;p&gt;En cas contrari, l&apos;estri es redimensionarà a la mida d&apos;interacció per defecte.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="90"/>
@@ -5438,7 +5438,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="205"/>
         <source>Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation>Habilitar l&apos;escala manipulant el giny 3D (feu clic esquerre i arrossegueu el mànec al centre de la cara del giny)</translation>
+        <translation>Habilitar l&apos;escala manipulant el giny 3D (amb clic esquerre i arrossegant la nansa al centre de la cara del giny)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="224"/>
@@ -5820,7 +5820,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
         <source>ViewerRAS</source>
-        <translation>VisualitzadorDAS</translation>
+        <translation>DASVisualitzador</translation>
     </message>
 </context>
 <context>
@@ -7184,7 +7184,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>Gestiona les vistes 3D i càmeres. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Canvia la disposició a «Disseny 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disseny 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES / dades, en tancar l&apos;escena probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
+        <translation>Gestiona les vistes 3D i càmeres. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Commuta la disposició a «Disseny 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disseny 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES / dades, en tancar l&apos;escena probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -9297,7 +9297,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1117"/>
         <source>Conventional three slices and 3D view with an additional plot</source>
-        <translation type="unfinished">Conventional three slices and 3D view with an additional plot</translation>
+        <translation>Tres seccions convencionals i vista 3D amb un traçat addicional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1129"/>
@@ -9337,7 +9337,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="163"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-        <translation>Replegar/Ampliar el quadre de la GUI i permetre a les visualitzacions de Slicer ocupar tota la finestra de l&apos;aplicació</translation>
+        <translation>Replegar/Ampliar el quadre de la GUI i permetre als visualitzadors de Slicer ocupar tota la finestra de l&apos;aplicació</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="318"/>
@@ -9487,7 +9487,7 @@ Clicar a D&apos;acord per a esperar que finalitzin o triar Ignorar per a tancar 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation>Habilitar / deshabilitar totes les interaccions en vistes de secció i 3D.</translation>
+        <translation>Habilitar / deshabilitar totes les interaccions en seccions i vistes 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
@@ -9961,7 +9961,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="42"/>
         <source>Dash2D</source>
-        <translation>Guionets2D</translation>
+        <translation>Guionet2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="47"/>
@@ -9971,7 +9971,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="52"/>
         <source>ThickCross2D</source>
-        <translation type="unfinished">ThickCross2D</translation>
+        <translation>CreuGruixuda2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
@@ -10001,12 +10001,12 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="82"/>
         <source>ThickArrow2D</source>
-        <translation type="unfinished">ThickArrow2D</translation>
+        <translation>FletxaGruixuda2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="87"/>
         <source>HookedArrow2D</source>
-        <translation>HookedArrow2D</translation>
+        <translation>FletxaGanxuda2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="92"/>
@@ -10188,7 +10188,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
         <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-        <translation>Cercar a text complet (nom del mòdul i descripció). Si no està marcada, només es cercaran als noms dels mòduls.</translation>
+        <translation>Cerca a text complet (nom del mòdul i descripció). Si no està marcada, només es cercarà als noms dels mòduls.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
@@ -10331,7 +10331,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
         <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
-        <translation>Ajustar la finestra/nivell de volum fent clic amb el botó esquerre i arrossegant a les vistes de seccions. Mantenir premuda la tecla Ctrl/Cmd per a canviar temporalment entre l&apos;ajust i la configuració basada en la regió.</translation>
+        <translation>Ajustar la finestra/nivell de volum fent clic amb el botó esquerre i arrossegant a les vistes de seccions. Mantenir premuda la tecla Ctrl/Cmd per a commutar temporalment entre l&apos;ajust i la configuració basada en la regió.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="135"/>
@@ -10546,7 +10546,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="194"/>
         <source>On Plane</source>
-        <translation>en Plànol</translation>
+        <translation>Al pla</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="204"/>
@@ -12108,7 +12108,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="334"/>
         <source>when checking/unchecking a module, its dependencies are checked/unchecked accordingly</source>
-        <translation type="unfinished">when checking/unchecking a module, its dependencies are checked/unchecked accordingly</translation>
+        <translation>en marcar/desmarcar un mòdul, els seus subordinats es marquen/desmarquen en conseqüència</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="337"/>
@@ -13379,7 +13379,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Si està marcat, el node de text s&apos;actualitza mentre s&apos;edita el contingut. Si no està marcat, el node de text només s&apos;actualitza en clicar «Desar».&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
