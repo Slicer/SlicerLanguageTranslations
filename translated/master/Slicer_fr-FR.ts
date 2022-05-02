@@ -143,7 +143,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
         <source>vtkMRMLCameraNode</source>
-        <translation>vtkMRMLNoeudCaméra</translation>
+        <translation>vtkMRMLNœudCaméra</translation>
     </message>
 </context>
 <context>
@@ -212,12 +212,12 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
         <source>Add (copy of current) node</source>
-        <translation>Ajouter un (copie de l&apos;actuel) noeud</translation>
+        <translation>Ajouter un (copie de l&apos;actuel) nœud</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="71"/>
         <source>Modify (current) node</source>
-        <translation>Modifier le noeud (actuel)</translation>
+        <translation>Modifier le nœud (actuel)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="79"/>
@@ -985,7 +985,7 @@
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="202"/>
         <source>Keep only whole cells when clipping</source>
-        <translation>Conserver uniquement les cellules entières lors de l&apos;écrêtage</translation>
+        <translation>Conserver uniquement les cellules entières lors du découpage</translation>
     </message>
 </context>
 <context>
@@ -993,7 +993,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
         <source>Color Legend</source>
-        <translation>Légende des couleurs</translation>
+        <translation>Légende de Couleur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
@@ -1013,7 +1013,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
         <source>Label text:</source>
-        <translation>Texte du Label :</translation>
+        <translation>Etiquette de texte :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
@@ -1033,12 +1033,12 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
         <source>Color name</source>
-        <translation>Nom de la couleur</translation>
+        <translation>Nom de couleur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
         <source>Number of labels:</source>
-        <translation>Nombre de labels :</translation>
+        <translation>Nombre d&apos;étiquettes :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
