@@ -11082,12 +11082,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="121"/>
         <source>Remove selected</source>
-        <translation>Supprimer un segment</translation>
+        <translation>Supprimer le segment sélectionné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="132"/>
         <source>Edit selected</source>
-        <translation>Modifier un segment</translation>
+        <translation>Modifier le segment sélectionné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="158"/>
