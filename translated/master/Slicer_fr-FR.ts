@@ -7171,7 +7171,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Technique :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -10408,7 +10408,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Technique :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -13999,7 +13999,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="367"/>
         <source>Advanced rendering properties</source>
-        <translation>Propriétés de rendu avancées</translation>
+        <translation>Propriétés de rendu volumique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="398"/>
