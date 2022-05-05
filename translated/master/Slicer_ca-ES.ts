@@ -1965,12 +1965,12 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
         <source>Visible Sides:</source>
-        <translation type="unfinished">Visible Sides:</translation>
+        <translation>Costats visibles:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
         <source>All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</source>
-        <translation>Tot: recomanat per a superfície oberta. Frontal: recomanat per a un renderitzat més ràpid de superfícies opaques tancades. Posterior: Útil per a representar la cara posterior de superfícies obertes amb diferents colors.</translation>
+        <translation>Tot: recomanat per a superfície oberta. Frontal: recomanat per a una composició més ràpida de superfícies opaques tancades. Posterior: Útil per a compondre la cara posterior de superfícies obertes amb diferents colors.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
@@ -2221,7 +2221,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="195"/>
         <source>Verts</source>
-        <translation>Verts</translation>
+        <translation type="unfinished">Vèrtex</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
@@ -3537,7 +3537,7 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
         <source>Visible segments only: </source>
-        <translation type="unfinished">Visible segments only: </translation>
+        <translation>Només els segments visibles: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="45"/>
@@ -3715,7 +3715,7 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="91"/>
         <source>Volume spacing options</source>
-        <translation type="unfinished">Volume spacing options</translation>
+        <translation>Opcions d&apos;espaiat de volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="115"/>
@@ -4381,7 +4381,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1130"/>
         <source>Thin</source>
-        <translation type="unfinished">Prim</translation>
+        <translation>Prim</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1133"/>
@@ -4401,7 +4401,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1152"/>
         <source>White ruler</source>
-        <translation type="unfinished">White ruler</translation>
+        <translation>Regle blanc</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1160"/>
@@ -4411,7 +4411,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1168"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished">Yellow ruler</translation>
+        <translation>Regle groc</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1177"/>
@@ -4659,7 +4659,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
         <source>Widget visible:</source>
-        <translation type="unfinished">Widget visible:</translation>
+        <translation>Giny visible:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
@@ -5020,7 +5020,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
         <source>Zoom out of the scene by a small amount.</source>
-        <translation type="unfinished">Zoom out of the scene by a small amount.</translation>
+        <translation>Allunya l&apos;escena en salts petits.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="79"/>
@@ -5046,7 +5046,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
-        <translation type="unfinished">Zoom in on the scene by a small amount.</translation>
+        <translation>Amplia l&apos;escena en salts petits.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
@@ -5066,7 +5066,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="236"/>
         <source>Toggle between orthographic and perspective rendering in the 3D view.</source>
-        <translation>Commutar entre la representació ortogonal i la representació en perspectiva a la vista 3D.</translation>
+        <translation>Commutar entre la representació ortogonal i la composició en perspectiva a la vista 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="257"/>
@@ -5282,7 +5282,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="553"/>
         <source>Thin</source>
-        <translation type="unfinished">Prim</translation>
+        <translation>Prim</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="556"/>
@@ -5443,7 +5443,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="224"/>
         <source>Visualization</source>
-        <translation type="unfinished">Visualization</translation>
+        <translation>Visualització</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="230"/>
@@ -5468,7 +5468,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="290"/>
         <source>Visualize transform using glyphs</source>
-        <translation type="unfinished">Visualize transform using glyphs</translation>
+        <translation>Visualitzar la transformació mitjançant glifs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="305"/>
@@ -5576,7 +5576,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="567"/>
         <source>Visible range:</source>
-        <translation type="unfinished">Visible range:</translation>
+        <translation>Interval visible:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="601"/>
@@ -6171,7 +6171,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="14"/>
         <source>Volume Property Node</source>
-        <translation type="unfinished">Volume Property Node</translation>
+        <translation>Node de propietat del volum</translation>
     </message>
 </context>
 <context>
@@ -6221,12 +6221,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="20"/>
         <source>Window Level</source>
-        <translation type="unfinished">Window Level</translation>
+        <translation>Nivell de finestra</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="29"/>
         <source>W: </source>
-        <translation type="unfinished">A_ra </translation>
+        <translation>A: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
@@ -6256,7 +6256,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="87"/>
         <source>L: </source>
-        <translation>E: </translation>
+        <translation>L: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="109"/>
@@ -6303,7 +6303,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished">Volume Options</translation>
+        <translation>Opcions de volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
@@ -6813,7 +6813,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="96"/>
         <source>Visual Blog</source>
-        <translation type="unfinished">Visual Blog</translation>
+        <translation>Blog visual</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="97"/>
@@ -7140,7 +7140,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="127"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
-        <translation type="unfinished">When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</translation>
+        <translation>Quan està marcat, en aplicar, el mòdul cancel·la/atura la instància en execució existent si n&apos;hi ha, en cas contrari, espera la finalització per a iniciar una nova execució.</translation>
     </message>
 </context>
 <context>
@@ -7541,7 +7541,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="453"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
-        <translation type="unfinished">Voxel values outside the input volume will be filled with this value</translation>
+        <translation>Els valors de vòxel fora del volum d&apos;entrada s&apos;ompliran amb aquest valor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="484"/>
@@ -7758,7 +7758,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
         <source>Diffusion Tensor Volume Slice Display</source>
-        <translation type="unfinished">Diffusion Tensor Volume Slice Display</translation>
+        <translation>Presentació de secció de volum del tensor de difusió</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
@@ -8417,12 +8417,12 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="364"/>
         <source>was used in previously installed Slicer version (%1)</source>
-        <translation type="unfinished">was used in previously installed Slicer version (%1)</translation>
+        <translation>s&apos;ha utilitzat a la versió de Slicer instal·lada anteriorment (% 1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="368"/>
         <source>was last used in Slicer version %1</source>
-        <translation type="unfinished">was last used in Slicer version %1</translation>
+        <translation>s&apos;ha utilitzat per última vegada a la versió de Slicer %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="373"/>
@@ -9095,7 +9095,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="705"/>
         <source>Yellow slice only</source>
-        <translation type="unfinished">Yellow slice only</translation>
+        <translation>Només secció groga</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="717"/>
@@ -10715,7 +10715,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;S&apos;han produït errors o advertències en desar. Consulta les icones d&apos;estat per a obtenir més informació.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1437"/>
@@ -11513,7 +11513,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Definir el nom del node intermediari mitjançant el nom del node de la seqüència i el valor de l&apos;índex.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="204"/>
@@ -12087,7 +12087,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Camins de mòduls addicionals:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;(arrossegar i deixar anar&lt;br&gt;fitxers o carpetes)&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="279"/>
@@ -13548,7 +13548,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation type="unfinished">Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</translation>
+        <translation>Volum que defineix l&apos;origen, l&apos;espaiat i les direccions de l&apos;eix del camp de desplaçament exportat. Si el volum de referència està sota una transformació no lineal, llavors la geometria no transformada s&apos;utilitza com a referència.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="473"/>
@@ -13563,7 +13563,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
-        <translation type="unfinished">Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</translation>
+        <translation>Volum o node de transformació que emmagatzemarà el camp de desplaçament. Si s&apos;escull el node de volum escalar, només es desa la magnitud del desplaçament. En volum vectorial o node de transformació es desa el vector de desplaçament 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="519"/>
@@ -13868,7 +13868,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished">Volume Rendering</translation>
+        <translation>Composició de volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
@@ -13978,7 +13978,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="317"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
-        <translation>Quantitat de memòria assignada per a la representació del volum a la targeta gràfica. «Per defecte» es pot modificar a la configuració.</translation>
+        <translation>Quantitat de memòria assignada per a la composició del volum a la targeta gràfica. «Per defecte» es pot modificar a la configuració.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="327"/>
@@ -13998,7 +13998,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="367"/>
         <source>Advanced rendering properties</source>
-        <translation>Propietats de renderització avançades</translation>
+        <translation>Propietats de composició avançades</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="398"/>
@@ -14013,7 +14013,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="416"/>
         <source>Volume properties</source>
-        <translation type="unfinished">Volume properties</translation>
+        <translation>Propietats del volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="445"/>
@@ -14041,7 +14041,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="14"/>
         <source>Volume Rendering Presets</source>
-        <translation type="unfinished">Volume Rendering Presets</translation>
+        <translation>Valors predefinits de composició de volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
@@ -14070,7 +14070,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="14"/>
         <source>Volume Rendering Settings</source>
-        <translation type="unfinished">Volume Rendering Settings</translation>
+        <translation>Configuració de la composició del volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="23"/>
@@ -14095,7 +14095,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
         <source>Amount of memory allocated for volume rendering on the graphic card</source>
-        <translation>Quantitat de memòria assignada per a la representació del volum a la targeta gràfica</translation>
+        <translation>Quantitat de memòria assignada per a la composició del volum a la targeta gràfica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
@@ -14138,7 +14138,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished">Volume Options</translation>
+        <translation>Opcions de volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="33"/>
@@ -14216,7 +14216,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
         <source>Volume Information</source>
-        <translation type="unfinished">Volume Information</translation>
+        <translation>Informació de volum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
@@ -14265,7 +14265,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
         <source>Web download</source>
-        <translation type="unfinished">Web download</translation>
+        <translation>Descàrrega web</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="52"/>
@@ -14331,7 +14331,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation type="unfinished">Us donem la benvinguda</translation>
+        <translation>Benvinguts</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="51"/>
