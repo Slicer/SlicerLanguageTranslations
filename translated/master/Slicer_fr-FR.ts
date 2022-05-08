@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation type="unfinished">Bloqué/Débloqué</translation>
+        <translation>Bloqué/Débloqué</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
@@ -3243,7 +3243,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="432"/>
         <source>Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</source>
-        <translation type="unfinished">Controls which segments the current segment will overwrite. Segments that are not overwritten may overlap with the selected segment.</translation>
+        <translation>Contrôle les segments que le segment actuel écrasera. Les segments qui ne sont pas écrasés peuvent chevaucher le segment sélectionné.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="403"/>
@@ -3253,7 +3253,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="404"/>
         <source>Inside all segments</source>
-        <translation type="unfinished">Inside all segments</translation>
+        <translation>Dans tous les segments</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="405"/>
@@ -3263,7 +3263,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="406"/>
         <source>Outside all segments</source>
-        <translation type="unfinished">Outside all segments</translation>
+        <translation>En dehors de tous les segments</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="407"/>
@@ -3341,7 +3341,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
         <source>Messages label</source>
-        <translation type="unfinished">Messages label</translation>
+        <translation>Libellé des messages</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="108"/>
@@ -3524,7 +3524,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="451"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="470"/>
         <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-        <translation type="unfinished">Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</translation>
+        <translation>Valeur par rapport aux autres segments. L&apos;opacité finale dépend à la fois de l&apos;opacité par segment et de l&apos;opacité globale (ci-dessus)</translation>
     </message>
 </context>
 <context>
@@ -3622,12 +3622,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="239"/>
         <source>Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</source>
-        <translation type="unfinished">Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</translation>
+        <translation>Exportez tous les segments vers un seul fichier OBJ. Il est toujours activé pour les fichiers OBJ, car les segments peuvent être distingués en fonction de leur matériau.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="258"/>
         <source>Export all segments to a single output STL file.</source>
-        <translation type="unfinished">Export all segments to a single output STL file.</translation>
+        <translation>Exportez tous les segments vers un seul fichier STL de sortie.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="278"/>
@@ -3881,27 +3881,27 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="125"/>
         <source>Show/Hide not started segments</source>
-        <translation type="unfinished">Show/Hide not started segments</translation>
+        <translation>Afficher/Masquer les segments non commencés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="148"/>
         <source>Show/Hide in progress segments</source>
-        <translation type="unfinished">Show/Hide in progress segments</translation>
+        <translation>Afficher/Masquer dans les segments en cours</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="171"/>
         <source>Show/Hide completed segments</source>
-        <translation type="unfinished">Show/Hide completed segments</translation>
+        <translation>Afficher/Masquer les segments terminés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="194"/>
         <source>Show/Hide flagged segments</source>
-        <translation type="unfinished">Show/Hide flagged segments</translation>
+        <translation>Afficher/Masquer les segments marqués</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="470"/>
@@ -11000,7 +11000,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1207"/>
         <source>Apply to all segments:</source>
-        <translation type="unfinished">Apply to all segments:</translation>
+        <translation>Appliquer à tous les segments&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1208"/>
@@ -11018,7 +11018,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished">Automatically set opacities of the segments based on which contains which, so that no segment obscures another</translation>
+        <translation>Définissez automatiquement les opacités des segments en fonction de qui contient quoi, de sorte qu&apos;aucun segment n&apos;en masque un autre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
@@ -11299,7 +11299,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="768"/>
         <source>Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</source>
-        <translation type="unfinished">Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</translation>
+        <translation>Forcer tous les segments à un seul calque modifiera les segments qui se chevauchent. Les régions où plusieurs segments se chevauchent seront attribuées au segment le plus proche de la fin de la liste de segments.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="771"/>
@@ -11314,7 +11314,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="794"/>
         <source>Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</source>
-        <translation type="unfinished">Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</translation>
+        <translation>Réduire le nombre de couches en déplaçant des segments vers des couches partagées pour minimiser l&apos;utilisation de la mémoire. Le contenu des segments n&apos;est pas modifié à moins qu&apos;il y ait des segments qui se chevauchent et que le regroupement en un seul calque soit forcé.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="797"/>
@@ -11337,7 +11337,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="966"/>
         <source>Failed to export segments to labelmap</source>
-        <translation type="unfinished">Failed to export segments to labelmap</translation>
+        <translation>Échec de l&apos;exportation des segments vers la carte d&apos;étiquettes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="982"/>
@@ -11372,7 +11372,7 @@ Please choose an empty directory.</translation>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="30"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="56"/>
         <source>Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished">Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</translation>
+        <translation>Définir automatiquement les opacités des segments lors du chargement à partir d&apos;un fichier en fonction de ce qui contient quoi, de sorte qu&apos;aucun segment n&apos;en masque un autre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
@@ -11408,7 +11408,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="96"/>
         <source>Edit hidden segments: </source>
-        <translation type="unfinished">Edit hidden segments: </translation>
+        <translation>Modifier les segments masqués&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="103"/>
@@ -12690,7 +12690,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1043"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
         <source>Failed to export segments</source>
-        <translation type="unfinished">Failed to export segments</translation>
+        <translation>Échec de l&apos;exportation des segments</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1068"/>
@@ -12705,12 +12705,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="211"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="224"/>
         <source>Failed to move segment between segmentations</source>
-        <translation type="unfinished">Failed to move segment between segmentations</translation>
+        <translation>Impossible de déplacer le segment entre les segmentations</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="235"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Échec de la conversion</translation>
     </message>
 </context>
 <context>
