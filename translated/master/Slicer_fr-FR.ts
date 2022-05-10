@@ -260,12 +260,12 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice View Annotations Settings</translation>
+        <translation>Paramètres d&apos;annotations de la vue de coupe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
         <source>Enable Slice View Annotations</source>
-        <translation type="unfinished">Enable Slice View Annotations</translation>
+        <translation>Activer les annotations de vue de coupe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
@@ -837,7 +837,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</source>
-        <translation type="unfinished">Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
+        <translation>Capturer une capture d&apos;écran de la mise en page complète, de la vue 3D ou des vues en tranches. Utilisez Fichier, Enregistrer pour enregistrer l&apos;image. Modifier dans le module Annotations.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
@@ -3078,7 +3078,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
         <source>Save snapshot via File Save. Edit in Annotations module.</source>
-        <translation type="unfinished">Save snapshot via File Save. Edit in Annotations module.</translation>
+        <translation>Enregistrer l&apos;instantané via Sauvegarde de fichier. Modifier dans le module Annotations.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
@@ -5162,7 +5162,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="412"/>
         <source>Depth peeling is used to render transparent surface models in order</source>
-        <translation>L&apos;épluchage en profondeur est utilisé pour rendre les modèles de surface transparents dans l&apos;ordre</translation>
+        <translation>Découpage en profondeur est utilisé pour rendre les modèles de surface transparents dans l&apos;ordre</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
@@ -6419,7 +6419,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="255"/>
         <source>Apply text scale to all annotations in this hierarchy</source>
-        <translation type="unfinished">Apply text scale to all annotations in this hierarchy</translation>
+        <translation>Appliquer l&apos;échelle du texte à toutes les annotations de cette hiérarchie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="258"/>
@@ -6429,7 +6429,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="265"/>
         <source>Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation type="unfinished">Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+        <translation>Appliquer l&apos;échelle de texte à toutes les annotations de cette hiérarchie (le paramètre actuel peut ne pas refléter les échelles de texte, il s&apos;agit d&apos;un paramètre qui nous redirige la liste uniquement, utiliser le bouton par défaut pour revenir à la taille standard)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="278"/>
@@ -6448,7 +6448,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="292"/>
         <source>Apply glyph scale to all annotations in this hierarchy</source>
-        <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy</translation>
+        <translation>Appliquer l&apos;échelle des glyphes à toutes les annotations de cette hiérarchie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="295"/>
@@ -6458,12 +6458,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="302"/>
         <source>Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+        <translation>Appliquer l&apos;échelle de glyphe à toutes les annotations de cette hiérarchie (le paramètre actuel peut ne pas refléter les échelles de glyphe, il s&apos;agit d&apos;un paramètre qui redirige vers la liste uniquement, utiliser le bouton par défaut pour revenir à la taille standard)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
         <source>Apply glyph type to all annotations in this hierarchy</source>
-        <translation type="unfinished">Apply glyph type to all annotations in this hierarchy</translation>
+        <translation>Appliquer le type de glyphe à toutes les annotations de cette hiérarchie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="332"/>
@@ -6664,7 +6664,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="26"/>
         <source>Annotations</source>
-        <translation type="unfinished">Annotations</translation>
+        <translation>Annotations</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="41"/>
@@ -6679,7 +6679,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="54"/>
         <source>Select node types to create and place annotations.</source>
-        <translation type="unfinished">Select node types to create and place annotations.</translation>
+        <translation>Sélectionnez les types de nœuds pour créer et placer des annotations.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="57"/>
@@ -6704,17 +6704,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="169"/>
         <source>Toggle the visibility of highlighted Annotations. Hierarchies are ignored.</source>
-        <translation type="unfinished">Toggle the visibility of highlighted Annotations. Hierarchies are ignored.</translation>
+        <translation>Basculer la visibilité des annotations en surbrillance. Les hiérarchies sont ignorées.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="195"/>
         <source>Unselect all annotations and hierarchies</source>
-        <translation type="unfinished">Unselect all annotations and hierarchies</translation>
+        <translation>Désélectionner toutes les annotations et hiérarchies</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="227"/>
         <source>Lock/ unlock highlighted annotations. Hierarchies are ignored.</source>
-        <translation type="unfinished">Lock/ unlock highlighted annotations. Hierarchies are ignored.</translation>
+        <translation>Verrouiller/déverrouiller les annotations en surbrillance. Les hiérarchies sont ignorées.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="259"/>
@@ -6729,22 +6729,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="323"/>
         <source>Display a report of highlighted annotations</source>
-        <translation type="unfinished">Display a report of highlighted annotations</translation>
+        <translation>Afficher un rapport des annotations en surbrillance</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="355"/>
         <source>Delete highlighted annotations. Hierarchies have to single selected to get deleted.</source>
-        <translation type="unfinished">Delete highlighted annotations. Hierarchies have to single selected to get deleted.</translation>
+        <translation>Supprimer les annotations en surbrillance. Les hiérarchies doivent être sélectionnées pour être supprimées.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="375"/>
         <source>Set all annotations in active list to be unlocked</source>
-        <translation type="unfinished">Set all annotations in active list to be unlocked</translation>
+        <translation>Définir toutes les annotations de la liste active pour qu&apos;elles soient déverrouillées</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="395"/>
         <source>Set all annotations in active list locked</source>
-        <translation type="unfinished">Set all annotations in active list locked</translation>
+        <translation>Définir toutes les annotations dans la liste active verrouillées</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="415"/>
@@ -6759,7 +6759,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="454"/>
         <source>Click a hierarchy to activate it. If the Main Hierarchy is active, new per-annotation lists will be created under it, otherwise annotations will be added to the active list.</source>
-        <translation type="unfinished">Click a hierarchy to activate it. If the Main Hierarchy is active, new per-annotation lists will be created under it, otherwise annotations will be added to the active list.</translation>
+        <translation>Cliquer sur une hiérarchie pour l&apos;activer. Si la hiérarchie principale est active, de nouvelles listes par annotation seront créées sous celle-ci, sinon les annotations seront ajoutées à la liste active.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="457"/>
@@ -6769,7 +6769,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="522"/>
         <source>Select all annotations and hierarchies</source>
-        <translation type="unfinished">Select all annotations and hierarchies</translation>
+        <translation>Sélectionner toutes les annotations et hiérarchies</translation>
     </message>
 </context>
 <context>
@@ -8552,7 +8552,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+        <translation>Option pour supprimer les artefacts de grain de bois en appliquant un bruit aléatoire au raycasting</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
@@ -9617,7 +9617,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
         <source>Display, naming, volume interactions, moving up/down, adding, Annotations import</source>
-        <translation type="unfinished">Display, naming, volume interactions, moving up/down, adding, Annotations import</translation>
+        <translation>Affichage, nommage, interactions de volume, déplacement vers le haut/bas, ajout, importation d&apos;annotations</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
@@ -9684,7 +9684,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="738"/>
         <source>Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</source>
-        <translation type="unfinished">Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</translation>
+        <translation>Utilise des hiérarchies fiduciaires d&apos;annotation pour créer des listes de balisage. Supprime les annotations une fois qu&apos;elles ont été déplacées.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="741"/>
@@ -10069,7 +10069,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="26"/>
         <source>Add Model file(s)</source>
-        <translation>Ajoutez des fichiers de modèle</translation>
+        <translation>Ajoutez des fichiers de modèle(s)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModelsDialog.ui" line="48"/>
@@ -10403,7 +10403,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>MultiVolume GPU RayCast</source>
-        <translation type="unfinished">MultiVolume GPU RayCast</translation>
+        <translation>GPU multivolume RayCast</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
@@ -10419,12 +10419,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+        <translation>Option pour supprimer les artefacts de grain de bois en appliquant un bruit aléatoire au raycasting</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation type="unfinished">Surface smoothing:</translation>
+        <translation>Lissage superficiel :</translation>
     </message>
 </context>
 <context>
@@ -12852,12 +12852,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
         <source>Configure slice view annotations...</source>
-        <translation type="unfinished">Configure slice view annotations...</translation>
+        <translation>Configurer les annotations de vue de tranche...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
         <source>Configures display of corner annotations and color legend.</source>
-        <translation type="unfinished">Configures display of corner annotations and color legend.</translation>
+        <translation>Configure l&apos;affichage des annotations d&apos;angle et la légende des couleurs.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="182"/>
@@ -12895,7 +12895,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation type="unfinished">Switch to Volume Rendering module to manage display options</translation>
+        <translation>Passer au module Rendu de volume pour gérer les options d&apos;affichage</translation>
     </message>
 </context>
 <context>
@@ -13869,7 +13869,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished">Volume Rendering</translation>
+        <translation>Rendu de volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
