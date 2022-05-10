@@ -13403,7 +13403,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
         <source>Active Transform:</source>
-        <translation type="unfinished">Active Transform:</translation>
+        <translation type="unfinished">Transformation active :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
