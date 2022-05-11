@@ -13660,7 +13660,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
         <source>Plot View Controllers</source>
-        <translation type="unfinished">Plot View Controllers</translation>
+        <translation>Contrôleurs de la vue du tracé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="47"/>
