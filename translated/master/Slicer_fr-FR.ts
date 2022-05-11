@@ -11829,7 +11829,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
         <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-        <translation type="unfinished">Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</translation>
+        <translation>Exécuter l&apos;application en mode développeur : les modules de test sont affichés dans la liste des modules, la section Reload&amp;amp;Test est affichée dans l&apos;interface utilisateur des modules scriptés, les fichiers d&apos;entrée et de sortie des modules CLI ne sont pas supprimés après l&apos;exécution du module.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
