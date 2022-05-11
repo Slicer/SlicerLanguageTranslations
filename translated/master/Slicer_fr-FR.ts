@@ -613,7 +613,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
         <source>DICOM plugins</source>
-        <translation>Plugins DICOM</translation>
+        <translation>Extensions DICOM</translation>
     </message>
 </context>
 <context>
