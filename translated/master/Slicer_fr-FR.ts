@@ -7938,7 +7938,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation type="unfinished">Show MRML ID&apos;s</translation>
+        <translation>Afficher les ID MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
