@@ -7609,7 +7609,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="99"/>
         <source>Select an input volume.</source>
-        <translation type="unfinished">Select an input volume.</translation>
+        <translation type="unfinished">Sélectionnez un volume d&apos;entrée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="106"/>
@@ -7624,7 +7624,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="135"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished">Select or create a new input ROI.</translation>
+        <translation>Sélectionnez ou créez un nouveau RDI d&apos;entrée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="142"/>
@@ -8541,7 +8541,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Technique :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
