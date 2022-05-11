@@ -13655,7 +13655,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="28"/>
         <source>3D View Controllers</source>
-        <translation type="unfinished">3D View Controllers</translation>
+        <translation>Contrôleurs de vues 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
