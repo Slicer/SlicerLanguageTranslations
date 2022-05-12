@@ -6376,32 +6376,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="200"/>
         <source>Change the annotation size to small by setting the scale on all components of the annotation (text, point, line) to half of the large scale</source>
-        <translation type="unfinished">Change the annotation size to small by setting the scale on all components of the annotation (text, point, line) to half of the large scale</translation>
+        <translation>Изменить размер аннотации на маленький путём установки размера всех компонентов аннотации (текст, точки, линии) в половину от большого размера</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="203"/>
         <source>small</source>
-        <translation type="unfinished">small</translation>
+        <translation>маленький</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="210"/>
         <source>Change the annotation size to medium by setting the scale on all components of the annotation (text, point, line) to three quarters of the large scale</source>
-        <translation type="unfinished">Change the annotation size to medium by setting the scale on all components of the annotation (text, point, line) to three quarters of the large scale</translation>
+        <translation>Изменить размер аннотации на средний путём установки размера всех компонентов аннотации (текст, точки, линии) в три четверти от большого размера</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="213"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Средний</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="220"/>
         <source>Change the annotation size to large (default) by setting the scale on all components of the annotation (text, point, line)</source>
-        <translation type="unfinished">Change the annotation size to large (default) by setting the scale on all components of the annotation (text, point, line)</translation>
+        <translation>Изменить размер аннотации на большой путём установки размера всех компонентов аннотации (текст, точки, линии)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="223"/>
         <source>LARGE</source>
-        <translation type="unfinished">LARGE</translation>
+        <translation>БОЛЬШОЙ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="232"/>
@@ -6412,66 +6412,66 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="239"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="923"/>
         <source>length</source>
-        <translation type="unfinished">length</translation>
+        <translation>длина</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="255"/>
         <source>Apply text scale to all annotations in this hierarchy</source>
-        <translation type="unfinished">Apply text scale to all annotations in this hierarchy</translation>
+        <translation>Применить размер текста ко всем аннотациям в этой иерархии</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="258"/>
         <source>List Text Scale:</source>
-        <translation type="unfinished">List Text Scale:</translation>
+        <translation>Список Размеров Текста:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="265"/>
         <source>Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation type="unfinished">Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+        <translation>Применить размер текста ко всем аннотациям в этой иерархии (текущая настройка может не отражать размер текста, эта настройка применяется только для списка, используйте кнопку &quot;По умолчанию&quot;, чтобы вернуть стандартный размер)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="278"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="315"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="352"/>
         <source>Set to default</source>
-        <translation type="unfinished">Set to default</translation>
+        <translation>Установить в значение по умолчанию</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="281"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="318"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="355"/>
         <source>Default</source>
-        <translation type="unfinished">Default</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="292"/>
         <source>Apply glyph scale to all annotations in this hierarchy</source>
-        <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy</translation>
+        <translation>Применить размер глифа ко всем аннотациям в этой иерархии</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="295"/>
         <source>List Glyph Scale:</source>
-        <translation type="unfinished">List Glyph Scale:</translation>
+        <translation>Список Размеров Глифа:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="302"/>
         <source>Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation type="unfinished">Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</translation>
+        <translation>Применить размер глифа ко всем аннотациям в этой иерархии (текущая настройка может не отражать размер глифа, эта настройка применяется только для списка, используйте кнопку &quot;По умолчанию&quot;, чтобы вернуть стандартный размер)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
         <source>Apply glyph type to all annotations in this hierarchy</source>
-        <translation type="unfinished">Apply glyph type to all annotations in this hierarchy</translation>
+        <translation>Применить размер глифа ко всем аннотациям в этой иерархии</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="332"/>
         <source>List Glyph Type:</source>
-        <translation type="unfinished">List Glyph Type:</translation>
+        <translation>Список Типа Глифа:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="339"/>
         <source>Apply glyph type to all annotations in this hierarchy (current setting may not reflect glyph types, this is a push to list only setting, use default button to get back to standard glyph)</source>
-        <translation type="unfinished">Apply glyph type to all annotations in this hierarchy (current setting may not reflect glyph types, this is a push to list only setting, use default button to get back to standard glyph)</translation>
+        <translation>Применить тип глифа ко всем аннотациям в этой иерархии (текущая настройка может не отражать типы глифа, эта настройка применяется только для списка, используйте кнопку &quot;По умолчанию&quot;, чтобы вернуть стандартный глиф)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="342"/>
