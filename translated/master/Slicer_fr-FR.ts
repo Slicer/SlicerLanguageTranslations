@@ -13650,7 +13650,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
         <source>Slice Controllers</source>
-        <translation type="unfinished">Slice Controllers</translation>
+        <translation>Contrôleurs de tranche</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="28"/>
