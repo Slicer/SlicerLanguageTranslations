@@ -42,7 +42,7 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="282"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="419"/>
         <source>Selected Color</source>
-        <translation>Вибраний колір</translation>
+        <translation>Обраний колір</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="158"/>
@@ -2119,12 +2119,12 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="437"/>
         <source> px</source>
-        <translation> px</translation>
+        <translation> пікс.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="453"/>
         <source>Color Table:</source>
-        <translation>Колір Таблиці:</translation>
+        <translation>Палітра кольорів:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="460"/>
@@ -2904,7 +2904,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="56"/>
         <source>Color Table:</source>
-        <translation>Колір таблиці:</translation>
+        <translation>Палітра кольорів:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="66"/>
@@ -2960,7 +2960,8 @@
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation>Застосувати поріг до відображеної моделі на основі її скалярних значень. Деякі осередки можуть бути перевернуті, у цьому випадку ви повинні встановити &quot;задню поверхню&quot; і &quot;лицьову поверхню&quot; у стан Вимкнути у параметрах Подання для відображення всіх осередків.</translation>
+        <translation>Застосувати поріг до відображеної моделі на основі її скалярних значень. Деякі осередки можуть бути перевернуті,
+у цьому випадку ви повинні встановити &quot;задню поверхню&quot; і &quot;лицьову поверхню&quot; у стан Вимкнути у параметрах Подання для відображення всіх осередків.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
@@ -3481,7 +3482,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="289"/>
         <source> px</source>
-        <translation>  пікс.</translation>
+        <translation> пікс.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="299"/>
@@ -3847,22 +3848,22 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="139"/>
         <source>Segment visibility</source>
-        <translation type="unfinished">Segment visibility</translation>
+        <translation>Видимість сегмента</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="140"/>
         <source>Segment color</source>
-        <translation type="unfinished">Segment color</translation>
+        <translation>Колір сегмента</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="141"/>
         <source>Segment opacity (3D views)</source>
-        <translation type="unfinished">Segment opacity (3D views)</translation>
+        <translation>Прозорість сегмента (3D-подання)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="142"/>
         <source>Segment status</source>
-        <translation type="unfinished">Segment status</translation>
+        <translation>Стан сегмента</translation>
     </message>
 </context>
 <context>
@@ -3875,42 +3876,42 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
         <source>No node selected</source>
-        <translation type="unfinished">No node selected</translation>
+        <translation>Об&apos;єкт не вибраний</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="125"/>
         <source>Show/Hide not started segments</source>
-        <translation type="unfinished">Show/Hide not started segments</translation>
+        <translation>Показати/приховати нерозпочаті сегменти</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="148"/>
         <source>Show/Hide in progress segments</source>
-        <translation type="unfinished">Show/Hide in progress segments</translation>
+        <translation>Показати/приховати сегменти, які в роботі</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="171"/>
         <source>Show/Hide completed segments</source>
-        <translation type="unfinished">Show/Hide completed segments</translation>
+        <translation>Показати/приховати завершені сегменти</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="194"/>
         <source>Show/Hide flagged segments</source>
-        <translation type="unfinished">Show/Hide flagged segments</translation>
+        <translation>Показати/приховати позначені сегменти</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="470"/>
         <source>No node is selected</source>
-        <translation type="unfinished">No node is selected</translation>
+        <translation>Об&apos;єкт не вибраний</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
         <source>Empty segmentation</source>
-        <translation type="unfinished">Empty segmentation</translation>
+        <translation>Порожня сегментація</translation>
     </message>
 </context>
 <context>
@@ -3918,52 +3919,52 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserPlayWidget</source>
-        <translation type="unfinished">qMRMLSequenceBrowserPlayWidget</translation>
+        <translation>qMRMLSequenceBrowserPlayWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
         <source>First frame</source>
-        <translation type="unfinished">First frame</translation>
+        <translation>Перший кадр</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="40"/>
         <source>Previous frame</source>
-        <translation type="unfinished">Previous frame</translation>
+        <translation>Попередній кадр</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="54"/>
         <source>Play/Pause</source>
-        <translation type="unfinished">Play/Pause</translation>
+        <translation>Пуск/Пауза</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="72"/>
         <source>Next frame</source>
-        <translation type="unfinished">Next frame</translation>
+        <translation>Наступний кадр</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="86"/>
         <source>Last frame</source>
-        <translation type="unfinished">Last frame</translation>
+        <translation>Останній кадр</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="100"/>
         <source>fps</source>
-        <translation type="unfinished">fps</translation>
+        <translation>кадр/с</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="122"/>
         <source>Loop playback</source>
-        <translation type="unfinished">Loop playback</translation>
+        <translation>Зациклювання</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="139"/>
         <source>Record proxy nodes modifications continuously</source>
-        <translation type="unfinished">Record proxy nodes modifications continuously</translation>
+        <translation>Постійно записувати зміни проксі-вузлів</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="156"/>
         <source>Record snapshot of current state of all proxy nodes</source>
-        <translation type="unfinished">Record snapshot of current state of all proxy nodes</translation>
+        <translation>Записати знімок поточного стану всіх проксі-вузлів</translation>
     </message>
 </context>
 <context>
@@ -3976,7 +3977,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
         <source>Index name</source>
-        <translation>Назва індекса</translation>
+        <translation>Назва індексу</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
@@ -4013,12 +4014,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="14"/>
         <source>Slice Controller</source>
-        <translation type="unfinished">Slice Controller</translation>
+        <translation>Контролер зрізу</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="51"/>
         <source>Select the label map</source>
-        <translation type="unfinished">Select the label map</translation>
+        <translation>Виберіть карту розміток</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="54"/>
@@ -4044,12 +4045,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
         <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-        <translation type="unfinished">Link slice views. Synchronizes properties of all slice views in the same view group.</translation>
+        <translation>Зв&apos;язати зрізи. Синхронізує властивості всіх зрізів в одну групу.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
         <source>Toggle slice visibility in the 3D view.</source>
-        <translation>Перемикнути видимість зрізу в 3D-виді.</translation>
+        <translation>Перемкнути видимість зрізу в 3D-виді.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
@@ -6268,7 +6269,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerAboutDialog.ui" line="20"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished">About 3D Slicer</translation>
+        <translation>Про 3D Slicer</translation>
     </message>
 </context>
 <context>
@@ -6276,12 +6277,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="14"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Дії</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="27"/>
         <source>Shortcuts</source>
-        <translation type="unfinished">Shortcuts</translation>
+        <translation>Гарячі клавіші</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="44"/>
@@ -6351,7 +6352,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="95"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished">Toggle visibility</translation>
+        <translation>Змінити видимість</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="116"/>
@@ -6428,7 +6429,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="265"/>
         <source>Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation>Застосувати масштабування тексту до всіх анотацій у цій ієрархії (поточне налаштування може не відображати масштаб тексту, це налаштування лише для списку, натисніть кнопку за умовчанням, щоб повернутися до стандартного розміру).</translation>
+        <translation>Застосувати масштабування тексту до всіх анотацій у цій ієрархії (поточне налаштування може не відображати масштаб тексту, це налаштування лише для списку, натисніть кнопку за умовчанням, щоб повернутися до стандартного розміру)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="278"/>
@@ -6502,24 +6503,24 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="628"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="783"/>
         <source>Selected Color</source>
-        <translation type="unfinished">Selected Color</translation>
+        <translation>Обраний колір</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="426"/>
         <source>Text Scale:</source>
-        <translation type="unfinished">Text Scale:</translation>
+        <translation>Розмір тексту:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="442"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="644"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="809"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Прозорість:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="455"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Видимість:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="488"/>
@@ -6534,7 +6535,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="542"/>
         <source>Points</source>
-        <translation type="unfinished">Points</translation>
+        <translation>Пункти</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="573"/>
@@ -6577,22 +6578,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="770"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Лінії</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="792"/>
         <source>Width:</source>
-        <translation type="unfinished">Width:</translation>
+        <translation>Ширина:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="877"/>
         <source>Label Position:</source>
-        <translation type="unfinished">Label Position:</translation>
+        <translation>Розташування мітки:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="884"/>
         <source>Position the label along the line</source>
-        <translation type="unfinished">Position the label along the line</translation>
+        <translation>Розташування мітки вздовж лінії</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="897"/>
@@ -6602,7 +6603,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="903"/>
         <source>Label Visibility</source>
-        <translation type="unfinished">Label Visibility</translation>
+        <translation>Видимість мітки</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="913"/>
@@ -6612,12 +6613,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="916"/>
         <source>Tick Spacing:</source>
-        <translation type="unfinished">Tick Spacing:</translation>
+        <translation>Інтервал між позначками:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="933"/>
         <source>Max # of Ticks:</source>
-        <translation type="unfinished">Max # of Ticks:</translation>
+        <translation type="unfinished">Макс. кількість позначок:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="962"/>
@@ -6645,7 +6646,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleReportDialog.ui" line="28"/>
         <source>Title:</source>
-        <translation type="unfinished">Title:</translation>
+        <translation>Назва:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/GUI/qSlicerAnnotationModuleReportDialog.cxx" line="260"/>
@@ -6698,7 +6699,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="145"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="169"/>
@@ -8701,7 +8702,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="159"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Розширення</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="171"/>
@@ -10271,48 +10272,48 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="127"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Модулі</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="134"/>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
         <source>Modules history</source>
-        <translation type="unfinished">Modules history</translation>
+        <translation>Історія модулів</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="136"/>
         <source>History</source>
-        <translation type="unfinished">History</translation>
+        <translation>Історія</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="146"/>
         <source>Modules Previous History</source>
-        <translation type="unfinished">Modules Previous History</translation>
+        <translation>Попередня історія модулів</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="149"/>
         <source>Previous</source>
-        <translation type="unfinished">Previous</translation>
+        <translation>Попереднє</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="150"/>
         <source>Previous modules</source>
-        <translation type="unfinished">Previous modules</translation>
+        <translation>Попередні модулі</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="163"/>
         <source>Modules Next History</source>
-        <translation type="unfinished">Modules Next History</translation>
+        <translation>Наступна історія модулів</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Далі</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
         <source>Next modules</source>
-        <translation type="unfinished">Next modules</translation>
+        <translation>Наступні модулі</translation>
     </message>
 </context>
 <context>
@@ -10869,7 +10870,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="184"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
@@ -11606,7 +11607,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="431"/>
@@ -11719,58 +11720,58 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="14"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Кеш</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="23"/>
         <source>Cache directory for downloaded files</source>
-        <translation type="unfinished">Cache directory for downloaded files</translation>
+        <translation>Каталог кешу для завантажених файлів</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="26"/>
         <source>Cache location:</source>
-        <translation type="unfinished">Cache location:</translation>
+        <translation>Розташування кешу:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="35"/>
         <source>~0MB used</source>
-        <translation type="unfinished">~0MB used</translation>
+        <translation>~0МБ використано</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="42"/>
         <source>~200MB free</source>
-        <translation type="unfinished">~200MB free</translation>
+        <translation>~200МБ вільно</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="51"/>
         <source>Current usage of the cache</source>
-        <translation type="unfinished">Current usage of the cache</translation>
+        <translation>Поточне використання кешу</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="54"/>
         <source>Cache usage:</source>
-        <translation type="unfinished">Cache usage:</translation>
+        <translation>Використання кешу:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="61"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="90"/>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>МБ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
         <source>Upper limit of the dedicated cache for downloaded files</source>
-        <translation type="unfinished">Upper limit of the dedicated cache for downloaded files</translation>
+        <translation>Верхня межа виділеного кешу для завантажених файлів</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="83"/>
         <source>Cache size:</source>
-        <translation type="unfinished">Cache size:</translation>
+        <translation>Розмір кешу:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="106"/>
         <source>Amount of space that should remain free. It should be the typical size of a file to download.</source>
-        <translation type="unfinished">Amount of space that should remain free. It should be the typical size of a file to download.</translation>
+        <translation>Кількість місця, яке повинно залишатися вільним. Це має бути типовим розміром файлу, що завантажується.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="109"/>
@@ -11785,32 +11786,32 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
         <source>Force redownload:</source>
-        <translation type="unfinished">Force redownload:</translation>
+        <translation>Примусове перезавантаження:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="136"/>
         <source>Files in cache:</source>
-        <translation type="unfinished">Files in cache:</translation>
+        <translation>Файлів у кеші:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="143"/>
         <source>Delete all files in cache directory</source>
-        <translation type="unfinished">Delete all files in cache directory</translation>
+        <translation>Видалити всі файли в каталозі кешу</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="146"/>
         <source>Clear cache</source>
-        <translation type="unfinished">Clear cache</translation>
+        <translation>Очистити кеш</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
         <source>%1MB used</source>
-        <translation type="unfinished">%1MB used</translation>
+        <translation>%1МБ використано</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
         <source>%1MB free</source>
-        <translation type="unfinished">%1MB free</translation>
+        <translation>%1МБ вільно</translation>
     </message>
 </context>
 <context>
@@ -11818,12 +11819,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="14"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>Розробник</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
         <source>Enable developer mode:</source>
-        <translation type="unfinished">Enable developer mode:</translation>
+        <translation>Увімкнути режим розробника:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
@@ -11833,12 +11834,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
         <source>Enable QtTesting:</source>
-        <translation type="unfinished">Enable QtTesting:</translation>
+        <translation>Увімкнути QtTesting:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="51"/>
         <source>Self-test message delay:</source>
-        <translation type="unfinished">Self-test message delay:</translation>
+        <translation>Затримка повідомлення особистого тестування:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
@@ -11848,17 +11849,17 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="73"/>
         <source>ms</source>
-        <translation type="unfinished">ms</translation>
+        <translation>мс</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="80"/>
         <source>Qt Designer:</source>
-        <translation type="unfinished">Qt Designer:</translation>
+        <translation>Дизайнер Qt:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="89"/>
         <source>launch</source>
-        <translation type="unfinished">launch</translation>
+        <translation>запуск</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
@@ -11876,7 +11877,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Розширення</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="28"/>
@@ -11909,7 +11910,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Основне</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
@@ -12000,12 +12001,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>Інтернаціоналізація</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
         <source>Enable Internationalization:</source>
-        <translation type="unfinished">Enable Internationalization:</translation>
+        <translation>Увімкнути інтернаціоналізацію:</translation>
     </message>
 </context>
 <context>
@@ -12013,96 +12014,96 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="20"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>Модуль</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
         <source>Skip loading of any:</source>
-        <translation type="unfinished">Skip loading of any:</translation>
+        <translation>Пропустити завантаження:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-loadable-modules on the command line</translation>
+        <translation>Щоб тимчасово вимкнути, передайте --disable-loadable-modules у командному рядку</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="130"/>
         <source>loadable modules</source>
-        <translation type="unfinished">loadable modules</translation>
+        <translation>завантажуванні модулі</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-cli-modules on the command line</translation>
+        <translation>Щоб тимчасово вимкнути, передайте --disable-cli-modules у командному рядку</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
         <source>command-line plugins</source>
-        <translation type="unfinished">command-line plugins</translation>
+        <translation>розширення командного рядка</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</translation>
+        <translation>Щоб тимчасово вимкнути, передайте  --disable-scripted-loadable-modules у командному рядку</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="150"/>
         <source>scripted loadable modules</source>
-        <translation type="unfinished">scripted loadable modules</translation>
+        <translation>скриптові завантажуванні модулі</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished">Skip loading of builtin:</translation>
+        <translation>Пропустити завантаження вбудованого:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-loadable-modules on the command line</translation>
+        <translation>Щоб тимчасово вимкнути, передайте --disable-builtin-loadable-modules у командному рядку</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
         <source>To temporarily disable, pass --disable-builtin-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-cli-modules on the command line</translation>
+        <translation>Щоб тимчасово вимкнути, передайте --disable-builtin-cli-modules у командному рядку</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="147"/>
         <source>To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</translation>
+        <translation>Щоб тимчасово вимкнути, передайте  --disable-builtin-scripted-loadable-modules у командному рядку</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
         <source>Show hidden modules:</source>
-        <translation type="unfinished">Show hidden modules:</translation>
+        <translation>Показати приховані модулі:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
         <source>Temporary directory:</source>
-        <translation type="unfinished">Temporary directory:</translation>
+        <translation>Тимчасовий каталог:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Додаткові шляхи до модулів:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;(перетягуйте&lt;br&gt;файли або теки)&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="279"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>Шляхи</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="285"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="292"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="764"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="334"/>
@@ -12117,7 +12118,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="399"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="408"/>
@@ -12268,7 +12269,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="49"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>Шляхи</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="55"/>
@@ -12290,7 +12291,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Додати</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="71"/>
@@ -12312,7 +12313,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="103"/>
@@ -12428,7 +12429,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Основне</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
@@ -13153,7 +13154,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="99"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
@@ -13433,7 +13434,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="92"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
