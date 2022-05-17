@@ -3830,12 +3830,7 @@ This may mean losing important data that cannot be created again from the new ma
 (Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing master representation?</source>
-        <translation type="unfinished">Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
-
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
-
-Do you wish to proceed with changing master representation?</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4001,7 +3996,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
         <source>Select the current unit node to modify.</source>
-        <translation type="unfinished">Select the current unit node to modify.</translation>
+        <translation>Виберіть поточний вузол розмірності для зміни.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="36"/>
@@ -4110,7 +4105,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="695"/>
         <source>Hot linked</source>
-        <translation type="unfinished">Hot linked</translation>
+        <translation>Взаємопов&apos;язані</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="698"/>
@@ -4120,7 +4115,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="707"/>
         <source>Fit to window</source>
-        <translation type="unfinished">Fit to window</translation>
+        <translation>За розміром вікна</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="710"/>
@@ -4131,7 +4126,7 @@ Do you wish to proceed with changing master representation?</translation>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="722"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotate to volume plane</translation>
+        <translation>Повернути до площини зображення</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
@@ -4146,7 +4141,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>Показати віджет переформатування</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="762"/>
@@ -4166,12 +4161,12 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="786"/>
         <source>Alpha blend</source>
-        <translation type="unfinished">Alpha blend</translation>
+        <translation>Змішування по альфа-каналу</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="794"/>
         <source>Reverse alpha blend</source>
-        <translation type="unfinished">Reverse alpha blend</translation>
+        <translation>Зворотнє змішування по альфа-каналу</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="802"/>
