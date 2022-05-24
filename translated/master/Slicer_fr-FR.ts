@@ -7064,7 +7064,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parameter set:</translation>
+        <translation>Jeu de paramètres :</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="104"/>
@@ -7377,7 +7377,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parameter set:</translation>
+        <translation>Jeu de paramètres :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="78"/>
