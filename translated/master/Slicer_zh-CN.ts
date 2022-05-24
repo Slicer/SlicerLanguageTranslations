@@ -42,7 +42,7 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="282"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="419"/>
         <source>Selected Color</source>
-        <translation>所选颜色</translation>
+        <translation>已选颜色</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="158"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
         <source>Opacity:</source>
-        <translation>不透明度：</translation>
+        <translation>透明度：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
         <source>Label Visibility</source>
-        <translation>标签可见性</translation>
+        <translation>标签可见</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
         <source>ROI</source>
-        <translation>感兴趣区域</translation>
+        <translation>兴趣区域</translation>
     </message>
 </context>
 <context>
