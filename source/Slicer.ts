@@ -15,7 +15,7 @@
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
-        //<source>Toggle visibility</source>
+        //toggle visibility
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -33,7 +33,7 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="224"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="275"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="372"/>
-        <source>Unselected Color</source>
+        <source></source>//Unselected Color
         <translation type="unfinished"></translation>
     </message>
     <message>
