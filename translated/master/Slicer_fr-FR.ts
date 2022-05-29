@@ -11162,7 +11162,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="410"/>
         <source>Select Segmentation node to copy/move segments to/from.</source>
-        <translation>Sélectionnez le nœud de segmentation pour copier/déplacer des segments vers/depuis.</translation>
+        <translation>Sélectionnez le nœud de segmentation à copier/déplacer des segments vers/depuis.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="451"/>
@@ -11283,7 +11283,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="742"/>
         <source>Binary labelmap layers</source>
-        <translation>Couches de cartes d&apos;étiquettes binaires</translation>
+        <translation>Couches de la carte d&apos;étiquettes binaire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="751"/>
