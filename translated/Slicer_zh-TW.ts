@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation type="unfinished">AnnotationText (vtkMRMLAnnotationTextNode1)</translation>
+        <translation>测试aa&gt;,//s///s\」『』‐–—aa–』」「…&#xa0;」』「…『…&#xa0;&#xa0;&#xa0;&#xa0;n</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
