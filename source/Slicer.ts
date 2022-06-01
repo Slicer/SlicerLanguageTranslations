@@ -13,11 +13,11 @@
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    /*<message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
         //toggle visibility
         <translation type="unfinished"></translation>
-    </message>
+    </message>*/
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
