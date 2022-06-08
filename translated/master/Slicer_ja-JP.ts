@@ -3557,22 +3557,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="106"/>
         <source>Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</source>
-        <translation type="unfinished">Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</translation>
+        <translation>出力モデルのXYZ軸は、LPS（左-後-上）またはRAS（右-前-上）の患者軸の方向にマッピングされます。LPSがより一般的に使用されます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="115"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>RAS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="123"/>
         <source>Use color table values:</source>
-        <translation type="unfinished">Use color table values:</translation>
+        <translation>カラーテーブルの値を使う:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="130"/>
@@ -4115,369 +4115,369 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="698"/>
         <source>Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</source>
-        <translation type="unfinished">Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</translation>
+        <translation>ホット リンク コントロールへのリンク動作を設定します。オンにすると、スライスへの操作は他のスライスにすぐに影響します。オフにすると、スライスへの操作は、操作の完了後に他のスライスに影響します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="707"/>
         <source>Fit to window</source>
-        <translation type="unfinished">Fit to window</translation>
+        <translation>ウィンドウに合わせる</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="710"/>
         <source>Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</source>
-        <translation type="unfinished">Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</translation>
+        <translation>視野をリセットします。スライスビューの視野を、最も後ろのボリュームレイヤーの範囲(背景、前景、ラベル)に合わせて調整します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="722"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotate to volume plane</translation>
+        <translation>ボリューム面への回転</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
         <source>Hide labelmap outlines</source>
-        <translation type="unfinished">Hide labelmap outlines</translation>
+        <translation>ラベルマップのアウトラインを隠す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="741"/>
         <source>Toggle between showing label map volume with regions outlined or filled.</source>
-        <translation type="unfinished">Toggle between showing label map volume with regions outlined or filled.</translation>
+        <translation>ラベルマップのボリュームを表示する際、領域をアウトライン化するか、塗りつぶすかを切り替えます。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>再フォーマットウィジェットを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="762"/>
         <source>Cube</source>
-        <translation type="unfinished">Cube</translation>
+        <translation>キューブ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="770"/>
         <source>Human</source>
-        <translation type="unfinished">Human</translation>
+        <translation>人間</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="778"/>
         <source>Axes</source>
-        <translation type="unfinished">Axes</translation>
+        <translation>軸</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="786"/>
         <source>Alpha blend</source>
-        <translation type="unfinished">Alpha blend</translation>
+        <translation>アルファブレンド</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="794"/>
         <source>Reverse alpha blend</source>
-        <translation type="unfinished">Reverse alpha blend</translation>
+        <translation>アルファブレンドの反転</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="802"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="810"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>引く</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="823"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>自動</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="831"/>
         <source>FOV, Spacing match Volumes</source>
-        <translation type="unfinished">FOV, Spacing match Volumes</translation>
+        <translation>FOV, 間隔はボリュームに一致</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="839"/>
         <source>FOV, Spacing match 2D</source>
-        <translation type="unfinished">FOV, Spacing match 2D</translation>
+        <translation>FOV, 間隔は2Dに一致</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="847"/>
         <source>FOV matches 2D, Spacing matches Volumes</source>
-        <translation type="unfinished">FOV matches 2D, Spacing matches Volumes</translation>
+        <translation>FOV は 2D に一致し、間隔はボリュームに一致します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="855"/>
         <source>FOV matches Volumes, Spacing matches 2D View</source>
-        <translation type="unfinished">FOV matches Volumes, Spacing matches 2D View</translation>
+        <translation>FOV はボリュームに一致し、間隔は 2D ビューに一致します。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="863"/>
         <source>1x1 view</source>
-        <translation type="unfinished">1x1 view</translation>
+        <translation>1x1 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="871"/>
         <source>1x2 view</source>
-        <translation type="unfinished">1x2 view</translation>
+        <translation>1x2 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="879"/>
         <source>1x3 view</source>
-        <translation type="unfinished">1x3 view</translation>
+        <translation>1x3 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="887"/>
         <source>1x4 view</source>
-        <translation type="unfinished">1x4 view</translation>
+        <translation>1x4 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="895"/>
         <source>1x6 view</source>
-        <translation type="unfinished">1x6 view</translation>
+        <translation>1x6 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="903"/>
         <source>1x8 view</source>
-        <translation type="unfinished">1x8 view</translation>
+        <translation>1x8 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="911"/>
         <source>2x2 view</source>
-        <translation type="unfinished">2x2 view</translation>
+        <translation>2x2 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="919"/>
         <source>3x3 view</source>
-        <translation type="unfinished">3x3 view</translation>
+        <translation>3x3 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="927"/>
         <source>6x6 view</source>
-        <translation type="unfinished">6x6 view</translation>
+        <translation>6x6 view</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="935"/>
         <source>Foreground volume</source>
-        <translation type="unfinished">Foreground volume</translation>
+        <translation>フォアグラウンドボリューム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="943"/>
         <source>Background volume</source>
-        <translation type="unfinished">Background volume</translation>
+        <translation>背景のボリューム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="951"/>
         <source>Label map volume</source>
-        <translation type="unfinished">Label map volume</translation>
+        <translation>ラベルマップボリューム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="967"/>
         <source>Interpolate foreground</source>
-        <translation type="unfinished">Interpolate foreground</translation>
+        <translation>フォアグラウンドの補間</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="983"/>
         <source>Interpolate background</source>
-        <translation type="unfinished">Interpolate background</translation>
+        <translation>背景の補間</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="999"/>
         <source>Show LabelMap</source>
-        <translation type="unfinished">Show LabelMap</translation>
+        <translation>ラベルマップを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1002"/>
         <source>Toggle labelmap visibility</source>
-        <translation type="unfinished">Toggle labelmap visibility</translation>
+        <translation>ラベルマップの表示の切り替え</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
         <source>Show Foreground</source>
-        <translation type="unfinished">Show Foreground</translation>
+        <translation>フォアグラウンドを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1021"/>
         <source>Toggle foreground visibility</source>
-        <translation type="unfinished">Toggle foreground visibility</translation>
+        <translation>フォアグラウンドの表示を切り替え</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
         <source>Show Background</source>
-        <translation type="unfinished">Show Background</translation>
+        <translation>背景を表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1040"/>
         <source>Toggle background visibility</source>
-        <translation type="unfinished">Toggle background visibility</translation>
+        <translation>背景の表示を切り替える</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">Show in 3D</translation>
+        <translation>3Dで表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
         <source>Toggle slice visibility in 3D view</source>
-        <translation type="unfinished">Toggle slice visibility in 3D view</translation>
+        <translation>3Dビューでのスライスの表示の切り替え</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1064"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished">Lock Normal To Camera</translation>
+        <translation>カメラに対して垂直に固定</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1067"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+        <translation>カメラ1を再フォーマットウィジェットに対して垂直に固定します。 </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1075"/>
         <source>No orientation marker</source>
-        <translation type="unfinished">No orientation marker</translation>
+        <translation>オリエンテーションマーカーなし</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1078"/>
         <source>Hide orientation marker</source>
-        <translation type="unfinished">Hide orientation marker</translation>
+        <translation>オリエンテーションマーカーを隠す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1086"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Small</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1089"/>
         <source>Set orientation marker size to small</source>
-        <translation type="unfinished">Set orientation marker size to small</translation>
+        <translation>オリエンテーションマーカーのサイズをSmallに設定する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1097"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Medium</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1100"/>
         <source>Set orientation marker size to small to medium</source>
-        <translation type="unfinished">Set orientation marker size to small to medium</translation>
+        <translation>オリエンテーションマーカーのサイズをSmall～Mediumに設定</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1108"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Large</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1111"/>
         <source>Set orientation marker size to large</source>
-        <translation type="unfinished">Set orientation marker size to large</translation>
+        <translation>オリエンテーションマーカーサイズをLargeに設定する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1119"/>
         <source>No ruler</source>
-        <translation type="unfinished">No ruler</translation>
+        <translation>ルーラーなし</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1122"/>
         <source>Hide ruler</source>
-        <translation type="unfinished">Hide ruler</translation>
+        <translation>ルーラーを隠す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1130"/>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>薄い</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1133"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished">Show thin ruler</translation>
+        <translation>細いルーラーを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
         <source>Thick</source>
-        <translation type="unfinished">Thick</translation>
+        <translation>太い</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1144"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished">Show thick ruler</translation>
+        <translation>太いルーラーを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1152"/>
         <source>White ruler</source>
-        <translation type="unfinished">White ruler</translation>
+        <translation>白いルーラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1160"/>
         <source>Black ruler</source>
-        <translation type="unfinished">Black ruler</translation>
+        <translation>黒いルーラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1168"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished">Yellow ruler</translation>
+        <translation>黄色ルーラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1177"/>
         <source>Toggle segmentation outline/fill</source>
-        <translation type="unfinished">Toggle segmentation outline/fill</translation>
+        <translation>セグメンテーションのアウトライン/塗りつぶしを切り替えます</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1180"/>
         <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-        <translation type="unfinished">Toggle between segmentation outline only, outline and fill, and fill only states</translation>
+        <translation>セグメンテーションのアウトラインのみ、アウトラインと塗りつぶし、および塗りつぶしのみの状態を切り替えます</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1196"/>
         <source>Show Segmentation</source>
-        <translation type="unfinished">Show Segmentation</translation>
+        <translation>セグメンテーションを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1199"/>
         <source>Toggle segmentation visibility</source>
-        <translation type="unfinished">Toggle segmentation visibility</translation>
+        <translation>セグメンテーションの表示の切り替え</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
         <source>S: </source>
-        <translation type="unfinished">S: </translation>
+        <translation>S: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
         <source>I &lt;-----&gt; S</source>
-        <translation type="unfinished">I &lt;-----&gt; S</translation>
+        <translation>I &amp;lt;-----&amp;gt; S</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="78"/>
         <source>R: </source>
-        <translation type="unfinished">R: </translation>
+        <translation>R: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="78"/>
         <source>L &lt;-----&gt; R</source>
-        <translation type="unfinished">L &lt;-----&gt; R</translation>
+        <translation>L &amp;lt;-----&amp;gt; R</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
         <source>A: </source>
-        <translation type="unfinished">A: </translation>
+        <translation>A: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
         <source>P &lt;-----&gt; A</source>
-        <translation type="unfinished">P &lt;-----&gt; A</translation>
+        <translation>P &amp;lt;-----&amp;gt; A</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1564"/>
         <source>Oblique</source>
-        <translation type="unfinished">Oblique</translation>
+        <translation>斜め</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="401"/>
         <source>Slice distance from RAS origin</source>
-        <translation type="unfinished">Slice distance from RAS origin</translation>
+        <translation>RAS原点からのスライス距離</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2591"/>
         <source>Continue</source>
-        <translation type="unfinished">Continue</translation>
+        <translation>続ける</translation>
     </message>
 </context>
 <context>
@@ -4485,112 +4485,112 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="469"/>
         <source>Linked</source>
-        <translation type="unfinished">Linked</translation>
+        <translation>リンク</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="484"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>再フォーマット</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="499"/>
         <source>Lightbox view</source>
-        <translation type="unfinished">Lightbox view</translation>
+        <translation>ライトボックス表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="511"/>
         <source>Custom</source>
-        <translation type="unfinished">Custom</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="521"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>適用</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="548"/>
         <source>Compositing</source>
-        <translation type="unfinished">Compositing</translation>
+        <translation>合成</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="569"/>
         <source>Slice spacing mode</source>
-        <translation type="unfinished">Slice spacing mode</translation>
+        <translation>スライススペーシングモード</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="573"/>
         <source>Manual spacing</source>
-        <translation type="unfinished">Manual spacing</translation>
+        <translation>マニュアルスペーシング</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="588"/>
         <source>Field of view</source>
-        <translation type="unfinished">Field of view</translation>
+        <translation>視野</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="613"/>
         <source>Slice model mode</source>
-        <translation type="unfinished">Slice model mode</translation>
+        <translation>スライスモデルモード</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="633"/>
         <source>Manual FOV</source>
-        <translation type="unfinished">Manual FOV</translation>
+        <translation>手動 FOV</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="658"/>
         <source>Manual Dimensions</source>
-        <translation type="unfinished">Manual Dimensions</translation>
+        <translation>手動寸法</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="683"/>
         <source>Manual Origin</source>
-        <translation type="unfinished">Manual Origin</translation>
+        <translation>手動原点</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="712"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>セグメンテーション</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="721"/>
         <source>LabelMap</source>
-        <translation type="unfinished">LabelMap</translation>
+        <translation>ラベルマップ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="730"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>詳細</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="889"/>
         <source>Hide label volume outlines</source>
-        <translation type="unfinished">Hide label volume outlines</translation>
+        <translation>ラベルのボリュームアウトラインを隠す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="889"/>
         <source>Show label volume outlines</source>
-        <translation type="unfinished">Show label volume outlines</translation>
+        <translation>ラベルボリュームのアウトラインを表示する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="894"/>
         <source>Hide reformat widget</source>
-        <translation type="unfinished">Hide reformat widget</translation>
+        <translation>再フォーマットウィジェットを隠す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="894"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>再フォーマットウィジェットを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1512"/>
         <source>Orientation marker</source>
-        <translation type="unfinished">Orientation marker</translation>
+        <translation>オリエンテーションマーカー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1548"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>ルーラー</translation>
     </message>
 </context>
 <context>
@@ -4598,153 +4598,153 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>レイアウト名:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished">Name of the slice</translation>
+        <translation>スライスの名前</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
         <source>Orientation:</source>
-        <translation type="unfinished">Orientation:</translation>
+        <translation>オリエンテーション：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat)</source>
-        <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat)</translation>
+        <translation>スライス方向（Axial、Sagittal、Coronal、Reformat）</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="59"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagittal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="64"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>Reformat</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
         <source>Slice visible:</source>
-        <translation type="unfinished">Slice visible:</translation>
+        <translation>スライス表示:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
         <source>Toggle the visibility of the slice in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the slice in the 3D scene</translation>
+        <translation>3D 表示でのスライスの表示を切り替える</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="121"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
         <source>Widget visible:</source>
-        <translation type="unfinished">Widget visible:</translation>
+        <translation>ウィジェットの表示:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
         <source>Toggle the visibility of the reformat widget in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the reformat widget in the 3D scene</translation>
+        <translation>3D 表示での再フォーマットウィジェットの表示を切り替える</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="145"/>
         <source>Dimension of the slice.</source>
-        <translation type="unfinished">Dimension of the slice.</translation>
+        <translation>スライスの寸法。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="148"/>
         <source>Dimension:</source>
-        <translation type="unfinished">Dimension:</translation>
+        <translation>寸法：</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="171"/>
         <source>Field of view of slice</source>
-        <translation type="unfinished">Field of view of slice</translation>
+        <translation>スライスの視野</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
         <source>Field of view:</source>
-        <translation type="unfinished">Field of view:</translation>
+        <translation>視野:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
         <source>Layout of the lightbox (rows, columns)</source>
-        <translation type="unfinished">Layout of the lightbox (rows, columns)</translation>
+        <translation>ライトボックスのレイアウト（行、列）</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="194"/>
         <source>Lightbox layout:</source>
-        <translation type="unfinished">Lightbox layout:</translation>
+        <translation>ライトボックスレイアウト:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="203"/>
         <source>Number of rows in the lightbox</source>
-        <translation type="unfinished">Number of rows in the lightbox</translation>
+        <translation>ライトボックスの行数</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="216"/>
         <source>Number of columns in the lightbox</source>
-        <translation type="unfinished">Number of columns in the lightbox</translation>
+        <translation>ライトボックスの列数</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="231"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation type="unfinished">Slice spacing may be set automatically or manually by the user or context</translation>
+        <translation>スライス間隔は、ユーザーまたはコンテキストによって自動または手動で設定されるかもしれません</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="234"/>
         <source>Slice spacing mode:</source>
-        <translation type="unfinished">Slice spacing mode:</translation>
+        <translation>スライススペーシングモード:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>自動</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>手動</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
         <source>Manual spacing:</source>
-        <translation type="unfinished">Manual spacing:</translation>
+        <translation>手動によるスペーシング:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="275"/>
         <source>Manual spacing is used when slice spacing is set manually by the user or context</source>
-        <translation type="unfinished">Manual spacing is used when slice spacing is set manually by the user or context</translation>
+        <translation>マニュアルスペーシングは、スライス間隔をユーザーまたはコンテキストによって手動で設定する場合に使用されます</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>ビューグループ:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+        <translation>ナビゲーションとリンクされたプロパティは、同じグループインデックスを持つビューで同期されます。</translation>
     </message>
 </context>
 <context>
@@ -4752,7 +4752,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
         <source>qMRMLSliceWidget</source>
-        <translation type="unfinished">qMRMLSliceWidget</translation>
+        <translation>qMRMLSliceWidget</translation>
     </message>
 </context>
 <context>
@@ -4760,71 +4760,71 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>None</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="130"/>
         <source>Node name and type</source>
-        <translation type="unfinished">Node name and type</translation>
+        <translation>ノード名とタイプ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="131"/>
         <source>Node description</source>
-        <translation type="unfinished">Node description</translation>
+        <translation>ノードの説明</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
         <source>Show/hide branch or node</source>
-        <translation type="unfinished">Show/hide branch or node</translation>
+        <translation>ブランチまたはノードの表示/非表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
         <source>Node color</source>
-        <translation type="unfinished">Node color</translation>
+        <translation>ノードカラー</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
         <source>Applied transform</source>
-        <translation type="unfinished">Applied transform</translation>
+        <translation>適用された変換</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node ID</source>
-        <translation type="unfinished">Node ID</translation>
+        <translation>ノードID</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1028"/>
         <source>No subject hierarchy role assigned! Please report error</source>
-        <translation type="unfinished">No subject hierarchy role assigned! Please report error</translation>
+        <translation>サブジェクト階層の役割は割り当てられていません！エラーを報告してください</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1194"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1204"/>
         <source>Apply transform to children</source>
-        <translation type="unfinished">Apply transform to children</translation>
+        <translation>変換を下層に適用する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1208"/>
         <source>This node is not transformable</source>
-        <translation type="unfinished">This node is not transformable</translation>
+        <translation>このノードは変換できません</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1385"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+        <translation>ブランチ内のいくつかのノードはすでに変換されています</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1386"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+        <translation>新しい変換を適用する前に、既に適用されているすべての変換を保持しますか?
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+注: 「いいえ」を選択すると、適用された変換が置き換えられます。</translation>
     </message>
 </context>
 <context>
@@ -4832,7 +4832,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1987"/>
         <source>Delete subject hierarchy branch?</source>
-        <translation type="unfinished">Delete subject hierarchy branch?</translation>
+        <translation>対象階層ブランチを削除しますか?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
@@ -4840,10 +4840,10 @@ Do you wish to proceed with changing master representation?</source>
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation type="unfinished">The deleted subject hierarchy item has children. Do you want to remove those too?
+        <translation>削除された対象階層アイテムには子アイテムがあります。それらも削除しますか？
 
-If you choose yes, the whole branch will be deleted, including all children.
-If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</translation>
+[はい]を選択すると、すべての子アイテムを含むブランチ全体が削除されます。
+[すべてはい]を選択すると、この質問は二度と表示されず、すべての対象階層の子アイテムが自動的に削除されます。これは、後でアプリケーション設定で変更できます。</translation>
     </message>
 </context>
 <context>
@@ -4851,27 +4851,27 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="252"/>
         <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="unfinished">Allow interactively modify the transform in 3D views</translation>
+        <translation>3D表示でトランスフォームをインタラクティブに変更可能</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="257"/>
         <source>Edit properties of the current transform</source>
-        <translation type="unfinished">Edit properties of the current transform</translation>
+        <translation>現在の変換のプロパティを編集する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="262"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation type="unfinished">Harden current transform on this node and all children nodes</translation>
+        <translation>このノードとすべての子ノードの現在のトランスフォームを保持します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="267"/>
         <source>Create and apply new transform</source>
-        <translation type="unfinished">Create and apply new transform</translation>
+        <translation>新しい変換を作成して適用する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="275"/>
         <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="unfinished">Remove parent transform from all the nodes in this branch</translation>
+        <translation>このブランチのすべてのノードから親の変換を削除します。</translation>
     </message>
 </context>
 <context>
@@ -4881,12 +4881,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
         <source>Failed to create Plot</source>
-        <translation type="unfinished">Failed to create Plot</translation>
+        <translation>プロットの作成に失敗しました</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
         <source>Failed to plot data</source>
-        <translation type="unfinished">Failed to plot data</translation>
+        <translation>データのプロットに失敗しました</translation>
     </message>
 </context>
 <context>
@@ -4894,22 +4894,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="14"/>
         <source>Table View Controller</source>
-        <translation type="unfinished">Table View Controller</translation>
+        <translation>テーブルビューコントローラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="28"/>
         <source>vtkMRMLTableNode</source>
-        <translation type="unfinished">vtkMRMLTableNode</translation>
+        <translation>vtkMRMLTableNode</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
         <source>Allow table editing</source>
-        <translation type="unfinished">Allow table editing</translation>
+        <translation>テーブル編集を許可する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>コピー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -4921,52 +4921,52 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="251"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="265"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>貼り付け</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>テーブルの列をユーザーが選択して、インタラクティブプロットを生成する。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
         <source>Add column</source>
-        <translation type="unfinished">Add column</translation>
+        <translation>列を追加</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="187"/>
         <source>Delete column</source>
-        <translation type="unfinished">Delete column</translation>
+        <translation>列の削除</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
         <source>Lock first column</source>
-        <translation type="unfinished">Lock first column</translation>
+        <translation>最初の列をロックする</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="234"/>
         <source>Add row</source>
-        <translation type="unfinished">Add row</translation>
+        <translation>行の追加</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="248"/>
         <source>Delete row</source>
-        <translation type="unfinished">Delete row</translation>
+        <translation>行の削除</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
         <source>Lock first row</source>
-        <translation type="unfinished">Lock first row</translation>
+        <translation>最初の行をロックする</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="135"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
@@ -4974,17 +4974,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>コピー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>貼り付け</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>テーブルの列をユーザーが選択して、インタラクティブプロットを生成する。</translation>
     </message>
 </context>
 <context>
@@ -4992,22 +4992,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>編集</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="57"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation>保存</translation>
     </message>
 </context>
 <context>
@@ -5015,329 +5015,329 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="20"/>
         <source>3D View Controller</source>
-        <translation type="unfinished">3D View Controller</translation>
+        <translation>3Dビューコントローラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
         <source>Zoom out of the scene by a small amount.</source>
-        <translation type="unfinished">Zoom out of the scene by a small amount.</translation>
+        <translation>シーンを少しづつズームアウトしていきます。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="79"/>
         <source>Spin the 3D view.</source>
-        <translation type="unfinished">Spin the 3D view.</translation>
+        <translation>3Dビューを回転させる。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="99"/>
         <source>Rock the 3D view.</source>
-        <translation type="unfinished">Rock the 3D view.</translation>
+        <translation>3Dビューを揺する。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="119"/>
         <source>Toggle visibility of elements in the 3D view.</source>
-        <translation type="unfinished">Toggle visibility of elements in the 3D view.</translation>
+        <translation>3D ビュー内の要素の表示を切り替えます。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="185"/>
         <source>Orientation marker</source>
-        <translation type="unfinished">Orientation marker</translation>
+        <translation>オリエンテーションマーカー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
-        <translation type="unfinished">Zoom in on the scene by a small amount.</translation>
+        <translation>少しづつズームアップしていきます。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
         <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-        <translation type="unfinished">Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</translation>
+        <translation>ステレオ表示オプションを選択します（これらの機能を使用するには、ステレオを有効にした状態で 3DSlicer を起動する必要があります）。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
         <source>Show ruler. Only available in orthographic projection mode.</source>
-        <translation type="unfinished">Show ruler. Only available in orthographic projection mode.</translation>
+        <translation>ルーラーを表示する。正投影法でのみ使用可能です。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="219"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="236"/>
         <source>Toggle between orthographic and perspective rendering in the 3D view.</source>
-        <translation type="unfinished">Toggle between orthographic and perspective rendering in the 3D view.</translation>
+        <translation>3D ビューでの正投影レンダリングと遠近法レンダリングを切り替えます。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="257"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="401"/>
         <source>Center view</source>
-        <translation type="unfinished">Center view</translation>
+        <translation>センタービュー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="264"/>
         <source>Link 3D views. Synchronizes properties of all 3D views in the same view group.</source>
-        <translation type="unfinished">Link 3D views. Synchronizes properties of all 3D views in the same view group.</translation>
+        <translation>3Dビューをリンクします。同じビューグループ内のすべての3Dビューのプロパティを同期させます。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="296"/>
         <source>No Stereo</source>
-        <translation type="unfinished">No Stereo</translation>
+        <translation>ステレオなし</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="304"/>
         <source>Red/blue</source>
-        <translation type="unfinished">Red/blue</translation>
+        <translation>レッド/ブルー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="312"/>
         <source>Anaglyph</source>
-        <translation type="unfinished">Anaglyph</translation>
+        <translation>アナグリフ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="320"/>
         <source>QuadBuffer</source>
-        <translation type="unfinished">QuadBuffer</translation>
+        <translation>QuadBuffer</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="328"/>
         <source>Interlaced</source>
-        <translation type="unfinished">Interlaced</translation>
+        <translation>インターレース</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="331"/>
         <source>Switch to Interlaced stereo mode</source>
-        <translation type="unfinished">Switch to Interlaced stereo mode</translation>
+        <translation>インターレースステレオモードへの切替</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="342"/>
         <source>3D cube</source>
-        <translation type="unfinished">3D cube</translation>
+        <translation>3D キューブ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="353"/>
         <source>3D axis label</source>
-        <translation type="unfinished">3D axis label</translation>
+        <translation>3D 軸ラベル</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
         <source>Light blue background</source>
-        <translation type="unfinished">Light blue background</translation>
+        <translation>水色の背景</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="367"/>
         <source>Set light blue background</source>
-        <translation type="unfinished">Set light blue background</translation>
+        <translation>水色の背景を設定</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="375"/>
         <source>Black background</source>
-        <translation type="unfinished">Black background</translation>
+        <translation>黒い背景</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="378"/>
         <source>Set black background</source>
-        <translation type="unfinished">Set black background</translation>
+        <translation>背景を黒に設定</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="386"/>
         <source>White background</source>
-        <translation type="unfinished">White background</translation>
+        <translation>白色の背景</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="389"/>
         <source>Set white background</source>
-        <translation type="unfinished">Set white background</translation>
+        <translation>背景を白に設定する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="398"/>
         <source>Center</source>
-        <translation type="unfinished">Center</translation>
+        <translation>中心</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="409"/>
         <source>Use depth peeling</source>
-        <translation type="unfinished">Use depth peeling</translation>
+        <translation>デプスピーリング使用</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="412"/>
         <source>Depth peeling is used to render transparent surface models in order</source>
-        <translation type="unfinished">Depth peeling is used to render transparent surface models in order</translation>
+        <translation>デプスピーリングは、透明なサーフェスモデルをレンダリングするために使用されます。</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
         <source>Show/Hide frames per second (FPS)</source>
-        <translation type="unfinished">Show/Hide frames per second (FPS)</translation>
+        <translation>FPS（フレームパーセカンド）の表示／非表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="432"/>
         <source>User Defined 1</source>
-        <translation type="unfinished">User Defined 1</translation>
+        <translation>ユーザー定義1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="435"/>
         <source>Switch to user defined stereo mode 1</source>
-        <translation type="unfinished">Switch to user defined stereo mode 1</translation>
+        <translation>ユーザー定義ステレオモード1への切り替え</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="443"/>
         <source>User Defined 2</source>
-        <translation type="unfinished">User Defined 2</translation>
+        <translation>ユーザー定義2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="446"/>
         <source>Switch to user defined stereo mode 2</source>
-        <translation type="unfinished">Switch to user defined stereo mode 2</translation>
+        <translation>ユーザー定義ステレオモード2への切り替え</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="454"/>
         <source>User Defined 3</source>
-        <translation type="unfinished">User Defined 3</translation>
+        <translation>ユーザー定義3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="457"/>
         <source>Switch to user defined stereo mode 3</source>
-        <translation type="unfinished">Switch to user defined stereo mode 3</translation>
+        <translation>ユーザー定義ステレオモード3への切り替え</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="465"/>
         <source>No orientation marker</source>
-        <translation type="unfinished">No orientation marker</translation>
+        <translation>オリエンテーションマーカーなし</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="468"/>
         <source>Hide orientation marker</source>
-        <translation type="unfinished">Hide orientation marker</translation>
+        <translation>オリエンテーションマーカーを隠す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="476"/>
         <source>Cube</source>
-        <translation type="unfinished">Cube</translation>
+        <translation>キューブ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="479"/>
         <source>Show cube orientation marker</source>
-        <translation type="unfinished">Show cube orientation marker</translation>
+        <translation>キューブオリエンテーションマーカーを表示する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="487"/>
         <source>Human</source>
-        <translation type="unfinished">Human</translation>
+        <translation>人間</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="490"/>
         <source>Show human-shaped orientation marker</source>
-        <translation type="unfinished">Show human-shaped orientation marker</translation>
+        <translation>人型オリエンテーションマーカーを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="498"/>
         <source>Axes</source>
-        <translation type="unfinished">Axes</translation>
+        <translation>軸</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="501"/>
         <source>Show axes orientation marker</source>
-        <translation type="unfinished">Show axes orientation marker</translation>
+        <translation>軸のオリエンテーションマーカーを表示する</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="509"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Small</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="512"/>
         <source>Small orientation marker size</source>
-        <translation type="unfinished">Small orientation marker size</translation>
+        <translation>小さいオリエンテーションのマーカーのサイズ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="520"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Medium</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="523"/>
         <source>Medium orientation marker size</source>
-        <translation type="unfinished">Medium orientation marker size</translation>
+        <translation>中型オリエンテーションマーカーサイズ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="531"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Large</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="534"/>
         <source>Large orientation marker size</source>
-        <translation type="unfinished">Large orientation marker size</translation>
+        <translation>大きなオリエンテーションマーカーサイズ</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="542"/>
         <source>No ruler</source>
-        <translation type="unfinished">No ruler</translation>
+        <translation>ルーラーなし</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="545"/>
         <source>Hide ruler</source>
-        <translation type="unfinished">Hide ruler</translation>
+        <translation>ルーラーを隠す</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="553"/>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>細い</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="556"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished">Show thin ruler</translation>
+        <translation>細いルーラーを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="564"/>
         <source>Thick</source>
-        <translation type="unfinished">Thick</translation>
+        <translation>太い</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="567"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished">Show thick ruler</translation>
+        <translation>太いルーラーを表示</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="575"/>
         <source>White ruler</source>
-        <translation type="unfinished">White ruler</translation>
+        <translation>白色ルーラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="583"/>
         <source>Black ruler</source>
-        <translation type="unfinished">Black ruler</translation>
+        <translation>黒色ルーラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="591"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished">Yellow ruler</translation>
+        <translation>黄色ルーラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="135"/>
         <source>Stereo Modes</source>
-        <translation type="unfinished">Stereo Modes</translation>
+        <translation>ステレオモード</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="145"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>可視性</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="219"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>ルーラー</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="227"/>
         <source>More</source>
-        <translation type="unfinished">More</translation>
+        <translation>もっと</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="280"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
@@ -5345,27 +5345,27 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>レイアウト名:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished">Name of the slice</translation>
+        <translation>スライスの名前</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="43"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>ビューグループ:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="50"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+        <translation>ナビゲーションとリンクされたプロパティは、同じグループインデックスを持つビューで同期されます。</translation>
     </message>
 </context>
 <context>
@@ -5373,210 +5373,210 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="23"/>
         <source>qMRMLTransformDisplayNodeWidget</source>
-        <translation type="unfinished">qMRMLTransformDisplayNodeWidget</translation>
+        <translation>qMRMLTransformDisplayNodeWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
         <source>Whether the transform widget can be translated.</source>
-        <translation type="unfinished">Whether the transform widget can be translated.</translation>
+        <translation>変換ウィジェットを変換できるかどうか。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="48"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>インタラクション</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="74"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
-        <translation type="unfinished">Show/Hide the transform widget in the 3D view.</translation>
+        <translation>3Dビューで変換ウィジェットを表示/非表示にします。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="87"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;変換ウィジェットの境界を更新します。&lt;/p&gt;&lt;p&gt;変換は、その下にあるすべてのノードの境界ボックス (存在する場合) と一致するように境界を更新します。&lt;/p&gt;&lt;p&gt;それ以外の場合、ウィジェットはデフォルトのインタラクションサイズにサイズ変更されます。&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="90"/>
         <source>Update bounds</source>
-        <translation type="unfinished">Update bounds</translation>
+        <translation>境界の更新</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="97"/>
         <source>More options...</source>
-        <translation type="unfinished">More options...</translation>
+        <translation>その他のオプション...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="109"/>
         <source>Visible in 3D view: </source>
-        <translation type="unfinished">Visible in 3D view: </translation>
+        <translation>3Dビューで表示： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="149"/>
         <source>Enable translation: </source>
-        <translation type="unfinished">Enable translation: </translation>
+        <translation>平行移動を有効にする。 </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="159"/>
         <source>Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished">Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</translation>
+        <translation>3Dウィジェットを操作してスケーリングできるようにする（shift + 左クリックでウィジェット面の中心でハンドルをドラッグ、または左クリックで中心でハンドルをドラッグ）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="172"/>
         <source>Enable rotation: </source>
-        <translation type="unfinished">Enable rotation: </translation>
+        <translation>回転を有効にする: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="182"/>
         <source>Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished">Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</translation>
+        <translation>3Dウィジェットの操作で翻訳が可能（ウィジェット面の任意の場所で左クリック＆ドラッグ）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="195"/>
         <source>Enable scaling: </source>
-        <translation type="unfinished">Enable scaling: </translation>
+        <translation>スケーリングの有効: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="205"/>
         <source>Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished">Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</translation>
+        <translation>3Dウィジェットの操作で拡大縮小が可能（ウィジェット面の中心でハンドルを左クリック＆ドラッグ）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="224"/>
         <source>Visualization</source>
-        <translation type="unfinished">Visualization</translation>
+        <translation>可視化</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="230"/>
         <source>Visible:</source>
-        <translation type="unfinished">Visible:</translation>
+        <translation>可視化:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="237"/>
         <source>Show transform in the slice views</source>
-        <translation type="unfinished">Show transform in the slice views</translation>
+        <translation>スライスビューで変換を表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="250"/>
         <source>Visible in slice view:</source>
-        <translation type="unfinished">Visible in slice view:</translation>
+        <translation>スライスビューで表示:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="257"/>
         <source>Visible in 3D view:</source>
-        <translation type="unfinished">Visible in 3D view:</translation>
+        <translation>3Dビューで表示:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="290"/>
         <source>Visualize transform using glyphs</source>
-        <translation type="unfinished">Visualize transform using glyphs</translation>
+        <translation>グリフを使用した変換の視覚化</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="305"/>
         <source>Glyph</source>
-        <translation type="unfinished">Glyph</translation>
+        <translation>グリフ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
         <source>Visualize transform using a warped grid</source>
-        <translation type="unfinished">Visualize transform using a warped grid</translation>
+        <translation>ワープグリッドを使用して変換を視覚化する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="355"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>グリッド</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="393"/>
         <source>Visualize transform by isoline/isosurface contours of the displacement magnitude</source>
-        <translation type="unfinished">Visualize transform by isoline/isosurface contours of the displacement magnitude</translation>
+        <translation>変位の大きさの等高線/等値面による変換の可視化</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="396"/>
         <source>Contour</source>
-        <translation type="unfinished">Contour</translation>
+        <translation>輪郭</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="429"/>
         <source>Show transform in the 3D views</source>
-        <translation type="unfinished">Show transform in the 3D views</translation>
+        <translation>3D ビューでの変換の表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="442"/>
         <source>Reference image for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished">Reference image for visualizing transform nodes (will only use size, orientation and position)</translation>
+        <translation>変換ノードを視覚化するための参照画像(サイズ、方向、位置のみを使用)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="445"/>
         <source>Region:</source>
-        <translation type="unfinished">Region:</translation>
+        <translation>領域：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="461"/>
         <source>Region for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished">Region for visualizing transform nodes (will only use size, orientation and position)</translation>
+        <translation>トランスフォームノードを可視化するための領域（サイズ、方向、位置のみを使用します。）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>vtkMRMLSliceNode</source>
-        <translation type="unfinished">vtkMRMLSliceNode</translation>
+        <translation>vtkMRMLSliceNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished">vtkMRMLModelNode</translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished">vtkMRMLVolumeNode</translation>
+        <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="489"/>
         <source>Select a node</source>
-        <translation type="unfinished">Select a node</translation>
+        <translation>ノードの選択</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="498"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>色</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="529"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>詳細</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="544"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="580"/>
         <source>Distance between the glyph points</source>
-        <translation type="unfinished">Distance between the glyph points</translation>
+        <translation>グリフポイント間の距離</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="547"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="924"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>間隔:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="554"/>
         <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished">Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</translation>
+        <translation>グリフサイズを設定する際に使用する変位量の割合。100%はグリフサイズが実際の変位量と等しいことを意味する。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="557"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="971"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>スケールファクター:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="564"/>
         <source>Glyphs are shown if the displacement magnitude is within this range</source>
-        <translation type="unfinished">Glyphs are shown if the displacement magnitude is within this range</translation>
+        <translation>変位の大きさがこの範囲内であれば、グリフが表示される</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="567"/>
         <source>Visible range:</source>
-        <translation type="unfinished">Visible range:</translation>
+        <translation>表示範囲:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="601"/>
@@ -5586,43 +5586,43 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1081"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1189"/>
         <source>length</source>
-        <translation type="unfinished">length</translation>
+        <translation>長さ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="611"/>
         <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-        <translation type="unfinished">Only those glyphs are shown that have displacement magnitude within this range</translation>
+        <translation>変位の大きさがこの範囲にあるグリフのみ表示されます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="636"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="652"/>
         <source>Choose a glyph type to use</source>
-        <translation type="unfinished">Choose a glyph type to use</translation>
+        <translation>使用するグリフタイプを選択する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="639"/>
         <source>Glyph type:</source>
-        <translation type="unfinished">Glyph type:</translation>
+        <translation>グリフのタイプ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="659"/>
         <source>Arrow</source>
-        <translation type="unfinished">Arrow</translation>
+        <translation>矢印</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="664"/>
         <source>Cone</source>
-        <translation type="unfinished">Cone</translation>
+        <translation>円錐</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="669"/>
         <source>Sphere</source>
-        <translation type="unfinished">Sphere</translation>
+        <translation>球</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="683"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
-        <translation type="unfinished">Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</translation>
+        <translation>グリフサイズを設定する際に使用する変位の割合。100%はグリフサイズが実際の変位と同じであることを意味する。カラーリングと可視範囲には影響しない。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="701"/>
@@ -5631,79 +5631,79 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1002"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1221"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="714"/>
         <source>3D glyph settings</source>
-        <translation type="unfinished">3D glyph settings</translation>
+        <translation>3D グリフ設定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="735"/>
         <source>Adjust radius of base of arrow tip</source>
-        <translation type="unfinished">Adjust radius of base of arrow tip</translation>
+        <translation>矢印の先端の基部の半径を調整する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="738"/>
         <source>Diameter:</source>
-        <translation type="unfinished">Diameter:</translation>
+        <translation>直径:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="745"/>
         <source>Base diameter of the widget</source>
-        <translation type="unfinished">Base diameter of the widget</translation>
+        <translation>ウィジェットのベース径</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="773"/>
         <source>Adjust radius of arrow shaft</source>
-        <translation type="unfinished">Adjust radius of arrow shaft</translation>
+        <translation>矢印軸の半径を調整する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="776"/>
         <source>Shaft diameter:</source>
-        <translation type="unfinished">Shaft diameter:</translation>
+        <translation>矢印軸直径:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="783"/>
         <source>Diameter of the arrow shaft relative to the base diameter</source>
-        <translation type="unfinished">Diameter of the arrow shaft relative to the base diameter</translation>
+        <translation>ベース直径に対する矢印軸の直径</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="805"/>
         <source>Adjust how much of the tip the arrow will consist of as a decimal percentage</source>
-        <translation type="unfinished">Adjust how much of the tip the arrow will consist of as a decimal percentage</translation>
+        <translation>矢の先端がどの程度の割合で構成されるかを小数で調整する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="808"/>
         <source>Tip length:</source>
-        <translation type="unfinished">Tip length:</translation>
+        <translation>先端の長さ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="815"/>
         <source>Length of the arrow tip  as percentage of displacement</source>
-        <translation type="unfinished">Length of the arrow tip  as percentage of displacement</translation>
+        <translation>変位量に対する矢先の長さの割合</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="840"/>
         <source>Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</source>
-        <translation type="unfinished">Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</translation>
+        <translation>グリフの解像度を調整する（値が高いほど滑らかな曲線が生成されるが、視覚化が遅くなる可能性がある）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="843"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1053"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1155"/>
         <source>Resolution:</source>
-        <translation type="unfinished">Resolution:</translation>
+        <translation>解像度：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="850"/>
         <source>Adjust resolution of arrow (lower is less detailed but rendered faster)</source>
-        <translation type="unfinished">Adjust resolution of arrow (lower is less detailed but rendered faster)</translation>
+        <translation>矢印の解像度を調整（低いと精細度が落ちるが、レンダリング速度が速い）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="878"/>
         <source>Source points:</source>
-        <translation type="unfinished">Source points:</translation>
+        <translation>ソースポイント:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="885"/>
