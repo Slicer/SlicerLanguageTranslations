@@ -6838,7 +6838,7 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Provides a description of the Slicer effort and its support.</source>
-        <translation type="unfinished">Provides a description of the Slicer effort and its support.</translation>
+        <translation>Slicerの取り組みとそのサポートについて解説しています。</translation>
     </message>
 </context>
 <context>
@@ -6846,58 +6846,58 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="275"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="278"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>モジュール</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="282"/>
         <source>Appearance</source>
-        <translation type="unfinished">Appearance</translation>
+        <translation>外観</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="286"/>
         <source>Views</source>
-        <translation type="unfinished">Views</translation>
+        <translation>ビュー</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="290"/>
         <source>User</source>
-        <translation type="unfinished">User</translation>
+        <translation>ユーザー</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="294"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>拡張機能</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="298"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>キャッシュ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="303"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>国際化</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="309"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="314"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>デベロッパー</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="417"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="453"/>
         <source>%1 has caught an application error, </source>
-        <translation type="unfinished">%1 has caught an application error, </translation>
+        <translation>%1 はアプリケーション エラーを検出しました。 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="418"/>
@@ -6905,54 +6905,54 @@ p, li { white-space: pre-wrap; }.
         <source>please save your work and restart.
 
 </source>
-        <translation type="unfinished">please save your work and restart.
+        <translation>作業内容を保存して再起動してください。
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="419"/>
         <source>The application has run out of memory. </source>
-        <translation type="unfinished">The application has run out of memory. </translation>
+        <translation>アプリケーションがメモリ不足になりました。 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
         <source>winnt</source>
-        <translation type="unfinished">winnt</translation>
+        <translation>winnt</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="422"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing virtual memory size in system settings or adding more RAM may fix this issue.
+        <translation>システム設定で仮想メモリのサイズを大きくするか、RAMを増設すると、この問題を解決できる場合があります。
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="424"/>
         <source>linux</source>
-        <translation type="unfinished">linux</translation>
+        <translation>Linux</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="426"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing swap size in system settings or adding more RAM may fix this issue.
+        <translation>システム設定でスワップサイズを大きくするか、RAMを増設すると、この問題を解決できる場合があります。
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="428"/>
         <source>darwin</source>
-        <translation type="unfinished">darwin</translation>
+        <translation>darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="430"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing free disk space or adding more RAM may fix this issue.
+        <translation>ディスクの空き容量を増やすか、RAMを増設すると、この問題を解決できるかもしれません。
 
 </translation>
     </message>
@@ -6961,7 +6961,7 @@ p, li { white-space: pre-wrap; }.
         <source>Adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Adding more RAM may fix this issue.
+        <translation>RAMを増設することで、この問題を解決できる可能性があります。
 
 </translation>
     </message>
@@ -6969,7 +6969,7 @@ p, li { white-space: pre-wrap; }.
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="436"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="455"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
-        <translation type="unfinished">If you have a repeatable sequence of steps that causes this message, </translation>
+        <translation>このメッセージの原因となる繰り返し可能な手順がある場合は、 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="437"/>
@@ -6978,7 +6978,7 @@ p, li { white-space: pre-wrap; }.
 
 
 </source>
-        <translation type="unfinished">please report the issue following instructions available at http://slicer.org
+        <translation>http://slicer.org にある手順に従って、問題を報告してください。
 
 
 </translation>
@@ -6989,7 +6989,7 @@ p, li { white-space: pre-wrap; }.
         <source>The message detail is:
 
 </source>
-        <translation type="unfinished">The message detail is:
+        <translation>メッセージの詳細は
 
 </translation>
     </message>
@@ -6997,23 +6997,23 @@ p, li { white-space: pre-wrap; }.
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="439"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="458"/>
         <source>Exception thrown in event: </source>
-        <translation type="unfinished">Exception thrown in event: </translation>
+        <translation>イベントでスローされた例外: </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="447"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="466"/>
         <source>Application Error</source>
-        <translation type="unfinished">Application Error</translation>
+        <translation>アプリケーションエラー</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="623"/>
         <source>Are you sure you want to restart?</source>
-        <translation type="unfinished">Are you sure you want to restart?</translation>
+        <translation>本当に再起動しますか？</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="765"/>
         <source>Extensions manager is starting, please wait...</source>
-        <translation type="unfinished">Extensions manager is starting, please wait...</translation>
+        <translation>拡張機能マネージャが起動しています。しばらくお待ちください...</translation>
     </message>
 </context>
 <context>
@@ -7021,7 +7021,7 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="254"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
-        <translation type="unfinished">Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</translation>
+        <translation>このコンピュータのグラフィック性能は、このアプリケーションを実行するのに十分ではありません。このアプリケーションは正しく動作しない可能性が高いです。</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="257"/>
@@ -7031,17 +7031,17 @@ p, li { white-space: pre-wrap; }.
 Graphics capabilities of this computer:
 
 </source>
-        <translation type="unfinished">See more information and help at:
+        <translation>詳細な情報とヘルプは以下を参照してください。
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
-Graphics capabilities of this computer:
+このコンピュータのグラフィック機能:
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="266"/>
         <source>Insufficient graphics capability</source>
-        <translation type="unfinished">Insufficient graphics capability</translation>
+        <translation>グラフィックス機能不足</translation>
     </message>
 </context>
 <context>
@@ -7049,73 +7049,73 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>モジュール</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
         <source>Module Title</source>
-        <translation type="unfinished">Module Title</translation>
+        <translation>モジュール名</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="58"/>
         <source>vtkMRMLCommandLineModuleNode</source>
-        <translation type="unfinished">vtkMRMLCommandLineModuleNode</translation>
+        <translation>vtkMRMLCommandLineModuleNode</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parameter set:</translation>
+        <translation>パラメータセット:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="104"/>
         <source>Reset parameters to default.</source>
-        <translation type="unfinished">Reset parameters to default.</translation>
+        <translation>パラメータをデフォルトにリセットします。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="107"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">Restore Defaults</translation>
+        <translation>初期設定に戻す</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="95"/>
         <source>AutoRun</source>
-        <translation type="unfinished">AutoRun</translation>
+        <translation>自動実行</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
         <source>Cancel the execution of the module</source>
-        <translation type="unfinished">Cancel the execution of the module</translation>
+        <translation>モジュールの実行をキャンセルします</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
         <source>Execute the module</source>
-        <translation type="unfinished">Execute the module</translation>
+        <translation>モジュールの実行</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>適用</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
         <source>AutoRun on changed parameter</source>
-        <translation type="unfinished">AutoRun on changed parameter</translation>
+        <translation>変更されたパラメータで自動実行</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="100"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</translation>
+        <translation>[自動実行] ボタンが押されている限り、モジュールはパラメーター値が変更されるたびに実行されます。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="107"/>
         <source>AutoRun on modified input</source>
-        <translation type="unfinished">AutoRun on modified input</translation>
+        <translation>変更された入力で自動実行</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
