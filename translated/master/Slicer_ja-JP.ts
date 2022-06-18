@@ -7120,27 +7120,27 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node is modified.</translation>
+        <translation>AutoRunボタンが押されている限り、入力ノードが変更されるたびにモジュールが実行されます。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="116"/>
         <source>AutoRun on other input events</source>
-        <translation type="unfinished">AutoRun on other input events</translation>
+        <translation>他の入力イベントでの自動実行</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="118"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</translation>
+        <translation>AutoRunボタンが押されている限り、入力ノードが変更されたイベント以外のイベントを発生させるたびにモジュールが実行されます。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="125"/>
         <source>AutoRun cancels running process</source>
-        <translation type="unfinished">AutoRun cancels running process</translation>
+        <translation>AutoRunは実行中のプロセスをキャンセルします</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="127"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
-        <translation type="unfinished">When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</translation>
+        <translation>チェックした場合、適用時に、既存の実行中のインスタンスがあればキャンセル/停止し、そうでなければ新しい実行を開始するために完了を待ちます。</translation>
     </message>
 </context>
 <context>
