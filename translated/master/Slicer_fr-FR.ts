@@ -4045,7 +4045,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
         <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-        <translation type="unfinished">Link slice views. Synchronizes properties of all slice views in the same view group.</translation>
+        <translation>Lier les visionneuses. Synchronise les propriétés d&apos;affichage de toutes les visionneuses.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
