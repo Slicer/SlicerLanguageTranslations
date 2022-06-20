@@ -538,17 +538,17 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation>Lancer une requête et récupérer des jeux de données DICOM depuis un serveur distant</translation>
+        <translation>Rechercher et récupérer des jeux de données DICOM depuis un serveur distant</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation>Lancer une requête</translation>
+        <translation>Rechercher et récupérer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
         <source>Storage listener:</source>
-        <translation>Auditeur de stockage :</translation>
+        <translation>Écouteur de stockage :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
@@ -558,7 +558,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation>Lancer l&apos;auditeur de stockage au démarrage :</translation>
+        <translation>Lancer l&apos;écouteur de stockage au démarrage :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
