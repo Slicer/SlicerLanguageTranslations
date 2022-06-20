@@ -7758,96 +7758,96 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
         <source>Diffusion Tensor Volume Slice Display</source>
-        <translation type="unfinished">Diffusion Tensor Volume Slice Display</translation>
+        <translation>拡散テンソルボリュームスライス表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>可視性:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>不透明度:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
-        <translation type="unfinished">Scalar ColorMap:</translation>
+        <translation>スカラーカラーマップ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="79"/>
         <source>vtkMRMLDiffusionTensorDisplayPropertiesNode</source>
-        <translation type="unfinished">vtkMRMLDiffusionTensorDisplayPropertiesNode</translation>
+        <translation>vtkMRMLDiffusionTensorDisplayPropertiesNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation type="unfinished">Color by Scalar:</translation>
+        <translation>スカラーによる色:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished">Scalar Range:</translation>
+        <translation>Scalar の範囲:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
         <source>Glyph Type:</source>
-        <translation type="unfinished">Glyph Type:</translation>
+        <translation>グリフのタイプ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>線</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
         <source>Tubes</source>
-        <translation type="unfinished">Tubes</translation>
+        <translation>チューブ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
         <source>Ellipsoids</source>
-        <translation type="unfinished">Ellipsoids</translation>
+        <translation>楕円体</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
         <source>Scale Factor:</source>
-        <translation type="unfinished">Scale Factor:</translation>
+        <translation>スケールファクター:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>間隔:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
         <source>Glyph EigenVector:</source>
-        <translation type="unfinished">Glyph EigenVector:</translation>
+        <translation>グリフ固有ベクトル:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
         <source>Major</source>
-        <translation type="unfinished">Major</translation>
+        <translation>大目盛り</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation type="unfinished">Middle</translation>
+        <translation>中目盛り</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
         <source>Minor</source>
-        <translation type="unfinished">Minor</translation>
+        <translation>小目盛り</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
         <source>Manual or Auto scalar range</source>
-        <translation type="unfinished">Manual or Auto scalar range</translation>
+        <translation>手動または自動スカラー範囲</translation>
     </message>
 </context>
 <context>
@@ -7855,42 +7855,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
         <source>Add data into the scene</source>
-        <translation type="unfinished">Add data into the scene</translation>
+        <translation>シーンにデータを追加</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
         <source>Choose Directory to Add</source>
-        <translation type="unfinished">Choose Directory to Add</translation>
+        <translation>追加するディレクトリを選択</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="27"/>
         <source>Choose File(s) to Add</source>
-        <translation type="unfinished">Choose File(s) to Add</translation>
+        <translation>追加するファイルを選択する</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="90"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="95"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>説明</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="100"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="118"/>
         <source>Show Options</source>
-        <translation type="unfinished">Show Options</translation>
+        <translation>オプションの表示</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="524"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>すべてのデータ</translation>
     </message>
 </context>
 <context>
@@ -7898,12 +7898,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="446"/>
         <source>Open archive?</source>
-        <translation type="unfinished">Open archive?</translation>
+        <translation>アーカイブを開きますか?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="447"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
-        <translation type="unfinished">The selected file is a .zip archive, open it and load contents?</translation>
+        <translation>選択されたファイルは.zipアーカイブであり、それを開いてコンテンツをロードしますか？</translation>
     </message>
 </context>
 <context>
@@ -7911,80 +7911,80 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>データ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation>フィルター:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation type="unfinished">A case sensitive string to filter nodes, uses all the columns (even if hidden)</translation>
+        <translation>ノードをフィルタリングするための大文字小文字を区別する文字列で、すべてのカラムを使用します（たとえ非表示であっても）。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
         <source>Subject hierarchy</source>
-        <translation type="unfinished">Subject hierarchy</translation>
+        <translation>サブジェクト階層</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
         <source>Show transforms</source>
-        <translation type="unfinished">Show transforms</translation>
+        <translation>トランスフォームを表示する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation type="unfinished">Show MRML ID&apos;s</translation>
+        <translation>MRML IDを表示する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
         <source>Subject hierarchy item information</source>
-        <translation type="unfinished">Subject hierarchy item information</translation>
+        <translation>サブジェクト階層アイテム情報</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
         <source>No item selected</source>
-        <translation type="unfinished">No item selected</translation>
+        <translation>アイテムが選択されていません</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
         <source>Transform hierarchy</source>
-        <translation type="unfinished">Transform hierarchy</translation>
+        <translation>トランスフォーム階層</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
-        <translation type="unfinished">Show hidden nodes</translation>
+        <translation>隠しノードの表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="273"/>
         <source>vtkMRMLTransformableNode</source>
-        <translation type="unfinished">vtkMRMLTransformableNode</translation>
+        <translation>vtkMRMLTransformableNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
         <source>All nodes</source>
-        <translation type="unfinished">All nodes</translation>
+        <translation>全ノード</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
         <source>MRML node information</source>
-        <translation type="unfinished">MRML node information</translation>
+        <translation>MRMLノード情報</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
         <source>Insert transform</source>
-        <translation type="unfinished">Insert transform</translation>
+        <translation>トランスフォームを挿入</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation>硬いトランスフォーム</translation>
     </message>
 </context>
 <context>
@@ -7992,42 +7992,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="14"/>
         <source>Tensor Display Properties</source>
-        <translation type="unfinished">Tensor Display Properties</translation>
+        <translation>テンソル表示プロパティ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>スカラー表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
         <source>Scalar Mode:</source>
-        <translation type="unfinished">Scalar Mode:</translation>
+        <translation>スカラーモード:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation type="unfinished">Glyphs on Slices Display</translation>
+        <translation>スライス表示上のグリフ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
         <source>Slice Visibility:</source>
-        <translation type="unfinished">Slice Visibility:</translation>
+        <translation>スライスの可視性:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
         <source>Red</source>
-        <translation type="unfinished">Red</translation>
+        <translation>赤色</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
         <source>Yellow</source>
-        <translation type="unfinished">Yellow</translation>
+        <translation>黄色</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
         <source>Green</source>
-        <translation type="unfinished">Green</translation>
+        <translation>緑色</translation>
     </message>
 </context>
 <context>
@@ -8035,17 +8035,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
         <source>DWI Display Properties</source>
-        <translation type="unfinished">DWI Display Properties</translation>
+        <translation>DWI 表示プロパティ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>スカラー表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
         <source>DWI Component:</source>
-        <translation type="unfinished">DWI Component:</translation>
+        <translation>DWI コンポーネント:</translation>
     </message>
 </context>
 <context>
@@ -8053,37 +8053,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
         <source>Report bugs and request enhancements</source>
-        <translation type="unfinished">Report bugs and request enhancements</translation>
+        <translation>バグの報告と機能強化の要求</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;span style=&quot;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicerフォーラムに新しいトピックを投稿してください&lt;/span&gt;&lt;/a&gt; あなたの問題について教えてくださいまたはバグレポートを &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;3D Slicer バグトラッカー&lt;/span&gt;&lt;/a&gt; までお願いします。エラーに至った手順を記述し、ログメッセージも添付してください。 &lt;p&gt;&lt;/p&gt;&lt;span style=&quot;&quot;&gt;注意ー患者データを使用している場合:&lt;/span&gt; ログメッセージに患者を特定できるような情報が含まれていないことを確認してください。ログメッセージは、メーリングリストやウェブサイトで公開するのではなく、特定の人に送信してください。</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
         <source>Recent log files:</source>
-        <translation type="unfinished">Recent log files:</translation>
+        <translation>最近のログファイル:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
         <source>Copy log messages to clipboard</source>
-        <translation type="unfinished">Copy log messages to clipboard</translation>
+        <translation>ログメッセージをクリップボードにコピーする</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
         <source>Open log file in editor</source>
-        <translation type="unfinished">Open log file in editor</translation>
+        <translation>ログファイルをエディターで開く</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
         <source>Edit Log</source>
-        <translation type="unfinished">Edit Log</translation>
+        <translation>ログの編集</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="112"/>
         <source>Log file content:</source>
-        <translation type="unfinished">Log file content:</translation>
+        <translation>ログファイルの内容:</translation>
     </message>
 </context>
 <context>
@@ -8091,22 +8091,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="20"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>イベントブローカー</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
         <source>Reset Times</source>
-        <translation type="unfinished">Reset Times</translation>
+        <translation>リセット時間</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
         <source>Show observations with Elapsed Times &gt; 0</source>
-        <translation type="unfinished">Show observations with Elapsed Times &gt; 0</translation>
+        <translation>経過時間が0より大きい観測値を表示する</translation>
     </message>
 </context>
 <context>
@@ -8114,37 +8114,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="17"/>
         <source>Export node</source>
-        <translation type="unfinished">Export node</translation>
+        <translation>エクスポートノード</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="42"/>
         <source>Filename</source>
-        <translation type="unfinished">Filename</translation>
+        <translation>ファイル名</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="56"/>
         <source>Directory</source>
-        <translation type="unfinished">Directory</translation>
+        <translation>ディレクトリ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="66"/>
         <source>Export format</source>
-        <translation type="unfinished">Export format</translation>
+        <translation>エクスポート形式</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="76"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="101"/>
         <source>Apply transforms</source>
-        <translation type="unfinished">Apply transforms</translation>
+        <translation>トランスフォームを適用する</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="591"/>
         <source>Export an individual node</source>
-        <translation type="unfinished">Export an individual node</translation>
+        <translation>個々のノードをエクスポートする</translation>
     </message>
 </context>
 <context>
@@ -8152,13 +8152,13 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="274"/>
         <source>Filename not standard</source>
-        <translation type="unfinished">Filename not standard</translation>
+        <translation>ファイル名が標準ではありません</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="275"/>
         <source>The following filename is recommended:
 </source>
-        <translation type="unfinished">The following filename is recommended:
+        <translation>以下のファイル名を推奨します:
 </translation>
     </message>
     <message>
@@ -8166,37 +8166,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="353"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="364"/>
         <source>Export error</source>
-        <translation type="unfinished">Export error</translation>
+        <translation>エクスポートエラー</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="302"/>
         <source>Failed to export node %1; filename is empty.</source>
-        <translation type="unfinished">Failed to export node %1; filename is empty.</translation>
+        <translation>ノード %1 のエクスポートに失敗しました; ファイル名が空です。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="310"/>
         <source>Exporting node...</source>
-        <translation type="unfinished">Exporting node...</translation>
+        <translation>ノードをエクスポートしています...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="311"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation type="unfinished">The file %1 already exists. Do you want to replace it?</translation>
+        <translation>ファイル %1 はすでに存在します。置き換えますか？</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="348"/>
         <source>Cannot write data file: %1.</source>
-        <translation type="unfinished">Cannot write data file: %1.</translation>
+        <translation>データファイルを書き込めません：%1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="371"/>
         <source>Export warning</source>
-        <translation type="unfinished">Export warning</translation>
+        <translation>エクスポートの警告</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="375"/>
         <source>Export information</source>
-        <translation type="unfinished">Export information</translation>
+        <translation>エクスポート情報</translation>
     </message>
 </context>
 <context>
@@ -8204,67 +8204,67 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Tell the application to update this extension on restart.</source>
-        <translation type="unfinished">Tell the application to update this extension on restart.</translation>
+        <translation>再起動時にこの拡張機能を更新するようにアプリケーションに指示します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="70"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>アップデート</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="77"/>
         <source>Tell the application to keep the currently installed version of this extension.</source>
-        <translation type="unfinished">Tell the application to keep the currently installed version of this extension.</translation>
+        <translation>現在インストールされている拡張機能のバージョンを保持するようにアプリケーションに指示します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="80"/>
         <source>Cancel Update</source>
-        <translation type="unfinished">Cancel Update</translation>
+        <translation>アップデートをキャンセル</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
         <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-        <translation type="unfinished">Tell the application to load this extension by adding all associated module paths to the application settings.</translation>
+        <translation>アプリケーションの設定に関連するモジュールのパスをすべて追加して、この拡張機能を読み込むようにアプリケーションに指示します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="108"/>
         <source>Enable</source>
-        <translation type="unfinished">Enable</translation>
+        <translation>有効</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="115"/>
         <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-        <translation type="unfinished">Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</translation>
+        <translation>アプリケーションの設定から関連するモジュールパスをすべて削除し、この拡張モジュールの読み込みをスキップするように指示します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="118"/>
         <source>Disable</source>
-        <translation type="unfinished">Disable</translation>
+        <translation>無効化</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="142"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
-        <translation type="unfinished">Tell the application to uninstall this extension when it will restart.</translation>
+        <translation>アプリケーションの再起動時に、この拡張機能をアンインストールするように指示します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="145"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>アンインストール</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="152"/>
         <source>Tell the application to keep this extension installed.</source>
-        <translation type="unfinished">Tell the application to keep this extension installed.</translation>
+        <translation>アプリケーションに、この拡張機能をインストールしたままにするよう指示します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="155"/>
         <source>Cancel Uninstall</source>
-        <translation type="unfinished">Cancel Uninstall</translation>
+        <translation>アンインストールをキャンセルする</translation>
     </message>
 </context>
 <context>
@@ -8272,12 +8272,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>拡張機能マネージャー</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
         <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</translation>
+        <translation>&lt;font color=&quot;red&quot;&gt;* 要 再起動&lt;/font&gt;</translation>
     </message>
 </context>
 <context>
@@ -8285,57 +8285,57 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="529"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation type="unfinished">Failed to open extensions settings file %1</translation>
+        <translation>拡張機能設定ファイル %1 を開くことができませんでした。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="567"/>
         <source>Failed to open extensions settings file: %1</source>
-        <translation type="unfinished">Failed to open extensions settings file: %1</translation>
+        <translation>拡張機能設定ファイルを開くことができませんでした: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="605"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>拡張機能のインストールディレクトリが存在しません：&lt;strong&gt;％1 &lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="622"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>拡張機能のインストール ディレクトリは、読み取り可能/書き込み可能/実行可能である必要があります: &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="834"/>
         <source>slicerRevision is not specified</source>
-        <translation type="unfinished">slicerRevision is not specified</translation>
+        <translation>slicerRevision が指定されていない</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="838"/>
         <source>slicerOs is not specified</source>
-        <translation type="unfinished">slicerOs is not specified</translation>
+        <translation>slicerOs が指定されていない</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="842"/>
         <source>slicerArch is not specified</source>
-        <translation type="unfinished">slicerArch is not specified</translation>
+        <translation>slicerArch が指定されていない</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="848"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
-        <translation type="unfinished">extensionSlicerRevision [%1] is different from slicerRevision [%2]</translation>
+        <translation>extensionSlicerRevision [％1]がslicerRevision [％2]と異なります</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="853"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
-        <translation type="unfinished">extensionArch [%1] is different from slicerArch [%2]</translation>
+        <translation>extensionArch [%1]がslicerArch [%2] と異なります。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="858"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
-        <translation type="unfinished">extensionOs [%1] is different from slicerOs [%2]</translation>
+        <translation>extensionOs [%1] が slicerOs [%2] と異なります。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2714"/>
         <source>extensionName is not specified</source>
-        <translation type="unfinished">extensionName is not specified</translation>
+        <translation>extensionName が指定されていない</translation>
     </message>
 </context>
 <context>
@@ -8343,28 +8343,28 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="14"/>
         <source>Slicer Extensions Manager</source>
-        <translation type="unfinished">Slicer Extensions Manager</translation>
+        <translation>スライサー拡張機能マネージャー</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished">Install Extensions</translation>
+        <translation>拡張機能をインストールする</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="70"/>
         <source>Restore Extensions</source>
-        <translation type="unfinished">Restore Extensions</translation>
+        <translation>拡張機能の復元</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="586"/>
         <source>restore %1 extension(s)</source>
-        <translation type="unfinished">restore %1 extension(s)</translation>
+        <translation>％1拡張機能を復元します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="598"/>
         <source>Install/uninstall operations are still in progress:
 - </source>
-        <translation type="unfinished">Install/uninstall operations are still in progress:
+        <translation>インストール/アンインストール操作はまだ進行中です。
 - </translation>
     </message>
     <message>
@@ -8372,9 +8372,9 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <source>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
-        <translation type="unfinished">
+        <translation>
 
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+[OK]をクリックして完了を待つか、[無視]を選択して今すぐ機能拡張マネージャーを閉じます。</translation>
     </message>
 </context>
 <context>
@@ -8382,62 +8382,62 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="203"/>
         <source>Select All</source>
-        <translation type="unfinished">Select All</translation>
+        <translation>全て選択</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="209"/>
         <source>Deselect All</source>
-        <translation type="unfinished">Deselect All</translation>
+        <translation>すべて選択解除</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="215"/>
         <source>&amp;Install Selected...</source>
-        <translation type="unfinished">&amp;Install Selected...</translation>
+        <translation>&amp;amp;選択をインストール...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="222"/>
         <source>Check previous extensions on startup</source>
-        <translation type="unfinished">Check previous extensions on startup</translation>
+        <translation>スタートアップで以前の拡張機能をチェック</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="223"/>
         <source>Install previous extensions without request</source>
-        <translation type="unfinished">Install previous extensions without request</translation>
+        <translation>以前の拡張機能を要求なしでインストールする</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="295"/>
         <source>%1 compatible extension(s) from a previous Slicer installation found. Do you want to install? (For details see: Extensions Manager &gt; Restore Extensions)</source>
-        <translation type="unfinished">%1 compatible extension(s) from a previous Slicer installation found. Do you want to install? (For details see: Extensions Manager &gt; Restore Extensions)</translation>
+        <translation>以前のスライサー インストールの %1 互換拡張機能が見つかりました。インストールしますか?(詳細については、「拡張機能マネージャー」&amp;gt;「拡張機能の復元」を参照してください)。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="358"/>
         <source>currently installed</source>
-        <translation type="unfinished">currently installed</translation>
+        <translation>導入済み</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="364"/>
         <source>was used in previously installed Slicer version (%1)</source>
-        <translation type="unfinished">was used in previously installed Slicer version (%1)</translation>
+        <translation>は、以前インストールされた Slicer のバージョン (%1) で使用されました。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="368"/>
         <source>was last used in Slicer version %1</source>
-        <translation type="unfinished">was last used in Slicer version %1</translation>
+        <translation>はスライサーのバージョン %1 で最後に使用されました。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="373"/>
         <source>not found for current Slicer version (was last used in Slicer version %1)</source>
-        <translation type="unfinished">not found for current Slicer version (was last used in Slicer version %1)</translation>
+        <translation>現在の Slicer のバージョンで見つかりません (最後に使用されたのは Slicer のバージョン %1 です)。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="451"/>
         <source>All extensions restored. Please restart Slicer.</source>
-        <translation type="unfinished">All extensions restored. Please restart Slicer.</translation>
+        <translation>すべての拡張機能が復元されました。スライサーを再起動してください。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="467"/>
         <source>Installing %1 (%2/%3)</source>
-        <translation type="unfinished">Installing %1 (%2/%3)</translation>
+        <translation>%1 (2/%3) のインストール</translation>
     </message>
 </context>
 <context>
@@ -8445,7 +8445,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
