@@ -7469,95 +7469,95 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="333"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-        <translation type="unfinished">Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</translation>
+        <translation>入力ボリュームを補間してパディングし、要求された間隔で出力画像をROIのサイズと正確に一致させます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="349"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="359"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation type="unfinished">The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</translation>
+        <translation>出力ボリュームのボクセル間隔は、この値によってスケーリングされます。1.0 より大きい値を指定すると、トリミングされたボリュームの解像度は入力ボリュームよりも低くなります。1.0 より小さい値を指定すると、トリミングされたボリュームの解像度が入力ボリュームよりも高くなります。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="352"/>
         <source>Spacing scale:</source>
-        <translation type="unfinished">Spacing scale:</translation>
+        <translation>間隔のスケール:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="362"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="375"/>
         <source>Isotropic spacing:</source>
-        <translation type="unfinished">Isotropic spacing:</translation>
+        <translation>等方性間隔:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="395"/>
         <source>Interpolator:</source>
-        <translation type="unfinished">Interpolator:</translation>
+        <translation>補間:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="404"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="434"/>
         <source>High quality, slow</source>
-        <translation type="unfinished">High quality, slow</translation>
+        <translation>高画質、低速</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="407"/>
         <source>B-spline</source>
-        <translation type="unfinished">B-spline</translation>
+        <translation>Bスプライン</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="414"/>
         <source>Low quality, fastest</source>
-        <translation type="unfinished">Low quality, fastest</translation>
+        <translation>低品質、最速</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="417"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished">Nearest Neighbor</translation>
+        <translation>最近傍</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="424"/>
         <source>Medium quality, medium speed</source>
-        <translation type="unfinished">Medium quality, medium speed</translation>
+        <translation>中品質、中速</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="427"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>線形</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="437"/>
         <source>Windowed Sinc</source>
-        <translation type="unfinished">Windowed Sinc</translation>
+        <translation>Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="446"/>
         <source>Fill value:</source>
-        <translation type="unfinished">Fill value:</translation>
+        <translation>塗りつぶし値:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="453"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
-        <translation type="unfinished">Voxel values outside the input volume will be filled with this value</translation>
+        <translation>入力ボリュームの外側のボクセル値は、この値で埋められます</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="484"/>
         <source>Volume information</source>
-        <translation type="unfinished">Volume information</translation>
+        <translation>ボリューム情報</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="508"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>入力ボリューム</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="517"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="596"/>
         <source>Output volume dimension after cropping</source>
-        <translation type="unfinished">Output volume dimension after cropping</translation>
+        <translation>トリミング後の出力ボリューム寸法</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="529"/>
@@ -7565,81 +7565,81 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="608"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="636"/>
         <source>0,0,0</source>
-        <translation type="unfinished">0,0,0</translation>
+        <translation>0,0,0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="542"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="621"/>
         <source>Output volume spacing after cropping</source>
-        <translation type="unfinished">Output volume spacing after cropping</translation>
+        <translation>トリミング後の出力ボリューム間隔</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="560"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="639"/>
         <source>length</source>
-        <translation type="unfinished">length</translation>
+        <translation>長さ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="570"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="656"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>寸法:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="577"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="649"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>間隔:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="693"/>
         <source>Fix</source>
-        <translation type="unfinished">Fix</translation>
+        <translation>固定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="708"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>適用</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="88"/>
         <source>Select or create a new parameter node.</source>
-        <translation type="unfinished">Select or create a new parameter node.</translation>
+        <translation>新しいパラメータノードを選択または作成します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="99"/>
         <source>Select an input volume.</source>
-        <translation type="unfinished">Select an input volume.</translation>
+        <translation>入力ボリュームを選択します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="106"/>
         <source>Output volume type does not match input volume type.</source>
-        <translation type="unfinished">Output volume type does not match input volume type.</translation>
+        <translation>出力ボリューム・タイプが入力ボリューム・タイプと一致しません。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="129"/>
         <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="unfinished">Input ROI is under a non-linear tansform.</translation>
+        <translation>入力ROIは非線形のtansform中です。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="135"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished">Select or create a new input ROI.</translation>
+        <translation>新しい入力ROIを選択または作成します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="142"/>
         <source>Output volume is under a non-linear tansform.</source>
-        <translation type="unfinished">Output volume is under a non-linear tansform.</translation>
+        <translation>出力ボリュームは非線形のtansform中です。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="153"/>
         <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="unfinished">Interpolation is disabled and input volume is under a non-linear tansform</translation>
+        <translation>補間が無効で、入力ボリュームが非線形transform中です.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+        <translation type="unfinished">補間が無効になっており、入力ROIが入力ボリューム軸と一致していません。</translation>
     </message>
 </context>
 <context>
@@ -7647,110 +7647,110 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">DICOM Export</translation>
+        <translation>DICOM出力</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="73"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mode:</translation>
+        <translation>モード:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="80"/>
         <source>Export selected data to standard DICOM fields.
 Created data objects are compatible with most standard DICOM software.</source>
-        <translation type="unfinished">Export selected data to standard DICOM fields.
-Created data objects are compatible with most standard DICOM software.</translation>
+        <translation>選択したデータを標準のDICOMフィールドにエクスポートします。
+作成されたデータオブジェクトは、ほとんどの標準的なDICOMソフトウェアと互換性があります。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="84"/>
         <source>Export series</source>
-        <translation type="unfinished">Export series</translation>
+        <translation>シリーズのエクスポート</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="94"/>
         <source>Save the entire scene, with all data and display settings embedded in private fields.
 The file can be stored on standard image archival systems and used in this application,
 but cannot be interpreted by most standard DICOM imaging applications.</source>
-        <translation type="unfinished">Save the entire scene, with all data and display settings embedded in private fields.
-The file can be stored on standard image archival systems and used in this application,
-but cannot be interpreted by most standard DICOM imaging applications.</translation>
+        <translation>シーン全体を保存し、すべてのデータと表示設定をプライベートフィールドに埋め込みます。
+このファイルは、標準的な画像アーカイブシステムに保存して、本アプリケーションで使用することができます。
+しかし、ほとんどの標準的なDICOM画像アプリケーションで解釈することはできません。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="99"/>
         <source>Export entire scene</source>
-        <translation type="unfinished">Export entire scene</translation>
+        <translation>シーン全体をエクスポート</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="165"/>
         <source>1. Select node</source>
-        <translation type="unfinished">1. Select node</translation>
+        <translation>1.ノードの選択</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="208"/>
         <source>2. Select export type</source>
-        <translation type="unfinished">2. Select export type</translation>
+        <translation>2.エクスポートの種類を選択する</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="251"/>
         <source>3. Edit DICOM tags</source>
-        <translation type="unfinished">3. Edit DICOM tags</translation>
+        <translation>3. DICOMタグを編集する</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="282"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+        <translation>チェックした場合、手動で編集したタグはシーンに保存され、次のエクスポートのために保存されます。チェックを外すと、このエクスポート操作の間だけ、一時的に変更することができます。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="285"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Save modified tags</translation>
+        <translation>変更したタグを保存する</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="321"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+        <translation>チェックした場合、エクスポートされたDICOMファイルは、指定されたフォルダに書き込まれます。
+チェックされていない場合、エクスポートされたデータセットはDICOMデータベースに追加されます。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="325"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Export to folder:</translation>
+        <translation>フォルダにエクスポート:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="335"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+        <translation>エクスポートされたDICOMファイルは、アプリケーションのDICOMデータベースではなく、このフォルダーに格納されます。</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="344"/>
         <source>DICOM/ExportFolder</source>
-        <translation type="unfinished">DICOM/ExportFolder</translation>
+        <translation>DICOM/エクスポートフォルダー</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="405"/>
         <source>Error messages</source>
-        <translation type="unfinished">Error messages</translation>
+        <translation>エラーメッセージ</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="442"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>エクスポート</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="497"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>DICOMデータセットが正常にエクスポートされました。 </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="500"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">the DICOM database</translation>
+        <translation>DICOMデータベース</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="506"/>
         <source>Export successful</source>
-        <translation type="unfinished">Export successful</translation>
+        <translation>エクスポートに成功</translation>
     </message>
 </context>
 <context>
