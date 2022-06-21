@@ -13,11 +13,11 @@
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
         <translation type="unfinished"></translation>
     </message>
-    /*<message>
+    <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
-        //toggle visibility
+        <source>Toggle the visibility</source>
         <translation type="unfinished"></translation>
-    </message>*/
+    </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
@@ -33,7 +33,7 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="224"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="275"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="372"/>
-        <source></source>//Unselected Color
+        <source>Unselected Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -41,7 +41,7 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="237"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="282"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="419"/>
-        //<source>Selected Color</source>
+        <source>Selected Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
