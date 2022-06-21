@@ -558,12 +558,12 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation>Запуск сервера-сховища при його включенні:</translation>
+        <translation>Запуск сервера-сховища при його ввімкненні:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
         <source>Automatically start listener on application startup</source>
-        <translation>Автоматичний запуск сервера під час включення програми</translation>
+        <translation>Автоматичний запуск сервера під час увімкнення програми</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
@@ -3622,7 +3622,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="239"/>
         <source>Export all segments to a single OBJ file. It is always enabled for OBJ files, as segments can be distinguished based on their material.</source>
-        <translation>Експортувати всі сегменти в один файл OBJ. Він завжди включений для файлів OBJ, оскільки сегменти можна розрізняти на основі їх матеріалу.</translation>
+        <translation>Експортувати всі сегменти в один файл OBJ. Він завжди ввімкнений для файлів OBJ, оскільки сегменти можна розрізняти на основі їх матеріалу.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="258"/>
@@ -4837,7 +4837,7 @@ If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
         <translation>Видалений елемент предметної ієрархії має дочірні елементи. Чи хочете ви видалити їх?
 
-Якщо ви виберете &quot;Так&quot;, буде видалена вся гілка, включаючи всі дочірні елементи.
+Якщо ви виберете &quot;Так&quot;, буде видалена вся гілка, включно з усіма дочірніми елементами.
 Якщо вибрати &quot;Так&quot; всім, це питання більше не з&apos;явиться, а всі дочірні елементи предметної ієрархії будуть видалені автоматично. Пізніше це можна змінити в налаштуваннях програми.</translation>
     </message>
 </context>
