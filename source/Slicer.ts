@@ -15,7 +15,7 @@
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
-        <source>Toggle the visibility</source>
+        <source>Toggle visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
