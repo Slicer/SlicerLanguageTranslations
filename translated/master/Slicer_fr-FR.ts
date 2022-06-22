@@ -6269,7 +6269,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerAboutDialog.ui" line="20"/>
         <source>About 3D Slicer</source>
-        <translation>À propos de 3D Slicer</translation>
+        <translation>A propos de 3D Slicer</translation>
     </message>
 </context>
 <context>
@@ -6833,7 +6833,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="106"/>
         <source>About 3D Slicer</source>
-        <translation>À propos de 3D Slicer</translation>
+        <translation>A propos de 3D Slicer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
@@ -14332,22 +14332,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation type="unfinished">Welcome</translation>
+        <translation type="unfinished">Accueil</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="51"/>
         <source>Load DICOM Data</source>
-        <translation>Charger les données DICOM</translation>
+        <translation type="unfinished">Charger des données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="68"/>
         <source>Load Data</source>
-        <translation type="unfinished">Load Data</translation>
+        <translation>Charger des données</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="85"/>
         <source>Download Sample Data</source>
-        <translation>Télécharger l&apos;échantillon de données</translation>
+        <translation>Télécharger des exemples de données</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="102"/>
@@ -14367,7 +14367,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="139"/>
         <source>Explore Loaded Data</source>
-        <translation type="unfinished">Explore Loaded Data</translation>
+        <translation>Explorer les données chargées</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="175"/>
@@ -14377,7 +14377,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="212"/>
         <source>About</source>
-        <translation>À propos de</translation>
+        <translation>A propos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="249"/>
