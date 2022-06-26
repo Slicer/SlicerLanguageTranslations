@@ -548,7 +548,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
         <source>Storage listener:</source>
-        <translation>Écouteur de stockage :</translation>
+        <translation type="unfinished">Port de stockage :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
@@ -558,12 +558,12 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation>Lancer l&apos;écouteur de stockage au démarrage :</translation>
+        <translation type="unfinished">Lancer le port de stockage au démarrage :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
         <source>Automatically start listener on application startup</source>
-        <translation>Lancer automatiquement l&apos;auditeur de stockage au démarrage de l&apos;application</translation>
+        <translation type="unfinished">Lancer automatiquement le port de stockage au démarrage de l&apos;application</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
