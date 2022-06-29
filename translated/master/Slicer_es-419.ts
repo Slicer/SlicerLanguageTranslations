@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation>Alternar un-/bloqueado</translation>
+        <translation>Alternar des-/bloqueado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
         <source>Glyph type combo box</source>
-        <translation>Tipo de glifo cuadro combinado</translation>
+        <translation>Tipo de marcador cuadro combinado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
@@ -151,7 +151,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>Herramientas_Trazar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
@@ -631,7 +631,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
         <source>Glyph type combo box</source>
-        <translation type="unfinished">Glyph type combo box</translation>
+        <translation>Typo de marcador cuadro combinado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
@@ -1482,7 +1482,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
         <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-        <translation type="unfinished">If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</translation>
+        <translation>Si el botón es seleccionado entonces el tamaño del punto de control del marcador es especificado en unidad de longitud física, sino como porcentaje del tamaño de la ventana.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
@@ -1566,7 +1566,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
         <source>Glyph Type:</source>
-        <translation type="unfinished">Glyph Type:</translation>
+        <translation>Typo de Marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
@@ -1591,7 +1591,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
         <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-        <translation type="unfinished">If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</translation>
+        <translation>Si se presiona el botón entonces lo grueso de la línea se especifica en unidad de longitud física, sino como porcentaje del tamaño del marcador</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
@@ -1621,12 +1621,12 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation type="unfinished">Placement mode:</translation>
+        <translation>Modo de Colocación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation type="unfinished">Properties Label:</translation>
+        <translation>Etiqueta de Características:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
@@ -1636,7 +1636,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
         <source>Glyph Size:</source>
-        <translation type="unfinished">Glyph Size:</translation>
+        <translation>Tamaño de Marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
