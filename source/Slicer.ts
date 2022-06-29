@@ -14411,8 +14411,13 @@ This should only used by advanced users who understand the consequences of chang
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< Updated upstream
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="93"/>
         <source> Install Slicer Extensions</source>
+=======
+        <location filename="../../../Documents/mine/3DSlicer/Slicer/Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="93"/>
+        <source> Install Any Slicer Extension</source>
+>>>>>>> Stashed changes
         <translation type="unfinished"></translation>
     </message>
     <message>
