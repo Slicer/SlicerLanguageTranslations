@@ -6269,7 +6269,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerAboutDialog.ui" line="20"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished">About 3D Slicer</translation>
+        <translation>Acerca de 3D Slicer</translation>
     </message>
 </context>
 <context>
@@ -6833,7 +6833,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="106"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished">About 3D Slicer</translation>
+        <translation>Acerca de 3D Slicer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
@@ -14377,17 +14377,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="212"/>
         <source>About</source>
-        <translation type="unfinished">About</translation>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="249"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation type="unfinished">Documentation &amp;&amp; Tutorials</translation>
+        <translation>Documentación &amp;amp;&amp;amp;  Tutoriales</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="286"/>
         <source>Acknowledgment</source>
-        <translation>Agracedimientos</translation>
+        <translation>Reconocimiento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="171"/>
