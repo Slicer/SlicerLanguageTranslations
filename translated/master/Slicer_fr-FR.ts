@@ -14357,7 +14357,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="105"/>
         <source> Install Slicer Extensions</source>
-        <translation> Installer les extensions de Slicer</translation>
+        <translation> Installer les extensions du Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="122"/>
