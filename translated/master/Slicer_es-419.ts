@@ -6679,12 +6679,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="54"/>
         <source>Select node types to create and place annotations.</source>
-        <translation type="unfinished">Select node types to create and place annotations.</translation>
+        <translation>Seleccione typo de nodo para crear y colocar anotaciones.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="57"/>
         <source>Select node type: </source>
-        <translation type="unfinished">Select node type: </translation>
+        <translation>Seleccione tipo de nodo </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="82"/>
@@ -8662,7 +8662,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="60"/>
         <source>Data Probe</source>
-        <translation>Posición del cursor</translation>
+        <translation>Explorador de Datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
@@ -14347,7 +14347,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="85"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Download Sample Data</translation>
+        <translation>Descargar Datos de Muestra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="102"/>
@@ -14357,7 +14357,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="105"/>
         <source> Install Slicer Extensions</source>
-        <translation type="unfinished"> Install Slicer Extensions</translation>
+        <translation> Instalar Extensiones de Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="122"/>
