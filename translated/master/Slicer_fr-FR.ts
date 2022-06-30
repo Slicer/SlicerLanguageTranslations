@@ -413,7 +413,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
@@ -445,7 +445,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
         <source>Outputs</source>
-        <translation type="unfinished">Sorties</translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -460,7 +460,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
         <source>Inverted volume:</source>
-        <translation type="unfinished">Volume inversé :</translation>
+        <translation>Volume inversé :</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
@@ -490,7 +490,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
         <source>Apply</source>
-        <translation type="unfinished">Appliquer</translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -568,7 +568,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
         <source>DICOM database settings</source>
-        <translation type="unfinished">Paramètres de la base de données DICOM</translation>
+        <translation>Paramètres de la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
@@ -621,7 +621,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="20"/>
@@ -696,7 +696,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="31"/>
@@ -742,7 +742,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="48"/>
         <source>Turn on/off visualization of projected line on 2D viewers</source>
-        <translation type="unfinished">Turn on/off visualization of projected line on 2D viewers</translation>
+        <translation type="unfinished">Activer/Désactiver la visualisation des lignes projetés dans la vue 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
@@ -753,7 +753,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
         <source>Color of the projected line on 2D viewers</source>
-        <translation type="unfinished">Color of the projected line on 2D viewers</translation>
+        <translation type="unfinished">Couleur de la ligne projeté sur les vues 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
