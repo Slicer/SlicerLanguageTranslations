@@ -14382,7 +14382,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="249"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation>Documentación &amp;amp;&amp;amp;  Tutoriales</translation>
+        <translation>Documentación y Tutoriales</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="286"/>
