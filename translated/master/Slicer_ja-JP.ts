@@ -11288,38 +11288,38 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="751"/>
         <source>Number of layers:</source>
-        <translation type="unfinished">Number of layers:</translation>
+        <translation>レイヤ数:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="761"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="804"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="768"/>
         <source>Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</source>
-        <translation type="unfinished">Forcing all segments to a single layer will modify overlapping segments. Regions where multiple segments overlap will be assigned to the segment closest to the end of the segment list.</translation>
+        <translation>すべてのセグメントを単一レイヤーに強制すると、オーバーラップしているセグメントが修正されます。複数のセグメントが重なっている領域は、セグメントリストの最後に近いセグメントに割り当てられます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="771"/>
         <source>Force collapse to single layer:</source>
-        <translation type="unfinished">Force collapse to single layer:</translation>
+        <translation>単一レイヤーに強制的に分割:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="778"/>
         <source>Number of segments:</source>
-        <translation type="unfinished">Number of segments:</translation>
+        <translation>セグメント数:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="794"/>
         <source>Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</source>
-        <translation type="unfinished">Minimize the number of layers by moving segments to shared layers to minimize memory usage. Contents of segments are not modified unless there are overlapping segments and collapsing to a single layer is forced.</translation>
+        <translation>セグメントを共有レイヤーに移動させ、レイヤー数を最小にすることで、メモリ使用量を最小にします。重複するセグメントがあり、単一レイヤーへの分割が強制されない限り、セグメントのコンテンツは変更されません。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="797"/>
         <source>Collapse labelmap layers</source>
-        <translation type="unfinished">Collapse labelmap layers</translation>
+        <translation>ラベルマップレイヤーの分割</translation>
     </message>
 </context>
 <context>
@@ -11327,37 +11327,37 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="775"/>
         <source>Failed to copy segment</source>
-        <translation type="unfinished">Failed to copy segment</translation>
+        <translation>コピーセグメントに失敗</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="784"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>変換に失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="966"/>
         <source>Failed to export segments to labelmap</source>
-        <translation type="unfinished">Failed to export segments to labelmap</translation>
+        <translation>セグメントをラベルマップにエクスポートできませんでした</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="982"/>
         <source>Failed to export segments to models</source>
-        <translation type="unfinished">Failed to export segments to models</translation>
+        <translation>セグメントをモデルにエクスポートできませんでした</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1041"/>
         <source>Failed to import labelmap volume</source>
-        <translation type="unfinished">Failed to import labelmap volume</translation>
+        <translation>ラベルマップボリュームのインポートに失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1052"/>
         <source>Failed to import model node</source>
-        <translation type="unfinished">Failed to import model node</translation>
+        <translation>モデルノードのインポートに失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1063"/>
         <source>Failed to import models</source>
-        <translation type="unfinished">Failed to import models</translation>
+        <translation>モデルのインポートに失敗しました</translation>
     </message>
 </context>
 <context>
@@ -11365,55 +11365,55 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="14"/>
         <source>SegmentationsSettingsPanel</source>
-        <translation type="unfinished">SegmentationsSettingsPanel</translation>
+        <translation>SegmentationsSettingsPanel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="20"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="30"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="56"/>
         <source>Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished">Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</translation>
+        <translation>ファイルから読み込む際に、どのセグメントを含んでいるかによって、自動的にセグメントの不透明度を設定するため、どのセグメントも他のセグメントを隠してしまうことはありません。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
         <source>Automatic segment opacities:</source>
-        <translation type="unfinished">Automatic segment opacities:</translation>
+        <translation>セグメントの自動不透明度:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="59"/>
         <source>Enable surface smoothing by default:</source>
-        <translation type="unfinished">Enable surface smoothing by default:</translation>
+        <translation>サーフェススムージングをデフォルトで有効にする:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="66"/>
         <source>Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</source>
-        <translation type="unfinished">Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</translation>
+        <translation>新しいセグメンテーションのバイナリラベルマップから閉曲面への変換時に、サーフェスのスムージングを有効にします。スムージングは、3Dビューやエクスポートされたモデルでの見栄えを良くしますが、セグメント編集がかなり遅くなります。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="79"/>
         <source>Default terminology entry:</source>
-        <translation type="unfinished">Default terminology entry:</translation>
+        <translation>デフォルトの用語集項目。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="86"/>
         <source>This terminology will be used by default for new segments in an empty segmentation.</source>
-        <translation type="unfinished">This terminology will be used by default for new segments in an empty segmentation.</translation>
+        <translation>この用語は、空のセグメンテーションに新しいセグメントを作成する際デフォルトで使用されます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="89"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="175"/>
         <source>(set)</source>
-        <translation type="unfinished">(set)</translation>
+        <translation>(set)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="96"/>
         <source>Edit hidden segments: </source>
-        <translation type="unfinished">Edit hidden segments: </translation>
+        <translation>非表示のセグメントを編集する: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="103"/>
         <source>This option controls what the application should do if the user edits a segment that is currently not visible. It is meant to prevent unintentional changes to hidden segments.</source>
-        <translation type="unfinished">This option controls what the application should do if the user edits a segment that is currently not visible. It is meant to prevent unintentional changes to hidden segments.</translation>
+        <translation>このオプションは、現在表示されていないセグメントをユーザーが編集した場合に、アプリケーションがどのような処理を行うかを制御します。これは、非表示のセグメントを意図せずに変更することを防ぐためのものです。</translation>
     </message>
 </context>
 <context>
@@ -11421,298 +11421,298 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
         <source>Browse</source>
-        <translation type="unfinished">Browse</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="32"/>
         <source>Sequence browser:</source>
-        <translation type="unfinished">Sequence browser:</translation>
+        <translation>シーケンスブラウザ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="39"/>
         <source>vtkMRMLSequenceBrowserNode</source>
-        <translation type="unfinished">vtkMRMLSequenceBrowserNode</translation>
+        <translation>vtkMRMLSequenceBrowserNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="44"/>
         <source>SequenceBrowser</source>
-        <translation type="unfinished">SequenceBrowser</translation>
+        <translation>シーケンスブラウザ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="56"/>
         <source>Browsing</source>
-        <translation type="unfinished">Browsing</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="71"/>
         <source>Synchronized nodes</source>
-        <translation type="unfinished">Synchronized nodes</translation>
+        <translation>同期ノード</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="82"/>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="321"/>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="413"/>
         <source>vtkMRMLSequenceNode</source>
-        <translation type="unfinished">vtkMRMLSequenceNode</translation>
+        <translation>vtkMRMLSequenceNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="99"/>
         <source>(new sequence)</source>
-        <translation type="unfinished">(new sequence)</translation>
+        <translation>(新しいシーケンス)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="112"/>
         <source>Add the selected sequence to the browser.</source>
-        <translation type="unfinished">Add the selected sequence to the browser.</translation>
+        <translation>選択した配列をブラウザに追加します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="128"/>
         <source>Remove the selected sequence(s) from the browser.</source>
-        <translation type="unfinished">Remove the selected sequence(s) from the browser.</translation>
+        <translation>選択したシーケンスをブラウザから削除します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="156"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequence</translation>
+        <translation>シーケンス</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="159"/>
         <source>The sequence node&apos;s name.</source>
-        <translation type="unfinished">The sequence node&apos;s name.</translation>
+        <translation>シーケンスノードの名前。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="164"/>
         <source>Proxy node</source>
-        <translation type="unfinished">Proxy node</translation>
+        <translation>プロキシノード</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="167"/>
         <source>The &quot;proxy&quot; node for the sequence (the node to playback into or record from).</source>
-        <translation type="unfinished">The &quot;proxy&quot; node for the sequence (the node to playback into or record from).</translation>
+        <translation>シーケンスのプロキシノード（再生または記録するノード）です。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="175"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Playback - update proxy node with sequence node contents during playback.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Playback - update proxy node with sequence node contents during playback.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;再生 - 再生中にシーケンスノードの内容でプロキシノードを更新する.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="187"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;録画 - 録画中にプロキシノードの変更をシーケンスノードに保存する.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
         <source>Rename</source>
-        <translation type="unfinished">Rename</translation>
+        <translation>名前を変更</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt; &amp;lt;body&amp;gt;&lt;p&gt;シーケンスノード名とインデックス値を使用してプロキシノード名を設定します。&lt;/p&gt;&amp;lt;/ body&amp;gt; &amp;lt;/ html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="204"/>
         <source>Save changes</source>
-        <translation type="unfinished">Save changes</translation>
+        <translation>変更を保存する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="207"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the proxy node current state into the sequence when not in playback or recording mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the proxy node current state into the sequence when not in playback or recording mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;プロキシノードの現在の状態を、再生モードまたは記録モードでないときはシーケンスに保存します。&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
         <source>Plotting</source>
-        <translation type="unfinished">Plotting</translation>
+        <translation>プロット</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
         <source>Enable interactive charting</source>
-        <translation type="unfinished">Enable interactive charting</translation>
+        <translation>インタラクティブなグラフを有効にする</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="268"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>詳細</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="283"/>
         <source>Enable item skip during playback:</source>
-        <translation type="unfinished">Enable item skip during playback:</translation>
+        <translation>再生時のアイテムスキップを有効にする:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="290"/>
         <source>If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</source>
-        <translation type="unfinished">If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</translation>
+        <translation>チェックした場合、要求されたフレームレートを達成するために、再生中に項目がスキップされることがあります。チェックしない場合は、再生中に各項目が表示されますが、要求された速度よりも低い速度で再生されることがあります。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="300"/>
         <source>Record on master node only:</source>
-        <translation type="unfinished">Record on master node only:</translation>
+        <translation>マスターノードのみに録画:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="314"/>
         <source>Master node:</source>
-        <translation type="unfinished">Master node:</translation>
+        <translation>マスターノード:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
         <source>Recording sampling mode:</source>
-        <translation type="unfinished">Recording sampling mode:</translation>
+        <translation>録画サンプリングモード:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
         <source>Maximum</source>
         <extracomment>Record all node changes</extracomment>
-        <translation type="unfinished">Maximum</translation>
+        <translation>最大</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="355"/>
         <source>Limited to playback rate</source>
         <extracomment>Limit recording frame rate to playback frame rate</extracomment>
-        <translation type="unfinished">Limited to playback rate</translation>
+        <translation>再生レートに限定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="363"/>
         <source>Index display:</source>
-        <translation type="unfinished">Index display:</translation>
+        <translation>インデックス表示:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="371"/>
         <source>Index</source>
         <extracomment>Display item index of master node</extracomment>
-        <translation type="unfinished">Index</translation>
+        <translation>インデックス</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="376"/>
         <source>Index value</source>
         <extracomment>Display index value of selected item</extracomment>
-        <translation type="unfinished">Index value</translation>
+        <translation>インデックス値</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="384"/>
         <source>Index display format:</source>
-        <translation type="unfinished">Index display format:</translation>
+        <translation>インデックス表示形式:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
         <source>Display index string in SPRINTF format. Only the first conversion specification is replaced. Available specifiers are: fFgGeEs.</source>
-        <translation type="unfinished">Display index string in SPRINTF format. Only the first conversion specification is replaced. Available specifiers are: fFgGeEs.</translation>
+        <translation>インデックス文字列を SPRINTF 形式で表示する。最初の変換指定だけが置き換えられる。利用可能な指定子は以下の通りである： fFgGeEs.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>編集</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="431"/>
         <source>Sequence:</source>
-        <translation type="unfinished">Sequence:</translation>
+        <translation>シーケンス:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="446"/>
         <source>Index properties</source>
-        <translation type="unfinished">Index properties</translation>
+        <translation>インデックスのプロパティ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="452"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="465"/>
         <source>time</source>
-        <translation type="unfinished">time</translation>
+        <translation>時間</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="472"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unit:</translation>
+        <translation>単位:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="485"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="492"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>タイプ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="512"/>
         <source>Data nodes</source>
-        <translation type="unfinished">Data nodes</translation>
+        <translation>データノード</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="550"/>
         <source>Add/remove data nodes</source>
-        <translation type="unfinished">Add/remove data nodes</translation>
+        <translation>データノードの追加・削除</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="560"/>
         <source>Add to sequence items</source>
-        <translation type="unfinished">Add to sequence items</translation>
+        <translation>シーケンスアイテムに追加</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="570"/>
         <source>Index value:</source>
-        <translation type="unfinished">Index value:</translation>
+        <translation>インデックス値:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="577"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="588"/>
         <source>Index increment:</source>
-        <translation type="unfinished">Index increment:</translation>
+        <translation>インデックスの増分:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="621"/>
         <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="unfinished">If enabled then after the selected node is added to the sequence items the selection moves to the next item</translation>
+        <translation>有効な場合、選択されたノードがシーケンス項目に追加された後、選択項目は次の項目に移動します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="624"/>
         <source>Auto-advance</source>
-        <translation type="unfinished">Auto-advance</translation>
+        <translation>オートアドバンス</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="678"/>
         <source>Node type:</source>
-        <translation type="unfinished">Node type:</translation>
+        <translation>ノードタイプ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="691"/>
         <source>undefined</source>
-        <translation type="unfinished">undefined</translation>
+        <translation>未定義</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1331"/>
         <source>Include this node in synchronized playback</source>
-        <translation type="unfinished">Include this node in synchronized playback</translation>
+        <translation>このノードを同期再生に含める</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1335"/>
         <source>Overwrite the associated node&apos;s name during playback</source>
-        <translation type="unfinished">Overwrite the associated node&apos;s name during playback</translation>
+        <translation>再生時に関連するノードの名前を上書きする。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1339"/>
         <source>Save changes to the node into the sequence</source>
-        <translation type="unfinished">Save changes to the node into the sequence</translation>
+        <translation>ノードへの変更をシーケンスに保存する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1343"/>
         <source>Include this node in synchronized recording</source>
-        <translation type="unfinished">Include this node in synchronized recording</translation>
+        <translation>このノードを同期録画に含める</translation>
     </message>
 </context>
 <context>
@@ -11720,98 +11720,98 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="14"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>キャッシュ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="23"/>
         <source>Cache directory for downloaded files</source>
-        <translation type="unfinished">Cache directory for downloaded files</translation>
+        <translation>ダウンロードしたファイルのキャッシュディレクトリ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="26"/>
         <source>Cache location:</source>
-        <translation type="unfinished">Cache location:</translation>
+        <translation>キャッシュの場所:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="35"/>
         <source>~0MB used</source>
-        <translation type="unfinished">~0MB used</translation>
+        <translation>~0MB使用</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="42"/>
         <source>~200MB free</source>
-        <translation type="unfinished">~200MB free</translation>
+        <translation>〜200MBの空き容量</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="51"/>
         <source>Current usage of the cache</source>
-        <translation type="unfinished">Current usage of the cache</translation>
+        <translation>現在のキャッシュの使用状況</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="54"/>
         <source>Cache usage:</source>
-        <translation type="unfinished">Cache usage:</translation>
+        <translation>キャッシュ使用量:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="61"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="90"/>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
         <source>Upper limit of the dedicated cache for downloaded files</source>
-        <translation type="unfinished">Upper limit of the dedicated cache for downloaded files</translation>
+        <translation>ダウンロードファイルの専用キャッシュの上限</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="83"/>
         <source>Cache size:</source>
-        <translation type="unfinished">Cache size:</translation>
+        <translation>キャッシュ サイズ:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="106"/>
         <source>Amount of space that should remain free. It should be the typical size of a file to download.</source>
-        <translation type="unfinished">Amount of space that should remain free. It should be the typical size of a file to download.</translation>
+        <translation>空き容量を確保する量。ダウンロードするファイルの標準的なサイズである必要があります。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="109"/>
         <source>Cache free buffer:</source>
-        <translation type="unfinished">Cache free buffer:</translation>
+        <translation>キャッシュフリーバッファ:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
         <source>Control whether a file must be downloaded even if it is already in the cache</source>
-        <translation type="unfinished">Control whether a file must be downloaded even if it is already in the cache</translation>
+        <translation>すでにキャッシュにあるファイルでもダウンロードするかどうかを制御します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
         <source>Force redownload:</source>
-        <translation type="unfinished">Force redownload:</translation>
+        <translation>強制再ダウンロード:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="136"/>
         <source>Files in cache:</source>
-        <translation type="unfinished">Files in cache:</translation>
+        <translation>キャッシュ内のファイル:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="143"/>
         <source>Delete all files in cache directory</source>
-        <translation type="unfinished">Delete all files in cache directory</translation>
+        <translation>キャッシュディレクトリのファイルをすべて削除</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="146"/>
         <source>Clear cache</source>
-        <translation type="unfinished">Clear cache</translation>
+        <translation>キャッシュのクリア</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
         <source>%1MB used</source>
-        <translation type="unfinished">%1MB used</translation>
+        <translation>%1MB 使用済み</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
         <source>%1MB free</source>
-        <translation type="unfinished">%1MB free</translation>
+        <translation>%1MB の空き容量</translation>
     </message>
 </context>
 <context>
@@ -11819,57 +11819,57 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="14"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>開発者</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
         <source>Enable developer mode:</source>
-        <translation type="unfinished">Enable developer mode:</translation>
+        <translation>開発者モードを有効にする:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
         <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-        <translation type="unfinished">Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</translation>
+        <translation>開発者モードでアプリケーションを実行：テストモジュールがモジュールリストに表示され、スクリプトモジュールのユーザーインターフェースにReload&amp;amp;Testセクションが表示され、CLIモジュールの入力と出力ファイルがモジュール実行後に削除されません。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
         <source>Enable QtTesting:</source>
-        <translation type="unfinished">Enable QtTesting:</translation>
+        <translation>Qtテストを有効にする:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="51"/>
         <source>Self-test message delay:</source>
-        <translation type="unfinished">Self-test message delay:</translation>
+        <translation>セルフテストメッセージの遅延:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
         <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
-        <translation type="unfinished">Time to wait before resuming self-test execution and hiding messages displayed to the user</translation>
+        <translation>セルフテストの実行を再開し、ユーザーに表示するメッセージを非表示にするまでの待ち時間</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="73"/>
         <source>ms</source>
-        <translation type="unfinished">ms</translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="80"/>
         <source>Qt Designer:</source>
-        <translation type="unfinished">Qt Designer:</translation>
+        <translation>Qtデザイナー:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="89"/>
         <source>launch</source>
-        <translation type="unfinished">launch</translation>
+        <translation>起動</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
         <source>Preserve CLI module data files:</source>
-        <translation type="unfinished">Preserve CLI module data files:</translation>
+        <translation>CLIモジュールのデータファイルを保持する:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="118"/>
         <source>Preserve input and data files created during CLI module execution</source>
-        <translation type="unfinished">Preserve input and data files created during CLI module execution</translation>
+        <translation>CLIモジュールの実行中に作成された入力ファイルとデータファイルを保持します</translation>
     </message>
 </context>
 <context>
@@ -11877,32 +11877,32 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>拡張機能</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="28"/>
         <source>Enable extensions manager:</source>
-        <translation type="unfinished">Enable extensions manager:</translation>
+        <translation>拡張機能マネージャーを有効にする:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="45"/>
         <source>Extensions server URL:</source>
-        <translation type="unfinished">Extensions server URL:</translation>
+        <translation>拡張機能サーバーの URL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="55"/>
         <source>Extensions frontend server URL:</source>
-        <translation type="unfinished">Extensions frontend server URL:</translation>
+        <translation>拡張機能フロントエンドサーバーのURL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="65"/>
         <source>Extensions installation path:</source>
-        <translation type="unfinished">Extensions installation path:</translation>
+        <translation>拡張機能のインストールパス:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="93"/>
         <source>Open Extensions Manager...</source>
-        <translation type="unfinished">Open Extensions Manager...</translation>
+        <translation>拡張機能マネージャを開く...</translation>
     </message>
 </context>
 <context>
@@ -11910,47 +11910,47 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished">Directory where scenes are saved to by default</translation>
+        <translation>デフォルトでシーンを保存するディレクトリ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
         <source>Default scene location:</source>
-        <translation type="unfinished">Default scene location:</translation>
+        <translation>デフォルトのシーンの場所:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
         <source>Disable splash screen:</source>
-        <translation type="unfinished">Disable splash screen:</translation>
+        <translation>スプラッシュ画面を無効にする:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
         <source>Language</source>
-        <translation type="unfinished">Language</translation>
+        <translation>言語</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
         <source>Confirm on restart:</source>
-        <translation type="unfinished">Confirm on restart:</translation>
+        <translation>再起動の確認:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
         <source>Confirm on exit:</source>
-        <translation type="unfinished">Confirm on exit:</translation>
+        <translation>終了時に確認:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation type="unfinished">Confirm on scene close:</translation>
+        <translation>シーンクローズ時に確認する:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
         <source>Documentation base URL:</source>
-        <translation type="unfinished">Documentation base URL:</translation>
+        <translation>ドキュメントベースのURL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="115"/>
