@@ -11957,43 +11957,43 @@ Please choose an empty directory.</source>
         <source>Specify documentation location.
 Available placeholders: {language}, {version}.
 Default: https://slicer.readthedocs.io/{language}/{version}</source>
-        <translation type="unfinished">Specify documentation location.
-Available placeholders: {language}, {version}.
-Default: https://slicer.readthedocs.io/{language}/{version}</translation>
+        <translation>ドキュメントの場所を指定します。
+利用可能なプレースホルダ: {language}, {version}
+デフォルト: https://slicer.readthedocs.io/{language}/{version}</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
         <source>Max. number of &apos;Recently Loaded&apos; menu items:</source>
-        <translation type="unfinished">Max. number of &apos;Recently Loaded&apos; menu items:</translation>
+        <translation>「最近読み込んだ」メニューの最大数。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished">Python script that is executed after the application is started</translation>
+        <translation>アプリケーション起動後に実行されるPythonスクリプト</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="147"/>
         <source>Application startup script:</source>
-        <translation type="unfinished">Application startup script:</translation>
+        <translation>アプリケーション起動スクリプト:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="169"/>
         <source>Open Slicer resource file</source>
-        <translation type="unfinished">Open Slicer resource file</translation>
+        <translation>スライサーリソースファイルを開く</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
         <source>Module documentation URL:</source>
-        <translation type="unfinished">Module documentation URL:</translation>
+        <translation>モジュールドキュメントのURL:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="188"/>
         <source>Specify URL for module documentation.
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
-        <translation type="unfinished">Specify URL for module documentation.
-Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
-Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
+        <translation>モジュールドキュメントの URL を指定します。
+利用可能なプレースホルダ。{documentationbaseurl}, {lowercasemodulename}.
+デフォルト: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
     </message>
 </context>
 <context>
@@ -12001,12 +12001,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>国際化</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
         <source>Enable Internationalization:</source>
-        <translation type="unfinished">Enable Internationalization:</translation>
+        <translation>国際化を有効にする:</translation>
     </message>
 </context>
 <context>
@@ -12014,216 +12014,216 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="20"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>モジュール</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
         <source>Skip loading of any:</source>
-        <translation type="unfinished">Skip loading of any:</translation>
+        <translation>読み込みをスキップします。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-loadable-modules on the command line</translation>
+        <translation>一時的に無効化するには、コマンドラインで --disable-loadable-modules を指定します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="130"/>
         <source>loadable modules</source>
-        <translation type="unfinished">loadable modules</translation>
+        <translation>ロード可能なモジュール</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-cli-modules on the command line</translation>
+        <translation>一時的に無効にするには、コマンドラインで --disable-cli-modules を渡します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
         <source>command-line plugins</source>
-        <translation type="unfinished">command-line plugins</translation>
+        <translation>コマンドラインプラグイン</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</translation>
+        <translation>一時的に無効にするには、コマンドラインで--disable-scripted-loadable-modulesを指定します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="150"/>
         <source>scripted loadable modules</source>
-        <translation type="unfinished">scripted loadable modules</translation>
+        <translation>スクリプト化されたロード可能なモジュール</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished">Skip loading of builtin:</translation>
+        <translation>ビルトインの読み込みをスキップする:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-loadable-modules on the command line</translation>
+        <translation>一時的に無効化するには、コマンドラインで --disable-builtin-loadable-modules を指定します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
         <source>To temporarily disable, pass --disable-builtin-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-cli-modules on the command line</translation>
+        <translation>一時的に無効にするには、コマンドラインで --disable-builtin-cli-modules を指定します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="147"/>
         <source>To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</translation>
+        <translation>一時的に無効にするには、コマンドラインで --disable-builtin-scripted-loadable-modules を指定します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
         <source>Show hidden modules:</source>
-        <translation type="unfinished">Show hidden modules:</translation>
+        <translation>非表示のモジュールを表示する:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
         <source>Temporary directory:</source>
-        <translation type="unfinished">Temporary directory:</translation>
+        <translation>一時ディレクトリ:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;  &amp;lt;body&amp;gt; &lt;p&gt;追加のモジュールパス： &lt;/p&gt;&lt;p&gt; &amp;lt;spanstyle = &quot;font-style：italic;&quot;&amp;gt;（ドラッグアンドドロップ&lt;br&gt;ファイルまたはフォルダー）  &amp;lt;/ body&amp;gt; &amp;lt;/ html&amp;gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="279"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>パス</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="285"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="292"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="764"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>取り去る</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="334"/>
         <source>when checking/unchecking a module, its dependencies are checked/unchecked accordingly</source>
-        <translation type="unfinished">when checking/unchecking a module, its dependencies are checked/unchecked accordingly</translation>
+        <translation>モジュールのチェック/チェックを外すと、それに応じて依存関係もチェック/チェックを外されます。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="337"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>モジュール:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="399"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="408"/>
         <source>Hide modules to load at startup</source>
-        <translation type="unfinished">Hide modules to load at startup</translation>
+        <translation>起動時にロードするモジュールを非表示にする</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="411"/>
         <source>To load</source>
-        <translation type="unfinished">To load</translation>
+        <translation>ロードするには</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="430"/>
         <source>Hide modules to ignore at startup</source>
-        <translation type="unfinished">Hide modules to ignore at startup</translation>
+        <translation>起動時に無視するモジュールを非表示にする</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="433"/>
         <source>To ignore</source>
-        <translation type="unfinished">To ignore</translation>
+        <translation>無視するには</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="452"/>
         <source>Hide loaded modules</source>
-        <translation type="unfinished">Hide loaded modules</translation>
+        <translation>ロードされたモジュールの非表示</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="455"/>
         <source>Loaded</source>
-        <translation type="unfinished">Loaded</translation>
+        <translation>ロード済み</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="505"/>
         <source>Hide ignored modules</source>
-        <translation type="unfinished">Hide ignored modules</translation>
+        <translation>無視されたモジュールの非表示</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="508"/>
         <source>Ignored</source>
-        <translation type="unfinished">Ignored</translation>
+        <translation>無視</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="558"/>
         <source>Hide Failed to load modules</source>
-        <translation type="unfinished">Hide Failed to load modules</translation>
+        <translation>ロードに失敗したモジュールを非表示にする</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="561"/>
         <source>Failed</source>
-        <translation type="unfinished">Failed</translation>
+        <translation>失敗した</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="628"/>
         <source>Default startup module:</source>
-        <translation type="unfinished">Default startup module:</translation>
+        <translation>デフォルトの起動モジュール:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="672"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</translation>
+        <translation>上記の「モジュール」リストからモジュールをドラッグして、リストに追加します。注：アイコンのないモジュールはツールバーに表示されません。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="675"/>
         <source>Favorite Modules:&lt;br&gt;&lt;small&gt;&lt;i&gt;Drag &amp;amp; drop from &lt;/i&gt;Modules&lt;i&gt; list&lt;/i&gt;&lt;/small&gt;</source>
-        <translation type="unfinished">Favorite Modules:&lt;br&gt;&lt;small&gt;&lt;i&gt;Drag &amp; drop from &lt;/i&gt;Modules&lt;i&gt; list&lt;/i&gt;&lt;/small&gt;</translation>
+        <translation>お気に入りモジュール：&lt;br&gt;&lt;small&gt;モジュール&lt;i&gt;一覧からドラッグ&amp;amp;ドロップ&lt;/i&gt;&lt;/small&gt;。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="752"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list</translation>
+        <translation>上記の「モジュール」リストからモジュールをドラッグしてリストに追加する</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="755"/>
         <source>Favorite</source>
-        <translation type="unfinished">Favorite</translation>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="761"/>
         <source>Remove selected module from favorites</source>
-        <translation type="unfinished">Remove selected module from favorites</translation>
+        <translation>選択したモジュールをお気に入りから削除する</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="771"/>
         <source>Move to the left</source>
-        <translation type="unfinished">Move to the left</translation>
+        <translation>左へ移動</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="774"/>
         <source>Move Left</source>
-        <translation type="unfinished">Move Left</translation>
+        <translation>左に移動</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="781"/>
         <source>Move to the right</source>
-        <translation type="unfinished">Move to the right</translation>
+        <translation>右へ移動</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="784"/>
         <source>Move Right</source>
-        <translation type="unfinished">Move Right</translation>
+        <translation>右へ移動</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="315"/>
         <source>Select folder</source>
-        <translation type="unfinished">Select folder</translation>
+        <translation>フォルダの選択</translation>
     </message>
 </context>
 <context>
@@ -12231,27 +12231,27 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="14"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>Shell Display</source>
-        <translation type="unfinished">Shell Display</translation>
+        <translation>シェル画面</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Display in dockable window:</source>
-        <translation type="unfinished">Display in dockable window:</translation>
+        <translation>ドッキング可能なウィンドウに表示:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</source>
-        <translation type="unfinished">Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</translation>
+        <translation>Python インタラクタをメインウィンドウの内側に配置できるウィンドウで表示します。無効の場合、Pythonインタラクタは独立したウィンドウとして表示されます。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="49"/>
         <source>Shell font:</source>
-        <translation type="unfinished">Shell font:</translation>
+        <translation>シェルフォント:</translation>
     </message>
 </context>
 <context>
@@ -12259,17 +12259,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="14"/>
         <source>StyleSettings</source>
-        <translation type="unfinished">StyleSettings</translation>
+        <translation>スタイル設定</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="23"/>
         <source>Additional style paths:</source>
-        <translation type="unfinished">Additional style paths:</translation>
+        <translation>追加スタイルのパス:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="49"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>パス</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="55"/>
@@ -12280,18 +12280,18 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグイン パスの追加.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグイン パスを付加するとアプリケーションからこのスタイルプラグイン（およびそのすべてのスタイル）にアクセス可能になるようにします。このアクションは、&lt;/span&gt; &lt;span style=&quot;&quot;&gt;アプリケーションを再起動する必要があります.&lt;/span&gt;&lt;span style=&quot;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="71"/>
@@ -12302,18 +12302,17 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;現在選択されているスタイルプラグインパスを削除する.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグインパスを削除すると、次にアプリケーションを開いたときにこのスタイル プラグイン（そしてそのスタイルすべて）にアクセスできなくなるように設定します。この操作には、アプリケーションを再起動する必要があります。&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="103"/>
@@ -12322,16 +12321,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; 追加のスタイルパスを追加/削除するインターフェースを表示しています。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
         <source>Style</source>
-        <translation type="unfinished">Style</translation>
+        <translation>スタイル</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="130"/>
@@ -12340,16 +12339,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;アプリケーションの現在のスタイルを選択.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
         <source>Disable tooltips:</source>
-        <translation type="unfinished">Disable tooltips:</translation>
+        <translation>ツールチップを無効にする:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="148"/>
@@ -12358,16 +12357,15 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; ウィジェットの上にマウスを置いた時に、ツールチップ（このようなもの）を表示するかしないか設定します。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="162"/>
         <source>Font and size:</source>
-        <translation type="unfinished">Font and size:</translation>
+        <translation>フォントとサイズ:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="169"/>
@@ -12376,16 +12374,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;アプリケーションのフォントとサイズをお好みに合わせてカスタマイズしてください。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
         <source>Show text under icons in toolbar buttons:</source>
-        <translation type="unfinished">Show text under icons in toolbar buttons:</translation>
+        <translation>ツールバーボタンのアイコンの下にテキストを表示する:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="187"/>
@@ -12394,16 +12392,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;無効 の時はメインウィンドウにアイコンだけ表示されるようになります。それ以外の場合は、アクションに対応するテキストが下に表示されます。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="201"/>
         <source>Save user interface size and position on exit:</source>
-        <translation type="unfinished">Save user interface size and position on exit:</translation>
+        <translation>終了時にユーザーインターフェースのサイズと位置を保存します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="208"/>
@@ -12412,16 +12410,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; 有効化される, 次にアプリケーションを起動するときにサイズと位置が記憶されるようになります。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
         <source>Select a path containing a &quot;styles&quot; plugin directory</source>
-        <translation type="unfinished">Select a path containing a &quot;styles&quot; plugin directory</translation>
+        <translation>「スタイル」プラグインディレクトリを含むパスを選択する</translation>
     </message>
 </context>
 <context>
@@ -12429,47 +12427,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
         <source>Organization role:</source>
-        <translation type="unfinished">Organization role:</translation>
+        <translation>組織の役割:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="58"/>
         <source>Login:</source>
-        <translation type="unfinished">Login:</translation>
+        <translation>ログイン:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished">Directory where scenes are saved to by default</translation>
+        <translation>デフォルトでシーンが保存されるディレクトリ</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="95"/>
         <source>Procedure role:</source>
-        <translation type="unfinished">Procedure role:</translation>
+        <translation>プロシージャの役割:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="102"/>
         <source>Organization:</source>
-        <translation type="unfinished">Organization:</translation>
+        <translation>組織:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="129"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished">Python script that is executed after the application is started</translation>
+        <translation>アプリケーション起動後に実行されるPythonスクリプト</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="132"/>
         <source>Email:</source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Eメール:</translation>
     </message>
 </context>
 <context>
@@ -12477,18 +12475,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
         <source>ViewsSettings</source>
-        <translation type="unfinished">ViewsSettings</translation>
+        <translation>ビュー設定</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>
         <source>Slice viewer defaults</source>
-        <translation type="unfinished">Slice viewer defaults</translation>
+        <translation>デフォルトのスライスビューア</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="50"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="187"/>
         <source>Orientation marker:</source>
-        <translation type="unfinished">Orientation marker:</translation>
+        <translation>方向マーカー:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="60"/>
@@ -12496,106 +12494,106 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="197"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="258"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="65"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="202"/>
         <source>cube</source>
-        <translation type="unfinished">cube</translation>
+        <translation>立方体</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="70"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="207"/>
         <source>human</source>
-        <translation type="unfinished">human</translation>
+        <translation>人間</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="75"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="212"/>
         <source>axes</source>
-        <translation type="unfinished">axes</translation>
+        <translation>軸</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="87"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="224"/>
         <source>small</source>
-        <translation type="unfinished">small</translation>
+        <translation>small</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="92"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="229"/>
         <source>medium</source>
-        <translation type="unfinished">medium</translation>
+        <translation>medium</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="97"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="234"/>
         <source>large</source>
-        <translation type="unfinished">large</translation>
+        <translation>large</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="107"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="244"/>
         <source>Ruler:</source>
-        <translation type="unfinished">Ruler:</translation>
+        <translation>ルーラー:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="120"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="263"/>
         <source>thin</source>
-        <translation type="unfinished">thin</translation>
+        <translation>細い</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="125"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="268"/>
         <source>thick</source>
-        <translation type="unfinished">thick</translation>
+        <translation>太い</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
         <source>View orientation:</source>
-        <translation type="unfinished">View orientation:</translation>
+        <translation>ビューの向き:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="150"/>
         <source>3D viewer defaults</source>
-        <translation type="unfinished">3D viewer defaults</translation>
+        <translation>3Dビューアのデフォルト</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="159"/>
         <source>Show 3D cube:</source>
-        <translation type="unfinished">Show 3D cube:</translation>
+        <translation>3Dキューブを表示:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="173"/>
         <source>Show 3D axis label:</source>
-        <translation type="unfinished">Show 3D axis label:</translation>
+        <translation>3D軸ラベルを表示:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="254"/>
         <source>Ruler is only displayed if orthographic projection mode is used.</source>
-        <translation type="unfinished">Ruler is only displayed if orthographic projection mode is used.</translation>
+        <translation>ルーラーは、正投影モードが使用されている場合にのみ表示されます。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="276"/>
         <source>Use depth peeling:</source>
-        <translation type="unfinished">Use depth peeling:</translation>
+        <translation>デプスピーリングを使用:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="283"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-        <translation type="unfinished">Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</translation>
+        <translation>デプスピーリングを有効にすると、計算コストが高くなりますが、透明なモデルのレンダリングが向上します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="293"/>
         <source>Use orthographic projection:</source>
-        <translation type="unfinished">Use orthographic projection:</translation>
+        <translation>正投影法を使用する:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="308"/>
         <source>Multi-sampling (MSAA):</source>
-        <translation type="unfinished">Multi-sampling (MSAA):</translation>
+        <translation>マルチサンプリング (MSAA):</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="321"/>
@@ -12604,11 +12602,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }.
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;フルスクリーンアンチエイリアシングに マルチサンプリングを使う&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
 </context>
 <context>
@@ -12616,12 +12614,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="52"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished">vtkMRMLMarkupsFiducialNode</translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
 </context>
 <context>
@@ -12629,7 +12627,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="290"/>
         <source>Options:</source>
-        <translation type="unfinished">Options:</translation>
+        <translation>オプション:</translation>
     </message>
 </context>
 <context>
@@ -12637,7 +12635,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="490"/>
         <source>Create new patient and study for DICOM export?</source>
-        <translation type="unfinished">Create new patient and study for DICOM export?</translation>
+        <translation>DICOMエクスポートのための新しい患者と検査を作成しますか?</translation>
     </message>
 </context>
 <context>
@@ -12645,7 +12643,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchyModule.ui" line="14"/>
         <source>SubjectHierarchy</source>
-        <translation type="unfinished">SubjectHierarchy</translation>
+        <translation>サブジェクト階層</translation>
     </message>
 </context>
 <context>
@@ -12653,7 +12651,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>不透明度</translation>
     </message>
 </context>
 <context>
@@ -12661,12 +12659,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation type="unfinished">Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</translation>
+        <translation>レジストレーションのムービング画像のボリュームを選択します。2つ目のボリュームは、1つ目のボリュームを設定した後に、コンテキストメニューから選択することができます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
-        <translation type="unfinished">Right-click another volume to select second volume and start registration</translation>
+        <translation>他のボリュームを右クリックして、2つ目のボリュームを選択し、レジストレーションを開始します。</translation>
     </message>
 </context>
 <context>
@@ -12674,29 +12672,29 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="290"/>
         <source>Failed to import data to segmentation</source>
-        <translation type="unfinished">Failed to import data to segmentation</translation>
+        <translation>セグメンテーションへのデータのインポートに失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>変換に失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1004"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished">Failed to export segmentation to labelmap node</translation>
+        <translation>セグメンテーションをラベルマップノードにエクスポートできませんでした</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1043"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
         <source>Failed to export segments</source>
-        <translation type="unfinished">Failed to export segments</translation>
+        <translation>セグメントのエクスポートに失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1068"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1332"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished">Failed to export segmentation to models</translation>
+        <translation>セグメンテーションのモデルへのエクスポートに失敗しました</translation>
     </message>
 </context>
 <context>
@@ -12705,12 +12703,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="211"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="224"/>
         <source>Failed to move segment between segmentations</source>
-        <translation type="unfinished">Failed to move segment between segmentations</translation>
+        <translation>セグメンテーション間でのセグメント移動に失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="235"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>変換に失敗</translation>
     </message>
 </context>
 <context>
@@ -12718,58 +12716,58 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
         <source>SubjectHierarchySettingsPanel</source>
-        <translation type="unfinished">SubjectHierarchySettingsPanel</translation>
+        <translation>サブジェクト階層設定パネル</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
         <source>Operation</source>
-        <translation type="unfinished">Operation</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="29"/>
         <source>Delete whole branch under the deleted item from subject hierarchy.</source>
-        <translation type="unfinished">Delete whole branch under the deleted item from subject hierarchy.</translation>
+        <translation>サブジェクトの階層から削除された項目の下のブランチをすべて削除します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="32"/>
         <source>Automatically delete subject hierarchy children:</source>
-        <translation type="unfinished">Automatically delete subject hierarchy children:</translation>
+        <translation>サブジェクト階層の子ノードを自動的に削除する。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="39"/>
         <source>Automatically delete subject hierarchy children for nodes removed from the scene.</source>
-        <translation type="unfinished">Automatically delete subject hierarchy children for nodes removed from the scene.</translation>
+        <translation>シーンから削除されたノードのサブジェクト階層の子ノードを自動的に削除します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="67"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="94"/>
         <source>  ID:</source>
-        <translation type="unfinished">  ID:</translation>
+        <translation>  ID:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
         <source>Patient tags in item name:</source>
-        <translation type="unfinished">Patient tags in item name:</translation>
+        <translation>アイテム名の患者タグ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
         <source>Study tags in item name:</source>
-        <translation type="unfinished">Study tags in item name:</translation>
+        <translation>アイテム名のスタディタグ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="135"/>
         <source>  Study date:</source>
-        <translation type="unfinished">  Study date:</translation>
+        <translation>  検査日:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="148"/>
         <source>  Birth date:</source>
-        <translation type="unfinished">  Birth date:</translation>
+        <translation>  生年月日:</translation>
     </message>
 </context>
 <context>
@@ -12777,16 +12775,16 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="177"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+        <translation>ブランチ内のいくつかのノードはすでに変換されています</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+        <translation>新しい変換を適用する前に、既に適用されているすべての変換を保持しますか?
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+注: 「いいえ」を選択すると、適用された変換が置き換えられます。</translation>
     </message>
 </context>
 <context>
@@ -12794,12 +12792,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="309"/>
         <source>Restore view layout</source>
-        <translation type="unfinished">Restore view layout</translation>
+        <translation>ビューレイアウトの復元</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="313"/>
         <source>Maximize view</source>
-        <translation type="unfinished">Maximize view</translation>
+        <translation>ビューを最大化</translation>
     </message>
 </context>
 <context>
@@ -12807,52 +12805,52 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="145"/>
         <source>Center view</source>
-        <translation type="unfinished">Center view</translation>
+        <translation>センタービュー</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="147"/>
         <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
-        <translation type="unfinished">Center the slice on the currently visible 3D view content and all loaded volumes.</translation>
+        <translation>現在表示されている3Dビューコンテンツと読み込まれたすべてのボリュームにスライスをセンタリングします。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="152"/>
         <source>Reset field of view</source>
-        <translation type="unfinished">Reset field of view</translation>
+        <translation>視野のリセット</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="154"/>
         <source>Center the slice view on the currently displayed volume.</source>
-        <translation type="unfinished">Center the slice view on the currently displayed volume.</translation>
+        <translation>現在表示されているボリュームを中心にスライスビューを表示します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
         <source>Maximize view</source>
-        <translation type="unfinished">Maximize view</translation>
+        <translation>ビューの最大化</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="161"/>
         <source>Show this view maximized in the view layout</source>
-        <translation type="unfinished">Show this view maximized in the view layout</translation>
+        <translation>このビューをビューレイアウトで最大化して表示する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
         <source>Tilt lock</source>
-        <translation type="unfinished">Tilt lock</translation>
+        <translation>チルトロック</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="168"/>
         <source>Prevent rotation around the horizontal axis when rotating this view.</source>
-        <translation type="unfinished">Prevent rotation around the horizontal axis when rotating this view.</translation>
+        <translation>このビューを回転させるとき、水平軸を中心とした回転を防止する。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="169"/>
         <source>Ctrl+b</source>
-        <translation type="unfinished">Ctrl+b</translation>
+        <translation>Ctrl+b</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="175"/>
         <source>Configure slice view annotations...</source>
-        <translation type="unfinished">Configure slice view annotations...</translation>
+        <translation>スライスビューの注釈を設定...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
@@ -12862,32 +12860,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="182"/>
         <source>Copy image</source>
-        <translation type="unfinished">Copy image</translation>
+        <translation>画像をコピーする</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="184"/>
         <source>Copy a screenshot of this view to the clipboard</source>
-        <translation type="unfinished">Copy a screenshot of this view to the clipboard</translation>
+        <translation>このビューのスクリーンショットをクリップボードにコピーする</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
         <source>Slice intersections</source>
-        <translation type="unfinished">Slice intersections</translation>
+        <translation>スライスの交点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="192"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>他のスライス平面が各スライス平面とどのように交差しているかを示す。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="200"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="202"/>
         <source>Show handles for slice interaction.</source>
-        <translation type="unfinished">Show handles for slice interaction.</translation>
+        <translation>スライス操作のハンドルを表示します。</translation>
     </message>
 </context>
 <context>
@@ -12895,7 +12893,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation type="unfinished">Switch to Volume Rendering module to manage display options</translation>
+        <translation>ボリュームレンダリングモジュールに切り替えて、表示オプションを管理します</translation>
     </message>
 </context>
 <context>
@@ -12903,7 +12901,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="350"/>
         <source>Default (WW=%1, WL=%2)</source>
-        <translation type="unfinished">Default (WW=%1, WL=%2)</translation>
+        <translation>デフォルト（WW=%1, WL=%2）</translation>
     </message>
 </context>
 <context>
@@ -12911,12 +12909,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="174"/>
         <source>Default preset for the selected volume</source>
-        <translation type="unfinished">Default preset for the selected volume</translation>
+        <translation>選択されたボリュームのデフォルトのプリセット</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="182"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>自動</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="184"/>
