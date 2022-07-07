@@ -60,7 +60,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="194"/>
         <source>Size:</source>
-        <translation>Dimensioni:</translation>
+        <translation>Dimensione:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="201"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
         <source>Lines</source>
-        <translation>Righe</translation>
+        <translation>Linee</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
@@ -100,17 +100,17 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
         <source>Label Visibility</source>
-        <translation>Visibilità dell&apos;Etichetta</translation>
+        <translation>Visibilità dell&apos;etichetta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
         <source>Distance in mm between major ticks</source>
-        <translation>Distanza in mm tra tick principali</translation>
+        <translation type="unfinished">Distanza in mm tra tick principali</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
         <source>Tick Spacing:</source>
-        <translation>Spaziatura dei Tick:</translation>
+        <translation type="unfinished">Spaziatura dei Tick:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
@@ -120,12 +120,12 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
         <source>Position the label along the line</source>
-        <translation>Posiziona l&apos;etichetta lungo la riga</translation>
+        <translation>Posiziona l&apos;etichetta lungo la linea</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
         <source>Max # of Ticks:</source>
-        <translation>Max. # di Tick:</translation>
+        <translation type="unfinished">Max. # di Tick:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
@@ -151,7 +151,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
         <source>Markups</source>
-        <translation>Markup</translation>
+        <translation type="unfinished">Markup</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
         <source>Scene Performance</source>
-        <translation>Prestazioni della Scena</translation>
+        <translation>Esecuzione della scena</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
@@ -350,17 +350,17 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation>Mostra le annotazioni DICOM dell&apos;immagine in background se l&apos;immagine in primo piano non è DICOM.</translation>
+        <translation>Mostra le annotazioni DICOM dell&apos;immagine sullo sfondo se l&apos;immagine in primo piano non è DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
         <source>Background DICOM annotations persistence</source>
-        <translation>Persistenza di annotazioni DICOM in background</translation>
+        <translation>Persistenza di annotazioni DICOM sullo sfondo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="260"/>
         <source>Color Scalar Bar</source>
-        <translation>Barra Colori</translation>
+        <translation>Barra colori</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="266"/>
@@ -380,7 +380,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="286"/>
         <source>Background</source>
-        <translation>Background</translation>
+        <translation>Sfondo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="296"/>
@@ -672,12 +672,12 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="109"/>
         <source>Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</source>
-        <translation type="unfinished">La proiezione del fiduciale viene visualizzata piena quando si trova sulla parte superiore del piano di taglio, tratteggiata quando è dietro, e totalmente opaca quando è nel piano</translation>
+        <translation type="unfinished">La proiezione del fiduciale viene visualizzata piena quando si trova sulla parte superiore del piano di taglio, contornata quando è dietro, e totalmente opaca quando è nel piano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
         <source>Outlined Behind Slice Plane</source>
-        <translation>Tratteggiata dietro il piano di taglio</translation>
+        <translation type="unfinished">Contornato dietro il piano di taglio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
@@ -803,7 +803,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="183"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="193"/>
         <source>Display the projected part of the ruler on the top of the slice plane thicker than the part under</source>
-        <translation>Mostra la parte proiettata del righello sulla parte superiore del piano di taglio più spessa della parte inferiore</translation>
+        <translation>Mostra la parte del righello proiettata sulla parte superiore del piano di taglio più spessa della parte inferiore</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
@@ -2403,7 +2403,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
         <source>Plot data series:</source>
-        <translation>Serie di dati dei grafici:</translation>
+        <translation>Tracciare serie di dati:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
