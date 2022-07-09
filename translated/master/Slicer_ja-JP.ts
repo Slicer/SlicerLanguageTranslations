@@ -12855,7 +12855,7 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
         <source>Configures display of corner annotations and color legend.</source>
-        <translation type="unfinished">Configures display of corner annotations and color legend.</translation>
+        <translation>コーナー注釈と色の凡例の表示を設定します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="182"/>
@@ -13619,8 +13619,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }.
 &lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;Warning: 本体のプロパティ変更は表示のみ変更で値変更はありません!&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
@@ -13746,107 +13745,107 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
         <source>Basic + intersection</source>
-        <translation type="unfinished">Basic + intersection</translation>
+        <translation>基本+交点</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished">Basic crosshair extending across the field of view.</translation>
+        <translation>視野を横切って伸びる基本的な十字線。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="104"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished">Small basic crosshair</translation>
+        <translation>小さな基本的な十字線</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Small crosshair with a small gap at the crosshair position.</translation>
+        <translation>十字線の位置に小さな隙間がある小さな十字線。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="109"/>
         <source>Small basic + intersection</source>
-        <translation type="unfinished">Small basic + intersection</translation>
+        <translation>小さな基本+交点</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished">Small crosshair.</translation>
+        <translation>小さな十字線。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="140"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished">Fine crosshair</translation>
+        <translation>細い十字線</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="141"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished">Fine crosshair.</translation>
+        <translation>細い十字線。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="145"/>
         <source>Medium crosshair</source>
-        <translation type="unfinished">Medium crosshair</translation>
+        <translation>中程度の十字線</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished">Medium crosshair.</translation>
+        <translation>中程度の十字線。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="150"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished">Thick crosshair</translation>
+        <translation>太い十字線</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
         <source>Thick crosshair.</source>
-        <translation type="unfinished">Thick crosshair.</translation>
+        <translation>太い十字線。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="171"/>
         <source>Slice intersections</source>
-        <translation type="unfinished">Slice intersections</translation>
+        <translation>スライスの交点</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="172"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>他のスライス平面が各スライス平面とどのように交差しているかを示す。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="179"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="180"/>
         <source>Show handles for slice interaction.</source>
-        <translation type="unfinished">Show handles for slice interaction.</translation>
+        <translation>スライス操作のハンドルを表示します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="189"/>
         <source>Translate</source>
-        <translation type="unfinished">Translate</translation>
+        <translation>平行移動</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="190"/>
         <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="unfinished">Control visibility of translation handles for slice intersection.</translation>
+        <translation>スライス交差の変換ハンドルの可視性を制御します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="196"/>
         <source>Rotate</source>
-        <translation type="unfinished">Rotate</translation>
+        <translation>回転</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="unfinished">Control visibility of rotation handles for slice intersection.</translation>
+        <translation>スライス交点の回転ハンドルの可視性を制御します。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="203"/>
         <source>Interaction options</source>
-        <translation type="unfinished">Interaction options</translation>
+        <translation>操作オプション</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="208"/>
@@ -13854,12 +13853,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="226"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="236"/>
         <source>Crosshair</source>
-        <translation type="unfinished">Crosshair</translation>
+        <translation>十字線</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="234"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="unfinished">Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</translation>
+        <translation>十字キーの表示/非表示を切り替えます。Shiftキーを押しながらビュー内でマウスを動かすと、十字の位置が設定されます。</translation>
     </message>
 </context>
 <context>
@@ -13867,172 +13866,172 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished">Volume Rendering</translation>
+        <translation>ボリュームレンダリング</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
         <source>Volume:</source>
-        <translation type="unfinished">Volume:</translation>
+        <translation>ボリューム:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="63"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished">vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
         <source>vtkMRMLDiffusionWeightedVolumeNode</source>
-        <translation type="unfinished">vtkMRMLDiffusionWeightedVolumeNode</translation>
+        <translation>vtkMRMLDiffusionWeightedVolumeNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
         <source>vtkMRMLDiffusionTensorVolumeNode</source>
-        <translation type="unfinished">vtkMRMLDiffusionTensorVolumeNode</translation>
+        <translation>vtkMRMLDiffusionTensorVolumeNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
         <source>vtkMRMLMultiVolumeNode</source>
-        <translation type="unfinished">vtkMRMLMultiVolumeNode</translation>
+        <translation>vtkMRMLMultiVolumeNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="88"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>入力</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="115"/>
         <source>ROI:</source>
-        <translation type="unfinished">ROI:</translation>
+        <translation>ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="122"/>
         <source>vtkMRMLMarkupsROINode</source>
-        <translation type="unfinished">vtkMRMLMarkupsROINode</translation>
+        <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="122"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation type="unfinished">vtkMRMLAnnotationROINode</translation>
+        <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="138"/>
         <source>Property:</source>
-        <translation type="unfinished">Property:</translation>
+        <translation>プロパティ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="145"/>
         <source>vtkMRMLVolumePropertyNode</source>
-        <translation type="unfinished">vtkMRMLVolumePropertyNode</translation>
+        <translation>vtkMRMLVolumePropertyNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="160"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>ビュー:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="173"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="200"/>
         <source>Crop:</source>
-        <translation type="unfinished">Crop:</translation>
+        <translation>切り取り:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="212"/>
         <source>Enable</source>
-        <translation type="unfinished">Enable</translation>
+        <translation>有効化</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="222"/>
         <source>Display ROI</source>
-        <translation type="unfinished">Display ROI</translation>
+        <translation>ROIの表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="243"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished">Fit to Volume</translation>
+        <translation>体積に合わせる</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="256"/>
         <source>Rendering:</source>
-        <translation type="unfinished">Rendering:</translation>
+        <translation>レンダリング:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="276"/>
         <source>Advanced...</source>
-        <translation type="unfinished">Advanced...</translation>
+        <translation>詳細...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="304"/>
         <source>Techniques</source>
-        <translation type="unfinished">Techniques</translation>
+        <translation>テクニック</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="310"/>
         <source>GPU memory size:</source>
-        <translation type="unfinished">GPU memory size:</translation>
+        <translation>GPUメモリサイズ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="317"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
-        <translation type="unfinished">Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</translation>
+        <translation>グラフィックカードでボリュームレンダリングに割り当てるメモリ量。 デフォルトは設定で変更可能。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="327"/>
         <source>Quality:</source>
-        <translation type="unfinished">Quality:</translation>
+        <translation>品質:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="341"/>
         <source>Interactive speed:</source>
-        <translation type="unfinished">Interactive speed:</translation>
+        <translation>操作速度:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="360"/>
         <source> fps</source>
-        <translation type="unfinished"> fps</translation>
+        <translation> fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="367"/>
         <source>Advanced rendering properties</source>
-        <translation type="unfinished">Advanced rendering properties</translation>
+        <translation>高度なレンダリングプロパティ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="398"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished">Auto-release resources:</translation>
+        <translation>リソースの自動解放:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="405"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation type="unfinished">Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</translation>
+        <translation>非表示時にグラフィックメモリからボリュームを即座にアンロードします。メモリ使用量は減りますが、ボリュームの可視性を切り替えるのが遅くなります。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="416"/>
         <source>Volume properties</source>
-        <translation type="unfinished">Volume properties</translation>
+        <translation>ボリュームのプロパティ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="445"/>
         <source>Synchronize with Volumes module</source>
-        <translation type="unfinished">Synchronize with Volumes module</translation>
+        <translation>Volumesモジュールと同期させる</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="458"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-        <translation type="unfinished">Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</translation>
+        <translation>閾値は使用しないでください。代わりに Window/Level の範囲から不透明度カーブを設定します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="461"/>
         <source>Ignore threshold</source>
-        <translation type="unfinished">Ignore threshold</translation>
+        <translation>しきい値を無視</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="488"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
 </context>
 <context>
@@ -14040,28 +14039,28 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="14"/>
         <source>Volume Rendering Presets</source>
-        <translation type="unfinished">Volume Rendering Presets</translation>
+        <translation>ボリュームレンダリングプリセット</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
         <source>Preset:</source>
-        <translation type="unfinished">Preset:</translation>
+        <translation>プリセット:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="55"/>
         <source>Shift transfer functions</source>
-        <translation type="unfinished">Shift transfer functions</translation>
+        <translation>シフト伝達関数</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="48"/>
         <source>Shift:</source>
-        <translation type="unfinished">Shift:</translation>
+        <translation>シフト:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="73"/>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -14069,67 +14068,67 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="14"/>
         <source>Volume Rendering Settings</source>
-        <translation type="unfinished">Volume Rendering Settings</translation>
+        <translation type="unfinished">ボリュームレンダリング設定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="23"/>
         <source>Default rendering method:</source>
-        <translation type="unfinished">Default rendering method:</translation>
+        <translation>デフォルトのレンダリング方法:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="30"/>
         <source>Default rendering method</source>
-        <translation type="unfinished">Default rendering method</translation>
+        <translation>デフォルトのレンダリング方法</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="37"/>
         <source>Default quality:</source>
-        <translation type="unfinished">Default quality:</translation>
+        <translation>デフォルトの品質:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="44"/>
         <source>GPU memory size:</source>
-        <translation type="unfinished">GPU memory size:</translation>
+        <translation>GPUメモリサイズ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="51"/>
         <source>Amount of memory allocated for volume rendering on the graphic card</source>
-        <translation type="unfinished">Amount of memory allocated for volume rendering on the graphic card</translation>
+        <translation>グラフィックカードでボリュームレンダリングに割り当てられたメモリ量</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
         <source>Quality control method to def</source>
-        <translation type="unfinished">Quality control method to def</translation>
+        <translation>品質管理方法</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="68"/>
         <source>Default interactive speed:</source>
-        <translation type="unfinished">Default interactive speed:</translation>
+        <translation>デフォルトの操作速度:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
         <source> fps</source>
-        <translation type="unfinished"> fps</translation>
+        <translation> fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="94"/>
         <source>Default surface smoothing:</source>
-        <translation type="unfinished">Default surface smoothing:</translation>
+        <translation>デフォルトのサーフェススムージング:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="101"/>
         <source>Reduce wood grain artifact to make surfaces appear smoother.</source>
-        <translation type="unfinished">Reduce wood grain artifact to make surfaces appear smoother.</translation>
+        <translation>木目調のアーチファクトを減らして、表面をより滑らかに見せます。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="111"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished">Auto-release resources:</translation>
+        <translation>リソースの自動解放:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation type="unfinished">Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</translation>
+        <translation>非表示時にグラフィックメモリからボリュームを即座にアンロードします。メモリ使用量は減りますが、ボリュームの可視性を切り替えるのが遅くなります。</translation>
     </message>
 </context>
 <context>
@@ -14137,62 +14136,62 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished">Volume Options</translation>
+        <translation>ボリュームオプション</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="33"/>
         <source>LabelMap</source>
-        <translation type="unfinished">LabelMap</translation>
+        <translation>ラベルマップ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="36"/>
         <source>Load the volume as a labelmap (each voxel value representing a segmented structure).</source>
-        <translation type="unfinished">Load the volume as a labelmap (each voxel value representing a segmented structure).</translation>
+        <translation>ボリュームをラベルマップ（各ボクセル値がセグメント構造を表す）として読み込む。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="43"/>
         <source>Single File</source>
-        <translation type="unfinished">Single File</translation>
+        <translation>シングルファイル</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="46"/>
         <source>Only load the selected file. The application will not attempt to look for similar files that can make up the complete volume.</source>
-        <translation type="unfinished">Only load the selected file. The application will not attempt to look for similar files that can make up the complete volume.</translation>
+        <translation>選択したファイルのみを読み込みます。アプリケーションは、完全なボリュームを構成することができる類似のファイルを探そうとはしません。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="53"/>
         <source>Centered</source>
-        <translation type="unfinished">Centered</translation>
+        <translation>中央揃え</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="56"/>
         <source>Ignore image position information that is specified in the image header.</source>
-        <translation type="unfinished">Ignore image position information that is specified in the image header.</translation>
+        <translation>画像ヘッダで指定された画像位置情報を無視する。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="63"/>
         <source>Ignore Orientation</source>
-        <translation type="unfinished">Ignore Orientation</translation>
+        <translation>向きを無視する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="66"/>
         <source>Ignore axis orientation information that is specified in the image header.</source>
-        <translation type="unfinished">Ignore axis orientation information that is specified in the image header.</translation>
+        <translation>画像ヘッダで指定された軸方向情報を無視する。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="73"/>
         <source>Show</source>
-        <translation type="unfinished">Show</translation>
+        <translation>表示</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="76"/>
         <source>Show volume in slice viewers after loading is completed.</source>
-        <translation type="unfinished">Show volume in slice viewers after loading is completed.</translation>
+        <translation>読み込み完了後にスライスビューアにボリュームを表示します。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="95"/>
         <source>Color table node used to display this volume.</source>
-        <translation type="unfinished">Color table node used to display this volume.</translation>
+        <translation>このボリュームを表示するために使用されるカラーテーブルノード。</translation>
     </message>
 </context>
 <context>
@@ -14200,22 +14199,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
-        <translation type="unfinished">Volumes</translation>
+        <translation>ボリューム</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source>Active Volume: </source>
-        <translation type="unfinished">Active Volume: </translation>
+        <translation>アクティブ・ボリューム: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="48"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished">vtkMRMLVolumeNode</translation>
+        <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
         <source>Volume Information</source>
-        <translation type="unfinished">Volume Information</translation>
+        <translation>ボリューム情報</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
