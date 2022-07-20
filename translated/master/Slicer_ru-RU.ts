@@ -6487,26 +6487,26 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="388"/>
         <source>Text</source>
-        <translation type="unfinished">Text</translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="404"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="615"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="776"/>
         <source>Unselected Color</source>
-        <translation type="unfinished">Unselected Color</translation>
+        <translation>Невыбранный цвет</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="411"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="628"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="783"/>
         <source>Selected Color</source>
-        <translation type="unfinished">Selected Color</translation>
+        <translation>Выбранный цвет</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="426"/>
         <source>Text Scale:</source>
-        <translation type="unfinished">Text Scale:</translation>
+        <translation>Масштаб текста:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="442"/>
@@ -6518,12 +6518,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="455"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Видимость:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="488"/>
         <source>Turn on/off visualization of text (when off, overrides ruler label visibility)</source>
-        <translation type="unfinished">Turn on/off visualization of text (when off, overrides ruler label visibility)</translation>
+        <translation>Включить/выключить визуализацию текста (когда она отключена, переопределяет видимость меток на линейке)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="521"/>
@@ -6554,7 +6554,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="651"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="826"/>
         <source>Ambient:</source>
-        <translation type="unfinished">Ambient:</translation>
+        <translation>Окружение:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="658"/>
@@ -6576,7 +6576,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="770"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Линии</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="792"/>
@@ -6682,7 +6682,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="57"/>
         <source>Select node type: </source>
-        <translation type="unfinished">Select node type: </translation>
+        <translation>Выбрать тип узла: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="82"/>
@@ -6697,7 +6697,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="145"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Редактировать</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="169"/>
@@ -6785,7 +6785,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Interface Documentation</source>
-        <translation type="unfinished">Interface Documentation</translation>
+        <translation>Документация интерфейса</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
@@ -6796,7 +6796,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
         <source>Browse tutorials</source>
-        <translation type="unfinished">Browse tutorials</translation>
+        <translation>Просмотреть руководства</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="88"/>
@@ -6821,17 +6821,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="101"/>
         <source>Report a bug</source>
-        <translation type="unfinished">Report a bug</translation>
+        <translation>Сообщить о программной ошибке</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
         <source>Report error or request enhancement or new feature.</source>
-        <translation type="unfinished">Report error or request enhancement or new feature.</translation>
+        <translation>Сообщить об ошике, или запросить улучшение или новую функцию</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="106"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished">About 3D Slicer</translation>
+        <translation>О 3D Slicer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
@@ -6844,17 +6844,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="275"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="278"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Модули</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="282"/>
         <source>Appearance</source>
-        <translation type="unfinished">Appearance</translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="286"/>
@@ -6864,17 +6864,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="290"/>
         <source>User</source>
-        <translation type="unfinished">User</translation>
+        <translation>Пользователь</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="294"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Расширения</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="298"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Кэш</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="303"/>
@@ -6884,18 +6884,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="309"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="314"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>Разработчик</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="417"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="453"/>
         <source>%1 has caught an application error, </source>
-        <translation type="unfinished">%1 has caught an application error, </translation>
+        <translation>%1 обнаружил ошибку приложения, </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="418"/>
@@ -6903,14 +6903,14 @@ p, li { white-space: pre-wrap; }
         <source>please save your work and restart.
 
 </source>
-        <translation type="unfinished">please save your work and restart.
+        <translation>пожалуйста, сохраните вашу работу и перезапустите приложение.
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="419"/>
         <source>The application has run out of memory. </source>
-        <translation type="unfinished">The application has run out of memory. </translation>
+        <translation>У приложения закончилась память. </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
@@ -6936,7 +6936,7 @@ p, li { white-space: pre-wrap; }
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing swap size in system settings or adding more RAM may fix this issue.
+        <translation>Увеличение размера файла или раздела подкачки в настройках системы или добавление ОЗУ может исправить эту проблему.
 
 </translation>
     </message>
@@ -6950,7 +6950,7 @@ p, li { white-space: pre-wrap; }
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing free disk space or adding more RAM may fix this issue.
+        <translation>Увеличение свободного места на диске или добавление ОЗУ может исправить эту проблему.
 
 </translation>
     </message>
@@ -6959,7 +6959,7 @@ p, li { white-space: pre-wrap; }
         <source>Adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Adding more RAM may fix this issue.
+        <translation>Добавление ОЗУ может исправить эту проблему.
 
 </translation>
     </message>
@@ -6976,7 +6976,7 @@ p, li { white-space: pre-wrap; }
 
 
 </source>
-        <translation type="unfinished">please report the issue following instructions available at http://slicer.org
+        <translation>пожалуйста, сообщите об ошибке следуя инструкциям на http://slicer.org
 
 
 </translation>
@@ -6987,7 +6987,7 @@ p, li { white-space: pre-wrap; }
         <source>The message detail is:
 
 </source>
-        <translation type="unfinished">The message detail is:
+        <translation>Детали сообщения:
 
 </translation>
     </message>
