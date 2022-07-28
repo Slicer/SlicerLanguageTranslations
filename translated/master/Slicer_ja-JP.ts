@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation>注釈のテクスト (vtkMRMLAnnotationTextNode1)</translation>
+        <translation>注釈のテキスト (vtkMRMLAnnotationTextNode1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
@@ -350,7 +350,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation>前面のボリュームがDICOMでない場合, 後面のボリュームのDICOMアノテーションを表示</translation>
+        <translation>前面のボリュームがDICOMでない場合, 後面のボリュームのDICOMアノテーションを表示.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
@@ -423,7 +423,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation>アルゴリズムへの入力を選択</translation>
+        <translation>アルゴリズムへの入力を選択.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="33"/>
@@ -465,7 +465,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation>反転された閾値による結果がこのボリュームに書き出されます.</translation>
+        <translation>反転された閾値による結果がこのボリュームに書き出されます</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
@@ -485,7 +485,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
         <source>Run the algorithm.</source>
-        <translation>アルゴリズムを実行</translation>
+        <translation>アルゴリズムを実行.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
@@ -593,7 +593,7 @@
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation>参照されたDICOMファイルがディスクになければ, すべての項目がDICOMデータベースから削除されます</translation>
+        <translation>参照されたDICOMファイルがディスクになければ, すべての項目がDICOMデータベースから削除されます.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
@@ -847,7 +847,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
         <source>Capture and name a scene view.</source>
-        <translation>シーンビューをキャプチャーし名前をつける</translation>
+        <translation>シーンビューをキャプチャーし名前をつける.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
@@ -857,7 +857,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
         <source>Restore or delete saved scene views.</source>
-        <translation>保存されたシーンビューをもとに戻すもしくは削除する</translation>
+        <translation>保存されたシーンビューをもとに戻すもしくは削除する.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
@@ -1043,7 +1043,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
         <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-        <translation>表示するラベルの数.  値が(色名ではなく)ラベル文字として使われた場合のみ適用可能</translation>
+        <translation>表示するラベルの数. 値が(色名ではなく)ラベル文字として使われた場合のみ適用可能.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -1212,7 +1212,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation>スライス交線  太さ</translation>
+        <translation>スライス交線 太さ:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
@@ -1709,7 +1709,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="90"/>
         <source>Outlined Behind Slice Plane:</source>
-        <translation>スライス面の背後ではアウトライン化</translation>
+        <translation>スライス面の背後ではアウトライン化:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="110"/>
@@ -1922,7 +1922,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="50"/>
         <source>This is a test label in a test widget!</source>
-        <translation>これはテストウィジェットのテストラベルです。</translation>
+        <translation>これはテストウィジェットのテストラベルです!</translation>
     </message>
 </context>
 <context>
@@ -2433,7 +2433,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
         <source>Enter a label for the X-axis.</source>
-        <translation>X 軸のラベルを入力してください</translation>
+        <translation>X 軸のラベルを入力してください.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
@@ -3127,12 +3127,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
         <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-        <translation>編集したラベルマップ表現のジオメトリ（グリッド原点、間隔、軸方向、デフォルト範囲）を指定する。</translation>
+        <translation>編集したラベルマップ表現のジオメトリ（グリッド原点、間隔、軸方向、デフォルト範囲）を指定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
         <source>Specify geometry of the edited labelmap representation</source>
-        <translation>編集したラベルマップ表現のジオメトリを指定する。</translation>
+        <translation>編集したラベルマップ表現のジオメトリを指定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
@@ -3524,7 +3524,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="451"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="470"/>
         <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-        <translation>他のセグメントとの相対的な値。最終的な不透明度は、セグメントごとの不透明度と全体の不透明度の両方に依存します（上図）。</translation>
+        <translation>他のセグメントとの相対的な値。最終的な不透明度は、セグメントごとの不透明度と全体の不透明度の両方に依存します（上図）</translation>
     </message>
 </context>
 <context>
@@ -3798,9 +3798,9 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <source>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
-        <translation>これがマスター表現です。
+        <translation>これがマスター表現です
   1. この表現はディスクに保存されます
-  2. この表現が変更されると、他の表現はクリアされます。</translation>
+  2. この表現が変更されると、他の表現はクリアされます</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="213"/>
@@ -4080,7 +4080,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
         <source>Lightbox view.</source>
-        <translation>ライトボックスビュー</translation>
+        <translation>ライトボックスビュー.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="535"/>
@@ -4201,12 +4201,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="847"/>
         <source>FOV matches 2D, Spacing matches Volumes</source>
-        <translation>FOV は 2D に一致し、間隔はボリュームに一致します。</translation>
+        <translation>FOV は 2D に一致し、間隔はボリュームに一致します</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="855"/>
         <source>FOV matches Volumes, Spacing matches 2D View</source>
-        <translation>FOV はボリュームに一致し、間隔は 2D ビューに一致します。</translation>
+        <translation>FOV はボリュームに一致し、間隔は 2D ビューに一致します</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="863"/>
@@ -4638,7 +4638,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
         <source>Reformat</source>
-        <translation>Reformat</translation>
+        <translation>再構成</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
@@ -4861,7 +4861,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="262"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation>このノードとすべての子ノードの現在のトランスフォームを保持します。</translation>
+        <translation>このノードとすべての子ノードの現在のトランスフォームを保持します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="267"/>
@@ -4871,7 +4871,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="275"/>
         <source>Remove parent transform from all the nodes in this branch</source>
-        <translation>このブランチのすべてのノードから親の変換を削除します。</translation>
+        <translation>このブランチのすべてのノードから親の変換を削除します</translation>
     </message>
 </context>
 <context>
@@ -5162,7 +5162,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="412"/>
         <source>Depth peeling is used to render transparent surface models in order</source>
-        <translation>デプスピーリングは、透明なサーフェスモデルをレンダリングするために使用されます。</translation>
+        <translation>デプスピーリングは、透明なサーフェスモデルをレンダリングするために使用されます</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
@@ -5418,7 +5418,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="159"/>
         <source>Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation>3Dウィジェットを操作してスケーリングできるようにする（shift + 左クリックでウィジェット面の中心でハンドルをドラッグ、または左クリックで中心でハンドルをドラッグ）。</translation>
+        <translation>3Dウィジェットを操作してスケーリングできるようにする（shift + 左クリックでウィジェット面の中心でハンドルをドラッグ、または左クリックで中心でハンドルをドラッグ）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="172"/>
@@ -5591,7 +5591,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="611"/>
         <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-        <translation>変位の大きさがこの範囲にあるグリフのみ表示されます。</translation>
+        <translation>変位の大きさがこの範囲にあるグリフのみ表示されます</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="636"/>
@@ -5686,7 +5686,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="840"/>
         <source>Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</source>
-        <translation>グリフの解像度を調整する（値が高いほど滑らかな曲線が生成されるが、視覚化が遅くなる可能性がある）。</translation>
+        <translation>グリフの解像度を調整する（値が高いほど滑らかな曲線が生成されるが、視覚化が遅くなる可能性がある）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="843"/>
@@ -5952,10 +5952,10 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; アプリケーションでは単位の値の前に単位のプレフィックスが表示されるようになります。例えば、単位の前に &amp;quot;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&amp;quot; が使われることもありえます。&lt;/span&gt;&lt;/p&gt;</translation>
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;単位のプレフィックスを設定.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;アプリケーションでは単位の値の前に単位のプレフィックスが表示されるようになります。例えば、単位の前に &amp;quot;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&amp;quot; が使われることもありえます。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"/>
@@ -5971,9 +5971,9 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; ユニットのサフィックスを設定することが可能です。例えば、単位のサフィックスを &lt;/span&gt;&lt;span style=&quot;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot;&quot;&gt;/span&amp;gt;&lt;span style=&quot;&quot;&gt; は、おそらく &lt;/span&gt;&lt;span style=&quot;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;&quot;&gt; とすべきなのです。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;ユニットのサフィックスを設定することが可能です。例えば、単位のサフィックスを &lt;/span&gt;&lt;span style=&quot;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot;&quot;&gt; は、おそらく &lt;/span&gt;&lt;span style=&quot;&quot;&gt;m とすべきです。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
@@ -5990,10 +5990,10 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; 単位の最大値設定 &lt;/span&gt; &lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;例えば, 速度(m/s) &lt;/span&gt;&lt;span style=&quot;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot;&quot;&gt;) はおそらく最大 3e6 にすべきです。 &lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; 単位の最大値設定 &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;例えば, 速度(m/s) はおそらく最大 3e6 にすべきです。 &lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="131"/>
@@ -6011,9 +6011,9 @@ p, li { white-space: pre-wrap; }
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;単位の精密さを設定.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; GUIで現在の単位の入力桁数として使用されます。例えば、 &lt;/span&gt;&lt;span style=&quot;&quot;&gt;精密さ&lt;/span&gt;&lt;span style=&quot;&quot;&gt; が 3 の場合、 1.0123 は 1.112 と丸めて表示されることになります。&lt;/span&gt;&lt;/p&gt;</translation>
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;GUIで現在の単位の入力桁数として使用されます。例えば、 &lt;/span&gt;&lt;span style=&quot;&quot;&gt;精密さ&lt;/span&gt;&lt;span style=&quot;&quot;&gt; が 3 の場合、 1.0123 は 1.112 と丸めて表示されることになります。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="159"/>
@@ -6031,9 +6031,9 @@ p, li { white-space: pre-wrap; }
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt; 単位に設定しうる最小値を設定します&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt; たとえば、温度単位（単位は &lt;span style=&quot;&quot;&gt;Kelvin&lt;/span&gt; ）にはおそらく0を最小値とすべきと思われます。&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;単位に設定しうる最小値を設定します&lt;/p&gt;
+&lt;p style=&quot;&quot;&gt;たとえば、温度単位（単位は &lt;span style=&quot;&quot;&gt;ケルビン&lt;/span&gt; ）にはおそらく0を最小値とすべきと思われます。&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="190"/>
@@ -6388,7 +6388,7 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="210"/>
         <source>Change the annotation size to medium by setting the scale on all components of the annotation (text, point, line) to three quarters of the large scale</source>
-        <translation>注釈のすべてのコンポーネント (テキスト、ポイント、線) のスケールをラージの 4 分の 3 に設定して、アノテーションのサイズを ミディアムに変更します。</translation>
+        <translation>注釈のすべてのコンポーネント (テキスト、ポイント、線) のスケールをラージの 4 分の 3 に設定して、アノテーションのサイズを ミディアムに変更します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="213"/>
@@ -6463,7 +6463,7 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
         <source>Apply glyph type to all annotations in this hierarchy</source>
-        <translation>この階層内のすべてのアノテーションにグリフタイプを適用します。</translation>
+        <translation>この階層内のすべてのアノテーションにグリフタイプを適用します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="332"/>
@@ -6633,7 +6633,7 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Modules/Loadable/Annotations/GUI/qSlicerAnnotationModulePropertyDialog.cxx" line="123"/>
         <source>Set unselected color of whole annotation (points, text, lines), use advanced pane to set individual colors</source>
-        <translation>注釈全体（ポイント、テキスト、ライン）の非選択色を設定し、詳細ペインで個々の色を設定する。</translation>
+        <translation>注釈全体（ポイント、テキスト、ライン）の非選択色を設定し、詳細ペインで個々の色を設定する</translation>
     </message>
 </context>
 <context>
@@ -7171,7 +7171,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation>Technique:</translation>
+        <translation>テクニック:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="39"/>
@@ -7184,12 +7184,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>3Dビューとカメラの管理&lt;br&gt;下のビュープルダウンメニューを使用して、新しいビューを作成したり、アクティブなビューを選択したりすることができます。ツールバーのレイアウトアイコンから、レイアウトを「Tabbed 3D Layout」に切り替えると、複数のビューにアクセスできます。Tabbed 3D Layout&quot;で選択したビューがアクティブビューとなり、他のすべてのレイアウトで3Dビューに置き換わります。下のカメラプルダウンメニューを使用して、選択したビューのアクティブカメラを設定することができます。</translation>
+        <translation>3Dビューとカメラの管理&lt;br&gt;下のビュープルダウンメニューを使用して、新しいビューを作成したり、アクティブなビューを選択したりすることができます。ツールバーのレイアウトアイコンから、レイアウトを「Tabbed 3D Layout」に切り替えると、複数のビューにアクセスできます。Tabbed 3D Layout&quot;で選択したビューがアクティブビューとなり、他のすべてのレイアウトで3Dビューに置き換わります。下のカメラプルダウンメニューを使用して、選択したビューのアクティブカメラを設定することができます。&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation>&lt;center&gt;&lt;img src=&quot;:Logos/NAC.png&quot;&gt;&lt;table border=&quot;0&quot;&gt;&amp;lt;tbody&amp;gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.PNG;&amp;lt;/tr&gt;&amp;lt;/tr&gt;;&amp;lt;/lt;tr&gt;&amp;lt;td&gt;&amp;lt;img src&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&amp;lt;/tbody&amp;gt;&lt;/table&gt;&lt;/center&gt; NA-MIC, NAC, BIRN, NCIGT, the Slicer Communityによってサポートされています。</translation>
+        <translation>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&amp;lt;tbody&amp;gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&amp;lt;/tbody&amp;gt;&lt;/table&gt;&lt;/center&gt; NA-MIC, NAC, BIRN, NCIGT, the Slicer Communityによってサポートされています.</translation>
     </message>
 </context>
 <context>
@@ -7634,7 +7634,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="153"/>
         <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation>補間が無効で、入力ボリュームが非線形transform中です.</translation>
+        <translation>補間が無効で、入力ボリュームが非線形transform中です</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
@@ -7921,7 +7921,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation>ノードをフィルタリングするための大文字小文字を区別する文字列で、すべてのカラムを使用します（たとえ非表示であっても）。</translation>
+        <translation>ノードをフィルタリングするための大文字小文字を区別する文字列で、すべてのカラムを使用します（たとえ非表示であっても）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
@@ -8058,7 +8058,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;span style=&quot;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicerフォーラムに新しいトピックを投稿してください&lt;/span&gt;&lt;/a&gt; あなたの問題について教えてくださいまたはバグレポートを &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;3D Slicer バグトラッカー&lt;/span&gt;&lt;/a&gt; までお願いします。エラーに至った手順を記述し、ログメッセージも添付してください。 &lt;p&gt;&lt;/p&gt;&lt;span style=&quot;&quot;&gt;注意ー患者データを使用している場合:&lt;/span&gt; ログメッセージに患者を特定できるような情報が含まれていないことを確認してください。ログメッセージは、メーリングリストやウェブサイトで公開するのではなく、特定の人に送信してください。</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;質問と機能追加要望:&lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;を訪れてください.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;バグレポート: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicerフォーラムに新しいトピックを投稿して&lt;/span&gt;&lt;/a&gt; あなたの問題についてまたはバグレポートを &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;3D Slicer バグトラッカー&lt;/span&gt;&lt;/a&gt; までお願いします。エラーに至った手順を記述し、ログメッセージも添付してください。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;注意ー患者データを使用している場合:&lt;/span&gt; ログメッセージに患者を特定できるような情報が含まれていないことを確認してください。ログメッセージは、メーリングリストやウェブサイトで公開するのではなく、特定の人に送信してください。&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -8186,7 +8186,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="348"/>
         <source>Cannot write data file: %1.</source>
-        <translation>データファイルを書き込めません：%1</translation>
+        <translation>データファイルを書き込めません: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="371"/>
@@ -8285,7 +8285,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="529"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation>拡張機能設定ファイル %1 を開くことができませんでした。</translation>
+        <translation>拡張機能設定ファイル %1 を開くことができませんでした</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="567"/>
@@ -8325,12 +8325,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="853"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
-        <translation>extensionArch [%1]がslicerArch [%2] と異なります。</translation>
+        <translation>extensionArch [%1]がslicerArch [%2] と異なります</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="858"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
-        <translation>extensionOs [%1] が slicerOs [%2] と異なります。</translation>
+        <translation>extensionOs [%1] が slicerOs [%2] と異なります</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2714"/>
@@ -8407,7 +8407,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="295"/>
         <source>%1 compatible extension(s) from a previous Slicer installation found. Do you want to install? (For details see: Extensions Manager &gt; Restore Extensions)</source>
-        <translation>以前のスライサー インストールの %1 互換拡張機能が見つかりました。インストールしますか?(詳細については、「拡張機能マネージャー」&amp;gt;「拡張機能の復元」を参照してください)。</translation>
+        <translation>以前のスライサー インストールの %1 互換拡張機能が見つかりました。インストールしますか?(詳細については、「拡張機能マネージャー」&amp;gt;「拡張機能の復元」を参照してください)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="358"/>
@@ -8417,17 +8417,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="364"/>
         <source>was used in previously installed Slicer version (%1)</source>
-        <translation>は、以前インストールされた Slicer のバージョン (%1) で使用されました。</translation>
+        <translation>は、以前インストールされた Slicer のバージョン (%1) で使用されました</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="368"/>
         <source>was last used in Slicer version %1</source>
-        <translation>はスライサーのバージョン %1 で最後に使用されました。</translation>
+        <translation>はスライサーのバージョン %1 で最後に使用されました</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="373"/>
         <source>not found for current Slicer version (was last used in Slicer version %1)</source>
-        <translation>現在の Slicer のバージョンで見つかりません (最後に使用されたのは Slicer のバージョン %1 です)。</translation>
+        <translation>現在の Slicer のバージョンで見つかりません (最後に使用されたのは Slicer のバージョン %1 です)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="451"/>
@@ -8552,7 +8552,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation>レイキャスティングにランダムなノイズを適用して木目調のアーチファクトを除去するオプション。</translation>
+        <translation>レイキャスティングにランダムなノイズを適用して木目調のアーチファクトを除去するオプション</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
@@ -8930,7 +8930,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="508"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation>利用可能な拡張機能に関するステータスと情報を提供する「拡張機能マネージャー」ウィザードを起動します。</translation>
+        <translation>利用可能な拡張機能に関するステータスと情報を提供する「拡張機能マネージャー」ウィザードを起動します</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
@@ -9322,7 +9322,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1153"/>
         <source>Four-up slice and 3D view with an additional table and plot</source>
-        <translation>4アップのスライスと3Dビューに、テーブルとプロットを追加。</translation>
+        <translation>4アップのスライスと3Dビューに、テーブルとプロットを追加</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1158"/>
@@ -9457,7 +9457,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation>現在の表示プロパティ設定をデフォルトに保存し、スライサー再起動時に保存されます（アプリケーション設定を参照）。</translation>
+        <translation>現在の表示プロパティ設定をデフォルトに保存し、スライサー再起動時に保存されます（アプリケーション設定を参照）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
@@ -9487,7 +9487,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation>スライス, 3Dビューでのすべての操作を有効化/無効化</translation>
+        <translation>スライス, 3Dビューでのすべての操作を有効化/無効化.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
@@ -9557,7 +9557,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation>アクティブリストからハイライトされたコントロールポイントを削除します。</translation>
+        <translation>アクティブリストからハイライトされたコントロールポイントを削除します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
@@ -10135,7 +10135,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation>すべてのモデルの表示をオンにします (階層は含まれません)。</translation>
+        <translation>すべてのモデルの表示をオンにします (階層は含まれません)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="113"/>
@@ -10526,7 +10526,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="108"/>
         <source>Display &amp;&amp; Edit</source>
-        <translation>表示&amp;amp;&amp;amp;編集</translation>
+        <translation>表示 &amp;amp;&amp;amp; 編集</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
@@ -10602,7 +10602,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="382"/>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
         <source>Reformat</source>
-        <translation>Reformat</translation>
+        <translation>再構成</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="390"/>
@@ -10715,7 +10715,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;  &amp;lt;body&amp;gt; &lt;p&gt; &lt;span style=&quot;&quot;&gt;保存中にエラーまたは警告が発生しました。詳細については、ステータスアイコンを参照してください。  &amp;lt;/ body&amp;gt; &amp;lt;/ html&amp;gt;&lt;/span&gt;&lt;/p&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;保存中にエラーまたは警告が発生しました。詳細については、ステータスアイコンを参照してください。 &lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1437"/>
@@ -10905,13 +10905,13 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="99"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="175"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation>シーンを %1 として保存できませんでした (パス %2 は書き込み可能ではありません)。</translation>
+        <translation>シーンを %1 として保存できませんでした (パス %2 は書き込み可能ではありません)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="147"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="192"/>
         <source>Failed to save scene as %1</source>
-        <translation>シーンを %1 として保存することに失敗しました。</translation>
+        <translation>シーンを %1 として保存することに失敗しました</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="228"/>
@@ -11018,7 +11018,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation>どのセグメントに含まれているかに基づいてセグメントの不透明度を自動的に設定し、どのセグメントも別のセグメントを覆い隠さないようにします。</translation>
+        <translation>どのセグメントに含まれているかに基づいてセグメントの不透明度を自動的に設定し、どのセグメントも別のセグメントを覆い隠さないようにします</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
@@ -11122,7 +11122,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="301"/>
         <source>Move from current segmentation to other Segmentation node</source>
-        <translation>現在のセグメンテーションから他のセグメンテーションノードに移動する。</translation>
+        <translation>現在のセグメンテーションから他のセグメンテーションノードに移動する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="304"/>
@@ -11142,7 +11142,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="357"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation>他のノードから現在のセグメンテーションにコピーする（コピーはセグメンテーションノード、インポート/エクスポートはモデルまたはラベルマップノード）。</translation>
+        <translation>他のノードから現在のセグメンテーションにコピーする（コピーはセグメンテーションノード、インポート/エクスポートはモデルまたはラベルマップノード）</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="360"/>
@@ -11152,7 +11152,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="385"/>
         <source>Move to current segmentation from other Segmentation node</source>
-        <translation>他のセグメンテーションノードから現在のセグメンテーションに移動する。</translation>
+        <translation>他のセグメンテーションノードから現在のセグメンテーションに移動する</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="388"/>
@@ -11238,7 +11238,7 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="609"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="619"/>
         <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
-        <translation>エクスポートされたラベルマップのジオメトリは、このボリュームのジオメトリと一致します。</translation>
+        <translation>エクスポートされたラベルマップのジオメトリは、このボリュームのジオメトリと一致します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="612"/>
@@ -11263,7 +11263,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="673"/>
         <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
-        <translation>インポートされたラベルマップのラベルは、このコンテキストの用語集エントリーにマッピングされます。</translation>
+        <translation>インポートされたラベルマップのラベルは、このコンテキストの用語集エントリーにマッピングされます</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="679"/>
@@ -11372,7 +11372,7 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="30"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="56"/>
         <source>Automatically set opacities of the segments when loading from file based on which contains which, so that no segment obscures another</source>
-        <translation>ファイルから読み込む際に、どのセグメントを含んでいるかによって、自動的にセグメントの不透明度を設定するため、どのセグメントも他のセグメントを隠してしまうことはありません。</translation>
+        <translation>ファイルから読み込む際に、どのセグメントを含んでいるかによって、自動的にセグメントの不透明度を設定するため、どのセグメントも他のセグメントを隠してしまうことはありません</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
@@ -11503,7 +11503,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="187"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;録画 - 録画中にプロキシノードの変更をシーケンスノードに保存する.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;。</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;録画 - 録画中にプロキシノードの変更をシーケンスノードに保存する.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
@@ -11677,7 +11677,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="621"/>
         <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation>有効な場合、選択されたノードがシーケンス項目に追加された後、選択項目は次の項目に移動します。</translation>
+        <translation>有効な場合、選択されたノードがシーケンス項目に追加された後、選択項目は次の項目に移動します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="624"/>
@@ -11702,7 +11702,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1335"/>
         <source>Overwrite the associated node&apos;s name during playback</source>
-        <translation>再生時に関連するノードの名前を上書きする。</translation>
+        <translation>再生時に関連するノードの名前を上書きする</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1339"/>
@@ -11781,7 +11781,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
         <source>Control whether a file must be downloaded even if it is already in the cache</source>
-        <translation>すでにキャッシュにあるファイルでもダウンロードするかどうかを制御します。</translation>
+        <translation>すでにキャッシュにあるファイルでもダウンロードするかどうかを制御します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
@@ -11829,7 +11829,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
         <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-        <translation>開発者モードでアプリケーションを実行：テストモジュールがモジュールリストに表示され、スクリプトモジュールのユーザーインターフェースにReload&amp;amp;Testセクションが表示され、CLIモジュールの入力と出力ファイルがモジュール実行後に削除されません。</translation>
+        <translation>開発者モードでアプリケーションを実行：テストモジュールがモジュールリストに表示され、スクリプトモジュールのユーザーインターフェースにReload&amp;amp;Testセクションが表示され、CLIモジュールの入力と出力ファイルがモジュール実行後に削除されません</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
@@ -12024,7 +12024,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation>一時的に無効化するには、コマンドラインで --disable-loadable-modules を指定します。</translation>
+        <translation>一時的に無効化するには、コマンドラインで --disable-loadable-modules を指定します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
@@ -12035,7 +12035,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation>一時的に無効にするには、コマンドラインで --disable-cli-modules を渡します。</translation>
+        <translation>一時的に無効にするには、コマンドラインで --disable-cli-modules を渡します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
@@ -12062,7 +12062,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation>一時的に無効化するには、コマンドラインで --disable-builtin-loadable-modules を指定します。</translation>
+        <translation>一時的に無効化するには、コマンドラインで --disable-builtin-loadable-modules を指定します</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
@@ -12087,7 +12087,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;  &amp;lt;body&amp;gt; &lt;p&gt;追加のモジュールパス： &lt;/p&gt;&lt;p&gt; &amp;lt;spanstyle = &quot;font-style：italic;&quot;&amp;gt;（ドラッグアンドドロップ&lt;br&gt;ファイルまたはフォルダー）  &amp;lt;/ body&amp;gt; &amp;lt;/ html&amp;gt;&lt;/p&gt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;追加のモジュールパス： &lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;（ファイルまたはフォルダーをドラッグアンドドロップ）&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="279"/>
@@ -12108,7 +12108,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="334"/>
         <source>when checking/unchecking a module, its dependencies are checked/unchecked accordingly</source>
-        <translation>モジュールのチェック/チェックを外すと、それに応じて依存関係もチェック/チェックを外されます。</translation>
+        <translation>モジュールのチェック/チェックを外すと、それに応じて依存関係もチェック/チェックを外されます</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="337"/>
@@ -12183,7 +12183,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="675"/>
         <source>Favorite Modules:&lt;br&gt;&lt;small&gt;&lt;i&gt;Drag &amp;amp; drop from &lt;/i&gt;Modules&lt;i&gt; list&lt;/i&gt;&lt;/small&gt;</source>
-        <translation>お気に入りモジュール：&lt;br&gt;&lt;small&gt;モジュール&lt;i&gt;一覧からドラッグ&amp;amp;ドロップ&lt;/i&gt;&lt;/small&gt;。</translation>
+        <translation>お気に入りモジュール：&lt;br&gt;&lt;small&gt;モジュール&lt;i&gt;一覧からドラッグ&amp;amp;ドロップ&lt;/i&gt;&lt;/small&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="752"/>
@@ -12283,10 +12283,10 @@ p, li { white-space: pre-wrap; }
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグイン パスの追加.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグイン パスを付加するとアプリケーションからこのスタイルプラグイン（およびそのすべてのスタイル）にアクセス可能になるようにします。このアクションは、&lt;/span&gt; &lt;span style=&quot;&quot;&gt;アプリケーションを再起動する必要があります.&lt;/span&gt;&lt;span style=&quot;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグイン パスを付加するとアプリケーションからこのスタイルプラグイン（およびそのすべてのスタイル）にアクセス可能になるようにします。このアクションは、&lt;/span&gt;&lt;span style=&quot;&quot;&gt;アプリケーションを再起動する必要があります.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
@@ -12302,12 +12302,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;現在選択されているスタイルプラグインパスを削除する.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグインパスを削除すると、次にアプリケーションを開いたときにこのスタイル プラグイン（そしてそのスタイルすべて）にアクセスできなくなるように設定します。この操作には、アプリケーションを再起動する必要があります。&lt;/span&gt;&lt;/p&gt;</translation>
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;スタイルプラグインパスを削除すると、次にアプリケーションを開いたときにこのスタイル プラグイン（そしてそのスタイルすべて）にアクセスできなくなるように設定します。この操作には、&lt;/span&gt;&lt;span style=&quot;&quot;&gt;アプリケーションを再起動する必要があります。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
@@ -12323,9 +12324,9 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; 追加のスタイルパスを追加/削除するインターフェースを表示しています。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;追加のスタイルパスを追加/削除するインターフェースを表示しています。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
@@ -12341,8 +12342,8 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;アプリケーションの現在のスタイルを選択.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
@@ -12357,9 +12358,10 @@ p, li { white-space: pre-wrap; }.
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; ウィジェットの上にマウスを置いた時に、ツールチップ（このようなもの）を表示するかしないか設定します。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
@@ -12376,8 +12378,8 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;アプリケーションのフォントとサイズをお好みに合わせてカスタマイズしてください。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
@@ -12394,8 +12396,8 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;無効 の時はメインウィンドウにアイコンだけ表示されるようになります。それ以外の場合は、アクションに対応するテキストが下に表示されます。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
@@ -12412,8 +12414,8 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt; 有効化される, 次にアプリケーションを起動するときにサイズと位置が記憶されるようになります。&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
@@ -12604,8 +12606,8 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>
 &amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
 &lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;フルスクリーンアンチエイリアシングに マルチサンプリングを使う&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
 </context>
@@ -12664,7 +12666,7 @@ p, li { white-space: pre-wrap; }.
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
-        <translation>他のボリュームを右クリックして、2つ目のボリュームを選択し、レジストレーションを開始します。</translation>
+        <translation>他のボリュームを右クリックして、2つ目のボリュームを選択し、レジストレーションを開始します</translation>
     </message>
 </context>
 <context>
@@ -13507,7 +13509,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
         <source>Apply the active transform to the selected transformable nodes</source>
-        <translation>選択されたトランスフォーム可能なノードにアクティブなトランスフォームを適用します。</translation>
+        <translation>選択されたトランスフォーム可能なノードにアクティブなトランスフォームを適用します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
@@ -13517,7 +13519,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
         <source>Remove the active transform from the selected transformed nodes</source>
-        <translation>選択されたトランスフォームされたノードからアクティブなトランスフォームを削除します。</translation>
+        <translation>選択されたトランスフォームされたノードからアクティブなトランスフォームを削除します</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
@@ -13619,10 +13621,11 @@ Do you wish to update the stored context file with the just loaded one?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }.
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;Warning: 本体のプロパティ変更は表示のみ変更で値変更はありません!&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>
+&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
+&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;注意: &lt;/span&gt;本体のプロパティ変更は表示のみ変更で値変更はありません!&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
@@ -14379,7 +14382,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="249"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation>ドキュメント &amp;amp;&amp;amp; チュートリアル</translation>
+        <translation>ドキュメント &amp;amp;&amp;amp;チュートリアル</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="286"/>
