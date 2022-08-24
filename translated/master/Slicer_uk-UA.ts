@@ -3557,7 +3557,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="106"/>
         <source>Output model XYZ axes are mapped to LPS (left-posterior-superior) or RAS (right-anterior-superior) patient axis directions. LPS is used more commonly.</source>
-        <translation>Виведена модель XYZ відображена в LPS (ліва поза винятковою стороною) або RAS (right-anterior-superior) напрямки для пацієнтів. LPS використовується більш поширено.</translation>
+        <translation>Виведена модель XYZ відображена в LPS (ліва поза винятковою стороною) або RAS (right-anterior-superior) напрямки для пацієнтів. LPS поширеніший.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="110"/>
