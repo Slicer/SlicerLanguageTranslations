@@ -247,7 +247,7 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
         <source>Run and time</source>
-        <translation type="unfinished">Run and time</translation>
+        <translation>Exécuter et chronométrer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
