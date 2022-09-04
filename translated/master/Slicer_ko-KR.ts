@@ -8743,7 +8743,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="301"/>
         <source>&amp;Help</source>
-        <translation>도움말 (&amp;amp;H)</translation>
+        <translation>도움말_&amp;amp;H</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
