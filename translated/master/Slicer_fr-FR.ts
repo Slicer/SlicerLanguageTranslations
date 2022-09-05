@@ -2597,7 +2597,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="156"/>
         <source>cross</source>
-        <translation>traverser</translation>
+        <translation>croix</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="161"/>
@@ -2607,7 +2607,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="166"/>
         <source>square</source>
-        <translation>au carré</translation>
+        <translation>carré</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="171"/>
@@ -2627,7 +2627,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="205"/>
         <source>dash</source>
-        <translation>se précipiter</translation>
+        <translation>tiret</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="210"/>
@@ -2647,17 +2647,17 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="258"/>
         <source>Labels Column:</source>
-        <translation>Colonne Libellés:</translation>
+        <translation>Colonne des Libellés :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="265"/>
         <source>Markers Style:</source>
-        <translation>Style des marqueurs:</translation>
+        <translation>Style des marqueurs :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="272"/>
         <source>Markers Size:</source>
-        <translation>Taille des marqueurs:</translation>
+        <translation>Taille des marqueurs :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="279"/>
@@ -2688,7 +2688,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="14"/>
         <source>Plot View Controller</source>
-        <translation>Contrôleur de vue de tracé</translation>
+        <translation>Contrôleur de la vue du tracé</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
@@ -2713,7 +2713,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation type="unfinished">Add/Remove plots data series to/from the current chart.</translation>
+        <translation>Ajouter/Retirer les plots data series au/du diagramme actuel.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
@@ -2723,7 +2723,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
         <source>Plot chart:</source>
-        <translation type="unfinished">Plot chart:</translation>
+        <translation>Tracé :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
@@ -2733,12 +2733,12 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
         <source>Plot type:</source>
-        <translation type="unfinished">Plot type:</translation>
+        <translation>Type de tracé :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
         <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-        <translation type="unfinished">This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </translation>
+        <translation>Cette liste déroulante permet de changer le Type de tous les PlotSeriesNodes actifs. Si une valeur est choisie, tous les PlotSeriesNodes référencés par le PlotChartNode seront mis à jour avec la nouvelle valeur. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
