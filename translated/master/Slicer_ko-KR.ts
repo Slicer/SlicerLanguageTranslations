@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation>주석 텍스트 (vtkMRMLAnnotationTextNode1)</translation>
+        <translation>주석텍스트 (vtkMRML주석텍스트노드1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation>토글 해제/잠금</translation>
+        <translation>해제/잠금 전환</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
         <source>Glyph type combo box</source>
-        <translation>상형 문자 유형 콤보 상자</translation>
+        <translation>상형문자 유형 콤보 상자</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
@@ -90,7 +90,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
         <source>Lines</source>
-        <translation>라인</translation>
+        <translation>선</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
         <source>ROI</source>
-        <translation>관심 분야</translation>
+        <translation>ROI</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
         <source>vtkMRMLCameraNode</source>
-        <translation>vtkMRMLCameraNode</translation>
+        <translation>vtkMRML카메라노드</translation>
     </message>
 </context>
 <context>
@@ -430,7 +430,7 @@
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="96"/>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="127"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
@@ -644,13 +644,13 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLAnnotationFiducialProjectionPropertyWidget</source>
-        <translation>qMRMLAnnotationFiducialProjectionPropertyWidget</translation>
+        <translation>qMRML주석기점투영속성위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="45"/>
         <source>Turn on/off visualization of projected fiducial on 2D viewers</source>
-        <translation>2D 뷰어에서 투영된 기준의 시각화 켜기/끄기</translation>
+        <translation>2D 뷰어에서 투영된 기점의 시각화 켜기/끄기</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="38"/>
@@ -661,7 +661,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
         <source>Color of the projected fiducial on 2D viewers</source>
-        <translation>2D 뷰어에 투영된 기준의 색상</translation>
+        <translation>2D 뷰어에 투영된 기점의 색상</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
@@ -672,7 +672,7 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="109"/>
         <source>Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</source>
-        <translation>기준 투영은 슬라이스 평면의 상단에 있을 때 채워져 표시되고, 뒤에 있을 때 윤곽선이 표시되며 평면에 있을 때 전체 불투명도로 표시</translation>
+        <translation>기점 투영은 슬라이스 평면의 상단에 있을 때 채워져 표시되고, 뒤에 있을 때 윤곽선이 표시되며 평면에 있을 때 전체 불투명도로 표시</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
@@ -683,12 +683,12 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="132"/>
         <source>Use the same color as fiducial</source>
-        <translation>기준과 동일한 색상을 사용</translation>
+        <translation>기점과 동일한 색상을 사용</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="125"/>
         <source>Use Fiducial Color</source>
-        <translation>기준 색상 사용</translation>
+        <translation>기점 색상 사용</translation>
     </message>
 </context>
 <context>
@@ -736,7 +736,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLAnnotationRulerProjectionPropertyWidget</source>
-        <translation>qMRMLAnnotationRulerProjectionPropertyWidget</translation>
+        <translation>qMRML주석눈금자투영속성위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
@@ -1192,27 +1192,27 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visible:</source>
-        <translation>가시성 (&amp;amp;V):</translation>
+        <translation>가시성(&amp;amp;V):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation>선택 (&amp;amp;S):</translation>
+        <translation>선택(&amp;amp;S):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation>클립 (&amp;amp;C):</translation>
+        <translation>클립(&amp;amp;C):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visible:</source>
-        <translation>슬라이스 교차점 가시성 (&amp;amp;I):</translation>
+        <translation>슬라이스 교차점 가시성(&amp;amp;I):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation>슬라이스 교차점 및 두께 (&amp;amp;T):</translation>
+        <translation>슬라이스 교차점 및 두께(&amp;amp;T):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
@@ -1322,7 +1322,7 @@
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="75"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="264"/>
         <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
+        <translation>vtkMRML모델노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
@@ -1396,7 +1396,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
         <source>Fiducials will be constrained to the surface if a node is selected</source>
-        <translation>노드가 선택되면 기준이 표면에 구속</translation>
+        <translation>노드가 선택되면 기점이 표면에 구속</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="282"/>
@@ -1426,7 +1426,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="327"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation>vtkMRMLMarkupsCurveNode</translation>
+        <translation>vtkMRML마크업곡선노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="347"/>
@@ -1672,7 +1672,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLMarkupsFiducialProjectionPropertyWidget</source>
-        <translation>qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
+        <translation>qMRML마크업기점투영속성위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
@@ -2254,7 +2254,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="26"/>
         <source>qMRMLNodeAttributeTableView</source>
-        <translation>qMRMLNodeAttributeTableView</translation>
+        <translation>qMRML노드속성표보기</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="53"/>
@@ -2294,7 +2294,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="14"/>
         <source>qMRMLNodeAttributeTableWidget</source>
-        <translation>qMRMLNodeAttributeTableWidget</translation>
+        <translation>qMRML노드속성표위젯</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="44"/>
@@ -2413,7 +2413,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="48"/>
         <source>vtkMRMLPlotSeriesNode</source>
-        <translation>vtkMRMLPlotSeriesNode</translation>
+        <translation>vtkMRML플롯시리즈노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
@@ -2546,7 +2546,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="48"/>
         <source>vtkMRMLTableNode</source>
-        <translation>vtkMRMLTableNode</translation>
+        <translation>vtkMRML표노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
@@ -2698,7 +2698,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="27"/>
         <source>vtkMRMLPlotChartNode</source>
-        <translation>vtkMRMLPlotChartNode</translation>
+        <translation>vtkMRML플롯차트노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
@@ -2718,7 +2718,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
         <source>vtkMRMLPlotSeriesNode</source>
-        <translation>vtkMRMLPlotSeriesNode</translation>
+        <translation>vtkMRML플롯시리즈노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
@@ -2813,7 +2813,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="206"/>
         <source>Fit_to_window</source>
-        <translation>Fit_to_window</translation>
+        <translation>창에_맞추기</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
@@ -3096,7 +3096,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="14"/>
         <source>qMRMLSegmentEditorWidget</source>
-        <translation>qMRMLSegmentEditorWidget</translation>
+        <translation>qMRML세그먼트편집기위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="22"/>
@@ -3106,13 +3106,13 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="29"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="34"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="78"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation>vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRML분할노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
@@ -3331,7 +3331,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="14"/>
         <source>qMRMLSegmentSelectorWidget</source>
-        <translation>qMRMLSegmentSelectorWidget</translation>
+        <translation>qMRML세그먼트선택기위젯</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
@@ -3346,7 +3346,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="108"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation>vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRML분할노드</translation>
     </message>
 </context>
 <context>
@@ -3427,7 +3427,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="14"/>
         <source>qMRMLSegmentationDisplayNodeWidget</source>
-        <translation>qMRMLSegmentationDisplayNodeWidget</translation>
+        <translation>qMRML분할표시노드위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="48"/>
@@ -3532,7 +3532,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="14"/>
         <source>qMRMLSegmentationFileExportWidget</source>
-        <translation>qMRMLSegmentationFileExportWidget</translation>
+        <translation>qMRML분할파일내보내기위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
@@ -3547,7 +3547,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="79"/>
         <source>vtkMRMLColorTableNode</source>
-        <translation>vtkMRMLColorTableNode</translation>
+        <translation>vtkMRML색상표노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
@@ -3667,7 +3667,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="322"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLVolumeNode</translation>
+        <translation>vtkMRML볼륨노드</translation>
     </message>
 </context>
 <context>
@@ -3675,7 +3675,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="14"/>
         <source>SegmentationGeometryWidget</source>
-        <translation>SegmentationGeometryWidget</translation>
+        <translation>분할지오메트리위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="59"/>
@@ -3685,27 +3685,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation>vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRML분할노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
         <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
+        <translation>vtkMRML모델노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
         <source>vtkMRMLMarkupsROINode</source>
-        <translation>vtkMRMLMarkupsROINode</translation>
+        <translation>vtkMRML마크업ROI노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="66"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation>vtkMRMLAnnotationROINode</translation>
+        <translation>vtkMRML주석ROI노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="84"/>
@@ -3781,7 +3781,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="26"/>
         <source>qMRMLSegmentationRepresentationsListView</source>
-        <translation>qMRMLSegmentationRepresentationsListView</translation>
+        <translation>qMRML분할표현목록보기</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
@@ -3871,7 +3871,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="20"/>
         <source>qMRMLSegmentsTableView</source>
-        <translation>qMRMLSegmentsTableView</translation>
+        <translation>qMRML세그먼트표보기</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
@@ -3919,7 +3919,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserPlayWidget</source>
-        <translation>qMRMLSequenceBrowserPlayWidget</translation>
+        <translation>qMRML스퀀스브라우저재생위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="26"/>
@@ -3972,7 +3972,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserSeekWidget</source>
-        <translation>qMRMLSequenceBrowserSeekWidget</translation>
+        <translation>qMRML시퀀스브라우저탐색위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
@@ -4006,7 +4006,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="36"/>
         <source>vtkMRMLUnitNode</source>
-        <translation>vtkMRMLUnitNode</translation>
+        <translation>vtkMRML단위노드</translation>
     </message>
 </context>
 <context>
@@ -4024,7 +4024,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="54"/>
         <source>vtkMRMLLabelMapVolumeNode</source>
-        <translation>vtkMRMLLabelMapVolumeNode</translation>
+        <translation>vtkMRML레이블맵볼륨노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="179"/>
@@ -4035,7 +4035,7 @@ Do you wish to proceed with changing master representation?</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="182"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="322"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLVolumeNode</translation>
+        <translation>vtkMRML볼륨노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="319"/>
@@ -4752,7 +4752,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
         <source>qMRMLSliceWidget</source>
-        <translation>qMRMLSliceWidget</translation>
+        <translation>qMRML슬라이스위젯</translation>
     </message>
 </context>
 <context>
@@ -4899,7 +4899,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="28"/>
         <source>vtkMRMLTableNode</source>
-        <translation>vtkMRMLTableNode</translation>
+        <translation>vtkMRML표노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
@@ -5373,7 +5373,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="23"/>
         <source>qMRMLTransformDisplayNodeWidget</source>
-        <translation>qMRMLTransformDisplayNodeWidget</translation>
+        <translation>qMRML변형표시노드위젯</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
@@ -5518,17 +5518,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>vtkMRMLSliceNode</source>
-        <translation>vtkMRMLSliceNode</translation>
+        <translation>vtkMRML슬라이스노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
+        <translation>vtkMRML모델노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="464"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLVolumeNode</translation>
+        <translation>vtkMRML볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="489"/>
@@ -5713,7 +5713,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="888"/>
         <source>vtkMRMLMarkupsNode</source>
-        <translation>vtkMRMLMarkupsNode</translation>
+        <translation>vtkMRML마크업노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="902"/>
@@ -5930,7 +5930,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="30"/>
         <source>vtkMRMLUnitNode</source>
-        <translation>vtkMRMLUnitNode</translation>
+        <translation>vtkMRML단위노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="53"/>
@@ -6308,7 +6308,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
         <source>Fiducial</source>
-        <translation>기준</translation>
+        <translation>기점</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
@@ -6573,7 +6573,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="741"/>
         <source>Fiducial Projection</source>
-        <translation>기준 투영</translation>
+        <translation>기점 투영</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="770"/>
@@ -6669,7 +6669,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="41"/>
         <source>Fiducials have moved to the Markups module.</source>
-        <translation>기준이 마크업 모듈로 이동했습니다.</translation>
+        <translation>기점이 마크업 모듈로 이동했습니다.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="48"/>
@@ -6777,7 +6777,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>&amp;Keyboard Shortcuts</source>
-        <translation>키보드 단축키 (&amp;amp;K)</translation>
+        <translation>키보드 단축키(&amp;amp;K)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
@@ -6803,7 +6803,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="88"/>
         <source>Raise the training pages in your favorite web browser</source>
-        <translation>좋아하는 웹 브라우저에서 교육 페이지 올리기</translation>
+        <translation>즐겨찾기 웹 브라우저에서 교육 페이지 올리기</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="92"/>
@@ -6818,7 +6818,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="97"/>
         <source>Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</source>
-        <translation>선호하는 웹 브라우저를 사용하여 Slicer 블로그의 설문 조사에서 Slicer 소프트웨어 패키지를 사용하는 흥미로운 방법의 스크린샷을 게시하고 Slicer 커뮤니티와 공유할 수 있습니다.</translation>
+        <translation>즐겨찿기 웹 브라우저를 사용하여 슬라이서 블로그의 설문 조사에서 슬라이서 소프트웨어 패키지를 사용하는 흥미로운 방법의 스크린샷을 게시하고 슬라이서 커뮤니티와 공유할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="101"/>
@@ -7059,7 +7059,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="58"/>
         <source>vtkMRMLCommandLineModuleNode</source>
-        <translation>vtkMRMLCommandLineModuleNode</translation>
+        <translation>vtkMRML명령줄모듈노드</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
@@ -7184,7 +7184,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>3D 보기 및 카메라를 관리합니다.&lt;br&gt;아래 보기 풀다운 메뉴를 사용하여 새 보기를 만들고 활성 보기를 선택할 수 있습니다. 여러 보기에 접속하려면 도구 모음의 레이아웃 아이콘에서 레이아웃을 &quot;탭이 있는 3D 레이아웃&quot;으로 전환하세요. &quot;탭이 있는 3D 레이아웃&quot;에서 선택한 보기가 활성 보기가 되고 다른 모든 레이아웃의 3D 보기를 대체합니다. 아래의 카메라 풀다운 메뉴를 사용하여 선택한 보기에 대한 활성 카메라를 설정할 수 있습니다.&lt;br&gt;경고: 현재로서는 다소 실험적입니다(기준, IO/데이터, 장면 닫기가 새로운 보기에 대해 손상되었을 수 있음).&lt;br&gt;</translation>
+        <translation>3D 보기 및 카메라를 관리합니다.&lt;br&gt;아래 보기 풀다운 메뉴를 사용하여 새 보기를 만들고 활성 보기를 선택할 수 있습니다. 여러 보기에 접속하려면 도구 모음의 레이아웃 아이콘에서 레이아웃을 &quot;탭이 있는 3D 레이아웃&quot;으로 전환하세요. &quot;탭이 있는 3D 레이아웃&quot;에서 선택한 보기가 활성 보기가 되고 다른 모든 레이아웃의 3D 보기를 대체합니다. 아래의 카메라 풀다운 메뉴를 사용하여 선택한 보기에 대한 활성 카메라를 설정할 수 있습니다.&lt;br&gt;경고: 현재로서는 다소 실험적입니다(기점, IO/데이터, 장면 닫기가 새로운 보기에 대해 손상되었을 수 있음).&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -7212,7 +7212,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="46"/>
         <source>vtkMRMLViewNode</source>
-        <translation>vtkMRMLViewNode</translation>
+        <translation>vtkMRML보기노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
@@ -7222,7 +7222,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="74"/>
         <source>vtkMRMLCameraNode</source>
-        <translation>vtkMRMLCameraNode</translation>
+        <translation>vtkMRML카메라노드</translation>
     </message>
 </context>
 <context>
@@ -7250,12 +7250,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="103"/>
         <source>vtkMRMLModelNode</source>
-        <translation>vtkMRMLModelNode</translation>
+        <translation>vtkMRML모델노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
@@ -7382,7 +7382,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="78"/>
         <source>vtkMRMLCropVolumeParametersNode</source>
-        <translation>vtkMRMLCropVolumeParametersNode</translation>
+        <translation>vtkMRML자르기볼륨매개변수노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
@@ -7398,7 +7398,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="148"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="262"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
@@ -7408,12 +7408,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="179"/>
         <source>vtkMRMLMarkupsROINode</source>
-        <translation>vtkMRMLMarkupsROINode</translation>
+        <translation>vtkMRML마크업ROI노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="179"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation>vtkMRMLAnnotationROINode</translation>
+        <translation>vtkMRML주석ROI노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="185"/>
@@ -7443,7 +7443,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="262"/>
         <source>vtkMRMLVectorVolumeNode</source>
-        <translation>vtkMRMLVectorVolumeNode</translation>
+        <translation>vtkMRML벡터볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="268"/>
@@ -7778,7 +7778,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="79"/>
         <source>vtkMRMLDiffusionTensorDisplayPropertiesNode</source>
-        <translation>vtkMRMLDiffusionTensorDisplayPropertiesNode</translation>
+        <translation>vtkMRML확산텐서표시속성노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
@@ -7964,7 +7964,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="273"/>
         <source>vtkMRMLTransformableNode</source>
-        <translation>vtkMRMLTransformableNode</translation>
+        <translation>vtkMRML변형가능노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
@@ -8392,7 +8392,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="215"/>
         <source>&amp;Install Selected...</source>
-        <translation>선택 항목 설치 (&amp;amp;I)...</translation>
+        <translation>선택 항목 설치(&amp;amp;I)...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsRestoreWidget.cxx" line="222"/>
@@ -8460,12 +8460,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="68"/>
         <source>&amp;Check for Updates</source>
-        <translation>업데이트 확인 (&amp;amp;C)</translation>
+        <translation>업데이트 확인(&amp;amp;C)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="76"/>
         <source>Install Updates &amp;Automatically</source>
-        <translation>업데이트 자동 설치 (&amp;amp;A)</translation>
+        <translation>업데이트 자동 설치(&amp;amp;A)</translation>
     </message>
 </context>
 <context>
@@ -8672,7 +8672,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="87"/>
         <source>Favorite Modules</source>
-        <translation>즐겨찾는 모듈</translation>
+        <translation>즐겨찾기 모듈</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
@@ -8722,7 +8722,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="233"/>
         <source>&amp;Edit</source>
-        <translation>편집 (&amp;amp;E)</translation>
+        <translation>편집(&amp;amp;E)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="245"/>
@@ -8738,12 +8738,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="286"/>
         <source>&amp;Toolbars</source>
-        <translation>도구 모음 (&amp;amp;T)</translation>
+        <translation>도구 모음(&amp;amp;T)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="301"/>
         <source>&amp;Help</source>
-        <translation>도움말_&amp;amp;H</translation>
+        <translation>도움말(&amp;amp;H)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="315"/>
@@ -8789,7 +8789,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="363"/>
         <source>&amp;Add Data</source>
-        <translation>데이터 추가 (&amp;amp;A)</translation>
+        <translation>데이터 추가(&amp;amp;A)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="369"/>
@@ -8870,7 +8870,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="452"/>
         <source>E&amp;xit</source>
-        <translation>종료 (&amp;amp;X)</translation>
+        <translation>종료(&amp;amp;X)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="455"/>
@@ -8910,12 +8910,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="490"/>
         <source>New Fiducial List</source>
-        <translation>새로운 기준 목록</translation>
+        <translation>새로운 기점 목록</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="493"/>
         <source>Create a new list of fiducial points.</source>
-        <translation>기준점의 새 목록을 만듭니다.</translation>
+        <translation>기점의 새로운 목록을 만듭니다.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="496"/>
@@ -9010,7 +9010,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="586"/>
         <source>&amp;Maximize view</source>
-        <translation>보기 최대화 (&amp;amp;M)</translation>
+        <translation>보기 최대화(&amp;amp;M)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="589"/>
@@ -9025,7 +9025,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="597"/>
         <source>&amp;Error Log</source>
-        <translation>오류 로그 (&amp;amp;E)</translation>
+        <translation>오류 로그(&amp;amp;E)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="600"/>
@@ -9332,7 +9332,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="161"/>
         <source>&amp;Module Panel</source>
-        <translation>모듈 패널 (&amp;amp;M)</translation>
+        <translation>모듈 패널(&amp;amp;M)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="163"/>
@@ -9354,7 +9354,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="462"/>
         <source>&amp;Python Interactor</source>
-        <translation>파이썬 상호 작용기 (&amp;amp;P)</translation>
+        <translation>파이썬 상호 작용기(&amp;amp;P)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
@@ -9684,12 +9684,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="738"/>
         <source>Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</source>
-        <translation>주석 기준 계층을 사용하여 마크업 목록을 만듭니다. 주석이 이동되면 제거합니다.</translation>
+        <translation>주석 기점 계층을 사용하여 마크업 목록을 만듭니다. 주석이 이동되면 제거합니다.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="741"/>
         <source>Convert Annotation Fiducials</source>
-        <translation>주석 기준 변환</translation>
+        <translation>주석 기점 변환</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="757"/>
@@ -9734,7 +9734,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="874"/>
         <source>vtkMRMLTableNode</source>
-        <translation>vtkMRMLTableNode</translation>
+        <translation>vtkMRML표노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="923"/>
@@ -10140,7 +10140,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="113"/>
         <source>vtkMRMLAnnotationNode</source>
-        <translation>vtkMRMLAnnotationNode</translation>
+        <translation>vtkMRML주석노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
@@ -10165,7 +10165,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="189"/>
         <source>vtkMRMLClipModelsNode</source>
-        <translation>vtkMRMLClipModelsNode</translation>
+        <translation>vtkMRML절단모델노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
@@ -10193,7 +10193,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
         <source>&amp;Full text</source>
-        <translation>전체 텍스트 (&amp;amp;F)</translation>
+        <translation>전체 텍스트(&amp;amp;F)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
@@ -10203,7 +10203,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation>내장 (&amp;amp;B)</translation>
+        <translation>내장(&amp;amp;B)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
@@ -10213,7 +10213,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation>테스트 (&amp;amp;T)</translation>
+        <translation>테스트(&amp;amp;T)</translation>
     </message>
 </context>
 <context>
@@ -10460,7 +10460,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="70"/>
         <source>vtkMRMLPlotChartNode</source>
-        <translation>vtkMRMLPlotChartNode</translation>
+        <translation>vtkMRML플롯차트노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
@@ -10480,7 +10480,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="127"/>
         <source>vtkMRMLPlotSeriesNode</source>
-        <translation>vtkMRMLPlotSeriesNode</translation>
+        <translation>vtkMRML플롯시리즈노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
@@ -10516,7 +10516,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="49"/>
         <source>vtkMRMLSliceNode</source>
-        <translation>vtkMRMLSliceNode</translation>
+        <translation>vtkMRML슬라이스노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
@@ -11033,7 +11033,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="64"/>
         <source>vtkMRMLColorTableNode</source>
-        <translation>vtkMRMLColorTableNode</translation>
+        <translation>vtkMRML색상표노드</translation>
     </message>
 </context>
 <context>
@@ -11062,7 +11062,7 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="57"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="413"/>
         <source>vtkMRMLSegmentationNode</source>
-        <translation>vtkMRMLSegmentationNode</translation>
+        <translation>vtkMRML분할노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="104"/>
@@ -11248,7 +11248,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="622"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLVolumeNode</translation>
+        <translation>vtkMRML볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="640"/>
@@ -11258,7 +11258,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="656"/>
         <source>vtkMRMLColorTableNode</source>
-        <translation>vtkMRMLColorTableNode</translation>
+        <translation>vtkMRML색상표노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="673"/>
@@ -11365,7 +11365,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="14"/>
         <source>SegmentationsSettingsPanel</source>
-        <translation>SegmentationsSettingsPanel</translation>
+        <translation>분할설정패널</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="20"/>
@@ -11436,7 +11436,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="39"/>
         <source>vtkMRMLSequenceBrowserNode</source>
-        <translation>vtkMRMLSequenceBrowserNode</translation>
+        <translation>vtkMRML시퀀스브라우저노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="44"/>
@@ -11458,7 +11458,7 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="321"/>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="413"/>
         <source>vtkMRMLSequenceNode</source>
-        <translation>vtkMRMLSequenceNode</translation>
+        <translation>vtkMRML시퀀스노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="99"/>
@@ -11829,7 +11829,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
         <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-        <translation>개발자 모드에서 애플리케이션 실행: 테스트 모듈은 모듈 목록에 표시되고, 다시 불러오기&amp;amp;테스트 섹션은 스크립팅된 모듈 사용자 인터페이스에 표시되며, CLI 모듈 입력 및 출력 파일은 모듈 실행 후 삭제되지 않음</translation>
+        <translation>개발자 모드에서 애플리케이션 실행: 테스트 모듈은 모듈 목록에 표시되고, 다시 불러오기 및 테스트 섹션은 스크립팅된 모듈 사용자 인터페이스에 표시되며, CLI 모듈 입력 및 출력 파일은 모듈 실행 후 삭제되지 않음</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
@@ -12183,7 +12183,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="675"/>
         <source>Favorite Modules:&lt;br&gt;&lt;small&gt;&lt;i&gt;Drag &amp;amp; drop from &lt;/i&gt;Modules&lt;i&gt; list&lt;/i&gt;&lt;/small&gt;</source>
-        <translation>즐겨찾는 모듈:&lt;br&gt;&lt;small&gt;모듈&lt;i&gt;목록t&lt;/i&gt;에서 &lt;i&gt;드래그 &amp;amp; 드롭&lt;/i&gt;&lt;/small&gt;</translation>
+        <translation>즐겨찾기 모듈:&lt;br&gt;&lt;small&gt;모듈&lt;i&gt;목록t&lt;/i&gt;에서 &lt;i&gt;드래그 앤 드롭&lt;/i&gt;&lt;/small&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="752"/>
@@ -12621,7 +12621,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="52"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation>vtkMRMLMarkupsFiducialNode</translation>
+        <translation>vtkMRML마크업기점노드</translation>
     </message>
 </context>
 <context>
@@ -12718,7 +12718,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
         <source>SubjectHierarchySettingsPanel</source>
-        <translation>SubjectHierarchySettingsPanel</translation>
+        <translation>Subject계층설정패널</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
@@ -13144,7 +13144,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="47"/>
         <source>vtkMRMLTableNode</source>
-        <translation>vtkMRMLTableNode</translation>
+        <translation>vtkMRML표노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
@@ -13365,7 +13365,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="51"/>
         <source>vtkMRMLTextNode</source>
-        <translation>vtkMRMLTextNode</translation>
+        <translation>vtkMRML텍스트노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="74"/>
@@ -13408,23 +13408,23 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation>vtkMRMLLinearTransformNode</translation>
+        <translation>vtkMRML선형변형노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
         <source>vtkMRMLBSplineTransformNode</source>
-        <translation>vtkMRMLBSplineTransformNode</translation>
+        <translation>vtkMRMLB스플라인변형노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
         <source>vtkMRMLGridTransformNode</source>
-        <translation>vtkMRMLGridTransformNode</translation>
+        <translation>vtkMRML격자변형노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="42"/>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="519"/>
         <source>vtkMRMLTransformNode</source>
-        <translation>vtkMRMLTransformNode</translation>
+        <translation>vtkMRML변형노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
@@ -13504,7 +13504,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="345"/>
         <source>vtkMRMLTransformableNode</source>
-        <translation>vtkMRMLTransformableNode</translation>
+        <translation>vtkMRML변경가능노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
@@ -13554,7 +13554,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="473"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLVolumeNode</translation>
+        <translation>vtkMRML볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
@@ -13569,12 +13569,12 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="519"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="519"/>
         <source>vtkMRMLVectorVolumeNode</source>
-        <translation>vtkMRMLVectorVolumeNode</translation>
+        <translation>vtkMRML벡터볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
@@ -13675,17 +13675,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="67"/>
         <source>vtkMRMLSliceNode</source>
-        <translation>vtkMRMLSliceNode</translation>
+        <translation>vtkMRML슬라이서노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="67"/>
         <source>vtkMRMLViewNode</source>
-        <translation>vtkMRMLViewNode</translation>
+        <translation>vtkMRML보기노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="67"/>
         <source>vtkMRMLPlotViewNode</source>
-        <translation>vtkMRMLPlotViewNode</translation>
+        <translation>vtkMRML플롯보기노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
@@ -13879,22 +13879,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="63"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation>vtkMRMLScalarVolumeNode</translation>
+        <translation>vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
         <source>vtkMRMLDiffusionWeightedVolumeNode</source>
-        <translation>vtkMRMLDiffusionWeightedVolumeNode</translation>
+        <translation>vtkMRML확산위젯볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
         <source>vtkMRMLDiffusionTensorVolumeNode</source>
-        <translation>vtkMRMLDiffusionTensorVolumeNode</translation>
+        <translation>vtkMRML확산텐서볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="68"/>
         <source>vtkMRMLMultiVolumeNode</source>
-        <translation>vtkMRMLMultiVolumeNode</translation>
+        <translation>vtkMRML멀티볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="88"/>
@@ -13909,12 +13909,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="122"/>
         <source>vtkMRMLMarkupsROINode</source>
-        <translation>vtkMRMLMarkupsROINode</translation>
+        <translation>vtkMRML마크업ROI노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="122"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation>vtkMRMLAnnotationROINode</translation>
+        <translation>vtkMRML주석ROI노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="138"/>
@@ -13924,7 +13924,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="145"/>
         <source>vtkMRMLVolumePropertyNode</source>
-        <translation>vtkMRMLVolumePropertyNode</translation>
+        <translation>vtkMRML볼륨속성노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="160"/>
@@ -14212,7 +14212,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="48"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation>vtkMRMLVolumeNode</translation>
+        <translation>vtkMRML볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
@@ -14227,7 +14227,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="121"/>
         <source>vtkMRMLLabelMapVolumeNode</source>
-        <translation>vtkMRMLLabelMapVolumeNode</translation>
+        <translation>vtkMRML레이블맵볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
