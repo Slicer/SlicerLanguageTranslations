@@ -7624,22 +7624,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="135"/>
         <source>Select or create a new input ROI.</source>
-        <translation>Sélectionnez ou créez un nouveau RDI d&apos;entrée.</translation>
+        <translation type="unfinished">Sélectionnez ou créez un nouveau ROI d&apos;entrée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="142"/>
         <source>Output volume is under a non-linear tansform.</source>
-        <translation type="unfinished">Output volume is under a non-linear tansform.</translation>
+        <translation type="unfinished">Le volume de sortie est soumis à une tansformation non linéaire.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="153"/>
         <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="unfinished">Interpolation is disabled and input volume is under a non-linear tansform</translation>
+        <translation>L&apos;interpolation est désactivée et le volume d&apos;entrée est soumis à une transformation non linéaire.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+        <translation type="unfinished">L&apos;interpolation est désactivée et le ROI d&apos;entrée n&apos;est pas aligné avec les axes du volume d&apos;entrée.</translation>
     </message>
 </context>
 <context>
@@ -7647,7 +7647,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">DICOM Export</translation>
+        <translation type="unfinished">Exportation DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="73"/>
@@ -7658,27 +7658,27 @@ Graphics capabilities of this computer:
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="80"/>
         <source>Export selected data to standard DICOM fields.
 Created data objects are compatible with most standard DICOM software.</source>
-        <translation type="unfinished">Export selected data to standard DICOM fields.
-Created data objects are compatible with most standard DICOM software.</translation>
+        <translation type="unfinished">Exportez les données sélectionnées vers des champs DICOM standard.
+Les objets de données créés sont compatibles avec la plupart des logiciels DICOM standard.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="84"/>
         <source>Export series</source>
-        <translation type="unfinished">Export series</translation>
+        <translation type="unfinished">Exporter des séries</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="94"/>
         <source>Save the entire scene, with all data and display settings embedded in private fields.
 The file can be stored on standard image archival systems and used in this application,
 but cannot be interpreted by most standard DICOM imaging applications.</source>
-        <translation type="unfinished">Save the entire scene, with all data and display settings embedded in private fields.
-The file can be stored on standard image archival systems and used in this application,
-but cannot be interpreted by most standard DICOM imaging applications.</translation>
+        <translation type="unfinished">Enregistrez la scène entière, avec toutes les données et les paramètres d&apos;affichage intégrés dans des champs privés.
+Le fichier peut être stocké sur des systèmes d&apos;archivage d&apos;images standard et utilisé dans cette application,
+mais il ne peut pas être interprété par la plupart des applications d&apos;imagerie DICOM standard.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="99"/>
         <source>Export entire scene</source>
-        <translation type="unfinished">Export entire scene</translation>
+        <translation type="unfinished">Exporter la scène entière</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="165"/>
@@ -7698,12 +7698,12 @@ but cannot be interpreted by most standard DICOM imaging applications.</translat
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="282"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+        <translation type="unfinished">Si elle est cochée, les étiquettes modifiées manuellement seront enregistrées dans la scène, préservées pour la prochaine exportation. Si cette case n&apos;est pas cochée, des modifications temporaires peuvent être effectuées, uniquement pour cette opération d&apos;exportation.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="285"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Save modified tags</translation>
+        <translation type="unfinished">Enregistrer les étiquettes modifiées</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="321"/>
@@ -7715,7 +7715,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="325"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Export to folder:</translation>
+        <translation type="unfinished">Exporter vers un dossier :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="335"/>
@@ -7725,17 +7725,17 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="344"/>
         <source>DICOM/ExportFolder</source>
-        <translation type="unfinished">DICOM/ExportFolder</translation>
+        <translation type="unfinished">DICOM/Export de dossier</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="405"/>
         <source>Error messages</source>
-        <translation type="unfinished">Error messages</translation>
+        <translation type="unfinished">Messages d&apos;erreur</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="442"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation type="unfinished">Exporter</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="497"/>
@@ -7750,7 +7750,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="506"/>
         <source>Export successful</source>
-        <translation type="unfinished">Export successful</translation>
+        <translation type="unfinished">Exportation réussie</translation>
     </message>
 </context>
 <context>
@@ -7773,7 +7773,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
-        <translation type="unfinished">Scalar ColorMap:</translation>
+        <translation type="unfinished">Carte de couleurs scalaire:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="79"/>
@@ -7783,7 +7783,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation type="unfinished">Color by Scalar:</translation>
+        <translation type="unfinished">Couleur par Scalaire:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
@@ -14257,7 +14257,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
         <source>Convert to scalar volume:</source>
-        <translation type="unfinished">Convert to scalar volume:</translation>
+        <translation>Convertir en volume scalaire&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -14266,47 +14266,47 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
         <source>Web download</source>
-        <translation type="unfinished">Web download</translation>
+        <translation type="unfinished">Téléchargement web</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="52"/>
         <source>Load data into Slicer or download to separate location.</source>
-        <translation type="unfinished">Load data into Slicer or download to separate location.</translation>
+        <translation type="unfinished">Chargez les données dans Slicer ou téléchargez-les dans un emplacement séparé.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="53"/>
         <source>Load...</source>
-        <translation type="unfinished">Load...</translation>
+        <translation type="unfinished">Charger...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="55"/>
         <source>Download the data and open in Slicer</source>
-        <translation type="unfinished">Download the data and open in Slicer</translation>
+        <translation type="unfinished">Télécharger les données et les ouvrir dans Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="56"/>
         <source>Save...</source>
-        <translation type="unfinished">Save...</translation>
+        <translation type="unfinished">Enregistrer...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="57"/>
         <source>Save to an arbitrary location</source>
-        <translation type="unfinished">Save to an arbitrary location</translation>
+        <translation type="unfinished">Enregistrer dans un emplacement arbitraire</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation type="unfinished">Annuler</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="74"/>
         <source>Save File</source>
-        <translation type="unfinished">Save File</translation>
+        <translation type="unfinished">Enregistrer le fichier</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
         <source>Download complete</source>
-        <translation type="unfinished">Download complete</translation>
+        <translation>Téléchargement terminé</translation>
     </message>
 </context>
 <context>
@@ -14314,17 +14314,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="59"/>
         <source>Allow Python execution?</source>
-        <translation type="unfinished">Allow Python execution?</translation>
+        <translation type="unfinished">Autoriser l&apos;exécution de Python ?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="62"/>
         <source>Allow</source>
-        <translation type="unfinished">Allow</translation>
+        <translation type="unfinished">Autoriser</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="63"/>
         <source>Reject</source>
-        <translation type="unfinished">Reject</translation>
+        <translation type="unfinished">Refuser</translation>
     </message>
 </context>
 <context>
