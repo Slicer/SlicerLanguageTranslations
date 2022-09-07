@@ -70,7 +70,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
         <source>Glyph type combo box</source>
-        <translation>상형문자 유형 콤보 상자</translation>
+        <translation>자형 유형 콤보 상자</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
@@ -631,7 +631,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
         <source>Glyph type combo box</source>
-        <translation>상형문자 유형 콤보 상자</translation>
+        <translation>자형 유형 콤보 상자</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
@@ -1482,7 +1482,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
         <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-        <translation>버튼을 누르면 제어점 상형문자 크기가 물리적 길이 단위로 지정되고, 그렇지 않으면 창 크기의 백분율로 지정</translation>
+        <translation>버튼을 누르면 제어점 자형 크기가 물리적 길이 단위로 지정되고, 그렇지 않으면 창 크기의 백분율로 지정</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
@@ -1566,7 +1566,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
         <source>Glyph Type:</source>
-        <translation>상형문자 유형:</translation>
+        <translation>자형 유형:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
@@ -1591,7 +1591,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
         <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-        <translation>버튼을 누르면 선 두께가 물리적 길이 단위로 지정되고, 그렇지 않으면 상형문자 크기의 백분율로 지정</translation>
+        <translation>버튼을 누르면 선 두께가 물리적 길이 단위로 지정되고, 그렇지 않으면 자형 크기의 백분율로 지정</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
@@ -1636,7 +1636,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
         <source>Glyph Size:</source>
-        <translation>상형문자 크기:</translation>
+        <translation>자형 크기:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
@@ -1704,7 +1704,7 @@
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="87"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="97"/>
         <source>Projected control points are displayed filled (opacity = Projection Opacity) when above the slice plane, outlined when behind, and with full opacity when in the plane. Outline isn&apos;t used for some glyphs (Dash2D, Cross2D, Starburst).</source>
-        <translation>투영된 제어점은 슬라이스 평면 위에 있을 때 채워져 표시되고(불투명도 = 투영 불투명도), 뒤에 있을 때는 윤곽선이 표시되고, 평면에 있을 때는 완전한 불투명도로 표시됩니다. 윤곽선은 일부 상형문자(줄표2D, 십자가2D, 별 모양의 광채)에 사용되지 않습니다.</translation>
+        <translation>투영된 제어점은 슬라이스 평면 위에 있을 때 채워져 표시되고(불투명도 = 투영 불투명도), 뒤에 있을 때는 윤곽선이 표시되고, 평면에 있을 때는 완전한 불투명도로 표시됩니다. 윤곽선은 일부 자형(줄표2D, 십자가2D, 별 모양의 광채)에 사용되지 않습니다.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="90"/>
@@ -5468,12 +5468,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="290"/>
         <source>Visualize transform using glyphs</source>
-        <translation>상형문자를 사용하여 변환 시각화</translation>
+        <translation>자형를 사용하여 변환 시각화</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="305"/>
         <source>Glyph</source>
-        <translation>상형문자</translation>
+        <translation>자형</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="352"/>
@@ -5549,7 +5549,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="544"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="580"/>
         <source>Distance between the glyph points</source>
-        <translation>상형문자 포인트 사이의 거리</translation>
+        <translation>자형 포인트 사이의 거리</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="547"/>
@@ -5560,7 +5560,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="554"/>
         <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation>상형문자 크기를 설정하는 데 사용되는 변위 비율입니다. 100%는 상형문자 크기가 실제 변위와 같음을 의미합니다.</translation>
+        <translation>자형 크기를 설정하는 데 사용되는 변위 비율입니다. 100%는 자형 크기가 실제 변위와 같음을 의미합니다.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="557"/>
@@ -5571,7 +5571,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="564"/>
         <source>Glyphs are shown if the displacement magnitude is within this range</source>
-        <translation>변위 크기가 이 범위 내에 있으면 상형문자가 표시</translation>
+        <translation>변위 크기가 이 범위 내에 있으면 자형 표시</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="567"/>
@@ -5591,18 +5591,18 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="611"/>
         <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-        <translation>이 범위 내에 변위 크기가 있는 상형문자만 표시</translation>
+        <translation>이 범위 내에 변위 크기가 있는 자형만 표시</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="636"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="652"/>
         <source>Choose a glyph type to use</source>
-        <translation>사용할 상형문자 유형 선택</translation>
+        <translation>사용할 자형 유형 선택</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="639"/>
         <source>Glyph type:</source>
-        <translation>상형문자 유형:</translation>
+        <translation>자형 유형:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="659"/>
@@ -5622,7 +5622,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="683"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
-        <translation>상형문자 크기를 설정하는 데 사용되는 변위 비율입니다. 100%는 상형문자 크기가 실제 변위와 같음을 의미합니다. 착색 및 가시 범위에 영향을 미치지 않습니다.</translation>
+        <translation>자형 크기를 설정하는 데 사용되는 변위 비율입니다. 100%는 자형 크기가 실제 변위와 같음을 의미합니다. 착색 및 가시 범위에 영향을 미치지 않습니다.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="701"/>
@@ -5636,7 +5636,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="714"/>
         <source>3D glyph settings</source>
-        <translation>3D 상형문자 설정</translation>
+        <translation>3D 자형 설정</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="735"/>
@@ -5686,7 +5686,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="840"/>
         <source>Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</source>
-        <translation>상형문자의 해상도 조정 (값이 높을수록 더 부드러운 곡선이 생성되지만 시각화가 느려질 수 있음)</translation>
+        <translation>자형의 해상도 조정 (값이 높을수록 더 부드러운 곡선이 생성되지만 시각화가 느려질 수 있음)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="843"/>
@@ -5708,7 +5708,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="885"/>
         <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
-        <translation>상형문자 시작 위치를 정의하는 마크업 노드입니다. 지정하면 3D 보기 &apos;지역&apos;이 무시됩니다.</translation>
+        <translation>자형 시작 위치를 정의하는 마크업 노드입니다. 지정하면 3D 보기 &apos;지역&apos;이 무시됩니다.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="888"/>
@@ -6444,38 +6444,38 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="292"/>
         <source>Apply glyph scale to all annotations in this hierarchy</source>
-        <translation>이 계층의 모든 주석에 상형문자 스케일 적용</translation>
+        <translation>이 계층의 모든 주석에 자형 스케일 적용</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="295"/>
         <source>List Glyph Scale:</source>
-        <translation>상형문자 스케일 목록:</translation>
+        <translation>자형 스케일 목록:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="302"/>
         <source>Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation>이 계층의 모든 주석에 상형문자 스케일을 적용합니다 (현재 설정은 상형문자 스케일을 반영하지 않을 수 있고, 이것은 목록으로만 설정하는 푸시이며, 표준 크기로 돌아가려면 기본 버튼을 사용)</translation>
+        <translation>이 계층의 모든 주석에 자형 스케일을 적용합니다 (현재 설정은 자형 스케일을 반영하지 않을 수 있고, 이것은 목록으로만 설정하는 푸시이며, 표준 크기로 돌아가려면 기본 버튼을 사용)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
         <source>Apply glyph type to all annotations in this hierarchy</source>
-        <translation>이 계층의 모든 주석에 상형문자 유형 적용</translation>
+        <translation>이 계층의 모든 주석에 자형 유형 적용</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="332"/>
         <source>List Glyph Type:</source>
-        <translation>상형문자 유형 목록:</translation>
+        <translation>자형 유형 목록:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="339"/>
         <source>Apply glyph type to all annotations in this hierarchy (current setting may not reflect glyph types, this is a push to list only setting, use default button to get back to standard glyph)</source>
-        <translation>이 계층의 모든 주석에 상형문자 유형을 적용합니다 (현재 설정은 상형문자 유형을 반영하지 않을 수 있고, 이것은 목록만 설정하는 푸시이며, 표준 상형문자로 돌아가려면 기본 버튼을 사용)</translation>
+        <translation>이 계층의 모든 주석에 자형 유형을 적용합니다 (현재 설정은 자형 유형을 반영하지 않을 수 있고, 이것은 목록만 설정하는 푸시이며, 표준 자형으로 돌아가려면 기본 버튼을 사용)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="342"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="722"/>
         <source>Glyph type combo box</source>
-        <translation>상형문자 유형 콤보 상자</translation>
+        <translation>자형 유형 콤보 상자</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="366"/>
@@ -7789,7 +7789,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
         <source>Glyph Type:</source>
-        <translation>상형문자 유형:</translation>
+        <translation>자형 유형:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
@@ -7820,7 +7820,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
         <source>Glyph EigenVector:</source>
-        <translation>상형문자 고유벡터:</translation>
+        <translation>자형 고유벡터:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
@@ -8003,7 +8003,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation>슬라이스 디스플레이의 상형문자</translation>
+        <translation>슬라이스 디스플레이의 자형</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
@@ -9942,7 +9942,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="23"/>
         <source>Default glyph type:</source>
-        <translation>기본 상형문자 유형:</translation>
+        <translation>기본 자형 유형:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="30"/>
@@ -10027,12 +10027,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="153"/>
         <source>Default glyph scale:</source>
-        <translation>기본 상형문자 스케일:</translation>
+        <translation>기본 자형 스케일:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="160"/>
         <source>Default glyph scale</source>
-        <translation>기본 상형문자 스케일</translation>
+        <translation>기본 자형 스케일</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="176"/>
