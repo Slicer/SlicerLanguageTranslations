@@ -9359,7 +9359,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
         <source>Show Python Interactor window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="unfinished">Show Python Interactor window for controlling the application&apos;s data, user interface, and internals</translation>
+        <translation>Afficher la fenêtre Python Interactor pour contrôler les données, l&apos;interface utilisateur et les éléments internes de l&apos;application.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="624"/>
