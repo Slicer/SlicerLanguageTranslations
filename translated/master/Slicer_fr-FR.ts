@@ -13861,7 +13861,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="234"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation type="unfinished">Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</translation>
+        <translation>Basculer la visibilité du réticule. Maintenir la touche Shift et déplacer la souris dans une vue pour définir la position du réticule.</translation>
     </message>
 </context>
 <context>
