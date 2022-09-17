@@ -2783,7 +2783,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="165"/>
         <source>free-hand select points</source>
-        <translation type="unfinished">free-hand select points</translation>
+        <translation>points de sélection à main levée</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="170"/>
@@ -2818,7 +2818,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation type="unfinished">Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</translation>
+        <translation>Ajustez le champ de vision de la visionneuse de tracé pour qu&apos;il corresponde à l&apos;étendue des axes du tracé.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
@@ -4477,7 +4477,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2591"/>
         <source>Continue</source>
-        <translation type="unfinished">Continue</translation>
+        <translation>Continuer</translation>
     </message>
 </context>
 <context>
@@ -5493,7 +5493,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="396"/>
         <source>Contour</source>
-        <translation type="unfinished">Contour</translation>
+        <translation>Contour</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="429"/>
@@ -6231,7 +6231,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
         <source>Min:</source>
-        <translation type="unfinished">Min:</translation>
+        <translation>Min :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="56"/>
@@ -7658,27 +7658,27 @@ Capacités graphiques de cet ordinateur:
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="80"/>
         <source>Export selected data to standard DICOM fields.
 Created data objects are compatible with most standard DICOM software.</source>
-        <translation type="unfinished">Exportez les données sélectionnées vers des champs DICOM standard.
+        <translation>Exportez les données sélectionnées vers des champs DICOM standard.
 Les objets de données créés sont compatibles avec la plupart des logiciels DICOM standard.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="84"/>
         <source>Export series</source>
-        <translation type="unfinished">Exporter des séries</translation>
+        <translation>Exporter des séries</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="94"/>
         <source>Save the entire scene, with all data and display settings embedded in private fields.
 The file can be stored on standard image archival systems and used in this application,
 but cannot be interpreted by most standard DICOM imaging applications.</source>
-        <translation type="unfinished">Enregistrez la scène entière, avec toutes les données et les paramètres d&apos;affichage intégrés dans des champs privés.
+        <translation>Enregistrez la scène entière, avec toutes les données et les paramètres d&apos;affichage intégrés dans des champs privés.
 Le fichier peut être stocké sur des systèmes d&apos;archivage d&apos;images standard et utilisé dans cette application,
 mais il ne peut pas être interprété par la plupart des applications d&apos;imagerie DICOM standard.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="99"/>
         <source>Export entire scene</source>
-        <translation type="unfinished">Exporter la scène entière</translation>
+        <translation>Exporter la scène entière</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="165"/>
@@ -7698,12 +7698,12 @@ mais il ne peut pas être interprété par la plupart des applications d&apos;im
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="282"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">Si elle est cochée, les étiquettes modifiées manuellement seront enregistrées dans la scène, préservées pour la prochaine exportation. Si cette case n&apos;est pas cochée, des modifications temporaires peuvent être effectuées, uniquement pour cette opération d&apos;exportation.</translation>
+        <translation>Si elle est cochée, les étiquettes modifiées manuellement seront enregistrées dans la scène, préservées pour la prochaine exportation. Si cette case n&apos;est pas cochée, des modifications temporaires peuvent être effectuées, uniquement pour cette opération d&apos;exportation.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="285"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Enregistrer les étiquettes modifiées</translation>
+        <translation>Enregistrer les étiquettes modifiées</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="321"/>
@@ -7715,7 +7715,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="325"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Exporter vers un dossier :</translation>
+        <translation>Exporter vers un dossier :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="335"/>
@@ -7730,12 +7730,12 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="405"/>
         <source>Error messages</source>
-        <translation type="unfinished">Messages d&apos;erreur</translation>
+        <translation>Messages d&apos;erreur</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="442"/>
         <source>Export</source>
-        <translation type="unfinished">Exporter</translation>
+        <translation>Exporter</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="497"/>
@@ -7745,12 +7745,12 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="500"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">la base de données DICOM</translation>
+        <translation>la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="506"/>
         <source>Export successful</source>
-        <translation type="unfinished">Exportation réussie</translation>
+        <translation>Exportation réussie</translation>
     </message>
 </context>
 <context>
@@ -8139,7 +8139,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="101"/>
         <source>Apply transforms</source>
-        <translation type="unfinished">Appliquer les transformations</translation>
+        <translation>Appliquer les transformations</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="591"/>
@@ -9517,7 +9517,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
         <source>centered</source>
-        <translation type="unfinished">centered</translation>
+        <translation>centré</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
@@ -9547,47 +9547,47 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
         <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-        <translation type="unfinished">Skip placement of highlighted control point(s) from the active list (will clear current position).</translation>
+        <translation>Ignorer le placement du ou des points de contrôle en surbrillance dans la liste active (effacera la position actuelle).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
         <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-        <translation type="unfinished">Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</translation>
+        <translation>Effacer la position du ou des points de contrôle en surbrillance de la liste active (les points de contrôle ne seront pas supprimés).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation type="unfinished">Delete the highlighted control point(s) from the active list</translation>
+        <translation>Supprimer le(s) point(s) de contrôle en surbrillance de la liste active</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation type="unfinished">Remove all control points from the active list</translation>
+        <translation>Supprimer tous les points de contrôle de la liste active</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Couper</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Coller</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="520"/>
         <source>Coordinates:  </source>
-        <translation type="unfinished">Coordinates:  </translation>
+        <translation>Coordonnées :  </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
         <source>Set visibility and coordinate system of control point positions.</source>
-        <translation type="unfinished">Set visibility and coordinate system of control point positions.</translation>
+        <translation>Définir la visibilité et le système de coordonnées des positions des points de contrôle.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
@@ -9597,12 +9597,12 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="542"/>
         <source>Local</source>
-        <translation type="unfinished">Local</translation>
+        <translation>Local</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="547"/>
         <source>Hide</source>
-        <translation type="unfinished">Hide</translation>
+        <translation>Cacher</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="567"/>
@@ -9638,7 +9638,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
         <source>Add a new control point to the active list, at origin</source>
-        <translation type="unfinished">Add a new control point to the active list, at origin</translation>
+        <translation>Ajouter un nouveau point de contrôle à la liste active, à l&apos;origine.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
@@ -9648,12 +9648,12 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="698"/>
         <source>Include %N for list name, %d for number.</source>
-        <translation type="unfinished">Include %N for list name, %d for number.</translation>
+        <translation>Incluez %N pour le nom de la liste, %d pour le nombre.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="701"/>
         <source>Name Format</source>
-        <translation type="unfinished">Name Format</translation>
+        <translation>Format du nom</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="708"/>
@@ -9663,23 +9663,23 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="715"/>
         <source>Reset the name format field to the default value.</source>
-        <translation type="unfinished">Reset the name format field to the default value.</translation>
+        <translation>Réinitialiser le champ du format du nom à la valeur par défaut.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="725"/>
         <source>Rename all control points in this list according to the current name format, trying to preserve numbers.</source>
-        <translation type="unfinished">Rename all control points in this list according to the current name format, trying to preserve numbers.</translation>
+        <translation>Renommez tous les points de contrôle de cette liste en fonction du format de nom actuel, en essayant de conserver les nombres.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="889"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="738"/>
@@ -9694,17 +9694,17 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="757"/>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Mesures</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="766"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation>Pas de mesure</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="773"/>
         <source>Measurement settings</source>
-        <translation type="unfinished">Measurement settings</translation>
+        <translation>Paramètres de mesure</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="833"/>
@@ -9719,17 +9719,17 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="851"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exporter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="858"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Importer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="867"/>
         <source>Table:</source>
-        <translation type="unfinished">Table:</translation>
+        <translation>Table :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="874"/>
@@ -9739,7 +9739,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="923"/>
         <source>Export coordinate system:</source>
-        <translation type="unfinished">Export coordinate system:</translation>
+        <translation>Exporter le système de coordonnées&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="932"/>
@@ -9757,7 +9757,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="257"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibilité</translation>
+        <translation>Visibilité</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="285"/>
@@ -9767,25 +9767,25 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="313"/>
         <source>Selected</source>
-        <translation type="unfinished">Selected</translation>
+        <translation>Sélectionné</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="359"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="363"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Couper</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="369"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="373"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="379"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="383"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Coller</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="964"/>
@@ -9795,22 +9795,22 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1637"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1843"/>
         <source>Delete All</source>
-        <translation type="unfinished">Delete All</translation>
+        <translation>Supprimer tout</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3190"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation>Pas de mesure</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3277"/>
         <source>Export control points coordinates and properties to table.</source>
-        <translation type="unfinished">Export control points coordinates and properties to table.</translation>
+        <translation>Exportez les coordonnées et les propriétés des points de contrôle vers la table.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3285"/>
@@ -9830,12 +9830,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="35"/>
         <source>Select the display color.</source>
-        <translation type="unfinished">Select the display color.</translation>
+        <translation>Sélectionnez la couleur d&apos;affichage.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="57"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Place a control point</translation>
+        <translation>Placer un point de contrôle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="60"/>
@@ -9847,53 +9847,53 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
         <source>Delete last added control point</source>
-        <translation type="unfinished">Delete last added control point</translation>
+        <translation>Supprimer le dernier point de contrôle ajouté</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="103"/>
         <source>Click for more options</source>
-        <translation type="unfinished">Click for more options</translation>
+        <translation>Cliquez pour plus d&apos;options</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="123"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="126"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished">Place multiple control points</translation>
+        <translation>Placer des points de contrôle multiples</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="135"/>
         <source>Delete all control points</source>
-        <translation type="unfinished">Delete all control points</translation>
+        <translation>Supprimer tous les points de contrôle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="138"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished">Delete all control points in the list</translation>
+        <translation>Supprimer tous les points de contrôle de la liste</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="147"/>
         <source>Clear last control point position</source>
-        <translation type="unfinished">Clear last control point position</translation>
+        <translation>Effacer la dernière position du point de contrôle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="150"/>
         <source>Clear the position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished">Clear the position of the last control point placed (the control point will not be deleted).</translation>
+        <translation>Effacer la position du dernier point de contrôle placé (le point de contrôle ne sera pas supprimé.)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="160"/>
         <source>Clear all control point positions</source>
-        <translation type="unfinished">Clear all control point positions</translation>
+        <translation>Effacer toutes les positions des points de contrôle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="163"/>
         <source>Clear the position of all control points in the list (the control points will not be deleted).</source>
-        <translation type="unfinished">Clear the position of all control points in the list (the control points will not be deleted).</translation>
+        <translation>Efface la position de tous les points de contrôle de la liste (les points de contrôle ne seront pas supprimés).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="173"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibilité</translation>
+        <translation>Visibilité</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="176"/>
@@ -9903,7 +9903,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="186"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>Verrouillé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="189"/>
@@ -9928,12 +9928,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="148"/>
         <source>Delete options</source>
-        <translation type="unfinished">Delete options</translation>
+        <translation>Supprimer les options</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="165"/>
         <source>More options</source>
-        <translation type="unfinished">More options</translation>
+        <translation>Plus d&apos;options</translation>
     </message>
 </context>
 <context>
@@ -9976,17 +9976,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation type="unfinished">Triangle2D</translation>
+        <translation>Triangle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
         <source>Square2D</source>
-        <translation type="unfinished">Square2D</translation>
+        <translation>Carré2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="67"/>
         <source>Circle2D</source>
-        <translation type="unfinished">Circle2D</translation>
+        <translation>Cercle2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="72"/>
@@ -9996,12 +9996,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="77"/>
         <source>Arrow2D</source>
-        <translation type="unfinished">Arrow2D</translation>
+        <translation>Flèche2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="82"/>
         <source>ThickArrow2D</source>
-        <translation type="unfinished">ThickArrow2D</translation>
+        <translation>Flèche épaisse2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="87"/>
@@ -10016,12 +10016,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="97"/>
         <source>Sphere3D</source>
-        <translation type="unfinished">Sphere3D</translation>
+        <translation>Sphère3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="105"/>
         <source>Default selected color:</source>
-        <translation type="unfinished">Default selected color:</translation>
+        <translation>Couleur sélectionnée par défaut&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="129"/>
@@ -10041,12 +10041,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="176"/>
         <source>Default text scale:</source>
-        <translation type="unfinished">Default text scale:</translation>
+        <translation>Échelle de texte par défaut:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="183"/>
         <source>Default text scale</source>
-        <translation type="unfinished">Default text scale</translation>
+        <translation>Échelle de texte par défaut</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="199"/>
@@ -10056,7 +10056,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="219"/>
         <source>Default active color:</source>
-        <translation type="unfinished">Default active color:</translation>
+        <translation>Couleur active par défaut :</translation>
     </message>
 </context>
 <context>
@@ -10145,7 +10145,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
@@ -10183,17 +10183,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="14"/>
         <source>Module finder</source>
-        <translation type="unfinished">Module finder</translation>
+        <translation>Recherche de modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
         <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-        <translation type="unfinished">Search in full text (module name and description). If unchecked then only module names are searched.</translation>
+        <translation>Recherche en texte intégral (nom du module et description). Si cette option n&apos;est pas cochée, seuls les noms de modules sont recherchés.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
         <source>&amp;Full text</source>
-        <translation type="unfinished">&amp;Full text</translation>
+        <translation>&amp;amp;Texte intégral</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
@@ -10208,7 +10208,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
         <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-        <translation type="unfinished">Show testing modules. Useful for software testing and troubleshooting.</translation>
+        <translation>Montre les modules de test. Utile pour les tests et le dépannage des logiciels.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
@@ -10221,7 +10221,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="96"/>
         <source>Switch to module</source>
-        <translation type="unfinished">Switch to module</translation>
+        <translation>Passer au module</translation>
     </message>
 </context>
 <context>
@@ -10229,7 +10229,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="20"/>
         <source>Module Panel</source>
-        <translation type="unfinished">Module Panel</translation>
+        <translation>&amp;amp;Panneau de modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
@@ -10252,33 +10252,33 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="98"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>Modules :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
         <source>Find</source>
-        <translation type="unfinished">Find</translation>
+        <translation>Trouver</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="110"/>
         <source>Find module</source>
-        <translation type="unfinished">Find module</translation>
+        <translation>Trouver le module</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="120"/>
         <source>Select a module from the module list</source>
-        <translation type="unfinished">Select a module from the module list</translation>
+        <translation>Sélectionnez un module dans la liste des modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="127"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="134"/>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
         <source>Modules history</source>
-        <translation type="unfinished">Modules history</translation>
+        <translation>Historique des modules</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="136"/>
@@ -10293,12 +10293,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="149"/>
         <source>Previous</source>
-        <translation type="unfinished">Previous</translation>
+        <translation>Précédent</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="150"/>
         <source>Previous modules</source>
-        <translation type="unfinished">Previous modules</translation>
+        <translation>Modules précédents</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="163"/>
@@ -10308,12 +10308,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="166"/>
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
         <source>Next modules</source>
-        <translation type="unfinished">Next modules</translation>
+        <translation>Modules suivants</translation>
     </message>
 </context>
 <context>
@@ -10326,7 +10326,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
         <source>View</source>
-        <translation type="unfinished">View</translation>
+        <translation>Vue</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
@@ -10352,7 +10352,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
         <source>Create and Place</source>
-        <translation type="unfinished">Create and Place</translation>
+        <translation>Créer et placer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="165"/>
@@ -10365,7 +10365,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation type="unfinished">Adjust</translation>
+        <translation>Ajuster</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
@@ -10375,7 +10375,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation type="unfinished">Select region</translation>
+        <translation>Sélectionner une région</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="104"/>
@@ -10385,7 +10385,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation type="unfinished">Select region - centered</translation>
+        <translation>Sélectionner une région - centrée</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="110"/>
@@ -10395,7 +10395,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
         <source>Adjust window/level</source>
-        <translation type="unfinished">Adjust window/level</translation>
+        <translation>Ajuster la fenêtre/le niveau</translation>
     </message>
 </context>
 <context>
@@ -10437,7 +10437,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
         <source>Compress</source>
-        <translation type="unfinished">Compress</translation>
+        <translation>Compresser</translation>
     </message>
 </context>
 <context>
@@ -10450,12 +10450,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
         <source>Charts</source>
-        <translation type="unfinished">Charts</translation>
+        <translation>Graphiques</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="58"/>
         <source>Chart:</source>
-        <translation type="unfinished">Chart:</translation>
+        <translation>Graphique :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="70"/>
@@ -10475,7 +10475,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
         <source>Data series:</source>
-        <translation type="unfinished">Data series:</translation>
+        <translation>Série de données :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="127"/>
@@ -10485,7 +10485,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
         <source>Clone data series</source>
-        <translation type="unfinished">Clone data series</translation>
+        <translation>Cloner les séries de données</translation>
     </message>
 </context>
 <context>
@@ -10506,7 +10506,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
@@ -10521,12 +10521,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished">Show reformat widget in 3D view</translation>
+        <translation>Afficher le widget de reformatage en vue 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="108"/>
         <source>Display &amp;&amp; Edit</source>
-        <translation type="unfinished">Display &amp;&amp; Edit</translation>
+        <translation>Afficher &amp;amp;&amp;amp; Modifier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
@@ -10536,12 +10536,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="179"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="188"/>
         <source>Coordinate Reference</source>
-        <translation type="unfinished">Coordinate Reference</translation>
+        <translation>Référence des coordonnées</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="194"/>
@@ -10551,17 +10551,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="204"/>
         <source>In Volume</source>
-        <translation type="unfinished">In Volume</translation>
+        <translation>En volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="229"/>
         <source>Center</source>
-        <translation type="unfinished">Center</translation>
+        <translation>Centre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="242"/>
         <source>Rotation</source>
-        <translation type="unfinished">Rotation</translation>
+        <translation>Rotation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="251"/>
@@ -10586,17 +10586,17 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="367"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="372"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagittale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="377"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="382"/>
@@ -10607,12 +10607,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="390"/>
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="397"/>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="406"/>
@@ -10632,12 +10632,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="429"/>
         <source>Normal To Camera</source>
-        <translation type="unfinished">Normal To Camera</translation>
+        <translation>Normal à la caméra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="486"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished">Lock Normal To Camera</translation>
+        <translation>Verrouillage normal de la caméra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
@@ -10655,22 +10655,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>select modified data only</source>
-        <translation type="unfinished">select modified data only</translation>
+        <translation>sélectionner uniquement les données modifiées</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
         <source>Change directory for selected files</source>
-        <translation type="unfinished">Change directory for selected files</translation>
+        <translation>Changement de répertoire pour les fichiers sélectionnés</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>Afficher les options</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished">Select scene &amp; modified data only</translation>
+        <translation>Sélectionner la scène et les données modifiées uniquement</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
@@ -10680,7 +10680,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="103"/>
         <source>File Format</source>
-        <translation type="unfinished">File Format</translation>
+        <translation>Format de fichier</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
@@ -10690,22 +10690,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="118"/>
         <source>Node Name</source>
-        <translation type="unfinished">Node Name</translation>
+        <translation>Nom du nœud</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="123"/>
         <source>Node Type</source>
-        <translation type="unfinished">Node Type</translation>
+        <translation>Type de nœud</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="128"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>État</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
@@ -10720,7 +10720,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1437"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>Toutes les données</translation>
     </message>
 </context>
 <context>
@@ -10731,53 +10731,53 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1150"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1157"/>
         <source>Modified</source>
-        <translation type="unfinished">Modified</translation>
+        <translation>Modifié</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="613"/>
         <source>Not Modified</source>
-        <translation type="unfinished">Not Modified</translation>
+        <translation>Non modifié</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="743"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation type="unfinished">Scene file was not saved because user chose not to overwrite existing file: %1.</translation>
+        <translation>Le fichier de scène n’a pas été enregistré car l’utilisateur a choisi de ne pas remplacer le fichier existant : %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="831"/>
         <source>Node %1 not saved, file name is empty.</source>
-        <translation type="unfinished">Node %1 not saved, file name is empty.</translation>
+        <translation>Le nœud %1 n&apos;a pas été enregistré, le nom du fichier est vide.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="841"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-        <translation type="unfinished">Node %1 was not saved because user chose not to overwrite existing file: %2.</translation>
+        <translation>Le nœud %1 n’a pas été enregistré car l’utilisateur a choisi de ne pas remplacer le fichier existant : %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="879"/>
         <source>Cannot write data file: %1.</source>
-        <translation type="unfinished">Cannot write data file: %1.</translation>
+        <translation>Impossible d&apos;écrire le fichier de données : %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="884"/>
         <source>Failed to save node %1 to file %2.</source>
-        <translation type="unfinished">Failed to save node %1 to file %2.</translation>
+        <translation>Échec de l&apos;enregistrement du nœud %1 dans le fichier %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="933"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1137"/>
         <source>Scene</source>
-        <translation type="unfinished">Scene</translation>
+        <translation>Scène</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1467"/>
         <source>Saving file...</source>
-        <translation type="unfinished">Saving file...</translation>
+        <translation>Enregistrement du fichier...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1468"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
-        <translation type="unfinished">The file: %1 already exists. Do you want to replace it ?</translation>
+        <translation>Le fichier&#xa0;: %1 existe déjà. Voulez-vous le remplacer ?</translation>
     </message>
 </context>
 <context>
@@ -10785,7 +10785,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="14"/>
         <source>Scalar Volume Display</source>
-        <translation type="unfinished">Scalar Volume Display</translation>
+        <translation>Affichage du volume scalaire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="32"/>
@@ -10813,12 +10813,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="14"/>
         <source>Scene Options</source>
-        <translation type="unfinished">Scene Options</translation>
+        <translation>Options de scène</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
         <source>Clear existing scene</source>
-        <translation type="unfinished">Clear existing scene</translation>
+        <translation>Effacer la scène existante</translation>
     </message>
 </context>
 <context>
@@ -10826,12 +10826,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
-        <translation type="unfinished">The scene file was saved with %1 application (this application is %2).</translation>
+        <translation>Le fichier de scène a été enregistré avec l&apos;application %1 (cette application est %2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
-        <translation type="unfinished">The scene file was created with a newer version of the application (%1) than the current version (%2).</translation>
+        <translation>Le fichier de scène a été créé avec une version de l&apos;application (%1) plus récente que la version actuelle (%2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
@@ -10841,7 +10841,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="169"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
-        <translation type="unfinished">These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</translation>
+        <translation>Ces extensions ont été installées lorsque la scène a été sauvegardée mais ne sont pas installées maintenant : %1. Ces extensions peuvent être nécessaires pour un chargement réussi de la scène.</translation>
     </message>
 </context>
 <context>
@@ -10858,25 +10858,25 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="45"/>
         <source>SceneViews</source>
-        <translation type="unfinished">SceneViews</translation>
+        <translation>Vues de scène</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="177"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="178"/>
         <source>Restore</source>
-        <translation type="unfinished">Restore</translation>
+        <translation>Restaurer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="184"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="190"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Supprimer</translation>
     </message>
 </context>
 <context>
@@ -10905,28 +10905,28 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="99"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="175"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation type="unfinished">Failed to save scene as %1 (path %2 is not writeable)</translation>
+        <translation>Impossible de sauvegarder la scène sous le nom de %1 (le chemin %2 n&apos;est pas accessible en écriture).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="147"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="192"/>
         <source>Failed to save scene as %1</source>
-        <translation type="unfinished">Failed to save scene as %1</translation>
+        <translation>Impossible d&apos;enregistrer la scène sous %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="228"/>
         <source>fails to be created</source>
-        <translation type="unfinished">fails to be created</translation>
+        <translation>ne parvient pas à être créé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="231"/>
         <source>contains 1 file or directory</source>
-        <translation type="unfinished">contains 1 file or directory</translation>
+        <translation>contient 1 fichier ou répertoire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="234"/>
         <source>contains %1 files or directories</source>
-        <translation type="unfinished">contains %1 files or directories</translation>
+        <translation>contient %1 fichiers ou répertoires</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="237"/>
@@ -10934,10 +10934,10 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 &quot;%1&quot;
 %2.
 Please choose an empty directory.</source>
-        <translation type="unfinished">Selected directory
+        <translation>Répertoire sélectionné
 &quot;%1&quot;
 %2.
-Please choose an empty directory.</translation>
+Veuillez choisir un répertoire vide.</translation>
     </message>
 </context>
 <context>
@@ -10945,7 +10945,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1181"/>
         <source>Unlimited</source>
-        <translation type="unfinished">Unlimited</translation>
+        <translation>Illimité</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1182"/>
