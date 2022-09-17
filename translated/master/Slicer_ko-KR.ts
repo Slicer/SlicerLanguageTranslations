@@ -6265,7 +6265,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerAboutDialog.ui" line="20"/>
         <source>About 3D Slicer</source>
-        <translation>3D Slicer 정보</translation>
+        <translation>3D 슬라이서 정보</translation>
     </message>
 </context>
 <context>
@@ -8723,7 +8723,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="245"/>
         <source>&amp;View</source>
-        <translation>보기 (&amp;amp;V)</translation>
+        <translation>보기(&amp;amp;V)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="249"/>
@@ -9071,7 +9071,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="657"/>
         <source>Dual 3D</source>
-        <translation>이중 3D</translation>
+        <translation>2중 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="669"/>
