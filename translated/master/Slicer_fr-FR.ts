@@ -11600,7 +11600,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
         <source>Display index string in SPRINTF format. Only the first conversion specification is replaced. Available specifiers are: fFgGeEs.</source>
-        <translation type="unfinished">Display index string in SPRINTF format. Only the first conversion specification is replaced. Available specifiers are: fFgGeEs.</translation>
+        <translation>Affiche la chaîne d&apos;index au format SPRINTF. Seule la première spécification de conversion est remplacée. Les spécificateurs disponibles sont : fFgGeEs.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
@@ -11610,12 +11610,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="431"/>
         <source>Sequence:</source>
-        <translation type="unfinished">Sequence:</translation>
+        <translation>Séquence :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="446"/>
         <source>Index properties</source>
-        <translation type="unfinished">Index properties</translation>
+        <translation>Propriétés de l&apos;indice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="452"/>
@@ -11625,12 +11625,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="465"/>
         <source>time</source>
-        <translation type="unfinished">time</translation>
+        <translation>temps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="472"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unit:</translation>
+        <translation>Unité :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="485"/>
@@ -11645,22 +11645,22 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="512"/>
         <source>Data nodes</source>
-        <translation type="unfinished">Data nodes</translation>
+        <translation>Nœuds de données</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="550"/>
         <source>Add/remove data nodes</source>
-        <translation type="unfinished">Add/remove data nodes</translation>
+        <translation>Ajouter/supprimer des nœuds de données</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="560"/>
         <source>Add to sequence items</source>
-        <translation type="unfinished">Add to sequence items</translation>
+        <translation>Ajouter aux éléments de la séquence</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="570"/>
         <source>Index value:</source>
-        <translation type="unfinished">Index value:</translation>
+        <translation>Valeur de l&apos;indice :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="577"/>
@@ -11670,47 +11670,47 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="588"/>
         <source>Index increment:</source>
-        <translation type="unfinished">Index increment:</translation>
+        <translation>Augmentation de l&apos;indice :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="621"/>
         <source>If enabled then after the selected node is added to the sequence items the selection moves to the next item</source>
-        <translation type="unfinished">If enabled then after the selected node is added to the sequence items the selection moves to the next item</translation>
+        <translation>Si cette option est activée, une fois que le nœud sélectionné est ajouté aux éléments de la séquence, la sélection passe à l&apos;élément suivant.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="624"/>
         <source>Auto-advance</source>
-        <translation type="unfinished">Auto-advance</translation>
+        <translation>Avance automatique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="678"/>
         <source>Node type:</source>
-        <translation type="unfinished">Node type:</translation>
+        <translation>Type de nœud :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="691"/>
         <source>undefined</source>
-        <translation type="unfinished">undefined</translation>
+        <translation>indéfini</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1331"/>
         <source>Include this node in synchronized playback</source>
-        <translation type="unfinished">Include this node in synchronized playback</translation>
+        <translation>Inclure ce nœud dans la lecture synchronisée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1335"/>
         <source>Overwrite the associated node&apos;s name during playback</source>
-        <translation type="unfinished">Overwrite the associated node&apos;s name during playback</translation>
+        <translation>Écraser le nom du nœud associé pendant la lecture.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1339"/>
         <source>Save changes to the node into the sequence</source>
-        <translation type="unfinished">Save changes to the node into the sequence</translation>
+        <translation>Sauvegarder les modifications du nœud dans la séquence</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1343"/>
         <source>Include this node in synchronized recording</source>
-        <translation type="unfinished">Include this node in synchronized recording</translation>
+        <translation>Inclure ce nœud dans l&apos;enregistrement synchronisé</translation>
     </message>
 </context>
 <context>
@@ -13629,8 +13629,8 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
         <source>Show all the units&apos; properties.
 This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</source>
-        <translation type="unfinished">Show all the units&apos; properties.
-This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</translation>
+        <translation>Afficher toutes les propriétés des unités.
+Cette option ne doit être utilisée que par des utilisateurs avancés qui comprennent les conséquences de la modification des propriétés d&apos;une unité.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
