@@ -10950,52 +10950,52 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1182"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
-        <translation type="unfinished">Cut through the entire segmentation. Only used for slice views.</translation>
+        <translation type="unfinished">Coupe la segmentation entière. Utilisé uniquement pour les vues en slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1183"/>
         <source>Positive</source>
-        <translation type="unfinished">Positive</translation>
+        <translation>Positif</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1184"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only positive side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation type="unfinished">Seul le côté positif du plan de slice est inclus dans la région de coupe. Utilisé uniquement pour les vues en slice.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1185"/>
         <source>Negative</source>
-        <translation type="unfinished">Negative</translation>
+        <translation>Négatif</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1186"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only negative side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation>Seul le côté négatif du plan de slice est inclus dans la région de coupe. Utilisé uniquement pour les vues en slice.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1187"/>
         <source>Symmetric</source>
-        <translation type="unfinished">Symmetric</translation>
+        <translation>Symétrique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1188"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
-        <translation type="unfinished">Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</translation>
+        <translation>La région coupée est limitée à l&apos;épaisseur spécifiée autour du plan de la slice. Utilisé uniquement pour les vues en slice.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1191"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
-        <translation type="unfinished">Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</translation>
+        <translation>Épaisseur de la région découpée. 0 signifie que seule la slice actuelle est incluse. Utilisé uniquement pour les vues de slice.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1198"/>
         <source>Slice cut:</source>
-        <translation type="unfinished">Slice cut:</translation>
+        <translation>Coupe en slice :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1199"/>
         <source>Restrict cut region in slice views.</source>
-        <translation type="unfinished">Restrict cut region in slice views.</translation>
+        <translation>Restreindre la région de coupe dans les vues en slice.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1207"/>
@@ -11005,7 +11005,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1208"/>
         <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
-        <translation type="unfinished">Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </translation>
+        <translation>Appliquez l&apos;effet de ciseaux à tous les segments visibles de haut en bas.                                           Après avoir appuyé sur &quot;Appliquer&quot; : Veuillez être patient - cela peut prendre du temps.                                           La progression sera affichée sous forme de message d&apos;état. </translation>
     </message>
 </context>
 <context>
@@ -11446,12 +11446,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="56"/>
         <source>Browsing</source>
-        <translation type="unfinished">Browsing</translation>
+        <translation>Navigation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="71"/>
         <source>Synchronized nodes</source>
-        <translation type="unfinished">Synchronized nodes</translation>
+        <translation>Nœuds synchronisés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="82"/>
@@ -11463,7 +11463,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="99"/>
         <source>(new sequence)</source>
-        <translation type="unfinished">(new sequence)</translation>
+        <translation>(nouvelle séquence)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="112"/>
@@ -11478,22 +11478,22 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="156"/>
         <source>Sequence</source>
-        <translation type="unfinished">Sequence</translation>
+        <translation>Séquence</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="159"/>
         <source>The sequence node&apos;s name.</source>
-        <translation type="unfinished">The sequence node&apos;s name.</translation>
+        <translation>Le nom du nœud de séquence.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="164"/>
         <source>Proxy node</source>
-        <translation type="unfinished">Proxy node</translation>
+        <translation>Nœud proxy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="167"/>
         <source>The &quot;proxy&quot; node for the sequence (the node to playback into or record from).</source>
-        <translation type="unfinished">The &quot;proxy&quot; node for the sequence (the node to playback into or record from).</translation>
+        <translation>Le noeud &quot;proxy&quot; de la séquence (le noeud à lire ou à enregistrer).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="175"/>
@@ -11508,7 +11508,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
         <source>Rename</source>
-        <translation type="unfinished">Rename</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
@@ -11518,7 +11518,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="204"/>
         <source>Save changes</source>
-        <translation type="unfinished">Save changes</translation>
+        <translation>Sauvegarder les changements</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="207"/>
@@ -11528,12 +11528,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
         <source>Plotting</source>
-        <translation type="unfinished">Plotting</translation>
+        <translation type="unfinished">Traçage</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
         <source>Enable interactive charting</source>
-        <translation type="unfinished">Enable interactive charting</translation>
+        <translation>Activez les graphiques interactifs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="268"/>
@@ -11543,27 +11543,27 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="283"/>
         <source>Enable item skip during playback:</source>
-        <translation type="unfinished">Enable item skip during playback:</translation>
+        <translation>Active le saut d&apos;élément pendant la lecture :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="290"/>
         <source>If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</source>
-        <translation type="unfinished">If checked, items may be skipped during playback to reach the requested frame rate. If not checked then each item is displayed during playback but the playback speed may be lower than requested.</translation>
+        <translation>Si cette case est cochée, des éléments peuvent être ignorés pendant la lecture pour atteindre la fréquence d&apos;images demandée. Si cette case n&apos;est pas cochée, chaque élément est affiché pendant la lecture mais la vitesse de lecture peut être inférieure à celle demandée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="300"/>
         <source>Record on master node only:</source>
-        <translation type="unfinished">Record on master node only:</translation>
+        <translation>Enregistrement sur le nœud maître uniquement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="314"/>
         <source>Master node:</source>
-        <translation type="unfinished">Master node:</translation>
+        <translation>Nœud maître&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
         <source>Recording sampling mode:</source>
-        <translation type="unfinished">Recording sampling mode:</translation>
+        <translation>Mode d’échantillonnage d’enregistrement:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
@@ -11575,24 +11575,24 @@ Veuillez choisir un répertoire vide.</translation>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="355"/>
         <source>Limited to playback rate</source>
         <extracomment>Limit recording frame rate to playback frame rate</extracomment>
-        <translation type="unfinished">Limited to playback rate</translation>
+        <translation>Limité à la vitesse de lecture</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="363"/>
         <source>Index display:</source>
-        <translation type="unfinished">Index display:</translation>
+        <translation>Affichage de l&apos;index :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="371"/>
         <source>Index</source>
         <extracomment>Display item index of master node</extracomment>
-        <translation type="unfinished">Index</translation>
+        <translation>Indice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="376"/>
         <source>Index value</source>
         <extracomment>Display index value of selected item</extracomment>
-        <translation type="unfinished">Index value</translation>
+        <translation>Valeur de l&apos;indice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="384"/>
@@ -11607,7 +11607,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="402"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="431"/>
@@ -13149,12 +13149,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
         <source>Allow table editing</source>
-        <translation type="unfinished">Allow table editing</translation>
+        <translation>Autoriser la modification du tableau</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="99"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
@@ -13385,7 +13385,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
         <source>Auto-save edits to the text node</source>
-        <translation type="unfinished">Auto-save edits to the text node</translation>
+        <translation type="unfinished">Sauvegarde automatique des modifications apportées au nœud de texte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="109"/>
