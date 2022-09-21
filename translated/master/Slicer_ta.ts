@@ -6,27 +6,27 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>உரையாடல்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறிப்பு உரை(vtkMRMLAnnotationTextNode1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>தெரிவுநிலையை நிலைமாற்று</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation type="unfinished"></translation>
+        <translation>பூட்டப்பட்டதை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="127"/>
@@ -34,7 +34,7 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="275"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="372"/>
         <source>Unselected Color</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்படாத வண்ணம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="134"/>
@@ -42,7 +42,7 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="282"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="419"/>
         <source>Selected Color</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட நிறம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="158"/>
@@ -50,82 +50,82 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="356"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="475"/>
         <source>Material</source>
-        <translation type="unfinished"></translation>
+        <translation>பொருள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>புள்ளிகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="194"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>அளவு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="201"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>வகை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
         <source>Glyph type combo box</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் வகை சேர்க்கை பெட்டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="295"/>
         <source>Text Scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>உரை அளவுகோல்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒளிபுகாநிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>கோடுகள்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>அகலம்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
         <source>Label Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள் தெரிவுநிலை</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
         <source>Distance in mm between major ticks</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிய டிக்களுக்கு இடையே மிமீ தூரம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
         <source>Tick Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>டிக் இடைவெளி:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
         <source>Label Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள் நிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
         <source>Position the label along the line</source>
-        <translation type="unfinished"></translation>
+        <translation>வரியுடன் லேபிளை வைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
         <source>Max # of Ticks:</source>
-        <translation type="unfinished"></translation>
+        <translation>அதிகபட்சம் # டிக்கள்:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>படிவம்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
@@ -156,7 +156,7 @@
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
         <source>Sequence browser</source>
-        <translation type="unfinished"></translation>
+        <translation>வரிசை உலாவி</translation>
     </message>
 </context>
 <context>
@@ -164,12 +164,12 @@
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="105"/>
         <source>patient right is screen left (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளியின் வலதுபுறம் திரை இடதுபுறம் (இயல்புநிலை)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
         <source>patient right is screen right</source>
-        <translation type="unfinished"></translation>
+        <translation>நோயாளி வலது திரை வலது</translation>
     </message>
 </context>
 <context>
@@ -177,82 +177,82 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
         <source>Scene Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி செயல்திறன்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>செயல்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="35"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
         <source>Add Data (or Scene)</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவைச் சேர் (அல்லது காட்சி)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="51"/>
         <source>Restore scene</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சியை மீட்டெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="56"/>
         <source>Close Scene</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடு காட்சி</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
         <source>Switch to Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>தளவமைப்புக்கு மாறவும்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
         <source>Add (copy of current) node</source>
-        <translation type="unfinished"></translation>
+        <translation>(தற்போதைய நகல்) முனையைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="71"/>
         <source>Modify (current) node</source>
-        <translation type="unfinished"></translation>
+        <translation>(தற்போதைய) முனையை மாற்றவும்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="79"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>உரலி</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="86"/>
         <source>Results</source>
-        <translation type="unfinished"></translation>
+        <translation>விடைகள்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>தளவமைப்பு</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
         <source>file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்பு பெயர்:</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
         <source>Node</source>
-        <translation type="unfinished"></translation>
+        <translation>முனை</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
         <source>Run and time</source>
-        <translation type="unfinished"></translation>
+        <translation>ஓடு மற்றும் நேரம்</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
         <source>SceneView</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சிப்பார்வை</translation>
     </message>
 </context>
 <context>
@@ -260,142 +260,142 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் காட்சி குறிப்புகள் அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
         <source>Enable Slice View Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் காட்சி குறிப்புகளை இயக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
         <source>Corner Text Annotation</source>
-        <translation type="unfinished"></translation>
+        <translation>மூலை உரை சிறுகுறிப்பு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
         <source>Active Corners</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள மூலைகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>மேல் இடது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="68"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>மேல் வலது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="78"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>கீழே இடது</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="104"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>தொகை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>சிறுகுறிப்பு காட்சி நிலை:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>ஒன்று</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="127"/>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>இரண்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="134"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>மூன்று</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
         <source>Font Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்துரு பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
         <source>Font Family: </source>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்துரு குடும்பம்: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation type="unfinished"></translation>
+        <translation>நேரங்கள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
         <source>Arial</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏரியல்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
         <source>Font Size: </source>
-        <translation type="unfinished"></translation>
+        <translation>எழுத்துரு அளவு: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
         <source>DICOM Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM குறிப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புற தொகுதி DICOM அல்லாததாக இருந்தால் பின்னணி தொகுதி DICOM குறிப்புகளைக் காட்டு.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
         <source>Background DICOM annotations persistence</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணி DICOM சிறுகுறிப்புகள் நிலைத்தன்மை</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="260"/>
         <source>Color Scalar Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>வண்ண ஸ்கேலர் பார்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="266"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>இயக்கு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="273"/>
         <source>Layer Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>அடுக்கு தேர்வு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="279"/>
         <source>Active Layer:</source>
-        <translation type="unfinished"></translation>
+        <translation>செயலில் உள்ள அடுக்கு:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="286"/>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>பின்னணி</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="296"/>
         <source>Foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>முன்புறம்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="319"/>
         <source>Labels Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>லேபிள்கள் பண்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="325"/>
         <source>Range Label Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>வரம்பு லேபிள் வடிவம்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="332"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="360"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>இயல்புநிலைகளை மீட்டமை</translation>
     </message>
 </context>
 <context>
@@ -413,17 +413,17 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீடுகள்</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>உள்ளீடு தொகுதி:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>அல்காரிதத்திற்கு உள்ளீட்டைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="33"/>
@@ -435,62 +435,62 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
         <source>Image threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>பட வாசல்:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீட்டு படத்தைக் கணக்கிடுவதற்கான நுழைவு மதிப்பை அமைக்கவும். இந்த மதிப்பை விட குறைவான தீவிரம் கொண்ட வோக்சல்கள் பூஜ்ஜியமாக அமைக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
         <source>Outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>வெளியீடுகள்</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
         <source>Thresholded volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>வரம்பு அளவு:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>அல்காரிதத்திற்கு வெளியீட்டைத் தேர்ந்தெடுக்கவும்.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
         <source>Inverted volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>தலைகீழ் தொகுதி:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation type="unfinished"></translation>
+        <translation>தலைகீழ் நுழைவாயிலுடன் கூடிய முடிவு இந்தத் தொகுதியில் எழுதப்படும்</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>மேம்படுத்தபட்ட</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
         <source>Invert threshold: </source>
-        <translation type="unfinished"></translation>
+        <translation>தலைகீழ் வாசல்: </translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>சரிபார்த்தால், வரம்புக்கு மேலே உள்ள மதிப்புகள் 0 ஆக அமைக்கப்படும். தேர்வு செய்யாவிட்டால், கீழே உள்ள மதிப்புகள் 0 ஆக அமைக்கப்படும்.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>அல்காரிதத்தை இயக்கவும்.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>விண்ணப்பிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -498,122 +498,122 @@
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
         <source>My custom UI</source>
-        <translation type="unfinished"></translation>
+        <translation>எனது தனிப்பயன் UI</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <source>Import files into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தரவுத்தளத்தில் கோப்புகளை இறக்குமதி செய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
         <source>    Import DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation>    DICOM கோப்புகளை இறக்குமதி செய்யவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Show DICOM database browser window</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தரவுத்தள உலாவி சாளரத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>    DICOM தரவுத்தளத்தைக் காட்டு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
         <source>Loaded data</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றப்பட்ட தரவு</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
         <source>DICOM networking</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM நெட்வொர்க்கிங்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
         <source>Pull data from remote server:</source>
-        <translation type="unfinished"></translation>
+        <translation>ரிமோட் சர்வரிலிருந்து தரவை இழுக்கவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation type="unfinished"></translation>
+        <translation>ரிமோட் சர்வரிலிருந்து DICOM தரவுத் தொகுப்புகளை வினவவும் மீட்டெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation type="unfinished"></translation>
+        <translation>வினவவும் மீட்டெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
         <source>Storage listener:</source>
-        <translation type="unfinished"></translation>
+        <translation>சேமிப்பக கேட்பவர்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
         <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-        <translation type="unfinished"></translation>
+        <translation>படங்களைப் பெற DICOM கேட்கும் சேவையகத்தை இயக்கவும் (C-Store SCP)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடக்கத்தில் சேமிப்பக கேட்பவரைத் தொடங்கவும்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
         <source>Automatically start listener on application startup</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாடு தொடங்கும் போது தானாகவே கேட்பவரைத் தொடங்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
         <source>DICOM database settings</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM தரவுத்தள அமைப்புகள்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
         <source>Database location:</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தள இடம்:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
         <source>Auto-hide browser window:</source>
-        <translation type="unfinished"></translation>
+        <translation>உலாவி சாளரத்தை தானாக மறை:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
         <source>Maintenance:</source>
-        <translation type="unfinished"></translation>
+        <translation>பராமரிப்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
         <source>Hide DICOM database browser after data loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவு ஏற்றப்பட்ட பிறகு DICOM தரவுத்தள உலாவியை மறைக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>குறிப்பிடப்பட்ட DICOM கோப்பு வட்டில் காணப்படவில்லை எனில் DICOM தரவுத்தளத்திலிருந்து அனைத்து பொருட்களையும் அகற்றவும்.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
         <source>Remove unavailable data sets</source>
-        <translation type="unfinished"></translation>
+        <translation>கிடைக்காத தரவுத் தொகுப்புகளை அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
         <source>Removes all data from the database and all files that were copied into the database during import.</source>
-        <translation type="unfinished"></translation>
+        <translation>தரவுத்தளத்திலிருந்து அனைத்து தரவையும் மற்றும் இறக்குமதியின் போது தரவுத்தளத்தில் நகலெடுக்கப்பட்ட அனைத்து கோப்புகளையும் நீக்குகிறது.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
         <source>Remove all data sets</source>
-        <translation type="unfinished"></translation>
+        <translation>அனைத்து தரவு தொகுப்புகளையும் அகற்று</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
         <source>DICOM plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM செருகுநிரல்கள்</translation>
     </message>
 </context>
 <context>
@@ -621,17 +621,17 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>படிவம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="20"/>
         <source>PointName</source>
-        <translation type="unfinished"></translation>
+        <translation>புள்ளி பெயர்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
         <source>Glyph type combo box</source>
-        <translation type="unfinished"></translation>
+        <translation>கிளிஃப் வகை சேர்க்கை பெட்டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
@@ -650,45 +650,45 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="45"/>
         <source>Turn on/off visualization of projected fiducial on 2D viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>2D பார்வையாளர்களில் ப்ரொஜெக்ட் செய்யப்பட்ட ஃபியூசியலின் காட்சிப்படுத்தலை இயக்கவும்/முடக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="38"/>
         <source>2D Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>2டி ப்ராஜெக்ஷன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
         <source>Color of the projected fiducial on 2D viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>2D பார்வையாளர்களில் திட்டமிடப்பட்ட நம்பிக்கையின் நிறம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
         <source>Projection Color</source>
-        <translation type="unfinished"></translation>
+        <translation>திட்ட வண்ணம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="109"/>
         <source>Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் விமானத்தின் மேல் இருக்கும் போது ஃபியூசியல் ப்ரொஜெக்ஷன் நிரம்பியதாகவும், பின்னால் இருக்கும் போது கோடிட்டுக் காட்டப்பட்டதாகவும், விமானத்தில் இருக்கும் போது முழு ஒளிபுகாநிலையுடன் காட்டப்படும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
         <source>Outlined Behind Slice Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் பிளேனின் பின்னால் கோடிட்டுக் காட்டப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="132"/>
         <source>Use the same color as fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation>அதே நிறத்தைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="125"/>
         <source>Use Fiducial Color</source>
-        <translation type="unfinished"></translation>
+        <translation>நம்பிக்கையான நிறத்தைப் பயன்படுத்தவும்</translation>
     </message>
 </context>
 <context>
@@ -696,39 +696,39 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>படிவம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="31"/>
         <source>L-R Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>எல்-ஆர் வரம்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="672"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1319"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1965"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>நீளம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>பி-ஏ வரம்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1326"/>
         <source>I-S Range:</source>
-        <translation type="unfinished"></translation>
+        <translation>I-S வரம்பு:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2004"/>
         <source>Display Clipping box</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி இணைப்பு பெட்டி</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2027"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ஊடாடும் பயன்முறை</translation>
     </message>
 </context>
 <context>
@@ -736,13 +736,13 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLAnnotationRulerProjectionPropertyWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>qMRMLAஅறிகுறிப்புRulerProjectionPropertyWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="48"/>
         <source>Turn on/off visualization of projected line on 2D viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>2D பார்வையாளர்களில் திட்டமிடப்பட்ட வரியின் காட்சிப்படுத்தலை இயக்கவும்/முடக்கவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
