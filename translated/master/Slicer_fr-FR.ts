@@ -2046,12 +2046,12 @@
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
         <source>Gouraud</source>
-        <translation type="unfinished">Gouraud</translation>
+        <translation>Gouraud</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
         <source>Phong</source>
-        <translation type="unfinished">Phong</translation>
+        <translation>Phong</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="269"/>
@@ -6306,7 +6306,7 @@ p, li { espace blanc&#xa0;: pré-enveloppe&#xa0;; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
         <source>Fiducial</source>
-        <translation type="unfinished">Fiducial</translation>
+        <translation type="unfinished">Alignement</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
@@ -6915,7 +6915,7 @@ p, li { espace blanc&#xa0;: pré-enveloppe&#xa0;; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="420"/>
         <source>winnt</source>
-        <translation type="unfinished">winnt</translation>
+        <translation>winnt</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="422"/>
@@ -6943,7 +6943,7 @@ p, li { espace blanc&#xa0;: pré-enveloppe&#xa0;; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="428"/>
         <source>darwin</source>
-        <translation type="unfinished">darwin</translation>
+        <translation>darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="430"/>
