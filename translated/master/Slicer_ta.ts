@@ -430,7 +430,7 @@
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="96"/>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="127"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLஸ்கேலார் வால்யூம் நோட்</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
@@ -747,29 +747,29 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
         <source>2D Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>2டி ப்ராஜெக்ஷன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
         <source>Color of the projected line on 2D viewers</source>
-        <translation type="unfinished"></translation>
+        <translation>2D பார்வையாளர்களில் திட்டமிடப்பட்ட கோட்டின் நிறம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
         <source>Projection Color</source>
-        <translation type="unfinished"></translation>
+        <translation>திட்ட வண்ணம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="108"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="118"/>
         <source>Thickness of the part of the line on top of the slice plane</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் விமானத்தின் மேல் கோட்டின் பகுதியின் தடிமன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
         <source>Overline Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>ஓவர்லைன் தடிமன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="121"/>
@@ -781,50 +781,50 @@
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="134"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="144"/>
         <source>Thickness of the part of the line under the slice plane</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் விமானத்தின் கீழ் கோட்டின் பகுதியின் தடிமன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
         <source>Underline Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>அடிக்கோடி தடிமன்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="160"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="170"/>
         <source>Color projected line, with slice plane color, when parallel to it</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் ப்ளேன் நிறத்துடன், அதற்கு இணையாக இருக்கும் வண்ணம் திட்டமிடப்பட்ட கோடு</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="163"/>
         <source>Colored When Parallel</source>
-        <translation type="unfinished"></translation>
+        <translation>இணையாக இருக்கும்போது வண்ணம்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="183"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="193"/>
         <source>Display the projected part of the ruler on the top of the slice plane thicker than the part under</source>
-        <translation type="unfinished"></translation>
+        <translation>கீழே உள்ள பகுதியை விட தடிமனாக ஸ்லைஸ் விமானத்தின் மேல் பகுதியில் ரூலரின் திட்டமிடப்பட்ட பகுதியைக் காட்டவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
         <source>Thicker On Top</source>
-        <translation type="unfinished"></translation>
+        <translation>மேலே தடிமனாக இருக்கும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="206"/>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="216"/>
         <source>Display the line dashed when not parallel to the slice plane</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்லைஸ் ப்ளேனுக்கு இணையாக இல்லாத போது கோடு போட்டதைக் காட்டவும்</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="209"/>
         <source>Dashed</source>
-        <translation type="unfinished"></translation>
+        <translation>கோடு போட்டது</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="229"/>
         <source>Use Ruler Color</source>
-        <translation type="unfinished"></translation>
+        <translation>ஆட்சியாளர் நிறத்தைப் பயன்படுத்தவும்</translation>
     </message>
 </context>
 <context>
@@ -832,17 +832,17 @@
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>ஸ்கிரீன்ஷாட்</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation>முழு தளவமைப்பு, 3D காட்சி அல்லது ஸ்லைஸ் காட்சிகளின் ஸ்கிரீன்ஷாட்டைப் பிடிக்கவும். படத்தைச் சேமிக்க கோப்பைப் பயன்படுத்தவும், சேமிக்கவும். சிறுகுறிப்பு தொகுதியில் திருத்தவும்.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation type="unfinished"></translation>
+        <translation>காட்சி காட்சி</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
