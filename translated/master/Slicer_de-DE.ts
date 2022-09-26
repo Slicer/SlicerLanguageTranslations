@@ -355,7 +355,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
         <source>Background DICOM annotations persistence</source>
-        <translation type="unfinished">Background DICOM annotations persistence</translation>
+        <translation>Hintergrund-DICOM-Anmekerungslebensdauer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="260"/>
@@ -390,7 +390,7 @@
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="319"/>
         <source>Labels Properties</source>
-        <translation type="unfinished">Labels Properties</translation>
+        <translation>Labeleigenschaften</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="325"/>
@@ -440,7 +440,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation type="unfinished">Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</translation>
+        <translation>Setze Schwellwert zur Berechnung des Ergebnisbilds. Volumen die geringere Intensitäten beitzen als dieser Schwellwert werden auf Null gesetzt.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
@@ -465,7 +465,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation type="unfinished">Result with inverted threshold will be written into this volume</translation>
+        <translation>Ergebnis mit invertiertem Schwellwert wird in dieses Volumen geschrieben</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
@@ -480,7 +480,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-        <translation type="unfinished">If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</translation>
+        <translation>Wenn aktiv, Werte überhalb des Schwellwerts werden auf 0 gesetzt. Wenn inaktiv, Werte unterhalb werden auf 0 gesetzt.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
