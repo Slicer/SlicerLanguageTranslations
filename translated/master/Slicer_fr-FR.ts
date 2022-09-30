@@ -14351,7 +14351,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="102"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</translation>
+        <translation>Soulevez l&apos;assistant &quot;Gestionnaire d&apos;extensions&quot; qui permet de trouver, télécharger et installer les extensions Slicer.&lt;br&gt;&lt;br&gt;Une extension est un paquet de livraison regroupant un ou plusieurs modules Slicer.&lt;br&gt;&lt;br&gt;Après avoir installé une extension, les modules associés seront disponibles dans le sélecteur de modules.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="105"/>
