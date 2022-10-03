@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">व्याख्या-टेक्स्ट(vtkMRMLव्याख्या-टेक्स्ट-हेतु -नोड संख्या-1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
@@ -90,17 +90,17 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>रेखाएँ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>चौड़ाई:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
         <source>Label Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>सूचक-प्रत्यक्षता</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
