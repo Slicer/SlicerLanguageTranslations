@@ -1153,7 +1153,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;Formatfältet använder syntaxen för printf-funktionen. Exempel på format:&lt;br&gt; - visa med 1 bråksiffra: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt; - visa heltal: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt; - visa med 4 signifikanta siffror: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt; - strängetikettskommentar: &lt;b&gt;%s&lt;/b&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;Formatfältet använder syntaxen för printf-funktionen. Exempel på format:&lt;br&gt; - visa med 1 bråksiffra: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt; - visa heltal: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt; - visa med 4 signifikanta siffror: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt; - strängetikettskommentar: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
