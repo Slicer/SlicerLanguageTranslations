@@ -1153,7 +1153,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;Il campo Formato utilizza la sintassi della funzione printf. Formati di esempio:&lt;br&gt;    - mostra con 1 decimale: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - mostra un intero: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - mostra con 4 cifre significative: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - annotazione della concatenazione delle etichette: &lt;b&gt;%s&lt;/b&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;Il campo Formato utilizza la sintassi della funzione printf. Formati di esempio:&lt;br&gt;    - mostra con 1 decimale: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - mostra un intero: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - mostra con 4 cifre significative: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - annotazione della concatenazione delle etichette: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1192,27 +1192,27 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visible:</source>
-        <translation>&amp;amp;Visibile:</translation>
+        <translation>&amp;Visibile:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation>&amp;amp;Selezionato:</translation>
+        <translation>&amp;Selezionato:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation>&amp;amp;Ritaglia:</translation>
+        <translation>&amp;Ritaglia:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visible:</source>
-        <translation>Sezione &amp;amp;Intersezioni Visibili:</translation>
+        <translation>Sezione &amp;Intersezioni Visibili:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation>Intersezioni delle Sezioni &amp;amp;Spessore:</translation>
+        <translation>Intersezioni delle Sezioni &amp;Spessore:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
