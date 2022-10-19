@@ -1153,7 +1153,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;El camp Format utilitza la sintaxi de la funció printf. Formats d&apos;exemple:&lt;br&gt;    - mostrar amb 1 decimal: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - mostrar un enter: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - mostrar amb 4 dígits significatius: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - anotació d&apos;etiquetes de cadena: &lt;b&gt;%s&lt;/b&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;El camp Format utilitza la sintaxi de la funció printf. Formats d&apos;exemple:&lt;br&gt;    - mostrar amb 1 decimal: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - mostrar un enter: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - mostrar amb 4 dígits significatius: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - anotació d&apos;etiquetes de cadena: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1192,17 +1192,17 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visible:</source>
-        <translation>&amp;amp;Visible:</translation>
+        <translation>&amp;Visible:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation>&amp;amp;Seleccionat:</translation>
+        <translation>&amp;Seleccionat:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation>&amp;amp;Retallar:</translation>
+        <translation>&amp;Retallar:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
@@ -6775,7 +6775,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>&amp;Keyboard Shortcuts</source>
-        <translation>&amp;amp;Dreceres de _teclat</translation>
+        <translation>&amp;Dreceres de _teclat</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
@@ -8056,7 +8056,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Preguntes i sol·licituds de funcionalitats:&lt;/span&gt; visita el &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt; fòrum Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Informes d&apos;errors: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;publica un tema nou al fòrum Slicer&lt;/span&gt;&lt;/a&gt; per explicar-nos el teu problema o envia un informe d&apos;error al &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;rastrejador d&apos;errors 3D Slicer&lt;/span&gt;&lt;/a&gt;. Descriu els passos que condueixen a l&apos;error i adjunta els missatges del registre.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Avís: si treballes amb dades de pacients:&lt;/span&gt; Comprova que els missatges de registre no continguin cap informació que pugui identificar un pacient. Envia els missatges de registre a persones específiques en lloc de compartir-los públicament en una llista de correu o lloc web.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Preguntes i sol·licituds de funcionalitats:&lt;/span&gt; visita el &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt; fòrum Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Informes d&apos;errors: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;publica un tema nou al fòrum Slicer&lt;/span&gt;&lt;/a&gt; per explicar-nos el teu problema o envia un informe d&apos;error al &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;rastrejador d&apos;errors 3D Slicer&lt;/span&gt;&lt;/a&gt;. Descriu els passos que condueixen a l&apos;error i adjunta els missatges del registre.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Avís: si treballes amb dades de pacients:&lt;/span&gt; Comprova que els missatges de registre no continguin cap informació que pugui identificar un pacient. Envia els missatges de registre a persones específiques en lloc de compartir-los públicament en una llista de correu o lloc web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -8720,7 +8720,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="233"/>
         <source>&amp;Edit</source>
-        <translation>&amp;amp;Editar</translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="245"/>
