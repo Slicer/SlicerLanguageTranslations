@@ -1153,7 +1153,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;格式字段使用printf函数语法，示例格式：&lt;br&gt;    - 用1个小数位数显示：&lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - 显示整数： &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - 用4位有效数字显示：&lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - 字符串标签注释： &lt;b&gt;%s&lt;/b&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;格式字段使用printf函数语法，示例格式：&lt;br&gt;    - 用1个小数位数显示：&lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - 显示整数： &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - 用4位有效数字显示：&lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - 字符串标签注释： &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1192,7 +1192,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visible:</source>
-        <translation>&amp;amp;可视化:</translation>
+        <translation>&amp;可视化:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
