@@ -1153,7 +1153,7 @@
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;형식 필드는 printf 함수 구문을 사용합니다. 예시 형식:&lt;br&gt;    - 소수점 이하 1자리 표시: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - 정수 표시: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - 유효 숫자 4개로 표시: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - 문자열 레이블 주석: &lt;b&gt;%s&lt;/b&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;형식 필드는 printf 함수 구문을 사용합니다. 예시 형식:&lt;br&gt;    - 소수점 이하 1자리 표시: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - 정수 표시: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - 유효 숫자 4개로 표시: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - 문자열 레이블 주석: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1192,12 +1192,12 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visible:</source>
-        <translation>가시성(&amp;amp;V):</translation>
+        <translation>가시성(&amp;V):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation>선택(&amp;amp;S):</translation>
+        <translation>선택(&amp;S):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
@@ -1207,12 +1207,12 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visible:</source>
-        <translation>슬라이스 교차점 가시성(&amp;amp;I):</translation>
+        <translation>슬라이스 교차점 가시성(&amp;I):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation>슬라이스 교차점 및 두께(&amp;amp;T):</translation>
+        <translation>슬라이스 교차점 및 두께(&amp;T):</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
@@ -6774,7 +6774,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>&amp;Keyboard Shortcuts</source>
-        <translation>키보드 단축키(&amp;amp;K)</translation>
+        <translation>키보드 단축키(&amp;K)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
@@ -8055,7 +8055,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;질문 및 기능 요청:&lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicer 포럼&lt;/span&gt;&lt;/a&gt;방문하세요.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;버그 보고서: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;슬라이서 포럼에 새 주제를 게시&lt;/span&gt;&lt;/a&gt;하여 문제에 대해 알려주거나 &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;3D Slicer 버그추적기&lt;/span&gt;&lt;/a&gt;에 버그 보고서를 제출하세요. 오류로 이어지는 단계를 설명하고 로그 메시지도 첨부하세요.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;경고 - 환자 데이터로 작업하는 경우:&lt;/span&gt; 로그 메시지에 환자를 식별할 수 있는 정보가 포함되어 있지 않은지 확인하십시오. 메일링 리스트나 웹사이트에서 공개적으로 공유하는 대신 특정 사람들에게 로그 메시지를 보냅니다.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;질문 및 기능 요청:&lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;Slicer 포럼&lt;/span&gt;&lt;/a&gt;방문하세요.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;버그 보고서: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;슬라이서 포럼에 새 주제를 게시&lt;/span&gt;&lt;/a&gt;하여 문제에 대해 알려주거나 &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;3D Slicer 버그추적기&lt;/span&gt;&lt;/a&gt;에 버그 보고서를 제출하세요. 오류로 이어지는 단계를 설명하고 로그 메시지도 첨부하세요.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;경고 - 환자 데이터로 작업하는 경우:&lt;/span&gt; 로그 메시지에 환자를 식별할 수 있는 정보가 포함되어 있지 않은지 확인하십시오. 메일링 리스트나 웹사이트에서 공개적으로 공유하는 대신 특정 사람들에게 로그 메시지를 보냅니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -8719,7 +8719,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="233"/>
         <source>&amp;Edit</source>
-        <translation>편집(&amp;amp;E)</translation>
+        <translation>편집(&amp;E)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="245"/>
