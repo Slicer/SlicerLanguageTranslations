@@ -138,7 +138,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">形成</translation>
+        <translation type="unfinished">表格</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="23"/>
@@ -14319,12 +14319,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="62"/>
         <source>Allow</source>
-        <translation type="unfinished">Allow</translation>
+        <translation>允許</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="63"/>
         <source>Reject</source>
-        <translation type="unfinished">Reject</translation>
+        <translation>拒絕</translation>
     </message>
 </context>
 <context>
@@ -14332,7 +14332,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation type="unfinished">Welcome</translation>
+        <translation>歡迎</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="51"/>
@@ -14397,7 +14397,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="172"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished">Unfortunately, this requested module is not available in this Slicer session.</translation>
+        <translation type="unfinished">很遺憾此請求的模塊在此Slicer中不可用。</translation>
     </message>
 </context>
 </TS>
