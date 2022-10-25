@@ -8711,7 +8711,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="217"/>
         <source>&amp;File</source>
-        <translation>&amp;amp;Dossier</translation>
+        <translation>&amp;Fichier</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="221"/>
