@@ -4909,7 +4909,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
         <source>Copy</source>
-        <translation>Copie</translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -4974,7 +4974,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
-        <translation>Copie</translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
@@ -8980,7 +8980,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="554"/>
         <source>Copy</source>
-        <translation>Copie</translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="557"/>
