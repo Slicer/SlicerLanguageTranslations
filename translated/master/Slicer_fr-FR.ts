@@ -2713,7 +2713,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation>Ajouter/Retirer les plots data series au/du diagramme actuel.</translation>
+        <translation type="unfinished">Ajoutez/supprimez des séries de données de tracés vers/depuis le graphique actuel.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="66"/>
