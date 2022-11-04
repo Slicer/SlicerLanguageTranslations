@@ -11132,7 +11132,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="329"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation type="unfinished">Copie de la segmentation actuelle vers un autre nœud (nœud de segmentation pour la copie et nœud de modèle ou d&apos;étiquette pour l&apos;importation/exportation).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="332"/>
@@ -11142,7 +11142,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="357"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</translation>
+        <translation type="unfinished">Copie de la segmentation actuelle à partir d&apos;un autre nœud (nœud de segmentation pour la copie et nœud de modèle ou d&apos;étiquette pour l&apos;importation/exportation).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="360"/>
@@ -11238,7 +11238,7 @@ Veuillez choisir un répertoire vide.</translation>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="609"/>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="619"/>
         <source>Exported labelmap geometry will match this volume&apos;s geometry</source>
-        <translation type="unfinished">Exported labelmap geometry will match this volume&apos;s geometry</translation>
+        <translation type="unfinished">La géométrie de la carte d&apos;étiquettes exportée correspondra à la géométrie de ce volume.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="612"/>
@@ -11263,7 +11263,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="673"/>
         <source>Labels of the imported labelmap will be mapped to terminology entries of this context</source>
-        <translation type="unfinished">Labels of the imported labelmap will be mapped to terminology entries of this context</translation>
+        <translation type="unfinished">Les étiquettes de la carte d&apos;étiquettes importée seront mises en correspondance avec les entrées terminologiques de ce contexte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="679"/>
@@ -11347,7 +11347,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1041"/>
         <source>Failed to import labelmap volume</source>
-        <translation type="unfinished">Failed to import labelmap volume</translation>
+        <translation type="unfinished">Échec de l&apos;importation du volume labelmap</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1052"/>
@@ -12684,7 +12684,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1004"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished">Failed to export segmentation to labelmap node</translation>
+        <translation type="unfinished">Échec de l&apos;exportation de la segmentation vers le nœud labelmap</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1043"/>
@@ -13469,7 +13469,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
         <source>Translation in global or local (rotated) reference frame</source>
-        <translation type="unfinished">Translation in global or local (rotated) reference frame</translation>
+        <translation type="unfinished">Translation dans le cadre de référence global ou local (rotation)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
@@ -14149,7 +14149,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="36"/>
         <source>Load the volume as a labelmap (each voxel value representing a segmented structure).</source>
-        <translation type="unfinished">Load the volume as a labelmap (each voxel value representing a segmented structure).</translation>
+        <translation type="unfinished">Charger le volume en tant que labelmap (chaque valeur de voxel représentant une structure segmentée).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="43"/>
