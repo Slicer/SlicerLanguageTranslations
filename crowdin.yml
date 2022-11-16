@@ -1,5 +1,0 @@
-files:
-  - source: /*/*.ts
-    ignore:
-      - /translated
-    translation: /translated/%original_path%/%file_name%_%locale%.ts
