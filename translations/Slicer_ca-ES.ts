@@ -608,7 +608,7 @@
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="17"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="23"/>
@@ -618,7 +618,7 @@
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Triar l&apos;entrada a l&apos;algorisme.</translation>
+        <translation>Triar l&apos;entrada a l&apos;algorisme.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="51"/>
@@ -633,12 +633,12 @@
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Triar la sortida de l&apos;algorisme.</translation>
+        <translation>Triar la sortida de l&apos;algorisme.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -6080,11 +6080,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Estableix el sufix de la unitat. Per exemple, el sufix de la unitat &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Metre&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; probablement hauria de ser &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
@@ -6099,12 +6099,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Estableix el valor màxim possible per a la unitat.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Per exemple, una unitat de velocitat (en &lt;/span&gt;&lt;span style=&quot;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot;&quot;&gt;) probablement hauria de tenir un màxim de 3e6. &lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Estableix el valor màxim possible de la unitat.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Per exemple, una unitat de velocitat (en &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) probablement hauria de tenir un màxim de 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="131"/>
@@ -6138,12 +6138,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Set the minimum value possible for the unit.&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;For example, a temperature unit (in &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) should probably have a minimum of 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;Estableix el valor mínim possible per a la unitat.&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;Per exemple, una unitat de temperatura (in &lt;span style=&quot;&quot;&gt;Kelvin&lt;/span&gt;) probablement hauria de tenir un mínim de 0. &lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Establiu el valor mínim possible de la unitat.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Per exemple, una unitat de temperatura (en &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) probablement hauria de tenir un mínim de 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="190"/>
@@ -13280,13 +13280,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Afegir un camí de connexió d&apos;estil.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Afegir un camí del connector d&apos;estil farà accessible aquest connector d&apos;estil (i, per tant, tots els seus estils) a l&apos;aplicació. Aquesta acció &lt;/span&gt;&lt;span style=&quot;&quot;&gt;requereix &lt;/span&gt;&lt;span style=&quot;&quot;&gt; reiniciar l&apos;aplicació.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Afegeix un camí del connector d&apos;estil.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Afegir un camí del connector d&apos;estil farà accessible aquest connector d&apos;estil (i, per tant, tots els seus estils) a l&apos;aplicació. Aquesta acció &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requereix&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; reiniciar l&apos;aplicació.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
@@ -13321,11 +13321,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Mostra la interfície per afegir/eliminar camins d&apos;estil addicionals.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
@@ -13339,11 +13339,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Selecciona l&apos;estil actual de l&apos;aplicació.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
@@ -13357,11 +13357,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Defineix si emergeixen o no els consells (com aquest) quan el ratolí passa per sobre dels estris.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="162"/>
@@ -13375,11 +13375,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Personalitza el tipus de lletra i la mida de l&apos;aplicació segons les teves preferències.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
@@ -13393,11 +13393,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Quan està desactivat, només es veuen les icones a la barra d&apos;eines de la finestra principal. En cas contrari, el text corresponent de l&apos;acció es mostra a sota.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="201"/>
@@ -13411,11 +13411,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Quan habilitat, recordarà la mida i la posició de l&apos;aplicació per a la propera vegada que s&apos;iniciï l&apos;aplicació.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
@@ -13603,11 +13603,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Utilitza el multimostreig per a l&apos;antialiasing a pantalla completa.&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -14732,11 +14732,11 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>
-&amp;lt;html&amp;gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&amp;lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&amp;gt;
-&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Warning:&lt;/span&gt; Canviar les propietats de la unitat només canvia la pantalla, no el valor !&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
