@@ -7080,7 +7080,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="349"/>
         <source>Developer</source>
-        <translation>Développer</translation>
+        <translation>Développeur</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="457"/>
@@ -12726,7 +12726,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="14"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation type="unfinished">Développeur</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
