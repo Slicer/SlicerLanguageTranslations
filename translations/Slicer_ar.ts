@@ -11,17 +11,17 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
         <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation type="unfinished"></translation>
+        <translation>نص التعليق التوضيحي (vtkMRMLAnnotationTextNode1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل الرؤية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
         <source>Toggle un-/locked</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل مغلق/مفتوح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
@@ -50,12 +50,12 @@
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="356"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="475"/>
         <source>Material</source>
-        <translation type="unfinished"></translation>
+        <translation>المادة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>
         <source>Points</source>
-        <translation>نقاط</translation>
+        <translation>النقاط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="194"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
         <source>Glyph type combo box</source>
-        <translation type="unfinished"></translation>
+        <translation>مربع تحرير وسرد من نوع الحز - غلايف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
@@ -80,57 +80,57 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="295"/>
         <source>Text Scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم النص:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>الأسطر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>العرض:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
         <source>Label Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>معدل وضوح العنوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
         <source>Distance in mm between major ticks</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة بالمليمتر بين التكات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
         <source>Tick Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>المباعدة بين التكات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
         <source>Label Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع العنوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
         <source>Position the label along the line</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع العنوان على طول الخط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
         <source>Max # of Ticks:</source>
-        <translation type="unfinished"></translation>
+        <translation>أقصى # من التكات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>طلب للحصول على معلومات</translation>
     </message>
 </context>
 <context>
@@ -138,7 +138,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>استمارة</translation>
     </message>
 </context>
 <context>
@@ -146,12 +146,12 @@
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
         <source>Markups</source>
-        <translation type="unfinished"></translation>
+        <translation>علامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
         <source>Sequence browser</source>
-        <translation type="unfinished"></translation>
+        <translation>متصفح متسلسل</translation>
     </message>
 </context>
 <context>
