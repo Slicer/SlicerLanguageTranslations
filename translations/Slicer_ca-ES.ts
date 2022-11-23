@@ -3397,14 +3397,13 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
         <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
         <source>Segment: </source>
         <translation>Segment: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
         <source>Messages label</source>
-        <translation>Etiqueta de missatges</translation>
+        <translation type="vanished">Etiqueta de missatges</translation>
     </message>
     <message>
         <source>vtkMRMLSegmentationNode</source>
@@ -3419,57 +3418,55 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
         <translation>Paràmetres de conversió de segmentació</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
         <source>Converting</source>
         <translation>Conversió</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
         <source>Closed surface model</source>
-        <translation>Model de superfície tancada</translation>
+        <translation type="vanished">Model de superfície tancada</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
         <source>in</source>
         <translation>a</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
         <source>Segmentation</source>
-        <translation>Segmentació</translation>
+        <translation type="vanished">Segmentació</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="83"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
         <source>1. Conversion path</source>
         <translation>1. Camí de conversió</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="129"/>
         <source>Estimated relative cost</source>
         <translation>Cost relatiu estimat</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
         <source>Path</source>
         <translation>Camí</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="145"/>
         <source>2. Conversion parameters</source>
         <translation>2. Paràmetres de conversió</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
         <source>Value</source>
         <translation>Valor</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="210"/>
         <source>Convert</source>
         <translation>Convertir</translation>
     </message>
@@ -3671,9 +3668,8 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
         <translation>Navega fins la carpeta de destinació</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="214"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
@@ -3834,9 +3830,8 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
         <translation>Dimensions:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="286"/>
         <source>Error message</source>
-        <translation>Missatge d&apos;error</translation>
+        <translation type="vanished">Missatge d&apos;error</translation>
     </message>
 </context>
 <context>
@@ -4072,10 +4067,8 @@ Vols continuar amb el canvi de representació mestra?</translation>
         <translation>Nom de l&apos;índex</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="67"/>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="vanished">-</translation>
     </message>
 </context>
 <context>
@@ -9148,9 +9141,13 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
 <context>
     <name>qSlicerExtensionsToolsWidget</name>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulari</translation>
+        <translation type="vanished">Formulari</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
+        <source>Extensions tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>

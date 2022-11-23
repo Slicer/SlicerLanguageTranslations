@@ -3397,14 +3397,13 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
         <translation type="unfinished">qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
         <source>Segment: </source>
         <translation>Segment : </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
         <source>Messages label</source>
-        <translation>Libellé des messages</translation>
+        <translation type="vanished">Libellé des messages</translation>
     </message>
     <message>
         <source>vtkMRMLSegmentationNode</source>
@@ -3419,57 +3418,55 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
         <translation>Paramètres de conversion de la segmentation</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
         <source>Converting</source>
         <translation>Conversion en cours</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
         <source>Closed surface model</source>
-        <translation>Modèle à surface fermée</translation>
+        <translation type="vanished">Modèle à surface fermée</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
         <source>in</source>
         <translation>dans</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
         <source>Segmentation</source>
-        <translation>Segmentation</translation>
+        <translation type="vanished">Segmentation</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="83"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
         <source>1. Conversion path</source>
         <translation>1. Chemin de conversion</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="129"/>
         <source>Estimated relative cost</source>
         <translation>Coût relatif estimé</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
         <source>Path</source>
         <translation>Chemin</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="145"/>
         <source>2. Conversion parameters</source>
         <translation>2. Paramètres de conversion</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
         <source>Value</source>
         <translation>Évaluer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="210"/>
         <source>Convert</source>
         <translation>Convertir</translation>
     </message>
@@ -3671,9 +3668,8 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
         <translation>Se déplacer vers le dossier destination</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="214"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
@@ -3834,9 +3830,8 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
         <translation>Dimensions:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="286"/>
         <source>Error message</source>
-        <translation>Message d&apos;erreur</translation>
+        <translation type="vanished">Message d&apos;erreur</translation>
     </message>
 </context>
 <context>
@@ -4072,10 +4067,8 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <translation>Nom de l&apos;index</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="67"/>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="vanished">-</translation>
     </message>
 </context>
 <context>
@@ -9150,9 +9143,13 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
 <context>
     <name>qSlicerExtensionsToolsWidget</name>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
+        <source>Extensions tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>

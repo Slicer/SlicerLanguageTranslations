@@ -2,6 +2,417 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh-CN" sourcelanguage="en">
 <context>
+    <name>CLI_AddScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSFit</name>
+    <message>
+        <source>Off</source>
+        <translation type="obsolete">关闭</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">浮点数</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="obsolete">线性</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">短整数型</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">整数</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSROIAuto</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">短整数型</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">浮点数</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">整数</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResample</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">输入</translation>
+    </message>
+    <message>
+        <source>Outputs</source>
+        <translation type="obsolete">输出</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">浮点数</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">短整数型</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">整数</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="obsolete">线性</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResize</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">输入</translation>
+    </message>
+    <message>
+        <source>Outputs</source>
+        <translation type="obsolete">输出</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">浮点数</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">短整数型</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">整数</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSTransformConvert</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>double</source>
+        <translation type="obsolete">双精度</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">浮点数</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CastScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CheckerBoardFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CurvatureAnisotropicDiffusion</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ExecutionModelTour</name>
+    <message>
+        <source>Models</source>
+        <translation type="obsolete">模型</translation>
+    </message>
+    <message>
+        <source>Measurements</source>
+        <translation type="obsolete">测量</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ExtractSkeleton</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>1D</source>
+        <translation type="obsolete">1D</translation>
+    </message>
+    <message>
+        <source>2D</source>
+        <translation type="obsolete">2D</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_FiducialRegistration</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="obsolete">平移</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GaussianBlurImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Input volume</source>
+        <translation type="obsolete">输入数据</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GradientAnisotropicDiffusion</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">高级</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleFillHoleImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleGrindPeakImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleModelMaker</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">高级</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_HistogramMatching</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ImageLabelCombine</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_LabelMapSmoothing</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MedianImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MergeModels</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelMaker</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Models</source>
+        <translation type="obsolete">模型</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelToLabelMap</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MultiplyScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_N4ITKBiasFieldCorrection</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_OrientScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>LPS</source>
+        <translation type="obsolete">LPS</translation>
+    </message>
+    <message>
+        <source>Axial</source>
+        <translation type="obsolete">水平位</translation>
+    </message>
+    <message>
+        <source>Coronal</source>
+        <translation type="obsolete">冠状位</translation>
+    </message>
+    <message>
+        <source>Sagittal</source>
+        <translation type="obsolete">矢状位</translation>
+    </message>
+    <message>
+        <source>RAS</source>
+        <translation type="obsolete">RAS</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_PerformMetricTest</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ProbeVolumeWithModel</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Input volume</source>
+        <translation type="obsolete">输入数据</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleDTIVolume</name>
+    <message>
+        <source>Origin</source>
+        <translation type="obsolete">原点</translation>
+    </message>
+    <message>
+        <source>Transform Matrix</source>
+        <translation type="obsolete">变换矩阵</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleScalarVectorDWIVolume</name>
+    <message>
+        <source>Origin</source>
+        <translation type="obsolete">原点</translation>
+    </message>
+    <message>
+        <source>Transform Matrix</source>
+        <translation type="obsolete">变换矩阵</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="obsolete">变换</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_RobustStatisticsSegmenter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SimpleRegionGrowingSegmentation</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SubtractScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ThresholdScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Input volume</source>
+        <translation type="obsolete">输入数据</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_VotingBinaryHoleFillingImageFilter</name>
+    <message>
+        <source>Background</source>
+        <translation type="obsolete">背景</translation>
+    </message>
+    <message>
+        <source>Foreground</source>
+        <translation type="obsolete">前景层</translation>
+    </message>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
     <name>Dialog</name>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="14"/>
@@ -3396,14 +3807,13 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
         <source>Segment: </source>
         <translation>分割： </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
         <source>Messages label</source>
-        <translation>信息标签</translation>
+        <translation type="vanished">信息标签</translation>
     </message>
     <message>
         <source>vtkMRMLSegmentationNode</source>
@@ -3418,57 +3828,55 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>分割转换参数</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
         <source>Converting</source>
         <translation>转换中</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
         <source>Closed surface model</source>
-        <translation>闭合表面模型</translation>
+        <translation type="vanished">闭合表面模型</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
         <source>in</source>
         <translation>进入</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
         <source>Segmentation</source>
-        <translation>分割</translation>
+        <translation type="vanished">分割</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="83"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
         <source>1. Conversion path</source>
         <translation>1. 转换路径</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="129"/>
         <source>Estimated relative cost</source>
         <translation>估计相对代价</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
         <source>Path</source>
         <translation>路径</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="145"/>
         <source>2. Conversion parameters</source>
         <translation>2. 转换参数</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
         <source>Value</source>
         <translation>值</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="210"/>
         <source>Convert</source>
         <translation>转换</translation>
     </message>
@@ -3670,9 +4078,8 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>浏览到目标文件夹</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="214"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
@@ -3833,9 +4240,8 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>尺寸：</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="286"/>
         <source>Error message</source>
-        <translation>错误信息</translation>
+        <translation type="vanished">错误信息</translation>
     </message>
 </context>
 <context>
@@ -4072,10 +4478,8 @@ Do you wish to proceed with changing master representation?</source>
         <translation>索引名</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="67"/>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="vanished">-</translation>
     </message>
 </context>
 <context>
@@ -6399,6 +6803,10 @@ IJK-RAS</translation>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="74"/>
         <source>Informatics</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segmentation</source>
+        <translation type="obsolete">分割</translation>
     </message>
 </context>
 <context>
@@ -9146,9 +9554,13 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerExtensionsToolsWidget</name>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>表单</translation>
+        <translation type="vanished">表单</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
+        <source>Extensions tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>

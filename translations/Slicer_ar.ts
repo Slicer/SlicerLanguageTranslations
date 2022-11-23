@@ -602,7 +602,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="20"/>
@@ -612,7 +612,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
         <source>Glyph type combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مربع تحرير وسرد من نوع الحز - غلايف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
@@ -677,7 +677,7 @@
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="31"/>
@@ -1228,7 +1228,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
@@ -1276,7 +1276,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
@@ -1418,7 +1418,7 @@
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
@@ -1662,7 +1662,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
@@ -1675,7 +1675,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="44"/>
@@ -1738,7 +1738,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
@@ -1803,7 +1803,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معدل الشفافية:</translation>
     </message>
 </context>
 <context>
@@ -1811,7 +1811,7 @@
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
@@ -1859,7 +1859,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
 </context>
 <context>
@@ -1867,7 +1867,7 @@
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
@@ -2049,7 +2049,7 @@
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="374"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="536"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="406"/>
@@ -2186,7 +2186,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الأسطر</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="239"/>
@@ -2358,7 +2358,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
@@ -2493,7 +2493,7 @@
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -2783,7 +2783,7 @@
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
@@ -2909,7 +2909,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
@@ -3124,7 +3124,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -3230,13 +3230,8 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
         <source>Segment: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
-        <source>Messages label</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3248,57 +3243,47 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
         <source>Converting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
-        <source>Closed surface model</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
         <source>in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
-        <source>Segmentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="83"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
         <source>1. Conversion path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="129"/>
         <source>Estimated relative cost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
         <source>Path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="145"/>
         <source>2. Conversion parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
         <source>Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="210"/>
         <source>Convert</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3496,11 +3481,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="214"/>
-        <source>...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
         <source>Size scale:</source>
         <translation type="unfinished"></translation>
@@ -3628,11 +3608,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="303"/>
         <source>Dimensions:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="286"/>
-        <source>Error message</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3861,19 +3836,13 @@ Do you wish to proceed with changing master representation?</source>
         <source>Index name</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="67"/>
-        <source>-</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
@@ -4464,7 +4433,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
@@ -4847,7 +4816,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
@@ -5200,7 +5169,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
@@ -5963,7 +5932,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
@@ -6117,7 +6086,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">طلب للحصول على معلومات</translation>
     </message>
 </context>
 <context>
@@ -6151,12 +6120,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="95"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تبديل الرؤية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="116"/>
         <source>Toggle un-/locked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تبديل مغلق/مفتوح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="132"/>
@@ -6272,7 +6241,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="342"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="722"/>
         <source>Glyph type combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مربع تحرير وسرد من نوع الحز - غلايف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="366"/>
@@ -6301,14 +6270,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="426"/>
         <source>Text Scale:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حجم النص:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="442"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="644"/>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="809"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="455"/>
@@ -6371,22 +6340,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="770"/>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الأسطر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="792"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">العرض:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="877"/>
         <source>Label Position:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">موضع العنوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="884"/>
         <source>Position the label along the line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">موضع العنوان على طول الخط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="897"/>
@@ -6396,7 +6365,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="903"/>
         <source>Label Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معدل وضوح العنوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="913"/>
@@ -6406,12 +6375,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="916"/>
         <source>Tick Spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المباعدة بين التكات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="933"/>
         <source>Max # of Ticks:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">أقصى # من التكات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="962"/>
@@ -6421,7 +6390,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="1004"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">طلب للحصول على معلومات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Annotations/GUI/qSlicerAnnotationModulePropertyDialog.cxx" line="122"/>
@@ -7505,7 +7474,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
@@ -7530,7 +7499,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الأسطر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
@@ -8080,7 +8049,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
@@ -8555,7 +8524,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <name>qSlicerExtensionsToolsWidget</name>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
-        <source>Form</source>
+        <source>Extensions tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8791,7 +8760,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
@@ -8832,7 +8801,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -9631,7 +9600,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="20"/>
         <source>Markups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">علامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
@@ -10717,7 +10686,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
@@ -11625,7 +11594,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
@@ -12847,7 +12816,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
 </context>
 <context>
@@ -13179,7 +13148,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -13494,7 +13463,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
@@ -13824,7 +13793,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استمارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
@@ -14216,7 +14185,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="488"/>
         <source>ROI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">طلب للحصول على معلومات</translation>
     </message>
 </context>
 <context>

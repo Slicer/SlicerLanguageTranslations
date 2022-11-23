@@ -2,6 +2,389 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="uk" sourcelanguage="en">
 <context>
+    <name>CLI_AddScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSFit</name>
+    <message>
+        <source>Off</source>
+        <translation type="obsolete">Вимкнути</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">float</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="obsolete">Лінійна</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">short</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">int</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSROIAuto</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">short</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">float</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">int</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResample</name>
+    <message>
+        <source>Outputs</source>
+        <translation type="obsolete">Вихідні дані</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">float</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">short</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">int</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="obsolete">Лінійна</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResize</name>
+    <message>
+        <source>Outputs</source>
+        <translation type="obsolete">Вихідні дані</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">float</translation>
+    </message>
+    <message>
+        <source>short</source>
+        <translation type="obsolete">short</translation>
+    </message>
+    <message>
+        <source>int</source>
+        <translation type="obsolete">int</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSTransformConvert</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>double</source>
+        <translation type="obsolete">double</translation>
+    </message>
+    <message>
+        <source>float</source>
+        <translation type="obsolete">float</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CastScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CheckerBoardFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CurvatureAnisotropicDiffusion</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ExecutionModelTour</name>
+    <message>
+        <source>Models</source>
+        <translation type="obsolete">Models</translation>
+    </message>
+    <message>
+        <source>Measurements</source>
+        <translation type="obsolete">Measurements</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ExtractSkeleton</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>1D</source>
+        <translation type="obsolete">1D</translation>
+    </message>
+    <message>
+        <source>2D</source>
+        <translation type="obsolete">2D</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_FiducialRegistration</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="obsolete">Translation</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GaussianBlurImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Input volume</source>
+        <translation type="obsolete">Первинне зображення</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GradientAnisotropicDiffusion</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleFillHoleImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleGrindPeakImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleModelMaker</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_HistogramMatching</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ImageLabelCombine</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_LabelMapSmoothing</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MedianImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MergeModels</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelMaker</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Models</source>
+        <translation type="obsolete">Models</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelToLabelMap</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MultiplyScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_N4ITKBiasFieldCorrection</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_OrientScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>LPS</source>
+        <translation type="obsolete">LPS</translation>
+    </message>
+    <message>
+        <source>RAS</source>
+        <translation type="obsolete">RAS</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_PerformMetricTest</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ProbeVolumeWithModel</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Input volume</source>
+        <translation type="obsolete">Первинне зображення</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleDTIVolume</name>
+    <message>
+        <source>Origin</source>
+        <translation type="obsolete">Origin</translation>
+    </message>
+    <message>
+        <source>Transform Matrix</source>
+        <translation type="obsolete">Transform Matrix</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleScalarVectorDWIVolume</name>
+    <message>
+        <source>Origin</source>
+        <translation type="obsolete">Origin</translation>
+    </message>
+    <message>
+        <source>Transform Matrix</source>
+        <translation type="obsolete">Transform Matrix</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="obsolete">Transform</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_RobustStatisticsSegmenter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SimpleRegionGrowingSegmentation</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SubtractScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ThresholdScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+    <message>
+        <source>Input volume</source>
+        <translation type="obsolete">Первинне зображення</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_VotingBinaryHoleFillingImageFilter</name>
+    <message>
+        <source>Background</source>
+        <translation type="obsolete">Тло</translation>
+    </message>
+    <message>
+        <source>Foreground</source>
+        <translation type="obsolete">Передній план</translation>
+    </message>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">IO</translation>
+    </message>
+</context>
+<context>
     <name>Dialog</name>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="14"/>
@@ -3397,14 +3780,13 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="88"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
         <source>Segment: </source>
         <translation>Сегмент: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="95"/>
         <source>Messages label</source>
-        <translation>Мітка повідомлень</translation>
+        <translation type="vanished">Мітка повідомлень</translation>
     </message>
     <message>
         <source>vtkMRMLSegmentationNode</source>
@@ -3419,57 +3801,55 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>Параметри перетворення сегментації</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="28"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
         <source>Converting</source>
         <translation>Перетворення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="41"/>
         <source>Closed surface model</source>
-        <translation>Модель закритої поверхні</translation>
+        <translation type="vanished">Модель закритої поверхні</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="48"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
         <source>in</source>
         <translation>в</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="61"/>
         <source>Segmentation</source>
-        <translation>Сегментація</translation>
+        <translation type="vanished">Сегментація</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="83"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
         <source>1. Conversion path</source>
         <translation>1. Перетворення шляху</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="111"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="129"/>
         <source>Estimated relative cost</source>
         <translation>Орієнтовна відноста вартість</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="116"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="134"/>
         <source>Path</source>
         <translation>Шлях</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="127"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="145"/>
         <source>2. Conversion parameters</source>
         <translation>2. Параметри перетворення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="152"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="179"/>
         <source>Name</source>
         <translation>Ім&apos;я</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="157"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="184"/>
         <source>Value</source>
         <translation>Значення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="183"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="210"/>
         <source>Convert</source>
         <translation>Перетворити</translation>
     </message>
@@ -3671,9 +4051,8 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>Переглянути теку призначення</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="214"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
@@ -3834,9 +4213,8 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>Розміри:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="286"/>
         <source>Error message</source>
-        <translation>Повідомлення про помилку</translation>
+        <translation type="vanished">Повідомлення про помилку</translation>
     </message>
 </context>
 <context>
@@ -4067,10 +4445,8 @@ Do you wish to proceed with changing master representation?</source>
         <translation>Назва індексу</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="57"/>
-        <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="67"/>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="vanished">-</translation>
     </message>
 </context>
 <context>
@@ -6393,6 +6769,10 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="74"/>
         <source>Informatics</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segmentation</source>
+        <translation type="obsolete">Сегментація</translation>
     </message>
 </context>
 <context>
@@ -9146,9 +9526,13 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerExtensionsToolsWidget</name>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="vanished">Форма</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
+        <source>Extensions tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
