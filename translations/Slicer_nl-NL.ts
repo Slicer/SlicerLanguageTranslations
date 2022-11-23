@@ -2,6 +2,7688 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nl" sourcelanguage="en">
 <context>
+    <name>CLI_ACPCTransform</name>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
+        <source>ACPC Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
+        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
+        <source>Input landmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
+        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
+        <source>ACPC line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="11"/>
+        <source>Midline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
+        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
+        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
+        <source>Output transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
+        <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
+        <source>Center volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
+        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
+        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_AddScalarVolumes</name>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
+        <source>Add Scalar Volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
+        <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
+        <source>Input Volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
+        <source>Input Volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
+        <source>Input volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
+        <source>Input volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
+        <source>Volume1 + Volume2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
+        <source>Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
+        <source>Control how the module operates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
+        <source>Interpolation order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
+        <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSDWICleanup</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
+        <source>DWI Cleanup (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
+        <source>Remove bad gradients/volumes from DWI NRRD file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
+        <source>Input Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
+        <source>Input Image Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
+        <source>NRRD File with bad gradients removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
+        <source>list of bad gradient volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
+        <source>Required: input image is a 4D NRRD image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
+        <source>given a list of </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSDeface</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
+        <source>Brain Deface from T1/T2 image (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
+        <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
+        <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
+        <source>Input Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
+        <source>First Image, Second Image and Mask Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
+        <source>Landmarks File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
+        <source>Source Reference Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
+        <source>Source Passive Images Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
+        <source>Optional Mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
+        <source>Input Landmark File with LE, and RE points defined in physical locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
+        <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
+        <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
+        <source>Optional pre-generated mask to use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
+        <source>blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
+        <source>zero</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
+        <source>Output Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
+        <source>Outputs from both MUSH generation and brain volume mask creation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
+        <source>brain volume mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
+        <source>OutputDirectory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
+        <source>The brain volume mask generated from the MUSH image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
+        <source>The output directory to writing the defaced input files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
+        <source>Run Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
+        <source>Modify the program to only generate a mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
+        <source>No Mask Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
+        <source>Do not apply the mask to the input images used to generate the mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
+        <source>Output Image Intensity Normalization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
+        <source>Parameters for normalizing the output images.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
+        <source>Upper Percentile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
+        <source>Lower Percentile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
+        <source>Upper Output Intensity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
+        <source>Lower Output Intensity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
+        <source>Relative Scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
+        <source>Debug Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
+        <source>Upper Intensity Percentile (0.99 default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
+        <source>Lower Intensity Percentile (0.01 default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
+        <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
+        <source>Do not scale to the relative percentiles of the output scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
+        <source>Level of Debugging (0=None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSFit</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
+        <source>General Registration (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
+        <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
+        <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
+        <source>Input Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
+        <source>Fixed Image Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
+        <source>Moving Image Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
+        <source>Percentage Of Samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
+        <source>B-Spline Grid Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
+        <source>Input fixed image (the moving image will be transformed into this image space).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
+        <source>Input moving image (this image will be transformed into the fixed image space).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
+        <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
+        <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
+        <source>Output Settings (At least one output must be specified)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
+        <source>Slicer Linear Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
+        <source>Slicer BSpline Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
+        <source>Output Image Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
+        <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
+        <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
+        <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
+        <source>Transform Initialization Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
+        <source>Options for initializing transform parameters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
+        <source>Initialization transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
+        <source>Initialize Transform Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
+        <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
+        <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
+        <source>Off</source>
+        <translation type="unfinished">Off</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
+        <source>useMomentsAlign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
+        <source>useCenterOfHeadAlign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
+        <source>useGeometryAlign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
+        <source>useCenterOfROIAlign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
+        <source>Registration Phases (Check one or more, executed in order listed)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
+        <source>Each of the registration phases will be used to initialize the next phase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
+        <source>Rigid (6 DOF)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"/>
+        <source>Rigid+Scale(7 DOF)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"/>
+        <source>Rigid+Scale+Skew(10 DOF)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
+        <source>Affine(12 DOF)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
+        <source>BSpline (&gt;27 DOF)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
+        <source>SyN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
+        <source>Composite (many DOF)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
+        <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
+        <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
+        <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
+        <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
+        <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
+        <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
+        <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
+        <source>Image Mask and Pre-Processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
+        <source>Masking Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
+        <source>(ROI) Masking input fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
+        <source>(ROI) Masking input moving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
+        <source>(ROIAUTO) Output fixed mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
+        <source>(ROIAUTO) Output moving mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
+        <source>Define BSpline grid over the ROI bounding box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
+        <source>Histogram Match</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
+        <source>Median Filter Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
+        <source>Remove Intensity Outliers value at one tail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
+        <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
+        <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
+        <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
+        <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
+        <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
+        <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
+        <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
+        <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
+        <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
+        <source>NOMASK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
+        <source>ROIAUTO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
+        <source>ROI</source>
+        <translation type="unfinished">ROI</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
+        <source>Advanced Output Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
+        <source>Fixed Image Volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
+        <source>Moving Image Volume2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
+        <source>Output Image Pixel Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
+        <source>Background Fill Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
+        <source>Scale Output Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
+        <source>Interpolation Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
+        <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
+        <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
+        <source>Data type for representing a voxel of the Output Volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
+        <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
+        <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
+        <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
+        <source>float</source>
+        <translation type="unfinished">float</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
+        <source>Linear</source>
+        <translation type="unfinished">Linear</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
+        <source>short</source>
+        <translation type="unfinished">short</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
+        <source>ushort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
+        <source>int</source>
+        <translation type="unfinished">int</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
+        <source>uint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
+        <source>uchar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
+        <source>NearestNeighbor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
+        <source>ResampleInPlace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
+        <source>BSpline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
+        <source>WindowedSinc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
+        <source>Hamming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
+        <source>Cosine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
+        <source>Welch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
+        <source>Lanczos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
+        <source>Blackman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
+        <source>Advanced Optimization Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
+        <source>Max Iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
+        <source>Maximum Step Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
+        <source>Minimum Step Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
+        <source>Relaxation Factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
+        <source>Transform Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
+        <source>Reproportion Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
+        <source>Skew Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
+        <source>Maximum B-Spline Displacement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
+        <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
+        <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
+        <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
+        <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
+        <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
+        <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
+        <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
+        <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
+      </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
+        <source>Expert-only Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
+        <source>Fixed Image Time Index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
+        <source>Moving Image Time Index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
+        <source>Histogram bin count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
+        <source>Histogram match point count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
+        <source>Cost Metric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
+        <source>Inferior Cut Off From Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
+        <source>ROIAuto Dilate Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
+        <source>ROIAuto Closing Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
+        <source>Number Of Samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
+        <source>Stripped Output Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
+        <source>Transform Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
+        <source>Output Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
+        <source>Pass warped moving image to BSpline registration filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
+        <source>writes the output registration transforms in single precision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
+        <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
+        <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
+        <source>The number of histogram levels used for mutual information metric estimation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
+        <source>Number of histogram match points used for mutual information metric estimation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
+        <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
+        <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
+        <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
+        <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
+        <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
+NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
+        <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
+        <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
+        <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
+        <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
+        <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
+        <source>MMI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
+        <source>MSE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
+        <source>NC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
+        <source>MIH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
+        <source>Debugging Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
+        <source>Failure Exit Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
+        <source>Write Transform On Failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
+        <source>Number Of Threads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
+        <source>Debug option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
+        <source>Set Sampling Strategy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
+        <source>Log File Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
+        <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
+        <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
+        <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
+        <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
+        <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
+      </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
+        <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
+      </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
+        <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
+        <source>Maximum number of corrections in lbfgsb optimizer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
+        <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
+        <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
+        <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
+        <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
+        <source>Random</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSROIAuto</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
+        <source>Foreground masking (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
+        <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
+  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
+        <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
+        <source>Input Image Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
+        <source>Output Mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
+        <source>Output Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
+        <source>Mask Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
+        <source>Output Image Clipped by ROI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
+        <source>The input image for finding the largest region filled mask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
+        <source>The ROI automatically found from the input image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
+        <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
+        <source>The inputVolume multiplied by the ROI mask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
+        <source>The inputVolume cropped to the region of the ROI mask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
+        <source>Configuration Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
+        <source>Otsu Percentile Threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
+        <source>Otsu Correction Factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
+        <source>Closing Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
+        <source>ROIAuto Dilate Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
+        <source>Output Image Pixel Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
+        <source>Number Of Threads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
+        <source>Parameter to the Otsu threshold algorithm.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
+        <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
+        <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
+        <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
+        <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
+        <source>Explicitly specify the maximum number of threads to use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
+        <source>short</source>
+        <translation type="unfinished">short</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
+        <source>float</source>
+        <translation type="unfinished">float</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
+        <source>ushort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
+        <source>int</source>
+        <translation type="unfinished">int</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
+        <source>uint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
+        <source>uchar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResample</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
+        <source>Resample Image (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
+        <source>
+    This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
+  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
+        <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
+        <source>Inputs</source>
+        <translation type="unfinished">Inputs</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
+        <source>Parameters for specifying the image to warp and resulting image space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
+        <source>Image To Warp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
+        <source>Reference Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
+        <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
+        <source>Outputs</source>
+        <translation type="unfinished">Outputs</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
+        <source>Resulting deformed image parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
+        <source>Output Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
+        <source>Pixel Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
+        <source>Resulting deformed image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
+        <source>Specifies the pixel type for the input/output images.  If the type is &quot;input&quot;, then infer from the input image.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
+        <source>float</source>
+        <translation type="unfinished">float</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
+        <source>short</source>
+        <translation type="unfinished">short</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
+        <source>ushort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
+        <source>int</source>
+        <translation type="unfinished">int</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
+        <source>uint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
+        <source>uchar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
+        <source>binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
+        <source>input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
+        <source>Warping Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
+        <source>Parameters used to define home the image is warped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
+        <source>Displacement Field (deprecated)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
+        <source>Transform file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
+        <source>Interpolation Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
+        <source>Compute inverse transform of given transformation?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
+        <source>Default Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
+        <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
+        <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
+        <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
+        <source>True/False is to compute inverse of given transformation. Default is false</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
+        <source>Default voxel value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
+        <source>Linear</source>
+        <translation type="unfinished">Linear</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
+        <source>NearestNeighbor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
+        <source>ResampleInPlace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
+        <source>BSpline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
+        <source>WindowedSinc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
+        <source>Hamming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
+        <source>Cosine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
+        <source>Welch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"/>
+        <source>Lanczos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
+        <source>Blackman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
+        <source>Advanced Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"/>
+        <source>Add Grids</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
+        <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
+        <source>Multiprocessing Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
+        <source>Number Of Threads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
+        <source>Explicitly specify the maximum number of threads to use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResize</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
+        <source>Resize Image (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
+        <source>
+This program is useful for downsampling an image by a constant scale factor.
+  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
+        <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
+        <source>Inputs</source>
+        <translation type="unfinished">Inputs</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
+        <source>Parameters for specifying the image to warp and resulting image space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
+        <source>Image To Warp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
+        <source>Image To Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
+        <source>Outputs</source>
+        <translation type="unfinished">Outputs</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
+        <source>Resulting scaled image parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
+        <source>Output Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
+        <source>Pixel Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
+        <source>Resulting scaled image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
+        <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
+        <source>float</source>
+        <translation type="unfinished">float</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
+        <source>short</source>
+        <translation type="unfinished">short</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
+        <source>ushort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
+        <source>int</source>
+        <translation type="unfinished">int</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
+        <source>uint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
+        <source>uchar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
+        <source>binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"/>
+        <source>Scaling Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
+        <source>Parameters used to define the scaling of the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
+        <source>Scale Factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
+        <source>The scale factor for the image spacing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSStripRotation</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
+        <source>Strip Rotation (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
+        <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
+        <source>Input Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
+        <source>Image To Warp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
+        <source>Output Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
+        <source>Transform file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
+        <source>Resulting deformed image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
+        <source>Filename for the transform file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSTransformConvert</name>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
+        <source>Transform Convert (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
+        <source>Convert ITK transforms to higher order transforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
+        <source>
+  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
+        <source>Transform File Name To Convert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
+        <source>Reference image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
+        <source>Output displacement field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
+        <source>Transform File Name To Save ConvertedTransform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
+        <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
+        <source>Precision type of the output transform. It can be either single precision or double precision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"/>
+        <source>Affine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="24"/>
+        <source>double</source>
+        <translation type="unfinished">double</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
+        <source>VersorRigid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
+        <source>ScaleVersor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
+        <source>ScaleSkewVersor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
+        <source>DisplacementField</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
+        <source>Same</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
+        <source>float</source>
+        <translation type="unfinished">float</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CastScalarVolume</name>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
+        <source>Cast Scalar Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
+        <source>Cast a volume to a given data type.
+Use at your own risk when casting an input volume into a lower precision type!
+Allows casting to the same type as the input volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
+        <source>Input volume, the volume to cast.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
+        <source>Output volume, cast to the new type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
+        <source>Filter Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
+        <source>Output Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
+        <source>Scalar data type for the new output volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
+        <source>UnsignedChar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
+        <source>Char</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
+        <source>Short</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
+        <source>UnsignedShort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
+        <source>Int</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
+        <source>UnsignedInt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CheckerBoardFilter</name>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
+        <source>CheckerBoard Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
+        <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
+        <source>CheckerBoard Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
+        <source>Parameters for the checkerboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
+        <source>Checker Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
+        <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
+        <source>Input Volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
+        <source>Input Volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
+        <source>First Input volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"/>
+        <source>Second Input volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CreateDICOMSeries</name>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
+        <source>Create a DICOM Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
+        <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
+        <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
+        <source>Input parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
+        <source>Input volume to be resampled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
+        <source>Output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
+        <source>DICOM Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
+        <source>DICOM filename prefix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
+        <source>DICOM file number format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
+        <source>Reverse Slices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
+        <source>Use Compression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
+        <source>Filter Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
+        <source>Output Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
+        <source>The directory to contain the DICOM series.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
+        <source>The prefix of the DICOM filename.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
+        <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
+        <source>Reverse the slices.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
+        <source>Compress the output pixel data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
+        <source>Type for the new output volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
+        <source>Short</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
+        <source>UnsignedChar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
+        <source>Char</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
+        <source>UnsignedShort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
+        <source>Int</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
+        <source>UnsignedInt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"/>
+        <source>Patient Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"/>
+        <source>Parameters that apply to a patient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"/>
+        <source>Patient Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"/>
+        <source>Patient ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="38"/>
+        <source>Patient Birth Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"/>
+        <source>Patient Sex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"/>
+        <source>Patient Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
+        <source>The name of the patient (0010,0010)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
+        <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"/>
+        <source>Patient birth date (0010,0030) in the format YYYYMMDD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="44"/>
+        <source>Patient sex (0010,0040). M=male, F=female, O=other, [unknown]=not specified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="45"/>
+        <source>Patient comments (0010,4000)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="46"/>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="47"/>
+        <source>[unknown]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="48"/>
+        <source>M</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="49"/>
+        <source>F</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="50"/>
+        <source>O</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"/>
+        <source>Study Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"/>
+        <source>Parameters that apply to a study</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
+        <source>Study ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
+        <source>Study Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
+        <source>Study Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
+        <source>Study Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"/>
+        <source>Study Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="58"/>
+        <source>Modality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
+        <source>Manufacturer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
+        <source>Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
+        <source>The study ID (0020,0010)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
+        <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
+        <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"/>
+        <source>Study comments (0032,4000)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
+        <source>Study description (0008,1030)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="66"/>
+        <source>Modality (0008,0060)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="67"/>
+        <source>Manufacturer (0008,0070)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="68"/>
+        <source>model (0008,1090)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
+        <source>CT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"/>
+        <source>MR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
+        <source>NM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
+        <source>US</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
+        <source>CR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
+        <source>SC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
+        <source>Series Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"/>
+        <source>Parameters that apply to a series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"/>
+        <source>Series Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"/>
+        <source>Series Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"/>
+        <source>Series Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="81"/>
+        <source>Series Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
+        <source>Patient Position:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
+        <source>The series number (0020,0011)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
+        <source>Series description (0008,103E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
+        <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"/>
+        <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="87"/>
+        <source>Patient position descriptor relative to the equipment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
+        <source>HFS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
+        <source>HFP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"/>
+        <source>HFDR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
+        <source>HFDL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
+        <source>FFDR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
+        <source>FFDL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
+        <source>FFP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"/>
+        <source>FFS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"/>
+        <source>LFP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"/>
+        <source>LFS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
+        <source>RFP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
+        <source>RFS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"/>
+        <source>AFDR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"/>
+        <source>AFDL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"/>
+        <source>PFDR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
+        <source>PFDL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
+        <source>Image Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
+        <source>Parameters that apply to the images and data in each image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="107"/>
+        <source>Window center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"/>
+        <source>Window width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="109"/>
+        <source>Rescale intercept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="110"/>
+        <source>Rescale slope</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="111"/>
+        <source>Rescale Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="112"/>
+        <source>Content Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
+        <source>Content Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
+        <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
+        <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
+        <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
+        <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
+        <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
+        <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
+        <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
+        <source>Unique Identifiers (UIDs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
+        <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
+        <source>Study Instance UID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
+        <source>Series Instance UID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
+        <source>Frame of Reference UID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
+        <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
+        <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="128"/>
+        <source>The frame of reference UID (0020,0052). Leave it blank to generate UIDs automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CurvatureAnisotropicDiffusion</name>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="5"/>
+        <source>Curvature Anisotropic Diffusion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
+        <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
+
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+
+ Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
+        <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
+        <source>Anisotropic Diffusion Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="9"/>
+        <source>Parameters for the anisotropic diffusion algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="10"/>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="14"/>
+        <source>Conductance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="11"/>
+        <source>Iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="12"/>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="17"/>
+        <source>Time Step</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
+        <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
+        <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
+        <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_DWIConvert</name>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="5"/>
+        <source>Diffusion-weighted DICOM Import (DWIConvert)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
+        <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
+        <source>Conversion Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="9"/>
+        <source>Options that are used for all conversion modes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="10"/>
+        <source>Input DWI Volume file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"/>
+        <source>Output DWI Volume file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
+        <source>Determine which conversion to perform. DicomToNrrd (default): Convert DICOM series to NRRD DicomToFSL: Convert DICOM series to NIfTI File + gradient/bvalue text files NrrdToFSL: Convert DWI NRRD file to NIfTI File + gradient/bvalue text files FSLToNrrd: Convert NIfTI File + gradient/bvalue text files to NRRD file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
+        <source>Input DWI volume -- not used for DicomToNrrd mode.
+      </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
+        <source>Output filename (.nhdr or .nrrd)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
+        <source>DicomToNrrd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
+        <source>DicomToFSL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="18"/>
+        <source>NrrdToFSL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="19"/>
+        <source>FSLToNrrd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
+        <source>Dicom To Nrrd Conversion Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
+        <source>Parameters for Dicom to NRRD Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
+        <source>Input Dicom Data Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
+        <source>Directory holding Dicom series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="25"/>
+        <source>NiftiFSL To Nrrd Conversion Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="26"/>
+        <source>FSL NIfTI File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
+        <source>Input bval file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
+        <source>Input bvec file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
+        <source>4D NIfTI file containing gradient volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
+        <source>The B Values are stored in FSL .bval text file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"/>
+        <source>The Gradient Vectors are stored in FSL .bvec text file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="32"/>
+        <source>Nrrd To NiftiFSL Conversion Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"/>
+        <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
+        <source>Output nii file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
+        <source>Output bval file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
+        <source>Output bvec file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
+        <source>Nifti output filename (for Slicer GUI use).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"/>
+        <source>The B Values are stored in FSL .bval text file format (defaults to &lt;outputVolume&gt;.bval)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="39"/>
+        <source>The Gradient Vectors are stored in FSL .bvec text file format (defaults to &lt;outputVolume&gt;.bvec)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"/>
+        <source>Advanced Conversion Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
+        <source>Options to control the output.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
+        <source>Write Protocol Gradients File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
+        <source>Use Identity Measurement Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"/>
+        <source>Use BMatrix Gradient Directions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
+        <source>Output Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
+        <source>Small Gradient Threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
+        <source>Transpose Input BVectors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
+        <source>Allow lossy image conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
+        <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
+        <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
+        <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
+        <source>Directory holding the output NRRD file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
+        <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
+        <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
+        <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
+        <source>DEPRECATED THESE DO NOT WORK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
+        <source>Gradient Vector File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
+        <source>Output fMRI file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
+        <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
+        <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ExecutionModelTour</name>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="4"/>
+        <source>Execution Model Tour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="5"/>
+        <source>Shows one of each type of parameter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
+        <source>Scalar Parameters (árvíztűrő tükörfúrógép)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"/>
+        <source>Variations on scalar parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"/>
+        <source>Integer Parameter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"/>
+        <source>Double Parameter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
+        <source>An integer without constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"/>
+        <source>A double with constraints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
+        <source>Vector Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"/>
+        <source>Variations on vector parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
+        <source>Float Vector Parameter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
+        <source>String Vector Parameter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
+        <source>A vector of floats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
+        <source>A vector of strings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"/>
+        <source>Enumeration Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"/>
+        <source>Variations on enumeration parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"/>
+        <source>String Enumeration Parameter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"/>
+        <source>An enumeration of strings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="26"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"/>
+        <source>Bill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="124"/>
+        <source>Ron</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="125"/>
+        <source>Eric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="127"/>
+        <source>Ross</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="28"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="128"/>
+        <source>Steve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="29"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="129"/>
+        <source>Will</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="30"/>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="130"/>
+        <source>árvíztűrő tükörfúrógép</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
+        <source>Boolean Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"/>
+        <source>Variations on boolean parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
+        <source>Boolean Default true</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
+        <source>Boolean Default false</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
+        <source>Boolean No Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
+        <source>A boolean default true</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"/>
+        <source>A boolean default false</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"/>
+        <source>A boolean with no default, should be defaulting to false</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
+        <source>File, Directory and Image Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
+        <source>Parameters that describe files and directories.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"/>
+        <source>Input file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"/>
+        <source>Input Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"/>
+        <source>Output file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"/>
+        <source>Input directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
+        <source>Input image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
+        <source>Input 4D Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
+        <source>Output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
+        <source>An input file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"/>
+        <source>Multiple input files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"/>
+        <source>An output file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"/>
+        <source>An input directory. If no default is specified, the current directory is used,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
+        <source>An input image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
+        <source>Input 4D Image (txyz)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
+        <source>An output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
+        <source>Transform Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
+        <source>Parameters that describe transforms.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"/>
+        <source>Input transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
+        <source>Input transform linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
+        <source>Input transform nonlinear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
+        <source>Input transform bspline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
+        <source>Output transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
+        <source>Output transform linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"/>
+        <source>Output transform nonlinear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
+        <source>Output transform bspline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
+        <source>A generic input transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
+        <source>A linear input transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
+        <source>A nonlinear input transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
+        <source>A bspline input transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
+        <source>A generic output transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
+        <source>A linear output transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
+        <source>A nonlinear output transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
+        <source>A bspline output transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
+        <source>Point Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
+        <source>Parameters that describe point sets.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
+        <source>Seeds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"/>
+        <source>Seeds file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"/>
+        <source>Output seeds file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
+        <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
+        <source>Test file of input fiducials, compared to seeds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
+        <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
+        <source>Geometry Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"/>
+        <source>Parameters that describe models.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"/>
+        <source>Input Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
+        <source>Output Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
+        <source>Models</source>
+        <translation type="unfinished">Models</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
+        <source>Input model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
+        <source>Output model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
+        <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
+        <source>Index Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"/>
+        <source>Variations on parameters that use index rather than flags.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"/>
+        <source>First index argument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="92"/>
+        <source>Second index argument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"/>
+        <source>First index argument is an image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"/>
+        <source>Second index argument is an image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"/>
+        <source>Regions of interest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="96"/>
+        <source>Input region list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="97"/>
+        <source>List of regions to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
+        <source>Measurements</source>
+        <translation type="unfinished">Measurements</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
+        <source>Input FA measurements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="100"/>
+        <source>Output FA measurements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"/>
+        <source>Array of FA values to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="102"/>
+        <source>Array of processed (output) FA values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="103"/>
+        <source>Generic Tables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="104"/>
+        <source>Input Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="105"/>
+        <source>Output Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="106"/>
+        <source>Array of Table values to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="107"/>
+        <source>Array of processed (output) Table values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="108"/>
+        <source>Simple return types</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="109"/>
+        <source>An integer return value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="110"/>
+        <source>A boolean return value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
+        <source>A floating point return value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
+        <source>A double point return value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="113"/>
+        <source>A string point return value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="114"/>
+        <source>An integer vector return value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="115"/>
+        <source>A string enumeration return value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="116"/>
+        <source>An example of an integer return type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"/>
+        <source>An example of a boolean return type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
+        <source>An example of a float return type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
+        <source>An example of a double return type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"/>
+        <source>An example of a string return type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"/>
+        <source>An example of an integer vector return type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="122"/>
+        <source>An enumeration of strings as a return type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ExtractSkeleton</name>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="4"/>
+        <source>Extract Skeleton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="5"/>
+        <source>Extract the skeleton of a binary object.  The skeleton can be limited to being a 1D curve or allowed to be a full 2D manifold.  The branches of the skeleton can be pruned so that only the maximal center skeleton is returned.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
+        <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
+        <source>Input Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
+        <source>Output Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
+        <source>Input image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
+        <source>Skeleton of the input image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="13"/>
+        <source>Skeleton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="14"/>
+        <source>Skeleton parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="15"/>
+        <source>Skeleton type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="16"/>
+        <source>Extract full tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="17"/>
+        <source>Number Of Points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="18"/>
+        <source>Output points list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="19"/>
+        <source>Output markups curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="20"/>
+        <source>Type of skeleton to create. 1D extract centerline curve points. 2D extracts medial surface points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="21"/>
+        <source>Include the full tree in the output, not just the longest branch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="22"/>
+        <source>Number of points used to represent the skeleton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"/>
+        <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
+        <source>Centerline points as markups curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="26"/>
+        <source>1D</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="27"/>
+        <source>2D</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_FiducialRegistration</name>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
+        <source>Fiducial Registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
+        <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
+        <source>Fixed landmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
+        <source>Moving landmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
+        <source>Save transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
+        <source>Transform Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
+        <source>RMS Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
+        <source>Output Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
+        <source>Ordered list of landmarks in the fixed image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
+        <source>Ordered list of landmarks in the moving image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
+        <source>Save the transform that results from registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
+        <source>Type of transform to produce</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
+        <source>Display RMS Error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
+        <source>Provides more information on the output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
+        <source>Rigid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
+        <source>Translation</source>
+        <translation type="unfinished">Translation</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
+        <source>Similarity</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GaussianBlurImageFilter</name>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
+        <source>Gaussian Blur Image Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
+        <source>Apply a gaussian blur to an image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
+        <source>Sigma</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
+        <source>Sigma value in physical units (e.g., mm) of the Gaussian kernel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
+        <source>Input volume</source>
+        <translation type="unfinished">Input volume</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
+        <source>Blurred Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GradientAnisotropicDiffusion</name>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"/>
+        <source>Gradient Anisotropic Diffusion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"/>
+        <source>Runs gradient anisotropic diffusion on a volume.
+
+Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
+        <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
+        <source>Anisotropic Diffusion Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
+        <source>Parameters for the anisotropic diffusion algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
+        <source>Conductance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
+        <source>Iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
+        <source>Time Step</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
+        <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
+        <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
+        <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Advanced</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
+        <source>Advanced parameters for the anisotropic diffusion algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
+        <source>Use image spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
+        <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleFillHoleImageFilter</name>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
+        <source>Grayscale Fill Hole Image Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
+        <source>GrayscaleFillholeImageFilter fills holes in a grayscale image.  Holes are local minima in the grayscale topography that are not connected to boundaries of the image. Gray level values adjacent to a hole are extrapolated across the hole.
+
+This filter is used to smooth over local minima without affecting the values of local maxima.  If you take the difference between the output of this filter and the original image (and perhaps threshold the difference above a small value), you&apos;ll obtain a map of the local minima.
+
+This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
+
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+
+ A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleGrindPeakImageFilter</name>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
+        <source>Grayscale Grind Peak Image Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
+        <source>GrayscaleGrindPeakImageFilter removes peaks in a grayscale image. Peaks are local maxima in the grayscale topography that are not connected to boundaries of the image. Gray level values adjacent to a peak are extrapolated through the peak.
+
+This filter is used to smooth over local maxima without affecting the values of local minima.  If you take the difference between the output of this filter and the original image (and perhaps threshold the difference above a small value), you&apos;ll obtain a map of the local maxima.
+
+This filter uses the GrayscaleGeodesicDilateImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the minimum pixel value in the input image.
+
+This filter is the dual to the GrayscaleFillholeImageFilter which implements the Fillhole algorithm.  Since it is a dual, it is somewhat superfluous but is provided as a convenience.
+
+Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
+
+A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleModelMaker</name>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"/>
+        <source>Grayscale Model Maker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
+        <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
+        <source>Output Geometry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
+        <source>Volume containing the input grayscale data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
+        <source>Output that contains geometry model.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"/>
+        <source>Grayscale Model Maker Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
+        <source>Parameters used for making models.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
+        <source>Threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
+        <source>Model Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
+        <source>Decimate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
+        <source>Split Normals?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"/>
+        <source>Compute Point Normals?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
+        <source>Grayscale threshold of isosurface. The resulting surface of triangles separates the volume into voxels that lie above (inside) and below (outside) the threshold.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
+        <source>Name to use for this model.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
+        <source>Number of smoothing iterations. If 0, no smoothing will be done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="24"/>
+        <source>Target reduction during decimation, as a decimal percentage reduction in the number of polygons. If 0, no decimation will be done.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"/>
+        <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affect measurements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="26"/>
+        <source>Calculate the point normals? Calculated point normals make the surface appear smooth. Without point normals, the surface will appear faceted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Advanced</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"/>
+        <source>Turn this flag on to log more details during execution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_HistogramMatching</name>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"/>
+        <source>Histogram Matching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"/>
+        <source>Normalizes the grayscale values of a source image based on the grayscale values of a reference image.  This filter uses a histogram matching technique where the histograms of the two images are matched only at a specified number of quantile values.
+
+The filter was originally designed to normalize MR images of the sameMR protocol and same body part. The algorithm works best if background pixels are excluded from both the source and reference histograms.  A simple background exclusion method is to exclude all pixels whose grayscale values are smaller than the mean grayscale value. ThresholdAtMeanIntensity switches on this simple background exclusion method.
+
+ Number of match points governs the number of quantile values to be matched.
+
+The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
+        <source>Histogram Matching Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
+        <source>Parameters for Histogram Matching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
+        <source>Number of Histogram Levels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
+        <source>Number of Match Points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"/>
+        <source>Threshold at mean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
+        <source>The number of hisogram levels to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
+        <source>The number of match points to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
+        <source>If on, only pixels above the mean in each volume are thresholded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
+        <source>Reference Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
+        <source>Input volume whose histogram will be matched</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"/>
+        <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ImageLabelCombine</name>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"/>
+        <source>Image Label Combine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
+        <source>Combine two label maps into one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
+        <source>Input Label Map A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"/>
+        <source>Input Label Map B</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"/>
+        <source>Output Label Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
+        <source>Label map image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
+        <source>Resulting Label map image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
+        <source>Label combination options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"/>
+        <source>Selection of how to combine label maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="16"/>
+        <source>First Label Overwrites Second</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="17"/>
+        <source>Use first or second label when both are present</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_LabelMapSmoothing</name>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"/>
+        <source>Label Map Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
+        <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
+        <source>Label Selection Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
+        <source>Parameters for selecting the label to smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
+        <source>Label to smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
+        <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
+        <source>AntiAliasing Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
+        <source>Parameters for the AntiAliasing algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
+        <source>Number of Iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"/>
+        <source>Maximum RMS Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
+        <source>The number of iterations of the level set AntiAliasing algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
+        <source>The maximum RMS error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
+        <source>Gaussian Smoothing Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"/>
+        <source>Parameters for Gaussian Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"/>
+        <source>Sigma</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"/>
+        <source>The standard deviation of the Gaussian kernel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
+        <source>Input label map to smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"/>
+        <source>Smoothed label map</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MaskScalarVolume</name>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="5"/>
+        <source>Mask Scalar Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
+        <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
+        <source>Input and Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
+        <source>Mask Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"/>
+        <source>Masked Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
+        <source>Input volume to be masked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
+        <source>Label volume containing the mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
+        <source>Output volume: Input Volume masked by label value from Mask Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
+        <source>Filter settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
+        <source>Label value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
+        <source>Replace value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
+        <source>Label value in the Mask Volume to use as the mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
+        <source>Value to use for the output volume outside of the mask</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MedianImageFilter</name>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"/>
+        <source>Median Image Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
+        <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
+        <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
+        <source>Median Filter Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"/>
+        <source>Parameters for the median filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"/>
+        <source>Neighborhood Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"/>
+        <source>The size of the neighborhood in each dimension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MergeModels</name>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="4"/>
+        <source>Merge Models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
+        <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
+        <source>Input/output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
+        <source>Model 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"/>
+        <source>Model 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"/>
+        <source>Output Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
+        <source>Input model 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
+        <source>Input model 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
+        <source>Output model</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelMaker</name>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
+        <source>Model Maker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
+        <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
+        <source>Models</source>
+        <translation type="unfinished">Models</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
+        <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
+        <source>Color table to make labels to colors and objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
+        <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
+        <source>Create Multiple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
+        <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
+        <source>Model Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
+        <source>Generate All Models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
+        <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
+        <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
+        <source>Model Maker Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
+        <source>Parameters used for making models.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
+        <source>Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
+        <source>Start Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
+        <source>End Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
+        <source>Skip Un-Named Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
+        <source>Joint Smoothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
+        <source>Smooth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
+        <source>Filter Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
+        <source>Decimate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
+        <source>Split Normals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
+        <source>Point Normals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
+        <source>Pad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
+        <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
+        <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
+        <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
+        <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
+        <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
+        <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
+        <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
+        <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
+        <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
+        <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
+        <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
+        <source>Sinc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
+        <source>Laplacian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
+        <source>Color Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
+        <source>Save Intermediate Models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
+        <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
+        <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
+        <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelToLabelMap</name>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
+        <source>Model To LabelMap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
+        <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"/>
+        <source>Parameter settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
+        <source>Label value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
+        <source>The unsigned char label value to use in the output label map.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
+        <source>Input/output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
+        <source>Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
+        <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
+        <source>Input model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
+        <source>Unsigned char label map volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MultiplyScalarVolumes</name>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="5"/>
+        <source>Multiply Scalar Volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
+        <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
+        <source>Input Volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
+        <source>Input Volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
+        <source>Input volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
+        <source>Input volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
+        <source>Volume1 * Volume2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
+        <source>Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
+        <source>Control how the module operates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
+        <source>Interpolation order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
+        <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_N4ITKBiasFieldCorrection</name>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="4"/>
+        <source>N4ITK MRI Bias correction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
+        <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
+        <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
+        <source>Input Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
+        <source>Mask Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
+        <source>Output bias field image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
+        <source>Input image where you observe signal inhomegeneity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
+        <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
+        <source>Result of processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="16"/>
+        <source>Recovered bias field (OPTIONAL)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="17"/>
+        <source>N4 Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"/>
+        <source>BSpline grid resolution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="19"/>
+        <source>Spline distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="20"/>
+        <source>Bias field Full Width at Half Maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
+        <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
+        <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
+        <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
+        <source>Advanced N4 Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
+        <source>Advanced parameters of the algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
+        <source>Number of iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"/>
+        <source>Convergence threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"/>
+        <source>BSpline order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"/>
+        <source>Shrink factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="30"/>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="37"/>
+        <source>Weight Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"/>
+        <source>Wiener filter noise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
+        <source>Number of histogram bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
+        <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
+        <source>Stopping criterion for the iterative bias estimation. Larger values will lead to smaller execution time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
+        <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
+        <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
+        <source>Wiener filter noise. Zero implies use of the default value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
+        <source>Number of histogram bins. Zero implies use of the default value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_OrientScalarVolume</name>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="4"/>
+        <source>Orient Scalar Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
+        <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
+        <source>Input Volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
+        <source>Input volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
+        <source>The oriented volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="13"/>
+        <source>Orientation Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
+        <source>Orientation of output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
+        <source>Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="16"/>
+        <source>Orientation choices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="42"/>
+        <source>LPS</source>
+        <translation type="unfinished">LPS</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
+        <source>Axial</source>
+        <translation type="unfinished">Axial</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="19"/>
+        <source>Coronal</source>
+        <translation type="unfinished">Coronal</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="20"/>
+        <source>Sagittal</source>
+        <translation type="unfinished">Sagittal</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"/>
+        <source>RIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="22"/>
+        <source>LIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="23"/>
+        <source>RSP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="24"/>
+        <source>LSP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="25"/>
+        <source>RIA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"/>
+        <source>LIA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="27"/>
+        <source>RSA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="28"/>
+        <source>LSA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="29"/>
+        <source>IRP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="30"/>
+        <source>ILP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="31"/>
+        <source>SRP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="32"/>
+        <source>SLP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="33"/>
+        <source>IRA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="34"/>
+        <source>ILA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="35"/>
+        <source>SRA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="36"/>
+        <source>SLA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="37"/>
+        <source>RPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="38"/>
+        <source>LPI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="39"/>
+        <source>RAI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="40"/>
+        <source>LAI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="41"/>
+        <source>RPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="43"/>
+        <source>RAS</source>
+        <translation type="unfinished">RAS</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="44"/>
+        <source>LAS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="45"/>
+        <source>PRI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="46"/>
+        <source>PLI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="47"/>
+        <source>ARI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="48"/>
+        <source>ALI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="49"/>
+        <source>PRS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="50"/>
+        <source>PLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="51"/>
+        <source>ARS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="52"/>
+        <source>ALS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="53"/>
+        <source>IPR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="54"/>
+        <source>SPR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="55"/>
+        <source>IAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="56"/>
+        <source>SAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="57"/>
+        <source>IPL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="58"/>
+        <source>SPL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="59"/>
+        <source>IAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="60"/>
+        <source>SAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="61"/>
+        <source>PIR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="62"/>
+        <source>PSR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="63"/>
+        <source>AIR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="64"/>
+        <source>ASR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="65"/>
+        <source>PIL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="66"/>
+        <source>PSL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="67"/>
+        <source>AIL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="68"/>
+        <source>ASL</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_PETStandardUptakeValueComputation</name>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="4"/>
+        <source>PET Standard Uptake Value Computation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
+        <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
+        <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
+        <source>Image and Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
+        <source>Input parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
+        <source>PET DICOM volume path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="10"/>
+        <source>Input PET Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="11"/>
+        <source>Input VOI Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="12"/>
+        <source>Input path to a directory containing a PET volume containing DICOM header information for SUV computation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="13"/>
+        <source>Input PET volume for SUVbw computation (must be the same volume as pointed to by the DICOM path!).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"/>
+        <source>Input label volume containing the volumes of interest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"/>
+        <source>Color table to to map labels to colors and names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
+        <source>Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
+        <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
+        <source>Output table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="19"/>
+        <source>Output Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="20"/>
+        <source>Output Label Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="21"/>
+        <source>SUV Max</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="22"/>
+        <source>SUV Mean</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="23"/>
+        <source>SUV Minimum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"/>
+        <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"/>
+        <source>List of labels for which SUV values were computed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="26"/>
+        <source>List of label values for which SUV values were computed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="27"/>
+        <source>SUV max for each label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="28"/>
+        <source>SUV mean for each label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="29"/>
+        <source>SUV minimum for each label</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_PerformMetricTest</name>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
+        <source>Registration Metric Test (BRAINS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
+        <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
+        <source>
+  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
+        <source>Input parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
+        <source>Transform File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"/>
+        <source>Fixed image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"/>
+        <source>Moving image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
+        <source>Input transform that is use to warp moving image before metric comparison.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
+        <source>Input variables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="14"/>
+        <source>Metric type and input parameters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="15"/>
+        <source>Metric type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
+        <source>Number Of Samples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
+        <source>Number Of Histogram Bins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
+        <source>Comparison metric type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="19"/>
+        <source>The number of voxels sampled for metric evaluation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
+        <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"/>
+        <source>MMI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
+        <source>MSE</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ProbeVolumeWithModel</name>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"/>
+        <source>Probe Volume With Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
+        <source>Paint a model by a volume (using vtkProbeFilter).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
+        <source>BWH, NCIGT/LMI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
+        <source>Input volume</source>
+        <translation type="unfinished">Input volume</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
+        <source>Input model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
+        <source>Output model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
+        <source>Output array name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
+        <source>Volume to use to &quot;paint&quot; the model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
+        <source>Output &quot;painted&quot; model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
+        <source>Name of the array that will contain the voxel values.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleDTIVolume</name>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"/>
+        <source>Resample DTI Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
+        <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
+        <source>Input/Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
+        <source>Reference Volume (To Set Output Parameters)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
+        <source>Input volume to be resampled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
+        <source>Resampled Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"/>
+        <source>Reference Volume (spacing,size,orientation,origin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"/>
+        <source>Transform Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
+        <source>Parameters used to transform the input image into the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
+        <source>Transform Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="19"/>
+        <source>Deformation Field Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="20"/>
+        <source>Displacement or h-Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"/>
+        <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"/>
+        <source>Set if the deformation field is an -Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="23"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="25"/>
+        <source>h-Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
+        <source>displacement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"/>
+        <source>Processing Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="27"/>
+        <source>Interpolation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="28"/>
+        <source>No Measurement Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="29"/>
+        <source>Tensors Correction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"/>
+        <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
+        <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
+        <source>Correct the tensors if computed tensor is not semi-definite positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"/>
+        <source>linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
+        <source>zero</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
+        <source>nn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
+        <source>ws</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
+        <source>bs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
+        <source>none</source>
+        <translation type="unfinished">none</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
+        <source>abs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"/>
+        <source>nearest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="43"/>
+        <source>Tensor Transform Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
+        <source>Finite Strain (FS) or 
+Preservation of the Principal Direction (PPD)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
+        <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"/>
+        <source>PPD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"/>
+        <source>FS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
+        <source>Advanced Transform Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
+        <source>Those parameters should normally not be modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
+        <source>Transforms Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
+        <source>Not a Bulk Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
+        <source>Space Orientation inconsistency (between transform and image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
+        <source>Select in what order the transforms are read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
+        <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
+        <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"/>
+        <source>output-to-input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
+        <source>input-to-output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
+        <source>Advanced Rigid/Affine Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"/>
+        <source>Rotation Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
+        <source>Centered Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
+        <source>Image Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
+        <source>Inverse Transformation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
+        <source>Center of rotation (only for rigid and affine transforms)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
+        <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
+        <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
+        <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
+        <source>input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
+        <source>output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
+        <source>Manual Output Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
+        <source>Parameters of the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
+        <source>Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
+        <source>Origin</source>
+        <translation type="unfinished">Origin</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
+        <source>Direction Matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
+        <source>Spacing along each dimension (0 means use input spacing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
+        <source>Size along each dimension (0 means use input size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
+        <source>Origin of the output Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
+        <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
+        <source>Advanced Resampling Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"/>
+        <source>Parameters used for resampling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
+        <source>Number Of Threads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
+        <source>Default Pixel Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
+        <source>Number of thread used to compute the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
+        <source>Default pixel value for samples falling outside of the input region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
+        <source>Windowed Sinc Interpolate Function Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
+        <source>Parameters used for the Windowed Sinc interpolation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
+        <source>Window Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
+        <source>Window Function 
+h = Hamming 
+c = Cosine 
+w = Welch 
+l = Lanczos 
+b = Blackman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"/>
+        <source>c</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"/>
+        <source>h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"/>
+        <source>w</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"/>
+        <source>l</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"/>
+        <source>b</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
+        <source>BSpline Interpolate Function Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
+        <source>Parameters used for the BSpline interpolation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
+        <source>Spline Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
+        <source>Spline Order (Spline order may be from 0 to 5)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
+        <source>Manual Transform (Used only if no transform node set)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
+        <source>Transform Matrix</source>
+        <translation type="unfinished">Transform Matrix</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
+        <source>Transform Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
+        <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
+        <source>Transform algorithm
+rt = Rigid Transform
+a = Affine Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"/>
+        <source>a</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
+        <source>rt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleScalarVectorDWIVolume</name>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
+        <source>Resample Scalar/Vector/DWI Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+
+Warning: To resample DWMR Images, use nrrd input and output files. 
+
+Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
+        <source>Input/Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
+        <source>Reference Volume (To Set Output Parameters)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
+        <source>Input Volume to be resampled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"/>
+        <source>Resampled Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"/>
+        <source>Reference Volume (spacing,size,orientation,origin)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"/>
+        <source>Transform Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"/>
+        <source>Parameters used to transform the input image into the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
+        <source>Transform Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="18"/>
+        <source>Deformation Field Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="19"/>
+        <source>Displacement or H-Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
+        <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
+        <source>Set if the deformation field is an h-Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
+        <source>h-Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
+        <source>displacement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="25"/>
+        <source>Interpolation Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="26"/>
+        <source>Interpolation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="27"/>
+        <source>Sampling algorithm (linear or nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="28"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="29"/>
+        <source>linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"/>
+        <source>nn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="31"/>
+        <source>ws</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="32"/>
+        <source>bs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="33"/>
+        <source>Advanced Transform Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="34"/>
+        <source>Those parameters should normally not be modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
+        <source>Transforms Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
+        <source>Not a Bulk Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
+        <source>Space Orientation inconsistency (between transform and image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
+        <source>Select in what order the transforms are read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
+        <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
+        <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="43"/>
+        <source>output-to-input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="42"/>
+        <source>input-to-output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"/>
+        <source>Rigid/Affine Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="45"/>
+        <source>Rotation Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="46"/>
+        <source>Centered Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="47"/>
+        <source>Image Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="48"/>
+        <source>Inverse ITK Transformation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="49"/>
+        <source>Rotation Point in case of rotation around a point (otherwise useless)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
+        <source>Set the center of the transformation to the center of the input image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
+        <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
+        <source>Inverse the transformation before applying it from output image to input image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="54"/>
+        <source>input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="55"/>
+        <source>output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="56"/>
+        <source>Manual Output Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"/>
+        <source>Parameters of the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
+        <source>Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="59"/>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
+        <source>Origin</source>
+        <translation type="unfinished">Origin</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
+        <source>Direction Matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"/>
+        <source>Spacing along each dimension (0 means use input spacing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"/>
+        <source>Size along each dimension (0 means use input size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
+        <source>Origin of the output Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
+        <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"/>
+        <source>Advanced Resampling Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="67"/>
+        <source>Parameters used for resampling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
+        <source>Number Of Thread</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"/>
+        <source>Default Pixel Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
+        <source>Number of thread used to compute the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
+        <source>Default pixel value for samples falling outside of the input region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
+        <source>Windowed Sinc Interpolate Function Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
+        <source>Parameters used for the Windowed Sinc interpolation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
+        <source>Window Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
+        <source>Window Function 
+h = Hamming 
+c = Cosine 
+w = Welch 
+l = Lanczos 
+b = Blackman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="78"/>
+        <source>c</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="77"/>
+        <source>h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="79"/>
+        <source>w</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="80"/>
+        <source>l</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="81"/>
+        <source>b</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
+        <source>BSpline Interpolate Function Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
+        <source>Parameters used for the BSpline interpolation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
+        <source>Spline Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
+        <source>Manual Transform (Only used if no transform node set)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
+        <source>Transform Matrix</source>
+        <translation type="unfinished">Transform Matrix</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="88"/>
+        <source>Transform</source>
+        <translation type="unfinished">Transform</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
+        <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"/>
+        <source>Transform algorithm
+rt = Rigid Transform
+a = Affine Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="93"/>
+        <source>a</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"/>
+        <source>rt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleScalarVolume</name>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="5"/>
+        <source>Resample Scalar Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
+        <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
+        <source>Resampling Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="9"/>
+        <source>Parameters used for resampling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="10"/>
+        <source>Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="11"/>
+        <source>Interpolation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="12"/>
+        <source>Spacing along each dimension (0 means use input spacing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
+        <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="15"/>
+        <source>linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
+        <source>nearestNeighbor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"/>
+        <source>bspline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
+        <source>hamming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="19"/>
+        <source>cosine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="20"/>
+        <source>welch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="21"/>
+        <source>lanczos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="22"/>
+        <source>blackman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
+        <source>Input volume to be resampled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
+        <source>Resampled Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_RobustStatisticsSegmenter</name>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"/>
+        <source>Robust Statistics Segmenter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"/>
+        <source>Active contour segmentation using robust statistic.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
+        <source>Segmentation Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
+        <source>Parameters for robust statistics segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
+        <source>Approximate volume(mL)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
+        <source>The approximate volume of the object, in mL.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
+        <source>Auxiliary Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
+        <source>Some auxiliary parameters to control the stop criteria.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"/>
+        <source>Intensity Homogeneity[0-1.0]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"/>
+        <source>Boundary Smoothness[0-1.0]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
+        <source>Output Label Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
+        <source>Max running time(min)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
+        <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
+        <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
+        <source>Label value of the output image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
+        <source>The program will stop if this time is reached.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
+        <source>Original Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
+        <source>Label Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
+        <source>Original image to be segmented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
+        <source>Label image for initialization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
+        <source>Segmented image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SimpleRegionGrowingSegmentation</name>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"/>
+        <source>Simple Region Growing Segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
+        <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
+        <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
+        <source>Smoothing Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
+        <source>Parameters to denoise the image prior to segmenting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
+        <source>Smoothing iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
+        <source>Timestep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
+        <source>Number of smoothing iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
+        <source>Timestep for curvature flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
+        <source>Segmentation Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
+        <source>Parameters to prescribe the region growing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
+        <source>Number of iterations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
+        <source>Multiplier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
+        <source>Neighborhood Radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
+        <source>Output Label Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
+        <source>Seeds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
+        <source>Number of iterations of region growing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"/>
+        <source>Number of standard deviations to include in intensity model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
+        <source>The radius of the neighborhood over which to calculate intensity model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
+        <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
+        <source>Seed point(s) for region growing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SubtractScalarVolumes</name>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
+        <source>Subtract Scalar Volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
+        <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
+        <source>Input Volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
+        <source>Input Volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
+        <source>Input volume 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
+        <source>Input volume 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
+        <source>Volume1 - Volume2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
+        <source>Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
+        <source>Control how the module operates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
+        <source>Interpolation order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
+        <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ThresholdScalarVolume</name>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
+        <source>Threshold Scalar Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
+        <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
+        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
+        <source>Input volume</source>
+        <translation type="unfinished">Input volume</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
+        <source>Thresholded input volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
+        <source>Filter Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
+        <source>Threshold Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
+        <source>Threshold Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
+        <source>Lower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
+        <source>Upper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
+        <source>Outside Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
+        <source>Negate Threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
+        <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
+        <source>Threshold value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
+        <source>Lower threshold value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
+        <source>Upper threshold value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
+        <source>Set the voxels to this value if they fall outside the threshold range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
+        <source>Swap the outside value with the inside value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
+        <source>Outside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"/>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CLI_VotingBinaryHoleFillingImageFilter</name>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
+        <source>Voting Binary Hole Filling Image Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
+        <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
+        <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
+        <source>Binary Hole Filling Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
+        <source>Parameters for Hole Filling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
+        <source>Maximum Radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
+        <source>Majority Threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
+        <source>Background</source>
+        <translation type="unfinished">Background</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="12"/>
+        <source>Foreground</source>
+        <translation type="unfinished">Foreground</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
+        <source>The radius of a hole to be filled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
+        <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
+        <source>The value associated with the background (not object)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
+        <source>The value associated with the foreground (object)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
+        <source>IO</source>
+        <translation type="unfinished">IO</translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
+        <source>Input/output parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
+        <source>Input Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
+        <source>Output Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
+        <source>Input volume to be filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
+        <source>Output filtered</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Dialog</name>
     <message>
         <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="14"/>
@@ -6392,6 +14074,137 @@ p, li { white-space: pre-wrap; }
         <source>Informatics</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="3"/>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="4"/>
+        <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="3"/>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="3"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="4"/>
+        <source>Utilities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
+        <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="4"/>
+        <source>BRAINS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="3"/>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
+        <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="3"/>
+        <source>Diffusion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSFit_tr.h" line="3"/>
+        <location filename="Docs/_extracli/BRAINSResample_tr.h" line="3"/>
+        <location filename="Docs/_extracli/BRAINSResize_tr.h" line="3"/>
+        <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="3"/>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="3"/>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
+        <source>Registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="3"/>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
+        <source>Segmentation</source>
+        <translation type="unfinished">Segmentation</translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
+        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="4"/>
+        <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="4"/>
+        <source>Specialized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Docs/_extracli/DWIConvert_tr.h" line="4"/>
+        <source>Import and Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="3"/>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="3"/>
+        <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="3"/>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="3"/>
+        <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="3"/>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="3"/>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="3"/>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="3"/>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="3"/>
+        <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="3"/>
+        <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="3"/>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="3"/>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="3"/>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="3"/>
+        <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="3"/>
+        <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="3"/>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="4"/>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="3"/>
+        <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="3"/>
+        <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="3"/>
+        <source>Filtering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="4"/>
+        <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="4"/>
+        <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="4"/>
+        <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="4"/>
+        <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="4"/>
+        <source>Arithmetic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="3"/>
+        <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="3"/>
+        <source>Converters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="4"/>
+        <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="4"/>
+        <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="4"/>
+        <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="4"/>
+        <source>Denoising</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
+        <source>Testing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="4"/>
+        <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="4"/>
+        <source>Morphology</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="3"/>
+        <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="3"/>
+        <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="3"/>
+        <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="3"/>
+        <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="3"/>
+        <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="3"/>
+        <source>Surface Models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
+        <source>Quantification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="3"/>
+        <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
+        <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
+        <source>Legacy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerActionsDialog</name>
@@ -7233,6 +15046,19 @@ Graphics capabilities of this computer:
     </message>
 </context>
 <context>
+    <name>qSlicerCLIModule</name>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
+        <source>online documentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
+        <source>For more information see the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerCLIModuleWidget</name>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
@@ -7265,7 +15091,7 @@ Graphics capabilities of this computer:
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="95"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
         <source>AutoRun</source>
         <translation type="unfinished">AutoRun</translation>
     </message>
@@ -7290,42 +15116,42 @@ Graphics capabilities of this computer:
         <translation type="unfinished">Apply</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
         <source>AutoRun on changed parameter</source>
         <translation type="unfinished">AutoRun on changed parameter</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="100"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
         <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="107"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="110"/>
         <source>AutoRun on modified input</source>
         <translation type="unfinished">AutoRun on modified input</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="109"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="112"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
         <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node is modified.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="116"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="119"/>
         <source>AutoRun on other input events</source>
         <translation type="unfinished">AutoRun on other input events</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="118"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="121"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
         <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="125"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="128"/>
         <source>AutoRun cancels running process</source>
         <translation type="unfinished">AutoRun cancels running process</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="127"/>
+        <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="130"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
         <translation type="unfinished">When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</translation>
     </message>
@@ -11682,6 +19508,16 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <source>Histogram</source>
         <translation type="unfinished">Histogram</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/qSlicerScalarVolumeDisplayWidget.cxx" line="243"/>
+        <source>Click to enable modification of Window/Level values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/qSlicerScalarVolumeDisplayWidget.cxx" line="248"/>
+        <source>Click to prevent modification of Window/Level values</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSceneIOOptionsWidget</name>
@@ -13657,6 +21493,37 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="93"/>
+        <source>Tractography labelmap seeding...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="95"/>
+        <source>Tractography interactive seeding...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="174"/>
+        <source>Invalid!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="180"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyLabelMapsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="90"/>
+        <source>2D outline visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyModule</name>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchyModule.ui" line="14"/>
@@ -14006,8 +21873,33 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyVolumesPlugin</name>
     <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="136"/>
+        <source>Show volumes in folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="139"/>
+        <source>Show in slice views as foreground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="142"/>
+        <source>Reset field of view on show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="147"/>
+        <source>Reset view orientation on show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="154"/>
         <source>Show color legend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="163"/>
+        <source>Window/level presets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14029,6 +21921,31 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="365"/>
         <source>Default (WW=%1, WL=%2)</source>
         <translation type="unfinished">Default (WW=%1, WL=%2)</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="467"/>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="473"/>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
+        <source>Dimensions:</source>
+        <translation type="unfinished">Dimensions:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
+        <source>Spacing:</source>
+        <translation type="unfinished">Spacing:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="493"/>
+        <source> Empty volume</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15352,6 +23269,19 @@ This should only used by advanced users who understand the consequences of chang
     </message>
 </context>
 <context>
+    <name>qSlicerVolumesModule</name>
+    <message>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="68"/>
+        <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="87"/>
+        <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerVolumesModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
@@ -15410,6 +23340,30 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
         <source>Convert to scalar volume:</source>
         <translation type="unfinished">Convert to scalar volume:</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerVolumesReader</name>
+    <message>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="92"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="106"/>
+        <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="107"/>
+        <source>Dicom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
+        <source>Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
+        <source>All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
