@@ -6,27 +6,27 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació ACPC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o ACPC) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia ACPC s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformació resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de l&apos;Aliança Nacional per a la Computació de la Imatge Mèdica (NAMIC), finançat pel Institut Nacional de Salut a través del NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Referències d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
         <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Referències anatòmiques que s&apos;utilitzaran per a calcular la transformada ACPC.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
@@ -57,7 +57,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
         <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació calculada (translació i rotació rígides) que el mòdul calcula a partir de les referències d&apos;entrada. Si aquesta transformació s&apos;aplica al volum, farà que la línia ACPC sigui «horitzontal» (a l&apos;eix AP del sistema de coordenades del pacient), alinear el pla sagital mitjà «vertical» (al pla AS del sistema de coordenades del pacient). ), i (si el centratge està habilitat), fa que el punt AC sigui l&apos;origen (la coordenada (0,0,0) al sistema de coordenades del pacient).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de referències</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
@@ -246,7 +246,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de referència d&apos;entrada amb punts LE i RE definits en ubicacions físiques</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
