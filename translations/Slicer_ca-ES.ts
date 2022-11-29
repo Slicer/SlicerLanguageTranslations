@@ -6,12 +6,12 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation>Transformació ACPC</translation>
+        <translation>Transformació CACP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o ACPC) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia ACPC s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformació resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
+        <translation>&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o CACP) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia CACP s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformació resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
@@ -26,38 +26,38 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
         <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation>Referències anatòmiques que s&apos;utilitzaran per a calcular la transformada ACPC.</translation>
+        <translation>Referències anatòmiques que s&apos;utilitzaran per a calcular la transformada CACP.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
         <source>ACPC line</source>
-        <translation type="unfinished"></translation>
+        <translation>Línia CACP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="11"/>
         <source>Midline</source>
-        <translation type="unfinished"></translation>
+        <translation>Línia mitjana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
         <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Línia CACP, que connecta un punt de la comissura anterior amb un punt de la comissura posterior.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
         <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="unfinished"></translation>
+        <translation>La línia mitjana és una sèrie de punts (almenys 3) situats al pla sagital mitjà, que defineixen la divisió entre els hemisferis del cervell.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
         <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation>Transformació calculada (translació i rotació rígides) que el mòdul calcula a partir de les referències d&apos;entrada. Si aquesta transformació s&apos;aplica al volum, farà que la línia ACPC sigui «horitzontal» (a l&apos;eix AP del sistema de coordenades del pacient), alinear el pla sagital mitjà «vertical» (al pla AS del sistema de coordenades del pacient). ), i (si el centratge està habilitat), fa que el punt AC sigui l&apos;origen (la coordenada (0,0,0) al sistema de coordenades del pacient).</translation>
+        <translation>Transformació calculada (translació i rotació rígides) que el mòdul calcula a partir de les referències d&apos;entrada. Si aquesta transformació s&apos;aplica al volum, farà que la línia CACP sigui «horitzontal» (a l&apos;eix AP del sistema de coordenades del pacient), alinear el pla sagital mitjà «vertical» (al pla SA del sistema de coordenades del pacient). ), i (si el centratge està habilitat), fa que el punt CA sigui l&apos;origen (la coordenada (0,0,0) al sistema de coordenades del pacient).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
@@ -67,12 +67,12 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
         <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si aquesta opció està habilitada, la transformació de sortida traduirà el punt CA a l&apos;origen. Si aquesta opció està desactivada, es conservarà la posició del volum i la transformació només canviarà l&apos;orientació.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
         <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació que mou el volum al sistema de coordenades CACP estàndard.</translation>
     </message>
 </context>
 <context>
@@ -201,27 +201,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfiguració del cervell de la imatge T1/T2 (CERVELLS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest programa: 1) desfigurarà imatges d&apos;un conjunt d&apos;imatges.  Les entrades han d&apos;estar alineades amb CACP i es proporcionen CA, CP, LE, RE.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball va ser desenvolupat pel Departament d&apos;Enginyeria Elèctrica i Informàtica de la Universitat d&apos;Iowa.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatges d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Primera imatge, segona imatge i imatge de màscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
@@ -231,166 +231,166 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge de referència de la font</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge d&apos;imatges passives d&apos;origen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Màscara opcional</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation>Fitxer de referència d&apos;entrada amb punts LE i RE definits en ubicacions físiques</translation>
+        <translation type="unfinished">Fitxer de referència d&apos;entrada amb punts LE i RE definits en ubicacions físiques</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatges d&apos;entrada, totes les imatges han d&apos;estar en el mateix espai físic, CACP alineades i coherents amb els punts de referència.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les imatges d&apos;entrada no s&apos;utilitzen en la generació de màscares, totes les imatges han d&apos;estar en el mateix espai físic que l&apos;inputVolumes, CACP alineat i coherent amb els punts de referència.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mascareta pregenerada opcional per utilitzar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished"></translation>
+        <translation>borrós</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>zero</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultats tant de la generació de MUSH com de la creació de màscares de volum cerebral</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation type="unfinished"></translation>
+        <translation>màscara de volum cerebral</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation type="unfinished"></translation>
+        <translation>La màscara de volum cerebral generada a partir de la imatge MUSH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation type="unfinished"></translation>
+        <translation>El directori de sortida per escriure els fitxers d&apos;entrada desfigurats</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode d&apos;execució</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar el programa per a generar només una màscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Sense aplicació de màscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>No apliqueu la màscara a les imatges d&apos;entrada utilitzades per a generar la màscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalització de la intensitat de la imatge de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres per a normalitzar les imatges de sortida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitat de sortida superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensitat de sortida inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Escalat relatiu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
         <source>Debug Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivell de depuració</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil d&apos;intensitat superior (0,99 per defecte)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Percentil d&apos;intensitat inferior (0,01 per defecte)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>No retalleu els valors fora d&apos;aquest interval perquè siguin el «Valor extrem»</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished"></translation>
+        <translation>No escalar als percentils relatius de l&apos;escala de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivell de depuració (0=Cap)</translation>
     </message>
 </context>
 <context>
@@ -932,7 +932,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre màxim d&apos;iteracions abans d&apos;aturar l&apos;optimització. Quan s&apos;utilitza un valor baix (500-1000), el registre es veu obligat a finalitzar abans, però hi ha un risc d&apos;aturar-se abans que s&apos;assoleixi una solució òptima.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
@@ -1957,7 +1957,9 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emet un volum a un tipus de dades determinat.
+Utilitza&apos;l sota el teu propi risc quan emetis un volum d&apos;entrada a un tipus de precisió inferior!
+Permet emetre el mateix tipus que el volum d&apos;entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
@@ -2788,7 +2790,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>La conductància controla la sensibilitat del terme de conductància. Com a norma general, com més baix sigui el valor, més fortament el filtre conserva les vores. Un alt valor provocarà difusió (allisat) a través de les vores. Tingues en compte que el nombre d&apos;iteracions controla la quantitat de suavització que es fa dins de regions delimitades per arestes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
@@ -4037,7 +4039,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>La conductància controla la sensibilitat del terme de conductància. Com a norma general, com més baix sigui el valor, més fortament el filtre conserva les vores. Un alt valor provocarà difusió (allisat) a través de les vores. Tingues en compte que el nombre d&apos;iteracions controla la quantitat de suavització que es fa dins de regions delimitades per arestes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
@@ -4304,7 +4306,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
         <source>Grayscale threshold of isosurface. The resulting surface of triangles separates the volume into voxels that lie above (inside) and below (outside) the threshold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llindar en escala de grisos de l&apos;isosuperfície. La superfície resultant dels triangles separa el volum en vòxels que es troben per sobre (dins) i per sota (fora) del llindar.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
@@ -5007,7 +5009,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vols especificar una gamma contínua d&apos;etiquetes des de les quals generar models, introdueix aquí l&apos;etiqueta inferior. Valor voxel des del qual començar a fer models. S&apos;utilitza en lloc de la llista d&apos;etiquetes per especificar un interval (assegura&apos;t que la llista d&apos;etiquetes estigui buida o que s&apos;acabi recorrent).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
@@ -5107,7 +5109,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersecciona un model d&apos;entrada amb un volum de referència i produeix un mapa d&apos;etiquetes de sortida, omplint vòxels dins el model amb el valor d&apos;etiqueta especificat.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
@@ -7466,7 +7468,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Llindar d&apos;una imatge. &lt;/p&gt; &lt;p&gt; Defineix els valors d&apos;imatge a un valor extrem especificat per l&apos;usuari si estan per sota, per sobre o entre valors llindar simples. &lt;/p&gt; &lt;p&gt; Llindar superior: Els valors superiors o iguals al valor llindar s&apos;estableixen a Valor extrem. &lt;/p&gt; &lt;p&gt; Llindar inferior: els valors inferiors o iguals al valor llindar s&apos;estableixen a Valor extrem. &lt;/p&gt; &lt;p&gt; Llindar extrem: els valors fora de l&apos;interval Inferior-Superior es defineixen a Valor extrem. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -7521,17 +7523,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
         <source>Outside Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor extrem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
@@ -7541,7 +7543,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quin tipus de llindar a realitzar. Si se selecciona Exterior, utilitza els valors Superior i Inferior. Si se selecciona Inferior, utilitza el valor llindar, si se selecciona Superior, utilitza el valor llindar.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
@@ -7551,12 +7553,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
         <source>Lower threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor llindar inferior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
         <source>Upper threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor llindar superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
@@ -7566,7 +7568,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
         <source>Swap the outside value with the inside value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvieu el valor extrem amb el valor interior.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
@@ -9057,7 +9059,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p align=&quot;justify&quot;&gt;Funció que s&apos;utilitza per a calcular pesos escalars per a la recerca de camins. Es pot accedir a l&apos;escalar del punt actiu actualment utilitzant el nom de la variable &amp;quot;activeScalar&amp;quot;. Es pot accedir a tots els altres escalars com a variables sempre que no continguin caràcters prohibits (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Funcions d&apos;exemple: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p align=&quot;justify&quot;&gt; Funció utilitzada per calcular pesos escalars per a pathfinding. Es pot accedir a l&apos;escalar de punts actualment actiu mitjançant el nom de la variable &amp;quot;activeScalar&amp;quot;. Es pot accedir a la resta d&apos;escalars com a variables sempre que no continguin caràcters il·legals (&amp;quot;./*, etc.). &lt;/p&gt; &lt;p&gt; Funcions d&apos;exemple: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"/>
@@ -9093,7 +9095,7 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
         <source>Resample a curve with the number of points specified.</source>
         <oldsource>Resample a curve and optionally constrain the points to a node</oldsource>
-        <translation type="unfinished">Tornar a mostrejar una corba restringint (opcionalment) els punts a un node</translation>
+        <translation>Torneu a fer una corba amb el nombre de punts especificats.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
@@ -13177,7 +13179,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="96"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Actualitza els límits de l&apos;estri de transformació.&lt;/p&gt; &lt;p&gt;La transformada actualitzarà els seus límits perquè coincideixi amb la caixa contenidora de tots els nodes que hi ha sota d&apos;ella (si n&apos;hi ha).&lt;/p&gt; &lt;p&gt;En cas contrari, l&apos;estri es redimensionarà a la mida d&apos;interacció predeterminada.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Actualitzeu els límits del widget de transformació. &lt;/p&gt; &lt;p&gt; La transformació actualitzarà els seus límits perquè coincideixi amb la caixa d&apos;enquadernació de tots els nodes que hi ha a sota (si n&apos;hi ha). &lt;/p&gt; &lt;p&gt; En cas contrari, el widget es redimensionarà a la mida d&apos;interacció predeterminada. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="99"/>
@@ -16104,7 +16106,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Preguntes i sol·licituds de funcionalitats:&lt;/span&gt; visita el &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt; fòrum Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Informes d&apos;errors: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot;&quot;&gt;publica un tema nou al fòrum Slicer&lt;/span&gt;&lt;/a&gt; per explicar-nos el teu problema o envia un informe d&apos;error al &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot;&quot;&gt;rastrejador d&apos;errors 3D Slicer&lt;/span&gt;&lt;/a&gt;. Descriu els passos que condueixen a l&apos;error i adjunta els missatges del registre.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;Avís: si treballes amb dades de pacients:&lt;/span&gt; Comprova que els missatges de registre no continguin cap informació que pugui identificar un pacient. Envia els missatges de registre a persones específiques en lloc de compartir-los públicament en una llista de correu o lloc web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Preguntes i sol·licituds de funcions:&lt;/span&gt; visiteu el fòrum &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Error informes: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;publiceu un tema nou al fòrum Slicer&lt;/span&gt;&lt;/a&gt; per explicar-nos el vostre problema o enviar un informe d&apos;error al &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt; &lt;/a&gt;. Descriu els passos que condueixen a l&apos;error i adjunteu també missatges de registre.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Avís: si treballeu amb dades del pacient:&lt;/span&gt; Comproveu que els missatges de registre no continguin informació que pugui identificar un pacient . Envieu els missatges de registre a persones específiques en lloc de compartir-los públicament en una llista de correu o lloc web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -20251,7 +20253,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Definir el nom del node intermediari mitjançant el nom del node de la seqüència i el valor de l&apos;índex.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Definiu el nom del node intermediari utilitzant el nom del node de la seqüència i el valor de l&apos;índex. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="204"/>
@@ -20900,7 +20902,11 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Camins de mòduls addicionals:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;(arrossegar i deixar anar&lt;br&gt;fitxers o carpetes)&lt;/span&gt;&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt;
+&lt;p&gt; Camins addicionals del mòdul:&lt;/p&gt;
+&lt;p style=&quot;margin-left: 10px;&quot;&gt; &lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; Arrossega &amp;amp; des de fitxers o carpetes&lt;br/&gt;des de l&apos;Explorador de fitxers&lt;/span&gt;&lt;/p&gt;
+&lt;/body&gt; &lt;/html&gt;
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
@@ -22414,7 +22420,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Si està marcat, el node de text s&apos;actualitza mentre s&apos;edita el contingut. Si no està marcat, el node de text només s&apos;actualitza en clicar «Desar».&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Si es comprova, el node de text s&apos;actualitza immediatament a mesura que s&apos;editen els continguts. Si no es marca, el node de text només s&apos;actualitza quan es fa clic a &amp;quot;Desa&amp;quot;. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
