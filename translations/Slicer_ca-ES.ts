@@ -95,7 +95,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">ES</translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -448,57 +448,57 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fracció de vòxels de la imatge fixa que s&apos;utilitzarà per al registre. El nombre ha de ser més gran que zero i menor o igual a un. Els valors més alts augmenten el temps de càlcul, però poden donar resultats més precisos. També podeu limitar el focus de mostreig amb màscares RDI i generació de màscares ROIAUTO. El valor per defecte és de 0,002 (utilitzeu aproximadament el 0,2% dels vòxels, donant com a resultat 100.000 mostres en un volum de 512x512x192) per a proporcionar un registre molt ràpid en la majoria dels casos. Els valors típics van des de 0,01 (1%) per a imatges de baix detall fins a 0,2 (20%) per a imatges d&apos;alt detall.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de subdivisions de quadrícula BSpline al llarg de cada eix de la imatge fixa, centrades a l&apos;espai de la imatge. El valor ha de ser 3 o superior perquè la BSpline es calculi correctament.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de sortida (s&apos;ha d&apos;especificar almenys una sortida)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació lineal Slicer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació BSpline Slicer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de la imatge de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcional) Transformació estimada de sortida: en cas que la transformació calculada no sigui BSpline. NOTA: Has de configurar com a mínim un objecte de sortida (volum de transformació i/o sortida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcional) Transformada estimada de sortida: en cas que la transformada calculada sigui BSpline. NOTA: Has d&apos;establir com a mínim un objecte de sortida (transformada i/o volum de sortida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcional) Imatge de sortida: la imatge en moviment deformada a l&apos;espai fix de la imatge. NOTA: Has d&apos;establir com a mínim un objecte de sortida (transformada i/o volum de sortida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració d&apos;inicialització de transformacions</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions per a inicialitzar els paràmetres de transformació.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
@@ -12609,7 +12609,7 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="263"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation type="unfinished">Endurir la transformació actual en aquest node i tots els nodes fills</translation>
+        <translation>Endurir la transformació actual en aquest node i tots els nodes fills</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="268"/>
@@ -15936,7 +15936,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mòdul Dades és el punt central d&apos;organització de dades on es presenten totes les dades carregades per a l&apos;accés i la manipulació és el mòdul Dades. Permet organitzar les dades en carpetes o arbres de pacient/estudi (realitzat automàticament per DICOM), visualitzar qualsevol dada visible, transformació de branques senceres i multitud de característiques específiques de tipus de dades.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
@@ -16244,7 +16244,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation type="unfinished"></translation>
+        <translation>Endurir temporalment les transformacions per a l&apos;exportació</translation>
     </message>
     <message>
         <source>Filename</source>
