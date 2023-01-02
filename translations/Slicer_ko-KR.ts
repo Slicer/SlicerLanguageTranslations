@@ -1267,12 +1267,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 이미지 볼륨</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
@@ -1347,7 +1347,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 이미지 픽셀 유형</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
@@ -1555,7 +1555,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">보간 모드</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
@@ -1815,7 +1815,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 매개변수</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
@@ -1870,7 +1870,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
@@ -1962,7 +1962,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -1972,7 +1972,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
@@ -1982,7 +1982,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
@@ -2066,7 +2066,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -2096,22 +2096,22 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
@@ -2808,7 +2808,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
@@ -2818,7 +2818,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
@@ -3122,7 +3122,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3401,7 +3401,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 변환</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
@@ -3734,7 +3734,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
@@ -3843,7 +3843,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
@@ -3853,7 +3853,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
@@ -3947,7 +3947,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
@@ -3957,7 +3957,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
@@ -3972,7 +3972,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
@@ -4057,7 +4057,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
@@ -4067,7 +4067,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
@@ -4123,7 +4123,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
@@ -4133,7 +4133,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
@@ -4143,7 +4143,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
@@ -4181,7 +4181,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
@@ -4191,7 +4191,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
@@ -4201,7 +4201,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
@@ -4229,7 +4229,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
@@ -4239,7 +4239,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
@@ -4368,7 +4368,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
@@ -4418,7 +4418,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
@@ -4433,7 +4433,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
@@ -4471,7 +4471,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
@@ -4615,7 +4615,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
@@ -4625,7 +4625,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
@@ -4653,7 +4653,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
@@ -4663,7 +4663,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
@@ -4771,7 +4771,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
@@ -4781,7 +4781,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
@@ -4809,7 +4809,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
@@ -4867,7 +4867,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
@@ -4877,7 +4877,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
@@ -5112,7 +5112,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5157,7 +5157,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
@@ -5190,7 +5190,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
@@ -5200,32 +5200,32 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
@@ -5235,22 +5235,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">제어</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">모듈 작동 방식 제어</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">보간 순서</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">두 이미지가 서로 다른 좌표 프레임에 있거나 샘플링이 다른 경우 보간 순서입니다.</translation>
     </message>
 </context>
 <context>
@@ -5278,7 +5278,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
@@ -5293,7 +5293,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
@@ -5447,7 +5447,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -5457,22 +5457,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
@@ -6014,7 +6014,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
@@ -6078,7 +6078,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
@@ -6088,7 +6088,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
@@ -6201,7 +6201,7 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
@@ -6586,7 +6586,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
@@ -6596,7 +6596,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
@@ -7008,7 +7008,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7089,7 +7089,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
@@ -7099,7 +7099,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
@@ -7207,7 +7207,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
@@ -7222,7 +7222,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
@@ -7355,7 +7355,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
@@ -7365,7 +7365,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
@@ -7393,7 +7393,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
@@ -7403,32 +7403,32 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력 볼륨 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
@@ -7438,22 +7438,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">제어</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">모듈 작동 방식 제어</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">보간 순서</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">두 이미지가 서로 다른 좌표 프레임에 있거나 샘플링이 다른 경우 보간 순서입니다.</translation>
     </message>
 </context>
 <context>
@@ -7471,7 +7471,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -7481,7 +7481,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
@@ -7491,7 +7491,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
@@ -7660,7 +7660,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">입력/출력 매개변수</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
@@ -7670,7 +7670,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출력 볼륨</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
@@ -7684,153 +7684,17 @@ a = Affine Transform</source>
     </message>
 </context>
 <context>
-    <name>Dialog</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="14"/>
-        <source>Dialog</source>
-        <translation>대화</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="44"/>
-        <source>AnnotationText (vtkMRMLAnnotationTextNode1)</source>
-        <translation>주석텍스트 (vtkMRML주석텍스트노드1)</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="70"/>
-        <source>Toggle visibility</source>
-        <translation>가시성 전환</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="91"/>
-        <source>Toggle un-/locked</source>
-        <translation>해제/잠금 전환</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="117"/>
-        <source>Properties</source>
-        <translation>속성</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="127"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="224"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="275"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="372"/>
-        <source>Unselected Color</source>
-        <translation>선택하지 않은 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="134"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="237"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="282"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="419"/>
-        <source>Selected Color</source>
-        <translation>선택한 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="158"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="259"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="356"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="475"/>
-        <source>Material</source>
-        <translation>재료</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="183"/>
-        <source>Points</source>
-        <translation>포인트</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="194"/>
-        <source>Size:</source>
-        <translation>크기:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="201"/>
-        <source>Type:</source>
-        <translation>유형:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="208"/>
-        <source>Glyph type combo box</source>
-        <translation>자형 유형 콤보 상자</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="267"/>
-        <source>Text</source>
-        <translation>텍스트</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="295"/>
-        <source>Text Scale:</source>
-        <translation>텍스트 스케일:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="324"/>
-        <source>Opacity:</source>
-        <translation>불투명도:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="364"/>
-        <source>Lines</source>
-        <translation>선</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="379"/>
-        <source>Width:</source>
-        <translation>폭:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="396"/>
-        <source>Label Visibility</source>
-        <translation>레이블 가시성</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="406"/>
-        <source>Distance in mm between major ticks</source>
-        <translation>주요 눈금 사이의 mm 거리</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="409"/>
-        <source>Tick Spacing:</source>
-        <translation>눈금 간격:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="426"/>
-        <source>Label Position:</source>
-        <translation>레이블 위치:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="433"/>
-        <source>Position the label along the line</source>
-        <translation>선을 따라 레이블 배치</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="446"/>
-        <source>Max # of Ticks:</source>
-        <translation>최대 눈금의 #:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialogWIP.ui" line="483"/>
-        <source>ROI</source>
-        <translation>ROI</translation>
-    </message>
-</context>
-<context>
     <name>Form</name>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
         <translation>양식</translation>
     </message>
-    <message>
-        <source>vtkMRMLCameraNode</source>
-        <translation type="vanished">vtkMRML카메라노드</translation>
-    </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="106"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="107"/>
         <source>Markups</source>
         <translation>마크업</translation>
     </message>
@@ -7838,19 +7702,6 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
         <source>Sequence browser</source>
         <translation>시퀀스 브라우저</translation>
-    </message>
-</context>
-<context>
-    <name>QWidget</name>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="105"/>
-        <source>patient right is screen left (default)</source>
-        <translation>사용자의 오른쪽은 화면의 왼쪽 (기본값)</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="106"/>
-        <source>patient right is screen right</source>
-        <translation>사용자의 오른쪽은 화면의 오른쪽</translation>
     </message>
 </context>
 <context>
@@ -8039,42 +7890,6 @@ a = Affine Transform</source>
         <translation>배경 DICOM 주석 지속성</translation>
     </message>
     <message>
-        <source>Color Scalar Bar</source>
-        <translation type="vanished">색상 스칼라 바</translation>
-    </message>
-    <message>
-        <source>Enable</source>
-        <translation type="vanished">활성화</translation>
-    </message>
-    <message>
-        <source>Layer Selection</source>
-        <translation type="vanished">레이어 선택</translation>
-    </message>
-    <message>
-        <source>Active Layer:</source>
-        <translation type="vanished">활성 레이어:</translation>
-    </message>
-    <message>
-        <source>Background</source>
-        <translation type="vanished">배경</translation>
-    </message>
-    <message>
-        <source>Foreground</source>
-        <translation type="vanished">전경</translation>
-    </message>
-    <message>
-        <source>Labels Properties</source>
-        <translation type="vanished">레이블 속성</translation>
-    </message>
-    <message>
-        <source>Range Label Format:</source>
-        <translation type="vanished">범위 레이블 형식:</translation>
-    </message>
-    <message>
-        <source>%G</source>
-        <translation type="vanished">%G</translation>
-    </message>
-    <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="262"/>
         <source>Restore Defaults</source>
         <translation>기본값으로 복원</translation>
@@ -8096,10 +7911,6 @@ a = Affine Transform</source>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
         <translation>알고리즘에 대한 입력을 선택합니다.</translation>
-    </message>
-    <message>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="vanished">vtkMRML스칼라볼륨노드</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
@@ -8324,214 +8135,6 @@ a = Affine Transform</source>
     </message>
 </context>
 <context>
-    <name>qMRMLAnnotationDisplayNodePointPropertyWidget</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="14"/>
-        <source>Form</source>
-        <translation>양식</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="20"/>
-        <source>PointName</source>
-        <translation>포인트이름</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="74"/>
-        <source>Glyph type combo box</source>
-        <translation>자형 유형 콤보 상자</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationDisplayNodePointPropertyWidget.ui" line="84"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLAnnotationFiducialProjectionPropertyWidget</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="20"/>
-        <source>qMRMLAnnotationFiducialProjectionPropertyWidget</source>
-        <translation>qMRML주석기점투영속성위젯</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="35"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="45"/>
-        <source>Turn on/off visualization of projected fiducial on 2D viewers</source>
-        <translation>2D 뷰어에서 투영된 기점의 시각화 켜기/끄기</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="38"/>
-        <source>2D Projection</source>
-        <translation>2D 투영</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="63"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="79"/>
-        <source>Color of the projected fiducial on 2D viewers</source>
-        <translation>2D 뷰어에 투영된 기점의 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="66"/>
-        <source>Projection Color</source>
-        <translation>투영 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="99"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="109"/>
-        <source>Fiducial projection is displayed filled when on top of slice plane, outlined when behind, and with full opacity when in the plane</source>
-        <translation>기점 투영은 슬라이스 평면의 상단에 있을 때 채워져 표시되고, 뒤에 있을 때 윤곽선이 표시되며 평면에 있을 때 전체 불투명도로 표시</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="102"/>
-        <source>Outlined Behind Slice Plane</source>
-        <translation>슬라이스 평면 뒤에 윤곽선</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="122"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="132"/>
-        <source>Use the same color as fiducial</source>
-        <translation>기점과 동일한 색상을 사용</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationFiducialProjectionPropertyWidget.ui" line="125"/>
-        <source>Use Fiducial Color</source>
-        <translation>기점 색상 사용</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLAnnotationROIWidget</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="20"/>
-        <source>Form</source>
-        <translation>양식</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="31"/>
-        <source>L-R Range:</source>
-        <translation>L-R 범위:</translation>
-    </message>
-    <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="679"/>
-        <source>P-A Range:</source>
-        <translation>P-A 범위:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="1326"/>
-        <source>I-S Range:</source>
-        <translation>I-S 범위:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2004"/>
-        <source>Display Clipping box</source>
-        <translation>클리핑 상자 표시</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationROIWidget.ui" line="2027"/>
-        <source>Interactive Mode</source>
-        <translation>쌍방향 모드</translation>
-    </message>
-</context>
-<context>
-    <name>qMRMLAnnotationRulerProjectionPropertyWidget</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="20"/>
-        <source>qMRMLAnnotationRulerProjectionPropertyWidget</source>
-        <translation>qMRML주석눈금자투영속성위젯</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="35"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="48"/>
-        <source>Turn on/off visualization of projected line on 2D viewers</source>
-        <translation>2D 뷰어에서 투영된 선 시각화 켜기/끄기</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="38"/>
-        <source>2D Projection</source>
-        <translation>2D 투영</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="66"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="88"/>
-        <source>Color of the projected line on 2D viewers</source>
-        <translation>2D 뷰어에 투영된 선의 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="69"/>
-        <source>Projection Color</source>
-        <translation>투영 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="108"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="118"/>
-        <source>Thickness of the part of the line on top of the slice plane</source>
-        <translation>슬라이스 평면 위의 선 부분의 두께</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="111"/>
-        <source>Overline Thickness</source>
-        <translation>오버라인 두께</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="121"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="147"/>
-        <source> px</source>
-        <translation> 픽셀</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="134"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="144"/>
-        <source>Thickness of the part of the line under the slice plane</source>
-        <translation>슬라이스 평면 아래 선 부분의 두께</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="137"/>
-        <source>Underline Thickness</source>
-        <translation>밑줄 두께</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="160"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="170"/>
-        <source>Color projected line, with slice plane color, when parallel to it</source>
-        <translation>평행할 때 슬라이스 평면 색상이 있는 투영된 선 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="163"/>
-        <source>Colored When Parallel</source>
-        <translation>평행할 때 채색됨</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="183"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="193"/>
-        <source>Display the projected part of the ruler on the top of the slice plane thicker than the part under</source>
-        <translation>아래 부분보다 두꺼운 슬라이스 평면의 상단에 눈금자의 투영된 부분을 표시</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="186"/>
-        <source>Thicker On Top</source>
-        <translation>상단에 두께</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="206"/>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="216"/>
-        <source>Display the line dashed when not parallel to the slice plane</source>
-        <translation>슬라이스 평면과 평행하지 않을 때 파선 표시</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="209"/>
-        <source>Dashed</source>
-        <translation>점선</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Widgets/Resources/UI/qMRMLAnnotationRulerProjectionPropertyWidget.ui" line="229"/>
-        <source>Use Ruler Color</source>
-        <translation>눈금자 색상 사용</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLCaptureToolBar</name>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
@@ -8540,8 +8143,9 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
-        <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</source>
-        <translation>전체 레이아웃, 3D 보기 또는 슬라이스 보기의 스크린샷을 캡처합니다. 파일, 저장을 사용하여 이미지를 저장합니다. 주석 모듈에서 편집합니다.</translation>
+        <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
+        <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
+        <translation type="unfinished">전체 레이아웃, 3D 보기 또는 슬라이스 보기의 스크린샷을 캡처합니다. 파일, 저장을 사용하여 이미지를 저장합니다. 주석 모듈에서 편집합니다.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
@@ -8859,13 +8463,6 @@ a = Affine Transform</source>
     </message>
 </context>
 <context>
-    <name>qMRMLColorLegendDisplayNodeWidgetPrivate</name>
-    <message>
-        <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;body&gt;형식 필드는 printf 함수 구문을 사용합니다. 예시 형식:&lt;br&gt;    - 소수점 이하 1자리 표시: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - 정수 표시: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - 유효 숫자 4개로 표시: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - 문자열 레이블 주석: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLColorModel</name>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
@@ -9031,10 +8628,6 @@ a = Affine Transform</source>
         <translation>모델에 대한 구속:</translation>
     </message>
     <message>
-        <source>vtkMRMLModelNode</source>
-        <translation type="vanished">vtkMRML모델노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
         <source>Surface</source>
         <translation>표면</translation>
@@ -9106,10 +8699,6 @@ a = Affine Transform</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fiducials will be constrained to the surface if a node is selected</source>
-        <translation type="vanished">노드가 선택되면 기점이 표면에 구속</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
         <source>Output node: </source>
         <translation>출력 노드: </translation>
@@ -9135,30 +8724,14 @@ a = Affine Transform</source>
         <translation>리샘플된 곡선을 저장할 노드 선택 </translation>
     </message>
     <message>
-        <source>vtkMRMLMarkupsCurveNode</source>
-        <translation type="vanished">vtkMRML마크업곡선노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="326"/>
         <source>(Overwrite current node)</source>
         <translation>(현재 노드 덮어쓰기)</translation>
     </message>
     <message>
-        <source>Resamples the active curve with the number of fiducials spcified. Can be constrained to a node surface.</source>
-        <translation type="vanished">지정된 기점 수로 활성 곡선을 리샘플합니다. 노드 표면에 구속될 수 있습니다.</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="336"/>
         <source>Resample curve</source>
         <translation>곡선 리샘플</translation>
-    </message>
-    <message>
-        <source>Optionally select a node to constrain placement of resampled curve points. </source>
-        <translation type="vanished">선택적으로 리샘플된 곡선 점의 배치를 제한할 노드를 선택합니다. </translation>
-    </message>
-    <message>
-        <source>Constrain points to surface: </source>
-        <translation type="vanished">점을 표면에 구속: </translation>
     </message>
 </context>
 <context>
@@ -9203,10 +8776,6 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="566"/>
         <source> %</source>
         <translation> %</translation>
-    </message>
-    <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
@@ -9370,17 +8939,6 @@ a = Affine Transform</source>
     </message>
 </context>
 <context>
-    <name>qMRMLMarkupsDisplayNodeWidgetPrivate</name>
-    <message>
-        <source>unconstrained</source>
-        <translation type="vanished">제약 없음</translation>
-    </message>
-    <message>
-        <source>snap to visible surface</source>
-        <translation type="vanished">보이는 표면에 스냅</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLMarkupsFiducialProjectionPropertyWidget</name>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
@@ -9508,18 +9066,6 @@ a = Affine Transform</source>
         <source> %</source>
         <translation> %</translation>
     </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">번역</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">회전</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">스케일</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
@@ -9620,10 +9166,6 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="77"/>
         <source>L-R Range:</source>
         <translation>L-R 범위:</translation>
-    </message>
-    <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
@@ -10163,10 +9705,6 @@ a = Affine Transform</source>
         <translation>추가/제거는 현재 차트에/에서 데이터 시리즈를 그립니다.</translation>
     </message>
     <message>
-        <source>vtkMRMLPlotSeriesNode</source>
-        <translation type="vanished">vtkMRML플롯시리즈노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
         <source>Chart title:</source>
         <translation>차트 제목:</translation>
@@ -10295,10 +9833,6 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
         <source>Input Table:</source>
         <translation>입력표:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLTableNode</source>
-        <translation type="vanished">vtkMRML표노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="75"/>
@@ -10448,10 +9982,6 @@ a = Affine Transform</source>
         <translation>플롯의 일반 속성을 처리하고 여러 PlotSeriesNode를 선택할 수 있는 PlotChartNode를 선택합니다.</translation>
     </message>
     <message>
-        <source>vtkMRMLPlotChartNode</source>
-        <translation type="vanished">vtkMRML플롯차트노드</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
         <source>Export plot to SVG file</source>
         <translation>플롯을 SVG 파일로 내보내기</translation>
@@ -10465,10 +9995,6 @@ a = Affine Transform</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
         <translation>추가/제거는 현재 차트에/에서 데이터 시리즈를 플롯합니다.</translation>
-    </message>
-    <message>
-        <source>vtkMRMLPlotSeriesNode</source>
-        <translation type="vanished">vtkMRML플롯시리즈노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
@@ -10597,10 +10123,6 @@ a = Affine Transform</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
         <source>L-R Range:</source>
         <translation>L-R 범위:</translation>
-    </message>
-    <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
@@ -10853,14 +10375,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation type="unfinished">마스터 볼륨:</translation>
     </message>
     <message>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="vanished">vtkMRML스칼라볼륨노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSegmentationNode</source>
-        <translation type="vanished">vtkMRML분할노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="48"/>
         <source>Select source volume to enable editing</source>
         <oldsource>Select master volume to enable editing</oldsource>
@@ -10910,10 +10424,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="130"/>
         <source>Remove</source>
         <translation>제거</translation>
-    </message>
-    <message>
-        <source> Show 3D</source>
-        <translation type="vanished"> 3D 표시</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="144"/>
@@ -10982,10 +10492,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Only those regions are allowed to be changed where the master volume intensity is in the specified range</source>
-        <translation type="vanished">마스터 볼륨 강도가 지정된 범위에 있는 영역만 변경할 수 있음</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="414"/>
         <source>Modify other segments:</source>
         <translation>다른 세그먼트 수정:</translation>
@@ -11036,26 +10542,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>겹침 허용</translation>
     </message>
     <message>
-        <source>Show 3D</source>
-        <translation type="vanished">3D 표시</translation>
-    </message>
-    <message>
-        <source>Surface smoothing</source>
-        <translation type="vanished">표면 평활화</translation>
-    </message>
-    <message>
-        <source>Apply smoothing when converting binary lablemap to closed surface representation.</source>
-        <translation type="vanished">이진 레이블맵을 닫힌 표면 표현으로 변환할 때 평활화를 적용합니다.</translation>
-    </message>
-    <message>
-        <source>Smoothing factor</source>
-        <translation type="vanished">평활 계수</translation>
-    </message>
-    <message>
-        <source>Higher value means stronger smoothing during closed surface representation conversion.</source>
-        <translation type="vanished">값이 높을수록 닫힌 표면 표현 변환 중 더 강한 평활화를 의미합니다.</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1374"/>
         <source>Change master representation to binary labelmap?</source>
         <translation>마스터 표현을 이진 레이블맵으로 변경하겠습니까?</translation>
@@ -11083,14 +10569,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <source>Segment: </source>
         <translation>세그먼트: </translation>
     </message>
-    <message>
-        <source>Messages label</source>
-        <translation type="vanished">메시지 레이블</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSegmentationNode</source>
-        <translation type="vanished">vtkMRML분할노드</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSegmentationConversionParametersWidget</name>
@@ -11105,17 +10583,9 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>변환 중</translation>
     </message>
     <message>
-        <source>Closed surface model</source>
-        <translation type="vanished">닫힌 표면 모델</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="57"/>
         <source>in</source>
         <translation>의</translation>
-    </message>
-    <message>
-        <source>Segmentation</source>
-        <translation type="vanished">분할</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="92"/>
@@ -11286,10 +10756,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>내보낸 모델 크기를 조정합니다. 내보낸 모델의 점 좌표에 이 숫자가 곱해집니다. 기본적으로 슬라이서는 좌표에 밀리미터 단위를 사용합니다.</translation>
     </message>
     <message>
-        <source>vtkMRMLColorTableNode</source>
-        <translation type="vanished">vtkMRML색상표노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="99"/>
         <source>Destination folder: </source>
         <translation>대상 폴더: </translation>
@@ -11350,10 +10816,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>대상 폴더 찾아보기</translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="227"/>
         <source>Size scale:</source>
         <translation>크기 스케일:</translation>
@@ -11403,10 +10865,6 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <source>Reference volume:</source>
         <translation>참조 볼륨:</translation>
     </message>
-    <message>
-        <source>vtkMRMLVolumeNode</source>
-        <translation type="vanished">vtkMRML볼륨노드</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSegmentationGeometryWidget</name>
@@ -11421,99 +10879,71 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>소스 지오메트리:</translation>
     </message>
     <message>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="vanished">vtkMRML스칼라볼륨노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSegmentationNode</source>
-        <translation type="vanished">vtkMRML분할노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLModelNode</source>
-        <translation type="vanished">vtkMRML모델노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLMarkupsROINode</source>
-        <translation type="vanished">vtkMRML마크업ROI노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLAnnotationROINode</source>
-        <translation type="vanished">vtkMRML주석ROI노드</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="84"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="83"/>
         <source>Showing current segmentation labelmap geometry. Click here to change</source>
         <translation>현재 세분화 라밸맵 지오메트리를 표시합니다. 변경하려면 여기를 클릭하세요</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="91"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="90"/>
         <source>Volume spacing options</source>
         <translation>볼륨 간격 옵션</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="115"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="125"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="114"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="124"/>
         <source>Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</source>
         <translation>볼륨의 각 복셀을 각 방향을 따라 이 많은 복셀로 나눕니다. 해상도를 높여야 할 때 유용</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="118"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="117"/>
         <source>Oversampling factor:</source>
         <translation>오버샘플링 팩터:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="144"/>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="154"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="143"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="153"/>
         <source>Resample the volume to have isotropic spacing, which means the voxels will be cubes. Use smallest spacing. Useful if the volume has elongated voxels.</source>
         <translation>등방성 간격을 갖도록 볼륨을 리샘플합니다. 즉, 복셀이 정육면체가 됩니다. 가장 작은 간격을 사용하세요. 볼륨에 길쭉한 복셀이 있는 경우에 유용합니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="147"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="146"/>
         <source>Isotropic spacing:</source>
         <translation>등방성 간격:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="170"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="169"/>
         <source>Segmentation labelmap geometry</source>
         <translation>분할 레이블맵 지오메트리</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="236"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="235"/>
         <source>Directions:</source>
         <translation>방향:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="333"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="332"/>
         <source>Additional Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="339"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="338"/>
         <source>Pad output:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="194"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="193"/>
         <source>Origin:</source>
         <translation>원점:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="296"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="295"/>
         <source>Spacing:</source>
         <translation>간격:</translation>
     </message>
     <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="303"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="302"/>
         <source>Dimensions:</source>
         <translation>치수:</translation>
-    </message>
-    <message>
-        <source>Error message</source>
-        <translation type="vanished">오류 메시지</translation>
     </message>
 </context>
 <context>
@@ -11748,10 +11178,6 @@ Do you wish to proceed with changing master representation?</source>
         <source>Index name</source>
         <translation>인덱스 이름</translation>
     </message>
-    <message>
-        <source>-</source>
-        <translation type="vanished">-</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSettingsUnitWidget</name>
@@ -11770,10 +11196,6 @@ Do you wish to proceed with changing master representation?</source>
         <source>Select the current unit node to modify.</source>
         <translation>수정할 현재 단위 노드를 선택합니다.</translation>
     </message>
-    <message>
-        <source>vtkMRMLUnitNode</source>
-        <translation type="vanished">vtkMRML단위노드</translation>
-    </message>
 </context>
 <context>
     <name>qMRMLSliceControllerWidget</name>
@@ -11788,17 +11210,9 @@ Do you wish to proceed with changing master representation?</source>
         <translation>레이블 맵 선택</translation>
     </message>
     <message>
-        <source>vtkMRMLLabelMapVolumeNode</source>
-        <translation type="vanished">vtkMRML레이블맵볼륨노드</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="179"/>
         <source>Select the foreground</source>
         <translation>전경 선택</translation>
-    </message>
-    <message>
-        <source>vtkMRMLVolumeNode</source>
-        <translation type="vanished">vtkMRML볼륨노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="319"/>
@@ -12197,48 +11611,48 @@ Do you wish to proceed with changing master representation?</source>
         <translation>분할 가시성 전환</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
         <source>S: </source>
         <translation>S: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="77"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
         <source>I &lt;-----&gt; S</source>
         <translation>I &amp;lt;-----&amp;gt; S</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="78"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
         <source>R: </source>
         <translation>R: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="78"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
         <source>L &lt;-----&gt; R</source>
         <translation>L &amp;lt;-----&amp;gt; R</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="81"/>
         <source>A: </source>
         <translation>A: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="81"/>
         <source>P &lt;-----&gt; A</source>
         <translation>P &amp;lt;-----&amp;gt; A</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1570"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="82"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1564"/>
         <source>Oblique</source>
         <translation>대각선</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="401"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
         <source>Slice distance from RAS origin</source>
         <translation>RAS 원점에서 슬라이스 거리</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2597"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2591"/>
         <source>Continue</source>
         <translation>계속</translation>
     </message>
@@ -12246,112 +11660,112 @@ Do you wish to proceed with changing master representation?</source>
 <context>
     <name>qMRMLSliceControllerWidgetPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="471"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="489"/>
         <source>Linked</source>
         <translation>링크</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="486"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="504"/>
         <source>Reformat</source>
         <translation>재포맷</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="501"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="519"/>
         <source>Lightbox view</source>
         <translation>라이트박스 보기</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="513"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="531"/>
         <source>Custom</source>
         <translation>사용자 정의</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="523"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="541"/>
         <source>Apply</source>
         <translation>적용</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="550"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="568"/>
         <source>Compositing</source>
         <translation>합성</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="571"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="589"/>
         <source>Slice spacing mode</source>
         <translation>슬라이스 간격 모드</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="575"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="593"/>
         <source>Manual spacing</source>
         <translation>수동 간격</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="590"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="608"/>
         <source>Field of view</source>
         <translation>시야</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="615"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="633"/>
         <source>Slice model mode</source>
         <translation>슬라이스 모델 모드</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="635"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="653"/>
         <source>Manual FOV</source>
         <translation>수동 FOV</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="660"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="678"/>
         <source>Manual Dimensions</source>
         <translation>수동 치수</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="685"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="703"/>
         <source>Manual Origin</source>
         <translation>수동 원점</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="714"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="732"/>
         <source>Segmentation</source>
         <translation>분할</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="723"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="741"/>
         <source>LabelMap</source>
         <translation>레이블맵</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="732"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="750"/>
         <source>Advanced</source>
         <translation>고급</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="891"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Hide label volume outlines</source>
         <translation>레이블 볼륨 윤곽선 숨기기</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="891"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Show label volume outlines</source>
         <translation>레이블 볼륨 윤곽선 표시</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="896"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="914"/>
         <source>Hide reformat widget</source>
         <translation>재포맷 위젯 숨기기</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="896"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="914"/>
         <source>Show reformat widget</source>
         <translation>재포맷 위젯 표시</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1518"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1512"/>
         <source>Orientation marker</source>
         <translation>방향 마커</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1554"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1548"/>
         <source>Ruler</source>
         <translation>눈금자</translation>
     </message>
@@ -12513,6 +11927,19 @@ Do you wish to proceed with changing master representation?</source>
     </message>
 </context>
 <context>
+    <name>qMRMLSliceVerticalControllerWidget</name>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceVerticalControllerWidget.ui" line="35"/>
+        <source>Vertical Slice Controller</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceVerticalControllerWidget.cxx" line="80"/>
+        <source>Slice distance from RAS origin</source>
+        <translation type="unfinished">RAS 원점에서 슬라이스 거리</translation>
+    </message>
+</context>
+<context>
     <name>qMRMLSliceWidget</name>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
@@ -12637,29 +12064,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
 </context>
 <context>
-    <name>qMRMLSubjectHierarchyTreeViewPrivate</name>
-    <message>
-        <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="vanished">3D 보기에서 변환을 쌍방향으로 수정할 수 있음</translation>
-    </message>
-    <message>
-        <source>Edit properties of the current transform</source>
-        <translation type="vanished">현재 변환의 속성 편집</translation>
-    </message>
-    <message>
-        <source>Harden current transform on this node and all children nodes</source>
-        <translation type="vanished">이 노드와 모든 자식 노드에서 현재 변환을 강화</translation>
-    </message>
-    <message>
-        <source>Create and apply new transform</source>
-        <translation type="vanished">새로운 변환 생성 및 적용</translation>
-    </message>
-    <message>
-        <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="vanished">이 분기의 모든 노드에서 상위 변환을 제거</translation>
-    </message>
-</context>
-<context>
     <name>qMRMLTableView</name>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="483"/>
@@ -12680,10 +12084,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="14"/>
         <source>Table View Controller</source>
         <translation>표 보기 컨트롤러</translation>
-    </message>
-    <message>
-        <source>vtkMRMLTableNode</source>
-        <translation type="vanished">vtkMRML표노드</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
@@ -13190,10 +12590,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>더 많은 옵션...</translation>
     </message>
     <message>
-        <source>Visible in 3D view: </source>
-        <translation type="vanished">3D 보기에서 볼 수 있음: </translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="158"/>
         <source>Enable translation: </source>
         <translation>번역 활성화: </translation>
@@ -13229,21 +12625,9 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>시각화</translation>
     </message>
     <message>
-        <source>Visible:</source>
-        <translation type="vanished">가시성:</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="246"/>
         <source>Show transform in the slice views</source>
         <translation>슬라이스 보기에서 변환 표시</translation>
-    </message>
-    <message>
-        <source>Visible in slice view:</source>
-        <translation type="vanished">슬라이스 보기에서 볼 수 있음:</translation>
-    </message>
-    <message>
-        <source>Visible in 3D view:</source>
-        <translation type="vanished">3D 보기에서 볼 수 있음:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="299"/>
@@ -13296,18 +12680,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>변환 노드 시각화를 위한 영역 (크기, 방향, 위치만 사용)</translation>
     </message>
     <message>
-        <source>vtkMRMLSliceNode</source>
-        <translation type="vanished">vtkMRML슬라이스노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLModelNode</source>
-        <translation type="vanished">vtkMRML모델노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLVolumeNode</source>
-        <translation type="vanished">vtkMRML볼륨노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="500"/>
         <source>Select a node</source>
         <translation>노드 선택</translation>
@@ -13354,10 +12726,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="578"/>
         <source>Visible range:</source>
         <translation>가시 범위:</translation>
-    </message>
-    <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="118"/>
@@ -13500,10 +12868,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
         <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
         <translation>자형 시작 위치를 정의하는 마크업 노드입니다. 지정하면 3D 보기 &apos;지역&apos;이 무시됩니다.</translation>
-    </message>
-    <message>
-        <source>vtkMRMLMarkupsNode</source>
-        <translation type="vanished">vtkMRML마크업노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="922"/>
@@ -13676,10 +13040,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>최소</translation>
     </message>
     <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="219"/>
         <source>Max</source>
         <translation>최대</translation>
@@ -13714,10 +13074,6 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="23"/>
         <source>Preset</source>
         <translation>사전 설정</translation>
-    </message>
-    <message>
-        <source>vtkMRMLUnitNode</source>
-        <translation type="vanished">vtkMRML단위노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="53"/>
@@ -13887,10 +13243,6 @@ p, li { white-space: pre-wrap; }
         <translation>0,0,0</translation>
     </message>
     <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
-    </message>
-    <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="90"/>
         <source>Image Origin:</source>
         <translation>이미지 원점:</translation>
@@ -14010,41 +13362,36 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="29"/>
+        <source>Window/Level:</source>
+        <translation type="unfinished">창/수준:</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="37"/>
+        <source>Auto</source>
+        <translation type="unfinished">자동</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
+        <source>Manual</source>
+        <translation type="unfinished">수동</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
         <translation>W: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
-        <source>Min:</source>
-        <translation>최소:</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="56"/>
-        <source>Auto W/L</source>
-        <translation>자동 W/L</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="61"/>
-        <source>Manual W/L</source>
-        <translation>수동 W/L</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="66"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
         <source>Manual Min/Max</source>
         <translation>수동 최저/최대</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="74"/>
-        <source>Max:</source>
-        <translation>최대:</translation>
-    </message>
-    <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="87"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
         <translation>L: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="109"/>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -14065,16 +13412,43 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerAbstractCoreModule</name>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="85"/>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
+        <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
         <source>Developer Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="74"/>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="83"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="74"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="194"/>
+        <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.cxx" line="95"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.cxx" line="98"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.cxx" line="98"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.cxx" line="91"/>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
+        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
         <source>Informatics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
+        <source>Wizards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
+        <source>IGT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
+        <source>Endoscopy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="4"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="3"/>
@@ -14090,6 +13464,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="3"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="3"/>
@@ -14097,16 +13472,19 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="75"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="3"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="3"/>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="3"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
         <source>Registration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="76"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="3"/>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
@@ -14126,6 +13504,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="80"/>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="3"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="3"/>
@@ -14159,8 +13538,10 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="82"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="3"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="3"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.cxx" line="78"/>
         <source>Converters</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14173,6 +13554,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
         <source>Testing</source>
         <translation type="unfinished"></translation>
@@ -14184,6 +13566,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="3"/>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="3"/>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="3"/>
@@ -14194,15 +13577,27 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
         <source>Quantification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
         <source>Legacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="85"/>
+        <source>Registration.Specialized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="194"/>
+        <source>Sequences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14230,482 +13625,26 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>qSlicerActionsDialogPrivate</name>
-    <message>
-        <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation type="vanished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerAnnotationModuleIOOptionsWidget</name>
     <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="14"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
         <translation>볼륨 옵션</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
         <source>Fiducial</source>
         <translation>기점</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
         <source>Ruler</source>
         <translation>눈금자</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
         <source>ROI</source>
         <translation>ROI</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerAnnotationModulePropertyDialog</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="14"/>
-        <source>Modify Annotation Properties</source>
-        <translation>주석 속성 수정</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="28"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="732"/>
-        <source>Type:</source>
-        <translation>유형:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="35"/>
-        <source>Color:</source>
-        <translation>색상:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="60"/>
-        <source>Propagate changes to all nodes in this list. If not checked, only when the hierarchy is collapsed will the nodes below it use these display properties.</source>
-        <translation>이 목록의 모든 노드에 변경 사항을 전파합니다. 선택하지 않으면 계층 구조가 축소된 경우에만 계층 아래에 있는 노드가 이러한 표시 속성을 사용합니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="66"/>
-        <source>Apply to List</source>
-        <translation>목록 적용</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="95"/>
-        <source>Toggle visibility</source>
-        <translation>가시성 전환</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="116"/>
-        <source>Toggle un-/locked</source>
-        <translation>잠금 해제/잠금 전환</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="132"/>
-        <source>Name: </source>
-        <translation>이름: </translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="142"/>
-        <source>Description:</source>
-        <translation>설명:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="191"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="637"/>
-        <source>Size:</source>
-        <translation>크기:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="200"/>
-        <source>Change the annotation size to small by setting the scale on all components of the annotation (text, point, line) to half of the large scale</source>
-        <translation>주석의 모든 구성요소 (텍스트, 점, 선)의 축척을 큰 축척의 절반으로 설정하여 주석 크기를 작게 변경</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="203"/>
-        <source>small</source>
-        <translation>작은</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="210"/>
-        <source>Change the annotation size to medium by setting the scale on all components of the annotation (text, point, line) to three quarters of the large scale</source>
-        <translation>주석의 모든 구성요소 (텍스트, 점, 선)의 축척을 큰 축척의 3/4으로 설정하여 주석 크기를 중간으로 변경</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="213"/>
-        <source>Medium</source>
-        <translation>중간</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="220"/>
-        <source>Change the annotation size to large (default) by setting the scale on all components of the annotation (text, point, line)</source>
-        <translation>주석의 모든 구성요소 (텍스트, 점, 선)의 축척을 설정하여 주석 크기를 크게(기본값)로 변경</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="223"/>
-        <source>LARGE</source>
-        <translation>큰</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="232"/>
-        <source>RAS:</source>
-        <translation>RAS:</translation>
-    </message>
-    <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="255"/>
-        <source>Apply text scale to all annotations in this hierarchy</source>
-        <translation>이 계층의 모든 주석에 텍스트 축척 적용</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="258"/>
-        <source>List Text Scale:</source>
-        <translation>텍스트 스케일 목록:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="265"/>
-        <source>Apply text scale to all annotations in this hierarchy (current setting may not reflect text scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation>이 계층의 모든 주석에 텍스트 배율 적용 (현재 설정은 텍스트 배율을 반영하지 않을 수 있고, 이것은 목록으로만 표시되는 설정입니며, 표준 크기로 돌아가려면 기본 버튼을 사용)</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="278"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="315"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="352"/>
-        <source>Set to default</source>
-        <translation>기본값으로 설정</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="281"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="318"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="355"/>
-        <source>Default</source>
-        <translation>기본값</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="292"/>
-        <source>Apply glyph scale to all annotations in this hierarchy</source>
-        <translation>이 계층의 모든 주석에 자형 스케일 적용</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="295"/>
-        <source>List Glyph Scale:</source>
-        <translation>자형 스케일 목록:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="302"/>
-        <source>Apply glyph scale to all annotations in this hierarchy (current setting may not reflect glyph scales, this is a push to list only setting, use default button to get back to standard size)</source>
-        <translation>이 계층의 모든 주석에 자형 스케일을 적용합니다 (현재 설정은 자형 스케일을 반영하지 않을 수 있고, 이것은 목록으로만 설정하는 푸시이며, 표준 크기로 돌아가려면 기본 버튼을 사용)</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="329"/>
-        <source>Apply glyph type to all annotations in this hierarchy</source>
-        <translation>이 계층의 모든 주석에 자형 유형 적용</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="332"/>
-        <source>List Glyph Type:</source>
-        <translation>자형 유형 목록:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="339"/>
-        <source>Apply glyph type to all annotations in this hierarchy (current setting may not reflect glyph types, this is a push to list only setting, use default button to get back to standard glyph)</source>
-        <translation>이 계층의 모든 주석에 자형 유형을 적용합니다 (현재 설정은 자형 유형을 반영하지 않을 수 있고, 이것은 목록만 설정하는 푸시이며, 표준 자형으로 돌아가려면 기본 버튼을 사용)</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="342"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="722"/>
-        <source>Glyph type combo box</source>
-        <translation>자형 유형 콤보 상자</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="366"/>
-        <source>Advanced</source>
-        <translation>고급</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="388"/>
-        <source>Text</source>
-        <translation>텍스트</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="404"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="615"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="776"/>
-        <source>Unselected Color</source>
-        <translation>선택하지 않은 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="411"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="628"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="783"/>
-        <source>Selected Color</source>
-        <translation>선택한 색상</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="426"/>
-        <source>Text Scale:</source>
-        <translation>텍스트 스케일:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="442"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="644"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="809"/>
-        <source>Opacity:</source>
-        <translation>불투명도:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="455"/>
-        <source>Visibility:</source>
-        <translation>가시성:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="488"/>
-        <source>Turn on/off visualization of text (when off, overrides ruler label visibility)</source>
-        <translation>텍스트 시각화 켜기/끄기 (끄면 눈금자 레이블 가시성이 무시됨)</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="521"/>
-        <source>Measurement value:</source>
-        <translation>측정값:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="542"/>
-        <source>Points</source>
-        <translation>포인트</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="573"/>
-        <source>X</source>
-        <translation>X</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="584"/>
-        <source>Y</source>
-        <translation>Y</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="595"/>
-        <source>Z</source>
-        <translation>Z</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="651"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="826"/>
-        <source>Ambient:</source>
-        <translation>주변:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="658"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="843"/>
-        <source>Diffuse:</source>
-        <translation>확산:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="665"/>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="860"/>
-        <source>Specular:</source>
-        <translation>반사광:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="741"/>
-        <source>Fiducial Projection</source>
-        <translation>기점 투영</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="770"/>
-        <source>Lines</source>
-        <translation>선</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="792"/>
-        <source>Width:</source>
-        <translation>폭:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="877"/>
-        <source>Label Position:</source>
-        <translation>레이블 위치:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="884"/>
-        <source>Position the label along the line</source>
-        <translation>선을 따라 레이블 배치</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="897"/>
-        <source>Show or hide the tick mark labels in 2D</source>
-        <translation>2D에서 눈금 레이블 표시 또는 숨기기</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="903"/>
-        <source>Label Visibility</source>
-        <translation>레이블 가시성</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="913"/>
-        <source>Distance between major ticks</source>
-        <translation>주요 눈금 사이의 거리</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="916"/>
-        <source>Tick Spacing:</source>
-        <translation>눈금 간격:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="933"/>
-        <source>Max # of Ticks:</source>
-        <translation>눈금의 최대 #:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="962"/>
-        <source>Ruler Projection</source>
-        <translation>눈금자 투영</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModulePropertyDialog.ui" line="1004"/>
-        <source>ROI</source>
-        <translation>ROI</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/GUI/qSlicerAnnotationModulePropertyDialog.cxx" line="122"/>
-        <source>Set unselected color of whole annotation (points, text, lines), use advanced pane to set individual colors</source>
-        <translation>전체 주석 (점, 텍스트, 선)의 선택되지 않은 색상 설정, 고급 창을 사용하여 개별 색상 설정</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerAnnotationModuleReportDialog</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleReportDialog.ui" line="14"/>
-        <source>Annotation Report</source>
-        <translation>주석 보고서</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleReportDialog.ui" line="28"/>
-        <source>Title:</source>
-        <translation>제목:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/GUI/qSlicerAnnotationModuleReportDialog.cxx" line="260"/>
-        <source>Print Annotation Report</source>
-        <translation>주석 보고서 인쇄</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerAnnotationModuleWidget</name>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="20"/>
-        <source>Annotation</source>
-        <translation>주석</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="26"/>
-        <source>Annotations</source>
-        <translation>주석</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="41"/>
-        <source>Fiducials have moved to the Markups module.</source>
-        <translation>기점이 마크업 모듈로 이동했습니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="48"/>
-        <source>Create-and-place</source>
-        <translation>생성 및 배치</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="54"/>
-        <source>Select node types to create and place annotations.</source>
-        <translation>주석을 만들고 배치할 노드 유형을 선택합니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="57"/>
-        <source>Select node type: </source>
-        <translation>노드 유형 선택: </translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="82"/>
-        <source>Create-and-place an annotation ruler node.</source>
-        <translation>주석 눈금자 노드를 생성 및 배치합니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="114"/>
-        <source>Create-and-place an annotation ROI node.</source>
-        <translation>주석 ROI 노드를 생성 및 배치합니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="145"/>
-        <source>Edit</source>
-        <translation>편집</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="169"/>
-        <source>Toggle the visibility of highlighted Annotations. Hierarchies are ignored.</source>
-        <translation>강조 표시된 주석의 가시성을 전환합니다. 계층은 무시됩니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="195"/>
-        <source>Unselect all annotations and hierarchies</source>
-        <translation>모든 주석 및 계층 선택 취소</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="227"/>
-        <source>Lock/ unlock highlighted annotations. Hierarchies are ignored.</source>
-        <translation>강조 표시된 주석을 잠그거나 잠금 해제합니다. 계층은 무시됩니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="259"/>
-        <source>Reset sliceViews to the first coordinate of the highlighted annotation.</source>
-        <translation>강조 표시된 주석의 첫 번째 좌표로 슬라이스보기를 재설정합니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="291"/>
-        <source>Create a new hierarchy. If a hierarchy is currently highlighted, the new one will be a sub-hierarchy.</source>
-        <translation>새로운 계층을 만듭니다. 계층이 현재 강조 표시된 경우 새 계층이 하위 계층이 됩니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="323"/>
-        <source>Display a report of highlighted annotations</source>
-        <translation>강조 표시된 주석 보고서 표시</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="355"/>
-        <source>Delete highlighted annotations. Hierarchies have to single selected to get deleted.</source>
-        <translation>강조 표시된 주석을 삭제합니다. 삭제하려면 계층을 하나만 선택해야 합니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="375"/>
-        <source>Set all annotations in active list to be unlocked</source>
-        <translation>활성 목록의 모든 주석을 잠금 해제하도록 설정</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="395"/>
-        <source>Set all annotations in active list locked</source>
-        <translation>활성 목록의 모든 주석을 잠그도록 설정</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="415"/>
-        <source>Set all annotations in active list invisible</source>
-        <translation>활성 목록의 모든 주석을 보이지 않게 설정</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="435"/>
-        <source>Set all annotations in active list visible</source>
-        <translation>활성 목록의 모든 주석을 표시하도록 설정</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="454"/>
-        <source>Click a hierarchy to activate it. If the Main Hierarchy is active, new per-annotation lists will be created under it, otherwise annotations will be added to the active list.</source>
-        <translation>계층을 클릭하여 활성화합니다. 주요 계층이 활성이면 그 아래에 새로운 주석별 목록이 생성되고, 그렇지 않으면 주석이 활성 목록에 추가됩니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="457"/>
-        <source>Active list: </source>
-        <translation>활성 목록: </translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Annotations/Resources/UI/qSlicerAnnotationModuleWidget.ui" line="522"/>
-        <source>Select all annotations and hierarchies</source>
-        <translation>모든 주석 및 계층 선택</translation>
     </message>
 </context>
 <context>
@@ -14769,15 +13708,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ctrl+1</source>
-        <comment>Interface Documentation</comment>
-        <translation type="vanished">Ctrl+1</translation>
-    </message>
-    <message>
-        <source>Browse tutorials</source>
-        <translation type="vanished">자습서 찾아보기</translation>
-    </message>
-    <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
         <source>Raise the training pages in your favorite web browser</source>
         <translation>즐겨찾기 웹 브라우저에서 교육 페이지 올리기</translation>
@@ -14806,18 +13736,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="124"/>
         <source>Slicer Publications</source>
         <translation>슬라이서 간행물</translation>
-    </message>
-    <message>
-        <source>Visual Blog</source>
-        <translation type="vanished">Slicer 블로그</translation>
-    </message>
-    <message>
-        <source>Open the Slicer Visual Blog using your favorite web browser where you can post screenshots of interesting ways you are using the Slicer software package in your research and share them with the Slicer community.</source>
-        <translation type="vanished">즐겨찿기 웹 브라우저를 사용하여 슬라이서 블로그의 설문 조사에서 슬라이서 소프트웨어 패키지를 사용하는 흥미로운 방법의 스크린샷을 게시하고 슬라이서 커뮤니티와 공유할 수 있습니다.</translation>
-    </message>
-    <message>
-        <source>Report a bug</source>
-        <translation type="vanished">버그 신고</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="133"/>
@@ -14976,16 +13894,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>please report the issue following instructions available at http://slicer.org
-
-
-</source>
-        <translation type="vanished">http://slicer.org에서 제공되는 지침에 따라 문제를 보고하세요.
-
-
-</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="478"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="497"/>
         <source>The message detail is:
@@ -15011,10 +13919,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="663"/>
         <source>Are you sure you want to restart?</source>
         <translation>다시 시작하겠습니까?</translation>
-    </message>
-    <message>
-        <source>Extensions manager is starting, please wait...</source>
-        <translation type="vanished">확장 관리자가 시작되므로, 잠시만 기다려 주세요...</translation>
     </message>
 </context>
 <context>
@@ -15069,10 +13973,6 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
         <source>Module Title</source>
         <translation>모듈 제목</translation>
-    </message>
-    <message>
-        <source>vtkMRMLCommandLineModuleNode</source>
-        <translation type="vanished">vtkMRML명령줄모듈노드</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
@@ -15159,19 +14059,24 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCLIProgressBar</name>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="124"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="129"/>
         <source>Show details</source>
         <translation>세부정보 표시</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="149"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
         <source>Status:</source>
         <translation>상태:</translation>
     </message>
     <message>
-        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="150"/>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Idle</source>
         <translation>유휴</translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="372"/>
+        <source>%1 (%2s)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15223,17 +14128,9 @@ Graphics capabilities of this computer:
         <translation>보기:</translation>
     </message>
     <message>
-        <source>vtkMRMLViewNode</source>
-        <translation type="vanished">vtkMRML보기노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
         <translation>카메라:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLCameraNode</source>
-        <translation type="vanished">vtkMRML카메라노드</translation>
     </message>
 </context>
 <context>
@@ -15257,14 +14154,6 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="86"/>
         <source>Color Legend</source>
         <translation>색상 범례</translation>
-    </message>
-    <message>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="vanished">vtkMRML스칼라볼륨노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLModelNode</source>
-        <translation type="vanished">vtkMRML모델노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
@@ -15358,50 +14247,51 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="613"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="615"/>
         <source>%1 load failed.</source>
         <translation>%1 불러오기에 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="783"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="785"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="798"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="800"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="831"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="833"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="844"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="846"/>
         <source>No nodes were saved in the scene</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="915"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="917"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>ID가 %1인 저장 가능한 노드를 찾을 수 없음</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="928"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="964"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1003"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="930"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="966"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1024"/>
         <source>Error encountered while exporting %1.</source>
         <translation type="unfinished">%1.을(를) 내보내는 동안 오류가 발생</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="990"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="992"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error encountered while exporting %1</source>
-        <translation type="vanished">%1을(를) 내보내는 동안 오류가 발생</translation>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1014"/>
+        <source>Unable to save display properties for %1 in temporary scene.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15418,10 +14308,6 @@ Graphics capabilities of this computer:
         <translation>매개변수 설정:</translation>
     </message>
     <message>
-        <source>vtkMRMLCropVolumeParametersNode</source>
-        <translation type="vanished">vtkMRML자르기볼륨매개변수노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="108"/>
         <source>IO</source>
         <translation>IO</translation>
@@ -15432,242 +14318,222 @@ Graphics capabilities of this computer:
         <translation>입력 볼륨:</translation>
     </message>
     <message>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="vanished">vtkMRML스칼라볼륨노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
         <source>Input ROI:</source>
         <translation>입력 ROI:</translation>
     </message>
     <message>
-        <source>vtkMRMLMarkupsROINode</source>
-        <translation type="vanished">vtkMRML마크업ROI노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLAnnotationROINode</source>
-        <translation type="vanished">vtkMRML주석ROI노드</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="185"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
         <translation>볼륨 ROI 자르기</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="197"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
         <source>Select region of interest</source>
         <translation>관심 지역 선택</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="215"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="214"/>
         <source>Display ROI</source>
         <translation>ROI 표시</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="236"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="235"/>
         <source>Fit to Volume</source>
         <translation>볼륨에 맞추기</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="249"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="248"/>
         <source>Output volume:</source>
         <translation>출력 볼륨:</translation>
     </message>
     <message>
-        <source>vtkMRMLVectorVolumeNode</source>
-        <translation type="vanished">vtkMRML벡터볼륨노드</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="268"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="587"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="586"/>
         <source>Cropped volume</source>
         <translation>자른 볼륨</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="280"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="279"/>
         <source>Create new volume</source>
         <translation>새로운 볼륨 생성</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="296"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
         <source>Advanced</source>
         <translation>고급</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="326"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
         <source>Interpolated cropping:</source>
         <translation>보간 자르기:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="333"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
         <translation>입력 볼륨을 보간하고 채워서 요청된 간격으로 출력 이미지를 ROI의 크기와 정확히 일치시키세요.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="349"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="359"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="358"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
         <translation>출력 볼륨의 복셀 간격은 이 값으로 조정됩니다. 1.0보다 큰 값은 잘린 볼륨을 입력 볼륨보다 낮은 해상도로 만듭니다. 1.0보다 작은 값은 잘린 볼륨을 입력 볼륨보다 더 높은 해상도로 만듭니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="352"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
         <source>Spacing scale:</source>
         <translation>간격 스케일:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="362"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="361"/>
         <source>x</source>
         <translation>x</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="375"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="374"/>
         <source>Isotropic spacing:</source>
         <translation>등방성 간격:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="395"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="394"/>
         <source>Interpolator:</source>
         <translation>보간기:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="404"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="434"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="403"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="433"/>
         <source>High quality, slow</source>
         <translation>고품질, 느림</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="407"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="406"/>
         <source>B-spline</source>
         <translation>B-스플라인</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="414"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="413"/>
         <source>Low quality, fastest</source>
         <translation>저품질, 가장 빠름</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="417"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="416"/>
         <source>Nearest Neighbor</source>
         <translation>가장 가까운 이웃</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="424"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="423"/>
         <source>Medium quality, medium speed</source>
         <translation>중간 품질, 중간 속도</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="427"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="426"/>
         <source>Linear</source>
         <translation>선형</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="437"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="436"/>
         <source>Windowed Sinc</source>
         <translation>Windowed Sinc</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="446"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="445"/>
         <source>Fill value:</source>
         <translation>값 채우기:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="453"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="452"/>
         <source>Voxel values outside the input volume will be filled with this value</source>
         <translation>입력 볼륨 외부의 복셀 값은 이 값으로 채워짐</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="484"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="483"/>
         <source>Volume information</source>
         <translation>볼륨 정보</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="508"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="507"/>
         <source>Input volume</source>
         <translation>입력 볼륨</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="517"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="596"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="516"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="595"/>
         <source>Output volume dimension after cropping</source>
         <translation>자르기 후 출력 볼륨 치수</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="529"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="557"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="608"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="636"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="528"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="556"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="607"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="635"/>
         <source>0,0,0</source>
         <translation>0,0,0</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="542"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="621"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="541"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="620"/>
         <source>Output volume spacing after cropping</source>
         <translation>자르기 후 출력 볼륨 간격</translation>
     </message>
     <message>
-        <source>length</source>
-        <translation type="vanished">길이</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="570"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="656"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="569"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="655"/>
         <source>Dimensions:</source>
         <translation>치수:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="577"/>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="649"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="576"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="648"/>
         <source>Spacing:</source>
         <translation>간격:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="693"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="692"/>
         <source>Fix</source>
         <translation>고정</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="708"/>
+        <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="707"/>
         <source>Apply</source>
         <translation>적용</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="88"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="87"/>
         <source>Select or create a new parameter node.</source>
         <translation>새로운 매개변수 노드를 선택하거나 생성합니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="99"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="98"/>
         <source>Select an input volume.</source>
         <translation>입력 볼륨을 선택합니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="106"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="105"/>
         <source>Output volume type does not match input volume type.</source>
         <translation>출력 볼륨 유형이 입력 볼륨 유형과 일치하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="129"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="128"/>
         <source>Input ROI is under a non-linear tansform.</source>
         <translation>입력 ROI는 비선형 변환 상태입니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="135"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="134"/>
         <source>Select or create a new input ROI.</source>
         <translation>새로운 입력 ROI를 선택하거나 생성합니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="142"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
         <source>Output volume is under a non-linear tansform.</source>
         <translation>출력 볼륨이 비선형 변환 상태입니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="153"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="152"/>
         <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
         <translation>보간이 비활성화되고 입력 볼륨이 비선형 변환 상태</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="159"/>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="158"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
         <translation>보간이 비활성화되고 입력 ROI가 입력 볼륨 축과 정렬되지 않습니다.</translation>
     </message>
@@ -15678,32 +14544,6 @@ Graphics capabilities of this computer:
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
         <translation>DICOM 내보내기</translation>
-    </message>
-    <message>
-        <source>Mode:</source>
-        <translation type="vanished">모드:</translation>
-    </message>
-    <message>
-        <source>Export selected data to standard DICOM fields.
-Created data objects are compatible with most standard DICOM software.</source>
-        <translation type="vanished">선택한 데이터를 표준 DICOM 필드로 내보냅니다. 
-생성된 데이터 개체는 대부분의 표준 DICOM 소프트웨어와 호환됩니다.</translation>
-    </message>
-    <message>
-        <source>Export series</source>
-        <translation type="vanished">시리즈 내보내기</translation>
-    </message>
-    <message>
-        <source>Save the entire scene, with all data and display settings embedded in private fields.
-The file can be stored on standard image archival systems and used in this application,
-but cannot be interpreted by most standard DICOM imaging applications.</source>
-        <translation type="vanished">개인 필드에 포함된 모든 데이터 및 디스플레이 설정과 함께 전체 장면을 저장합니다. 
-파일은 표준 이미지 보관 시스템에 저장하고 이 애플리케이션에서 사용할 수 있지만, 
-대부분의 표준 DICOM 이미징 응용 프로그램에서는 해석할 수 없습니다.</translation>
-    </message>
-    <message>
-        <source>Export entire scene</source>
-        <translation type="vanished">전체 장면 내보내기</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="82"/>
@@ -15746,10 +14586,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
         <translation>응용 프로그램의 DICOM 데이터베이스 대신 이 폴더로 DICOM 파일을 내보냈습니다.</translation>
-    </message>
-    <message>
-        <source>DICOM/ExportFolder</source>
-        <translation type="vanished">DICOM/내보내기폴더</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
@@ -15798,10 +14634,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
         <translation>스칼라 색상지도:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLDiffusionTensorDisplayPropertiesNode</source>
-        <translation type="vanished">vtkMRML확산텐서표시속성노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
@@ -15997,10 +14829,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
         <translation>숨겨진 노드 표시</translation>
-    </message>
-    <message>
-        <source>vtkMRMLTransformableNode</source>
-        <translation type="vanished">vtkMRML변형가능노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
@@ -16245,25 +15073,14 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation type="vanished">파일이름</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation type="vanished">디렉토리</translation>
-    </message>
-    <message>
-        <source>Export format</source>
-        <translation type="vanished">내보내기 형식</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">옵션</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
         <source>Apply transforms</source>
         <translation>변환 적용</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
+        <source>Select a format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="171"/>
@@ -16382,47 +15199,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     </message>
 </context>
 <context>
-    <name>qSlicerExportNodeDialogPrivate</name>
-    <message>
-        <source>Filename not standard</source>
-        <translation type="vanished">파일 이름이 표준이 아님</translation>
-    </message>
-    <message>
-        <source>The following filename is recommended:
-</source>
-        <translation type="vanished">다음 파일 이름이 권장됩니다:
-</translation>
-    </message>
-    <message>
-        <source>Export error</source>
-        <translation type="vanished">내보내기 오류</translation>
-    </message>
-    <message>
-        <source>Failed to export node %1; filename is empty.</source>
-        <translation type="vanished">노드 %1을(를) 내보내지 못했습니다. 파일 이름이 비어 있습니다.</translation>
-    </message>
-    <message>
-        <source>Exporting node...</source>
-        <translation type="vanished">노드를 내보내는 중...</translation>
-    </message>
-    <message>
-        <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation type="vanished">%1 파일이 이미 존재합니다. 교체하겠습니까?</translation>
-    </message>
-    <message>
-        <source>Cannot write data file: %1.</source>
-        <translation type="vanished">데이터 파일을 쓸 수 없음: %1.</translation>
-    </message>
-    <message>
-        <source>Export warning</source>
-        <translation type="vanished">내보내기 경고</translation>
-    </message>
-    <message>
-        <source>Export information</source>
-        <translation type="vanished">내보내기 정보</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
@@ -16538,6 +15314,16 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="422"/>
+        <source>Not found for this version of the application (r%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="430"/>
+        <source>Incompatible with Slicer r%2 [built for r%3]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="447"/>
         <source>Change log...</source>
         <translation type="unfinished"></translation>
@@ -16574,6 +15360,11 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
         <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
         <translation>&lt;font color=&quot;red&quot;&gt;* 재시작 요청&lt;/font&gt;</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
+        <source>Restart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16855,20 +15646,6 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>확장 설치</translation>
     </message>
     <message>
-        <source>Restore Extensions</source>
-        <translation type="vanished">확장 복원</translation>
-    </message>
-    <message>
-        <source>restore %1 extension(s)</source>
-        <translation type="vanished">%1 확장을 복원</translation>
-    </message>
-    <message>
-        <source>Install/uninstall operations are still in progress:
-- </source>
-        <translation type="vanished">설치/제거 작업이 아직 진행 중: 
-- </translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
         <source>Extensions Manager</source>
         <translation type="unfinished">확장 관리자</translation>
@@ -16889,23 +15666,44 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="486"/>
-        <source>Bookmarked extensions</source>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="457"/>
+        <source>Manage Extensions (%1)</source>
+        <extracomment>%1 represents the number of managed extensions</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="487"/>
+        <source>Bookmarked extensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="488"/>
         <source>List of bookmarked extensions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="749"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="718"/>
+        <source>Select extension archive file(s)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="719"/>
+        <source>Archives</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="720"/>
+        <source>All files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
         <source>Install/uninstall/update operations are still in progress:
 - </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="751"/>
+        <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
         <source>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
@@ -16915,62 +15713,40 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
 </context>
 <context>
-    <name>qSlicerExtensionsRestoreWidget</name>
+    <name>qSlicerExtensionsServerWidget</name>
     <message>
-        <source>Select All</source>
-        <translation type="vanished">모두 선택</translation>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="95"/>
+        <source>Slicer Extensions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Deselect All</source>
-        <translation type="vanished">모두 선택 해제</translation>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="102"/>
+        <source>Extensions can not be installed.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Install Selected...</source>
-        <translation type="vanished">선택 항목 설치(&amp;amp;I)...</translation>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
+        <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check previous extensions on startup</source>
-        <translation type="vanished">시작 시 이전 확장 확인</translation>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
+        <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install previous extensions without request</source>
-        <translation type="vanished">요청 없이 이전 확장 설치</translation>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
+        <source>Read more...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 compatible extension(s) from a previous Slicer installation found. Do you want to install? (For details see: Extensions Manager &gt; Restore Extensions)</source>
-        <translation type="vanished">이전 슬라이서 설치에서 호환되는 확장 %1개를 찾았습니다. 설치하겠습니까? (자세한 내용은 확장 관리자 &amp;gt; 확장 복원을 참조하세요.)</translation>
-    </message>
-    <message>
-        <source>currently installed</source>
-        <translation type="vanished">현재 설치됨</translation>
-    </message>
-    <message>
-        <source>was used in previously installed Slicer version (%1)</source>
-        <translation type="vanished">이전에 설치된 슬라이서 버전 (%1)에서 사용</translation>
-    </message>
-    <message>
-        <source>was last used in Slicer version %1</source>
-        <translation type="vanished">슬라이서 버전 % 1에서 마지막으로 사용</translation>
-    </message>
-    <message>
-        <source>not found for current Slicer version (was last used in Slicer version %1)</source>
-        <translation type="vanished">현재 슬라이서 버전에 대해 찾을 수 없음 (슬라이서 버전 %1에서 마지막으로 사용됨)</translation>
-    </message>
-    <message>
-        <source>All extensions restored. Please restart Slicer.</source>
-        <translation type="vanished">모든 확장이 복원되었습니다. 슬라이서를 다시 시작하세요.</translation>
-    </message>
-    <message>
-        <source>Installing %1 (%2/%3)</source>
-        <translation type="vanished">%1 (%2/%3) 설치 중</translation>
+        <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="117"/>
+        <source>Try Again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qSlicerExtensionsToolsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">양식</translation>
-    </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Extensions tools</source>
@@ -17064,21 +15840,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install Extension from File...</source>
-        <translation type="vanished">파일에서 확장 설치...</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"/>
         <source>Install from file...</source>
         <translation>파일에서 설치...</translation>
     </message>
+</context>
+<context>
+    <name>qSlicerFileDialog</name>
     <message>
-        <source>&amp;Check for Updates</source>
-        <translation type="vanished">업데이트 확인(&amp;amp;C)</translation>
-    </message>
-    <message>
-        <source>Install Updates &amp;Automatically</source>
-        <translation type="vanished">업데이트 자동 설치(&amp;amp;A)</translation>
+        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="78"/>
+        <source>All</source>
+        <translation type="unfinished">모두</translation>
     </message>
 </context>
 <context>
@@ -17176,6 +15948,21 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerIOManager</name>
     <message>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
+        <source>Loading file... </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
+        <source>Cancel</source>
+        <translation type="unfinished">취소</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="98"/>
+        <source>Loading ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="320"/>
         <source>Select a reader</source>
         <translation>리더 선택</translation>
@@ -17184,6 +15971,11 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data?</source>
         <translation>데이터에 사용할 리더를 선택하겠습니까?</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="440"/>
+        <source>Loading file </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="580"/>
@@ -17525,18 +16317,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="499"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
-    </message>
-    <message>
-        <source>New Fiducial List</source>
-        <translation type="vanished">새로운 기점 목록</translation>
-    </message>
-    <message>
-        <source>Create a new list of fiducial points.</source>
-        <translation type="vanished">기점의 새로운 목록을 만듭니다.</translation>
-    </message>
-    <message>
-        <source>Ctrl+L</source>
-        <translation type="vanished">Ctrl+L</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="416"/>
@@ -17961,10 +16741,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Module Panel</source>
-        <translation type="vanished">모듈 패널(&amp;amp;M)</translation>
-    </message>
-    <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="167"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
         <translation>GUI 패널 축소/확장, 슬라이서 뷰어가 전체 애플리케이션 창을 차지할 수 있도록 함</translation>
@@ -17975,18 +16751,6 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="350"/>
         <source>Select number of viewers...</source>
         <translation>뷰어 수 선택...</translation>
-    </message>
-    <message>
-        <source>Python Interactor</source>
-        <translation type="vanished">파이썬 상호 작용기</translation>
-    </message>
-    <message>
-        <source>&amp;Python Interactor</source>
-        <translation type="vanished">파이썬 상호 작용기(&amp;amp;P)</translation>
-    </message>
-    <message>
-        <source>Show Python Interactor window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="vanished">애플리케이션의 데이터, 사용자 인터페이스, 내부를 제어하기 위한 파이썬 상호 작용기 창 표시</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="165"/>
@@ -18273,12 +17037,13 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
-        <source>Display, naming, volume interactions, moving up/down, adding, Annotations import</source>
-        <translation>디스플레이, 이름 지정, 볼륨 상호 작용, 위/아래로 이동, 추가, 주석 가져오기</translation>
+        <source>Display, naming, volume interactions, moving up/down, adding</source>
+        <oldsource>Display, naming, volume interactions, moving up/down, adding, Annotations import</oldsource>
+        <translation type="unfinished">디스플레이, 이름 지정, 볼륨 상호 작용, 위/아래로 이동, 추가, 주석 가져오기</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="896"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="886"/>
         <source>Advanced</source>
         <translation>고급</translation>
     </message>
@@ -18334,76 +17099,62 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="889"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="879"/>
         <source>Apply</source>
         <translation>적용</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="738"/>
-        <source>Uses annotation fiducial hierarchies to make markup lists. Removes the annotations once they&apos;ve been moved.</source>
-        <translation>주석 기점 계층을 사용하여 마크업 목록을 만듭니다. 주석이 이동되면 제거합니다.</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="741"/>
-        <source>Convert Annotation Fiducials</source>
-        <translation>주석 기점 변환</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="757"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="747"/>
         <source>Measurements</source>
         <translation>측정</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="766"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="756"/>
         <source>No measurement</source>
         <translation>측정 없음</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="773"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="763"/>
         <source>Measurement settings</source>
         <translation>측정 설정</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="833"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="823"/>
         <source>Export/import Table</source>
         <translation>테이블 내보내기/가져오기</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="842"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="832"/>
         <source>Operation:</source>
         <translation>운영:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="851"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="841"/>
         <source>Export</source>
         <translation>내보내기</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="858"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="848"/>
         <source>Import</source>
         <translation>가져오기</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="867"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="857"/>
         <source>Table:</source>
         <translation>테이블:</translation>
     </message>
     <message>
-        <source>vtkMRMLTableNode</source>
-        <translation type="vanished">vtkMRML표노드</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="923"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="913"/>
         <source>Export coordinate system:</source>
         <translation>좌표계 내보내기:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="932"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="922"/>
         <source>RAS</source>
         <translation>RAS</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="939"/>
+        <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="929"/>
         <source>LPS</source>
         <translation>LPS</translation>
     </message>
@@ -18485,32 +17236,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>붙여넣기</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="956"/>
-        <source>Convert</source>
-        <translation>전환</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1677"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1887"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1827"/>
         <source>Delete All</source>
         <translation>모두 삭제</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3248"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3183"/>
         <source>No measurement</source>
         <translation>측정 없음</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3335"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3270"/>
         <source>Export control points coordinates and properties to table.</source>
         <translation>제어점 좌표 및 속성을 테이블로 내보냅니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3343"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
         <source>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <translation>테이블 노드에서 제어점 좌표 및 속성을 가져옵니다. 
@@ -18774,6 +17520,16 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>모델 디렉토리 추가</translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="64"/>
+        <source>Select Model file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="78"/>
+        <source>Select a Model directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="111"/>
         <source>Models</source>
         <translation>모델</translation>
@@ -18835,10 +17591,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>모든 모델에 대해 가시성을 켜기 (계층 구조를 포함하지 않음)</translation>
     </message>
     <message>
-        <source>vtkMRMLAnnotationNode</source>
-        <translation type="vanished">vtkMRML주석노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
         <source>Information</source>
         <translation>정보</translation>
@@ -18857,10 +17609,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
         <source>Color Legend</source>
         <translation>색상 범례</translation>
-    </message>
-    <message>
-        <source>vtkMRMLClipModelsNode</source>
-        <translation type="vanished">vtkMRML절단모델노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
@@ -18915,12 +17663,65 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <source>Switch to module</source>
         <translation type="unfinished">모듈로 전환</translation>
     </message>
-</context>
-<context>
-    <name>qSlicerModuleFinderDialogPrivate</name>
     <message>
-        <source>Switch to module</source>
-        <translation type="vanished">모듈로 전환</translation>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="192"/>
+        <source>Category:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="231"/>
+        <source>Contributors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="238"/>
+        <source>Internal name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="242"/>
+        <source>Core</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="246"/>
+        <source>Python Scripted Loadable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="250"/>
+        <source>C++ Loadable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="254"/>
+        <source>Command-Line Interface (CLI)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="258"/>
+        <source>built-in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="260"/>
+        <source>Type:</source>
+        <translation type="unfinished">유형:</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="265"/>
+        <source>Require:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="269"/>
+        <source>Location:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
+        <source>%1 module is not loaded</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18945,6 +17746,11 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <source>Acknowledgement</source>
         <translation>감사</translation>
     </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
+        <source>Contributors:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerModuleSelectorToolBar</name>
@@ -18952,10 +17758,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="99"/>
         <source>Modules:</source>
         <translation>모듈:</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">찾기</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
@@ -19020,6 +17822,14 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     </message>
 </context>
 <context>
+    <name>qSlicerModulesListView</name>
+    <message>
+        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="161"/>
+        <source>Requires:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerMouseModeToolBar</name>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
@@ -19061,6 +17871,11 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="165"/>
         <source>Place</source>
         <translation>배치</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="365"/>
+        <source>Place a control point</source>
+        <translation type="unfinished">제어점 배치</translation>
     </message>
 </context>
 <context>
@@ -19161,10 +17976,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>차트:</translation>
     </message>
     <message>
-        <source>vtkMRMLPlotChartNode</source>
-        <translation type="vanished">vtkMRML플롯차트노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
         <source>Allow plot editing</source>
         <translation>플롯 편집 허용</translation>
@@ -19178,10 +17989,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
         <source>Data series:</source>
         <translation>데이터 시리즈:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLPlotSeriesNode</source>
-        <translation type="vanished">vtkMRML플롯시리즈노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
@@ -19213,10 +18020,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
         <source>Slice:</source>
         <translation>슬라이스:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSliceNode</source>
-        <translation type="vanished">vtkMRML슬라이스노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
@@ -19418,66 +18221,74 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;저장하는 동안 오류 또는 경고가 발생했습니다. 자세한 내용은 상태 아이콘을 참조하세요.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1449"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1119"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1133"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1140"/>
+        <source>Modified</source>
+        <translation type="unfinished">수정됨</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
+        <source>Not Modified</source>
+        <translation type="unfinished">수정되지 않음</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="648"/>
+        <source>Select a format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="674"/>
+        <source>Output folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="725"/>
+        <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
+        <translation type="unfinished">사용자가 기존 파일을 덮어쓰지 않도록 선택했기 때문에 장면 파일이 저장되지 않았습니다: %1.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="814"/>
+        <source>Node %1 not saved, file name is empty.</source>
+        <translation type="unfinished">노드 %1이(가) 저장되지 않았으며, 파일 이름이 비어 있습니다.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="824"/>
+        <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
+        <translation type="unfinished">사용자가 기존 파일을 덮어쓰지 않도록 선택했기 때문에 노드 %1이(가) 저장되지 않았습니다: %2.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="862"/>
+        <source>Cannot write data file: %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="867"/>
+        <source>Failed to save node %1 to file %2.</source>
+        <translation type="unfinished">%1 노드를 %2 파일에 저장하지 못했습니다.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="916"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1120"/>
+        <source>Scene</source>
+        <translation type="unfinished">장면</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1432"/>
         <source>Any Data</source>
         <translation>모든 데이터</translation>
     </message>
-</context>
-<context>
-    <name>qSlicerSaveDataDialogPrivate</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="613"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1136"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1150"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1157"/>
-        <source>Modified</source>
-        <translation>수정됨</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="613"/>
-        <source>Not Modified</source>
-        <translation>수정되지 않음</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="743"/>
-        <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation>사용자가 기존 파일을 덮어쓰지 않도록 선택했기 때문에 장면 파일이 저장되지 않았습니다: %1.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="831"/>
-        <source>Node %1 not saved, file name is empty.</source>
-        <translation>노드 %1이(가) 저장되지 않았으며, 파일 이름이 비어 있습니다.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="841"/>
-        <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-        <translation>사용자가 기존 파일을 덮어쓰지 않도록 선택했기 때문에 노드 %1이(가) 저장되지 않았습니다: %2.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="879"/>
-        <source>Cannot write data file: %1.</source>
-        <translation>데이터 파일을 쓸 수 없습니다: %1.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="884"/>
-        <source>Failed to save node %1 to file %2.</source>
-        <translation>%1 노드를 %2 파일에 저장하지 못했습니다.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="933"/>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1137"/>
-        <source>Scene</source>
-        <translation>장면</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1479"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1465"/>
         <source>Saving file...</source>
-        <translation>파일 저장 중...</translation>
+        <translation type="unfinished">파일 저장 중...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1480"/>
+        <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1466"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
-        <translation>파일: %1이(가) 이미 존재합니다. 교체하겠습니까?</translation>
+        <translation type="unfinished">파일: %1이(가) 이미 존재합니다. 교체하겠습니까?</translation>
     </message>
 </context>
 <context>
@@ -19488,34 +18299,39 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>스칼라 볼륨 표시</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="32"/>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
+        <source>Presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
         <source>Lookup Table:</source>
         <translation>조회 테이블:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="52"/>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
+        <source>Select the color mapping for scalar volumes to colors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
         <source>Interpolate:</source>
         <translation>보간:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="72"/>
-        <source>Window/Level:</source>
-        <translation>창/수준:</translation>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
+        <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="117"/>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
+        <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
         <source>Histogram</source>
         <translation>히스토그램</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/qSlicerScalarVolumeDisplayWidget.cxx" line="243"/>
-        <source>Click to enable modification of Window/Level values</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/qSlicerScalarVolumeDisplayWidget.cxx" line="248"/>
-        <source>Click to prevent modification of Window/Level values</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19555,7 +18371,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>장면이 올바르게 불러오지 않을 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="169"/>
+        <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
         <translation>다음 확장은 장면을 불러올 때 설치되었지만 지금은 설치되지 않았습니다: %1. 장면을 성공적으로 불러오려면 이러한 확장이 필요할 수 있습니다.</translation>
     </message>
@@ -19602,18 +18418,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="83"/>
         <source>MRML Scene</source>
         <translation>MRML 장면</translation>
-    </message>
-    <message>
-        <source>MRML Scene (.mrml)</source>
-        <translation type="vanished">MRML 장면 (.mrml)</translation>
-    </message>
-    <message>
-        <source>Medical Reality Bundle (.mrb)</source>
-        <translation type="vanished">의료 현실 번들 (.mrb)</translation>
-    </message>
-    <message>
-        <source>Slicer Data Bundle (*)</source>
-        <translation type="vanished">슬라이서 데이터 번들 (*)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
@@ -19667,76 +18471,72 @@ Please choose an empty directory.</source>
 <context>
     <name>qSlicerSegmentEditorScissorsEffect</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1198"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1229"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1217"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
         <source>Unlimited</source>
         <translation>무제한</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1218"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
         <translation>전체 분할을 잘라냅니다. 슬라이스 보기에만 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1219"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
         <source>Positive</source>
         <translation>양</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1220"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
         <translation>절단 영역에는 슬라이스 평면의 양의 면만 포함됩니다. 슬라이스 보기에만 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1221"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
         <source>Negative</source>
         <translation>음</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1222"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1253"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
         <translation>절단 영역에는 슬라이스 평면의 음의 면만 포함됩니다. 슬라이스 보기에만 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1223"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
         <source>Symmetric</source>
         <translation>대칭</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1224"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1255"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
         <translation>절단 영역은 슬라이스 평면 주위의 지정된 두께로 제한됩니다. 슬라이스 보기에만 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1258"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
         <translation>절단 영역의 두께입니다. 0은 현재 슬라이스만 포함됨을 의미합니다. 슬라이스 보기에만 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1234"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1265"/>
         <source>Slice cut:</source>
         <translation>슬라이스 절단:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1235"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1266"/>
         <source>Restrict cut region in slice views.</source>
         <translation>슬라이스 보기에서 절단 영역을 제한합니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1243"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1274"/>
         <source>Apply to visible segments:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply to all segments:</source>
-        <translation type="vanished">모든 세그먼트에 적용:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1244"/>
+        <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
         <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
         <translation>위에서 아래로 보이는 모든 세그먼트에 가위 효과를 적용합니다.                                           &apos;적용&apos;을 누른 후: 잠시만 기다려 주세요. 시간이 오래 걸릴 수 있습니다.                                           진행 상황은 상태 메시지로 표시됩니다. </translation>
     </message>
@@ -19797,10 +18597,6 @@ Please choose an empty directory.</source>
         <translation> 소스 지오메트리:</translation>
     </message>
     <message>
-        <source>vtkMRMLSegmentationNode</source>
-        <translation type="vanished">vtkMRML분할노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="104"/>
         <source>Add empty segment</source>
         <translation>빈 세그먼트 추가</translation>
@@ -19819,10 +18615,6 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="121"/>
         <source>Remove selected</source>
         <translation>선택한 항목 삭제</translation>
-    </message>
-    <message>
-        <source>Edit selected</source>
-        <translation type="vanished">선택한 항목 편집</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="135"/>
@@ -19991,17 +18783,9 @@ Please choose an empty directory.</source>
         <translation>참고 볼륨:</translation>
     </message>
     <message>
-        <source>vtkMRMLVolumeNode</source>
-        <translation type="vanished">vtkMRML볼륨노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="646"/>
         <source>Use color table values:</source>
         <translation>색상표 값 사용:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLColorTableNode</source>
-        <translation type="vanished">vtkMRML색상표노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="679"/>
@@ -20177,10 +18961,6 @@ Please choose an empty directory.</source>
         <translation>시퀀스 브라우저:</translation>
     </message>
     <message>
-        <source>vtkMRMLSequenceBrowserNode</source>
-        <translation type="vanished">vtkMRML시퀀스브라우저노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="44"/>
         <source>SequenceBrowser</source>
         <translation>시퀀스브라우저</translation>
@@ -20194,10 +18974,6 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="71"/>
         <source>Synchronized nodes</source>
         <translation>동기화된 노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSequenceNode</source>
-        <translation type="vanished">vtkMRML시퀀스노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="99"/>
@@ -20582,6 +19358,7 @@ Please choose an empty directory.</source>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="83"/>
         <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
         <translation>자체 테스트 실행을 재개하고 사용자에게 표시되는 메시지를 숨기기 전에 대기하는 시간</translation>
     </message>
@@ -20610,6 +19387,21 @@ Please choose an empty directory.</source>
         <source>Preserve input and data files created during CLI module execution</source>
         <translation>CLI 모듈 실행 중에 생성된 입력 및 데이터 파일 보존</translation>
     </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="75"/>
+        <source>Enable/Disable developer mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="79"/>
+        <source>Preserve CLI module input/output files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="87"/>
+        <source>Enable/Disable QtTesting</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSettingsExtensionsPanel</name>
@@ -20617,10 +19409,6 @@ Please choose an empty directory.</source>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
         <translation>확장</translation>
-    </message>
-    <message>
-        <source>Enable extensions manager:</source>
-        <translation type="vanished">확장 관리자 활성화:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
@@ -20690,6 +19478,26 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="171"/>
         <source>Automatically install required additional extensions when installing an extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="91"/>
+        <source>Enable/Disable extensions manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="103"/>
+        <source>Automatic update check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="105"/>
+        <source>Automatic update install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="107"/>
+        <source>Automatic install of dependencies</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20804,6 +19612,32 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <source>Address of the server that provides information on latest available application version.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="109"/>
+        <source>Application update server URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="157"/>
+        <source>Default scene path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="188"/>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="192"/>
+        <source>Documentation location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="196"/>
+        <source>Enable/Disable languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="200"/>
+        <source>Max. number of &apos;Recent&apos; menu items</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSettingsInternationalizationPanel</name>
@@ -20816,6 +19650,11 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
         <source>Enable Internationalization:</source>
         <translation>국제화 활성화:</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="68"/>
+        <source>Enable/Disable Internationalization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21000,10 +19839,6 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Favorite Modules:&lt;br&gt;&lt;small&gt;&lt;i&gt;Drag &amp;amp; drop from &lt;/i&gt;Modules&lt;i&gt; list&lt;/i&gt;&lt;/small&gt;</source>
-        <translation type="vanished">즐겨찾기 모듈:&lt;br&gt;&lt;small&gt;모듈&lt;i&gt;목록t&lt;/i&gt;에서 &lt;i&gt;드래그 앤 드롭&lt;/i&gt;&lt;/small&gt;</translation>
-    </message>
-    <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list</source>
         <translation>위의 &quot;모듈&quot; 목록에서 모듈을 끌어 목록에 추가</translation>
@@ -21039,6 +19874,16 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <translation>오른쪽으로 이동</translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
+        <source>Additional module paths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
+        <source>Modules to ignore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
         <source>Select folder</source>
         <translation>폴더 선택</translation>
@@ -21050,10 +19895,6 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="14"/>
         <source>Python</source>
         <translation>파이썬</translation>
-    </message>
-    <message>
-        <source>Shell Display</source>
-        <translation type="vanished">쉘 디스플레이</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
@@ -21085,6 +19926,11 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="70"/>
         <source>Log messages at this level and above are displayed in the Python console.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
+        <source>Display Python console in a window that can be placed inside the main window.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -21253,6 +20099,16 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;활성화하면 다음에 응용 프로그램을 시작할 때 응용 프로그램 크기와 위치가 기억됩니다.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="102"/>
+        <source>Additional style paths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="112"/>
+        <source>Current style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
         <source>Select a path containing a &quot;styles&quot; plugin directory</source>
         <translation>&quot;스타일&quot; 플러그인 디렉토리가 포함된 경로를 선택</translation>
@@ -21305,6 +20161,11 @@ p, li { white-space: pre-wrap; }
         <source>Email:</source>
         <translation>이메일:</translation>
     </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="169"/>
+        <source>Invalid format</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSettingsViewsPanel</name>
@@ -21320,119 +20181,119 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="50"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="187"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="166"/>
         <source>Orientation marker:</source>
         <translation>방향 마커:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="60"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="115"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="197"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="258"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="94"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="176"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="237"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="86"/>
         <source>none</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="65"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="202"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="181"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="87"/>
         <source>cube</source>
         <translation>정육면체</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="70"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="207"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="186"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="88"/>
         <source>human</source>
         <translation>인간</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="75"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="212"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="191"/>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="89"/>
         <source>axes</source>
         <translation>축</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="87"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="224"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="66"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="203"/>
         <source>small</source>
         <translation>작은</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="92"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="229"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="71"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
         <source>medium</source>
         <translation>중간</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="97"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="234"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="76"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="213"/>
         <source>large</source>
         <translation>큰</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="107"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="244"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="86"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="223"/>
         <source>Ruler:</source>
         <translation>눈금자:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="120"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="263"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="99"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="242"/>
         <source>thin</source>
         <translation>얇은</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="125"/>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="268"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="104"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="247"/>
         <source>thick</source>
         <translation>두꺼운</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="133"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="112"/>
         <source>View orientation:</source>
         <translation>보기 방향:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="150"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="129"/>
         <source>3D viewer defaults</source>
         <translation>3D 뷰어 기본값</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="159"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="138"/>
         <source>Show 3D cube:</source>
         <translation>3D 정육면체 보기:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="173"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="152"/>
         <source>Show 3D axis label:</source>
         <translation>3D 축 레이블 표시:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="254"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="233"/>
         <source>Ruler is only displayed if orthographic projection mode is used.</source>
         <translation>눈금자는 직교 투영 모드를 사용하는 경우에만 표시됩니다.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="276"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="255"/>
         <source>Use depth peeling:</source>
         <translation>깊이 박리 사용:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="283"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="262"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
         <translation>깊이 박리를 활성화하면 더 높은 계산 비용을 대가로 투명 모델의 렌더링을 향상시킬 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="293"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="272"/>
         <source>Use orthographic projection:</source>
         <translation>직교 투영 사용:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="308"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="287"/>
         <source>Multi-sampling (MSAA):</source>
         <translation>멀티 샘플링 (MSAA):</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="321"/>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="300"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -21444,6 +20305,76 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;전체 화면 위신호 제거에 멀티샘플링을 사용합니다.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
+        <source>Multisampling (MSAA)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="95"/>
+        <source>Slice view orientation marker type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="101"/>
+        <source>Slice view orientation marker size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="107"/>
+        <source>Slice view ruler type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
+        <source>patient right is screen left (default)</source>
+        <translation type="unfinished">사용자의 오른쪽은 화면의 왼쪽 (기본값)</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="111"/>
+        <source>patient right is screen right</source>
+        <translation type="unfinished">사용자의 오른쪽은 화면의 오른쪽</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
+        <source>Default slice view orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
+        <source>3D view cube visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="124"/>
+        <source>3D view axis label visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="129"/>
+        <source>3D view orientation marker type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
+        <source>3D view orientation marker size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="141"/>
+        <source>3D view ruler type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="145"/>
+        <source>3D depth peeling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
+        <source>Orthographic projection</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
@@ -21451,10 +20382,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Form</source>
         <translation>양식</translation>
-    </message>
-    <message>
-        <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="vanished">vtkMRML마크업기점노드</translation>
     </message>
 </context>
 <context>
@@ -21539,13 +20466,6 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
-    <name>qSlicerSubjectHierarchyOpacityPluginPrivate</name>
-    <message>
-        <source>Opacity</source>
-        <translation type="vanished">불투명도</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerSubjectHierarchyRegisterPlugin</name>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
@@ -21556,17 +20476,6 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
         <translation type="unfinished">다른 볼륨을 마우스 오른쪽 버튼으로 클릭하여 두 번째 볼륨을 선택하고 등록을 시작</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSubjectHierarchyRegisterPluginPrivate</name>
-    <message>
-        <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation type="vanished">등록할 동영상으로 볼륨을 선택합니다. 두 번째 볼륨은 첫 번째 볼륨을 설정한 후 상황에 맞는 메뉴에서 선택할 수 있습니다.</translation>
-    </message>
-    <message>
-        <source>Right-click another volume to select second volume and start registration</source>
-        <translation type="vanished">다른 볼륨을 마우스 오른쪽 버튼으로 클릭하여 두 번째 볼륨을 선택하고 등록을 시작</translation>
     </message>
 </context>
 <context>
@@ -21784,89 +20693,11 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
-    <name>qSlicerSubjectHierarchyViewContextMenuPluginPrivate</name>
-    <message>
-        <source>Center view</source>
-        <translation type="vanished">중앙 보기</translation>
-    </message>
-    <message>
-        <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
-        <translation type="vanished">현재 보이는 3D 보기 콘텐츠와 불러온 모든 볼륨의 중앙에 슬라이스를 놓습니다.</translation>
-    </message>
-    <message>
-        <source>Reset field of view</source>
-        <translation type="vanished">시야 재설정</translation>
-    </message>
-    <message>
-        <source>Center the slice view on the currently displayed volume.</source>
-        <translation type="vanished">현재 표시된 볼륨의 중앙에 슬라이스 보기.</translation>
-    </message>
-    <message>
-        <source>Maximize view</source>
-        <translation type="vanished">보기 최대화</translation>
-    </message>
-    <message>
-        <source>Show this view maximized in the view layout</source>
-        <translation type="vanished">보기 레이아웃에서 이 보기를 최대화하여 표시</translation>
-    </message>
-    <message>
-        <source>Tilt lock</source>
-        <translation type="vanished">기울기 잠금</translation>
-    </message>
-    <message>
-        <source>Prevent rotation around the horizontal axis when rotating this view.</source>
-        <translation type="vanished">이 보기를 회전할 때 수평 축을 중심으로 회전하지 않도록 합니다.</translation>
-    </message>
-    <message>
-        <source>Ctrl+b</source>
-        <translation type="vanished">Ctrl+b</translation>
-    </message>
-    <message>
-        <source>Configure slice view annotations...</source>
-        <translation type="vanished">슬라이스 보기 주석 구성...</translation>
-    </message>
-    <message>
-        <source>Configures display of corner annotations and color legend.</source>
-        <translation type="vanished">모서리 주석 및 색상 범례의 표시를 구성합니다.</translation>
-    </message>
-    <message>
-        <source>Copy image</source>
-        <translation type="vanished">복사 이미지</translation>
-    </message>
-    <message>
-        <source>Copy a screenshot of this view to the clipboard</source>
-        <translation type="vanished">이 보기의 스크린샷을 클립보드에 복사</translation>
-    </message>
-    <message>
-        <source>Slice intersections</source>
-        <translation type="vanished">슬라이스 교차점</translation>
-    </message>
-    <message>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="vanished">다른 슬라이스 평면이 각 슬라이스 평면과 어떻게 교차하는지 보여줍니다.</translation>
-    </message>
-    <message>
-        <source>Interaction</source>
-        <translation type="vanished">상호 작용</translation>
-    </message>
-    <message>
-        <source>Show handles for slice interaction.</source>
-        <translation type="vanished">슬라이스 상호 작용에 대한 핸들을 표시합니다.</translation>
-    </message>
-</context>
-<context>
     <name>qSlicerSubjectHierarchyVolumeRenderingPlugin</name>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
         <source>Switch to Volume Rendering module to manage display options</source>
         <translation type="unfinished">볼륨 렌더링 모듈로 전환하여 디스플레이 옵션 관리</translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSubjectHierarchyVolumeRenderingPluginPrivate</name>
-    <message>
-        <source>Switch to Volume Rendering module to manage display options</source>
-        <translation type="vanished">볼륨 렌더링 모듈로 전환하여 디스플레이 옵션 관리</translation>
     </message>
 </context>
 <context>
@@ -21945,21 +20776,6 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="493"/>
         <source> Empty volume</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>qSlicerSubjectHierarchyVolumesPluginPrivate</name>
-    <message>
-        <source>Default preset for the selected volume</source>
-        <translation type="vanished">선택한 볼륨에 대한 기본 사전 설정</translation>
-    </message>
-    <message>
-        <source>Automatic</source>
-        <translation type="vanished">자동</translation>
-    </message>
-    <message>
-        <source>Display the full intensity range of the volume.</source>
-        <translation type="vanished">볼륨의 전체 강도 범위를 표시합니다.</translation>
     </message>
 </context>
 <context>
@@ -22180,10 +20996,6 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <translation>테이블</translation>
     </message>
     <message>
-        <source>vtkMRMLTableNode</source>
-        <translation type="vanished">vtkMRML표노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
         <source>Allow table editing</source>
         <translation>테이블 편집 허용</translation>
@@ -22400,10 +21212,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <translation>텍스트 노드:</translation>
     </message>
     <message>
-        <source>vtkMRMLTextNode</source>
-        <translation type="vanished">vtkMRML텍스트노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="74"/>
         <source>Contents</source>
         <translation>내용</translation>
@@ -22440,22 +21248,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
         <source>Active Transform:</source>
         <translation>활성 변환:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLLinearTransformNode</source>
-        <translation type="vanished">vtkMRML선형변형노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLBSplineTransformNode</source>
-        <translation type="vanished">vtkMRMLB스플라인변형노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLGridTransformNode</source>
-        <translation type="vanished">vtkMRML격자변형노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLTransformNode</source>
-        <translation type="vanished">vtkMRML변형노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
@@ -22533,10 +21325,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <translation>변형 가능:</translation>
     </message>
     <message>
-        <source>vtkMRMLTransformableNode</source>
-        <translation type="vanished">vtkMRML변경가능노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
         <source>Apply the active transform to the selected transformable nodes</source>
         <translation>선택한 변형 가능한 노드에 활성 변형 적용</translation>
@@ -22582,10 +21370,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <translation>내보낸 변위 필드의 원점, 간격, 축 방향을 정의하는 볼륨입니다. 참조 볼륨이 비선형 변환 아래 있는 경우 변환되지 않은 형상이 참조로 사용됩니다.</translation>
     </message>
     <message>
-        <source>vtkMRMLVolumeNode</source>
-        <translation type="vanished">vtkMRML볼륨노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
         <source>Output displacement field:</source>
         <translation>출력 변위 필드:</translation>
@@ -22594,14 +21378,6 @@ Do you wish to update the stored context file with the just loaded one?</source>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
         <translation>변위 필드를 저장할 볼륨 또는 변환 노드입니다. 스칼라 볼륨 노드가 선택되면 변위 크기만 저장됩니다. 벡터 볼륨 또는 변환 노드에서 3D 변위 벡터가 저장됩니다.</translation>
-    </message>
-    <message>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="vanished">vtkMRML스칼라볼륨노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLVectorVolumeNode</source>
-        <translation type="vanished">vtkMRML벡터볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
@@ -22698,18 +21474,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
         <translation>현재 장면에서 보기를 선택합니다. 각 요소는 특정 위젯에 해당합니다. 보기 노드는 3D 렌더링 위젯과 연결됩니다. 플로팅 위젯이 있는 플롯보기입니다. 2D 렌더링 위젯이 있는 슬라이스 입니다 (빨간색, 녹색, 노란색).</translation>
-    </message>
-    <message>
-        <source>vtkMRMLSliceNode</source>
-        <translation type="vanished">vtkMRML슬라이서노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLViewNode</source>
-        <translation type="vanished">vtkMRML보기노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLPlotViewNode</source>
-        <translation type="vanished">vtkMRML플롯보기노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
@@ -22954,22 +21718,6 @@ This should only used by advanced users who understand the consequences of chang
         <translation>볼륨:</translation>
     </message>
     <message>
-        <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="vanished">vtkMRML스칼라볼륨노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLDiffusionWeightedVolumeNode</source>
-        <translation type="vanished">vtkMRML확산위젯볼륨노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLDiffusionTensorVolumeNode</source>
-        <translation type="vanished">vtkMRML확산텐서볼륨노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLMultiVolumeNode</source>
-        <translation type="vanished">vtkMRML멀티볼륨노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="88"/>
         <source>Inputs</source>
         <translation>입력</translation>
@@ -22980,129 +21728,117 @@ This should only used by advanced users who understand the consequences of chang
         <translation>ROI:</translation>
     </message>
     <message>
-        <source>vtkMRMLMarkupsROINode</source>
-        <translation type="vanished">vtkMRML마크업ROI노드</translation>
-    </message>
-    <message>
-        <source>vtkMRMLAnnotationROINode</source>
-        <translation type="vanished">vtkMRML주석ROI노드</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="138"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="137"/>
         <source>Property:</source>
         <translation>속성:</translation>
     </message>
     <message>
-        <source>vtkMRMLVolumePropertyNode</source>
-        <translation type="vanished">vtkMRML볼륨속성노드</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="160"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="159"/>
         <source>View:</source>
         <translation>보기:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="173"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="172"/>
         <source>Display</source>
         <translation>디스플레이</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="200"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="199"/>
         <source>Crop:</source>
         <translation>자르기:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="212"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="211"/>
         <source>Enable</source>
         <translation>활성화</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="222"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="221"/>
         <source>Display ROI</source>
         <translation>ROI 표시</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="243"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="242"/>
         <source>Fit to Volume</source>
         <translation>볼륨에 맞추기</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="256"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="255"/>
         <source>Rendering:</source>
         <translation>렌더링:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="276"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="275"/>
         <source>Advanced...</source>
         <translation>고급...</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="304"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="303"/>
         <source>Techniques</source>
         <translation>기술</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="310"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="309"/>
         <source>GPU memory size:</source>
         <translation>GPU 메모리 크기:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="317"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="316"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
         <translation>그래픽 카드의 볼륨 렌더링에 할당된 메모리 양입니다. &quot;기본값&quot;은 설정에서 수정할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="327"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="326"/>
         <source>Quality:</source>
         <translation>품질:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="341"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Interactive speed:</source>
         <translation>쌍방향 속도:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="360"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="359"/>
         <source> fps</source>
         <translation> fps</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="367"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="366"/>
         <source>Advanced rendering properties</source>
         <translation>고급 렌더링 속성</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="398"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="397"/>
         <source>Auto-release resources:</source>
         <translation>자동 릴리스 리소스:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="405"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="404"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
         <translation>표시되지 않는 경우 그래픽 메모리에서 볼륨을 즉시 언로드합니다. 메모리 사용량을 줄이지만 전환 볼륨 가시성을 느리게 만듭니다.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="416"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="415"/>
         <source>Volume properties</source>
         <translation>볼륨 속성</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="445"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="444"/>
         <source>Synchronize with Volumes module</source>
         <translation>볼륨 모듈과 동기화</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="458"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="457"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
         <translation>임계값을 사용하지 마세요. 대신 창/수준 범위에서 불투명도 램프를 설정하세요.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="461"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
         <source>Ignore threshold</source>
         <translation>임계값 무시</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="488"/>
+        <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="487"/>
         <source>ROI</source>
         <translation>ROI</translation>
     </message>
@@ -23293,10 +22029,6 @@ This should only used by advanced users who understand the consequences of chang
         <translation>활성 볼륨: </translation>
     </message>
     <message>
-        <source>vtkMRMLVolumeNode</source>
-        <translation type="vanished">vtkMRML볼륨노드</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
         <source>Volume Information</source>
         <translation>볼륨 정보</translation>
@@ -23305,10 +22037,6 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
         <source>Convert to LabelMap:</source>
         <translation>레이블맵으로 전환:</translation>
-    </message>
-    <message>
-        <source>vtkMRMLLabelMapVolumeNode</source>
-        <translation type="vanished">vtkMRML레이블맵볼륨노드</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
@@ -23400,6 +22128,7 @@ This should only used by advanced users who understand the consequences of chang
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="110"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
@@ -23407,6 +22136,11 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="74"/>
         <source>Save File</source>
         <translation>파일 저장</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="99"/>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
@@ -23422,6 +22156,11 @@ This should only used by advanced users who understand the consequences of chang
         <translation>파이썬 실행을 허용하겠습니까?</translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="60"/>
+        <source>Allow the web page to execute code using Slicer&apos;s python?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="62"/>
         <source>Allow</source>
         <translation>허용</translation>
@@ -23433,19 +22172,29 @@ This should only used by advanced users who understand the consequences of chang
     </message>
 </context>
 <context>
+    <name>qSlicerWebWidget</name>
+    <message>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="389"/>
+        <source>bytes/sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="393"/>
+        <source>kB/s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="398"/>
+        <source>MB/s</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerWelcomeModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
         <translation>환영합니다</translation>
-    </message>
-    <message>
-        <source>Load DICOM Data</source>
-        <translation type="vanished">DICOM 데이터 불러오기</translation>
-    </message>
-    <message>
-        <source>Load Data</source>
-        <translation type="vanished">데이터 불러오기</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="82"/>
@@ -23459,17 +22208,9 @@ This should only used by advanced users who understand the consequences of chang
         <translation>슬라이서 확장을 찾고 다운로드하고 설치할 수 있는 &quot;확장 관리자&quot; 마법사를 사용하세요.&lt;br&gt;&lt;br&gt;확장은 하나 이상의 슬라이서 모듈을 함께 묶는 번들 패키지입니다.&lt;br&gt;&lt;br&gt;확장을 설치한 후 관련 모듈을 모듈 선택기에서 사용할 수 있습니다.</translation>
     </message>
     <message>
-        <source> Install Slicer Extensions</source>
-        <translation type="vanished"> 슬라이서 확장 설치</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="127"/>
         <source>Customize Slicer</source>
         <translation>사용자 정의 슬라이서</translation>
-    </message>
-    <message>
-        <source>Explore Loaded Data</source>
-        <translation type="vanished">불러온 데이터 탐색</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="65"/>
