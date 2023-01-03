@@ -7709,7 +7709,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
         <source>Scene Performance</source>
-        <translation type="unfinished">Scene Performance</translation>
+        <translation>Munkaterület Sebesség Teszt</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
@@ -7744,12 +7744,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
         <source>Add (copy of current) node</source>
-        <translation type="unfinished">Add (copy of current) node</translation>
+        <translation>Új elem hozzáadása (a kiválasztott elem másolásával)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="71"/>
         <source>Modify (current) node</source>
-        <translation type="unfinished">Modify (current) node</translation>
+        <translation>Kiválasztott elem módosítása</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="79"/>
@@ -7774,7 +7774,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="134"/>
         <source>Node</source>
-        <translation type="unfinished">Node</translation>
+        <translation>Elem</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="154"/>
@@ -7784,7 +7784,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
         <source>SceneView</source>
-        <translation type="unfinished">SceneView</translation>
+        <translation>MunkaterületNézet</translation>
     </message>
 </context>
 <context>
@@ -7792,22 +7792,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="20"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Slice View Annotations Settings</translation>
+        <translation>Szeletnézet feliratozás beállítások</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="37"/>
         <source>Enable Slice View Annotations</source>
-        <translation type="unfinished">Enable Slice View Annotations</translation>
+        <translation>Szeletnézet feliratozás engedélyezése</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="44"/>
         <source>Corner Text Annotation</source>
-        <translation type="unfinished">Corner Text Annotation</translation>
+        <translation>Nézet feliratozás</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="52"/>
         <source>Active Corners</source>
-        <translation type="unfinished">Active Corners</translation>
+        <translation>Aktív sarkok</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="58"/>
@@ -7832,27 +7832,27 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation type="unfinished">Annotation Display Level:</translation>
+        <translation>Feliratozás részletessége:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="127"/>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="134"/>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="157"/>
         <source>Font Properties</source>
-        <translation type="unfinished">Font Properties</translation>
+        <translation>Betűtípus tulajdonságok</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="163"/>
@@ -7862,12 +7862,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation type="unfinished">Times</translation>
+        <translation>Talpas (Times)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
         <source>Arial</source>
-        <translation type="unfinished">Arial</translation>
+        <translation>Talpatlan (Arial)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="203"/>
@@ -7877,22 +7877,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="236"/>
         <source>DICOM Annotations</source>
-        <translation type="unfinished">DICOM Annotations</translation>
+        <translation>DICOM információk</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation type="unfinished">Show background volume DICOM annotations if foreground volume is non-DICOM.</translation>
+        <translation>Mutassa a háttér kép DICOM információit ha az előtérben nincs DICOM kép</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
         <source>Background DICOM annotations persistence</source>
-        <translation type="unfinished">Background DICOM annotations persistence</translation>
+        <translation>Háttér kép DICOM információinak megjelenítése</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="262"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">Restore Defaults</translation>
+        <translation>Alapértelmezett beállítások visszaállítása</translation>
     </message>
 </context>
 <context>
@@ -7900,52 +7900,52 @@ a = Affine Transform</source>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="17"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Bemeneti adatok</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="23"/>
         <source>Input volume:</source>
-        <translation type="unfinished">Input volume:</translation>
+        <translation>Bemeneti kép:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Pick the input to the algorithm.</translation>
+        <translation>Válassza ki az algoritmus bemeneti adatot.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
         <source>Image threshold:</source>
-        <translation type="unfinished">Image threshold:</translation>
+        <translation>Kép küszöbérték:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
-        <translation type="unfinished">Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</translation>
+        <translation>A kimeneti kép kiszámításához szükséges küszöbérték beállítása. Azok a voxelek, amelyek intenzitása alacsonyabb ennél az értéknél, nullára lesznek állítva.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Kimeneti adatok</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
         <source>Thresholded volume:</source>
-        <translation type="unfinished">Thresholded volume:</translation>
+        <translation>Küszöbözött kép:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Pick the output to the algorithm.</translation>
+        <translation>Válassza ki az algoritmus kimeneti adatot.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
         <source>Inverted volume:</source>
-        <translation type="unfinished">Inverted volume:</translation>
+        <translation>Invertált kép:</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation type="unfinished">Result with inverted threshold will be written into this volume</translation>
+        <translation>Ebbe a képbe kerül az küszöbözött és invertált kép.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
@@ -7955,22 +7955,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
         <source>Invert threshold: </source>
-        <translation type="unfinished">Invert threshold: </translation>
+        <translation>Küszöbözés invertálása: </translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
-        <translation type="unfinished">If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</translation>
+        <translation>Ha be van jelölve, a küszöbérték feletti értékek 0-ra lesznek beállítva, ha nincs jelölve, az alatti értékek 0-ra lesznek beállítva.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Run the algorithm.</translation>
+        <translation>Futtassa az algoritmust.</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Alkalmaz</translation>
     </message>
 </context>
 <context>
@@ -7978,122 +7978,122 @@ a = Affine Transform</source>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
         <source>My custom UI</source>
-        <translation type="unfinished">My custom UI</translation>
+        <translation>Testre szabott felhasználói felületem</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <source>Import files into DICOM database</source>
-        <translation type="unfinished">Import files into DICOM database</translation>
+        <translation>Fájlok importálása a DICOM adatbázisba</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
         <source>    Import DICOM files</source>
-        <translation type="unfinished">    Import DICOM files</translation>
+        <translation>    DICOM fájl importálás</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Show DICOM database browser window</source>
-        <translation type="unfinished">Show DICOM database browser window</translation>
+        <translation>DICOM adatbázis ablak megjelenítése</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation type="unfinished">    Show DICOM database</translation>
+        <translation>    DICOM adatbázis megjelenítés</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
         <source>Loaded data</source>
-        <translation type="unfinished">Loaded data</translation>
+        <translation>Betöltött adatok</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
         <source>DICOM networking</source>
-        <translation type="unfinished">DICOM networking</translation>
+        <translation>DICOM hálózat</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
         <source>Pull data from remote server:</source>
-        <translation type="unfinished">Pull data from remote server:</translation>
+        <translation>Adatok lehívása távoli szerverről:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation type="unfinished">Query and retrieve DICOM data sets from remote server</translation>
+        <translation>DICOM adatok lekérdezése és letöltése a távoli szerverről</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation type="unfinished">Query and retrieve</translation>
+        <translation>Lekérdezés és letöltés</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
         <source>Storage listener:</source>
-        <translation type="unfinished">Storage listener:</translation>
+        <translation>Tárolási kérés kiszolgáló:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
         <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-        <translation type="unfinished">Enable DICOM listening server to receive images (C-Store SCP)</translation>
+        <translation>DICOM képek fogadásának engedélyezése (C-Store SCP)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation type="unfinished">Start storage listener on startup:</translation>
+        <translation>Tárolási szolgáltató automatikus engedélyezése:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
         <source>Automatically start listener on application startup</source>
-        <translation type="unfinished">Automatically start listener on application startup</translation>
+        <translation>Az applikáció indulásakor indítsa el a tárolási szolgáltatót</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
         <source>DICOM database settings</source>
-        <translation type="unfinished">DICOM database settings</translation>
+        <translation>DICOM adatbázis beállítások</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
         <source>Database location:</source>
-        <translation type="unfinished">Database location:</translation>
+        <translation>Adatbázis helye:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
         <source>Auto-hide browser window:</source>
-        <translation type="unfinished">Auto-hide browser window:</translation>
+        <translation>Böngészőablak automatikus elrejtése:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
         <source>Maintenance:</source>
-        <translation type="unfinished">Maintenance:</translation>
+        <translation>Karbantartás:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
         <source>Hide DICOM database browser after data loaded</source>
-        <translation type="unfinished">Hide DICOM database browser after data loaded</translation>
+        <translation>DICOM böngésző elrejtése az adatok betöltése után</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation type="unfinished">Remove all items from the DICOM database if referenced DICOM file is not found on disk.</translation>
+        <translation>Eltávolítja az összes olyan elemet a DICOM-adatbázisból, amelyhez a hivatkozott DICOM-fájl nem található.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
         <source>Remove unavailable data sets</source>
-        <translation type="unfinished">Remove unavailable data sets</translation>
+        <translation>Nem elérhető adatok eltávolítása</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
         <source>Removes all data from the database and all files that were copied into the database during import.</source>
-        <translation type="unfinished">Removes all data from the database and all files that were copied into the database during import.</translation>
+        <translation>Eltávolítja az összes adatot és az összes importálás során az adatbázisba másolt fájlt a DICOM adatbázisból.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
         <source>Remove all data sets</source>
-        <translation type="unfinished">Remove all data sets</translation>
+        <translation>Az összes DICOM adat eltávolítása</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
         <source>DICOM plugins</source>
-        <translation type="unfinished">DICOM plugins</translation>
+        <translation>DICOM bővítmények</translation>
     </message>
 </context>
 <context>
@@ -8101,37 +8101,37 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="17"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paraméterek</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="23"/>
         <source>Input vector volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bemeneti kép:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Pick the input to the algorithm.</translation>
+        <translation>Válassza ki az algoritmus bemeneti adatot.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="51"/>
         <source>Conversion Method: </source>
-        <translation type="unfinished"></translation>
+        <translation>Konverziós módszer: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="58"/>
         <source>Output scalar Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kimeneti kép:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Pick the output to the algorithm.</translation>
+        <translation>Válassza ki az algoritmus kimeneti adatot.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Alkalmaz</translation>
     </message>
 </context>
 <context>
@@ -8139,43 +8139,43 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Képernyőkép</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
-        <translation type="unfinished">Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
+        <translation>Képernyőképet készíthet az összes nézetről, a 3D nézetről vagy a szeletnézetekről. A kép mentéséhez használja az applikáció menüben a Fájl, Mentés parancsot.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation type="unfinished">Scene view</translation>
+        <translation>Munkaterület nézet</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
         <source>Capture and name a scene view.</source>
-        <translation type="unfinished">Capture and name a scene view.</translation>
+        <translation>Munkaterület nézet elnevezése és mentése.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
         <source>Restore view</source>
-        <translation type="unfinished">Restore view</translation>
+        <translation>Nézet visszaállítása</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
         <source>Restore or delete saved scene views.</source>
-        <translation type="unfinished">Restore or delete saved scene views.</translation>
+        <translation>Mentett munkaterület nézetek visszaállítása vagy törlése.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
         <source>SceneView Name</source>
-        <translation type="unfinished">SceneView Name</translation>
+        <translation>Munkaterület nézet neve</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation type="unfinished">SceneView Name:</translation>
+        <translation>Munkaterület nézet neve:</translation>
     </message>
 </context>
 <context>
@@ -8183,117 +8183,117 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>Elvágás</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="23"/>
         <source>Clipping Type:</source>
-        <translation type="unfinished">Clipping Type:</translation>
+        <translation>Vágás típusa:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
         <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-        <translation type="unfinished">When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</translation>
+        <translation>Ha egynél több vágási síkot használunk, ez az opció szabályozza, hogy a pozitív és/vagy negatív terek uniója vagy metszete legyen-e a kivágás eredménye. A modell kiválasztott téren belüli részei megmaradnak, a kijelölésen kívüli részek levágásra kerülnek.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
         <source>Union</source>
-        <translation type="unfinished">Union</translation>
+        <translation>Unió</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
         <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>A vágósíkok által meghatározott pozitív és/vagy negatív terek egyesítése a modell elvágásához.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Metszet</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="57"/>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>A vágósíkok által meghatározott pozitív és/vagy negatív terek metszetének használata a modell elvágásához.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="64"/>
         <source>Red Slice Clipping:</source>
-        <translation type="unfinished">Red Slice Clipping:</translation>
+        <translation>Piros szelettel vágás:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
         <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Vágósíkként használja a piros szeletet. A pozitív oldal a superior irányba, a negatív az inferior irányba mutat. A modellnek a kiválasztott térrészben lévő részét megtartja, a többit levágja.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="121"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="165"/>
         <source>Positive</source>
-        <translation type="unfinished">Positive</translation>
+        <translation>Pozitív</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="84"/>
         <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a piros szelethez képest pozitív térrészben vannak (Superior - fej felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="94"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="138"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="182"/>
         <source>Negative</source>
-        <translation type="unfinished">Negative</translation>
+        <translation>Negatív</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="101"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a piros szelethez képest negatív térrészben vannak (Inferior - láb felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
         <source>Yellow Slice Clipping:</source>
-        <translation type="unfinished">Yellow Slice Clipping:</translation>
+        <translation>Sárga szelettel vágás:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="111"/>
         <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a sárga szelethez képest pozitív térrészben vannak (jobb felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="128"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a sárga szelethez képest pozitív térrészben vannak (jobb felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="145"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a sárga szelethez képest negatív térrészben vannak (bal felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="152"/>
         <source>Green Slice Clipping:</source>
-        <translation type="unfinished">Green Slice Clipping:</translation>
+        <translation>Zöld szelettel vágás:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="155"/>
         <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a zöld szelethez képest pozitív térrészben vannak (anterior felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="172"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a zöld szelethez képest pozitív térrészben vannak (anterior felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="189"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</translation>
+        <translation>Tartsa meg a modell azon részeit, amelyek a zöld szelethez képest negatív térrészben vannak (poszterior felé mutató irányba).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="202"/>
         <source>Keep only whole cells when clipping</source>
-        <translation type="unfinished">Keep only whole cells when clipping</translation>
+        <translation>Egész cellák megtartása vágáskor</translation>
     </message>
 </context>
 <context>
@@ -8307,12 +8307,12 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Látható:</translation>
+        <translation>Láthatóság:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Nézet:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="68"/>
@@ -20640,12 +20640,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
         <source>Configure slice view annotations...</source>
-        <translation type="unfinished">Configure slice view annotations...</translation>
+        <translation>Szeletnézet feliratozás beállítások...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="179"/>
         <source>Configures display of corner annotations and color legend.</source>
-        <translation type="unfinished">Configures display of corner annotations and color legend.</translation>
+        <translation>Feliratok és színskála megjelenítés beállítások.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="185"/>
