@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Points de repère d&apos;entrée</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
@@ -31,12 +31,12 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
         <source>ACPC line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne ACPC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="11"/>
         <source>Midline</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne médiane</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
@@ -14934,7 +14934,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Questions et demandes de fonctionnalités&#x202f;:&lt;/span&gt; visitez le &lt;a href=&quot;https&#x202f;://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;forum Slicer&lt;/span&gt;&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Rapports de bug&#x202f;: &lt;/span&gt;&lt;a href=&quot;https&#x202f;://discourse.slicer.org/new-topic&#x202f;?body=Problem%20report%20for%20[appname-version-platform]&#x202f;:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp&#x202f;;category=support&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt; publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bug sur le &lt;a href=&quot;https&#x202f;://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;traqueur de bug de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Décrivez les étapes qui ont conduit à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Attention - si vous travaillez avec des données de patients&#x202f;:&lt;/span&gt; Vérifiez que les messages de journal ne contiennent pas d&apos;informations permettant d&apos;identifier un patient. Envoyez les messages de journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Questions et demandes de fonctionnalités :&lt;/span&gt; visitez le &lt;a href=&quot;https ://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt;forum Slicer&lt;/span&gt;&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Rapports de bug : &lt;/span&gt;&lt;a href=&quot;https ://discourse.slicer.org/new-topic ?body=Problem%20report%20for%20[appname-version-platform] :%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp ;category=support&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt; publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bug sur le &lt;a href=&quot;https ://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt;traqueur de bug de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Décrivez les étapes qui ont conduit à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Attention - si vous travaillez avec des données de patients :&lt;/span&gt; Vérifiez que les messages de journal ne contiennent pas d&apos;informations permettant d&apos;identifier un patient. Envoyez les messages de journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -18760,7 +18760,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="594"/>
         <source>Exported segments:</source>
-        <translation>Segments exportés&#x202f; :</translation>
+        <translation>Segments exportés  :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
