@@ -52,7 +52,7 @@
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation de la sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
