@@ -13300,7 +13300,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation>Predefinições de Contraste/Nível:</translation>
+        <translation>Predefinições de Janela/Nível:</translation>
     </message>
 </context>
 <context>
@@ -13308,7 +13308,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qMRMLVolumePropertyNodeWidget.ui" line="14"/>
         <source>Volume Property Node</source>
-        <translation type="unfinished">Volume Property Node</translation>
+        <translation>Nó Propriedades da Imagem</translation>
     </message>
 </context>
 <context>
@@ -13363,7 +13363,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="29"/>
         <source>Window/Level:</source>
-        <translation type="unfinished">Contraste e Nível:</translation>
+        <translation>Janelamento/Nível:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="37"/>
@@ -13401,12 +13401,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerAboutDialog.ui" line="20"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished">About 3D Slicer</translation>
+        <translation>Sobre o 3D Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova versão disponível: %1</translation>
     </message>
 </context>
 <context>
