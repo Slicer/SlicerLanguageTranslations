@@ -16068,7 +16068,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="60"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Data Probe</translation>
+        <translation>Sonda de dados</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
@@ -17735,7 +17735,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
         <source>Help &amp;&amp; Acknowledgement</source>
-        <translation>Ajuda &amp;&amp; Agradecimentos</translation>
+        <translation>Ajuda e Agradecimentos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
