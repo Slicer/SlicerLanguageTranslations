@@ -22324,7 +22324,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="219"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation>Malheureusement, le module demande n&apos;est pas accessible dans cette session de Slicer.</translation>
+        <translation>Malheureusement, le module demandé n&apos;est pas accessible dans cette session de Slicer.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="438"/>
