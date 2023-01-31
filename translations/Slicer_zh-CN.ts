@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>ACPC变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
