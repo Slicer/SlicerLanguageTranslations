@@ -80,7 +80,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Additionner des Volumes Scalaires</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
@@ -10236,7 +10236,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
         <source>Range used to threshold scalar values.</source>
-        <translation>Plage utilisée pour appliquer un seuil aux valeurs   scalaires.</translation>
+        <translation>Plage utilisée pour appliquer un seuil aux valeurs scalaires.</translation>
     </message>
 </context>
 <context>
@@ -18670,7 +18670,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="335"/>
         <source>Copy from current segmentation to other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copie de la segmentation actuelle vers un autre nœud (nœud de segmentation pour la copie et nœud de modèle ou d&apos;étiquette pour l&apos;importation/exportation).</translation>
+        <translation>Copie de la segmentation actuelle vers un autre nœud (nœud de segmentation pour la copie et nœud de modèle ou d&apos;étiquette pour l&apos;importation/exportation)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="338"/>
@@ -18680,7 +18680,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
         <source>Copy to current segmentation from other node (Segmentation node for copy and Model or Labelmap node for import/export)</source>
-        <translation type="unfinished">Copie de la segmentation actuelle à partir d&apos;un autre nœud (nœud de segmentation pour la copie et nœud de modèle ou d&apos;étiquette pour l&apos;importation/exportation).</translation>
+        <translation>Copie de la segmentation actuelle à partir d&apos;un autre nœud (nœud de segmentation pour la copie et nœud de modèle ou d&apos;étiquette pour l&apos;importation/exportation)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
