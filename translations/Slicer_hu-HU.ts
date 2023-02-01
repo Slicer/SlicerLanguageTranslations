@@ -21782,7 +21782,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="316"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
-        <translation>A grafikus kártyán a tárfogati megjelenítéshez allokált memória mérete. Az &quot;Alapbeállítások&quot; a beállítások között módosíthatók.</translation>
+        <translation>A grafikus kártyán a térfogati megjelenítéshez allokált memória mérete. Az &quot;Alapbeállítások&quot; a beállítások között módosíthatók.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="326"/>
