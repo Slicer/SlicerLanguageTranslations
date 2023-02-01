@@ -1049,22 +1049,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation type="unfinished"></translation>
+        <translation>O índice na série temporal para o ajuste da imagem fixa 3D. Permitido apenas se o volume de entrada fixo for 4-dimensional</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished"></translation>
+        <translation>O índice na série temporal para o ajuste da imagem fixa 3D. Permitido apenas se o volume de entrada fixo for 4-dimensional</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>O número de níveis de histograma usados para estimativa de métrica de informação mútua.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de pontos de correspondência do histograma usados para estimativa de métrica de informações mútuas.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
