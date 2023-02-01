@@ -21832,7 +21832,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="457"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-        <translation type="unfinished">Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</translation>
+        <translation>N&apos;utilisez pas les valeurs de seuil. Définissez plutôt la rampe d&apos;opacité à partir de la gamme Window/Level.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
