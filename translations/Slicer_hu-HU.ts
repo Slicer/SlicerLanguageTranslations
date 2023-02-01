@@ -22202,7 +22202,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="428"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</translation>
+        <translation>A &quot;Bővítménykezelő&quot; megnyitása, amely lehetővé teszi Slicer bővítmények megkeresését, letöltését, és telepítését.&lt;br&gt;&lt;br&gt;A bővítmény egy olyan csomag, amely egy, vagy több Slicer modult tartalmaz.&lt;br&gt;&lt;br&gt;A bővítmény telepítése után a kapcsolódó modulok a modulok között lesznek kiválaszthatók.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="127"/>
@@ -22212,27 +22212,27 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="65"/>
         <source> Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation> Bővítmények telepítése</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="103"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatok hozzáadása</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="114"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM adatok hozzáadása</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="144"/>
         <source>Explore Added Data</source>
-        <translation type="unfinished"></translation>
+        <translation>A betöltött adatok áttekintése</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="161"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elérhető az alkalmazás új verziója. Kattintson a gombra a letöltési oldalra navigáláshoz.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="190"/>
@@ -22253,48 +22253,48 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="319"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="374"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattintson a gombra a a frissítések ellenőrzéséhez. Kérjük, vegye figyelembe, hogy ennek során anonim használati adatokat rögzítünk.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="322"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="346"/>
         <source>Check for updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések ellenőrzése </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="358"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések rendszeres ellenőrzése. Kérjük, vegye figyelembe, hogy ennek során anonim felhasználási adatokat gyűjtünk. Ha a négyet csak részben van bejelölve, az azt jelenti, hogy automatikusan vagy csak az alkalmazás vagy a bővítmények frissítéseit ellenőrizzük, de nem mind a kettőt. Kattintson a négyzetre, hogy engedélyezze, vagy letiltsa az összes automatikus frissítést.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="361"/>
         <source>Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatikusan</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="377"/>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellenőrzés most</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="386"/>
         <source>Application update: </source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás frissítése </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="405"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="431"/>
         <source>No information is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem áll rendelkezésre információ.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="418"/>
         <source>Extension updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Bővitmények frissítései: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="463"/>
@@ -22304,40 +22304,41 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="112"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések ellenőrzése...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="113"/>
         <source>No updates were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem található frissítés.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="218"/>
         <source>Raising %1 Module:</source>
-        <translation type="unfinished">Raising %1 Module:</translation>
+        <translation>A %1 modul betöltése:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="219"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished">Unfortunately, this requested module is not available in this Slicer session.</translation>
+        <translation>Sajnos ez a modul nem áll rendelkezése ebben a Slicer munkamenetben.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="438"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>A %1 bővítményhez frissítés áll rendelkezésre</numerusform>
+            <numerusform>A %1 bővítményekhez frissítések állnak rendelkezésre</numerusform>
         </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="440"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Használja a Bővítménykezelőt a következő bővítmények frissítéséhez:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="474"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Új alkalmazásverzió érhető el: %1</translation>
     </message>
 </context>
 </TS>
