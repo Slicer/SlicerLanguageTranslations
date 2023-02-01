@@ -8301,7 +8301,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
         <source>Color Legend</source>
-        <translation>Leyenda de Colores</translation>
+        <translation>Leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
@@ -8342,7 +8342,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
         <source>Color name</source>
-        <translation>Nombre de color</translation>
+        <translation>Nombre del color</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="131"/>
@@ -9613,7 +9613,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="85"/>
         <source>Node information</source>
-        <translation>Información de Nodo</translation>
+        <translation>Información del nodo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="100"/>
@@ -11047,7 +11047,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="139"/>
         <source>Segment visibility</source>
-        <translation>Visibilidad de segmento</translation>
+        <translation>Visibilidad del segmento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="140"/>
@@ -13300,7 +13300,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation>Ventana/Valores Preesstablecidos:</translation>
+        <translation>Ventana / Valores Preestablecidos:</translation>
     </message>
 </context>
 <context>
@@ -17745,7 +17745,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation>Agradecimientos</translation>
+        <translation>Reconocimiento</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
