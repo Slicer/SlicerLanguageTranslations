@@ -9640,7 +9640,7 @@ a = Affine Transform</source>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1072"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1291"/>
         <source>Rename current </source>
-        <translation type="unfinished">Rename current </translation>
+        <translation>Renombrar actual </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="304"/>
