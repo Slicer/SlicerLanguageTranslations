@@ -95,7 +95,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -529,22 +529,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation type="unfinished">useMomentsAlign</translation>
+        <translation>useMomentsAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished">useCenterOfHeadAlign</translation>
+        <translation>useCenterOfHeadAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished">useGeometryAlign</translation>
+        <translation>useGeometryAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished">useCenterOfROIAlign</translation>
+        <translation>useCenterOfROIAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
@@ -579,12 +579,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished">BSpline (&gt;27 DOF)</translation>
+        <translation>BSpline (&gt;27 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished">SyN</translation>
+        <translation>SyN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
@@ -725,17 +725,17 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished">NOMASK</translation>
+        <translation>NOMASK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished">ROIAUTO</translation>
+        <translation>ROI AUTO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
@@ -806,13 +806,13 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
@@ -822,22 +822,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished">ushort</translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished">uint</translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished">uchar</translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
@@ -847,22 +847,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished">ResampleInPlace</translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
         <source>BSpline</source>
-        <translation type="unfinished">BSpline</translation>
+        <translation>BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished">WindowedSinc</translation>
+        <translation>Sinc Janelada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished">Hamming</translation>
+        <translation>Hamming</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
@@ -872,17 +872,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
         <source>Welch</source>
-        <translation type="unfinished">Welch</translation>
+        <translation>Welch</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished">Lanczos</translation>
+        <translation>Lanczos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished">Blackman</translation>
+        <translation>Blackman</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
@@ -1024,27 +1024,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação de Saída Reduzida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Transformação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Passe a imagem já transformanda para o filtro de transformação BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished"></translation>
+        <translation>grava as transformações do alinhamento de saída em precisão simples</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
