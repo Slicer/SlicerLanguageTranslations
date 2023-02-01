@@ -21807,7 +21807,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="366"/>
         <source>Advanced rendering properties</source>
-        <translation>Propriétés de rendu volumique</translation>
+        <translation>Propriétés avancées du rendu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="397"/>
@@ -21817,7 +21817,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="404"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation>Décharger immédiatement les volumes de la mémoire graphique lorsqu&apos;ils ne sont pas visibles. Réduis l&apos;utilisation de la mémoire mais ralentit le basculement de la visibilité du volume.</translation>
+        <translation>Décharger immédiatement les volumes de la mémoire graphique lorsqu&apos;ils ne sont pas visibles. Ceci réduit l&apos;utilisation de la mémoire mais ralentit le basculement de la visibilité du volume.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="415"/>
