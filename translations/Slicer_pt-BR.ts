@@ -22009,7 +22009,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="95"/>
         <source>Color table node used to display this volume.</source>
-        <translation>Tabela de cores (LUT) usado para mostras esta imagem.</translation>
+        <translation>Tabela de cores (LUT) usado para mostrar esta imagem.</translation>
     </message>
 </context>
 <context>
