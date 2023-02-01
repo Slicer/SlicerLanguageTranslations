@@ -21553,7 +21553,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Small crosshair with a small gap at the crosshair position.</translation>
+        <translation>Petit réticule avec un petit espace à la position du réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
