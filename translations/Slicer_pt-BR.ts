@@ -21974,7 +21974,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="46"/>
         <source>Only load the selected file. The application will not attempt to look for similar files that can make up the complete volume.</source>
-        <translation>Carregue apenas o arquivo selecionado. O aplicativo não tentará procurar arquivos semelhantes que possam compor o volume completo.</translation>
+        <translation>Carrega apenas o arquivo selecionado. O programa não vai tentar procurar por arquivos semelhantes que possam compor o volume completo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="53"/>
@@ -22009,7 +22009,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="95"/>
         <source>Color table node used to display this volume.</source>
-        <translation>Nó da tabela de cores usado para exibir este volume.</translation>
+        <translation>Tabela de cores (LUT) usado para mostras esta imagem.</translation>
     </message>
 </context>
 <context>
