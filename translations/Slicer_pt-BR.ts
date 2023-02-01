@@ -1069,12 +1069,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>A métrica de custo a ser usada durante a otimização. O padrão é a MMI. As opções são MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality para imagens binárias )</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se &apos;Initializar Modo de Transformação&apos; estiver definido como useCenterOfHeadAlign ou Opção de Mascaramento para ROIAUTO, esse valor definirá quanto será cortado da parte inferior da imagem. A distância de corte é especificada em milímetros em relação ao centro da imagem. Se o valor for 1000 ou maior, nenhum corte será executado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
