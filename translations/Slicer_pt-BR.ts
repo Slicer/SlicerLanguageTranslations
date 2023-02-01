@@ -21936,7 +21936,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="101"/>
         <source>Reduce wood grain artifact to make surfaces appear smoother.</source>
-        <translation>Reduza o artefato de &apos;grão de madeira&apos; para tornar as superfícies mais suaves.</translation>
+        <translation>Reduzir artefatos wood grain para suavizar as superfícies.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="111"/>
@@ -21959,7 +21959,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="33"/>
         <source>LabelMap</source>
-        <translation type="unfinished">LabelMap</translation>
+        <translation>Mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="36"/>
