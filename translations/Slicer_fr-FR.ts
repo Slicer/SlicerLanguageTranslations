@@ -21772,7 +21772,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="275"/>
         <source>Advanced...</source>
-        <translation>Paramètres</translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="303"/>
@@ -22068,7 +22068,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
         <source>Convert to scalar volume:</source>
-        <translation>Convertir en volume scalaire&#xa0;:</translation>
+        <translation>Convertir en volume de scalaires&#xa0;:</translation>
     </message>
 </context>
 <context>
