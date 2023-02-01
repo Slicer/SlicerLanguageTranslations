@@ -1079,119 +1079,120 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este sinalizador só é relevante ao usar o modo ROIAUTO para inicializar as máscaras.  Define o tamanho final da dilatação para capturar um fundo fora da região do tecido.  Foi demonstrado que uma configuração de 10 mm ajuda a regularizar um tipo de alinhamneto BSpline para que haja algumas restrições de fundo para corresponder melhor às bordas da cabeça.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este sinalizador só é relevante ao usar o modo ROIAUTO para inicializar as máscaras.  Define o tamanho do fechamento do furo em mm.  Arredondado para o tamanho de pixel inteiro mais próximo em cada direção. O padrão é usar um tamanho de fechamento de 9 mm.  Para dados de mouse, esse valor pode precisar ser redefinido para 0,9 ou menor.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>O número de voxels amostrados para computação de informações mútuas.  Aumente isso para obter maior acrácia, ao custo de um tempo de computação mais longo.
+OBSERVE que é sugerido usar samplePercentage em vez dessa opção. No entanto, se definido como diferente de zero, numberOfSamples substitui a opção samplePercentage.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Componente rígido da transformada afim estimada. Pode ser usado para registrar rigidamente a imagem em movimento na imagem fixa. NOTA:  Esse valor é substituído se bsplineTransform ou linearTransform estiver definido.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica uma lista de tipos de registro a serem usados.  Os tipos válidos são Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline e SyN.  Especificar mais de um em uma lista separada por vírgulas, inicializará o próximo estágio com os resultados anteriores. Se o sinalizador registrationClass for usado, ele substituirá essa configuração de parâmetro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation type="unfinished"></translation>
+        <translation>(opcional) Nome do arquivo no qual salvar a transformação estimada (opcional). NOTA: Você deve selecionar a opção outputTransform ou outputVolume..</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se este sinalizador estiver ativado, a transformação composta genérica atual, resultante dos estágios de registro linear, é definida para inicializar o processo de registro não linear a seguir. No entanto, pelo comportamento padrão, a imagem em movimento é primeiro distorcida com base na transformação existente antes de ser passada para o filtro de registro BSpline. Isso é feito para acelerar o registro BSpline, reduzindo os cálculos da transformada composta jacobiana.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por padrão, as transformações de registro de saída (seja a transformação composta de saída ou cada componente de transformação) são gravadas no disco com precisão dupla. Se este sinalizador estiver ativado, as transformações de saída serão gravadas em &apos;float&apos; (ponto flutuante, precisão simples). É especialmente importante se a transformação de saída for uma transformação de campo de deslocamento ou uma transformação composta que inclua vários campos de deslocamento.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MIH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
         <source>Debugging Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de depuração</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de Saída para Falha</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar Transformação em Caso de falha</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero de &apos;Threads&apos;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opção de depuração</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirguar Estratégia de Amostrgem</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatório de Arquivo de Registro</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se o ajuste falhar, saia com este código de status.  (Ele pode forçar um status de saída bem-sucedido de (0) se o registro falhar devido ao alcance do número máximo de iterações).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinalize para salvar a transformação final mesmo se o número de iterações for alcançado sem convergência. (Destinado para uso quando --failureExitCode 0 )</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique explicitamente o número máximo de encadeamentos a serem usados. (o padrão é detectado automaticamente)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir mensagens de depuração e produzir resultados intermediários de depuração.  0=OFF, 1=Mínimo, 10=Depuração máxima.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
