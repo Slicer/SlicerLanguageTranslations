@@ -21756,12 +21756,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="221"/>
         <source>Display ROI</source>
-        <translation type="unfinished">Display ROI</translation>
+        <translation>Desplegar la RDI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="242"/>
         <source>Fit to Volume</source>
-        <translation type="unfinished">Fit to Volume</translation>
+        <translation>Ajustar al volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="255"/>
