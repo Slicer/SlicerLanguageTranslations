@@ -15593,7 +15593,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت الملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
@@ -21917,7 +21917,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source>Active Volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم النشط: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
@@ -22090,7 +22090,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="82"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل عينة البيانات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
@@ -22101,27 +22101,27 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="127"/>
         <source>Customize Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>تخصيص مقسم طريقة العرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="65"/>
         <source> Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation> تثبيت الملحقات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="103"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة بيانات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="114"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="144"/>
         <source>Explore Added Data</source>
-        <translation type="unfinished"></translation>
+        <translation>استكشاف البيانات المضافة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="161"/>
@@ -22131,17 +22131,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="190"/>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>ردود الفعل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="233"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>عن</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="276"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>الوثائق والبرامج التعليمية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="319"/>
@@ -22152,12 +22152,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="322"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>مستجدات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="346"/>
         <source>Check for updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق من وجود تحديثات: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="358"/>
@@ -22193,7 +22193,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="463"/>
         <source>Acknowledgment</source>
-        <translation type="unfinished"></translation>
+        <translation>اعتراف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="112"/>
