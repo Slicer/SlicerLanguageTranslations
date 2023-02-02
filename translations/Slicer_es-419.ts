@@ -21670,7 +21670,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="278"/>
         <source>Translate</source>
-        <translation type="unfinished">Translate</translation>
+        <translation>Traducir</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="279"/>
@@ -21680,7 +21680,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="285"/>
         <source>Rotate</source>
-        <translation type="unfinished">Rotate</translation>
+        <translation>Rotar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="286"/>
@@ -21690,7 +21690,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="292"/>
         <source>Interaction options</source>
-        <translation type="unfinished">Interaction options</translation>
+        <translation>Opciones de interacción</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="173"/>
