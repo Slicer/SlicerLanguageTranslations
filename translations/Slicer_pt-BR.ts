@@ -1693,32 +1693,34 @@ OBSERVE que é sugerido usar samplePercentage em vez dessa opção. No entanto, 
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este programa é útil para diminuir a resolução de uma imagem por um fator de escala constante..
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>O desenvolvimento desta ferramenta foi apoiado pelo financiamento dos auxílios NS050568 e NS40068 do National Institute of Neurological Disorders and Stroke e subvenções MH31593, MH40856, do National Institute of Mental Health.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para especificar a imagem a deformar e o espaço da imagem resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem para Transformar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
         <source>Image To Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem para Reescalonar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
@@ -1728,33 +1730,33 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
         <source>Resulting scaled image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da imagem reescalonada resultantes</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Image de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Pixel</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem reescalonada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica o tipo de pixel para as imagens de entrada/saída.  O tipo de pixel &quot;binário&quot; usa um algoritmo modificado pelo qual a imagem é lida como unsigned char, um mapa de distância assinado é criado, o mapa de distância assinado é reamostrado e, em seguida, uma imagem limitada do tipo unsigned char é gravada no disco.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
@@ -1764,47 +1766,47 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>binária</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"/>
         <source>Scaling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros usados para definir a escala da imagem de saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
         <source>Scale Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Fator de Escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>O fator de escala para o espaçamento da imagem.</translation>
     </message>
 </context>
 <context>
@@ -1812,43 +1814,43 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotação (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Lê uma imagem, escreve a mesma imagem com a matriz de rotação de identidade mais um arquivo de transformação ITK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem para Transformar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de Transformação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem Transformada Resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de arquivo para o arquivo de transformação</translation>
     </message>
 </context>
 <context>
@@ -1856,48 +1858,49 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversão de Transformação (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
         <source>Convert ITK transforms to higher order transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Converte transformações ITK em transformações de ordem superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
         <source>Transform File Name To Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo da Transformação para Conversão</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de referência</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
         <source>Output displacement field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo de deslocamento de saída</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished"></translation>
+        <translation>O Nome do Arquivo de Transformação para Salvar como ConvertedTransform</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
@@ -1907,13 +1910,13 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
         <source>Precision type of the output transform. It can be either single precision or double precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de precisão da transformação de saída. Pode ser de precisão simples ou precisão dupla</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"/>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation>Afim</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
@@ -1924,27 +1927,27 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
         <source>VersorRigid</source>
-        <translation type="unfinished"></translation>
+        <translation>VersorRigid</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ScaleVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ScaleSkewVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DisplacementField</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesmo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
@@ -1957,105 +1960,107 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume Escalar Lançado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transmitir um volume para um determinado tipo de dados.
+Use por sua conta e risco ao converter um volume de entrada em um tipo de precisão inferior!
+Permite a conversão para o mesmo tipo do volume de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiado pelos National Institutes of Health por meio do NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada, o volume a ser lançado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de saída, convertido para o novo tipo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações do Filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de dados escalar para o novo volume de saída.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UnsignedChar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>Char</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>Short</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedShort</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Int</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>UnsignedInt</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>Double</translation>
     </message>
 </context>
 <context>
@@ -2063,77 +2068,77 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
         <source>CheckerBoard Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro Tabuleiro Damas (CheckerBoard)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria um volume quadriculado de dois volumes. O volume de saída mostrará as duas entradas alternadas de acordo com o padrão verificador fornecido pelo usuário. Este filtro é frequentemente usado para comparar os resultados do registro da imagem. Observe que a segunda entrada é reamostrada para a mesma origem, espaçamento e direção antes de ser composta com a primeira entrada. O tipo escalar do volume de saída será o mesmo que o tipo escalar da imagem de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho é parte do National Alliance for Medical Image Computing (NAMIC), financiado pelo National Institutes of Health através da trilha do NIH para prsquisas médicas, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
         <source>CheckerBoard Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros CheckerBoard</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
         <source>Parameters for the checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramêtros para o checkerboard</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
         <source>Checker Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão do Tabuleiro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished"></translation>
+        <translation>O padrão da entrada 1 e da entrada 2 na imagem de saída. O usuário pode especificar o número de verificadores em cada dimensão. Um checkerPattern de 2,2,1 significa que as imagens irão alternar em cada outro verificador nas duas primeiras dimensões. O mesmo padrão será usado na 3ª dimensão.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
         <source>First Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeiro Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"/>
         <source>Second Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo Volume de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída filtrada</translation>
     </message>
 </context>
 <context>
@@ -2141,82 +2146,82 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar uma série DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria uma série DICOM a partir de um volume Slicer. O usuário pode especificar valores para tags DICOM selecionadas na IU. Dado o número de tags da série DICOM, é impossível expor todas as tags na IU. Portanto, apenas tags importantes podem ser definidas pelo usuário.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo de comando foi derivado do Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada a ser reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
         <source>Output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
         <source>DICOM filename prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefixo do nome de arquivo DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
         <source>DICOM file number format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de número de arquivo DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation type="unfinished"></translation>
+        <translation>Reverter Fatias</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar Compressão</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações do Filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>Output Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Saída:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
