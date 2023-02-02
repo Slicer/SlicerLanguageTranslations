@@ -16147,7 +16147,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="294"/>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Megjelenés</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="312"/>
@@ -16318,7 +16318,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="416"/>
         <source>Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Adat mentése</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="508"/>
@@ -16348,7 +16348,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="530"/>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulok panel beállításainak megnyitása, ahol Kedvenc modulok definiálhatók.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="539"/>
@@ -16735,7 +16735,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1184"/>
         <source>Show Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Státuszsor megjelenítése</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="167"/>
@@ -16752,22 +16752,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="165"/>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modul panel megjelenítése</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="443"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Python konzol</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="466"/>
         <source>&amp;Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Python konzol</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="467"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="unfinished"></translation>
+        <translation>Python konzol ablak megjelenítése az alkalmazás adatainak, felhasználói felületének, és belső tartalmainak vezérlésére</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="469"/>
@@ -16777,7 +16777,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="469"/>
         <source>Ctrl+`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+`</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="628"/>
@@ -17161,23 +17161,23 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="266"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Láthatóság</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="294"/>
         <source>Lock</source>
-        <translation type="unfinished">Lock</translation>
+        <translation>Zárolás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="322"/>
         <source>Selected</source>
-        <translation type="unfinished">Selected</translation>
+        <translation>Kijelölt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>Zárolt</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
@@ -17187,77 +17187,77 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Leírás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozíció</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="368"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="372"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Kivágás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="378"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="382"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Másolás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="388"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="392"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Beillesztés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1827"/>
         <source>Delete All</source>
-        <translation type="unfinished">Delete All</translation>
+        <translation>Összes törlése</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3183"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation>Nincs mérés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3270"/>
         <source>Export control points coordinates and properties to table.</source>
-        <translation type="unfinished">Export control points coordinates and properties to table.</translation>
+        <translation>Kontrollpont koordináták és tulajdonságok exportálása táblázatba.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
         <source>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
-        <translation type="unfinished">Import control points coordinates and properties from table node.
-Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</translation>
+        <translation>Kontrollpont koordináták és tulajdonságok importálása táblázat elemből.
+Táblázat oszlop nevek: címke, r, a, s, (vagy l, p, s), definiált, kijelölt, látható, zárolt, leírás.</translation>
     </message>
 </context>
 <context>
@@ -17519,12 +17519,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="64"/>
         <source>Select Model file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Válasszon Modell fájl(oka)t</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="78"/>
         <source>Select a Model directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Válasszon Model mappát</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModelsDialog.cxx" line="111"/>
@@ -17663,62 +17663,62 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="192"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategória:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="231"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Közreműködők:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="238"/>
         <source>Internal name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Belső elnevezés:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="242"/>
         <source>Core</source>
-        <translation type="unfinished"></translation>
+        <translation>Mag</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="246"/>
         <source>Python Scripted Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>Python szkriptelt betölthető állomány</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="250"/>
         <source>C++ Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>C++ betölthető állomány</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="254"/>
         <source>Command-Line Interface (CLI)</source>
-        <translation type="unfinished"></translation>
+        <translation>Parancssori interfész (CLI)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="258"/>
         <source>built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>beépített</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="260"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Típus:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="265"/>
         <source>Require:</source>
-        <translation type="unfinished"></translation>
+        <translation>Követelmény:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="269"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hely:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
         <source>%1 module is not loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 modul nem került betöltésre</translation>
     </message>
 </context>
 <context>
@@ -17746,7 +17746,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Közreműködők:</translation>
     </message>
 </context>
 <context>
@@ -17759,7 +17759,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
         <source>Module Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul kereső</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="111"/>
@@ -17823,7 +17823,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="161"/>
         <source>Requires:</source>
-        <translation type="unfinished"></translation>
+        <translation>Követelmény:</translation>
     </message>
 </context>
 <context>
@@ -18234,12 +18234,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="648"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>Válasszon formátumot</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="674"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kimeneti mappa</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="725"/>
@@ -18298,7 +18298,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Előre beállított értékek:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
@@ -18308,7 +18308,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
         <source>Select the color mapping for scalar volumes to colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalár értékek színekre leképezési módjának kiválasztása.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
@@ -18318,12 +18318,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha be van jelölve, a szelet nézetek a bemeneti képek lineáris interpolált szeleteit jelenítik meg. Ha nincs bejelölve, akkor legközelebbi szomszéd mintavételezés történik.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjeleníti a képpontok számát (y tengely) a kép intenzitásának (x tengely) függvényében az aktuális ablak/szint és a küszöbérték leképezéssel a háttérben.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
@@ -18387,25 +18387,25 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="45"/>
         <source>SceneViews</source>
-        <translation type="unfinished">SceneViews</translation>
+        <translation>Színtér nézetek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="179"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="180"/>
         <source>Restore</source>
-        <translation type="unfinished">Restore</translation>
+        <translation>Visszaállítás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="185"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="186"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="191"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="192"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Törlés</translation>
     </message>
 </context>
 <context>
@@ -18419,12 +18419,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Medical Reality csomag</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer adatcsomag</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
@@ -18470,7 +18470,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1229"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha be van jelölve, a kattintási pozíció a kör vagy téglalap középpontját adja meg, egyébként a kattintási pozíció az alakzat határán lesz.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
@@ -18530,7 +18530,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1274"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás a látható szegmensekre:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
@@ -18616,7 +18616,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="135"/>
         <source>Go to Segment Editor module</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugrás a Szegmensszerkesztő modulba</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="138"/>
@@ -18851,37 +18851,37 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="786"/>
         <source>Failed to copy segment</source>
-        <translation type="unfinished">Failed to copy segment</translation>
+        <translation>Szegmentum másolása sikertelen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="795"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Átalakítás sikertelen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1005"/>
         <source>Failed to export segments to labelmap</source>
-        <translation type="unfinished">Failed to export segments to labelmap</translation>
+        <translation>Szegmentumok címkeképpé alakítása sikertelen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1021"/>
         <source>Failed to export segments to models</source>
-        <translation type="unfinished">Failed to export segments to models</translation>
+        <translation>Szegmentumok modellé alakítása sikertelen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1080"/>
         <source>Failed to import labelmap volume</source>
-        <translation type="unfinished">Failed to import labelmap volume</translation>
+        <translation>Címkekép importálása sikertelen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1091"/>
         <source>Failed to import model node</source>
-        <translation type="unfinished">Failed to import model node</translation>
+        <translation>Modell elem importálása sikertelen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1102"/>
         <source>Failed to import models</source>
-        <translation type="unfinished">Failed to import models</translation>
+        <translation>Modellek importálása sikertelen</translation>
     </message>
 </context>
 <context>
@@ -19387,17 +19387,17 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="75"/>
         <source>Enable/Disable developer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztői mód engedélyezése/letiltása</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="79"/>
         <source>Preserve CLI module input/output files</source>
-        <translation type="unfinished"></translation>
+        <translation>Parancssori (CLI) modul bemeneti/kimeneti fájljainak megőrzése</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="87"/>
         <source>Enable/Disable QtTesting</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt tesztelés engedélyezése/letiltása</translation>
     </message>
 </context>
 <context>
@@ -19410,32 +19410,32 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
         <source>Enable Extensions Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bővítménykezelő engedélyezése:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="44"/>
         <source>Hide Extensions Manager from the application user interface. Automatic updates are performed even if the Extensions Manager is disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Bővítménykezelő elrejtése az alkalmazás felhasználói felületéről. Az automatikus frissítések akkor is végrehajtódnak, ha a Bővítménykezelő le van tiltva.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések automatikus ellenőrzése:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="64"/>
         <source>Periodically check the extensions server for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Bővítmény kiszolgáló időszakos ellenőrzése</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="77"/>
         <source>Automatically install updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések automatikus telepítése:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="84"/>
         <source>If updates are found then install them automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha vannak frissítések, automatikusan telepítésre kerülnek</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="97"/>
@@ -19470,7 +19470,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="164"/>
         <source>Automatically install dependencies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Függőségek automatikus telepítése:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="171"/>
@@ -19480,22 +19480,22 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="91"/>
         <source>Enable/Disable extensions manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Bővítménykezelő engedélyezése/letiltása</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="103"/>
         <source>Automatic update check</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések automatikus ellenőrzése</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="105"/>
         <source>Automatic update install</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések automatikus telepítése</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsExtensionsPanel.cxx" line="107"/>
         <source>Automatic install of dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Függőségek automatikus telepítése</translation>
     </message>
 </context>
 <context>
@@ -19592,48 +19592,48 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítések automatikus ellenőrzése:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="204"/>
         <source>Periodically check for available application updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendelkezésre álló alkalmazás frissítések időszakos ellenőrzése</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="217"/>
         <source>Update server URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítési kiszolgáló URL címe:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="224"/>
         <source>Address of the server that provides information on latest available application version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Annak a kiszolgálónak a címe, amely információt ad az alkalmazás legfrissebb elérhető verziójáról.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="109"/>
         <source>Application update server URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás frissítési kiszolgáló URL címe</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="157"/>
         <source>Default scene path</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett színtér elérési útvonal</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="188"/>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="192"/>
         <source>Documentation location</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentáció helye</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="196"/>
         <source>Enable/Disable languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyelvek engedélyezése/kikapcsolása</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="200"/>
         <source>Max. number of &apos;Recent&apos; menu items</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximális elemszám a &apos;Legutóbbiak&apos; menüben</translation>
     </message>
 </context>
 <context>
@@ -19651,7 +19651,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="68"/>
         <source>Enable/Disable Internationalization</source>
-        <translation type="unfinished"></translation>
+        <translation>Nemzetköziesítés engedélyezése/letiltása</translation>
     </message>
 </context>
 <context>
@@ -19833,7 +19833,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kedvenc modulok:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Húzzon ide modulokat&lt;br/&gt;a &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modulok&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; listáról&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
@@ -19873,12 +19873,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
         <source>Additional module paths</source>
-        <translation type="unfinished"></translation>
+        <translation>További modul elérési útvonalak</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
         <source>Modules to ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Figyelmen kívül hagyandó modulok</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
@@ -19896,7 +19896,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Python konzol</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
@@ -19918,17 +19918,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="63"/>
         <source>Log level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naplózási szint:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="70"/>
         <source>Log messages at this level and above are displayed in the Python console.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezen és magasabb szinten lévő naplóüzenetek megjelenítése a Python konzolon.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Display Python console in a window that can be placed inside the main window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Python konzol megjelenítése a főablakon belül elhelyezhető ablakban.</translation>
     </message>
 </context>
 <context>
@@ -20098,12 +20098,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="102"/>
         <source>Additional style paths</source>
-        <translation type="unfinished"></translation>
+        <translation>További stílus elérési útvonalak</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="112"/>
         <source>Current style</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuális stílus</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
@@ -20161,7 +20161,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="169"/>
         <source>Invalid format</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvénytelen formátum</translation>
     </message>
 </context>
 <context>
@@ -20305,22 +20305,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
         <source>Multisampling (MSAA)</source>
-        <translation type="unfinished"></translation>
+        <translation>Többszörös mintavételezés (MSAA)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="95"/>
         <source>Slice view orientation marker type</source>
-        <translation type="unfinished"></translation>
+        <translation>Szeletnézet orientáció jelelölő típusa</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="101"/>
         <source>Slice view orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>Szeletnézet orientáció jelölő mérete</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="107"/>
         <source>Slice view ruler type</source>
-        <translation type="unfinished"></translation>
+        <translation>Szeletnézet vonalzó típusa</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
@@ -20335,22 +20335,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
         <source>Default slice view orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett szeletnézet orientáció</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
         <source>3D view cube visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>3D nézet kocka láthatósága</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="124"/>
         <source>3D view axis label visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>3D nézet tengely címke láthatósága</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="129"/>
         <source>3D view orientation marker type</source>
-        <translation type="unfinished"></translation>
+        <translation>3D nézet orientáció jelölő típusa</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
@@ -21450,32 +21450,32 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
         <source>Slice Controllers</source>
-        <translation type="unfinished">Slice Controllers</translation>
+        <translation>Képszelet vezérlők</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="28"/>
         <source>3D View Controllers</source>
-        <translation type="unfinished">3D View Controllers</translation>
+        <translation>3D nézet vezérlők</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="36"/>
         <source>Plot View Controllers</source>
-        <translation type="unfinished">Plot View Controllers</translation>
+        <translation>Függvénymegjelenítő vezérlők</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="47"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Haladó</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation type="unfinished">Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</translation>
+        <translation>Nézet választása az aktuális színtérből. Minden elem egy adott vezérlőelemnek felel meg. A nézet elemek 3D megjelenítő vezérlőelemekkel vannak összekapcsolva. A Függvénynézet elem Függvényábrázoló vezérlőelemmel. Képszeletek (Vörös, Zöld, Kék) 2D megjelenítő vezérlőelemekkel.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
         <source>View Node:</source>
-        <translation type="unfinished">View Node:</translation>
+        <translation>Nézet elem:</translation>
     </message>
 </context>
 <context>
@@ -22018,7 +22018,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
-        <translation type="unfinished">Volumes</translation>
+        <translation>Térfogatképek</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
@@ -22028,7 +22028,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
         <source>Volume Information</source>
-        <translation type="unfinished">Volume Information</translation>
+        <translation>Kép információ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
@@ -22043,27 +22043,27 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="139"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>Átalakítás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Megjelenítés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Színmagyarázat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="131"/>
         <source>Convert to label map:</source>
-        <translation type="unfinished">Convert to label map:</translation>
+        <translation>Címkeképpé alakítás:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
         <source>Convert to scalar volume:</source>
-        <translation type="unfinished">Convert to scalar volume:</translation>
+        <translation>Skalár képpé alakítás:</translation>
     </message>
 </context>
 <context>
