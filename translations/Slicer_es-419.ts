@@ -21731,7 +21731,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="137"/>
         <source>Property:</source>
-        <translation type="unfinished">Property:</translation>
+        <translation>Propiedades:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="159"/>
@@ -21746,7 +21746,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="199"/>
         <source>Crop:</source>
-        <translation type="unfinished">Crop:</translation>
+        <translation>Cortar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="211"/>
@@ -21756,7 +21756,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="221"/>
         <source>Display ROI</source>
-        <translation>Desplegar la RDI</translation>
+        <translation>Visualizar la RDI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="242"/>
@@ -21766,7 +21766,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="255"/>
         <source>Rendering:</source>
-        <translation type="unfinished">Rendering:</translation>
+        <translation>Renderizado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="275"/>
@@ -21841,7 +21841,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="487"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>RDI</translation>
     </message>
 </context>
 <context>
