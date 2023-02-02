@@ -4056,12 +4056,12 @@ Os métodos de difusão anisotrópica reduzem o ruído (ou detalhes indesejados)
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>A condutância controla a sensibilidade do termo de condutividade. Como regra geral, quanto menor o valor, mais fortemente o filtro preserva as bordas. Um valor alto causará difusão (suavização) entre as bordas. Observe que o número de iterações controla a quantidade de suavização feita dentro de regiões delimitadas por bordas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quanto mais iterações, mais suavização. Cada iteração leva a mesma quantidade de tempo. Se levar 10 segundos para uma iteração, levará 100 segundos para 10 iterações. Observe que a condutância controla o quanto cada iteração suaviza nas arestas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
