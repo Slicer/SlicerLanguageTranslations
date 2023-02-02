@@ -22110,7 +22110,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="53"/>
         <source>Load...</source>
-        <translation type="unfinished">Load...</translation>
+        <translation>Cargando...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="55"/>
@@ -22206,7 +22206,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="428"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</translation>
+        <translation>Utilice el asistente &quot;Administrador de Extensiones&quot; que permite encontrar, descargar e instalar extensiones de Slicer.&lt;br&gt;&lt;br&gt;Una extensión es un paquete que conjunta uno o más módulos de Slicer.&lt;br&gt;&lt;br&gt;Tras instalar una extensión, los módulos asociados estarán disponibles en el selector de módulos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="127"/>
@@ -22221,22 +22221,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="103"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir Datos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="114"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir Datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="144"/>
         <source>Explore Added Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorar Datos Añadidos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="161"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una nueva versión de la aplicación está disponible. Clic en el botón para ir a la página de descarga.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="190"/>
