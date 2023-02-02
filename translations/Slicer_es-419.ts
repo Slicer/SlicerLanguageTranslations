@@ -16,32 +16,32 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
         <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcadores anatómicos que se utilizarán para calcular la transformada ACPC.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
         <source>ACPC line</source>
-        <translation type="unfinished"></translation>
+        <translation>línea ACPC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="11"/>
         <source>Midline</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea media</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
         <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea ACPC, que conecta un punto en la comisura anterior con un punto en la comisura posterior.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
