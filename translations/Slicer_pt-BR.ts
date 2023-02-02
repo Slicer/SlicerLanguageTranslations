@@ -12896,46 +12896,46 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="988"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1004"/>
         <source>Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</source>
-        <translation type="unfinished">Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</translation>
+        <translation>Porcentagem de deslocamento aplicado aos pontos da grade. 100% significa que a grade é deformada com o deslocamento real.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1029"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1039"/>
         <source>Thickness of the gridlines in the 3D view</source>
-        <translation type="unfinished">Thickness of the gridlines in the 3D view</translation>
+        <translation>Espessura das linhas de grade na vista 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1032"/>
         <source>3D gridline diameter:</source>
-        <translation type="unfinished">3D gridline diameter:</translation>
+        <translation>Diâmetro das linhas de grade 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1070"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1080"/>
         <source>Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</source>
-        <translation type="unfinished">Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</translation>
+        <translation>Distância entre os pontos de amostragem ao longo das linha de grade. Valores menores resultam em linhas de grade que seguem mais próximas dos vetores de deslocamento reais, mas requerem mais tempo de processamento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1111"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1121"/>
         <source>Show non-warped grid in the slice view</source>
-        <translation type="unfinished">Show non-warped grid in the slice view</translation>
+        <translation>Mostrar grade não deformada na vista da fatia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1114"/>
         <source>Show original grid:</source>
-        <translation type="unfinished">Show original grid:</translation>
+        <translation>Mostrar grade original:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1143"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1153"/>
         <source>Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</source>
-        <translation type="unfinished">Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</translation>
+        <translation>Valores que definem as iso-linhas e iso-superfícies para contorno. Valores são separados por espaços.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1146"/>
         <source>Levels (mm):</source>
-        <translation type="unfinished">Levels (mm):</translation>
+        <translation>Níveis (mm):</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1162"/>
@@ -12946,18 +12946,18 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1172"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1188"/>
         <source>Sampling distance for discretizing the displacement field. Lower values result in more accurate contours, but require more computation time.</source>
-        <translation type="unfinished">Sampling distance for discretizing the displacement field. Lower values result in more accurate contours, but require more computation time.</translation>
+        <translation>Distância de amostragem para discretizar o campo de deslocamento. Valores menores resultam em contornos mais acurados, mas requerem mais tempo de computação.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1219"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1229"/>
         <source>Opacity of the contour isosurfaces in the 3D view</source>
-        <translation type="unfinished">Opacity of the contour isosurfaces in the 3D view</translation>
+        <translation>Opacidade do contorno das iso-superfícies na vista 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1222"/>
         <source>3D opacity:</source>
-        <translation type="unfinished">3D opacity:</translation>
+        <translation>Opacidade 3D:</translation>
     </message>
 </context>
 <context>
@@ -12965,7 +12965,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="14"/>
         <source>Transform Information</source>
-        <translation type="unfinished">Transform Information</translation>
+        <translation>Informação da transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="23"/>
@@ -12976,7 +12976,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="48"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="85"/>
         <source>No information available.</source>
-        <translation type="unfinished">No information available.</translation>
+        <translation>Informação não disponível.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="60"/>
@@ -12986,7 +12986,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
         <source>ViewerRAS</source>
-        <translation type="unfinished">ViewerRAS</translation>
+        <translation>VisualizadorDAS</translation>
     </message>
 </context>
 <context>
@@ -12994,67 +12994,67 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="14"/>
         <source>Transform</source>
-        <translation type="unfinished">Transform</translation>
+        <translation>Transformação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="26"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>Translação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="32"/>
         <source>Left-Right</source>
-        <translation type="unfinished">Left-Right</translation>
+        <translation>Esquerda-Direita</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="35"/>
         <source>LR</source>
-        <translation type="unfinished">LR</translation>
+        <translation>ED</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="48"/>
         <source>L&lt;--&gt;R</source>
-        <translation type="unfinished">L&lt;--&gt;R</translation>
+        <translation>E&lt;--&gt;D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="64"/>
         <source>Posterior-Anterior</source>
-        <translation type="unfinished">Posterior-Anterior</translation>
+        <translation>Posterior-Anterior</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="67"/>
         <source>PA</source>
-        <translation type="unfinished">PA</translation>
+        <translation>PA</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="80"/>
         <source>P&lt;--&gt;A</source>
-        <translation type="unfinished">P&lt;--&gt;A</translation>
+        <translation>P&lt;--&gt;A</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="99"/>
         <source>Inferior-Superior</source>
-        <translation type="unfinished">Inferior-Superior</translation>
+        <translation>Inferior-Superior</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="102"/>
         <source>IS</source>
-        <translation type="unfinished">IS</translation>
+        <translation>IS</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="115"/>
         <source>I&lt;--&gt;S</source>
-        <translation type="unfinished">I&lt;--&gt;S</translation>
+        <translation>I&lt;--&gt;S</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="167"/>
         <source>Min</source>
-        <translation type="unfinished">Min</translation>
+        <translation>Mín</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="219"/>
         <source>Max</source>
-        <translation type="unfinished">Max</translation>
+        <translation>Máx</translation>
     </message>
 </context>
 <context>
@@ -13062,17 +13062,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="110"/>
         <source>Rename</source>
-        <translation type="unfinished">Rename</translation>
+        <translation>Renomear</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="117"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="123"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Edit properties...</translation>
+        <translation>Editar propriedades...</translation>
     </message>
 </context>
 <context>
@@ -13080,22 +13080,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="14"/>
         <source>UnitWidget</source>
-        <translation type="unfinished">UnitWidget</translation>
+        <translation>Ferramenta de unidades</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="23"/>
         <source>Preset</source>
-        <translation type="unfinished">Preset</translation>
+        <translation>Predefinição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="53"/>
         <source>Select a preset</source>
-        <translation type="unfinished">Select a preset</translation>
+        <translation>Selecionar uma predefinição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="60"/>
         <source>Prefix</source>
-        <translation type="unfinished">Prefix</translation>
+        <translation>Prefixo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="67"/>
@@ -13115,7 +13115,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"/>
         <source>Suffix</source>
-        <translation type="unfinished">Suffix</translation>
+        <translation>Sufixo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="86"/>
@@ -13133,7 +13133,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
         <source>Maximum</source>
-        <translation type="unfinished">Maximum</translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="107"/>
@@ -13153,7 +13153,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="131"/>
         <source>Precision</source>
-        <translation type="unfinished">Precision</translation>
+        <translation>Precisão</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="138"/>
@@ -13173,7 +13173,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="159"/>
         <source>Minimum</source>
-        <translation type="unfinished">Minimum</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="166"/>
@@ -13193,22 +13193,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="190"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="207"/>
         <source>Quantity</source>
-        <translation type="unfinished">Quantity</translation>
+        <translation>Quantidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="221"/>
         <source>Coefficient</source>
-        <translation type="unfinished">Coefficient</translation>
+        <translation>Coeficiente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="244"/>
         <source>Offset</source>
-        <translation type="unfinished">Offset</translation>
+        <translation>Deslocamento</translation>
     </message>
 </context>
 <context>
@@ -13216,12 +13216,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="372"/>
         <source>Restore view layout</source>
-        <translation type="unfinished">Restore view layout</translation>
+        <translation>Restaura a organização das vista</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="377"/>
         <source>Maximize view</source>
-        <translation type="unfinished">Maximize view</translation>
+        <translation>Maximiza a vista</translation>
     </message>
 </context>
 <context>
@@ -13247,7 +13247,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
         <source>Image Spacing:</source>
-        <translation>Espaçamento de Imagem:</translation>
+        <translation>Espaçamento da Imagem:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="77"/>
@@ -21492,7 +21492,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
         <source>View Node:</source>
-        <translation type="unfinished">View Node:</translation>
+        <translation>Nó de visualização:</translation>
     </message>
 </context>
 <context>
@@ -22050,7 +22050,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
         <source>Convert to LabelMap:</source>
-        <translation>Converter para Mapa de Etiquetas:</translation>
+        <translation>Converter para Mapa de Rótulos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
@@ -22075,7 +22075,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="131"/>
         <source>Convert to label map:</source>
-        <translation>Converter para mapa de etiquetas:</translation>
+        <translation>Converter para mapa de rótulos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
