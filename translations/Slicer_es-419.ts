@@ -21854,7 +21854,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
         <source>Preset:</source>
-        <translation>Preajustar:</translation>
+        <translation>Preajustar renderizado de volumen:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
@@ -21878,7 +21878,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="14"/>
         <source>Volume Rendering Settings</source>
-        <translation type="unfinished">Volume Rendering Settings</translation>
+        <translation>Configuración de renderizado de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="23"/>
