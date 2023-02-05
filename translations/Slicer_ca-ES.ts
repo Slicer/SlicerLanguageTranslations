@@ -503,22 +503,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació d&apos;inicialització</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode iniciar transformació</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació que s&apos;ha d&apos;aplicar a la imatge en moviment per a inicialitzar el registre.  Això només es pot utilitzar si el mode iniciar transformació està en OFF.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Determina com inicialitzar el centre de transformació.  useMomentsAlign assumeix que el centre de massa de les imatges representen estructures similars.  useCenterOfHeadAlign intenta utilitzar la part superior del cap i la forma del coll per conduir un centre d&apos;estimació de massa. useGeometryAlign on assumeix que el centre de la xarxa voxel de les imatges representen estructures similars.  Off suposa que l&apos;espai físic de les imatges és proper.  Aquest indicador és mútuament excloent amb la transformació d&apos;inicialització.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -770,7 +770,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode d&apos;interpolació</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
@@ -1073,17 +1073,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si el mode iniciar transformació s&apos;estableix a useCenterOfHeadAlign o l&apos;opció d&apos;emmascarament és ROIAUTO, aquest valor defineix la quantitat que es retalla de la part inferior de la imatge. La distància de tall s&apos;especifica en mil·límetres, en relació al centre de la imatge. Si el valor és 1.000 o més, no es realitza cap tall.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest indicador només és rellevant quan s&apos;utilitza el mode ROIAUTO per a inicialitzar màscares. Defineix la mida final de la dilatació per a capturar una mica de fons fora de la regió del teixit. S&apos;ha demostrat que una configuració de 10 mm ajuda a regularitzar un tipus de registre BSpline de manera que hi ha algunes restriccions de fons per adaptar-se millor a les vores del cap.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest indicador només és rellevant quan s&apos;utilitza el mode ROIAUTO per a inicialitzar màscares.  Defineix la mida de tancament del forat en mm.  S&apos;arrodoneix a la mida de píxel sencera més propera en cada direcció. El valor per defecte és utilitzar una mida de tancament de 9 mm.  Per a les dades del ratolí, aquest valor pot ser que s&apos;hagi de restablir a 0,9 o més petit.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
@@ -1109,7 +1109,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si aquest indicador està en ON, la transformada composta genèrica actual, resultant de les etapes de registre lineal, s&apos;estableix per a inicialitzar el procés de registre no lineal següent. Tanmateix, per defecte, la imatge en moviment es deforma primer en funció de la transformació existent abans de passar al filtre de registre BSpline. Es fa per accelerar el registre de BSpline reduint els càlculs de la transformada composta jacobiana.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
@@ -1372,7 +1372,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest indicador només és rellevant quan s&apos;utilitza el mode ROIAUTO per a inicialitzar màscares.  Defineix la mida final de dilatació per a capturar una mica de fons fora de la regió del teixit.  A la configuració de 10 mm s&apos;ha demostrat que ajuda a regularitzar un tipus de registre BSpline de manera que hi hagi algunes restriccions de fons que coincideixin millor amb les vores del cap.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
@@ -2879,7 +2879,8 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
         <source>Input DWI volume -- not used for DicomToNrrd mode.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Volum DWI d&apos;entrada -- no s&apos;utilitza per al mode DicomToNrrd.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
