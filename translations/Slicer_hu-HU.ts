@@ -17172,7 +17172,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="322"/>
         <source>Selected</source>
-        <translation>Kijelölt</translation>
+        <translation>Kiválasztott</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
@@ -18878,7 +18878,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1021"/>
         <source>Failed to export segments to models</source>
-        <translation>Szegmentumok modellé alakítása sikertelen</translation>
+        <translation>Szegmensek modellé alakítása sikertelen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1080"/>
