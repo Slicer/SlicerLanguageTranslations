@@ -4573,82 +4573,82 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>O filtro suaviza um mapa de rótulos binário. Com um mapa de rótulos como entrada, este filtro executa um algoritmo de anti-serrilhamento seguido por um algoritmo de suavização gaussiana. A saída é um mapa de rótulos suavizado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149. Este filtro é baseado no trabalho desenvolvido na Universidade de Utah e implementado pela GE Research.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
         <source>Label Selection Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetro de seleção de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
         <source>Parameters for selecting the label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para selecionar o rótulo para suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
         <source>Label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo para suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo para suavizar. Todos os outros serão ignorados. Se nenhum rótulo for selecionado pelo usuário, o rótulo de valor máximo é escolhido por padrão.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
         <source>AntiAliasing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros anti-serrilhamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para o algoritmo de anti-serrilhamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
         <source>Number of Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de iterações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"/>
         <source>Maximum RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro RMS máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de iterações do grupo de níveis do algoritmo de anti-serrilhamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro RMS máximo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
         <source>Gaussian Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de suavização gaussiana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"/>
         <source>Parameters for Gaussian Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para a suavização gaussiana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"/>
         <source>The standard deviation of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvio padrão do núcleo gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
@@ -4658,27 +4658,27 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
         <source>Input label map to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de rótulos de entrada para suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"/>
         <source>Smoothed label map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de rótulos suavizado</translation>
     </message>
 </context>
 <context>
@@ -4686,87 +4686,87 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="5"/>
         <source>Mask Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem escalar de máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mascara duas imagens. A imagem de saída é definida em 0 em todo local exceto onde o rótulo escolhido da imagem de máscara está presente, pontos estes que terão mantidos os valores originais. As duas imagens não precisam ter as mesmas dimensões.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
         <source>Input and Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada e saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
         <source>Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"/>
         <source>Masked Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem marcarada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
         <source>Input volume to be masked</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada a ser mascarada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
         <source>Label volume containing the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de rótulos que contém a máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de saída: Imagem de entrada mascarada pelo valor do rótulo da imagem de máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
         <source>Filter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor do rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
         <source>Replace value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de reposição</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor do rótulo na imagem de máscara para usar como máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
         <source>Value to use for the output volume outside of the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor para usar na imagem de saída fora da máscara</translation>
     </message>
 </context>
 <context>
@@ -4774,37 +4774,37 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"/>
         <source>Median Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro de mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Filtro de mediana é normalmente usado como uma forma robusta de reduzir ruído. Este filtro é particularmente eficiente contra o ruído &quot;sal-e-pimenta&quot;. Em outras palavras, ele é robusto na presença de valores de cinza extremos. O filtro de mediana calcula o valor de cada pixel de saída como a mediana estatística do valor da vizinhança ao redor do pixel de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo foi derivado de Insights/Exemplos/Filtragem/FiltroDeImagemDeMediana (direitos reservados) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
         <source>Median Filter Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros do Filtro de mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"/>
         <source>Parameters for the median filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para o filtro de mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"/>
         <source>Neighborhood Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da vizinhança</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"/>
         <source>The size of the neighborhood in each dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da vizinhança em cada dimensão</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
@@ -4814,27 +4814,27 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada a ser filtrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída filtrada</translation>
     </message>
 </context>
 <context>
@@ -4842,17 +4842,17 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="4"/>
         <source>Merge Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesclar modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
         <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mescla os dados poligonais de dois modelos de entrada e gera um novo modelo com os dados poligonais combinados. Usa o filtro vtkAppendPolyData. Funciona em arquivos de superficie em formato .vtp e .vtk.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
@@ -4862,37 +4862,37 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
         <source>Model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"/>
         <source>Model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
         <source>Input model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
         <source>Input model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de saída</translation>
     </message>
 </context>
 <context>
@@ -4900,17 +4900,17 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
         <source>Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Construtor de modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria modelos de superfície 3D a partir de dados segmentados.&lt;p&gt;Os modelos são importados para o Slicer sob um esquema de nós hierárquicos em uma cena MRML. As cores do modelo são definidas pela tabela de cores associada ao volume de entrada (estas cores somente serão visíveis se você carregar o modelo a partir de um arquivo de cena de modelos).&lt;/p&gt;&lt;p&gt;&lt;b&gt;ES:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Especifica uma &lt;i&gt;Imagem de Entrada/i&gt; que é uma imagem segmentada em um mapa de rótulos. Cria uma nova hierarquia de &lt;i&gt;Modelos&lt;/i&gt; para gerar uma estrutura que contem os modelos criados a partir do volume de entrada.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cria Múltiplos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Se você especificar uma lista de &lt;i&gt;Rótulos&lt;/i&gt;, ela vai sobrescrever quaisquer configurações de rótulos de início/fim.&lt;/p&gt;&lt;p&gt;Se você clicar em &lt;i&gt;Gerar todos&lt;/i&gt; ela vai sobrepor a lista de rótulos e quaisquer configurações de rótulos de início/fim.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parâmetros do Construtor de Modelos:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Você pode definir o número de interações de suavização, número alvo de redução de polígonos (porcentagem decimal). Use 0 e 1 se você não quiser suavização ou decimação.&lt;br&gt;Você pode habilitar a separação de normais ou a geração de normais pontuais tembém neste painel.&lt;br&gt;Você pode gravar os modelos após cada passo intermediário (cubos marchantes, suavização e decimação se não a suavização conjunta, se não apenas depois da decimação); para que estes modelos não sejam gravados no arquivo mrml, primeiro desligue a exclusão dos arquivos temporários na janela python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
@@ -4920,12 +4920,12 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -4935,194 +4935,194 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de rótulos de entrada. A lista de imagem de entrada contem as imagens de mapas de rótulo presentes na cena, selecione um deles para gerar os modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela de cores para gerar os rótulos das cores e objetos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos gerados sob o nó de hierarquia de modelos. Os modelos são importados para o Slicer sob o nó de hierarquia de modelos e suas cores são definidas pela tabela de cores associada com a imagem de mapa de rótulos de entrada. O nó de hierarquia de modelos deve ser criado antes de executar o construtos de modelos, selecionando Criar Nova Hierarquia de Modelos no menu eem lista. Se fo executado a partir da linha de comando, um nó de hierarquia de modelos em uma nova cena mrml será criado para você.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
         <source>Create Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar múltiplos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria mais de um modelo ao mesmo tempo, usado para uma faixa contínua de rótulos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
         <source>Generate All Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerar todos os modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome usado para este modelo. Qualquer texto inserido na caixa de entrada será o texto inicial para os nomes dos modelos criados. O número do rótulo e o nome da cor também fará parte do nome do modelo. Ao fazer múltiplos modelos, use este texto como prefixo para os nomes do rótulo e da cor.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gera modelos para todos os rótulos da imagem de entrada. Selecione esta opção se quiser criar todos os modelos correspondentes a todos os valores em um mapa de rótulos (usar a opção de Suavização Conjunta abaixo é útil com esta opção). Ignora as configurações de rótulos, rótulo de Início e de final. Ignora rótulo 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
         <source>Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros do construtor de modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros usados para criar modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
         <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
         <source>Start Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo de início</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
         <source>End Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo de término</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconsidera rótulos sem nome</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
         <source>Joint Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavização conjunta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
         <source>Filter Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Decimar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
         <source>Split Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir normais</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
         <source>Point Normals</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normais pontuais</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Completar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista separada por vírgulas de valores de rótulos a partir dos quais são feitos os modelos. Se for especificada uma lista de rótulos, será desconsiderada qualquer configuração de início/fim de rótulos. Se clicar em Gerar todos os modelos, a lista de rótulos e a configuração de início/fim de rótulos serão desconsiderados.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se quiser especificar uma faixa contínua de rótulos para os quais gerar modelos, entre com o menor rótulo aqui. Valor de voxel que será o início da geração de modelos. Usado no lugar da lista de rótulos para especificar uma faixa de valores (certifique-se que a lista de rótulos esteja vazia ou ela será sobreposta a esta).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se quiser especificar uma faixa contínua de rótulos para os quais gerar modelos, entre com o maior rótulo aqui. Valor de voxel até o qual será feita a geração de modelos. Desconsidera qualquer valor com zero voxels.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione aqui para não gerar modelos a partir de rótulos que não possuem nomes definidos na tabela de cores associada ao mapa de rótulos de entrada. Se verdadeiro, somente modelos que tem um nome na tabela de cores serão gerados. Se falso, gera todos os modelos que existem na faixa de valores de rótulo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Isso garante que todos os modelos resultantes se ajustarão suavemente, como peças de um quebra-cabeças. Se não, os modelos serão suavizados independentemente e podem se sobrepor.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Aqui é possível definir o numero de iterações da suavização para a suavização Laplaciana ou o grau da aproximação polinomial da função Sinc janelada. Use 0 se não quiser suavizar. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished"></translation>
+        <translation>É possível controlar o tipo de suavização feita nos modelos ao selecionar o tipo de filtro de tipo Sinc ou Laplaciano.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolhe a redução alvo para o número de polígonos como uma porcentagem decimal (entre 0 e 1) do número de polígonos. Especifica a porcentagem de triângulos a serem removidos. Por exemplo, 0,1 significa uma redução de 10% e 0,9 significa uma redução de 90%.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir normais é útil para visualizar detalhes finos. Entretanto isso pode criar orifícios nas superfícies, o que afeta medições.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilite este campo se deseja calcular os vetores normais para cada ponto.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Completa a imagem de entrada com voxels de valor zero em todas as 6 faces para garantir a produção de superfícies fechadas. Define a translação da origem a translaçãoda extensão para que os modelos permaneçam alinhados à imagem de entrada não completada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
         <source>Laplacian</source>
-        <translation type="unfinished"></translation>
+        <translation>Laplaciana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Depuração</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
         <source>Color Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarquia de cores</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
         <source>Save Intermediate Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Grava modelos intermediários</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
@@ -5155,7 +5155,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5233,7 +5233,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
@@ -5490,7 +5490,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -7051,7 +7051,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7436,7 +7436,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
@@ -7514,7 +7514,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiada pelos Institutos Nacionais de Saúde através do NIH Roadmap for Medical Research, Auxílio U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
