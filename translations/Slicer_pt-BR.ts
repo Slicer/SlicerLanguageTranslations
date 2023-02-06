@@ -4431,27 +4431,27 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
         <source>Number of Match Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de pontos pareados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"/>
         <source>Threshold at mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiar na média</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de níveis do histograma para usar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
         <source>The number of match points to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de pontos pareados para usar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se habilitado, somente pixels acima da média em cada imagem serão limiarizados.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
@@ -4461,37 +4461,37 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
         <source>Reference Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de referência</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada a ser filtrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
         <source>Input volume whose histogram will be matched</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada cujo histograma será pareado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"/>
         <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de saída. Esta é a imagem de entrada com intensidades pareadas ao volume de referência.</translation>
     </message>
 </context>
 <context>
@@ -4499,12 +4499,12 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"/>
         <source>Image Label Combine</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinar rótulos de imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
         <source>Combine two label maps into one</source>
-        <translation type="unfinished"></translation>
+        <translation>Combina dois mapas de rótulos em um</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
@@ -4514,53 +4514,53 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
         <source>Input Label Map A</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de rótulos de entrada A</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"/>
         <source>Input Label Map B</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de rótulos de entrada B</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"/>
         <source>Output Label Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de rótulos de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
         <source>Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
         <source>Resulting Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de mapa de rótulos resultante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
         <source>Label combination options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de combinação de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"/>
         <source>Selection of how to combine label maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção de como combinar mapas de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="16"/>
         <source>First Label Overwrites Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeiro rótulo sobrescreve o segundo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="17"/>
         <source>Use first or second label when both are present</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa primeiro ou segundo rótulo quando ambos estão presentes</translation>
     </message>
 </context>
 <context>
@@ -4568,7 +4568,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"/>
         <source>Label Map Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Suavização do mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
