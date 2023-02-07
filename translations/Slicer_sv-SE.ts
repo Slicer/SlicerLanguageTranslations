@@ -21,7 +21,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mata in landmärken</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
