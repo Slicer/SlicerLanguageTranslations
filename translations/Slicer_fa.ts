@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تبدیل ACPC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
@@ -16,43 +16,43 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>این کار بخشی از اتحاد ملی برای محاسبات تصویر پزشکی (NAMIC) است که توسط مؤسسه ملی بهداشت از طریق نقشه راه NIH برای تحقیقات پزشکی، Grant U54 EB005149 تأمین مالی شده است.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>نشانه ورودی</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
         <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>نشانه های آناتومیکی که برای محاسبه تبدیل ACPC استفاده می شود.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
         <source>ACPC line</source>
-        <translation type="unfinished"></translation>
+        <translation>خط ACPC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="11"/>
         <source>Midline</source>
-        <translation type="unfinished"></translation>
+        <translation>خط میانی</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
         <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="unfinished"></translation>
+        <translation>خط ACPC، اتصال یک نقطه در کمیسور قدامی با یک نقطه در کمیسور خلفی.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
         <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="unfinished"></translation>
+        <translation>خط وسط مجموعه ای از نقاط (حداقل 3) است که در صفحه ساژیتال میانی قرار می گیرند و تقسیم بین نیمکره های مغز را مشخص می کنند.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تبدیل خروجی</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
@@ -62,17 +62,17 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
         <source>Center volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم مرکز</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
         <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>اگر این گزینه فعال باشد، تبدیل خروجی نقطه AC را به مبدا ترجمه می کند. اگر این گزینه غیرفعال باشد، موقعیت حجم حفظ می شود و تبدیل فقط جهت را تغییر می دهد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
         <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>تبدیل که حجم را به سیستم مختصات استاندارد ACPC منتقل می کند.</translation>
     </message>
 </context>
 <context>
@@ -80,12 +80,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم های عددی را اضافه کنید</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>دو تصویر اضافه می کند. اگرچه همه انواع تصویر در ورودی پشتیبانی می‌شوند، فقط انواع علامت‌دار تولید می‌شوند. لازم نیست دو تصویر دارای ابعاد یکسانی باشند.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
@@ -100,32 +100,32 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>پارامترهای ورودی/خروجی</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم ورودی 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم ورودی 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم ورودی</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم ورودی 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم ورودی 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -135,22 +135,22 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>کنترل ها</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation>نحوه عملکرد ماژول را کنترل کنید</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتیب درون یابی</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتیب درون یابی اگر دو تصویر در قاب های مختصات متفاوتی باشند یا نمونه برداری متفاوتی داشته باشند.</translation>
     </message>
 </context>
 <context>
@@ -163,7 +163,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>گرادیان/حجم های بد را از فایل DWI NRRD حذف کنید.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
