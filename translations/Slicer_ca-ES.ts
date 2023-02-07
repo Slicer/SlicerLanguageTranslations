@@ -448,7 +448,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation>Fracció de vòxels de la imatge fixa que s&apos;utilitzarà per al registre. El nombre ha de ser més gran que zero i menor o igual a un. Els valors més alts augmenten el temps de càlcul, però poden donar resultats més precisos. També podeu limitar el focus de mostreig amb màscares RDI i generació de màscares ROIAUTO. El valor per defecte és de 0,002 (utilitzeu aproximadament el 0,2% dels vòxels, donant com a resultat 100.000 mostres en un volum de 512x512x192) per a proporcionar un registre molt ràpid en la majoria dels casos. Els valors típics van des de 0,01 (1%) per a imatges de baix detall fins a 0,2 (20%) per a imatges d&apos;alt detall.</translation>
+        <translation>Fracció de vòxels de la imatge fixa que s&apos;utilitzarà per al registre. El nombre ha de ser més gran que zero i menor o igual a un. Els valors més alts augmenten el temps de càlcul, però poden donar resultats més precisos. També podeu limitar el focus de mostreig amb màscares RDI i generació de màscares AUTORDI. El valor per defecte és de 0,002 (utilitzeu aproximadament el 0,2% dels vòxels, donant com a resultat 100.000 mostres en un volum de 512x512x192) per a proporcionar un registre molt ràpid en la majoria dels casos. Els valors típics van des de 0,01 (1%) per a imatges de baix detall fins a 0,2 (20%) per a imatges d&apos;alt detall.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
@@ -599,7 +599,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Realitza un registre ScaleVersor3D com a part dels passos de registre seqüencials.  Aquesta família d&apos;opcions substitueix l&apos;ús de transformType si es defineix alguna d&apos;elles.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Realitza un registre BSpline com a part dels passos de registre seqüencials. Aquesta família d&apos;opcions anul·la l&apos;ús de transformType si s&apos;estableix alguna d&apos;elles.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
@@ -624,37 +624,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Realitza un registre compost com a part dels passos de registre seqüencials.  Aquesta família d&apos;opcions substitueix l&apos;ús de transformType si es defineix alguna d&apos;elles.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Màscara d&apos;imatge i preprocessament</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opció d&apos;emmascarament</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>(RDI) Entrada d&apos;emmascarament fixada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished"></translation>
+        <translation>(RDI) Entrada d&apos;emmascarament en moviment</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(AUTORDI) Màscara fixa de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(AUTORDI) Màscara mòbil de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
@@ -679,7 +679,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica una màscara per considerar només una determinada regió d&apos;imatge per al registre.  Si es tria AUTORDI, la màscara es calcula mitjançant llindar otsu i ompliment de forats. Si es tria el RDI, la màscara s&apos;ha d&apos;especificar com a entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
@@ -694,12 +694,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>RDI que es calcula automàticament a partir de la imatge fixa. Només disponible si l&apos;opció d&apos;emmascarament és AUTORDI. Les àrees d&apos;imatge on el volum de la màscara té valor zero s&apos;ignoren durant el registre.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>RDI que es calcula automàticament a partir de la imatge en moviment. Només disponible si l&apos;opció d&apos;emmascarament és AUTORDI. Les àrees d&apos;imatge on el volum de la màscara té un valor zero s&apos;ignoren durant el registre.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
@@ -730,7 +730,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>AUTORDI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
@@ -1917,7 +1917,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
         <source>VersorRigid</source>
-        <translation type="unfinished"></translation>
+        <translation>VersorRigid</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
@@ -3922,7 +3922,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rígid</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
