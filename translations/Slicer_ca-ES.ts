@@ -1008,12 +1008,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dilatació de la mida AUTORDI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida de tancament AUTORDI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
@@ -1073,17 +1073,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation>Si el mode iniciar transformació s&apos;estableix a useCenterOfHeadAlign o l&apos;opció d&apos;emmascarament és ROIAUTO, aquest valor defineix la quantitat que es retalla de la part inferior de la imatge. La distància de tall s&apos;especifica en mil·límetres, en relació al centre de la imatge. Si el valor és 1.000 o més, no es realitza cap tall.</translation>
+        <translation>Si el mode iniciar transformació s&apos;estableix a useCenterOfHeadAlign o l&apos;opció d&apos;emmascarament és AUTORDI, aquest valor defineix la quantitat que es retalla de la part inferior de la imatge. La distància de tall s&apos;especifica en mil·límetres, en relació al centre de la imatge. Si el valor és 1.000 o més, no es realitza cap tall.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation>Aquest indicador només és rellevant quan s&apos;utilitza el mode ROIAUTO per a inicialitzar màscares. Defineix la mida final de la dilatació per a capturar una mica de fons fora de la regió del teixit. S&apos;ha demostrat que una configuració de 10 mm ajuda a regularitzar un tipus de registre BSpline de manera que hi ha algunes restriccions de fons per adaptar-se millor a les vores del cap.</translation>
+        <translation>Aquest indicador només és rellevant quan s&apos;utilitza el mode AUTORDI per a inicialitzar màscares. Defineix la mida final de la dilatació per a capturar una mica de fons fora de la regió del teixit. S&apos;ha demostrat que una configuració de 10 mm ajuda a regularitzar un tipus de registre BSpline de manera que hi ha algunes restriccions de fons per adaptar-se millor a les vores del cap.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation>Aquest indicador només és rellevant quan s&apos;utilitza el mode ROIAUTO per a inicialitzar màscares.  Defineix la mida de tancament del forat en mm.  S&apos;arrodoneix a la mida de píxel sencera més propera en cada direcció. El valor per defecte és utilitzar una mida de tancament de 9 mm.  Per a les dades del ratolí, aquest valor pot ser que s&apos;hagi de restablir a 0,9 o més petit.</translation>
+        <translation>Aquest indicador només és rellevant quan s&apos;utilitza el mode AUTORDI per a inicialitzar màscares.  Defineix la mida de tancament del forat en mm.  S&apos;arrodoneix a la mida de píxel sencera més propera en cada direcció. El valor per defecte és utilitzar una mida de tancament de 9 mm.  Per a les dades del ratolí, aquest valor pot ser que s&apos;hagi de restablir a 0,9 o més petit.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
@@ -1246,43 +1246,44 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enmascarament de primer pla (CEREBRAL)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest programa s&apos;utilitza per crear una màscara sobre la regió de primer pla més destacada en una imatge.  Això s&apos;aconsegueix mitjançant una combinació de llindar d&apos;otsu i una operació de tancament.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished"></translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (integració de Slicer); (1= Departament de Psiquiatria de la Universitat d&apos;Iowa, 2 = Departament de Radiologia de la Universitat d&apos;Iowa, 3 = Departament d&apos;Enginyeria Biomèdica de la Universitat d&apos;Iowa, 4 = Departament d&apos;Enginyeria Elèctrica i Informàtica de la Universitat d&apos;Iowa, 5 = Laboratori de Planificació Quirúrgica, Harvard)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">ES</translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;entrada/sortida</translation>
+        <translation>Paràmetres d&apos;entrada/sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">Volum de la imatge d&apos;entrada</translation>
+        <translation>Volum de la imatge d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
         <source>Output Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Màscara de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
