@@ -5127,17 +5127,17 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo mrml que contem um modelo de hiararquia padrão com um nó por cor usado na tabela de cores da imagem de entrada. Os nomes das cores usadas para criar modelos são pareados com os nome da hierarchia, criando uma árvore multi-nível. Cria a hierarquia na interface grafica de Modelos e grava a cena, lipando-a logo após para remover tudo, exceto a hierarquia de modelos e os nós de tela.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished"></translation>
+        <translation>É possível gravar uma cópia dos modelos depois de cada um dos passos intermediários (cubos marchantes, suavização e decimação, se não suavização conjunta; caso contrário, apenas após a decimação). Este modelos intermediários não sao gravados no arquivo mrml e é necessário carregá-los manualmente appos desligar a exclusão de arquivos temporários na janela pythin (Visualizar -&gt; Janela Python) usando o comando: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished"></translation>
+        <translation>ative este campo para ver a saída da depuração (veja na janela de log de erros que é acessada atravás do menu Visualizar)</translation>
     </message>
 </context>
 <context>
@@ -5145,12 +5145,12 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
         <source>Model To LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo para Mapa de Rótulos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersecta um modelo de entrada com uma imagem de referência, produzindo um mapa de rótulos como resultado. Preenche os voxels dentro do modelo com um valor de rótulo específico.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
@@ -5160,22 +5160,22 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"/>
         <source>Parameter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações de parâmetros</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor do rótulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor de rótulo sem sinal usado no mapa de rótulos de saída.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
@@ -5185,7 +5185,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
@@ -6116,7 +6116,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
@@ -6624,22 +6624,22 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
