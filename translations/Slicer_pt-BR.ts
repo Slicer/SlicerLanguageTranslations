@@ -5175,7 +5175,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished">Valor de rótulo sem sinal usado no mapa de rótulos de saída.</translation>
+        <translation>Valor de rótulo &apos;unsigned char&apos; usado no mapa de rótulos de saída.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
@@ -5190,32 +5190,32 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
         <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>O volume de saída terá a mesma origem, espaçamento, direção do eixo e extensão deste volume.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
         <source>Unsigned char label map volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume do mapa de rótulo de caracteres &quot;unsigned char&apos;</translation>
     </message>
 </context>
 <context>
@@ -5223,12 +5223,12 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="5"/>
         <source>Multiply Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicar Volumes Escalares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplica duas imagens. Embora todos os tipos de imagens sejam suportados na entrada, apenas tipos com sinal são produzidos. As duas imagens não têm que ter as mesmas dimensões.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
@@ -5243,57 +5243,57 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
         <source>Volume1 * Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume1 * Volume2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation>Controla como o módulo opera</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem de interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem de interpolação no caso de duas imagens estarem em sistemas de coordenadas diferentes ou possuírem diferentes resoluções.</translation>
     </message>
 </context>
 <context>
@@ -5301,17 +5301,17 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="4"/>
         <source>N4ITK MRI Bias correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Correção do viés da ressonância magnética N4ITK</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation type="unfinished"></translation>
+        <translation>Executa a correção do viés da imagem usando o algoritmo N4. Este módulo é baseado nos filtros ITK contribuídos na seguinte publicação:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net /10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
         <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
-        <translation type="unfinished"></translation>
+        <translation>O desenvolvimento deste módulo foi parcialmente apoiado pelas subvenções do NIH R01 AA016748-01, R01 CA111288 e U01 CA151261, bem como pela NA-MIC, NAC, NCIGT e pela comunidade Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
@@ -5321,27 +5321,27 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagens de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
         <source>Mask Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
         <source>Output bias field image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem do campo de viés de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
