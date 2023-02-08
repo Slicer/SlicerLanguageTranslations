@@ -5396,83 +5396,83 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
         <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura Total a Meia Altura do Campo de Viés . Zero implica o uso do valor padrão.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
         <source>Advanced N4 Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros Avançados N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
         <source>Advanced parameters of the algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros avançados do algoritmo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de iterações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"/>
         <source>Convergence threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiar de convergência</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"/>
         <source>BSpline order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"/>
         <source>Shrink factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Fator de encolhimento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="30"/>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="37"/>
         <source>Weight Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Pesos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"/>
         <source>Wiener filter noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruído de filtro de Wiener</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
         <source>Number of histogram bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de compartimentos do histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
         <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número máximo de iterações em cada nível de resolução. Valores maiores aumentarão o tempo de execução, mas podem levar a melhores resultados.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
         <source>Stopping criterion for the iterative bias estimation. Larger values will lead to smaller execution time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Critério de parada para a estimativa de viés iterativo. Valores maiores levarão a um tempo de execução menor.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem do B-spline usado na aproximação. Valores maiores levarão a tempos de execução mais longos, podem resultar em overfitting e resultados ruins.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Define quanto a imagem deve ser aumentada antes de estimar o campo de não homogeneidade. Aumente se quiser reduzir o tempo de execução. 1 corresponde à resolução original. Valores maiores reduzirão significativamente o tempo de computação.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
         <source>Wiener filter noise. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruído do filtro Wiener. Zero implica no uso do valor padrão.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
         <source>Number of histogram bins. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de compartimentos do histograma. Zero implica o uso do valor padrão.</translation>
     </message>
 </context>
 <context>
@@ -5480,12 +5480,12 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="4"/>
         <source>Orient Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Orienta Volume Escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orienta um volume de saída. Reorganiza as fatias em um volume de acordo com a orientação selecionada. As fatias não são interpoladas. Eles são apenas reordenados e/ou permutados. O volume resultante cobrirá o volume original. NOTA: como o Slicer leva em consideração a orientação de um volume, o volume reorientado não mostrará nenhuma diferença em relação ao volume original. Para ver a diferença, salve o volume e exiba-o com um sistema que ignore a orientação da imagem (por exemplo, Paraview) ou exibe imagens individuais.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
@@ -5495,68 +5495,68 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Entrada/Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
         <source>The oriented volume</source>
-        <translation type="unfinished"></translation>
+        <translation>O volume orientado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="13"/>
         <source>Orientation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Orientação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="16"/>
         <source>Orientation choices</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de orientação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="42"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="19"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="20"/>
@@ -5566,82 +5566,82 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"/>
         <source>RIP</source>
-        <translation type="unfinished"></translation>
+        <translation>RIP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="22"/>
         <source>LIP</source>
-        <translation type="unfinished"></translation>
+        <translation>LIP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="23"/>
         <source>RSP</source>
-        <translation type="unfinished"></translation>
+        <translation>RSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="24"/>
         <source>LSP</source>
-        <translation type="unfinished"></translation>
+        <translation>LSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="25"/>
         <source>RIA</source>
-        <translation type="unfinished"></translation>
+        <translation>RIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"/>
         <source>LIA</source>
-        <translation type="unfinished"></translation>
+        <translation>LIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="27"/>
         <source>RSA</source>
-        <translation type="unfinished"></translation>
+        <translation>RSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="28"/>
         <source>LSA</source>
-        <translation type="unfinished"></translation>
+        <translation>LSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="29"/>
         <source>IRP</source>
-        <translation type="unfinished"></translation>
+        <translation>IRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="30"/>
         <source>ILP</source>
-        <translation type="unfinished"></translation>
+        <translation>ILP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="31"/>
         <source>SRP</source>
-        <translation type="unfinished"></translation>
+        <translation>SRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="32"/>
         <source>SLP</source>
-        <translation type="unfinished"></translation>
+        <translation>SLP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="33"/>
         <source>IRA</source>
-        <translation type="unfinished"></translation>
+        <translation>IRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="34"/>
         <source>ILA</source>
-        <translation type="unfinished"></translation>
+        <translation>ILA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="35"/>
         <source>SRA</source>
-        <translation type="unfinished"></translation>
+        <translation>SRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="36"/>
         <source>SLA</source>
-        <translation type="unfinished"></translation>
+        <translation>SLA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="37"/>
