@@ -15593,7 +15593,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation>تثبيت الملحقات</translation>
+        <translation type="unfinished">تثبيت الملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
