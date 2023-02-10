@@ -1267,7 +1267,7 @@ OBSERVE que é sugerido usar samplePercentage em vez dessa opção. No entanto, 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation>IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
@@ -5731,7 +5731,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="55"/>
         <source>IAR</source>
-        <translation type="unfinished">IAR</translation>
+        <translation>IAR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="56"/>
@@ -5937,99 +5937,100 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teste de Métrica de Alinhamento (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Compara o valor da métrica Mattes/MSQ para duas imagens de entrada e uma possível transformação BSpline de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
         <source>Transform File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do arquivo de transformação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"/>
         <source>Fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem fixa</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"/>
         <source>Moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem em movimento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação de entrada que é usada para deformar a imagem em movimento antes da comparação métrica.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
         <source>Input variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Variáveis de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="14"/>
         <source>Metric type and input parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de métrica e parâmetros de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="15"/>
         <source>Metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de métrica</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Amostras</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Compartimentos do Histograma</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
         <source>Comparison metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de métrica de comparação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="19"/>
         <source>The number of voxels sampled for metric evaluation.</source>
-        <translation type="unfinished"></translation>
+        <translation>O número de voxels amostrados para avaliação métrica.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished"></translation>
+        <translation>O número de compartimentos do histograma quando MMI (Mattes) é a métrica.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
 </context>
 <context>
@@ -6037,63 +6038,63 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"/>
         <source>Probe Volume With Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume da Sonda com Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation type="unfinished"></translation>
+        <translation>Pinta um modelo por um volume (usando vtkProbeFilter).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
         <source>BWH, NCIGT/LMI</source>
-        <translation type="unfinished"></translation>
+        <translation>BWH, NCIGT/LMI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Volume de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
         <source>Output array name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome da matriz de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume a usar para &quot;pintar&quot; o modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
         <source>Output &quot;painted&quot; model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo de saída &quot;pintado&quot;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome da matriz que conterá os valores de voxel.</translation>
     </message>
 </context>
 <context>
@@ -6101,17 +6102,17 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"/>
         <source>Resample DTI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Reamostra o Volume DTI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>A reamostragem de uma imagem é uma tarefa muito importante na análise de imagens. É especialmente importante no quadro de alinhamento de imagens. Este módulo implementa a reamostragem de imagem DT através do uso de itk Transforms. A reamostragem é controlada pelo espaçamento de saída. &quot;Reamostragem&quot; é executada em coordenadas físicas, não em coordenadas de pixel/grade. É muito importante garantir que o espaçamento da imagem seja definido corretamente nas imagens envolvidas. O interpolador é necessário, pois o mapeamento de um espaço para o outro geralmente requer avaliação da intensidade da imagem em posições fora da grade.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho faz parte da National Alliance for Medical Image Computing (NAMIC), financiado pelos National Institutes of Health por meio do NIH Roadmap for Medical Research, Auxílio U54 EB005149. Informações sobre os Centros Nacionais de Computação Biomédica podem ser obtidas em http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
@@ -6121,314 +6122,315 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Referência (para definir os parâmetros de saída)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada a ser reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume Reamostrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Referência (espaçamento, tamanho, orientação, origem)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros usados para transformar a imagem de entrada na imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="19"/>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume do Campo de Deformação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="20"/>
         <source>Displacement or h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Deslocamento ou Campo-h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo contendo o campo de deformação (imagem vetorial 3D contendo vetores com 3 componentes)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"/>
         <source>Set if the deformation field is an -Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Define se o campo de deformação é um -Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="23"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="25"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
         <source>displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>deslocamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"/>
         <source>Processing Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de processamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="27"/>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="28"/>
         <source>No Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem Quadro de Medição</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="29"/>
         <source>Tensors Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Correção de Tensores</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"/>
         <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de amostragem (linear , nn (vizinho mais próximo), ws (WindowedSinc), bs (BSpline) )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Não use o quadro de medição que está na imagem de entrada para transformar os tensores. Em vez disso, usa a orientação da imagem.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
         <source>Correct the tensors if computed tensor is not semi-definite positive</source>
-        <translation type="unfinished"></translation>
+        <translation>Corrige os tensores se o tensor calculado não for positivo semidefinido.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>linear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>zero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
         <source>bs</source>
-        <translation type="unfinished"></translation>
+        <translation>bs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
         <source>abs</source>
-        <translation type="unfinished"></translation>
+        <translation>abs</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"/>
         <source>nearest</source>
-        <translation type="unfinished"></translation>
+        <translation>mais próximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="43"/>
         <source>Tensor Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Transformação Tensorial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
         <source>Finite Strain (FS) or 
 Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tensão finita (FS) ou 
+Preservação da Direção Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolhe entre 2 métodos para transformar os tensores: Tensão finita (FS), mais rápida mas menos precisa, ou Preservação da Direção Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"/>
         <source>PPD</source>
-        <translation type="unfinished"></translation>
+        <translation>PPD</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"/>
         <source>FS</source>
-        <translation type="unfinished"></translation>
+        <translation>FS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Transformação Avançados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Esses parâmetros normalmente não devem ser modificados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem das Transformações</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é uma transformação em massa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inconsistência de orientação espacial (entre transformação e imagem)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione em que ordem as transformações são lidas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>A transformação após a transformação BSpline não está definida como uma transformação em massa para a transformação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>A orientação espacial entre a transformação e a imagem é diferente (RAS/LPS) (aviso: se a transformação for um Transform Node no Slicer3, não selecione)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"/>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation>saída para entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada para saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
         <source>Advanced Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros Rígido/Afim Avançados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"/>
         <source>Rotation Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de Rotação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação Centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de Imagens</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
         <source>Inverse Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação Inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro de rotação (somente para transformações rígidas e afim)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Define o centro da transformação para o centro da imagem de entrada (somente para transformações rígidas e afim)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem a ser usada para centralizar a transformação (usada somente se &quot;Transformação Centralizada&quot; estiver selecionado)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverte a transformação antes de aplicá-la da imagem de saída para a imagem de entrada (somente para transformações rígidas e afim)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de Saída Manual</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
@@ -6438,22 +6440,22 @@ Preservation of the Principal Direction (PPD)</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Matriz de Direção</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento ao longo de cada dimensão (0 significa usar espaçamento de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho ao longo de cada dimensão (0 significa usar tamanho de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Origem da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
@@ -7127,7 +7129,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
@@ -7245,7 +7247,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
@@ -7393,7 +7395,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
@@ -7441,7 +7443,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
