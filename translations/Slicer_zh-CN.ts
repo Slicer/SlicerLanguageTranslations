@@ -8427,13 +8427,6 @@ a = Affine Transform</source>
         <translation>粗细：</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
-        <source>Short side length of the color legend, relative to view size</source>
-        <oldsource>Short side length of the color legend, as fraction of view size</oldsource>
-        <translation type="unfinished">颜色图例的短侧长度作为视图大小的百分比</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
         <source>Long side length of the color legend, relative to view size</source>
@@ -8445,13 +8438,6 @@ a = Affine Transform</source>
         <source>L:</source>
         <extracomment>abbreviation of &quot;long&quot;</extracomment>
         <translation>长短：</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
-        <source>Long side length of the color legend, relative to view size</source>
-        <oldsource>Long side length of the color legend, as fraction of view size</oldsource>
-        <translation type="unfinished">颜色图例的长边长度作为视图大小的百分比</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -15946,16 +15932,18 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
-        <source>Install/uninstall/update operations are still in progress:
-- </source>
+        <source>Install/uninstall/update operations are still in progress:</source>
+        <oldsource>Install/uninstall/update operations are still in progress:
+- </oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
-        <source>
+        <source>Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
+        <oldsource>
 
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
-        <translation>单击“确定”等待它们完成，或者选择“忽略”立即关闭扩展管理器。</translation>
+Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
+        <translation type="unfinished">单击“确定”等待它们完成，或者选择“忽略”立即关闭扩展管理器。</translation>
     </message>
 </context>
 <context>
@@ -18385,13 +18373,6 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="377"/>
         <source>Coronal</source>
         <translation>冠状位</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
-        <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="382"/>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
-        <source>Reformat</source>
-        <translation>重定格式</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="390"/>

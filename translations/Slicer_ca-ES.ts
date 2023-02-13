@@ -8435,13 +8435,6 @@ a = Transformada afí</translation>
         <translation>C:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
-        <source>Short side length of the color legend, relative to view size</source>
-        <oldsource>Short side length of the color legend, as fraction of view size</oldsource>
-        <translation type="unfinished">Longitud lateral del costat curt de la llegenda de colors, com a fracció de la mida de la vista</translation>
-    </message>
-    <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
         <source>Long side length of the color legend, relative to view size</source>
@@ -8453,13 +8446,6 @@ a = Transformada afí</translation>
         <source>L:</source>
         <extracomment>abbreviation of &quot;long&quot;</extracomment>
         <translation>L:</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
-        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
-        <source>Long side length of the color legend, relative to view size</source>
-        <oldsource>Long side length of the color legend, as fraction of view size</oldsource>
-        <translation type="unfinished">Longitud del costat llarg de la llegenda de colors, com a fracció de la mida de la vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -15955,16 +15941,18 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
-        <source>Install/uninstall/update operations are still in progress:
-- </source>
+        <source>Install/uninstall/update operations are still in progress:</source>
+        <oldsource>Install/uninstall/update operations are still in progress:
+- </oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
-        <source>
+        <source>Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
+        <oldsource>
 
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</source>
-        <translation>
+Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
+        <translation type="unfinished">
 
 Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;extensions.</translation>
     </message>
@@ -18396,13 +18384,6 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="377"/>
         <source>Coronal</source>
         <translation>Frontal</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
-        <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="382"/>
-        <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
-        <source>Reformat</source>
-        <translation>Reformat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="390"/>
