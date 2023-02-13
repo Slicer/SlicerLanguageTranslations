@@ -6784,104 +6784,104 @@ Aviso: não use para reamostrar as imagens do tensor de difusão, os tensores n�
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished">Selecione em que ordem as transformações são lidas</translation>
+        <translation>Selecione em que ordem as transformações são lidas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished">A transformação após a transformação BSpline não está definida como uma transformação em massa para a transformação BSpline</translation>
+        <translation>A transformação após a transformação BSpline não está definida como uma transformação em massa para a transformação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished">A orientação espacial entre a transformação e a imagem é diferente (RAS/LPS) (aviso: se a transformação for um Transform Node no Slicer3, não selecione)</translation>
+        <translation>A orientação espacial entre a transformação e a imagem é diferente (RAS/LPS) (aviso: se a transformação for um Transform Node no Slicer3, não selecione)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="43"/>
         <source>output-to-input</source>
-        <translation type="unfinished">saída para entrada</translation>
+        <translation>saída para entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="42"/>
         <source>input-to-output</source>
-        <translation type="unfinished">entrada para saída</translation>
+        <translation>entrada para saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"/>
         <source>Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros Rígida/Afim</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="45"/>
         <source>Rotation Point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ponto de Rotação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="46"/>
         <source>Centered Transform</source>
-        <translation type="unfinished">Transformação Centrada</translation>
+        <translation>Transformação Centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="47"/>
         <source>Image Center</source>
-        <translation type="unfinished">Centro de Imagens</translation>
+        <translation>Centro da Imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="48"/>
         <source>Inverse ITK Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação ITK Inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="49"/>
         <source>Rotation Point in case of rotation around a point (otherwise useless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponto de rotação em caso de rotação em torno de um ponto (caso contrário, sem uso)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina o centro da transformação para o centro da imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished">Imagem a ser usada para centralizar a transformação (usada somente se &quot;Transformação Centralizada&quot; estiver selecionado)</translation>
+        <translation>Imagem a ser usada para centralizar a transformação (usada somente se &quot;Transformação Centralizada&quot; estiver selecionado)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverte a transformação antes de aplicá-la a partir da imagem de saída para a imagem de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="54"/>
         <source>input</source>
-        <translation type="unfinished">entrada</translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="55"/>
         <source>output</source>
-        <translation type="unfinished">saída</translation>
+        <translation>saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="56"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished">Parâmetros de Saída Manual</translation>
+        <translation>Parâmetros de Saída Manual</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="57"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished">Parâmetros da imagem de saída</translation>
+        <translation>Parâmetros da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="58"/>
         <source>Spacing</source>
-        <translation type="unfinished">Espaçamento</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="59"/>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
@@ -6891,72 +6891,72 @@ Aviso: não use para reamostrar as imagens do tensor de difusão, os tensores n�
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished">Matriz de Direção</translation>
+        <translation>Matriz de Direção</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Espaçamento ao longo de cada dimensão (0 significa usar espaçamento de entrada)</translation>
+        <translation>Espaçamento ao longo de cada dimensão (0 significa usar espaçamento de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished">Tamanho ao longo de cada dimensão (0 significa usar tamanho de entrada)</translation>
+        <translation>Tamanho ao longo de cada dimensão (0 significa usar tamanho de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished">Origem da imagem de saída</translation>
+        <translation>Origem da imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 parâmetros da matriz de direção por linhas (ijk para LPS se transformação LPS, ijk para RAS se transformação RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros avançados de reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="67"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros usados para reamostragem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
         <source>Number Of Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de &apos;Threads&apos;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de Pixel Padrão</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de &apos;threads&apos; usado para calcular a imagem de saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor de pixel padrão para amostras fora da região de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da função de interpolação Sinc janelada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros usados para a interpolação Sinc janelada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Função da Janela</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
@@ -6966,49 +6966,54 @@ c = Cosine
 w = Welch 
 l = Lanczos 
 b = Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>Função da Janela 
+h = Hamming 
+c = Cosseno 
+w = Welch 
+l = Lanczos 
+b = Blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="78"/>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="77"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="79"/>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="80"/>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="81"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros da Função de Interpolação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros usados para a interpolação BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
