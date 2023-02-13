@@ -7018,7 +7018,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
         <source>Manual Transform (Only used if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformação Manual (usado somente se nenhum nó de transformação estiver definido)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
@@ -7033,7 +7033,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 parâmetros da matriz de transformação por linhas ( --últimos 3 sendo translação-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"/>
