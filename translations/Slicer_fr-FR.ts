@@ -3401,7 +3401,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformation de la sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
@@ -8393,6 +8393,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
         <source>H:</source>
+        <extracomment>abbreviation of &quot;horizontal&quot;</extracomment>
         <translation>H :</translation>
     </message>
     <message>
@@ -8404,6 +8405,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
         <source>V:</source>
+        <extracomment>abbreviation of &quot;vertical&quot;</extracomment>
         <translation>V :</translation>
     </message>
     <message>
@@ -8413,33 +8415,43 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
-        <source>Short side length of the color legend, as percentage of view size</source>
-        <translation>Longueur du côté court de la légende des couleurs, en pourcentage de la taille de la vue</translation>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
+        <source>Short side length of the color legend, relative to view size</source>
+        <oldsource>Short side length of the color legend, as percentage of view size</oldsource>
+        <translation type="unfinished">Longueur du côté court de la légende des couleurs, en pourcentage de la taille de la vue</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
         <source>S:</source>
+        <extracomment>abbreviation of &quot;short&quot;</extracomment>
         <translation>S :</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
-        <source>Short side length of the color legend, as fraction of view size</source>
-        <translation>Longueur du côté court de la légende des couleurs, en tant que fraction de la taille de la vue</translation>
+        <source>Short side length of the color legend, relative to view size</source>
+        <oldsource>Short side length of the color legend, as fraction of view size</oldsource>
+        <translation type="unfinished">Longueur du côté court de la légende des couleurs, en tant que fraction de la taille de la vue</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
-        <source>Long side length of the color legend, as percentage of view size</source>
-        <translation>Longueur du côté long de la légende des couleurs, en pourcentage de la taille de la vue</translation>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
+        <source>Long side length of the color legend, relative to view size</source>
+        <oldsource>Long side length of the color legend, as percentage of view size</oldsource>
+        <translation type="unfinished">Longueur du côté long de la légende des couleurs, en pourcentage de la taille de la vue</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
         <source>L:</source>
+        <extracomment>abbreviation of &quot;long&quot;</extracomment>
         <translation>L:</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="321"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
-        <source>Long side length of the color legend, as fraction of view size</source>
-        <translation>Longueur du côté long de la légende des couleurs, en tant que fraction de la taille de la vue</translation>
+        <source>Long side length of the color legend, relative to view size</source>
+        <oldsource>Long side length of the color legend, as fraction of view size</oldsource>
+        <translation type="unfinished">Longueur du côté long de la légende des couleurs, en tant que fraction de la taille de la vue</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
@@ -8487,8 +8499,9 @@ a = Affine Transform</source>
     <name>qMRMLDisplayNodeWidget</name>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
-        <source>Display Node</source>
-        <translation>Afficher le Noeud</translation>
+        <source>Display Properties</source>
+        <oldsource>Display Node</oldsource>
+        <translation type="unfinished">Afficher le Noeud</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
@@ -8560,9 +8573,13 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLMarkupsAngleMeasurementsWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
+        <source>Angle Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
@@ -8608,11 +8625,11 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLMarkupsCurveSettingsWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
         <source>Curve Settings</source>
         <translation>Options de Courbe</translation>
@@ -8738,8 +8755,9 @@ a = Affine Transform</source>
     <name>qMRMLMarkupsDisplayNodeWidget</name>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
-        <source>Markups Display Node</source>
-        <translation>Nœud d&apos;affichage des annotations</translation>
+        <source>Markups Display Properties</source>
+        <oldsource>Markups Display Node</oldsource>
+        <translation type="unfinished">Nœud d&apos;affichage des annotations</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
@@ -9007,9 +9025,13 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLMarkupsInteractionHandleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation type="vanished">Forme</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
+        <source>Interaction Handles</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="44"/>
@@ -9070,9 +9092,13 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLMarkupsPlaneWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation type="vanished">Forme</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
+        <source>Plane Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
@@ -9143,11 +9169,11 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLMarkupsROIWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation type="vanished">Forme</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
         <translation>Paramètres du RDI</translation>
@@ -9191,17 +9217,25 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLMarkupsTestLineOptionsWidget</name>
     <message>
-        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation type="vanished">Forme</translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
+        <source>Test Line Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qMRMLMarkupsTestLineWidget</name>
     <message>
-        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation type="vanished">Forme</translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
+        <source>Test Line Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
@@ -9218,8 +9252,9 @@ a = Affine Transform</source>
     <name>qMRMLModelDisplayNodeWidget</name>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
-        <source>Model Display Node</source>
-        <translation>Nœud d&apos;affichage du modèle</translation>
+        <source>Model Display Properties</source>
+        <oldsource>Model Display Node</oldsource>
+        <translation type="unfinished">Nœud d&apos;affichage du modèle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
@@ -9690,9 +9725,13 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLPlotChartPropertiesWidget</name>
     <message>
-        <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation type="vanished">Forme</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
+        <source>Plot Chart Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
@@ -9825,9 +9864,13 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLPlotSeriesPropertiesWidget</name>
     <message>
-        <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
+        <source>Plot Series Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -10115,9 +10158,13 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLROIWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
+        <source>ROI Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
@@ -10127,7 +10174,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation>Gamme P-A :</translation>
+        <translation>Gamme P-A&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
@@ -10242,9 +10289,13 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
 <context>
     <name>qMRMLSceneFactoryWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
+        <source>Scene Factory</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
@@ -10458,8 +10509,12 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
+        <source>Segments Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation type="vanished">Forme</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="294"/>
@@ -11182,9 +11237,13 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
 <context>
     <name>qMRMLSettingsUnitWidget</name>
     <message>
-        <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
+        <source>Unit Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
@@ -11611,48 +11670,40 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <translation>Basculer la visibilité de la segmentation</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
         <source>S: </source>
-        <translation>S: </translation>
+        <translation type="vanished">S: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="79"/>
         <source>I &lt;-----&gt; S</source>
-        <translation type="unfinished">I &lt;-----&gt; S</translation>
+        <translation type="obsolete">I &lt;-----&gt; S</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
         <source>R: </source>
-        <translation>R: </translation>
+        <translation type="vanished">R: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="80"/>
         <source>L &lt;-----&gt; R</source>
-        <translation type="unfinished">G &lt;-----&gt; D</translation>
+        <translation type="obsolete">G &lt;-----&gt; D</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="81"/>
         <source>A: </source>
-        <translation>A: </translation>
+        <translation type="vanished">A: </translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="81"/>
         <source>P &lt;-----&gt; A</source>
-        <translation type="unfinished">P &lt;-----&gt; A</translation>
+        <translation type="obsolete">P &lt;-----&gt; A</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="82"/>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1564"/>
         <source>Oblique</source>
-        <translation>Oblique</translation>
+        <translation type="vanished">Oblique</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="409"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="400"/>
         <source>Slice distance from RAS origin</source>
         <translation>Distance de coupe à partir de l&apos;origine RAS</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2591"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2574"/>
         <source>Continue</source>
         <translation>Continuer</translation>
     </message>
@@ -11660,112 +11711,112 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
 <context>
     <name>qMRMLSliceControllerWidgetPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="489"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="480"/>
         <source>Linked</source>
         <translation>Lié</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="504"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="495"/>
         <source>Reformat</source>
         <translation>Reformater</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="519"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="510"/>
         <source>Lightbox view</source>
         <translation>Affichage Lightbox</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="531"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="522"/>
         <source>Custom</source>
         <translation>Personnalisé</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="541"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="532"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="568"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="559"/>
         <source>Compositing</source>
         <translation>Composition</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="589"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="580"/>
         <source>Slice spacing mode</source>
         <translation>Mode d&apos;espacement des coupes</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="593"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="584"/>
         <source>Manual spacing</source>
         <translation>Espacement manuel</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="608"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="599"/>
         <source>Field of view</source>
         <translation>Champ de vision</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="633"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="624"/>
         <source>Slice model mode</source>
         <translation>Mode modèle de tranche</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="653"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="644"/>
         <source>Manual FOV</source>
         <translation>Champ de vision manuel</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="678"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="669"/>
         <source>Manual Dimensions</source>
         <translation>Dimensions manuelles</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="703"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="694"/>
         <source>Manual Origin</source>
         <translation>Origine manuelle</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="732"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="723"/>
         <source>Segmentation</source>
         <translation>Segmentation</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="741"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="732"/>
         <source>LabelMap</source>
         <translation>Carte d&apos;étiquettes</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="750"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="741"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="904"/>
         <source>Hide label volume outlines</source>
         <translation>Masquer les contours des volumes d&apos;étiquettes</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="904"/>
         <source>Show label volume outlines</source>
         <translation>Afficher les contours des volumes d&apos;étiquettes</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="914"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Hide reformat widget</source>
         <translation>Masquer le widget de reformatage</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="914"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Show reformat widget</source>
         <translation>Afficher le widget de reformatage</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1512"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1507"/>
         <source>Orientation marker</source>
         <translation>Marqueur d&apos;orientation</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1548"/>
+        <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1543"/>
         <source>Ruler</source>
         <translation>Règle</translation>
     </message>
@@ -11773,9 +11824,13 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
 <context>
     <name>qMRMLSliceInformationWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
+        <source>Slice Information</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
@@ -12174,9 +12229,13 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
 <context>
     <name>qMRMLTextWidget</name>
     <message>
-        <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
+        <source>Text Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
@@ -12527,9 +12586,13 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
 <context>
     <name>qMRMLThreeDViewInformationWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
+        <source>3D View Information</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
@@ -13202,12 +13265,12 @@ p, li { white-space : pre-wrap ; }
 <context>
     <name>qMRMLViewControllerBar</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="372"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="362"/>
         <source>Restore view layout</source>
         <translation>Restaurer la disposition de la vue</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="377"/>
+        <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="367"/>
         <source>Maximize view</source>
         <translation>Maximiser la vue</translation>
     </message>
@@ -13314,9 +13377,13 @@ p, li { white-space : pre-wrap ; }
 <context>
     <name>qMRMLVolumeThresholdWidget</name>
     <message>
-        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
+        <source>Volume Thresholding</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
@@ -13406,6 +13473,16 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
         <source>New application version is available: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
+        <source>download site</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="76"/>
+        <source>Visit the %1 to check if a new version is available.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13600,6 +13677,16 @@ p, li { white-space : pre-wrap ; }
         <source>Sequences</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
+        <source>For more information see the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
+        <source>online documentation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerActionsDialog</name>
@@ -13756,65 +13843,66 @@ p, li { white-space : pre-wrap ; }
 <context>
     <name>qSlicerApplication</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="310"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="365"/>
         <source>General</source>
         <translation>Général</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="313"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="785"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="880"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="368"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="840"/>
         <source>Modules</source>
         <translation>Modules</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="317"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="372"/>
         <source>Appearance</source>
         <translation>Apparence</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="321"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="376"/>
         <source>Views</source>
         <translation>Vues</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="325"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="380"/>
         <source>User</source>
         <translation>Utilisateur</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="329"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="384"/>
         <source>Extensions</source>
         <translation>Extensions</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="333"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="388"/>
         <source>Cache</source>
         <translation>Cache</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="338"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="393"/>
         <source>Internationalization</source>
         <translation>Internationalisation</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="344"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
         <source>Python</source>
         <translation>Python</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="349"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="404"/>
         <source>Developer</source>
         <translation>Développeur</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="457"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="493"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="512"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="548"/>
         <source>%1 has caught an application error, </source>
         <translation>%1 a détecté une erreur d&apos;application, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="458"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="494"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="513"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="549"/>
         <source>please save your work and restart.
 
 </source>
@@ -13823,17 +13911,17 @@ p, li { white-space : pre-wrap ; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="459"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="514"/>
         <source>The application has run out of memory. </source>
         <translation>L&apos;application est à court de mémoire. </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="460"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="515"/>
         <source>winnt</source>
         <translation>winnt</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="462"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="517"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -13842,12 +13930,12 @@ p, li { white-space : pre-wrap ; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="464"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="519"/>
         <source>linux</source>
         <translation>linux</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="466"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="521"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -13856,12 +13944,12 @@ p, li { white-space : pre-wrap ; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="468"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="523"/>
         <source>darwin</source>
         <translation>darwin</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="470"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="525"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
@@ -13870,7 +13958,7 @@ p, li { white-space : pre-wrap ; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="474"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="529"/>
         <source>Adding more RAM may fix this issue.
 
 </source>
@@ -13879,14 +13967,14 @@ p, li { white-space : pre-wrap ; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="476"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="495"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="531"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="550"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
         <translation>Si vous avez une séquence d&apos;étapes répétable qui provoque ce message, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="477"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="496"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="551"/>
         <source>please report the issue following instructions available at https://slicer.org
 
 
@@ -13894,8 +13982,8 @@ p, li { white-space : pre-wrap ; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="478"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="497"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="533"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="552"/>
         <source>The message detail is:
 
 </source>
@@ -13904,19 +13992,19 @@ p, li { white-space : pre-wrap ; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="479"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="498"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
         <source>Exception thrown in event: </source>
         <translation>Exception levée dans l&apos;événement: </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="487"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="506"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="542"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="561"/>
         <source>Application Error</source>
         <translation>Erreur d&apos;application</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="663"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="718"/>
         <source>Are you sure you want to restart?</source>
         <translation>Voulez-vous vraiment redémarrer?</translation>
     </message>
@@ -13959,6 +14047,102 @@ Capacités graphiques de cet ordinateur:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
         <source>For more information see the %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
+        <source>Failed to find python interpreter for CLI: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="113"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="111"/>
+        <source>CLI description: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="114"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="112"/>
+        <source>Failed to read XML Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="151"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="189"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="201"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="207"/>
+        <source>CLI executable: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
+        <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="161"/>
+        <source>The process crashed some time after starting successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="165"/>
+        <source>The process timed out after %1 msecs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="169"/>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
+        <source>An error occurred when attempting to read from the process. For example, the process may not be running.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="179"/>
+        <source>Failed to execute process. An unknown error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="202"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="158"/>
+        <source>Failed to retrieve XML Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
+        <source>XML description doesn&apos;t start right away.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
+        <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
+        <source>CLI loadable: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
+        <source>Failed to retrieve Module Entry Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="236"/>
+        <source>Failed to resolve expected symbol &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerCLIModuleUIHelper</name>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="932"/>
+        <source>Compatible Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
+        <source>All Files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14239,57 +14423,88 @@ Capacités graphiques de cet ordinateur:
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="803"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="804"/>
         <source>Failed to create %1 directory</source>
         <translation>Impossible de créer le répertoire %1</translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1736"/>
+        <source>Built on top of:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1756"/>
+        <source>Licensing Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1757"/>
+        <source>Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1758"/>
+        <source>Acknowledgments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1765"/>
+        <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="615"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="581"/>
+        <source>Loading %1</source>
+        <extracomment>%1 is the filename</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="616"/>
         <source>%1 load failed.</source>
         <translation>Le chargement de %1 a échoué.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="785"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="786"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="800"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="801"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="833"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="834"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="846"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
         <source>No nodes were saved in the scene</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="917"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="918"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>Impossible de trouver un nœud stockable avec l&apos;ID %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="930"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="966"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1024"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="931"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="967"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1025"/>
         <source>Error encountered while exporting %1.</source>
         <translation type="unfinished">Erreur rencontrée lors de l&apos;exportation de %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="992"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="993"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1014"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1015"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14934,7 +15149,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Questions et demandes de fonctionnalités :&lt;/span&gt; visitez le &lt;a href=&quot;https ://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt;forum Slicer&lt;/span&gt;&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Rapports de bug : &lt;/span&gt;&lt;a href=&quot;https ://discourse.slicer.org/new-topic ?body=Problem%20report%20for%20[appname-version-platform] :%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp ;category=support&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt; publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bug sur le &lt;a href=&quot;https ://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt;traqueur de bug de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Décrivez les étapes qui ont conduit à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Attention - si vous travaillez avec des données de patients :&lt;/span&gt; Vérifiez que les messages de journal ne contiennent pas d&apos;informations permettant d&apos;identifier un patient. Envoyez les messages de journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Questions et demandes de fonctionnalités&#x202f;:&lt;/span&gt; visitez le &lt;a href=&quot;https&#x202f;://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;forum Slicer&lt;/span&gt;&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Rapports de bug&#x202f;: &lt;/span&gt;&lt;a href=&quot;https&#x202f;://discourse.slicer.org/new-topic&#x202f;?body=Problem%20report%20for%20[appname-version-platform]&#x202f;:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp&#x202f;;category=support&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt; publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bug sur le &lt;a href=&quot;https&#x202f;://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;traqueur de bug de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Décrivez les étapes qui ont conduit à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Attention - si vous travaillez avec des données de patients&#x202f;:&lt;/span&gt; Vérifiez que les messages de journal ne contiennent pas d&apos;informations permettant d&apos;identifier un patient. Envoyez les messages de journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -15202,9 +15417,8 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
 <context>
     <name>qSlicerExtensionsButtonBox</name>
     <message>
-        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
@@ -15270,6 +15484,11 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="92"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
         <translation>Dire à l&apos;application de désinstaller cette extension lorsqu&apos;elle redémarrera.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
+        <source>Extensions</source>
+        <translation type="unfinished">Extensions</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
@@ -15407,18 +15626,21 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1029"/>
-        <source>slicerRevision is not specified</source>
-        <translation>slicerRevision n&apos;est pas spécifié</translation>
+        <source>&apos;slicerRevision&apos; parameter is not specified</source>
+        <oldsource>slicerRevision is not specified</oldsource>
+        <translation type="unfinished">slicerRevision n&apos;est pas spécifié</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1033"/>
-        <source>slicerOs is not specified</source>
-        <translation>slicerOs n&apos;est pas spécifié</translation>
+        <source>&apos;slicerOs&apos; parameter is not specified</source>
+        <oldsource>slicerOs is not specified</oldsource>
+        <translation type="unfinished">slicerOs n&apos;est pas spécifié</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1037"/>
-        <source>slicerArch is not specified</source>
-        <translation>slicerArch n&apos;est pas spécifié</translation>
+        <source>&apos;slicerArch&apos; parameter is not specified</source>
+        <oldsource>slicerArch is not specified</oldsource>
+        <translation type="unfinished">slicerArch n&apos;est pas spécifié</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1043"/>
@@ -15426,210 +15648,236 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
         <translation>extensionSlicerRevision [%1] est différent de slicerRevision [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1048"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1049"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
         <translation>extensionArch [%1] est différent de slicerArch [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1053"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1054"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
         <translation>extensionOs [%1] est différent de slicerOs [%2]</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1402"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1403"/>
         <source>Failed to add bookmark extension: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1569"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1570"/>
         <source>Retrieving extension metadata for %1 extension</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1581"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1582"/>
         <source>Failed to get metadata from server for extension: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1598"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1599"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1629"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1630"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1662"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1663"/>
         <source>Download of extension failed, id is invalid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1683"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1684"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1700"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2366"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1701"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2371"/>
         <source>Failed to retrieve metadata for %1 extension</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1742"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1743"/>
         <source>Failed downloading: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1753"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1754"/>
         <source>Could not create temporary file for writing: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1774"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1775"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1791"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1792"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1804"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1805"/>
         <source>InstallExtension failed: extensionName is not set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1809"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1810"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1815"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
         <source>Extensions/InstallPath setting is not set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1821"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1822"/>
         <source>Failed to create extension installation directory %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1929"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1930"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1946"/>
-        <source>%1 extension depends on the following extensions, which could not be found: %2</source>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1953"/>
+        <source>%1 depends on the following extensions, which could not be found:</source>
+        <extracomment>%1 is the extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1981"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1958"/>
+        <source>The extension may not function properly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1959"/>
+        <source>Unresolved dependencies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2878"/>
+        <source>&apos;extensionName&apos; parameter is not specified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1983"/>
         <source>Installed extension %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2063"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2065"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2118"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2120"/>
         <source>Failed to download extension metadata from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2136"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2138"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2168"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2170"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2179"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2181"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2254"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2256"/>
         <source>Failed downloading %1 extension from %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2270"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2272"/>
         <source>Could not create .updates directory for update archive in %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2290"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2293"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
+        <extracomment>%1 is the path name, %2 is the error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2353"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2357"/>
         <source>Missing download information for %1 extension</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2383"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
         <source>%1 extension scheduled for update</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2428"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2435"/>
         <source>Failed to update %1 extension</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2434"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2442"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2557"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2566"/>
         <source>Failed to uninstall %1 extension</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2563"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2573"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2837"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2848"/>
         <source>Extension %1 is incompatible</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2867"/>
         <source>extensionName is not specified</source>
-        <translation>Le nom de l&apos;extension n&apos;est pas spécifié</translation>
+        <translation type="vanished">Le nom de l&apos;extension n&apos;est pas spécifié</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3060"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3072"/>
         <source>Corrupted %1 extension package</source>
+        <extracomment>%1 is extension name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3067"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3080"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
+        <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3112"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3119"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3125"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3132"/>
         <source>Failed to copy directory %1 into directory %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3126"/>
-        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3133"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3139"/>
+        <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3146"/>
         <source>Failed to remove directory %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16012,9 +16260,13 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
 <context>
     <name>qSlicerLabelMapVolumeDisplayWidget</name>
     <message>
-        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="14"/>
+        <source>Labelmap Volume Display Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
@@ -16053,9 +16305,13 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
 <context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
-        <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
+        <source>SlicerLoadableModuleTemplate</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -16077,7 +16333,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="87"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="527"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="529"/>
         <source>Favorite Modules</source>
         <translation>Modules favoris</translation>
     </message>
@@ -16117,627 +16373,633 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
         <translation>Barre d&apos;outils de mise en page</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="217"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="218"/>
         <source>&amp;File</source>
         <translation>&amp;Fichier</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="221"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="222"/>
         <source>Recent</source>
         <oldsource>Recently Loaded</oldsource>
         <translation type="unfinished">Récemment chargé</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="235"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="236"/>
         <source>&amp;Edit</source>
         <translation>&amp;Éditer</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="248"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="249"/>
         <source>&amp;View</source>
         <translation type="unfinished">&amp;Vue</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="252"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="376"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="253"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="378"/>
         <source>Layout</source>
         <translation>Disposition</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="289"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="291"/>
         <source>&amp;Toolbars</source>
         <translation type="unfinished">&amp;Barres d&apos;outils</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="294"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="296"/>
         <source>&amp;Appearance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="312"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="314"/>
         <source>&amp;Help</source>
         <translation>&amp;Aide</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="326"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="328"/>
         <source>Load Scene</source>
         <translation>Charger la scène</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="329"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="331"/>
         <source>Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</source>
         <translation>Ouvrir un navigateur de fichiers pour sélectionner une scène (mrml, xcat ou xml) à charger. Il efface d&apos;abord toute scène existante dans Slicer et réinitialise l&apos;état de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="338"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="340"/>
         <source>Load Data</source>
         <translation>Charger les données</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="341"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="380"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="343"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="382"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
         <translation>Créez un widget &quot;Ajouter des données&quot; qui vous permet de sélectionner des ensembles de données individuels à ajouter à la scène existante. Cette option de chargement est particulièrement utile lorsque vous souhaitez charger plusieurs types de données différents à la fois (volumes, modèles, etc.) qui peuvent ne pas encore être décrits par un fichier de scène.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="350"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="352"/>
         <source>Load DICOM</source>
         <translation>Charger DICOM</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="353"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="355"/>
         <source>Raise the DICOM module for loading DICOM datasets.</source>
         <translation>Relever le module DICOM pour charger les ensembles de données DICOM.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="365"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="367"/>
         <source>Import Scene</source>
         <translation>Importer une scène</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="368"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="370"/>
         <source>Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</source>
         <translation>Ouvrir un navigateur de fichiers pour naviguer et sélectionner un fichier de scène à ajouter à la scène existante. La scène n&apos;est pas dégagée.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="377"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="379"/>
         <source>&amp;Add Data</source>
         <translation type="unfinished">&amp;Ajouter des données</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="383"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="385"/>
         <source>Ctrl+O</source>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="392"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="394"/>
         <source>Add Volume</source>
         <translation>Ajouter du volume</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="395"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="397"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
         <translation>Créer un widget &quot;Ajouter un volume&quot; qui vous permet de sélectionner un ensemble de données volumétriques à ajouter à la scène existante. Le panneau &quot;Options de volume&quot; peut être utilisé pour clarifier comment un jeu de données sélectionné doit être chargé et affiché.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="404"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="406"/>
         <source>Add Transform</source>
         <translation>Ajouter une transformation</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="407"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="409"/>
         <source>Raise a standard file browser that allows you to select a transform to the existing scene.</source>
         <translation>Lancer un navigateur de fichiers standard qui vous permet de sélectionner une transformation de la scène existante.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="639"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="641"/>
         <source>Save</source>
         <translation>Sauvegarder</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="419"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="421"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
         <translation>Afficher le widget &quot;Enregistrer les données&quot;, qui offre de nombreuses options pour enregistrer une scène et/ou des ensembles de données individuels.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="422"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="424"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="431"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="433"/>
         <source>Save Scene To Directory</source>
         <translation>Enregistrer la scène dans le répertoire</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="434"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="436"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
         <translation>EN CONSTRUCTION: enregistrez la scène actuelle dans un répertoire autonome.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="443"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="445"/>
         <source>Save Scene to MRB File</source>
         <translation>Enregistrer la scène dans le fichier MRB</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="446"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="448"/>
         <source>Create a Medical Reality Bundle containing the scene.</source>
         <translation>Créez un lot de réalité médicale contenant la scène.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="455"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="457"/>
         <source>Close Scene</source>
         <translation>Fermer la scène</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="458"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="460"/>
         <source>Close the current scene and reset the application state. </source>
         <translation>Fermez la scène actuelle et réinitialisez l&apos;état de l&apos;application. </translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="461"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="463"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="466"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="468"/>
         <source>E&amp;xit</source>
         <translation>&amp;Quitter</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="469"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="471"/>
         <source>Quit the application</source>
         <translation>Quitter l&apos;application</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="478"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="480"/>
         <source>Undo</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="481"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="483"/>
         <source>Undo the history of undoable commands, from last to first.</source>
         <translation>Annuler l&apos;historique des commandes annulables, de la dernière à la première.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="484"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="486"/>
         <source>Ctrl+Z</source>
         <translation>Ctrl+Z</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="493"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="495"/>
         <source>Redo</source>
         <translation>Refaire</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="496"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="498"/>
         <source>Redo the history of commands most recently undone, from last to first.</source>
         <translation>Refaire l&apos;historique des dernières commandes annulées, de la dernière à la première.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="499"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="501"/>
         <source>Ctrl+Y</source>
         <translation>Ctrl+Y</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="416"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="418"/>
         <source>Save Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="508"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="510"/>
         <source>Extensions Manager</source>
         <translation>Gestionnaire d&apos;extensions</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="513"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
         <translation>Lancer l&apos;assistant &quot;Gestionnaire d&apos;extensions&quot; qui fournit l&apos;état et des informations sur les extensions disponibles</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="514"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="516"/>
         <source>Ctrl+4</source>
         <translation>Ctrl+4</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="519"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="521"/>
         <source>Cache &amp; Remote I/O Manager</source>
         <translation>Gestionnaire de cache et d&apos;E/S distantes</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="522"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="524"/>
         <source>The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</source>
         <translation>L&apos;interface Cache et gestion des données à distance fournit l&apos;état et des informations sur tous les transferts de données à distance et permet un certain contrôle sur le cache local.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="530"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="532"/>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="539"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="541"/>
         <source>Application Settings</source>
         <translation>Paramètres de l&apos;application</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="542"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="544"/>
         <source>The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</source>
         <translation>Les paramètres de l&apos;application fournissent des options pour contrôler les préférences de l&apos;interface utilisateur de l&apos;application dans le registre de l&apos;application, afin qu&apos;elles soient conservées d&apos;une session à l&apos;autre.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="545"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="547"/>
         <source>Ctrl+2</source>
         <translation>Ctrl+2</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="554"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="556"/>
         <source>Cut</source>
         <translation>Couper</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="557"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="559"/>
         <source>Cut currently selected item and place in clipboard</source>
         <translation>Couper l&apos;élément actuellement sélectionné et le placer dans le presse-papiers</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="560"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="562"/>
         <source>Ctrl+X</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="569"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="571"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="572"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="574"/>
         <source>Copy currently selected item to clipboard</source>
         <translation>Copier l&apos;élément actuellement sélectionné dans le presse-papiers</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="575"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="577"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="584"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="586"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="587"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="589"/>
         <source>Paste the current contents of the clipboard</source>
         <translation>Coller le contenu actuel du presse-papiers</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="590"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="592"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="601"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="603"/>
         <source>&amp;Maximize view</source>
         <translation>&amp;Agrandir la vue</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="604"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="606"/>
         <source>Maximize/Minimize the current view.</source>
         <translation>Agrandir/Réduire la vue actuelle.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="607"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="609"/>
         <source>Ctrl+6</source>
         <translation>Ctrl+6</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="612"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="614"/>
         <source>&amp;Error Log</source>
         <translation>&amp;Journal des erreurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="615"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="617"/>
         <source>Raise the error log display.</source>
         <translation>Augmenter l&apos;affichage du journal des erreurs.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="618"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="620"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="623"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="625"/>
         <source>Feedback: report usability issue (www)</source>
         <translation>Commentaires: signaler un problème d&apos;utilisation (www)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="626"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="628"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</source>
         <translation>Créer un sujet sur le forum Slicer (https://discourse.slicer.org) pour signaler tout problème d&apos;utilisation et faire des suggestions pour les résoudre.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="631"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="633"/>
         <source>Feedback: make a feature request (www)</source>
         <translation>Commentaires: faire une demande de fonctionnalité (www)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="634"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="636"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</source>
         <translation>Créer un sujet sur le forum Slicer (https://discourse.slicer.org) pour demander une nouvelle fonctionnalité.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="639"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="641"/>
         <source>Load Module</source>
         <translation>Charger le module</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="648"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="650"/>
         <source>Conventional</source>
         <translation>Conventionnel</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="660"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="662"/>
         <source>Four-Up</source>
         <translation>À quatre</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="672"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="674"/>
         <source>Dual 3D</source>
         <translation>Double 3D</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="684"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="686"/>
         <source>3D only</source>
         <translation>3D uniquement</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="696"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="698"/>
         <source>3D Table</source>
         <translation>Tableau 3D</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="708"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="710"/>
         <source>Red slice only</source>
         <translation>Coupe rouge seulement</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="720"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="722"/>
         <source>Yellow slice only</source>
         <translation>Coupe jaune seulement</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="732"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="734"/>
         <source>Green slice only</source>
         <translation>Coupe verte seulement</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="744"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="746"/>
         <source>Tabbed 3D</source>
         <translation>3D à onglets</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="756"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="758"/>
         <source>Tabbed slice</source>
         <translation>Coupe à onglets</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="768"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="770"/>
         <source>Compare</source>
         <translation>Comparer</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="780"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="783"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="782"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="785"/>
         <source>Compare Widescreen</source>
         <translation>Comparer les écrans larges</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="795"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="797"/>
         <source>Two over two</source>
         <translation>Deux sur deux</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="798"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="800"/>
         <source>Two over Two Layout</source>
         <translation>Disposition deux sur deux</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="810"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="812"/>
         <source>Home</source>
         <translation>Accueil</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="813"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="815"/>
         <source>Favorite module for easy access</source>
         <translation>Module préféré pour un accès facile</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="816"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="818"/>
         <source>Ctrl+H</source>
         <translation>Ctrl+H</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="828"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="830"/>
         <source>Conventional Widescreen</source>
         <translation>Écran large conventionnel</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="837"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="839"/>
         <source>Triple 3D</source>
         <translation>Triple 3D</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="846"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="848"/>
         <source>Three over three</source>
         <translation>Trois sur trois</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="855"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="857"/>
         <source>Four over four</source>
         <translation>Quatre sur quatre</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="864"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="927"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="866"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="929"/>
         <source>2 viewers</source>
         <translation>2 téléspectateurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="873"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="936"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="875"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="938"/>
         <source>3 viewers</source>
         <translation>3 téléspectateurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="882"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="945"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="884"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="947"/>
         <source>4 viewers</source>
         <translation>4 téléspectateurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="891"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="954"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="893"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="956"/>
         <source>5 viewers</source>
         <translation>5 téléspectateurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="900"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="963"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="902"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="965"/>
         <source>6 viewers</source>
         <translation>6 viseurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="909"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="972"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="911"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="974"/>
         <source>7 viewers</source>
         <translation>7 viseurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="918"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="981"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="920"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="983"/>
         <source>8 viewers</source>
         <translation>8 viseurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="990"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="992"/>
         <source>Compare Grid</source>
         <translation>Grille de comparaison</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="999"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1001"/>
         <source>2x2 viewers</source>
         <translation>2x2 téléspectateurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1008"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1010"/>
         <source>3x3 viewers</source>
         <translation>3x3 téléspectateurs</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1017"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1019"/>
         <source>4x4 viewers</source>
         <translation>téléspectateurs 4x4</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1022"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1024"/>
         <source>Record Macro</source>
         <translation>Enregistrer une macro</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1030"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1032"/>
         <source>Play Macro</source>
         <translation>Lire la macro</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1042"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1044"/>
         <source>Side by side</source>
         <translation>Cote à cote</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1051"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1054"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1053"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1056"/>
         <source>Four by three slice</source>
         <translation>Coupe quatre par trois</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1063"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1066"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1065"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1068"/>
         <source>Four by two slice</source>
         <translation>Coupe quatre par deux</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1075"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1078"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1077"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1080"/>
         <source>Five by two slice</source>
         <translation>Coupe cinq par deux</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1087"/>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1090"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1089"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1092"/>
         <source>Three by three slice</source>
         <translation>Coupe trois par trois</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1099"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1101"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1104"/>
+        <source>Dual-monitor Four-Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1113"/>
         <source>Plot only</source>
         <translation>Parcelle uniquement</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1102"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1116"/>
         <source>Plot view</source>
         <translation>Vue du tracé</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1114"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1128"/>
         <source>Four-Up Plot</source>
         <translation>Parcelle à quatre</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1117"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1131"/>
         <source>Three slices and a plot in four-Up layout</source>
         <translation>Trois tranches et une parcelle en disposition à quatre</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1129"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1143"/>
         <source>Conventional Plot</source>
         <translation>Parcelle conventionnelle</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1132"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1146"/>
         <source>Conventional three slices and 3D view with an additional plot</source>
         <translation>Trois coupes conventionnelles et vue 3D avec un tracé supplémentaire</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1144"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1158"/>
         <source>Three over three Plot</source>
         <translation>Trois sur trois pièce</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1147"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1161"/>
         <source>Three plots over three slices</source>
         <translation>Trois pièces sur trois coupes</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1156"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1170"/>
         <source>Four-Up Table</source>
         <translation>Table à quatre</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1165"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1179"/>
         <source>Four-Up Quantitative</source>
         <translation>Quantitatif à quatre</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1168"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1182"/>
         <source>Four-up slice and 3D view with an additional table and plot</source>
         <translation>Coupe quadruple et vue 3D avec un tableau et un tracé supplémentaires</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1173"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1187"/>
         <source>Reset to default</source>
         <translation>Réinitialiser par défaut</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1184"/>
+        <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1198"/>
         <source>Show Status Bar</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16747,9 +17009,9 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
         <translation>Réduire/développer le panneau de l&apos;interface graphique et permettre aux visualiseurs de Slicer d&apos;occuper toute la fenêtre de l&apos;application</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="322"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="336"/>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="350"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="324"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="338"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="352"/>
         <source>Select number of viewers...</source>
         <translation>Sélectionner le nombre de spectateurs...</translation>
     </message>
@@ -16759,94 +17021,114 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="443"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="193"/>
+        <source>Module Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="445"/>
         <source>Python Console</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="466"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="457"/>
+        <source>Slicer Python Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="468"/>
         <source>&amp;Python Console</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="467"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="469"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="469"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="471"/>
         <source>Ctrl+3</source>
         <translation type="unfinished">Ctrl+3</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="469"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="471"/>
         <source>Ctrl+`</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="628"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="571"/>
+        <source>Clear History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="630"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
         <translation>Certaines données ont été modifiées. Voulez-vous les enregistrer avant de quitter?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="632"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="634"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
         <translation>La scène a été modifiée. Voulez-vous l&apos;enregistrer avant de quitter?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="637"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="639"/>
         <source>Save before exit?</source>
         <translation>Enregistrer avant de quitter?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="641"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="643"/>
         <source>Exit (discard modifications)</source>
         <translation>Quitter (ignorer les modifications)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="643"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="645"/>
         <source>Cancel exit</source>
         <translation>Rester dans Slicer</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="673"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="675"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
         <translation>Certaines données ont été modifiées. Voulez-vous les enregistrer avant de fermer la scène?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="677"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="679"/>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
         <translation>La scène a été modifiée. Voulez-vous l&apos;enregistrer avant de fermer la scène?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="687"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="689"/>
         <source>Save before closing scene?</source>
         <translation>Enregistrer avant de fermer la scène?</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="692"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="694"/>
         <source>Close scene (discard modifications)</source>
         <translation>Fermer la scène (ignorer les modifications)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="693"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="695"/>
         <source>Save scene</source>
         <translation>Enregistrer la scène</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="936"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="938"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
         <translation>Répertoire du groupe de données du segment (sélectionner un répertoire vide)</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="968"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="970"/>
         <source>Save Data Bundle File</source>
         <translation>Enregistrer le fichier de groupe de données</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="969"/>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
         <source>Medical Reality Bundle (*.mrb)</source>
         <translation>Ensemble de réalité médicale (*.mrb)</translation>
+    </message>
+    <message>
+        <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1002"/>
+        <source>MRML Scene</source>
+        <translation type="unfinished">Scène MRML</translation>
     </message>
 </context>
 <context>
@@ -17259,8 +17541,10 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
         <source>Import control points coordinates and properties from table node.
-Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
-        <translation>Importer les coordonnées et les propriétés des points de contrôle à partir du nœud de la table.
+Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
+        <oldsource>Import control points coordinates and properties from table node.
+Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
+        <translation type="unfinished">Importer les coordonnées et les propriétés des points de contrôle à partir du nœud de la table.
 Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélectionné, visible, verrouillé, description.</translation>
     </message>
 </context>
@@ -17681,7 +17965,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="242"/>
-        <source>Core</source>
+        <source>Unknown type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17707,7 +17991,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="260"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Type:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="265"/>
@@ -17859,22 +18143,22 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <translation>Basculer la barre d&apos;outils des annotations</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="157"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
         <source>Place Menu</source>
         <translation>Placer le Menu</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="163"/>
         <source>Create and Place</source>
         <translation>Créer et placer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="165"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
         <source>Place</source>
         <translation>Placer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="365"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="367"/>
         <source>Place a control point</source>
         <translation type="unfinished">Placer un point de contrôle</translation>
     </message>
@@ -18000,12 +18284,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
 <context>
     <name>qSlicerPresetComboBox</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="144"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="143"/>
         <source>Preset</source>
         <translation>Préréglage</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="238"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="266"/>
         <source>Select a Preset</source>
         <translation>Sélectionnez un préréglage</translation>
     </message>
@@ -18014,8 +18298,11 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <name>qSlicerReformatModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
-        <source>Form</source>
-        <translation>Formulaire</translation>
+        <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="382"/>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
+        <source>Reformat</source>
+        <oldsource>Form</oldsource>
+        <translation type="unfinished">Formulaire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
@@ -18103,6 +18390,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <translation>Coronal</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="382"/>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
         <source>Reformat</source>
@@ -18333,6 +18621,19 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
         <source>Histogram</source>
         <translation>Histogramme</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSceneBundleReader</name>
+    <message>
+        <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="59"/>
+        <source>MRB Slicer Data Bundle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="98"/>
+        <source>Medical Reality Bundle</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18760,7 +19061,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="594"/>
         <source>Exported segments:</source>
-        <translation>Segments exportés  :</translation>
+        <translation>Segments exportés&#x202f; :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
@@ -18947,9 +19248,13 @@ Veuillez choisir un répertoire vide.</translation>
 <context>
     <name>qSlicerSequencesModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="obsolete">Form</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
+        <source>Sequences</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
@@ -20381,9 +20686,13 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerSimpleMarkupsWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="obsolete">Form</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerSimpleMarkupsWidget.ui" line="20"/>
+        <source>Markup Control Points</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -20398,24 +20707,28 @@ p, li { white-space: pre-wrap; }
     <name>qSlicerSubjectHierarchyDICOMPlugin</name>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="486"/>
-        <source>Data to export need to be under a study item with a parent patient.
+        <source>Data to export need to be under a study item, placed under a patient item in the subject hierarchy.
 Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
 
-If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</source>
+Click Cancel, to create the patient/study hierarchy manually and drag-and-drop the exportable data under the study.</source>
+        <oldsource>Data to export need to be under a study item with a parent patient.
+Default patient and study will be created and the selected data and its related datasets will be moved in it for export.
+
+If you&apos;d like to create the hierarchy manually, please click Cancel, then create a patient by right-clicking the empty area in Subject hierarchy in the Data module and choosing &apos;Create new subject&apos;. Study can be similarly created under the patient. The data to export can be drag&amp;dropped under the study.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="494"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="491"/>
         <source>Create new patient and study for DICOM export?</source>
         <translation>Créer un nouveau patient et une nouvelle étude pour l&apos;exportation DICOM ?</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="590"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="587"/>
         <source>Anonymous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="618"/>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="615"/>
         <source>No study description</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20605,7 +20918,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="145"/>
         <source>Center view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vue centrale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="147"/>
@@ -20742,7 +21055,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="195"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="197"/>
@@ -20796,9 +21109,13 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
-        <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="obsolete">Form</translation>
+    </message>
+    <message>
+        <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
+        <source>SlicerSuperLoadableModuleTemplate</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -21085,14 +21402,24 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerTablesReader</name>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="145"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="134"/>
+        <source>Table reading failed: no file extension specified: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="149"/>
         <source>QInputDialog::getText()</source>
         <translation type="unfinished">QInputDialog::getText()</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="146"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="150"/>
         <source>Database Password:</source>
         <translation type="unfinished">Database Password:</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="182"/>
+        <source>Failed to read table from  &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21111,9 +21438,13 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
-        <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="obsolete">Form</translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
+        <source>TemplateKey</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
@@ -21448,9 +21779,13 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
 <context>
     <name>qSlicerViewControllersModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="obsolete">Form</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
+        <source>View Controllers</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
@@ -22192,6 +22527,14 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     </message>
 </context>
 <context>
+    <name>qSlicerWelcomeModule</name>
+    <message>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
+        <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerWelcomeModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
@@ -22199,135 +22542,188 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <translation>Bienvenue</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="82"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
         <source>Download Sample Data</source>
         <translation>Télécharger des exemples de données</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="428"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
         <translation>Lance l&apos;assistant &quot;Gestionnaire d&apos;extensions&quot; qui permet de trouver, télécharger et installer les extensions Slicer.&lt;br&gt;&lt;br&gt;Une extension est un paquet de livraison regroupant un ou plusieurs modules Slicer.&lt;br&gt;&lt;br&gt;Après avoir installé une extension, les modules associés seront disponibles dans le sélecteur de modules.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="127"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
         <translation>Personnaliser Slicer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="65"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="103"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
         <source>Add Data</source>
         <translation>Charger des Données</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="114"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="111"/>
         <source>Add DICOM Data</source>
         <translation>Charger des données DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="144"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="141"/>
         <source>Explore Added Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="161"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="190"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
         <source>Feedback</source>
         <translation>Commentaires</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="233"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="220"/>
+        <source>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
         <source>About</source>
         <translation>A propos</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="276"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
+        <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
         <source>Documentation &amp;&amp; Tutorials</source>
         <translation>Documentation et Tutoriels</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="319"/>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="374"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="320"/>
+        <source>&lt;p&gt;&lt;b&gt;Documentation&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Quick Start&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Get Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;User Interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Mouse Buttons, &amp;quot;Hot-keys&amp;quot; and Keyboard Shortcuts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Browse Tutorials&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Contact Us&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Visit the Slicer Forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;Join Us on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Search Feature Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Report a Bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;About 3D Slicer&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;View License&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="407"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="322"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
         <source>Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="346"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="379"/>
         <source>Check for updates: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="358"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="361"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
         <source>Automatically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="377"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
         <source>Check now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="386"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
         <source>Application update: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="405"/>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="431"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="464"/>
         <source>No information is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="418"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
         <source>Extension updates: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="463"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
         <source>Acknowledgment</source>
         <translation>Remerciements</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="112"/>
+        <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="529"/>
+        <source>&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
+&lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
+&lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
         <source>Checking for updates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="113"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="109"/>
         <source>No updates were found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="218"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Raising %1 Module:</source>
         <translation type="unfinished">Raising %1 Module:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="219"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
         <translation>Malheureusement, le module demandé n&apos;est pas accessible dans cette session de Slicer.</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="438"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="401"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation type="unfinished">
@@ -22336,12 +22732,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="440"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="403"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="474"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="437"/>
         <source>New application version is available: %1</source>
         <translation type="unfinished"></translation>
     </message>
