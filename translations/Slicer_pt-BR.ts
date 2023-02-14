@@ -5132,7 +5132,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation>É possível gravar uma cópia dos modelos depois de cada um dos passos intermediários (cubos marchantes, suavização e decimação, se não suavização conjunta; caso contrário, apenas após a decimação). Este modelos intermediários não sao gravados no arquivo mrml e é necessário carregá-los manualmente appos desligar a exclusão de arquivos temporários na janela pythin (Visualizar -&gt; Janela Python) usando o comando: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
+        <translation>É possível gravar uma cópia dos modelos depois de cada um dos passos intermediários (cubos marchantes, suavização e decimação, se não suavização conjunta; caso contrário, apenas após a decimação). Este modelos intermediários não são gravados no arquivo mrml e é necessário carregá-los manualmente após desligar a exclusão de arquivos temporários na janela Python (Visualizar -&gt; Janela Python) usando o comando: slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
@@ -17079,12 +17079,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="445"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Janela Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="457"/>
         <source>Slicer Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Janela Python do Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="468"/>
@@ -20250,12 +20250,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Janela Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Display in dockable window:</source>
-        <translation type="unfinished">Display in dockable window:</translation>
+        <translation>Mostrar na janela acoplável:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
