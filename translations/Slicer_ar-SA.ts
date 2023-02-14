@@ -21584,7 +21584,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="92"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>حرر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
