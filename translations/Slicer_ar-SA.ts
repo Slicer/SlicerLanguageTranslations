@@ -16414,7 +16414,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="314"/>
         <source>&amp;Help</source>
-        <translation>ومساعدة</translation>
+        <translation>تعليمات</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="328"/>
