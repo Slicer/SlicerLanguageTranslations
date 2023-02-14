@@ -7383,7 +7383,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished">Sementes</translation>
+        <translation>Sementes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
@@ -7653,97 +7653,97 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de Preenchimento de Buracos Binários com Votação</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplica uma operação de votação a fim de preencher cavidades. Isto pode ser usado para suavizar contornos e para preencher furos em imagens binárias. Esta técnica é usada freqüentemente ao segmentar órgãos completos que podem ter dutos ou vasculatura que podem não ter sido incluídos na segmentação inicial, por exemplo, pulmões, rins, fígado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo de comando foi derivado do Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (Direitos: Insight Software Consortium)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de preenchimento de furos binários</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros para Preenchimento de Furos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
         <source>Maximum Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio Máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
         <source>Majority Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiar de Maioria</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
         <source>Background</source>
-        <translation type="unfinished">Plano de fundo</translation>
+        <translation>Plano de fundo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="12"/>
         <source>Foreground</source>
-        <translation type="unfinished">Plano de frente</translation>
+        <translation>Plano de frente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished"></translation>
+        <translation>O raio de um buraco a ser preenchido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished"></translation>
+        <translation>O número de pixels acima de 50% que decidirá se um pixel OFF se tornará ON ou não. Por exemplo, se a vizinhança de um pixel tiver 124 pixels (excluindo a si mesmo), os 50% serão 62, e se você estiver definido um limiar de Maioria de 5, isso significa que o filtro exigirá 67 ou mais pixels vizinhos para serem ativados em para mudar o pixel de OFF atual para ON.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor associado com o fundo (não o objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished"></translation>
+        <translation>O valor associado com o primeiro plano (objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros de entrada/saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Saída</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada a ser filtrado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Saída filtrada</translation>
+        <translation>Saída filtrada</translation>
     </message>
 </context>
 <context>
@@ -8164,37 +8164,37 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="17"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="23"/>
         <source>Input vector volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume vetorial de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="30"/>
         <source>Pick the input to the algorithm.</source>
-        <translation type="unfinished">Selecione a entrada do algoritmo.</translation>
+        <translation>Selecione a entrada do algoritmo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="51"/>
         <source>Conversion Method: </source>
-        <translation type="unfinished"></translation>
+        <translation>Método de Conversão: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="58"/>
         <source>Output scalar Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume escalar de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Selecione a saída do algoritmo.</translation>
+        <translation>Selecione a saída do algoritmo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -8202,13 +8202,13 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="102"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Captura de tela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="103"/>
         <source>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image.</source>
         <oldsource>Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</oldsource>
-        <translation type="unfinished">Capture a screenshot of the full layout, 3D view or slice views. Use File, Save to save the image. Edit in the Annotations module.</translation>
+        <translation>Capture a screenshot of the full layout, visão 3D ou visão de fatias. Use Arquivo, Salvar para salvar a imagem.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
