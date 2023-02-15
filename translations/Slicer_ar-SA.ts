@@ -14990,7 +14990,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>بيانات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
