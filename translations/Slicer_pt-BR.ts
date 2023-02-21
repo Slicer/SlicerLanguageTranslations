@@ -10839,7 +10839,7 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="451"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="470"/>
         <source>Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</source>
-        <translation type="unfinished">Value relative to other segments. The final opacity depends both on the per-segment opacity and the overall opacity (above)</translation>
+        <translation>Valor em relação a outros segmentos. A opacidade final depende da opacidade por segmento e da opacidade geral (acima)</translation>
     </message>
 </context>
 <context>
@@ -10847,12 +10847,12 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="14"/>
         <source>qMRMLSegmentationFileExportWidget</source>
-        <translation type="unfinished">qMRMLSegmentationFileExportWidget</translation>
+        <translation>qMRMLSegmentaçãoFileExportWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="35"/>
         <source>Visible segments only: </source>
-        <translation type="unfinished">Visible segments only: </translation>
+        <translation>Somente segmentos visíveis: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="45"/>
