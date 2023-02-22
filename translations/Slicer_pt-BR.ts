@@ -10937,22 +10937,22 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="278"/>
         <source>STL</source>
-        <translation type="unfinished">STL</translation>
+        <translation>STL</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="283"/>
         <source>OBJ</source>
-        <translation type="unfinished">OBJ</translation>
+        <translation>OBJ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="288"/>
         <source>NRRD</source>
-        <translation type="unfinished">NRRD</translation>
+        <translation>NRRD</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="293"/>
         <source>NIFTI</source>
-        <translation type="unfinished">NIFTI</translation>
+        <translation>NIFTI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="301"/>
@@ -10980,7 +10980,7 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="59"/>
         <source>Source geometry:</source>
-        <translation type="unfinished">Source geometry:</translation>
+        <translation>Geometria da fonte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="83"/>
@@ -11055,7 +11055,7 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="26"/>
         <source>qMRMLSegmentationRepresentationsListView</source>
-        <translation type="unfinished">qMRMLSegmentationRepresentationsListView</translation>
+        <translation>qMRMLSegmentationRepresentationsListView</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationRepresentationsListView.ui" line="53"/>
@@ -11184,7 +11184,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="125"/>
@@ -11262,12 +11262,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="139"/>
         <source>Record proxy nodes modifications continuously</source>
-        <translation type="unfinished">Record proxy nodes modifications continuously</translation>
+        <translation>Gravar modificações de nós representantes continuamente</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserPlayWidget.ui" line="156"/>
         <source>Record snapshot of current state of all proxy nodes</source>
-        <translation type="unfinished">Record snapshot of current state of all proxy nodes</translation>
+        <translation>Gravar captura do estado atual de todos os nós representantes</translation>
     </message>
 </context>
 <context>
@@ -11275,12 +11275,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="20"/>
         <source>qMRMLSequenceBrowserSeekWidget</source>
-        <translation type="unfinished">qMRMLSequenceBrowserSeekWidget</translation>
+        <translation>qMRMLSequenceBrowserSeekWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceBrowserSeekWidget.ui" line="26"/>
         <source>Index name</source>
-        <translation type="unfinished">Index name</translation>
+        <translation>Nome do índice</translation>
     </message>
 </context>
 <context>
@@ -11297,12 +11297,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unit:</translation>
+        <translation>Unidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
         <source>Select the current unit node to modify.</source>
-        <translation type="unfinished">Select the current unit node to modify.</translation>
+        <translation>Selecione o nó da unidade atual para modificar.</translation>
     </message>
 </context>
 <context>
@@ -11310,413 +11310,413 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="14"/>
         <source>Slice Controller</source>
-        <translation type="unfinished">Slice Controller</translation>
+        <translation>Controlador de fatias</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="51"/>
         <source>Select the label map</source>
-        <translation type="unfinished">Select the label map</translation>
+        <translation>Selecione o mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="179"/>
         <source>Select the foreground</source>
-        <translation type="unfinished">Select the foreground</translation>
+        <translation>Selecione o primeiro plano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="319"/>
         <source>Select the background</source>
-        <translation type="unfinished">Select the background</translation>
+        <translation>Selecione o plano de fundo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
         <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-        <translation type="unfinished">Link slice views. Synchronizes properties of all slice views in the same view group.</translation>
+        <translation>Vincular exibições de fatia. Sincroniza as propriedades de todas as exibições de fatia no mesmo grupo de exibição.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
         <source>Toggle slice visibility in the 3D view.</source>
-        <translation type="unfinished">Toggle slice visibility in the 3D view.</translation>
+        <translation>Alterna a visibilidade da fatia na visualização 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat).</translation>
+        <translation>Orientação da fatia (Axial, Sagital, Coronal, Reformatar).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="495"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="500"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagital</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="505"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="510"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>Reformatar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
         <source>Lightbox view.</source>
-        <translation type="unfinished">Lightbox view.</translation>
+        <translation>Visualização da iluminação.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="535"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished">Show reformat widget in 3D view</translation>
+        <translation>Mostrar interface de reformatação na visualização 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="567"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation type="unfinished">Slice spacing may be set automatically or manually by the user or context</translation>
+        <translation>O espaçamento entre fatias pode ser definido automática ou manualmente pelo usuário ou pelo contexto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="598"/>
         <source>Show orientation marker</source>
-        <translation type="unfinished">Show orientation marker</translation>
+        <translation>Mostrar marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="615"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
         <source>Advanced options</source>
-        <translation type="unfinished">Advanced options</translation>
+        <translation>Opções avançadas</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="695"/>
         <source>Hot linked</source>
-        <translation type="unfinished">Hot linked</translation>
+        <translation>Ligação quente</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="698"/>
         <source>Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</source>
-        <translation type="unfinished">Set linking behavior to hot linked controls. When on, Slice interactions affect other slices immediately. When off, Slice interactions affect other slices after the interaction completes.</translation>
+        <translation>Definir o comportamento de ligação com os controles ligados a quente. Quando ligado, as interações das fatias afetam outras fatias imediatamente. Quando desligado, as interações das fatias afetam outras fatias após a conclusão da interação.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="707"/>
         <source>Fit to window</source>
-        <translation type="unfinished">Fit to window</translation>
+        <translation>Ajustar à janela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="710"/>
         <source>Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</source>
-        <translation type="unfinished">Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</translation>
+        <translation>Redefinir o campo de visão. Ajusta o campo de visão da fatia para corresponder à extensão da camada de menor volume (fundo, depois primeiro plano, depois rótulo).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="722"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotate to volume plane</translation>
+        <translation>Girar para o plano de volume</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
         <source>Hide labelmap outlines</source>
-        <translation type="unfinished">Hide labelmap outlines</translation>
+        <translation>Ocultar contornos do mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="741"/>
         <source>Toggle between showing label map volume with regions outlined or filled.</source>
-        <translation type="unfinished">Toggle between showing label map volume with regions outlined or filled.</translation>
+        <translation>Alterne entre mostrar o volume do mapa de rótulos com regiões contornadas ou preenchidas.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="754"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>Mostrar interfacede reformatação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="762"/>
         <source>Cube</source>
-        <translation type="unfinished">Cube</translation>
+        <translation>Cubo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="770"/>
         <source>Human</source>
-        <translation type="unfinished">Human</translation>
+        <translation>Humano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="778"/>
         <source>Axes</source>
-        <translation type="unfinished">Axes</translation>
+        <translation>Eixos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="786"/>
         <source>Alpha blend</source>
-        <translation type="unfinished">Alpha blend</translation>
+        <translation>Combinação alfa</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="794"/>
         <source>Reverse alpha blend</source>
-        <translation type="unfinished">Reverse alpha blend</translation>
+        <translation>Reverter combinação alfa</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="802"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="810"/>
         <source>Subtract</source>
-        <translation type="unfinished">Subtract</translation>
+        <translation>Subtrair</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="823"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="831"/>
         <source>FOV, Spacing match Volumes</source>
-        <translation type="unfinished">FOV, Spacing match Volumes</translation>
+        <translation>FOV, Volumes de espaçamento de correspondência</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="839"/>
         <source>FOV, Spacing match 2D</source>
-        <translation type="unfinished">FOV, Spacing match 2D</translation>
+        <translation>FOV, espaçamento de correspondência 2D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="847"/>
         <source>FOV matches 2D, Spacing matches Volumes</source>
-        <translation type="unfinished">FOV matches 2D, Spacing matches Volumes</translation>
+        <translation>FOV corresponde 2D, Espaçamento corresponde a Volumes</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="855"/>
         <source>FOV matches Volumes, Spacing matches 2D View</source>
-        <translation type="unfinished">FOV matches Volumes, Spacing matches 2D View</translation>
+        <translation>FOV corresponde a Volumes, Espaçamento corresponde a Visualização 2D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="863"/>
         <source>1x1 view</source>
-        <translation type="unfinished">1x1 view</translation>
+        <translation>Visualização 1x1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="871"/>
         <source>1x2 view</source>
-        <translation type="unfinished">1x2 view</translation>
+        <translation>Visualização 1x2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="879"/>
         <source>1x3 view</source>
-        <translation type="unfinished">1x3 view</translation>
+        <translation>Visualização 1x3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="887"/>
         <source>1x4 view</source>
-        <translation type="unfinished">1x4 view</translation>
+        <translation>Visualização 1x4</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="895"/>
         <source>1x6 view</source>
-        <translation type="unfinished">1x6 view</translation>
+        <translation>Visualização 1x6</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="903"/>
         <source>1x8 view</source>
-        <translation type="unfinished">1x8 view</translation>
+        <translation>Visualização 1x8</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="911"/>
         <source>2x2 view</source>
-        <translation type="unfinished">2x2 view</translation>
+        <translation>Visualização 2x2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="919"/>
         <source>3x3 view</source>
-        <translation type="unfinished">3x3 view</translation>
+        <translation>Visualização 3x3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="927"/>
         <source>6x6 view</source>
-        <translation type="unfinished">6x6 view</translation>
+        <translation>Visualização 6x6</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="935"/>
         <source>Foreground volume</source>
-        <translation type="unfinished">Foreground volume</translation>
+        <translation>Volume de primeiro plano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="943"/>
         <source>Background volume</source>
-        <translation type="unfinished">Background volume</translation>
+        <translation>Volume de fundo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="951"/>
         <source>Label map volume</source>
-        <translation type="unfinished">Label map volume</translation>
+        <translation>Volume do mapa do rótulo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="967"/>
         <source>Interpolate foreground</source>
-        <translation type="unfinished">Interpolate foreground</translation>
+        <translation>Interpolar o primeiro plano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="983"/>
         <source>Interpolate background</source>
-        <translation type="unfinished">Interpolate background</translation>
+        <translation>Interpolar o plano de fundo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="999"/>
         <source>Show LabelMap</source>
-        <translation type="unfinished">Show LabelMap</translation>
+        <translation>Mostrar o mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1002"/>
         <source>Toggle labelmap visibility</source>
-        <translation type="unfinished">Toggle labelmap visibility</translation>
+        <translation>Alternar a visibilidade do mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1018"/>
         <source>Show Foreground</source>
-        <translation type="unfinished">Show Foreground</translation>
+        <translation>Mostrar primeiro plano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1021"/>
         <source>Toggle foreground visibility</source>
-        <translation type="unfinished">Toggle foreground visibility</translation>
+        <translation>Alternar a visibilidade em primeiro plano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1037"/>
         <source>Show Background</source>
-        <translation type="unfinished">Show Background</translation>
+        <translation>Mostrar plano de fundo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1040"/>
         <source>Toggle background visibility</source>
-        <translation type="unfinished">Toggle background visibility</translation>
+        <translation>Alternar a visibilidade do plano de fundo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">Show in 3D</translation>
+        <translation>Mostrar em 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
         <source>Toggle slice visibility in 3D view</source>
-        <translation type="unfinished">Toggle slice visibility in 3D view</translation>
+        <translation>Alternar a visibilidade da fatia na visualização 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1064"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished">Lock Normal To Camera</translation>
+        <translation>Bloquear Normal para a Câmera</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1067"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+        <translation>Bloquear a interface de reformatação normal para o da câmera. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1075"/>
         <source>No orientation marker</source>
-        <translation type="unfinished">No orientation marker</translation>
+        <translation>Sem marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1078"/>
         <source>Hide orientation marker</source>
-        <translation type="unfinished">Hide orientation marker</translation>
+        <translation>Ocultar marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1086"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Pequeno</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1089"/>
         <source>Set orientation marker size to small</source>
-        <translation type="unfinished">Set orientation marker size to small</translation>
+        <translation>Definir o tamanho do marcador de orientação para pequeno</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1097"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1100"/>
         <source>Set orientation marker size to small to medium</source>
-        <translation type="unfinished">Set orientation marker size to small to medium</translation>
+        <translation>Defina o tamanho do marcador de orientação como pequeno a médio</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1108"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Grande</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1111"/>
         <source>Set orientation marker size to large</source>
-        <translation type="unfinished">Set orientation marker size to large</translation>
+        <translation>Definir o tamanho do marcador de orientação como grande</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1119"/>
         <source>No ruler</source>
-        <translation type="unfinished">No ruler</translation>
+        <translation>Sem régua</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1122"/>
         <source>Hide ruler</source>
-        <translation type="unfinished">Hide ruler</translation>
+        <translation>Ocultar régua</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1130"/>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>Fina</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1133"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished">Show thin ruler</translation>
+        <translation>Mostrar régua fina</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1141"/>
         <source>Thick</source>
-        <translation type="unfinished">Thick</translation>
+        <translation>Espesso</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1144"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished">Show thick ruler</translation>
+        <translation>Mostrar régua grossa</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1152"/>
         <source>White ruler</source>
-        <translation type="unfinished">White ruler</translation>
+        <translation>Régua branca</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1160"/>
         <source>Black ruler</source>
-        <translation type="unfinished">Black ruler</translation>
+        <translation>Régua preta</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1168"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished">Yellow ruler</translation>
+        <translation>Régua amarela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1177"/>
         <source>Toggle segmentation outline/fill</source>
-        <translation type="unfinished">Toggle segmentation outline/fill</translation>
+        <translation>Alternar contorno/preenchimento de segmentação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1180"/>
         <source>Toggle between segmentation outline only, outline and fill, and fill only states</source>
-        <translation type="unfinished">Toggle between segmentation outline only, outline and fill, and fill only states</translation>
+        <translation>Alternar entre os estados de segmentação somente contorno, contorno e preenchimento e somente preenchimento</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1196"/>
         <source>Show Segmentation</source>
-        <translation type="unfinished">Show Segmentation</translation>
+        <translation>Mostrar Segmentação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1199"/>
         <source>Toggle segmentation visibility</source>
-        <translation type="unfinished">Toggle segmentation visibility</translation>
+        <translation>Alternar a visibilidade da segmentação</translation>
     </message>
     <message>
         <source>S: </source>
@@ -11749,12 +11749,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="400"/>
         <source>Slice distance from RAS origin</source>
-        <translation type="unfinished">Slice distance from RAS origin</translation>
+        <translation>Distância da fatia da origem RAS</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="2574"/>
         <source>Continue</source>
-        <translation type="unfinished">Continue</translation>
+        <translation>Continuar</translation>
     </message>
 </context>
 <context>
@@ -11762,52 +11762,52 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="480"/>
         <source>Linked</source>
-        <translation type="unfinished">Linked</translation>
+        <translation>Vinculado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="495"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>Reformatar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="510"/>
         <source>Lightbox view</source>
-        <translation type="unfinished">Lightbox view</translation>
+        <translation>Visualização da iluminação.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="522"/>
         <source>Custom</source>
-        <translation type="unfinished">Custom</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="532"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="559"/>
         <source>Compositing</source>
-        <translation type="unfinished">Compositing</translation>
+        <translation>Composição</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="580"/>
         <source>Slice spacing mode</source>
-        <translation type="unfinished">Slice spacing mode</translation>
+        <translation>Modo de espaçamento da fatia</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="584"/>
         <source>Manual spacing</source>
-        <translation type="unfinished">Manual spacing</translation>
+        <translation>Espaçamento manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="599"/>
         <source>Field of view</source>
-        <translation type="unfinished">Field of view</translation>
+        <translation>Campo de visão</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="624"/>
         <source>Slice model mode</source>
-        <translation type="unfinished">Slice model mode</translation>
+        <translation>Modo de modelo de fatia</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="644"/>
@@ -11817,7 +11817,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="669"/>
         <source>Manual Dimensions</source>
-        <translation type="unfinished">Manual Dimensions</translation>
+        <translation>Dimensões manuais</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="694"/>
@@ -11827,47 +11827,47 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="723"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="732"/>
         <source>LabelMap</source>
-        <translation type="unfinished">LabelMap</translation>
+        <translation>Mapa de Rótulos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="741"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="904"/>
         <source>Hide label volume outlines</source>
-        <translation type="unfinished">Hide label volume outlines</translation>
+        <translation>Ocultar contornos de volume do rótulos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="904"/>
         <source>Show label volume outlines</source>
-        <translation type="unfinished">Show label volume outlines</translation>
+        <translation>Mostrar os contornos do volume do rótulos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Hide reformat widget</source>
-        <translation type="unfinished">Hide reformat widget</translation>
+        <translation>Ocultar interface de reformatação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="909"/>
         <source>Show reformat widget</source>
-        <translation type="unfinished">Show reformat widget</translation>
+        <translation>Mostrar interface de reformatação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1507"/>
         <source>Orientation marker</source>
-        <translation type="unfinished">Orientation marker</translation>
+        <translation>Marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1543"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>Régua</translation>
     </message>
 </context>
 <context>
@@ -11884,130 +11884,130 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>Nome do Esquema:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished">Name of the slice</translation>
+        <translation>Nome da fatia</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
         <source>Orientation:</source>
-        <translation type="unfinished">Orientation:</translation>
+        <translation>Orientação:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat)</source>
-        <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat)</translation>
+        <translation>Orientação da fatia (Axial, Sagital, Coronal, Reformatar).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="59"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagittal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="64"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformat</translation>
+        <translation>Reformatar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
         <source>Slice visibility:</source>
         <oldsource>Slice visible:</oldsource>
-        <translation type="unfinished">Slice visible:</translation>
+        <translation>Visibilidade das fatias:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
         <source>Toggle the visibility of the slice in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the slice in the 3D scene</translation>
+        <translation>Alternar a visibilidade da fatia na cena 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="121"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="111"/>
         <source>Widget visibility:</source>
         <oldsource>Widget visible:</oldsource>
-        <translation type="unfinished">Widget visible:</translation>
+        <translation>Visibilidade da interface:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
         <source>Toggle the visibility of the reformat widget in the 3D scene</source>
-        <translation type="unfinished">Toggle the visibility of the reformat widget in the 3D scene</translation>
+        <translation>Alternar a visibilidade do widget de reformatação na cena 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="145"/>
         <source>Dimension of the slice.</source>
-        <translation type="unfinished">Dimension of the slice.</translation>
+        <translation>Dimensão da fatia.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="148"/>
         <source>Dimension:</source>
-        <translation type="unfinished">Dimension:</translation>
+        <translation>Dimensão:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="171"/>
         <source>Field of view of slice</source>
-        <translation type="unfinished">Field of view of slice</translation>
+        <translation>Campo de visão da fatia</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
         <source>Field of view:</source>
-        <translation type="unfinished">Field of view:</translation>
+        <translation>Campo de visão</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
         <source>Layout of the lightbox (rows, columns)</source>
-        <translation type="unfinished">Layout of the lightbox (rows, columns)</translation>
+        <translation>Esquema da caixa de luz (linhas, colunas)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="194"/>
         <source>Lightbox layout:</source>
-        <translation type="unfinished">Lightbox layout:</translation>
+        <translation>Esquema da iluminação:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="203"/>
         <source>Number of rows in the lightbox</source>
-        <translation type="unfinished">Number of rows in the lightbox</translation>
+        <translation>Número de linhas na caixa de luz</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="216"/>
         <source>Number of columns in the lightbox</source>
-        <translation type="unfinished">Number of columns in the lightbox</translation>
+        <translation>Número de colunas na caixa de luz</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="231"/>
         <source>Slice spacing may be set automatically or manually by the user or context</source>
-        <translation type="unfinished">Slice spacing may be set automatically or manually by the user or context</translation>
+        <translation>O espaçamento da fatia pode ser definido automaticamente ou manualmente pelo usuário ou pelo contexto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="234"/>
         <source>Slice spacing mode:</source>
-        <translation type="unfinished">Slice spacing mode:</translation>
+        <translation>Modo de espaçamento da fatia:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
@@ -12022,12 +12022,12 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>Visualizar grupo:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+        <translation>A navegação e as propriedades vinculadas são sincronizadas em exibições que possuem o mesmo índice de grupo.</translation>
     </message>
 </context>
 <context>
@@ -12040,7 +12040,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceVerticalControllerWidget.cxx" line="80"/>
         <source>Slice distance from RAS origin</source>
-        <translation type="unfinished">Slice distance from RAS origin</translation>
+        <translation>Distância da fatia da origem RAS</translation>
     </message>
 </context>
 <context>
@@ -12048,7 +12048,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceWidget.ui" line="14"/>
         <source>qMRMLSliceWidget</source>
-        <translation type="unfinished">qMRMLSliceWidget</translation>
+        <translation>qMRMLSliceWidget</translation>
     </message>
 </context>
 <context>
@@ -12056,71 +12056,71 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="130"/>
         <source>Node name and type</source>
-        <translation type="unfinished">Node name and type</translation>
+        <translation>Nome e tipo do nó</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="131"/>
         <source>Node description</source>
-        <translation type="unfinished">Node description</translation>
+        <translation>Descrição do nó</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
         <source>Show/hide branch or node</source>
-        <translation type="unfinished">Show/hide branch or node</translation>
+        <translation>Mostrar/ocultar ramificação ou nó</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
         <source>Node color</source>
-        <translation type="unfinished">Node color</translation>
+        <translation>Cor do nó</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
         <source>Applied transform</source>
-        <translation type="unfinished">Applied transform</translation>
+        <translation>Transformação aplicada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node ID</source>
-        <translation type="unfinished">Node ID</translation>
+        <translation>Identificação do nó</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="982"/>
         <source>No subject hierarchy role assigned! Please report error</source>
-        <translation type="unfinished">No subject hierarchy role assigned! Please report error</translation>
+        <translation>Nenhuma função de hierarquia de assunto atribuída! Por favor reporte o erro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1148"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1158"/>
         <source>Apply transform to children</source>
-        <translation type="unfinished">Apply transform to children</translation>
+        <translation>Aplicar transformação nós filhos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1162"/>
         <source>This node is not transformable</source>
-        <translation type="unfinished">This node is not transformable</translation>
+        <translation>Este nó não é transformável</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1351"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+        <translation>Alguns nós da ramificação já estão transformados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1352"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+        <translation>Deseja endurecer todas as transformações já aplicadas antes de definir a nova?
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+  Nota: Se você escolher não, a transformação aplicada será simplesmente substituída.</translation>
     </message>
 </context>
 <context>
@@ -12128,32 +12128,32 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="253"/>
         <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="unfinished">Allow interactively modify the transform in 3D views</translation>
+        <translation>Permite modificar interativamente a transformação em visualizações 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="258"/>
         <source>Edit properties of the current transform</source>
-        <translation type="unfinished">Edit properties of the current transform</translation>
+        <translation>Editar propriedades da transformação atual</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="263"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation type="unfinished">Harden current transform on this node and all children nodes</translation>
+        <translation>Endurecer a transformação atual neste nó e todos os nós filhos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="268"/>
         <source>Create and apply new transform</source>
-        <translation type="unfinished">Create and apply new transform</translation>
+        <translation>Criar e aplicar nova transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="276"/>
         <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="unfinished">Remove parent transform from all the nodes in this branch</translation>
+        <translation>Remova a transformação pai de todos os nós nesta ramificação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
         <source>Delete subject hierarchy branch?</source>
-        <translation type="unfinished">Delete subject hierarchy branch?</translation>
+        <translation>Excluir ramificação da hierarquia de objetos?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1989"/>
@@ -12161,10 +12161,10 @@ Deseja prosseguir com a alteração da representação principal?</translation>
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation type="unfinished">The deleted subject hierarchy item has children. Do you want to remove those too?
+        <translation>O item de hierarquia de objetos excluído tem filhos. Deseja removê-los também?
 
-If you choose yes, the whole branch will be deleted, including all children.
-If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</translation>
+Se você escolher sim, toda a ramificação será excluída, incluindo todos os filhos.
+Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os filhos da hierarquia de objetos serão excluídos automaticamente. Isso pode ser alterado posteriormente nas Configurações do aplicativo.</translation>
     </message>
 </context>
 <context>
@@ -12174,12 +12174,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="493"/>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="509"/>
         <source>Failed to create Plot</source>
-        <translation type="unfinished">Failed to create Plot</translation>
+        <translation>Falha ao criar plotagem</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableView.cxx" line="524"/>
         <source>Failed to plot data</source>
-        <translation type="unfinished">Failed to plot data</translation>
+        <translation>Falha ao plotar dados</translation>
     </message>
 </context>
 <context>
@@ -12187,17 +12187,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="14"/>
         <source>Table View Controller</source>
-        <translation type="unfinished">Table View Controller</translation>
+        <translation>Controlador de Exibição de Tabela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="64"/>
         <source>Allow table editing</source>
-        <translation type="unfinished">Allow table editing</translation>
+        <translation>Permitir edição de tabela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="94"/>
@@ -12209,52 +12209,52 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="251"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="265"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>Gere um gráfico interativo com base na seleção do usuário das colunas da tabela.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="173"/>
         <source>Add column</source>
-        <translation type="unfinished">Add column</translation>
+        <translation>Adicionar coluna</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="187"/>
         <source>Delete column</source>
-        <translation type="unfinished">Delete column</translation>
+        <translation>Excluir coluna</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="201"/>
         <source>Lock first column</source>
-        <translation type="unfinished">Lock first column</translation>
+        <translation>Bloquear primeira coluna</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="234"/>
         <source>Add row</source>
-        <translation type="unfinished">Add row</translation>
+        <translation>Adicionar linha</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="248"/>
         <source>Delete row</source>
-        <translation type="unfinished">Delete row</translation>
+        <translation>Excluir linha</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="262"/>
         <source>Lock first row</source>
-        <translation type="unfinished">Lock first row</translation>
+        <translation>Bloquear primeira linha</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="135"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
@@ -12262,17 +12262,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>Gere um gráfico interativo com base na seleção do usuário das colunas da tabela.</translation>
     </message>
 </context>
 <context>
@@ -12289,17 +12289,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="47"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="57"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation>Salvar</translation>
     </message>
 </context>
 <context>
@@ -12307,43 +12307,43 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="20"/>
         <source>3D View Controller</source>
-        <translation type="unfinished">3D View Controller</translation>
+        <translation>Controlador de visualização 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
         <source>Zoom out of the scene by a small amount.</source>
-        <translation type="unfinished">Zoom out of the scene by a small amount.</translation>
+        <translation>Reduza o zoom um pouco da cena.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="79"/>
         <source>Spin the 3D view.</source>
-        <translation type="unfinished">Spin the 3D view.</translation>
+        <translation>Gire a visualização 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="99"/>
         <source>Rock the 3D view.</source>
-        <translation type="unfinished">Rock the 3D view.</translation>
+        <translation>Balance a visualização 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="119"/>
         <source>Toggle visibility of elements in the 3D view.</source>
-        <translation type="unfinished">Toggle visibility of elements in the 3D view.</translation>
+        <translation>Alternar a visibilidade dos elementos na visualização 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="139"/>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="185"/>
         <source>Orientation marker</source>
-        <translation type="unfinished">Orientation marker</translation>
+        <translation>Marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
-        <translation type="unfinished">Zoom in on the scene by a small amount.</translation>
+        <translation>Ampliar um pouco a cena.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
         <source>Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</source>
-        <translation type="unfinished">Select among stereo viewing options (3DSlicer must be started with stereo enabled to use these features).</translation>
+        <translation>Selecione entre as opções de visualização estéreo (3DSlicer deve ser iniciado com estéreo ativado para usar esses recursos).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
