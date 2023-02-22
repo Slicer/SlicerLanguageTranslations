@@ -2211,7 +2211,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>Output Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
@@ -8712,7 +8712,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
         <source>Output node: </source>
-        <translation type="unfinished">Output node: </translation>
+        <translation>عقدة الإخراج: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="268"/>
@@ -11049,12 +11049,12 @@ This may mean losing important data that cannot be created again from the new ma
 (Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing master representation?</source>
-        <translation type="unfinished">Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
-This may mean losing important data that cannot be created again from the new master representation.
+        <translation>سيؤدي تغيير التمثيل الرئيسي إلى جعل تمثيل &quot;المعيار الذهبي&quot; هو التمثيل المحدد ، وسيؤدي إلى حذف جميع التمثيلات الأخرى.
+قد يعني هذا فقدان البيانات المهمة التي لا يمكن إنشاؤها مرة أخرى من التمثيل الرئيسي الجديد.
 
-(Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
+(تذكير: التمثيل الرئيسي هو نوع البيانات الذي يتم حفظه على القرص ، والذي يستخدم كمدخل عند إنشاء تمثيلات أخرى)
 
-Do you wish to proceed with changing master representation?</translation>
+هل ترغب في المضي قدما في تغيير التمثيل الرئيسي؟</translation>
     </message>
 </context>
 <context>
