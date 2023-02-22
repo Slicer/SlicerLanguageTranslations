@@ -14711,7 +14711,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="87"/>
         <source>Select or create a new parameter node.</source>
-        <translation type="unfinished">Select or create a new parameter node.</translation>
+        <translation>حدد أو أنشئ عقدة معلمة جديدة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="98"/>
@@ -14731,7 +14731,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="134"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished">Select or create a new input ROI.</translation>
+        <translation>حدد أو أنشئ عائد استثمار إدخال جديد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
@@ -18595,7 +18595,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
         <source>Select the color mapping for scalar volumes to colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد تعيين اللون لوحدات التخزين القياسية إلى الألوان.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
@@ -22340,12 +22340,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="68"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة وحدات التخزين هي واجهة لضبط النافذة والمستوى والعتبة ولون LUT والمعلمات الأخرى التي تتحكم في عرض بيانات صورة وحدة التخزين في المشهد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="87"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
     </message>
 </context>
 <context>
@@ -22358,47 +22358,47 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source>Active Volume: </source>
-        <translation type="unfinished">Active Volume: </translation>
+        <translation>الحجم النشط: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
         <source>Volume Information</source>
-        <translation type="unfinished">Volume Information</translation>
+        <translation>حجم المعلومات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
         <source>Convert to LabelMap:</source>
-        <translation type="unfinished">Convert to LabelMap:</translation>
+        <translation>قم بالتحويل إلى LabelMap:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="132"/>
         <source>Replace current node</source>
-        <translation type="unfinished">Replace current node</translation>
+        <translation>استبدال العقدة الحالية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="139"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>حول</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>وسيلة إيضاح اللون</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="131"/>
         <source>Convert to label map:</source>
-        <translation type="unfinished">Convert to label map:</translation>
+        <translation>تحويل إلى خريطة التسمية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="137"/>
         <source>Convert to scalar volume:</source>
-        <translation type="unfinished">Convert to scalar volume:</translation>
+        <translation>التحويل إلى الحجم القياسي:</translation>
     </message>
 </context>
 <context>
@@ -22407,22 +22407,22 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="92"/>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="106"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="107"/>
         <source>Dicom</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>جميع الملفات</translation>
     </message>
 </context>
 <context>
