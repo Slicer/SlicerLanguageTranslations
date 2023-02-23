@@ -22526,7 +22526,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT و CTSC و Slicer Community. راجع &lt;a href=&quot;https://www.slicer.org&quot;&gt; https://www.slicer.org &lt;/a&gt; للحصول على التفاصيل. نود أيضًا أن نعرب عن خالص شكرنا لأعضاء مجتمع مستخدمي Slicer الذين ساعدونا في تصميم محتويات وحدة الترحيب هذه ، والتي تستمر ملاحظاتهم في تحسين الوظائف وسهولة الاستخدام وتجربة مستخدم Slicer.</translation>
     </message>
 </context>
 <context>
@@ -22580,7 +22580,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة جديدة متاحة من التطبيق. انقر فوق الزر للذهاب إلى صفحة التنزيل.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
@@ -22658,7 +22658,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="407"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر فوق الزر للتحقق من وجود تحديثات الآن. لاحظ أنه سيتم تسجيل إحصائيات الاستخدام مجهولة المصدر.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
@@ -22673,7 +22673,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق بشكل دوري من وجود تحديثات. لاحظ أنه سيتم تسجيل إحصاءات الاستخدام مجهولة المصدر. إذا ظهر المربع على أنه محدد جزئيًا ، فهذا يعني أن التحديثات التلقائية يتم تحديدها فقط للتطبيق أو للامتدادات ، ولكن ليس كلاهما - انقر فوق خانة الاختيار لتمكين / تعطيل كافة عمليات البحث عن التحديثات التلقائية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
