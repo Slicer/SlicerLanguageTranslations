@@ -12348,288 +12348,288 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="216"/>
         <source>Show ruler. Only available in orthographic projection mode.</source>
-        <translation type="unfinished">Show ruler. Only available in orthographic projection mode.</translation>
+        <translation>Mostrar régua. Disponível apenas no modo de projeção ortogonal.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="219"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="236"/>
         <source>Toggle between orthographic and perspective rendering in the 3D view.</source>
-        <translation type="unfinished">Toggle between orthographic and perspective rendering in the 3D view.</translation>
+        <translation>Alterne entre renderização ortogonal e em perspectiva na visualização 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="257"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="401"/>
         <source>Center view</source>
-        <translation type="unfinished">Center view</translation>
+        <translation>Vista central</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="264"/>
         <source>Link 3D views. Synchronizes properties of all 3D views in the same view group.</source>
-        <translation type="unfinished">Link 3D views. Synchronizes properties of all 3D views in the same view group.</translation>
+        <translation>Vincular visualizações 3D. Sincroniza as propriedades de todas as visões 3D no mesmo grupo de visualizações.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="296"/>
         <source>No Stereo</source>
-        <translation type="unfinished">No Stereo</translation>
+        <translation>Sem Estéreo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="304"/>
         <source>Red/blue</source>
-        <translation type="unfinished">Red/blue</translation>
+        <translation>Vermelho/azul</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="312"/>
         <source>Anaglyph</source>
-        <translation type="unfinished">Anaglyph</translation>
+        <translation>Anáglifo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="320"/>
         <source>QuadBuffer</source>
-        <translation type="unfinished">QuadBuffer</translation>
+        <translation>QuadBuffer</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="328"/>
         <source>Interlaced</source>
-        <translation type="unfinished">Interlaced</translation>
+        <translation>Entrelaçado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="331"/>
         <source>Switch to Interlaced stereo mode</source>
-        <translation type="unfinished">Switch to Interlaced stereo mode</translation>
+        <translation>Alternar para o modo estéreo entrelaçado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="342"/>
         <source>3D cube</source>
-        <translation type="unfinished">3D cube</translation>
+        <translation>Cubo 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="353"/>
         <source>3D axis label</source>
-        <translation type="unfinished">3D axis label</translation>
+        <translation>Rótulo do eixo 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="364"/>
         <source>Light blue background</source>
-        <translation type="unfinished">Light blue background</translation>
+        <translation>Fundo azul claro</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="367"/>
         <source>Set light blue background</source>
-        <translation type="unfinished">Set light blue background</translation>
+        <translation>Definir fundo azul claro</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="375"/>
         <source>Black background</source>
-        <translation type="unfinished">Black background</translation>
+        <translation>Fundo preto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="378"/>
         <source>Set black background</source>
-        <translation type="unfinished">Set black background</translation>
+        <translation>Definir fundo preto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="386"/>
         <source>White background</source>
-        <translation type="unfinished">White background</translation>
+        <translation>Fundo branco</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="389"/>
         <source>Set white background</source>
-        <translation type="unfinished">Set white background</translation>
+        <translation>Definir fundo branco</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="398"/>
         <source>Center</source>
-        <translation type="unfinished">Center</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="409"/>
         <source>Use depth peeling</source>
-        <translation type="unfinished">Use depth peeling</translation>
+        <translation>Usar o descascamento de profundidade</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="412"/>
         <source>Depth peeling is used to render transparent surface models in order</source>
-        <translation type="unfinished">Depth peeling is used to render transparent surface models in order</translation>
+        <translation>O descascamento em profundidade é usado para tornar os modelos de superfície transparentes em ordem</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
         <source>Show/Hide frames per second (FPS)</source>
-        <translation type="unfinished">Show/Hide frames per second (FPS)</translation>
+        <translation>Mostrar/Ocultar quadros por segundo (FPS)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="432"/>
         <source>User Defined 1</source>
-        <translation type="unfinished">User Defined 1</translation>
+        <translation>Definido pelo usuário 1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="435"/>
         <source>Switch to user defined stereo mode 1</source>
-        <translation type="unfinished">Switch to user defined stereo mode 1</translation>
+        <translation>Alternar para o modo estéreo definido pelo usuário 1</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="443"/>
         <source>User Defined 2</source>
-        <translation type="unfinished">User Defined 2</translation>
+        <translation>Definido pelo usuário 2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="446"/>
         <source>Switch to user defined stereo mode 2</source>
-        <translation type="unfinished">Switch to user defined stereo mode 2</translation>
+        <translation>Alternar para o modo estéreo definido pelo usuário 2</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="454"/>
         <source>User Defined 3</source>
-        <translation type="unfinished">User Defined 3</translation>
+        <translation>Definido pelo usuário 3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="457"/>
         <source>Switch to user defined stereo mode 3</source>
-        <translation type="unfinished">Switch to user defined stereo mode 3</translation>
+        <translation>Alternar para o modo estéreo definido pelo usuário 3</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="465"/>
         <source>No orientation marker</source>
-        <translation type="unfinished">No orientation marker</translation>
+        <translation>Sem marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="468"/>
         <source>Hide orientation marker</source>
-        <translation type="unfinished">Hide orientation marker</translation>
+        <translation>Ocultar marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="476"/>
         <source>Cube</source>
-        <translation type="unfinished">Cube</translation>
+        <translation>Cubo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="479"/>
         <source>Show cube orientation marker</source>
-        <translation type="unfinished">Show cube orientation marker</translation>
+        <translation>Mostrar o marcador de orientação do cubo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="487"/>
         <source>Human</source>
-        <translation type="unfinished">Human</translation>
+        <translation>Humano</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="490"/>
         <source>Show human-shaped orientation marker</source>
-        <translation type="unfinished">Show human-shaped orientation marker</translation>
+        <translation>Mostrar marcador de orientação em forma humana</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="498"/>
         <source>Axes</source>
-        <translation type="unfinished">Axes</translation>
+        <translation>Eixos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="501"/>
         <source>Show axes orientation marker</source>
-        <translation type="unfinished">Show axes orientation marker</translation>
+        <translation>Mostrar marcador de orientação dos eixos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="509"/>
         <source>Small</source>
-        <translation type="unfinished">Small</translation>
+        <translation>Pequeno</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="512"/>
         <source>Small orientation marker size</source>
-        <translation type="unfinished">Small orientation marker size</translation>
+        <translation>Tamanho pequeno para marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="520"/>
         <source>Medium</source>
-        <translation type="unfinished">Medium</translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="523"/>
         <source>Medium orientation marker size</source>
-        <translation type="unfinished">Medium orientation marker size</translation>
+        <translation>Tamanho médio para marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="531"/>
         <source>Large</source>
-        <translation type="unfinished">Large</translation>
+        <translation>Grande</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="534"/>
         <source>Large orientation marker size</source>
-        <translation type="unfinished">Large orientation marker size</translation>
+        <translation>Tamanho grande para marcador de orientação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="542"/>
         <source>No ruler</source>
-        <translation type="unfinished">No ruler</translation>
+        <translation>Sem régua</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="545"/>
         <source>Hide ruler</source>
-        <translation type="unfinished">Hide ruler</translation>
+        <translation>Ocultar régua</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="553"/>
         <source>Thin</source>
-        <translation type="unfinished">Thin</translation>
+        <translation>Afinar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="556"/>
         <source>Show thin ruler</source>
-        <translation type="unfinished">Show thin ruler</translation>
+        <translation>Mostrar régua fina</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="564"/>
         <source>Thick</source>
-        <translation type="unfinished">Thick</translation>
+        <translation>Espessa</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="567"/>
         <source>Show thick ruler</source>
-        <translation type="unfinished">Show thick ruler</translation>
+        <translation>Mostrar régua espessa</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="575"/>
         <source>White ruler</source>
-        <translation type="unfinished">White ruler</translation>
+        <translation>Régua branca</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="583"/>
         <source>Black ruler</source>
-        <translation type="unfinished">Black ruler</translation>
+        <translation>Régua preta</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="591"/>
         <source>Yellow ruler</source>
-        <translation type="unfinished">Yellow ruler</translation>
+        <translation>Régua amarela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="135"/>
         <source>Stereo Modes</source>
-        <translation type="unfinished">Stereo Modes</translation>
+        <translation>Modos estéreos</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="145"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Visibilidade</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="219"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>Régua</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="227"/>
         <source>More</source>
-        <translation type="unfinished">More</translation>
+        <translation>Mais</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLThreeDViewControllerWidget.cxx" line="280"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
 </context>
 <context>
@@ -12646,22 +12646,22 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>Nome do Esquema:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="33"/>
         <source>Name of the slice</source>
-        <translation type="unfinished">Name of the slice</translation>
+        <translation>Nome da fatia</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="43"/>
         <source>View group:</source>
-        <translation type="unfinished">View group:</translation>
+        <translation>Visualizar grupo:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="50"/>
         <source>Navigation and linked properties are synchronized in views that has the same group index.</source>
-        <translation type="unfinished">Navigation and linked properties are synchronized in views that has the same group index.</translation>
+        <translation>A navegação e as propriedades vinculadas são sincronizadas em vistas que têm o mesmo índice de grupo.</translation>
     </message>
 </context>
 <context>
@@ -12669,175 +12669,175 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="23"/>
         <source>qMRMLTransformDisplayNodeWidget</source>
-        <translation type="unfinished">qMRMLTransformDisplayNodeWidget</translation>
+        <translation>qMRMLTransformDisplayNodeWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
         <source>Whether the transform widget can be translated.</source>
-        <translation type="unfinished">Whether the transform widget can be translated.</translation>
+        <translation>Se a interface de transformação pode ser traduzido.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="57"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>Interação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="83"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
-        <translation type="unfinished">Show/Hide the transform widget in the 3D view.</translation>
+        <translation>Mostrar/ocultar a interface de transformação na visualização 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="96"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Atualize os limites da interface de transformação.&lt;/p&gt;&lt;p&gt;A transformação atualizará seus limites para corresponder à caixa delimitadora de todos os nós abaixo dela (se houver).&lt;/p&gt;&lt;p&gt;Caso contrário, a interface será redimensionada para o tamanho de interação padrão.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="99"/>
         <source>Update bounds</source>
-        <translation type="unfinished">Update bounds</translation>
+        <translation>Atualizar limites</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="106"/>
         <source>More options...</source>
-        <translation type="unfinished">More options...</translation>
+        <translation>Mais opções...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="158"/>
         <source>Enable translation: </source>
-        <translation type="unfinished">Enable translation: </translation>
+        <translation>Habilitar tradução: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="168"/>
         <source>Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished">Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</translation>
+        <translation>Habilite o dimensionamento manipulando a interface 3D (shift + clique esquerdo e arraste a alça no centro da face da interface ou clique esquerdo e arraste a alça central)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="181"/>
         <source>Enable rotation: </source>
-        <translation type="unfinished">Enable rotation: </translation>
+        <translation>Habilitar a rotação: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="191"/>
         <source>Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished">Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</translation>
+        <translation>Habilitar o deslocamento através da manipulação da interface 3D (clique esquerdo e arraste em qualquer lugar na face da interface)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="204"/>
         <source>Enable scaling: </source>
-        <translation type="unfinished">Enable scaling: </translation>
+        <translation>Habilitar escala: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="214"/>
         <source>Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished">Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</translation>
+        <translation>Ative o dimensionamento manipulando a interface 3D (clique com o botão esquerdo e arraste a alça no centro da face da intertface)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="233"/>
         <source>Visualization</source>
-        <translation type="unfinished">Visualization</translation>
+        <translation>Visualização</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="246"/>
         <source>Show transform in the slice views</source>
-        <translation type="unfinished">Show transform in the slice views</translation>
+        <translation>Mostrar transformação nas visualizações de fatia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="299"/>
         <source>Visualize transform using glyphs</source>
-        <translation type="unfinished">Visualize transform using glyphs</translation>
+        <translation>Visualizar a transformação usando glifos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="314"/>
         <source>Glyph</source>
-        <translation type="unfinished">Glyph</translation>
+        <translation>Glifo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="361"/>
         <source>Visualize transform using a warped grid</source>
-        <translation type="unfinished">Visualize transform using a warped grid</translation>
+        <translation>Visualize a transformação usando uma grade deformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="364"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>Grade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="402"/>
         <source>Visualize transform by isoline/isosurface contours of the displacement magnitude</source>
-        <translation type="unfinished">Visualize transform by isoline/isosurface contours of the displacement magnitude</translation>
+        <translation>Visualize a transformação por contornos de isolinhas/isosuperfícies da magnitude do deslocamento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="405"/>
         <source>Contour</source>
-        <translation type="unfinished">Contour</translation>
+        <translation>Contorno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="438"/>
         <source>Show transform in the 3D views</source>
-        <translation type="unfinished">Show transform in the 3D views</translation>
+        <translation>Mostrar transformação nas visualizações 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="451"/>
         <source>Reference image for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished">Reference image for visualizing transform nodes (will only use size, orientation and position)</translation>
+        <translation>Imagem de referência para visualizar nós de transformação (usará apenas tamanho, orientação e posição)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
         <source>Region:</source>
-        <translation type="unfinished">Region:</translation>
+        <translation>Região:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="470"/>
         <source>Region for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished">Region for visualizing transform nodes (will only use size, orientation and position)</translation>
+        <translation>Região para visualização dos nós de transformação (utilizará apenas tamanho, orientação e posição)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="500"/>
         <source>Select a node</source>
-        <translation type="unfinished">Select a node</translation>
+        <translation>Selecione um nó</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="509"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>Cores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="540"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="555"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="591"/>
         <source>Distance between the glyph points</source>
-        <translation type="unfinished">Distance between the glyph points</translation>
+        <translation>Distância entre os pontos do glifo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="558"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="944"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Espaçamento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="565"/>
         <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished">Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</translation>
+        <translation>Porcentagem de uso de deslocamento para a definição do tamanho do glifo. 100% significa que o tamanho do glifo é igual ao deslocamento real.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="568"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="991"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>Fator de Escala:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="575"/>
         <source>Glyphs are shown if the displacement magnitude is within this range</source>
-        <translation type="unfinished">Glyphs are shown if the displacement magnitude is within this range</translation>
+        <translation>Os glifos são mostrados se a magnitude de deslocamento estiver dentro desta faixa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="578"/>
         <source>Visible range:</source>
-        <translation type="unfinished">Visible range:</translation>
+        <translation>Intervalo visível:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="118"/>
@@ -12862,38 +12862,38 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="622"/>
         <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-        <translation type="unfinished">Only those glyphs are shown that have displacement magnitude within this range</translation>
+        <translation>Somente são mostrados os glifos que têm magnitude de deslocamento dentro desta faixa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="647"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="663"/>
         <source>Choose a glyph type to use</source>
-        <translation type="unfinished">Choose a glyph type to use</translation>
+        <translation>Escolha um tipo de glifo para usar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="650"/>
         <source>Glyph type:</source>
-        <translation type="unfinished">Glyph type:</translation>
+        <translation>Tipo de glifo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="670"/>
         <source>Arrow</source>
-        <translation type="unfinished">Arrow</translation>
+        <translation>Seta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="675"/>
         <source>Cone</source>
-        <translation type="unfinished">Cone</translation>
+        <translation>Cone</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="680"/>
         <source>Sphere</source>
-        <translation type="unfinished">Sphere</translation>
+        <translation>Esfera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="694"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
-        <translation type="unfinished">Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</translation>
+        <translation>Porcentagem de deslocamento utilizada para definir o tamanho do glifo. 100% significa que o tamanho do glifo é igual ao deslocamento real. Não afeta a coloração e o alcance visível.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="712"/>
@@ -12902,62 +12902,62 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1022"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1241"/>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="725"/>
         <source>3D glyph settings</source>
-        <translation type="unfinished">3D glyph settings</translation>
+        <translation>Configurações de glifos 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="755"/>
         <source>Adjust radius of base of arrow tip</source>
-        <translation type="unfinished">Adjust radius of base of arrow tip</translation>
+        <translation>Ajuste do raio da base da ponta da seta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="758"/>
         <source>Diameter:</source>
-        <translation type="unfinished">Diameter:</translation>
+        <translation>Diâmetro:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="765"/>
         <source>Base diameter of the widget</source>
-        <translation type="unfinished">Base diameter of the widget</translation>
+        <translation>Diâmetro base da interface</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="793"/>
         <source>Adjust radius of arrow shaft</source>
-        <translation type="unfinished">Adjust radius of arrow shaft</translation>
+        <translation>Ajuste do raio do eixo da seta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="796"/>
         <source>Shaft diameter:</source>
-        <translation type="unfinished">Shaft diameter:</translation>
+        <translation>Diâmetro do eixo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="803"/>
         <source>Diameter of the arrow shaft relative to the base diameter</source>
-        <translation type="unfinished">Diameter of the arrow shaft relative to the base diameter</translation>
+        <translation>Diâmetro do eixo da seta em relação ao diâmetro da base</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="825"/>
         <source>Adjust how much of the tip the arrow will consist of as a decimal percentage</source>
-        <translation type="unfinished">Adjust how much of the tip the arrow will consist of as a decimal percentage</translation>
+        <translation>Ajuste o quanto da ponta a flecha consistirá como uma porcentagem decimal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="828"/>
         <source>Tip length:</source>
-        <translation type="unfinished">Tip length:</translation>
+        <translation>Comprimento da ponta:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="835"/>
         <source>Length of the arrow tip  as percentage of displacement</source>
-        <translation type="unfinished">Length of the arrow tip  as percentage of displacement</translation>
+        <translation>Comprimento da ponta da flecha como porcentagem do deslocamento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="860"/>
         <source>Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</source>
-        <translation type="unfinished">Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</translation>
+        <translation>Ajuste a resolução do glifo (valor mais alto gera linhas curvas mais suaves, mas a visualização pode ser mais lenta)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="863"/>
@@ -12979,7 +12979,7 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
         <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
-        <translation type="unfinished">Marcadores que definem as posições de início dos glifos. Se especificado, a visualização da &apos;Região&apos; na vista 3D é ignorada.</translation>
+        <translation>Marcadores de nó que definem as posições de início dos glifos. Se especificado, a visualização da &apos;Região&apos; na vista 3D é ignorada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="922"/>
@@ -13040,7 +13040,7 @@ Se você escolher Sim para todos, essa pergunta nunca mais aparecerá e todos os
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1162"/>
         <source>1 2 3 4</source>
-        <translation type="unfinished">1 2 3 4</translation>
+        <translation>1 2 3 4</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1172"/>
@@ -13205,12 +13205,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Defina o prefixo da unidade.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;O prefixo de unidade será mostrado na aplicação antes do valor da unidade. Por exemplo, o prefixo &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; poderia ser usado antes de uma unidade.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="79"/>
@@ -13224,11 +13224,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the suffix of the unit. For example, the suffix for the unit &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Meter&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; should probably be &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Define o sufixo da unidade. Por exemplo, o sufixo para a unidade &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Metro&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; deve ser provavelmente &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="97"/>
@@ -13243,12 +13243,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Define o valor máximo possível para a unidade.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Por exemplo, uma unidade de velocidade (em &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m/s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;)deve provavelmente ter o máximo de 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="131"/>
@@ -13263,12 +13263,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the precision (i.e. number of significant digits) of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This is used by the GUI to determine how many digits one can input for the current unit. For example, with a &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Precision&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; of 3 the 1.0123 will be rounded to 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the precision (i.e. number of significant digits) of the unit.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This is used by the GUI to determine how many digits one can input for the current unit. For example, with a &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Precision&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; of 3 the 1.0123 will be rounded to 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Define a precisão (ou seja, o número de dígitos) da unidade.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;É usado pela GUI para determinar quantos dígitos alguém pode entrar para uma unidade. Por exemplo, com uma &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;precisão&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; de 3 o 1.0123 será arredondado para 1.112.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="159"/>
@@ -13283,12 +13283,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Set the minimum value possible for the unit.&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;For example, a temperature unit (in &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) should probably have a minimum of 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Set the minimum value possible for the unit.&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;For example, a temperature unit (in &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) should probably have a minimum of 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Defina o valor mínimo para a unidade.&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Por exemplo, uma unidade de temperatura (em &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) deve provavelmente ter o mínimo de 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLUnitWidget.ui" line="190"/>
@@ -13352,7 +13352,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="77"/>
         <source>0,0,0</source>
-        <translation type="unfinished">0,0,0</translation>
+        <translation>0,0,0</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="90"/>
@@ -13442,7 +13442,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="37"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="42"/>
@@ -13452,12 +13452,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="47"/>
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>Desligado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="60"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13466,7 +13466,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="83"/>
         <location filename="Libs/MRML/Widgets/qMRMLVolumeWidget.cxx" line="93"/>
         <source>Set the range boundaries to control large numbers or allow fine tuning</source>
-        <translation type="unfinished">Set the range boundaries to control large numbers or allow fine tuning</translation>
+        <translation>Define os limites de intervalo para controlar números grandes ou permitir o ajuste fino</translation>
     </message>
 </context>
 <context>
@@ -13474,7 +13474,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="20"/>
         <source>Window Level</source>
-        <translation type="unfinished">Window Level</translation>
+        <translation>Nível da Janela</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="29"/>
@@ -13484,32 +13484,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="37"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation type="unfinished">W: </translation>
+        <translation>W: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
         <source>Manual Min/Max</source>
-        <translation type="unfinished">Manual Min/Max</translation>
+        <translation>Manual Min/Max</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation type="unfinished">L: </translation>
+        <translation>L: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13615,7 +13615,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentação</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
@@ -13742,22 +13742,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="14"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Ações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="27"/>
         <source>Shortcuts</source>
-        <translation type="unfinished">Shortcuts</translation>
+        <translation>Atalhos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerActionsDialog.ui" line="44"/>
         <source>More...</source>
-        <translation type="unfinished">More...</translation>
+        <translation>Mais...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="73"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation type="unfinished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
+        <translation>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
     </message>
 </context>
 <context>
@@ -13765,22 +13765,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished">Volume Options</translation>
+        <translation>Opções de Volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="33"/>
         <source>Fiducial</source>
-        <translation type="unfinished">Fiducial</translation>
+        <translation>Fiducial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="43"/>
         <source>Ruler</source>
-        <translation type="unfinished">Ruler</translation>
+        <translation>Régua</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
 </context>
 <context>
@@ -13789,24 +13789,24 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
-        <translation type="unfinished">&amp;Keyboard Shortcuts</translation>
+        <translation>&amp;Referência de atalhos de teclado</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
         <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
-        <translation type="unfinished">Raise a window that lists commonly-used keyboard shortcuts.</translation>
+        <translation>Levante uma janela que lista os atalhos de teclado comumente utilizados.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
-        <translation type="unfinished">Interface Documentation</translation>
+        <translation>Documentação</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
         <source>Ctrl+1</source>
         <comment>Documentation</comment>
-        <translation type="unfinished">Ctrl+1</translation>
+        <translation>Ctrl+1</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
@@ -13846,7 +13846,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
         <source>Raise the training pages in your favorite web browser</source>
-        <translation type="unfinished">Raise the training pages in your favorite web browser</translation>
+        <translation>Abra as páginas de treinamento em seu navegador favorito</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
@@ -13871,22 +13871,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="124"/>
         <source>Slicer Publications</source>
-        <translation type="unfinished">Slicer Publications</translation>
+        <translation>Publicações 3D Slicer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="133"/>
         <source>Report error or request enhancement or new feature.</source>
-        <translation type="unfinished">Report error or request enhancement or new feature.</translation>
+        <translation>Relate erro ou solicite aprimoramento ou novo recurso.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished">About 3D Slicer</translation>
+        <translation>Sobre o 3D Slicer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="138"/>
         <source>Provides a description of the Slicer effort and its support.</source>
-        <translation type="unfinished">Provides a description of the Slicer effort and its support.</translation>
+        <translation>Fornece uma descrição do esforço 3D Slicer e seu suporte.</translation>
     </message>
 </context>
 <context>
@@ -13894,60 +13894,60 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="365"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="880"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="368"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="840"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="372"/>
         <source>Appearance</source>
-        <translation type="unfinished">Appearance</translation>
+        <translation>Aparência</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="376"/>
         <source>Views</source>
-        <translation type="unfinished">Views</translation>
+        <translation>Visualizações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="380"/>
         <source>User</source>
-        <translation type="unfinished">User</translation>
+        <translation>Usuário</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="384"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="388"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="393"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>Internacionalização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="404"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>Desenvolvedor</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="512"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="548"/>
         <source>%1 has caught an application error, </source>
-        <translation type="unfinished">%1 has caught an application error, </translation>
+        <translation>%1 detectou um erro de aplicativo, </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="513"/>
@@ -13955,54 +13955,54 @@ p, li { white-space: pre-wrap; }
         <source>please save your work and restart.
 
 </source>
-        <translation type="unfinished">please save your work and restart.
+        <translation>por favor, salve seu trabalho e reinicie.
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="514"/>
         <source>The application has run out of memory. </source>
-        <translation type="unfinished">The application has run out of memory. </translation>
+        <translation>O aplicativo ficou sem memória. </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="515"/>
         <source>winnt</source>
-        <translation type="unfinished">winnt</translation>
+        <translation>winnt</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="517"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing virtual memory size in system settings or adding more RAM may fix this issue.
+        <translation>Aumentar o tamanho da memória virtual nas configurações do sistema ou adicionar mais memória RAM pode resolver este problema.
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="519"/>
         <source>linux</source>
-        <translation type="unfinished">linux</translation>
+        <translation>linux</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="521"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing swap size in system settings or adding more RAM may fix this issue.
+        <translation>Aumentar o tamanho do &apos;swap&apos; nas configurações do sistema ou adicionar mais RAM pode resolver este problema.
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="523"/>
         <source>darwin</source>
-        <translation type="unfinished">darwin</translation>
+        <translation>darwin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="525"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing free disk space or adding more RAM may fix this issue.
+        <translation>Aumentar o espaço livre em disco ou adicionar mais memória RAM pode resolver este problema.
 
 </translation>
     </message>
@@ -14011,7 +14011,7 @@ p, li { white-space: pre-wrap; }
         <source>Adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Adding more RAM may fix this issue.
+        <translation>A adição de mais RAM pode resolver este problema.
 
 </translation>
     </message>
@@ -14019,7 +14019,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="531"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="550"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
-        <translation type="unfinished">If you have a repeatable sequence of steps that causes this message, </translation>
+        <translation>Se você tiver uma sequência repetível de etapas que causa essa mensagem, </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
@@ -14039,7 +14039,7 @@ p, li { white-space: pre-wrap; }
         <source>The message detail is:
 
 </source>
-        <translation type="unfinished">The message detail is:
+        <translation>O detalhe da mensagem é:
 
 </translation>
     </message>
@@ -14047,18 +14047,18 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
         <source>Exception thrown in event: </source>
-        <translation type="unfinished">Exception thrown in event: </translation>
+        <translation>Exceção lançada no evento: </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="542"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="561"/>
         <source>Application Error</source>
-        <translation type="unfinished">Application Error</translation>
+        <translation>Erro de aplicação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="718"/>
         <source>Are you sure you want to restart?</source>
-        <translation type="unfinished">Are you sure you want to restart?</translation>
+        <translation>Você tem certeza de que quer reiniciar?</translation>
     </message>
 </context>
 <context>
@@ -14066,7 +14066,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="249"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
-        <translation type="unfinished">Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</translation>
+        <translation>A capacidade gráfica deste computador não é suficiente para executar esta aplicação. A aplicação muito provavelmente não funcionará corretamente.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="252"/>
@@ -14076,17 +14076,17 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-        <translation type="unfinished">See more information and help at:
-%1/user_guide/get_help.html#slicer-application-does-not-start
+        <translation>Veja mais informações e ajuda em:
+%1/guia_do_usuário/get_help.html#slicer-application-does-not-start
 
-Graphics capabilities of this computer:
+Capacidades gráficas deste computador:
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="261"/>
         <source>Insufficient graphics capability</source>
-        <translation type="unfinished">Insufficient graphics capability</translation>
+        <translation>Capacidade gráfica insuficiente</translation>
     </message>
 </context>
 <context>
@@ -14195,7 +14195,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
         <source>All Files</source>
-        <translation type="unfinished">Todos os arquivos</translation>
+        <translation>Todos os arquivos</translation>
     </message>
 </context>
 <context>
@@ -14203,63 +14203,63 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
         <source>Module Title</source>
-        <translation type="unfinished">Module Title</translation>
+        <translation>Título do Módulo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parameter set:</translation>
+        <translation>Conjunto de parâmetros:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="104"/>
         <source>Reset parameters to default.</source>
-        <translation type="unfinished">Reset parameters to default.</translation>
+        <translation>Redefina os parâmetros para o padrão.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="107"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished">Restore Defaults</translation>
+        <translation>Restaurar Padrões</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
         <source>AutoRun</source>
-        <translation type="unfinished">AutoRun</translation>
+        <translation>Execução Automática</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
         <source>Cancel the execution of the module</source>
-        <translation type="unfinished">Cancel the execution of the module</translation>
+        <translation>Cancelar a execução do módulo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
         <source>Execute the module</source>
-        <translation type="unfinished">Execute the module</translation>
+        <translation>Execute o módulo</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
         <source>AutoRun on changed parameter</source>
-        <translation type="unfinished">AutoRun on changed parameter</translation>
+        <translation>Execução Automática com parâmetro alterado</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</translation>
+        <translation>Enquanto o botão AutoExecução estiver pressionado, o módulo será executado sempre que um valor de parâmetro for alterado.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="110"/>
@@ -15376,17 +15376,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="741"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ao exportar vários nós, os nomes dos arquivos são automaticamente definidos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
         <source>&lt;automatic&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;automatic&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
         <source>Export </source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
@@ -15396,24 +15396,24 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
         <source>The following filename is recommended:</source>
-        <translation type="unfinished"></translation>
+        <translation>O seguinte nome de arquivo é recomendado:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="884"/>
         <source>Accept recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar recomendado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="885"/>
         <source>Keep my filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Manter meu nome de arquivo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="948"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1050"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1058"/>
         <source>Export Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro de Exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
@@ -15423,7 +15423,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
         <source>File Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo Existe</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
@@ -15434,22 +15434,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1070"/>
         <source>Export Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Informações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <source>Nothing was exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nada foi exportado.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
         <source>Error encountered while exporting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro encontrado durante a exportação.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1065"/>
         <source>Export Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de Exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1223"/>
@@ -15464,7 +15464,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
         <source>There is nothing to export.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não há nada para exportar.</translation>
     </message>
 </context>
 <context>
@@ -15491,7 +15491,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Click to remove the bookmark.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique para remover o marcador.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
@@ -15564,17 +15564,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="156"/>
         <source>Install pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalação pendente de reinício</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="161"/>
         <source>Update pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização pendente de reinício</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="166"/>
         <source>Uninstall pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalação pendente de reinício</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="343"/>
@@ -15584,42 +15584,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="385"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>desconhecido</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="422"/>
         <source>Not found for this version of the application (r%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Não encontrado para esta versão do aplicativo (r%2)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="430"/>
         <source>Incompatible with Slicer r%2 [built for r%3]</source>
-        <translation type="unfinished"></translation>
+        <translation>Incompatível com Slicer r%2 [criado para r%3]</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="447"/>
         <source>Change log...</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar registro...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="452"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma atualização está disponível. Instalado: %1. Disponível: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="468"/>
         <source>Version: %1. Disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão: %1. Desabilitado.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="475"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão: %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="483"/>
         <source>Not installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não instalado.</translation>
     </message>
 </context>
 <context>
@@ -15637,7 +15637,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicie</translation>
     </message>
 </context>
 <context>
@@ -15645,7 +15645,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="459"/>
         <source>Failed to parse %1: error at %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao analisar %1: erro em %2: %3</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="716"/>
@@ -15670,12 +15670,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
         <source>Failed to extract %1 into %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao extrair % 1 para % 2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="889"/>
         <source>Archive %1 doesn&apos;t contain any files</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo %1 não contém nenhum arquivo</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1029"/>
@@ -15713,174 +15713,174 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1403"/>
         <source>Failed to add bookmark extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao adicionar extensão de marcador: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1570"/>
         <source>Retrieving extension metadata for %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperando metadados de extensão para a extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1582"/>
         <source>Failed to get metadata from server for extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao obter metadados do servidor para a extensão: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1599"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperando arquivos de extensão %1 (ID da extensão: %2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1630"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Download da extensão %1 (item_id: %2, arquivo_id: %3)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1663"/>
         <source>Download of extension failed, id is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>O download da extensão falhou, o ID é inválido.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1684"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>O download da extensão falhou, não foi possível encontrar uma extensão com ID = %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1701"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2371"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao recuperar metadados para a extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1743"/>
         <source>Failed downloading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao baixar: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1754"/>
         <source>Could not create temporary file for writing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar arquivo temporário para escrita: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1775"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao listar o arquivo de extensão &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1792"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma descrição de extensão encontrada no arquivo &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1805"/>
         <source>InstallExtension failed: extensionName is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalação da extensão falhou: Nome da extension não está definido</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1810"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignore a instalação da extensão %1. Já está instalada.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
         <source>Extensions/InstallPath setting is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensões/caminho de instalação não está definido</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1822"/>
         <source>Failed to create extension installation directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao criar o diretório de instalação da extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1930"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao instalar extensões dependentes:&lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1953"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 depende das seguintes extensões, que não puderam ser encontradas:</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1958"/>
         <source>The extension may not function properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>A extensão pode não funcionar corretamente.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1959"/>
         <source>Unresolved dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Dependências não resolvidas</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2878"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>O parâmetro &apos;Nome da extensão&apos; não foi especificado</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1983"/>
         <source>Installed extension %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extensão % 1 instalada</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2065"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na atualização das informações de extensão do servidor: tempo expirado aguardando a resposta do servidor a partir de %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2120"/>
         <source>Failed to download extension metadata from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao baixar os metadados da extensão do servidor</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2138"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>Resposta de metadados de extensão falhou, campo &apos;nome da extensão&apos; necessário</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2170"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>Resposta de verificação de atualização para extensão %1 falhou, campo &apos;extensão_id&apos; ou &apos;revisão&apos; requerido</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2181"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização encontrada para a extensão %1: &apos;%2&apos; instalado, &apos;%3&apos; disponível, </translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2256"/>
         <source>Failed downloading %1 extension from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao baixar a extensão %1 de %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2272"/>
         <source>Could not create .updates directory for update archive in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar o diretório .updates para o arquivo de atualização em % 1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2293"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
         <extracomment>%1 is the path name, %2 is the error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível gravar o arquivo: &apos;%1&apos; (%2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2357"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Faltam informações para baixar a extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Extensão %1 agendada para atualização</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2435"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao atualizar a extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2442"/>
