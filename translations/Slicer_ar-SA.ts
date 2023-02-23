@@ -10752,7 +10752,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="306"/>
         <source>Representation that is shown in 3D (models only)</source>
-        <translation type="unfinished">Representation that is shown in 3D (models only)</translation>
+        <translation>التمثيل الذي يظهر في 3D (النماذج فقط)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="313"/>
@@ -11063,27 +11063,27 @@ Do you wish to proceed with changing master representation?</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="69"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="72"/>
         <source>Show 3D</source>
-        <translation type="unfinished">Show 3D</translation>
+        <translation>عرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="74"/>
         <source>Surface smoothing</source>
-        <translation type="unfinished">Surface smoothing</translation>
+        <translation>تجانس السطح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="76"/>
         <source>Apply smoothing when converting binary labelmap to closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتطبيق التنعيم عند تحويل خريطة الملصقات الثنائية إلى تمثيل سطح مغلق.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
         <source>Smoothing factor</source>
-        <translation type="unfinished">Smoothing factor</translation>
+        <translation>عامل التنعيم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="87"/>
         <source>Higher value means stronger smoothing during closed surface representation conversion.</source>
-        <translation type="unfinished">Higher value means stronger smoothing during closed surface representation conversion.</translation>
+        <translation>تعني القيمة الأعلى تجانسا أقوى أثناء تحويل تمثيل السطح المغلق.</translation>
     </message>
 </context>
 <context>
@@ -11091,27 +11091,27 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
         <source>Segment name</source>
-        <translation type="unfinished">Segment name</translation>
+        <translation>اسم الشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="139"/>
         <source>Segment visibility</source>
-        <translation type="unfinished">Segment visibility</translation>
+        <translation>رؤية الشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="140"/>
         <source>Segment color</source>
-        <translation type="unfinished">Segment color</translation>
+        <translation>لون المقطع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="141"/>
         <source>Segment opacity (3D views)</source>
-        <translation type="unfinished">Segment opacity (3D views)</translation>
+        <translation>تعتيم المقطع (عروض ثلاثية الأبعاد)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="142"/>
         <source>Segment status</source>
-        <translation type="unfinished">Segment status</translation>
+        <translation>حالة القطعة</translation>
     </message>
 </context>
 <context>
@@ -11124,7 +11124,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="50"/>
         <source>No node selected</source>
-        <translation type="unfinished">No node selected</translation>
+        <translation>لم يتم تحديد عقدة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentsTableView.ui" line="115"/>
@@ -11315,7 +11315,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="535"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished">Show reformat widget in 3D view</translation>
+        <translation>إظهار أداة إعادة التنسيق في عرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="567"/>
@@ -11541,7 +11541,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1053"/>
         <source>Show in 3D</source>
-        <translation type="unfinished">Show in 3D</translation>
+        <translation>عرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1056"/>
