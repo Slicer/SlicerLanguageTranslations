@@ -8309,7 +8309,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="14"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation type="unfinished">وسيلة إيضاح اللون</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
@@ -9127,7 +9127,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
         <source>Bounds:</source>
-        <translation type="unfinished">Bounds:</translation>
+        <translation type="unfinished">حدود:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
