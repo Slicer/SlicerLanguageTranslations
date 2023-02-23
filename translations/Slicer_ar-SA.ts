@@ -4675,12 +4675,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
         <source>Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم القناع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"/>
         <source>Masked Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم مقنع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
