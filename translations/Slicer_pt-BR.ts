@@ -14777,32 +14777,32 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="105"/>
         <source>Output volume type does not match input volume type.</source>
-        <translation type="unfinished">Output volume type does not match input volume type.</translation>
+        <translation>Tipo de volume de saída não é compatível com o tipo de volume de entrada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="128"/>
         <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="unfinished">Input ROI is under a non-linear tansform.</translation>
+        <translation>Entrada ROI está sob uma transformação não-linear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="134"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished">Select or create a new input ROI.</translation>
+        <translation>Selecione ou crie uma nova entrada ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
         <source>Output volume is under a non-linear tansform.</source>
-        <translation type="unfinished">Output volume is under a non-linear tansform.</translation>
+        <translation>Volume de saída está sob uma transformação não-linear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="152"/>
         <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="unfinished">Interpolation is disabled and input volume is under a non-linear tansform</translation>
+        <translation>Interpolação está desabilitada e o volume de entrada está sob uma transformação não-linear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="158"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+        <translation>Interpolação está disabilitada e a entrada ROI não está alinhada com os eixos do volume de entrada.</translation>
     </message>
 </context>
 <context>
@@ -20231,7 +20231,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
         <source>Additional module paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminhos de módulo adicionais</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
