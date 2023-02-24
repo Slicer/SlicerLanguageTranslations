@@ -1357,12 +1357,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsu 阈值算法的参数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放 Otsu 算法结果阈值的一个因素，以防剪裁破坏图像。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
