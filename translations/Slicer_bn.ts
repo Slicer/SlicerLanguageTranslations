@@ -10544,7 +10544,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2396"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="2399"/>
         <source>Inside </source>
         <translation type="unfinished"></translation>
     </message>
@@ -13588,6 +13588,14 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qSlicerAnnotationsModule</name>
+    <message>
+        <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="42"/>
+        <source>Annotations</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerAppMainWindow</name>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
@@ -14129,6 +14137,11 @@ Graphics capabilities of this computer:
         <source>&lt;center&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAMIC.png&quot; alt&quot;NA-MIC&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NAC.png&quot; alt&quot;NAC&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;:Logos/BIRN-NoText.png&quot; alt&quot;BIRN&quot;&gt;&lt;/td&gt;&lt;td&gt;&lt;img src=&quot;:Logos/NCIGT.png&quot; alt&quot;NCIGT&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.h" line="48"/>
+        <source>Cameras</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerCamerasModuleWidget</name>
@@ -14150,6 +14163,14 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerColorsModule</name>
+    <message>
+        <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="48"/>
+        <source>Colors</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14259,32 +14280,32 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="804"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="814"/>
         <source>Failed to create %1 directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1736"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1746"/>
         <source>Built on top of:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1756"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1766"/>
         <source>Licensing Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1757"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
         <source>Website</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1758"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
         <source>Acknowledgments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1765"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1775"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14342,6 +14363,14 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1015"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerCropVolumeModule</name>
+    <message>
+        <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="25"/>
+        <source>Crop Volume</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14823,6 +14852,11 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
+        <source>Data</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerDataModuleWidget</name>
@@ -15029,6 +15063,11 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="70"/>
         <source>This module was developed by Julien Finet, Kitware Inc. This work was supported by NIH grant 3P41RR013218-12S1, NA-MIC, NAC and Slicer community.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
+        <source>Event Broker</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16126,6 +16165,14 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
 </context>
 <context>
+    <name>qSlicerLoadableModuleTemplateModule</name>
+    <message>
+        <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="43"/>
+        <source>qSlicerLoadableModuleTemplateModule</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerLoadableModuleTemplateModuleWidget</name>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateModuleWidget.ui" line="14"/>
@@ -16954,6 +17001,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <name>qSlicerMarkupsModule</name>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="20"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="56"/>
         <source>Markups</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17672,6 +17720,14 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     </message>
 </context>
 <context>
+    <name>qSlicerModelsModule</name>
+    <message>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
+        <source>Plots</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerModelsModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="20"/>
@@ -17762,67 +17818,67 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="96"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="99"/>
         <source>Switch to module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="192"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="195"/>
         <source>Category:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="231"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="234"/>
         <source>Contributors:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="238"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="241"/>
         <source>Internal name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="242"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="245"/>
         <source>Unknown type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="246"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="249"/>
         <source>Python Scripted Loadable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="250"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="253"/>
         <source>C++ Loadable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="254"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="257"/>
         <source>Command-Line Interface (CLI)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="258"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="261"/>
         <source>built-in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="260"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
         <source>Type:</source>
         <translation type="unfinished">ধরন:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="265"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="268"/>
         <source>Require:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="269"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="272"/>
         <source>Location:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="281"/>
         <source>%1 module is not loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17927,7 +17983,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModulesListView</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="161"/>
+        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="162"/>
         <source>Requires:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18062,6 +18118,14 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     </message>
 </context>
 <context>
+    <name>qSlicerPlotsModule</name>
+    <message>
+        <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="47"/>
+        <source>Plots</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerPlotsModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="20"/>
@@ -18109,6 +18173,14 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="266"/>
         <source>Select a Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerReformatModule</name>
+    <message>
+        <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="45"/>
+        <source>Reformat</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18490,6 +18562,14 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     </message>
 </context>
 <context>
+    <name>qSlicerSceneViewsModule</name>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="40"/>
+        <source>Views</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSceneViewsModuleDialog</name>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="31"/>
@@ -18688,6 +18768,7 @@ Please choose an empty directory.</source>
     <name>qSlicerSegmentationsModule</name>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="14"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.h" line="48"/>
         <source>Segmentations</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19050,6 +19131,14 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="103"/>
         <source>This option controls what the application should do if the user edits a segment that is currently not visible. It is meant to prevent unintentional changes to hidden segments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSequencesModule</name>
+    <message>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="61"/>
+        <source>Sequences</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -20526,6 +20615,11 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <source>SubjectHierarchy</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="51"/>
+        <source>Subject Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchyOpacityPlugin</name>
@@ -20860,6 +20954,14 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
+    <name>qSlicerSuperLoadableModuleTemplateModule</name>
+    <message>
+        <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="43"/>
+        <source>qSlicerSuperLoadableModuleTemplateModule</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
@@ -21057,6 +21159,14 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
+    <name>qSlicerTablesModule</name>
+    <message>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="47"/>
+        <source>Tables</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerTablesModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="20"/>
@@ -21185,6 +21295,15 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
+    <name>qSlicerTemplateKeyModule</name>
+    <message>
+        <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="43"/>
+        <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="43"/>
+        <source>TemplateKey</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerTemplateKeyModuleWidget</name>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
@@ -21201,6 +21320,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <name>qSlicerTerminologiesModule</name>
     <message>
         <location filename="Modules/Loadable/Terminologies/Resources/UI/qSlicerTerminologiesModule.ui" line="14"/>
+        <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="47"/>
         <source>Terminologies</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21276,6 +21396,14 @@ Do you wish to update the stored context file with the just loaded one?</source>
     </message>
 </context>
 <context>
+    <name>qSlicerTextsModule</name>
+    <message>
+        <location filename="Modules/Loadable/Texts/qSlicerTextsModule.h" line="55"/>
+        <source>Texts</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerTextsModuleWidget</name>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="20"/>
@@ -21310,6 +21438,14 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="109"/>
         <source>Enable word wrapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerTransformsModule</name>
+    <message>
+        <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
+        <source>Transforms</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -21487,6 +21623,14 @@ Do you wish to update the stored context file with the just loaded one?</source>
     </message>
 </context>
 <context>
+    <name>qSlicerUnitsModule</name>
+    <message>
+        <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="47"/>
+        <source>Units</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerUnitsSettingsPanel</name>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
@@ -21511,6 +21655,14 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
         <source>Show advanced options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerViewControllersModule</name>
+    <message>
+        <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
+        <source>View Controllers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -21773,6 +21925,14 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="192"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerVolumeRenderingModule</name>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="75"/>
+        <source>Volume Rendering</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -22078,11 +22238,16 @@ This should only used by advanced users who understand the consequences of chang
     <name>qSlicerVolumesModule</name>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="68"/>
+        <source>Volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="74"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="87"/>
+        <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="93"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22265,6 +22430,11 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
+        <source>Welcome to Slicer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
