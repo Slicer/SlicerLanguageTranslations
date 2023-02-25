@@ -659,12 +659,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir la quadrícula BSpline sobre el quadre delimitador RDI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Coincidència d&apos;histograma</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
@@ -709,7 +709,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar l&apos;operació de coincidència d&apos;histogrames a les imatges d&apos;entrada per fer-les més semblants.  Això és adequat per a imatges de la mateixa modalitat que puguin tenir una brillantor o contrast diferents, però el mateix perfil d&apos;intensitat global. NO ho utilitzis si registres imatges de diferents modalitats.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
@@ -988,12 +988,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
         <source>Histogram bin count</source>
-        <translation type="unfinished"></translation>
+        <translation>Recompte de compartiments d&apos;histogrames</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
         <source>Histogram match point count</source>
-        <translation type="unfinished"></translation>
+        <translation>Recompte de punts de coincidència d&apos;histogrames</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
@@ -1058,17 +1058,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de nivells d&apos;histograma utilitzats per a l&apos;estimació mètrica d&apos;informació mútua.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de punts de coincidència d&apos;histogrames utilitzats per a l&apos;estimació mètrica d&apos;informació mútua.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>La mètrica de cost que s&apos;ha d&apos;utilitzar durant l&apos;ajust. MMI per defecte. Les opcions són MMI (Informació mútua de mat.), MSE (Error quadràtic mig), NC (Correlació normalitzada), MC (Coincidència de grandària per a imatges binàries)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
@@ -1120,12 +1120,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
@@ -4122,7 +4122,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleFillholeImageFilter omple els forats en una imatge en escala de grisos.  Els forats són mínims locals a la topografia en escala de grisos que no estan connectats amb els límits de la imatge. Els valors de nivell de gris adjacents a un forat s&apos;extrapolen al llarg del forat.
+
+Aquest filtre s&apos;utilitza per suavitzar els mínims locals sense afectar els valors màxims locals.  Si prenem la diferència entre la sortida d&apos;aquest filtre i la imatge original (i potser limitem la diferència per sobre d&apos;un valor petit), obtenim un mapa de mínims locals.
+
+Aquest filtre utilitza itkGrayscaleGeodesicErodeImageFilter.  Proporciona la seva pròpia entrada com a entrada &quot;màscara&quot; per a l&apos;erosió geodèsica. La imatge «marcadora» per a l&apos;erosió geodèsica es construeix de manera que els píxels de límit coincideixen amb els píxels de límit de la imatge d&apos;entrada i els píxels interiors s&apos;estableixen al valor màxim de píxel de la imatge d&apos;entrada.
+
+La morfologia geodèsica i l&apos;algorisme «Fillhole» es descriuen al capítol 6 del llibre de Pierre Soille «Morphological Image Analysis: Principles and Applications», segona edició, Springer, 2003.
+
+Un filtre complementari, Grayscale Grind Peak, elimina els pics de les imatges en escala de grisos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
@@ -4180,7 +4188,17 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation>GrayscaleGrindPeakImageFilter elimina els pics d&apos;una imatge en escala de grisos. Els pics són màxims locals a la topografia en escala de grisos que no estan connectats amb els límits de la imatge. Els valors del nivell de grisos adjacents a un pic s&apos;extrapolen a través del pic.
+
+Aquest filtre s&apos;utilitza per suavitzar els màxims locals sense afectar els valors mínims locals. Si prenem la diferència entre la sortida d&apos;aquest filtre i la imatge original (i potser limitem la diferència per sobre d&apos;un valor petit), obtenim un mapa de màxims locals.
+
+Aquest filtre utilitza GrayscaleGeodesicDilateImageFilter. Proporciona la seva pròpia entrada com a entrada &quot;màscara&quot; per a l&apos;erosió geodèsica. La imatge «marcadora» per a l&apos;erosió geodèsica es construeix de manera que els píxels de límit coincideixen amb els píxels de límit de la imatge d&apos;entrada i els píxels interiors s&apos;estableixen al valor de píxel mínim de la imatge d&apos;entrada.
+
+Aquest filtre és dual al GrayscaleFillholeImageFilter que implementa l&apos;algorisme Fillhole. Com que és dual, és una mica superflu, però es proporciona com a comoditat.
+
+La morfologia geodèsica i l&apos;algorisme «Fillhole» es descriuen al capítol 6 del llibre de Pierre Soille «Morphological Image Analysis: Principles and Applications», segona edició, Springer, 2003.
+
+Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en escala de grisos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
@@ -4356,7 +4374,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"/>
         <source>Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Coincidència d&apos;histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"/>
@@ -4367,92 +4385,98 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalitza els valors en escala de grisos d&apos;una imatge d&apos;origen en funció dels valors en escala de grisos d&apos;una imatge de referència.  Aquest filtre utilitza una tècnica de coincidència d&apos;histogrames on els histogrames de les dues imatges només coincideixen amb un nombre especificat de valors quantils.
+
+El filtre es va dissenyar originalment per normalitzar imatges MR del mateix protocolMR i de la mateixa part del cos. L&apos;algorisme funciona millor si s&apos;exclouen els píxels de fons tant dels histogrames d&apos;origen com de referència.  Un mètode senzill d&apos;exclusió de fons és excloure tots els píxels els valors en escala de grisos dels quals siguin més petits que el valor mitjà de l&apos;escala de grisos. ThresholdAtMeanIntensity activa aquest mètode senzill d&apos;exclusió de fons.
+
+El nombre de punts de coincidència regeix el nombre de valors quantils a igualar.
+
+El filtre assumeix que tant la font com la referència són del mateix tipus i que el tipus d&apos;imatge d&apos;entrada i sortida tenen el mateix nombre de dimensions i tenen tipus de píxels escalars.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de l&apos;Aliança Nacional per a la Computació de la Imatge Mèdica (NAMIC), finançat pels Instituts Nacionals de Salut a través del Nih Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de coincidència d&apos;histogrames</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
         <source>Parameters for Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres per a la coincidència d&apos;histogrames</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
         <source>Number of Histogram Levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de nivells d&apos;histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
         <source>Number of Match Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de punts de coincidència</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"/>
         <source>Threshold at mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Llindar a la mitjana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de nivells d&apos;histogrames a utilitzar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
         <source>The number of match points to use</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de punts de coincidència a utilitzar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si està activat, només es limiten els píxels per sobre de la mitjana de cada volum.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
         <source>IO</source>
-        <translation type="unfinished">ES</translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;entrada/sortida</translation>
+        <translation>Paràmetres d&apos;entrada/sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
         <source>Reference Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de referència</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volum de sortida</translation>
+        <translation>Volum de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
         <source>Input volume whose histogram will be matched</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum d&apos;entrada amb el que coincidirà l&apos;histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"/>
         <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de sortida. És el volum d&apos;entrada amb intensitats coincidents amb el volum de referència.</translation>
     </message>
 </context>
 <context>
@@ -5088,7 +5112,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un fitxer mrml que conté un arbre de jerarquia de models de plantilla amb un node jeràrquic per color utilitzat a la taula de colors del volum d&apos;entrada. Els noms de colors utilitzats per als models coincideixen amb els noms de la jerarquia de plantilles per a crear un arbre de sortida de diversos nivells. Crea una jerarquia de models GUI i desa una escena i, a continuació, neteja-la per eliminar-ho tot menys la jerarquia del model i els nodes de visualització.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
@@ -5403,7 +5427,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
         <source>Number of histogram bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de compartiments d&apos;histogrames</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
@@ -5433,7 +5457,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
         <source>Number of histogram bins. Zero implies use of the default value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de compartiments d&apos;histogrames. Zero implica l&apos;ús del valor per defecte.</translation>
     </message>
 </context>
 <context>
@@ -5964,7 +5988,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de compartiments d&apos;histogrames</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
@@ -5979,13 +6003,13 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de compartiments d&apos;histogrames quan MMI (mat.) és de tipus mètric.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
