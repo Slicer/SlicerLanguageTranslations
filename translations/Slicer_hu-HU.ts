@@ -22921,7 +22921,8 @@ This should only used by advanced users who understand the consequences of chang
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation>
-            <numerusform>A %1 bővítményhez frissítés áll rendelkezésre</numerusform>
+            <numerusform>Frissítés elérhető %1 bővítményhez</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
