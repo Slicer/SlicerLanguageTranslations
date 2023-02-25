@@ -22692,12 +22692,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezt a munkát a NA-MIC, a NAC, a BIRN, az NCIGT, a CTSC és a Slicer közösség tagjai segíették. További részletek a &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; weboldalon olvashatók. Ezúton is kifejezzük őszinte köszönetünket a Slicer felhasználói közösségének, akik segítettek nekünk ebben a modulnak a megtervezésében és akiknek visszajelzései folyamatosan javítják a Slicer funkcióit, használhatóságát, és a felhasználói élményt.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Üdvözöljük a Slicerben</translation>
     </message>
 </context>
 <context>
