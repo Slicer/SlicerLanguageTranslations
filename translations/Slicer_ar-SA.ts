@@ -22697,7 +22697,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مرحبا بكم في Slicer</translation>
     </message>
 </context>
 <context>
