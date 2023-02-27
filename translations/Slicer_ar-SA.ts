@@ -13864,7 +13864,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="376"/>
         <source>Views</source>
-        <translation type="unfinished">Views</translation>
+        <translation type="unfinished">طرق عرض</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="380"/>
@@ -18750,7 +18750,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="40"/>
         <source>Views</source>
-        <translation type="unfinished">Views</translation>
+        <translation>طرق عرض</translation>
     </message>
 </context>
 <context>
