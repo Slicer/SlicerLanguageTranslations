@@ -11,7 +11,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;计算一个转换，使大脑图像与&lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach坐标系统&lt;/a&gt;（也称为立体坐标系统或ACPC坐标系统）相一致。&lt;/p&gt;&lt;p&gt;ACPC线在两点之间延伸，一个在前神经节，一个在后神经节。由此产生的转换将使连接这两点的线水平于AP轴。&lt;/p&gt;&lt;p&gt;中线是一系列的点（至少3个），定义了大脑半球之间的分界线（中矢状面）。由此产生的转换将使输出的体积的矢状面中部与AS平面对齐。&lt;/p&gt;&lt;p&gt;使用&lt;b&gt;对标量/矢量/DWI体积重新采样&lt;/b&gt; ，将转换应用到一个体积。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>输入标志</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
         <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>将用于计算 ACPC 变换的解剖标志。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
@@ -41,38 +41,38 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
         <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="unfinished"></translation>
+        <translation>ACPC 线，连接前连合处的点和后连合处的点。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
         <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="unfinished"></translation>
+        <translation>中线是放置在矢状面中部的一系列点（至少3个），界定了大脑半球之间的分界。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>输出变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
         <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="unfinished"></translation>
+        <translation>模块从输入的标志计算出的变换（刚性平移和旋转）。如果将此变换应用于体积，那么它将使ACPC线 &quot;水平&quot;（在病人坐标系的AP轴上），使矢状面中部 &quot;垂直&quot;（适合在病人坐标系的AS平面上），并且（如果启用居中）使AC点成为原点（病人坐标系的（0，0，0）坐标）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
         <source>Center volume</source>
-        <translation type="unfinished"></translation>
+        <translation>数据居中</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
         <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果这个选项被启用，那么输出的变换将把AC点平移到原点。如果这个选项被禁用，那么体积的位置将被保留，变换将只改变方向。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
         <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>将体积移动到标准 ACPC 坐标系的变换。</translation>
     </message>
 </context>
 <context>
@@ -80,12 +80,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>添加数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加两个图像。尽管输入支持所有图像类型，但仅生成有符号类型。这两个图像不必具有相同的尺寸。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
@@ -95,62 +95,62 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入数据1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入数据2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>数据1 + 数据2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>控件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation>控制模块如何运行</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation>插值顺序</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果两个图像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>DWI 清理（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
@@ -178,12 +178,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除了不良梯度的 NRRD 文件。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>不良梯度数据列表</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
@@ -201,12 +201,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>T1/T2图像中的脑部损坏（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个程序：1）将从一组图像中损坏图像。  输入必须与ACPC对齐，并提供AC、PC、LE、RE。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation type="unfinished"></translation>
+        <translation>标志文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
@@ -236,7 +236,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation type="unfinished"></translation>
+        <translation>来源于被动图像的图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
@@ -246,17 +246,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished"></translation>
+        <translation>输入具有在物理位置中定义的 LE 和 RE 点的标志文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入图像，所有的图像必须处于完全相同的物理空间，ACPC对齐并与地标一致。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入图像未用于生成蒙版，所有图像必须与输入数据处于完全相同的物理空间，ACPC 对齐并与地标一致。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
@@ -267,12 +267,12 @@
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished"></translation>
+        <translation>模糊</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>零</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
@@ -282,12 +282,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation type="unfinished"></translation>
+        <translation>MUSH生成和脑数据蒙版创建的输出结果</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation type="unfinished"></translation>
+        <translation>脑数据蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
@@ -297,12 +297,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation type="unfinished"></translation>
+        <translation>从MUSH图像中生成的脑数据蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation type="unfinished"></translation>
+        <translation>用于写入损坏输入文件的输出目录</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
@@ -317,12 +317,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished"></translation>
+        <translation>无蒙版应用</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>不要对用于生成蒙版的输入图像应用蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
@@ -337,12 +337,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>上百分位数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished"></translation>
+        <translation>下百分位数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
@@ -360,7 +360,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>相对比例</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
@@ -370,27 +370,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>上强度百分位数（默认值 0.99）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished"></translation>
+        <translation>低强度百分位数（默认为0.01）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>不要将此范围之外的值裁剪为“外部值”</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished"></translation>
+        <translation>不要缩放到输出比例的相对百分位数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished"></translation>
+        <translation>调试级别（0=无）</translation>
     </message>
 </context>
 <context>
@@ -398,7 +398,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>一般配准（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
