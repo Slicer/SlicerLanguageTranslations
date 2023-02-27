@@ -13788,7 +13788,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="42"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotações</translation>
     </message>
 </context>
 <context>
@@ -14356,7 +14356,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.h" line="48"/>
         <source>Cameras</source>
-        <translation type="unfinished">Câmeras</translation>
+        <translation>Câmeras</translation>
     </message>
 </context>
 <context>
@@ -14387,7 +14387,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="48"/>
         <source>Colors</source>
-        <translation type="unfinished">Cores</translation>
+        <translation>Cores</translation>
     </message>
 </context>
 <context>
@@ -14587,7 +14587,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="25"/>
         <source>Crop Volume</source>
-        <translation type="unfinished">Volume de corte</translation>
+        <translation>Volume do corte</translation>
     </message>
 </context>
 <context>
@@ -14839,74 +14839,74 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">DICOM Export</translation>
+        <translation>Exportação DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="82"/>
         <source>1. Select node</source>
-        <translation type="unfinished">1. Select node</translation>
+        <translation>1. Selecione o nó</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="125"/>
         <source>2. Select export type</source>
-        <translation type="unfinished">2. Select export type</translation>
+        <translation>2. Selecione o tipo de exportação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="168"/>
         <source>3. Edit DICOM tags</source>
-        <translation type="unfinished">3. Edit DICOM tags</translation>
+        <translation>3. Editar etiquetas (&apos;tags&apos;) DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="199"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+        <translation>Se marcada, as tags editadas manualmente serão salvas na cena, preservadas para a próxima exportação. Se desmarcado, alterações temporárias podem ser feitas apenas para a atual operação de exportação.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Save modified tags</translation>
+        <translation>Salva etiquetas (&apos;tags&apos;) modificadas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+        <translation>Se marcado, os arquivos DICOM exportados serão escritos na pasta especificada.
+Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Export to folder:</translation>
+        <translation>Exportar para pasta:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+        <translation>Arquivos DICOM exportados para esta pasta em vez do banco de dados DICOM do aplicativo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
         <source>Error messages</source>
-        <translation type="unfinished">Error messages</translation>
+        <translation>Mensagens de erro</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="359"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="465"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>Conjunto de dados DICOM exportados com sucesso para </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="468"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">the DICOM database</translation>
+        <translation>a base de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="474"/>
         <source>Export successful</source>
-        <translation type="unfinished">Export successful</translation>
+        <translation>Exportação bem-sucedida</translation>
     </message>
 </context>
 <context>
@@ -14914,91 +14914,91 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
         <source>Diffusion Tensor Volume Slice Display</source>
-        <translation type="unfinished">Diffusion Tensor Volume Slice Display</translation>
+        <translation>Exibição da fatia do volume do tensor de difusão</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>Visibilidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>Opacidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
-        <translation type="unfinished">Scalar ColorMap:</translation>
+        <translation>Mapa de Cores Escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation type="unfinished">Color by Scalar:</translation>
+        <translation>Cor por Escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished">Scalar Range:</translation>
+        <translation>Faixa Escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
         <source>Glyph Type:</source>
-        <translation type="unfinished">Glyph Type:</translation>
+        <translation>Tipo de Glifo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
         <source>Tubes</source>
-        <translation type="unfinished">Tubes</translation>
+        <translation>Tubos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
         <source>Ellipsoids</source>
-        <translation type="unfinished">Ellipsoids</translation>
+        <translation>Elipsóides</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
         <source>Scale Factor:</source>
-        <translation type="unfinished">Scale Factor:</translation>
+        <translation>Fator de Escala:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Espaçamento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
         <source>Glyph EigenVector:</source>
-        <translation type="unfinished">Glyph EigenVector:</translation>
+        <translation>AutoVetor do Glifo :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
         <source>Major</source>
-        <translation type="unfinished">Major</translation>
+        <translation>Principal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation type="unfinished">Middle</translation>
+        <translation>Meio</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
         <source>Minor</source>
-        <translation type="unfinished">Minor</translation>
+        <translation>Menor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
         <source>Manual or Auto scalar range</source>
-        <translation type="unfinished">Manual or Auto scalar range</translation>
+        <translation>Faixa escalar Manual ou Automática</translation>
     </message>
 </context>
 <context>
@@ -15006,42 +15006,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
         <source>Add data into the scene</source>
-        <translation type="unfinished">Add data into the scene</translation>
+        <translation>Adicionar dados à cena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
         <source>Choose Directory to Add</source>
-        <translation type="unfinished">Choose Directory to Add</translation>
+        <translation>Escolha Diretório para Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="27"/>
         <source>Choose File(s) to Add</source>
-        <translation type="unfinished">Choose File(s) to Add</translation>
+        <translation>Escolha Arquivo(s) para Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="78"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="83"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="88"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="106"/>
         <source>Show Options</source>
-        <translation type="unfinished">Show Options</translation>
+        <translation>Mostrar Opções</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="586"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>Quaisquer Dados</translation>
     </message>
 </context>
 <context>
@@ -15049,12 +15049,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="509"/>
         <source>Open archive?</source>
-        <translation type="unfinished">Open archive?</translation>
+        <translation>Abrir arquivo?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="510"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
-        <translation type="unfinished">The selected file is a .zip archive, open it and load contents?</translation>
+        <translation>O arquivo selecionado é um arquivo .zip, abri-lo e carregar o conteúdo?</translation>
     </message>
 </context>
 <context>
@@ -15072,7 +15072,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Dados</translation>
     </message>
 </context>
 <context>
@@ -15080,66 +15080,66 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Dados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation>Filtro:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="48"/>
         <source>A case sensitive string to filter nodes, uses all the columns (even if hidden)</source>
-        <translation type="unfinished">A case sensitive string to filter nodes, uses all the columns (even if hidden)</translation>
+        <translation>Uma cadeia de caracteres (&apos;string&apos;; diferencia maiúsculas) para filtrar nós, use todas as colunas (mesmo que ocultas)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="80"/>
         <source>Subject hierarchy</source>
-        <translation type="unfinished">Subject hierarchy</translation>
+        <translation>Hierarquia de objetos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
         <source>Show transforms</source>
-        <translation type="unfinished">Show transforms</translation>
+        <translation>Mostrar transformações</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="238"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="315"/>
         <source>Show MRML ID&apos;s</source>
-        <translation type="unfinished">Show MRML ID&apos;s</translation>
+        <translation>Mostrar IDs MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="177"/>
         <source>Subject hierarchy item information</source>
-        <translation type="unfinished">Subject hierarchy item information</translation>
+        <translation>Informações do item de hierarquia de objeto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="201"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="462"/>
         <source>No item selected</source>
-        <translation type="unfinished">No item selected</translation>
+        <translation>Nenhum item selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="215"/>
         <source>Transform hierarchy</source>
-        <translation type="unfinished">Transform hierarchy</translation>
+        <translation>Hierarquia de transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="245"/>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="322"/>
         <source>Show hidden nodes</source>
-        <translation type="unfinished">Show hidden nodes</translation>
+        <translation>Mostrar nós ocultos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
         <source>All nodes</source>
-        <translation type="unfinished">All nodes</translation>
+        <translation>Todos os nós</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
         <source>MRML node information</source>
-        <translation type="unfinished">MRML node information</translation>
+        <translation>Informações do nó MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
@@ -15156,12 +15156,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
         <source>Insert transform</source>
-        <translation type="unfinished">Insert transform</translation>
+        <translation>Inserir transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation>Endurecer transformação</translation>
     </message>
 </context>
 <context>
@@ -15169,42 +15169,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="14"/>
         <source>Tensor Display Properties</source>
-        <translation type="unfinished">Tensor Display Properties</translation>
+        <translation>Propriedades de Exibição do Tensor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>Exibição de Escalares</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
         <source>Scalar Mode:</source>
-        <translation type="unfinished">Scalar Mode:</translation>
+        <translation>Modo Escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation type="unfinished">Glyphs on Slices Display</translation>
+        <translation>Glifos na Exibição de Fatias</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
         <source>Slice Visibility:</source>
-        <translation type="unfinished">Slice Visibility:</translation>
+        <translation>Visibilidade das fatias:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
         <source>Red</source>
-        <translation type="unfinished">Red</translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
         <source>Yellow</source>
-        <translation type="unfinished">Yellow</translation>
+        <translation>Amarelo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
         <source>Green</source>
-        <translation type="unfinished">Green</translation>
+        <translation>Verde</translation>
     </message>
 </context>
 <context>
@@ -15212,17 +15212,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
         <source>DWI Display Properties</source>
-        <translation type="unfinished">DWI Display Properties</translation>
+        <translation>Propriedades de Exibição DWI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>Exibição de Escalares</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
         <source>DWI Component:</source>
-        <translation type="unfinished">DWI Component:</translation>
+        <translation>Componente DWI:</translation>
     </message>
 </context>
 <context>
@@ -15230,29 +15230,29 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
         <source>Report bugs and request enhancements</source>
-        <translation type="unfinished">Report bugs and request enhancements</translation>
+        <translation>Relatar bugs e solicitar aprimoramentos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; Perguntas e solicitações de recursos:&lt;/span&gt; visite o fórum &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer&lt;/span&gt;&lt;/a&gt;. &lt;/p&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; Relatórios de bugs: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;poste um novo tópico no fórum do Slicer&lt;/span&gt;&lt;/a&gt; para nos informar sobre seu problema ou enviar um relatório de bug para o &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Descreva as etapas que levam ao erro e também anexe mensagens de log. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Aviso - se você trabalha com dados do paciente:&lt;/span&gt; Verifique se as mensagens de log não contêm nenhuma informação que possa identificar um paciente. Envie as mensagens de log para pessoas específicas em vez de compartilhá-las publicamente em uma lista de discussão ou site. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
         <source>Recent log files:</source>
-        <translation type="unfinished">Recent log files:</translation>
+        <translation>Arquivos de registro recentes:</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
         <source>Copy log to clipboard</source>
         <oldsource>Copy log messages to clipboard</oldsource>
-        <translation type="unfinished">Copy log messages to clipboard</translation>
+        <translation>Copiar log para a área de transferência</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="83"/>
         <source>Open log in editor</source>
         <oldsource>Open log file in editor</oldsource>
-        <translation type="unfinished">Open log file in editor</translation>
+        <translation>Abrir log no editor</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
@@ -15262,12 +15262,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
         <source>Edit Log</source>
-        <translation type="unfinished">Edit Log</translation>
+        <translation>Editar Log</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="122"/>
         <source>Log file content:</source>
-        <translation type="unfinished">Log file content:</translation>
+        <translation>Conteúdo do arquivo de log:</translation>
     </message>
 </context>
 <context>
@@ -15285,7 +15285,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>Intermediador de eventos</translation>
     </message>
 </context>
 <context>
@@ -15293,22 +15293,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="20"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>Intermediador de Eventos</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
         <source>Reset Times</source>
-        <translation type="unfinished">Reset Times</translation>
+        <translation>Tempos de Reinicialização</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
         <source>Show observations with Elapsed Times &gt; 0</source>
-        <translation type="unfinished">Show observations with Elapsed Times &gt; 0</translation>
+        <translation>Mostrar observações com Tempos Decorridos &gt; 0</translation>
     </message>
 </context>
 <context>
@@ -15316,12 +15316,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="23"/>
         <source>Export node</source>
-        <translation type="unfinished">Export node</translation>
+        <translation>Nó de exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="48"/>
         <source>Filename:</source>
-        <translation type="unfinished">Filename:</translation>
+        <translation>Nome do arquivo:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
@@ -15341,7 +15341,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="89"/>
         <source>Options:</source>
-        <translation type="unfinished">Options:</translation>
+        <translation>Opções:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
@@ -15381,7 +15381,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
         <source>Apply transforms</source>
-        <translation type="unfinished">Apply transforms</translation>
+        <translation>Aplicar transformações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
@@ -15429,7 +15429,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
         <source>Filename not standard</source>
-        <translation type="unfinished">Filename not standard</translation>
+        <translation>Nome de arquivo não padrão</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
@@ -15456,7 +15456,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
         <source>Failed to export node %1; filename is empty.</source>
-        <translation type="unfinished">Failed to export node %1; filename is empty.</translation>
+        <translation>Falha ao exportar o nó %1; nome do arquivo está vazio.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
@@ -15466,7 +15466,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation type="unfinished">The file %1 already exists. Do you want to replace it?</translation>
+        <translation>O arquivo %1 já existe. Deseja substituir?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
@@ -15492,12 +15492,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1223"/>
         <source>Export an individual node</source>
-        <translation type="unfinished">Export an individual node</translation>
+        <translation>Exportar um nó individual</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
         <source>Export error</source>
-        <translation type="unfinished">Export error</translation>
+        <translation>Erro de exportação</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
@@ -15534,67 +15534,67 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
         <source>Tell the application to update this extension on restart.</source>
-        <translation type="unfinished">Tell the application to update this extension on restart.</translation>
+        <translation>Diga ao aplicativo para atualizar esta extensão na reinicialização.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Atualização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
         <source>Tell the application to keep the currently installed version of this extension.</source>
-        <translation type="unfinished">Tell the application to keep the currently installed version of this extension.</translation>
+        <translation>Diga ao aplicativo para manter a versão atualmente instalada desta extensão.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="172"/>
         <source>Cancel Update</source>
-        <translation type="unfinished">Cancel Update</translation>
+        <translation>Cancelar Atualização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="186"/>
         <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-        <translation type="unfinished">Tell the application to load this extension by adding all associated module paths to the application settings.</translation>
+        <translation>Diga ao aplicativo para carregar esta extensão adicionando todos os caminhos de módulo associados às configurações do aplicativo.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="189"/>
         <source>Enable</source>
-        <translation type="unfinished">Enable</translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="196"/>
         <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-        <translation type="unfinished">Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</translation>
+        <translation>Diga ao aplicativo para pular o carregamento desta extensão removendo todos os caminhos de módulo associados das configurações do aplicativo.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="199"/>
         <source>Disable</source>
-        <translation type="unfinished">Disable</translation>
+        <translation>Desabilitar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="92"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
-        <translation type="unfinished">Tell the application to uninstall this extension when it will restart.</translation>
+        <translation>Diga ao aplicativo para desinstalar esta extensão quando for reiniciado.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>Desinstalar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="102"/>
         <source>Tell the application to keep this extension installed.</source>
-        <translation type="unfinished">Tell the application to keep this extension installed.</translation>
+        <translation>Diga ao aplicativo para manter esta extensão instalada.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
         <source>Cancel Uninstall</source>
-        <translation type="unfinished">Cancel Uninstall</translation>
+        <translation>Cancelar Desinstalação</translation>
     </message>
 </context>
 <context>
@@ -15617,7 +15617,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="343"/>
         <source>More...</source>
-        <translation type="unfinished">More...</translation>
+        <translation type="unfinished">Mais...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="385"/>
@@ -15665,7 +15665,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>Gerenciador de Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
@@ -16400,7 +16400,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/qSlicerLoadableModuleTemplateModule.h" line="43"/>
         <source>qSlicerLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -18417,7 +18417,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="45"/>
         <source>Reformat</source>
-        <translation type="unfinished"></translation>
+        <translation>Reformatar</translation>
     </message>
 </context>
 <context>
@@ -20913,7 +20913,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="51"/>
         <source>Subject Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarquia de Objetos</translation>
     </message>
 </context>
 <context>
@@ -21255,7 +21255,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="43"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -21601,7 +21601,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
         <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="43"/>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="43"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>Chave de Esquema</translation>
     </message>
 </context>
 <context>
@@ -21934,7 +21934,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="47"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidades</translation>
     </message>
 </context>
 <context>
@@ -21975,7 +21975,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>Controles de Visualização</translation>
     </message>
 </context>
 <context>
@@ -22751,7 +22751,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bem-vindo ao Slicer</translation>
     </message>
 </context>
 <context>
