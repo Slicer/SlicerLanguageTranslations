@@ -403,7 +403,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished"></translation>
+        <translation>将一个三维数据配准到一个参考数据（默认为Mattes Mutual Information）。方法在BRAINSFit中描述。全脑三维图像的互信息配准，使用Insight Toolkit，Johnson H.J.，Harris G.，Williams K.，The Insight Journal，2007。https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
@@ -418,42 +418,42 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>固定图像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>移动图像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">样本百分比</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
         <source>B-Spline Grid Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">B-Spline网格大小</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入固定图像（移动图像将被转换到这个图像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入移动图像（该图像将被转换到固定图像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>固定图像中用于配准的体素比例。这个数字必须大于零，小于或等于一。较高的数值会增加计算时间，但可能会得到更准确的结果。你也可以用ROI蒙版和ROIAUTO蒙版生成来限制采样重点。默认值是0.002（使用大约0.2%的体素，在512x512x192的数据中产生100000个样本），在大多数情况下提供一个非常快速的配准。典型的数值范围是低细节图像的0.01（1%）到高细节图像的0.2（20%）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">沿着固定图像的每个轴线，以图像空间为中心的BSpline网格细分的数量。为了正确计算BSpline，数值必须是3或更高。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
@@ -468,27 +468,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer BSpline变换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出图像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(可选）输出估计的变换--如果计算的变换不是BSpline的话。注意：你必须至少设置一个输出对象（变换和/或输出数据）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(可选）输出估计的变换--如果计算的变换是BSpline的话。注意：你必须至少设置一个输出对象（变换和/或输出数据）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished"></translation>
+        <translation>(可选）输出图像：被扭曲到固定图像空间的移动图像。注意：你必须至少设置一个输出对象（变换和/或输出数据）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
@@ -518,7 +518,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定如何初始化变换中心。 useMomentsAlign假设图像的质心代表类似的结构。 useCenterOfHeadAlign试图使用头顶和颈部的形状来驱动质心估计。 useGeometryAlign on假设图像的体素晶格的中心代表类似的结构。  Off假设图像的物理空间是接近的。  这个标志与初始化变换是相互排斥的。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -529,57 +529,57 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>使用时刻对齐</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>使用头部中心对齐</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>使用几何对齐</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>使用ROI中心对齐</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation type="unfinished"></translation>
+        <translation>配准阶段（勾选一个或多个，按所列顺序执行）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
         <source>Each of the registration phases will be used to initialize the next phase</source>
-        <translation type="unfinished"></translation>
+        <translation>每个配准阶段都将被用来初始化下一个阶段</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
         <source>Rigid (6 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>刚性 (6 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"/>
         <source>Rigid+Scale(7 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>刚性+比例（7 DOF）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"/>
         <source>Rigid+Scale+Skew(10 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>刚性+比例+倾斜（10 DOF）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>仿生(12 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>B 样条（&gt;27 DOF）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
@@ -589,112 +589,112 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
         <source>Composite (many DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>复合型（许多DOF）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为顺序配准步骤的一部分，执行刚性配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为顺序注册步骤的一部分，执行ScaleVersor3D注册。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行ScaleSkewVersor3D配准，作为顺序配准步骤的一部分。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为顺序配准步骤的一部分，执行刚性配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为顺序配准步骤的一部分，执行B样条配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为顺序配准步骤的一部分，执行SyN配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>作为顺序配准步骤的一部分，执行复合配准。  如果有任何选项被设置，这个系列的选项将覆盖transformType的使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>图像蒙版和预处理</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版选项</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) 蒙版输入固定</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) 蒙版输入移动</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) 输出固定蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) 输出移动蒙版</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>在ROI边界框上定义B样条网格</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">柱状图匹配</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中位数过滤器尺寸</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished"></translation>
+        <translation>删除一个尾部的强度异常值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定一个蒙版，只考虑某个图像区域进行配准。  如果选择ROIAUTO，则使用Ostu阈值和孔填充来计算蒙版。如果选择ROI，则必须在输入中指定蒙版。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>固定的图像二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的图像区域在配准时将被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>移动图像的二进制蒙版数据，如果蒙版选项是ROI，则需要。蒙版数据为零的图像区域在配准时将被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>从固定图像中自动计算出的ROI。只有当蒙版选项为ROIAUTO时才可用。蒙版数据为零的图像区域在配准过程中会被忽略。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
@@ -704,17 +704,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果启用，那么输入ROI的边界框将定义B样条网格支持区域。否则，B样条网格支持区域就是整个固定图像。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>对输入的图像应用直方图匹配操作，使其更加相似。  这适用于同一模式的图像，这些图像可能有不同的亮度或对比度，但整体强度曲线相同。如果配准来自不同模式的图像，请勿使用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>应用中值滤波来减少输入数据中的噪声。这3个值指定了可选的MedianImageFilter在所有3个方向（以体素为单位）的预处理半径。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
@@ -745,12 +745,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>固定图像数据2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>移动图像数据2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
@@ -760,47 +760,47 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">背景填充值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缩放输出值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">插值模式</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>输入固定图像，将用于多模态配准。(移动图像将被转换到这个图像空间)。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>输入将用于多模态配准的移动图像（该图像将被转换到固定的图像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>代表输出数据的体素的数据类型。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">这个值将用于填充输出图像中那些在输入移动图像中没有相应体素的区域。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果为真，且体素值不符合所需的outputVolumePixelType的最小和最大值，则线性缩放最小/最大输出图像体素值以符合outputVolumePixelType的最小/最大范围。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished"></translation>
+        <translation>在对移动数据进行变换时，要使用的插值类型。  选项包括线性、最近相邻、BSpline、WindowedSinc、Hamming、Cosine、Welch、Lanczos或ResampleInPlace。  ResampleInPlace选项将创建一个具有相同离散体素值的图像，并将调整物理空间解释的原点和方向。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
@@ -822,27 +822,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号短整型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">整数</translation>
+        <translation>整型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号整型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号字符类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>最近邻</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
@@ -852,7 +852,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation>B样条</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
@@ -887,234 +887,236 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
         <source>Advanced Optimization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>高级优化设置</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
         <source>Max Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>最大迭代次数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
         <source>Maximum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>最大步长</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
         <source>Minimum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>最小步长</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>松弛因子</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>转换比例</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>再生比例</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>倾斜比例</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最大 B 样条位移</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>停止优化前尝试的最大迭代次数。当使用较低的值（500-1000）时，配准将被迫提前终止，但在达到最优解之前停止的风险较大。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>优化程序的起始步长。通常，较高的值允许恢复较大的初始错位，但配准不收敛的可能性增加。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>优化中的每个步骤至少需要这么大的步骤。 如果无法实现，则配准完成。较小的值允许优化程序进行较小的调整，但配准时间可能会增加。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定在配准期间优化步长减少的速度。该值必须大于 0 且小于 1。较大的值会导致较慢的步长减小，这允许恢复较大的初始未对齐，但它会增加配准时间和配准不收敛的机会。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">与单位旋转变化（以弧度为单位）相比，位置变化（以毫米为单位）的比例 - 减小此值以允许在搜索模式中进行更多旋转。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ScaleVersor3D“Scale”补偿因子。 增加此值以允许在 ScaleVersor3D 或 ScaleSkewVersor3D 搜索模式中进行更多重新缩放。 1.0 适用于 1000.0 的翻译比例</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleSkewVersor3D 倾斜补偿因子。增加它以允许 ScaleSkewVersor3D 搜索模式中的更多倾斜。 1.0 适用于 translationScale 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>B样条控制网格沿每个轴的图像物理坐标（mm）中允许的最大位移。 值 0.0表示问题应不受限制。 注意：这仅约束 B样条部分，并不限制关联批量转换的位移。 这可以大大减少B样条优化器中的计算时间。
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>专家专用参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>固定图像时间索引</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>移动图像时间索引</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
         <source>Histogram bin count</source>
-        <translation type="unfinished"></translation>
+        <translation>直方图箱计数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
         <source>Histogram match point count</source>
-        <translation type="unfinished"></translation>
+        <translation>直方图匹配点计数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished"></translation>
+        <translation>成本衡量标准</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
         <source>Inferior Cut Off From Center</source>
-        <translation type="unfinished"></translation>
+        <translation>从中心向下切断</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI自动扩容大小</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIA自动关闭尺寸</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>样品数量</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>剥离输出转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">转换类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished"></translation>
+        <translation>将扭曲的运动图像传递到B样条配准滤波器</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">以单精度写入输出配准转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation type="unfinished"></translation>
+        <translation>拟合三维固定图像的时间序列中的索引。只有在固定输入数据为四维时才允许。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished"></translation>
+        <translation>拟合三维移动图像的时间序列中的索引。只有在移动输入数据是四维的情况下才允许</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用于相互信息度量估计的直方图级别的数量。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用于相互信息度量估计的直方图匹配点的数量。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">拟合过程中要使用的成本度量。默认为MMI。选项是MMI（Mattes Mutual Information），MSE（Mean Square Error），NC（Normalized Correlation），MC（Match Cardinality for binary images）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果初始化转换模式设置为useCenterOfHeadAlign或蒙版选项为ROIAUTO，那么这个值定义了从图像的下半部分切去多少。切断距离的单位是毫米，相对于图像中心。如果该值为1000或更大，则不进行截断。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个标志只有在使用ROIAUTO模式初始化蒙版时才有意义。  它定义了最终的扩张大小，以捕捉组织区域外的一点背景。  10毫米的设置已被证明有助于规范B样条注册类型，以便有一些背景约束来更好地匹配头部的边缘。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个标志只与使用ROIAUTO模式初始化蒙版时有关。  它定义了以毫米为单位的闭孔尺寸。  它在每个方向上都被四舍五入到最接近的整个像素尺寸。默认是使用9毫米的闭合尺寸。  对于鼠标数据，这个值可能需要重置为0.9或更小。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>计算相互信息时取样的体素数。  增加这个选项可以获得更高的精度，但代价是延长计算时间。
+注意，建议使用采样百分比而不是这个选项。然而，如果设置为非零，采样数量会覆盖采样百分比选项。  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>估计仿生转换的刚性分量。可用于将移动图像刚性地配准到固定图像上。注意：如果设置了b样条转换或线性转换，这个值会被覆盖。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定要使用的配准类型的列表。  有效的类型有：Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline和SyN。  在逗号分隔的列表中指定一个以上的类型，将用之前的结果初始化下一个阶段。如果使用registrationClass标志，它将覆盖这个参数设置。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation type="unfinished"></translation>
+        <translation>(可选的）文件名，用于保存（可选的）估计转换。注意：你必须选择outputTransform或outputVolume选项。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果这个标志是ON，当前的通用复合转换，即线性配准阶段的结果，将被设置为初始化后续的非线性配准过程。然而，在默认情况下，移动图像在被传递到B样条配准过滤器之前，会首先基于现有的转换进行扭曲。这样做是为了通过减少复合转换Jacobian的计算来加快B样条配准的速度。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>默认情况下，输出的配准转换（无论是输出复合转换还是每个转换组件）都以双精度写入磁盘。如果这个标志为ON，输出转换将以单精度（浮点）写入。如果输出转换是位移场转换，或者是包括几个位移场的复合转换，这一点就特别重要。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
@@ -1145,100 +1147,102 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>失败退出代码</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>失败时写入转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>线程数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished"></translation>
+        <translation>调试选项</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>设置抽样策略</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished"></translation>
+        <translation>日志文件报告</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果拟合失败，以这个状态码退出。  (如果由于达到最大的迭代次数而导致配准失败，可以用它来强制执行成功的退出状态（0）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用于保存最终转换的标志，即使未达到收敛的迭代次数也是如此。（用于 --failureExitCode 0 ）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">明确指定要使用的最大线程数。(默认是自动检测)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示调试消息，并生成调试中间结果。 0=关闭，1=最小，10=最大调试。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">来自 itkLBFGSBOptimizer.h：设置/获取 CostFunctionConvergenceFactor。当成本函数的减少小于 (factor * epsmcj) 时算法终止，其中 epsmch 是机器精度。因子的典型值：1e+12 表示低精度； 1e+7 用于中等精度，1e+1 用于极高精度。 1e+9 似乎运作良好。
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>来自itkLBFGSBOptimizer.h。设置/获取ProjectedGradientTolerance。当项目梯度低于该公差时，算法终止。默认的lbfgsb值是1e-5，但1e-4似乎也很好用。
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>lbfgsb优化器中行搜索的最大评估数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>lbfgsb优化器中的最大修正数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示中间图像数据以进行调试。 注意：这不是标准构建系统的一部分，可能对您的安装没有任何作用。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished"></translation>
+        <translation>每次有图像被发送到调试图像查看器时，提示用户点击回车</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation type="unfinished"></translation>
+        <translation>它定义了配准过滤器用来对输入的固定图像进行采样的方法。目前只支持随机。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用于在 CSV 文件中写出最终信息报告的文件：MetricName、MetricValue、FixedImageName、FixedMaskName、MovingImageName、MovingMaskName</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>随机</translation>
     </message>
 </context>
 <context>
@@ -1246,103 +1250,104 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>前景蒙版（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该程序用于在图像中最突出的前景区域上创建蒙版。 这是通过 otsu 阈值和关闭操作的组合来实现的。
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=爱荷华大学精神病学系，2=爱荷华大学放射学系，3=爱荷华大学生物医学工程系，4=爱荷华大学电子和计算机工程系，5=哈佛大学外科规划实验室)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">输入图像体积</translation>
+        <translation>输入图像数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
         <source>Output Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
         <source>Mask Output</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版输出</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">按 ROI 裁剪的输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于寻找最大区域填充蒙版的输入图像。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从输入图像中自动找到的ROI。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>带有可选 [maskOutput|cropOutput] 的输入数据到大脑蒙版的区域。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据乘以ROI蒙版。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入的数据被裁剪为ROI蒙版的区域。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>配置参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsu 百分位数阈值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsu修正系数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
         <source>Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭尺寸</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI自动扩容尺寸</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
@@ -1352,7 +1357,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>线程数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
@@ -1367,22 +1372,22 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished"></translation>
+        <translation>最大连接填充蒙版的闭合尺寸（以毫米为单位）。 此值除以图像间距并四舍五入到下一个最大的体素数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个标志只有在使用ROIAUTO模式初始化蒙版时才有意义。  它定义了最终的扩张大小，以捕捉组织区域外的一点背景。  10毫米的设置已被证明有助于规范B样条配准·类型，以便有一些背景约束来更好地匹配头部的边缘。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出图像像素类型是用于表示输出数据的标量数据类型。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显式指定要使用的最大线程数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
@@ -1398,22 +1403,22 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号短整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">整数</translation>
+        <translation>整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号字符类型</translation>
     </message>
 </context>
 <context>
@@ -1421,19 +1426,21 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>重采样图像（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
         <source>
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    这个程序收集了三种常见的图像处理任务，它们都涉及到对图像数据的重新取样。重新取样到一个新的分辨率和间距，应用变换（使用ITK变换IO机制）和扭曲（使用矢量图像变形场）。
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该工具的开发得到了美国国家神经疾病和中风研究所NS050568和NS40068的资助以及美国国家精神卫生研究所MH31593和MH40856的资助。  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
@@ -1443,23 +1450,23 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用于指定要扭曲的图像和产生的图像空间的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>图像扭曲</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
         <source>Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation>参考图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅用于定义输出空间的参考图像。如果不指定，则在与要扭曲的图像相同的空间中进行扭曲。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
@@ -1469,27 +1476,27 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
         <source>Resulting deformed image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">生成的变形图像参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>像素类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>生成的变形图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
         <source>Specifies the pixel type for the input/output images.  If the type is &quot;input&quot;, then infer from the input image.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定输入/输出图像的像素类型。  如果类型是 &quot;输入&quot;，那么就从输入图像中推断。  “二进制 ”像素类型使用一种修改过的算法，即图像以无符号字符形式读入，创建一个有符号的距离图，对有符号的距离图进行重采样，然后将无符号字符类型的阈值图像写入磁盘。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
@@ -1505,92 +1512,92 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号短整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation type="unfinished">整数</translation>
+        <translation>整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号字符类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
         <source>Warping Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>扭曲参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用来定义图像的变形原点的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
         <source>Displacement Field (deprecated)</source>
-        <translation type="unfinished"></translation>
+        <translation>位移字段（已废弃）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>转换文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>插值模式</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">计算给定变换的逆变换？</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
         <source>Default Value</source>
-        <translation type="unfinished"></translation>
+        <translation>默认值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
         <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
-        <translation type="unfinished"></translation>
+        <translation>用于扭曲图像的位移字段（ITKv3 或更早版本）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation type="unfinished"></translation>
+        <translation>BRAINSFit 变换（ITKv3 或更早版本）或复合变换文件 （ITKv4） 的文件名</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>将变换应用于移动数据时要使用的插值类型。选项为 Linear、ResampleInPlace、NearestNeighbor、BSpline 或 WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">真/假是计算给定变换的逆运算。默认值为假</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
         <source>Default voxel value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认体素值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
@@ -1601,7 +1608,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最近邻</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
@@ -1611,7 +1618,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">B样条</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
@@ -1646,32 +1653,32 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
         <source>Advanced Options</source>
-        <translation type="unfinished"></translation>
+        <translation>高级选项</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"/>
         <source>Add Grids</source>
-        <translation type="unfinished"></translation>
+        <translation>添加网格</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在输出的图像中添加扭曲的网格，以帮助显示在指定间距下发生的变形。   某一维度的间距为0，表示网格线应该被渲染成准确的落差（即不允许偏离该平面的位移）。  这对于从三维空间制作网格线的二维图像很有用</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
         <source>Multiprocessing Control</source>
-        <translation type="unfinished"></translation>
+        <translation>多进程控制</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>线程数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>显式指定要使用的最大线程数。</translation>
     </message>
 </context>
 <context>
@@ -1679,69 +1686,71 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>调整图像大小（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+这个程序对于通过一个恒定的比例系数对图像进行降采样很有用。
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>该工具的开发得到了美国国家神经疾病和中风研究所NS050568和NS40068的资助以及美国国家精神卫生研究所MH31593和MH40856的资助。  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">输入</translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>用于指定要扭曲的图像和生成的图像空间的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>图像扭曲</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
         <source>Image To Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>图像缩放</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">输出</translation>
+        <translation>产出</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
         <source>Resulting scaled image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放后的图像参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>像素类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放后的图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定输入/输出图像的像素类型。  二进制 &quot;像素类型使用一种修改过的算法，即图像以无符号字符的形式被读入，创建一个有符号的距离图，对有符号的距离图进行重采样，然后将一个无符号字符类型的阈值图像写入磁盘。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
@@ -1757,47 +1766,47 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号短整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
         <source>int</source>
-        <translation type="unfinished">整数</translation>
+        <translation>整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号字符类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"/>
         <source>Scaling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>缩放参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>用于定义输出图像缩放比例的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
         <source>Scale Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>比例系数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>图像间距的比例系数。</translation>
     </message>
 </context>
 <context>
@@ -1805,43 +1814,43 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>条带旋转（大脑）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>读取一个图像，写出同一图像的旋转矩阵和一个ITK转换文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">输入参数</translation>
+        <translation>输入参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>图像扭曲</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>转换文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished"></translation>
+        <translation>生成的变形图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>转换文件的文件名</translation>
     </message>
 </context>
 <context>
@@ -1849,12 +1858,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>转化转换（BRAINS）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
         <source>Convert ITK transforms to higher order transforms</source>
-        <translation type="unfinished"></translation>
+        <translation>将 ITK 变换转换为高阶变换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
@@ -1865,12 +1874,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
@@ -1880,12 +1889,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation type="unfinished"></translation>
+        <translation>参考图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
         <source>Output displacement field</source>
-        <translation type="unfinished"></translation>
+        <translation>输出位移字段</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
@@ -1895,18 +1904,18 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation type="unfinished"></translation>
+        <translation>目标转换类型。必须与输入的转换类型兼容</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
         <source>Precision type of the output transform. It can be either single precision or double precision</source>
-        <translation type="unfinished"></translation>
+        <translation>输出变换的精度类型。它可以是单精度，也可以是双精度</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"/>
         <source>Affine</source>
-        <translation type="unfinished"></translation>
+        <translation>仿射</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
@@ -1932,12 +1941,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished"></translation>
+        <translation>位移字段</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>相同的</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
@@ -1950,14 +1959,16 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>转换标量数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>将一个数据转换为一个给定的数据类型。
+当把一个输入的数据转换成一个较低精度的类型时，请自行承担使用风险
+允许转换到与输入数据相同的类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
@@ -1967,88 +1978,88 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据，要转换的数据。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据，转换为新的类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器设置</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation type="unfinished"></translation>
+        <translation>输出类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>新输出数据的标量数据类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号字符型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>字符类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>短整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号短整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="23"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>浮点数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>双精度</translation>
     </message>
 </context>
 <context>
@@ -2056,7 +2067,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
         <source>CheckerBoard Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>CheckerBoard过滤器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
@@ -2071,17 +2082,17 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
         <source>CheckerBoard Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>棋盘格参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
         <source>Parameters for the checkerboard</source>
-        <translation type="unfinished"></translation>
+        <translation>棋盘格的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
         <source>Checker Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>棋子图案</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
@@ -2091,42 +2102,42 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="12"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="13"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="14"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="16"/>
         <source>First Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>第一个输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="17"/>
         <source>Second Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>第二个输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>输出过滤器</translation>
     </message>
 </context>
 <context>
@@ -2134,462 +2145,462 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个DICOM系列</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>从Slicer数据创建一个DICOM系列。用户可以在用户界面中为选定的DICOM标签指定值。鉴于DICOM系列的标签数量，不可能在用户界面中公开所有的标签。所以只有重要的标签可以由用户设置。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该命令模块源自Insight/Examples（版权归Insight软件联盟所有）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>要重新采样的输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
         <source>Output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM目录</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
         <source>DICOM filename prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM文件名前缀</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
         <source>DICOM file number format</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM文件编号格式</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation type="unfinished"></translation>
+        <translation>反向切片</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>使用压缩</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器设置</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>Output Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>输出类型：</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation type="unfinished"></translation>
+        <translation>包含DICOM系列的目录。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
         <source>The prefix of the DICOM filename.</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM文件名的前缀。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建每片DICOM文件名时要使用的printf-style格式。前面的%符号可以省略。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
         <source>Reverse the slices.</source>
-        <translation type="unfinished"></translation>
+        <translation>反转切片。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
         <source>Compress the output pixel data.</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩输出的像素数据。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
         <source>Type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>新输出数据的类型。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="30"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>短整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="29"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号字符型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
         <source>Char</source>
-        <translation type="unfinished"></translation>
+        <translation>字符类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号短整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
         <source>Int</source>
-        <translation type="unfinished"></translation>
+        <translation>整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="33"/>
         <source>UnsignedInt</source>
-        <translation type="unfinished"></translation>
+        <translation>无符号整数型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"/>
         <source>Patient Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>患者参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"/>
         <source>Parameters that apply to a patient</source>
-        <translation type="unfinished"></translation>
+        <translation>适用于患者的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>患者姓名</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>患者编号</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="38"/>
         <source>Patient Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>患者出生日期</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"/>
         <source>Patient Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>患者性别</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"/>
         <source>Patient Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>患者评论</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
         <source>The name of the patient (0010,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>患者姓名 （0010，0010）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
         <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>患者 ID （0010，0020）。如果设置为 [random]，则将生成一个随机 ID。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"/>
         <source>Patient birth date (0010,0030) in the format YYYYMMDD.</source>
-        <translation type="unfinished"></translation>
+        <translation>患者出生日期 （0010，0030） 格式为 YYYYMMDD。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="44"/>
         <source>Patient sex (0010,0040). M=male, F=female, O=other, [unknown]=not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>患者性别（0010,0040）。M=男性，F=女性，O=其他，[未知]=未说明</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="45"/>
         <source>Patient comments (0010,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>患者评论(0010,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="46"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="47"/>
         <source>[unknown]</source>
-        <translation type="unfinished"></translation>
+        <translation>[未知]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="48"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation>M</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="49"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="50"/>
         <source>O</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"/>
         <source>Study Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>研究参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"/>
         <source>Parameters that apply to a study</source>
-        <translation type="unfinished"></translation>
+        <translation>适用于一项研究的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>研究编号</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
         <source>Study Date</source>
-        <translation type="unfinished"></translation>
+        <translation>研究日期</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
         <source>Study Time</source>
-        <translation type="unfinished"></translation>
+        <translation>研究时间</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
         <source>Study Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>研究评论</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"/>
         <source>Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>研究描述</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="58"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>模式</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"></translation>
+        <translation>制造商</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation>模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
         <source>The study ID (0020,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>研究编号 (0020,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
         <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>研究的日期（0008,0020），格式为YYYMMDD。如果设置为&quot;[现在]&quot;，则使用当前日期。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>研究的时间（0008,0030），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"/>
         <source>Study comments (0032,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>研究评论(0032,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
         <source>Study description (0008,1030)</source>
-        <translation type="unfinished"></translation>
+        <translation>研究描述(0008,1030)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="66"/>
         <source>Modality (0008,0060)</source>
-        <translation type="unfinished"></translation>
+        <translation>模式 (0008,0060)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="67"/>
         <source>Manufacturer (0008,0070)</source>
-        <translation type="unfinished"></translation>
+        <translation>制造商 (0008,0070)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="68"/>
         <source>model (0008,1090)</source>
-        <translation type="unfinished"></translation>
+        <translation>模型(0008,1090)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation>美国</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
         <source>CR</source>
-        <translation type="unfinished"></translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
         <source>SC</source>
-        <translation type="unfinished"></translation>
+        <translation>SC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
         <source>Series Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>系列参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"/>
         <source>Parameters that apply to a series</source>
-        <translation type="unfinished"></translation>
+        <translation>适用于一个系列的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"/>
         <source>Series Number</source>
-        <translation type="unfinished"></translation>
+        <translation>系列号</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"/>
         <source>Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>系列描述</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"/>
         <source>Series Date</source>
-        <translation type="unfinished"></translation>
+        <translation>系列日期</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="81"/>
         <source>Series Time</source>
-        <translation type="unfinished"></translation>
+        <translation>系列时间</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
         <source>Patient Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>患者位置：</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
         <source>The series number (0020,0011)</source>
-        <translation type="unfinished"></translation>
+        <translation>系列号（0020,0011）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
         <source>Series description (0008,103E)</source>
-        <translation type="unfinished"></translation>
+        <translation>系列描述 (0008,103E)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
         <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>系列（0008,0021）的日期，格式为YYYMMDD。如果设置为&quot;[现在]&quot;，那么将使用当前日期。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"/>
         <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>该系列的时间（0008,0031），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="87"/>
         <source>Patient position descriptor relative to the equipment.</source>
-        <translation type="unfinished"></translation>
+        <translation>患者相对于设备的位置描述。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
         <source>HFS</source>
-        <translation type="unfinished"></translation>
+        <translation>HFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
         <source>HFP</source>
-        <translation type="unfinished"></translation>
+        <translation>HFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"/>
         <source>HFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
         <source>HFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>HFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
         <source>FFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
         <source>FFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>FFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
         <source>FFP</source>
-        <translation type="unfinished"></translation>
+        <translation>FFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"/>
         <source>FFS</source>
-        <translation type="unfinished"></translation>
+        <translation>FFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"/>
         <source>LFP</source>
-        <translation type="unfinished"></translation>
+        <translation>LFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"/>
         <source>LFS</source>
-        <translation type="unfinished"></translation>
+        <translation>LFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
         <source>RFP</source>
-        <translation type="unfinished"></translation>
+        <translation>RFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
@@ -2599,142 +2610,142 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"/>
         <source>AFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"/>
         <source>AFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>AFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"/>
         <source>PFDR</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
         <source>PFDL</source>
-        <translation type="unfinished"></translation>
+        <translation>PFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
         <source>Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>图像参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
         <source>Parameters that apply to the images and data in each image</source>
-        <translation type="unfinished"></translation>
+        <translation>适用于每个图像中的图像和数据的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="107"/>
         <source>Window center</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口中心</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"/>
         <source>Window width</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口宽度</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="109"/>
         <source>Rescale intercept</source>
-        <translation type="unfinished"></translation>
+        <translation>重新缩放截距</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="110"/>
         <source>Rescale slope</source>
-        <translation type="unfinished"></translation>
+        <translation>重新缩放斜率</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="111"/>
         <source>Rescale Type</source>
-        <translation type="unfinished"></translation>
+        <translation>重新缩放类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="112"/>
         <source>Content Date</source>
-        <translation type="unfinished"></translation>
+        <translation>内容日期</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
         <source>Content Time</source>
-        <translation type="unfinished"></translation>
+        <translation>内容时间</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口中心（0028,1050）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口中心包含作为窗口中心的输入值。如果窗口中心或宽度没有定义，那么窗口将被设置为图像的全部强度范围。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口宽度（0028,1051）。指定从存储的像素值（在应用了重缩放斜率和交互感知后）到要显示的值的线性转换。窗口宽度包含窗口的宽度。如果窗口中心或宽度未被定义，那么窗口将被设置为图像的全部强度范围。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>重新缩放截距（0028,1052）。将磁盘上的像素值转换为内存中的像素值。(内存中的像素值）=（磁盘上的像素值）* rescaleSlope + rescaleIntercept。  默认为0.0。数据值在写入时被转换（数据被缩放和移位，以便斜率和截距能使它回到当前的强度范围）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重新缩放斜率(0028,1053)。将磁盘上的像素值转换为内存中的像素值。(内存中的像素值）=（磁盘上的像素值）* rescaleSlope + rescaleInterscept。  默认为1.0。数据值在写入时被转换（数据被缩放和移位，以便斜率和截距能使它回到当前的强度范围）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
         <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">指定重新缩放图像的输出单位（0008,1054）。留空是为了自动设置（对CT来说是Hounsfield单位，对其他来说是未指定的）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
         <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图片内容的日期（0008,0023），格式为YYYMMDD。如果设置为&quot;[现在]&quot;，那么将使用当前日期。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
         <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">图像内容的时间（0008,0033），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique Identifiers (UIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">唯一标识符 （UID）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">唯一标识符(UID)，允许在现有研究或系列中添加框架。要自动生成UID，请将所有的UID留空。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
         <source>Study Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>研究实例UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
         <source>Series Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>系列实例 UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
         <source>Frame of Reference UID</source>
-        <translation type="unfinished"></translation>
+        <translation>参考框架UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>研究实例UID（0020,000d）。留空以自动生成UID。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>系列实例UID（0020,000e）。留空以自动生成UID。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="128"/>
         <source>The frame of reference UID (0020,0052). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>参考框架的UID（0020,0052）。留空以自动生成UID。</translation>
     </message>
 </context>
 <context>
@@ -2742,7 +2753,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="5"/>
         <source>Curvature Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>曲率各向异性扩散</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
@@ -2756,34 +2767,34 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>该命令模块源自Insight/Examples（版权归Insight软件联盟所有）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>各向异性的扩散参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>各向异性扩散算法的参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="10"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="14"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>电导率</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>迭代</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="12"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="17"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>时间步长</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
@@ -2798,37 +2809,37 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>时间步长取决于图像的维度。在Slicer中，图像是三维的，默认的（0.0625）时间步长将提供一个稳定的解决方案。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>要过滤的输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>输出过滤器</translation>
     </message>
 </context>
 <context>
@@ -2836,7 +2847,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="5"/>
         <source>Diffusion-weighted DICOM Import (DWIConvert)</source>
-        <translation type="unfinished"></translation>
+        <translation>扩散加权的DICOM导入（DWIConvert）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
@@ -2851,22 +2862,22 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
         <source>Conversion Options</source>
-        <translation type="unfinished"></translation>
+        <translation>转换选项</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="9"/>
         <source>Options that are used for all conversion modes</source>
-        <translation type="unfinished"></translation>
+        <translation>用于所有转换模式的选项</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="10"/>
         <source>Input DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>输入DWI数据文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"/>
         <source>Output DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>输出DWI数据文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
@@ -2877,12 +2888,13 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
         <source>Input DWI volume -- not used for DicomToNrrd mode.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>输入DWI数据 -- 不用于DicomToNrrd模式。
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
         <source>Output filename (.nhdr or .nrrd)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出文件名（.nhdr或.nrrd）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
@@ -2913,138 +2925,138 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
         <source>Parameters for Dicom to NRRD Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom到NRRD转换的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 Dicom 数据目录</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation type="unfinished"></translation>
+        <translation>持有Dicom系列的目录</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="25"/>
         <source>NiftiFSL To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>NiftiFSL到Nrrd的转换参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="26"/>
         <source>FSL NIfTI File</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL NIfTI文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
         <source>Input bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>输入bval文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
         <source>Input bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 bvec 文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
         <source>4D NIfTI file containing gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>包含梯度数据的4D NIfTI文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
         <source>The B Values are stored in FSL .bval text file format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">B值是以FSL .bval文本文件格式存储的</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>梯度矢量以FSL .bvec文本文件格式存储</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="32"/>
         <source>Nrrd To NiftiFSL Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrd到NiftiFSL的转换参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"/>
         <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrd到NiftiFSL（NrrdToFSL）转换参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
         <source>Output nii file</source>
-        <translation type="unfinished"></translation>
+        <translation>输出nii文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
         <source>Output bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>输出bval文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
         <source>Output bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>输出 bvec 文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
         <source>Nifti output filename (for Slicer GUI use).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nifti输出文件名（供Slicer GUI使用）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"/>
         <source>The B Values are stored in FSL .bval text file format (defaults to &lt;outputVolume&gt;.bval)</source>
-        <translation type="unfinished"></translation>
+        <translation>B值以FSL.bval文本文件格式存储（默认为&lt;outputVolume&gt;.bval）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="39"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format (defaults to &lt;outputVolume&gt;.bvec)</source>
-        <translation type="unfinished"></translation>
+        <translation>梯度矢量以FSL.bvec文本文件格式存储（默认为&lt;outputVolume&gt;.bvec）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"/>
         <source>Advanced Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>高级转换参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
         <source>Options to control the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>控制输出的选项。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>写入协议梯度文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
         <source>Use Identity Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>使用身份测量框架</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"/>
         <source>Use BMatrix Gradient Directions</source>
-        <translation type="unfinished"></translation>
+        <translation>使用BMatrix梯度方向</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>输出目录</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
         <source>Small Gradient Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>小梯度阈值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
         <source>Transpose Input BVectors</source>
-        <translation type="unfinished"></translation>
+        <translation>对输入的BV向量进行移位</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
         <source>Allow lossy image conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>允许有损的图像转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
@@ -3054,7 +3066,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
         <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
-        <translation type="unfinished"></translation>
+        <translation>调整所有梯度，使测量框成为单位矩阵。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
@@ -3064,7 +3076,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
         <source>Directory holding the output NRRD file</source>
-        <translation type="unfinished"></translation>
+        <translation>保存输出NRRD文件的目录</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
@@ -3074,12 +3086,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
         <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL 输入 BVector 应在输入文件中编码为每行一个向量。如果不是这种情况，请使用此选项在读取文件时转置文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>唯一支持的输出类型是 &quot;短整型&quot;。从不同类型的图像转换可能会由于四舍五入或截断而导致数据丢失。请谨慎使用!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
@@ -3089,7 +3101,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
         <source>Gradient Vector File</source>
-        <translation type="unfinished"></translation>
+        <translation>梯度矢量文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
@@ -3099,12 +3111,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
         <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>已弃用：使用 --inputBVector --inputBValue 文件 提供梯度向量的文本文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation type="unfinished"></translation>
+        <translation>已废除。  不支持也不测试。  输出一个NRRD文件，但没有梯度</translation>
     </message>
 </context>
 <context>
@@ -3112,12 +3124,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation>执行模型导览</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="5"/>
         <source>Shows one of each type of parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>显示每种类型的参数中的一个。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
@@ -3127,82 +3139,82 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
         <source>Scalar Parameters (árvíztűrő tükörfúrógép)</source>
-        <translation type="unfinished"></translation>
+        <translation>标量参数 (árvíztűrő tükörfúrógép)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"/>
         <source>Variations on scalar parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>标量参数的变化</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>整数参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>双参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
         <source>An integer without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>没有约束的整数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"/>
         <source>A double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>有约束的双精度浮点数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>矢量参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>矢量参数的变化</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>浮点矢量参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串矢量参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>一个浮点数的向量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>一个字符串的向量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>枚举参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>枚举参数的变化</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串枚举参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>一个字符串的枚举</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"/>
@@ -3222,7 +3234,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="125"/>
         <source>Eric</source>
-        <translation type="unfinished"></translation>
+        <translation>Eric</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"/>
@@ -3251,272 +3263,272 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
         <source>Boolean Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔型参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"/>
         <source>Variations on boolean parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔参数的变化</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
         <source>Boolean Default true</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔值 默认为真</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
         <source>Boolean Default false</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔值 默认为假</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
         <source>Boolean No Default</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔无默认值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
         <source>A boolean default true</source>
-        <translation type="unfinished"></translation>
+        <translation>一个布尔值，默认为真</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"/>
         <source>A boolean default false</source>
-        <translation type="unfinished"></translation>
+        <translation>一个布尔值，默认为false</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"/>
         <source>A boolean with no default, should be defaulting to false</source>
-        <translation type="unfinished"></translation>
+        <translation>一个没有默认值的布尔值，应该默认为假</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
         <source>File, Directory and Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>文件、目录和图像参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
         <source>Parameters that describe files and directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>描述文件和目录的参数。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"/>
         <source>Input file</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"/>
         <source>Input Files</source>
-        <translation type="unfinished"></translation>
+        <translation>输入文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"/>
         <source>Output file</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"/>
         <source>Input directory</source>
-        <translation type="unfinished"></translation>
+        <translation>输入目录</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>输入图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
         <source>Input 4D Image</source>
-        <translation type="unfinished"></translation>
+        <translation>输入 4D 图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>输出图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
         <source>An input file</source>
-        <translation type="unfinished"></translation>
+        <translation>一个输入文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"/>
         <source>Multiple input files</source>
-        <translation type="unfinished"></translation>
+        <translation>多个输入文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"/>
         <source>An output file</source>
-        <translation type="unfinished"></translation>
+        <translation>一个输出文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"/>
         <source>An input directory. If no default is specified, the current directory is used,</source>
-        <translation type="unfinished"></translation>
+        <translation>一个输入目录。如果没有指定默认值，将使用当前目录</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
         <source>An input image</source>
-        <translation type="unfinished"></translation>
+        <translation>一个输入图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
         <source>Input 4D Image (txyz)</source>
-        <translation type="unfinished"></translation>
+        <translation>输入4D图像（txyz）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
         <source>An output image</source>
-        <translation type="unfinished"></translation>
+        <translation>一个输出图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>变换参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
         <source>Parameters that describe transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>描述变换的参数。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"/>
         <source>Input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>输入变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
         <source>Input transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>输入变换线性</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
         <source>Input transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>输入变换非线性</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
         <source>Input transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>输入变换b样条</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>输出变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
         <source>Output transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>输出变换线性</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"/>
         <source>Output transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>输出变换非线性</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
         <source>Output transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>输出变换 b样条</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
         <source>A generic input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个通用的输入变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个线性输入变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个非线性的输入变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个b样条输入变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个通用的输出转换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个线性输出转换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个非线性的输出转换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
         <source>A bspline output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>一个b样条的输出变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
         <source>Point Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>点参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
         <source>Parameters that describe point sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>描述点集的参数。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>种子</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"/>
         <source>Seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>种子文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"/>
         <source>Output seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>输出种子文件</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI 中的点列表对应于slicer基准点列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
         <source>Test file of input fiducials, compared to seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>输入基准点的测试文件，与种子比较</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">读取回来的输出文件，与第一个基准点上翻转设置的种子进行比较</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
         <source>Geometry Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">几何参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"/>
         <source>Parameters that describe models.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">描述模型的参数。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"/>
         <source>Input Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输出模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
@@ -3526,62 +3538,62 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>输出模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">生成的模型，在一个模型层次结构节点下。模型在模型层次结构节点下被导入 Slicer。模型层次节点必须在运行模型制作器之前创建，从模型下拉菜单中选择创建新的模型层次。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
         <source>Index Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>索引参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"/>
         <source>Variations on parameters that use index rather than flags.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用索引而不是标志的参数的变体。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"/>
         <source>First index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>第一个索引参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="92"/>
         <source>Second index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>第二个索引参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"/>
         <source>First index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>第一个索引参数是一个图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"/>
         <source>Second index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>第二个索引参数是一个图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"/>
         <source>Regions of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>感兴趣的区域</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="96"/>
         <source>Input region list</source>
-        <translation type="unfinished"></translation>
+        <translation>输入区域列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="97"/>
         <source>List of regions to process</source>
-        <translation type="unfinished"></translation>
+        <translation>要处理的区域列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
@@ -3591,122 +3603,122 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
         <source>Input FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>输入FA测量值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="100"/>
         <source>Output FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>输出 FA 测量值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"/>
         <source>Array of FA values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>要处理的 FA 值数组</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="102"/>
         <source>Array of processed (output) FA values</source>
-        <translation type="unfinished"></translation>
+        <translation>已处理（输出）FA 值数组</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="103"/>
         <source>Generic Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>通用表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="104"/>
         <source>Input Table</source>
-        <translation type="unfinished"></translation>
+        <translation>输入表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="105"/>
         <source>Output Table</source>
-        <translation type="unfinished"></translation>
+        <translation>输出表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="106"/>
         <source>Array of Table values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>要处理的表值数组</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="107"/>
         <source>Array of processed (output) Table values</source>
-        <translation type="unfinished"></translation>
+        <translation>已处理（输出）表值数组</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="108"/>
         <source>Simple return types</source>
-        <translation type="unfinished"></translation>
+        <translation>简单的返回类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="109"/>
         <source>An integer return value</source>
-        <translation type="unfinished"></translation>
+        <translation>整数返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="110"/>
         <source>A boolean return value</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
         <source>A floating point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>浮点返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
         <source>A double point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>双精度浮点数返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="113"/>
         <source>A string point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串点返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="114"/>
         <source>An integer vector return value</source>
-        <translation type="unfinished"></translation>
+        <translation>整数向量返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="115"/>
         <source>A string enumeration return value</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串枚举返回值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="116"/>
         <source>An example of an integer return type</source>
-        <translation type="unfinished"></translation>
+        <translation>整数返回类型的示例</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"/>
         <source>An example of a boolean return type</source>
-        <translation type="unfinished"></translation>
+        <translation>布尔返回类型的示例</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation type="unfinished"></translation>
+        <translation>浮点返回类型的示例</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
         <source>An example of a double return type</source>
-        <translation type="unfinished"></translation>
+        <translation>双精度浮点数返回类型示例</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"/>
         <source>An example of a string return type</source>
-        <translation type="unfinished"></translation>
+        <translation>字符串返回类型的示例</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"/>
         <source>An example of an integer vector return type</source>
-        <translation type="unfinished"></translation>
+        <translation>整数向量返回类型的示例</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="122"/>
         <source>An enumeration of strings as a return type</source>
-        <translation type="unfinished"></translation>
+        <translation>作为返回类型的字符串枚举</translation>
     </message>
 </context>
 <context>
@@ -3714,118 +3726,118 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="4"/>
         <source>Extract Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>提取骨架</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="5"/>
         <source>Extract the skeleton of a binary object.  The skeleton can be limited to being a 1D curve or allowed to be a full 2D manifold.  The branches of the skeleton can be pruned so that only the maximal center skeleton is returned.</source>
-        <translation type="unfinished"></translation>
+        <translation>提取二进制对象的框架。 骨架可以限制为一维曲线，也可以允许为完整的二维流形。 可以修剪骨架的分支，以便只返回最大的中心骨架。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个方法的原始实现是由苏黎世联邦理工学院Olaf Kuebler、Gabor Szekely和Guido Gerig教授的图像分析实验室提供。  联合国大学教堂山分校的Martin Styner对其进行了改进。  Slicer的包装是由Kitware公司的Pierre Seroul和Stephen Aylward提供的。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation>输入图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>输出图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>输入图像</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
         <source>Skeleton of the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>输入图像的骨架。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="13"/>
         <source>Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>骨架</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="14"/>
         <source>Skeleton parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>骨架参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="15"/>
         <source>Skeleton type</source>
-        <translation type="unfinished"></translation>
+        <translation>骨架类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="16"/>
         <source>Extract full tree</source>
-        <translation type="unfinished"></translation>
+        <translation>提取完整的树</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="17"/>
         <source>Number Of Points</source>
-        <translation type="unfinished"></translation>
+        <translation>点的数量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="18"/>
         <source>Output points list</source>
-        <translation type="unfinished"></translation>
+        <translation>输出点列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="19"/>
         <source>Output markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>输出标记曲线</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="20"/>
         <source>Type of skeleton to create. 1D extract centerline curve points. 2D extracts medial surface points.</source>
-        <translation type="unfinished"></translation>
+        <translation>要创建的骨架类型。一维提取中心线曲线点。二维提取中线表面点。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="21"/>
         <source>Include the full tree in the output, not just the longest branch.</source>
-        <translation type="unfinished"></translation>
+        <translation>在输出中包括整个树，而不仅仅是最长的分支。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="22"/>
         <source>Number of points used to represent the skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation>用于表示骨架的点的数量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"/>
         <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
-        <translation type="unfinished"></translation>
+        <translation>用于存储中心（1D）骨架点的坐标的文件名称</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
         <source>Centerline points as markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>中心线点作为标记的曲线</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="26"/>
         <source>1D</source>
-        <translation type="unfinished">1D</translation>
+        <translation>一维</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="27"/>
         <source>2D</source>
-        <translation type="unfinished">2D</translation>
+        <translation>二维</translation>
     </message>
 </context>
 <context>
@@ -3833,12 +3845,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
         <source>Fiducial Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>基准点配准</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>从匹配的基准点列表计算刚性、相似性或仿射变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
@@ -3848,78 +3860,78 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
         <source>Fixed landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>固定标志</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
         <source>Moving landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>移动标志</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
         <source>Save transform</source>
-        <translation type="unfinished"></translation>
+        <translation>保存变换</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>变换类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
         <source>RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>RMS误差</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
         <source>Output Message</source>
-        <translation type="unfinished"></translation>
+        <translation>输出消息</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>固定图像中标志的有序列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
         <source>Ordered list of landmarks in the moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>运动影像中标志的有序列表</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
         <source>Save the transform that results from registration</source>
-        <translation type="unfinished"></translation>
+        <translation>保存配准后的变换结果</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
         <source>Type of transform to produce</source>
-        <translation type="unfinished"></translation>
+        <translation>要产生的变换类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
         <source>Display RMS Error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示 RMS 误差。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
         <source>Provides more information on the output</source>
-        <translation type="unfinished"></translation>
+        <translation>提供关于输出的更多信息</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刚性</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
@@ -3929,7 +3941,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>相似性</translation>
     </message>
 </context>
 <context>
@@ -3937,12 +3949,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>高斯模糊图像滤波器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation>在图像上应用高斯模糊法</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
@@ -3952,27 +3964,27 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
