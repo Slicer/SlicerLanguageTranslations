@@ -13487,7 +13487,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات المطور</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="74"/>
@@ -13501,12 +13501,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
         <source>Informatics</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلوماتية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
         <source>Wizards</source>
-        <translation type="unfinished"></translation>
+        <translation>المعالجات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
@@ -13516,7 +13516,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التنظير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
@@ -13540,7 +13540,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="3"/>
         <source>Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>انتشار</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="75"/>
@@ -13552,7 +13552,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="76"/>
@@ -13597,7 +13597,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="3"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفيه</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="4"/>
@@ -13628,7 +13628,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>اختبار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="4"/>
@@ -13645,13 +13645,13 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="3"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="3"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>نماذج السطح</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
         <source>Quantification</source>
-        <translation type="unfinished"></translation>
+        <translation>التحديد الكمي</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
@@ -13659,7 +13659,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>إرث</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="85"/>
@@ -13669,7 +13669,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="194"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
@@ -19326,7 +19326,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="61"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل</translation>
     </message>
 </context>
 <context>
@@ -19338,7 +19338,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="14"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="24"/>
