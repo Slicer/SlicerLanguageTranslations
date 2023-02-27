@@ -7698,7 +7698,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="107"/>
         <source>Markups</source>
-        <translation>هوامش</translation>
+        <translation>علامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="79"/>
@@ -17186,7 +17186,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="20"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="56"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation>علامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
@@ -17908,7 +17908,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>مسار</translation>
     </message>
 </context>
 <context>
@@ -18306,7 +18306,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="47"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>مسار</translation>
     </message>
 </context>
 <context>
@@ -18314,7 +18314,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="20"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>مسار</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
@@ -21697,7 +21697,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transforms</translation>
+        <translation>التحويلات</translation>
     </message>
 </context>
 <context>
@@ -21705,7 +21705,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transforms</translation>
+        <translation>التحويلات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
@@ -21919,7 +21919,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض وحدات التحكم</translation>
     </message>
 </context>
 <context>
@@ -21931,7 +21931,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض وحدات التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
