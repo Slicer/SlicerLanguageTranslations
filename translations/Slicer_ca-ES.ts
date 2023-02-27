@@ -669,12 +669,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida del filtre de mediana</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina els valors d&apos;intensitat atípics en una cua</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
@@ -684,7 +684,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha corregit el volum de la màscara binària de la imatge, necessari si l&apos;opció d&apos;emmascarament és el RDI. Les àrees d&apos;imatge on el volum de la màscara té un valor zero s&apos;ignoren durant el registre.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
@@ -714,7 +714,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Apliqueu un filtratge de mediana per a reduir el soroll en els volums d&apos;entrada. Els 3 valors especifiquen el radi per al preprocessament opcional de MedianImageFilter en les 3 direccions (en voxels).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
@@ -4764,62 +4764,62 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation type="unfinished"></translation>
+        <translation>El MedianImageFilter s&apos;utilitza normalment com una forma robusta de reduir el soroll. Aquest filtre és especialment eficaç contra el soroll de «sal i pebre». En altres paraules, és robust en presència de valors de gris extrems. El MedianImageFilter calcula el valor de cada píxel de sortida com a mediana estadística del valor de l&apos;entorn al voltant del píxel d&apos;entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest mòdul d&apos;ordres deriva de Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
         <source>Median Filter Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres del filtre de mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"/>
         <source>Parameters for the median filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres per al filtre de mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"/>
         <source>Neighborhood Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida de l&apos;entorn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"/>
         <source>The size of the neighborhood in each dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>La mida de l&apos;entorn en cada dimensió</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
         <source>IO</source>
-        <translation type="unfinished">ES</translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Paràmetres d&apos;entrada/sortida</translation>
+        <translation>Paràmetres d&apos;entrada/sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volum de sortida</translation>
+        <translation>Volum de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortida filtrada</translation>
     </message>
 </context>
 <context>
@@ -7342,7 +7342,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radi de l&apos;entorn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
@@ -7367,7 +7367,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>El radi de l&apos;entorn sobre el qual calcular el model d&apos;intensitat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
@@ -7672,7 +7672,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de píxels superior al 50% que decidirà si un píxel OFF es convertirà en ON o no. Per exemple, si l&apos;entorn d&apos;un píxel té 124 píxels (excloent-se a si mateix), el 50% serà de 62, i si estableixes un llindar majoritari de 5, això vol dir que el filtre requerirà que hi hagi 67 o més píxels veïns activats per canviar el píxel de l&apos;OFF actual a ON.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
