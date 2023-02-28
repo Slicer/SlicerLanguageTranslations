@@ -8598,7 +8598,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>角度属性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
@@ -8732,7 +8732,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="333"/>
         <source>Resamples the active curve with the number of points specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>以指定的点数对活动曲线重新取样。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
@@ -9050,12 +9050,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="20"/>
         <source>Interaction Handles</source>
-        <translation type="unfinished"></translation>
+        <translation>交互处理</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="44"/>
         <source>Enable translation:</source>
-        <translation type="unfinished"></translation>
+        <translation>启用平移：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="57"/>
@@ -9090,17 +9090,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="242"/>
         <source>View plane</source>
-        <translation type="unfinished"></translation>
+        <translation>查看平面</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="285"/>
         <source>Enable scaling:</source>
-        <translation type="unfinished"></translation>
+        <translation>启用缩放：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="308"/>
         <source>Enable rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>启用旋转：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="189"/>
@@ -9117,7 +9117,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>平面属性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
@@ -9242,7 +9242,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineOptionsWidget.ui" line="14"/>
         <source>Test Line Options</source>
-        <translation type="unfinished"></translation>
+        <translation>测试线选项</translation>
     </message>
 </context>
 <context>
@@ -9254,7 +9254,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="14"/>
         <source>Test Line Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>测试线属性</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="32"/>
@@ -9399,7 +9399,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="253"/>
         <source>PBR</source>
-        <translation type="unfinished"></translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="274"/>
@@ -9750,7 +9750,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>绘制图表属性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
@@ -9889,7 +9889,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>绘图系列属性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -10183,7 +10183,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI 属性</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
@@ -10314,7 +10314,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
-        <translation type="unfinished"></translation>
+        <translation>场景工厂</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
@@ -10529,7 +10529,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="251"/>
         <source>Segments Table</source>
-        <translation type="unfinished"></translation>
+        <translation>分段表</translation>
     </message>
     <message>
         <source>Form</source>
@@ -10563,7 +10563,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="397"/>
         <source>Only those regions are allowed to be changed where the source volume intensity is in the specified range</source>
-        <translation type="unfinished"></translation>
+        <translation>只有主数据强度在指定范围内的区域才允许更改</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="414"/>
@@ -10997,12 +10997,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="332"/>
         <source>Additional Options</source>
-        <translation type="unfinished"></translation>
+        <translation>附加选项</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="338"/>
         <source>Pad output:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad输出：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="193"/>
@@ -11098,7 +11098,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="76"/>
         <source>Apply smoothing when converting binary labelmap to closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>在将二进制标签映射转换为闭合曲面表示时应用平滑。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
@@ -11262,7 +11262,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>单位设置</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
@@ -11849,7 +11849,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="14"/>
         <source>Slice Information</source>
-        <translation type="unfinished"></translation>
+        <translation>切片信息</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
@@ -12005,7 +12005,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceVerticalControllerWidget.ui" line="35"/>
         <source>Vertical Slice Controller</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直切片控制器</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceVerticalControllerWidget.cxx" line="80"/>
@@ -12254,7 +12254,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="14"/>
         <source>Text Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>文本属性</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Widgets/Resources/UI/qMRMLTextWidget.ui" line="31"/>
@@ -12611,7 +12611,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="14"/>
         <source>3D View Information</source>
-        <translation type="unfinished"></translation>
+        <translation>三维视图信息</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
@@ -12812,22 +12812,22 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="118"/>
         <source>Visibility in 3D view: </source>
-        <translation type="unfinished"></translation>
+        <translation>3D 视图中的可见性： </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="239"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>可见性：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="259"/>
         <source>Visibility in slice view:</source>
-        <translation type="unfinished"></translation>
+        <translation>切片视图中的可见性：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="266"/>
         <source>Visibility in 3D view:</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 视图中的可见性：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="622"/>
@@ -13402,7 +13402,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="20"/>
         <source>Volume Thresholding</source>
-        <translation type="unfinished"></translation>
+        <translation>数据阈值</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="29"/>
@@ -13492,17 +13492,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>新的应用程序版本可用： %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
         <source>download site</source>
-        <translation type="unfinished"></translation>
+        <translation>下载网站</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="76"/>
         <source>Visit the %1 to check if a new version is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 %1 以检查是否有新版本可用。</translation>
     </message>
 </context>
 <context>
@@ -13512,7 +13512,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>开发者工具</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="74"/>
@@ -13526,12 +13526,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
         <source>Informatics</source>
-        <translation type="unfinished"></translation>
+        <translation>信息学</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
         <source>Wizards</source>
-        <translation type="unfinished"></translation>
+        <translation>Wizards</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="76"/>
@@ -13546,7 +13546,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="4"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="4"/>
         <source>Specialized</source>
-        <translation type="unfinished"></translation>
+        <translation>专门</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
@@ -13556,13 +13556,13 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="4"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>公用事业</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="4"/>
         <source>BRAINS</source>
-        <translation type="unfinished"></translation>
+        <translation>大脑</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
@@ -13570,7 +13570,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="3"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="3"/>
         <source>Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>扩散</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="75"/>
@@ -13582,12 +13582,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>配准</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="4"/>
         <source>Import and Export</source>
-        <translation type="unfinished"></translation>
+        <translation>导入和导出</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="80"/>
@@ -13612,7 +13612,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="3"/>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="3"/>
         <source>Filtering</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="4"/>
@@ -13621,7 +13621,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="4"/>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="4"/>
         <source>Arithmetic</source>
-        <translation type="unfinished"></translation>
+        <translation>运算</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="82"/>
@@ -13629,7 +13629,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="3"/>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.cxx" line="78"/>
         <source>Converters</source>
-        <translation type="unfinished"></translation>
+        <translation>转换器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="4"/>
@@ -13637,19 +13637,19 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="4"/>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="4"/>
         <source>Denoising</source>
-        <translation type="unfinished"></translation>
+        <translation>降噪</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="87"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="3"/>
         <source>Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>测试</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="4"/>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="4"/>
         <source>Morphology</source>
-        <translation type="unfinished"></translation>
+        <translation>形态学</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="81"/>
@@ -13660,23 +13660,23 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="3"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="3"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>表面模型</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="77"/>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="3"/>
         <source>Quantification</source>
-        <translation type="unfinished"></translation>
+        <translation>量化</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="79"/>
         <source>IGT</source>
-        <translation type="unfinished"></translation>
+        <translation>IGT</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="83"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>内窥镜检查</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="86"/>
@@ -13684,27 +13684,27 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="3"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="3"/>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>遗产</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.cxx" line="85"/>
         <source>Registration.Specialized</source>
-        <translation type="unfinished"></translation>
+        <translation>配准.专门化</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="194"/>
         <source>Sequences</source>
-        <translation type="unfinished"></translation>
+        <translation>序列</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>有关详细信息，请参阅 %1。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>在线文档</translation>
     </message>
 </context>
 <context>
@@ -13758,7 +13758,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Annotations/qSlicerAnnotationsModule.h" line="42"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>注释</translation>
     </message>
 </context>
 <context>
@@ -13789,37 +13789,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
         <source>Quick Start</source>
-        <translation type="unfinished"></translation>
+        <translation>快速启动</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="91"/>
         <source>Get Help</source>
-        <translation type="unfinished"></translation>
+        <translation>获取帮助</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="95"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>用户界面</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="99"/>
         <source>Visit the Slicer Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>访问Slicer论坛</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
         <source>Browse Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览教程</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>致谢</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
         <source>Report a Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>报告错误</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
@@ -13829,22 +13829,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
         <source>Join Us on Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>在Twitter上加入我们</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
         <source>Search Feature Requests</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索功能请求</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="116"/>
         <source>View License</source>
-        <translation type="unfinished"></translation>
+        <translation>查看许可证</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="120"/>
         <source>How to Cite</source>
-        <translation type="unfinished"></translation>
+        <translation>如何引用</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="124"/>
@@ -14006,7 +14006,10 @@ p, li { white-space: pre-wrap; }
 
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>请按照以下说明报告问题，网址为http://slicer.org
+
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="533"/>
@@ -14069,29 +14072,29 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>在线文档</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>有关详细信息，请参阅 %1。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
         <source>Failed to find python interpreter for CLI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>未能找到CLI的Python解释器：%1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="113"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="111"/>
         <source>CLI description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI描述: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="114"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="112"/>
         <source>Failed to read XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>读取XML描述失败</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="151"/>
@@ -14099,65 +14102,65 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="201"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="207"/>
         <source>CLI executable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI可执行文件：%1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>进程无法启动。调用的程序丢失，或者您可能没有足够的权限来调用该程序。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="161"/>
         <source>The process crashed some time after starting successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>该进程在成功启动一段时间后崩溃了。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="165"/>
         <source>The process timed out after %1 msecs.</source>
-        <translation type="unfinished"></translation>
+        <translation>进程在 %1 毫秒后超时。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="169"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
         <source>An error occurred when attempting to read from the process. For example, the process may not be running.</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试从进程中读取时出错。例如，进程可能未运行。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="179"/>
         <source>Failed to execute process. An unknown error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行进程失败。发生了一个未知的错误。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="202"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="158"/>
         <source>Failed to retrieve XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>检索XML描述失败</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
         <source>XML description doesn&apos;t start right away.</source>
-        <translation type="unfinished"></translation>
+        <translation>XML描述并没有马上开始。</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
         <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>在&apos;&lt;?xml&apos;之前的输出是[%1]</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
         <source>CLI loadable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI可加载: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
         <source>Failed to retrieve Module Entry Point</source>
-        <translation type="unfinished"></translation>
+        <translation>无法检索模块入口点</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="236"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析预期的符号 &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -14165,12 +14168,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="932"/>
         <source>Compatible Files</source>
-        <translation type="unfinished"></translation>
+        <translation>兼容文件</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>全部文件</translation>
     </message>
 </context>
 <context>
@@ -14287,7 +14290,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="372"/>
         <source>%1 (%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 （%2s）</translation>
     </message>
 </context>
 <context>
@@ -14470,27 +14473,27 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1746"/>
         <source>Built on top of:</source>
-        <translation type="unfinished"></translation>
+        <translation>建立在以下基础上：</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1766"/>
         <source>Licensing Information</source>
-        <translation type="unfinished"></translation>
+        <translation>许可证信息</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>网站</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>致谢</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1775"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer不是FDA批准的医疗设备。&lt;br&gt;&lt;br&gt;支持的是。&lt;br&gt;&lt;br&gt;特别感谢美国国立卫生研究院和我们的其他支持者。&lt;br&gt;&lt;br&gt;这项工作是国家医学图像计算联盟（NA-MIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。有关国家生物医学计算中心的信息可从&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;获得。&lt;br&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -14499,7 +14502,7 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="581"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>正在加载%1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="616"/>
@@ -14509,22 +14512,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="786"/>
         <source>No writer found to write file %1 of type %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到要写入类型 %2 的文件 %1 的编写器。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="801"/>
         <source>Unable to create directory &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建目录 &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="834"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存失败，找到类型为“%2”的文件“%1”的所有编写器。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
         <source>No nodes were saved in the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>场景中未保存任何节点</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="918"/>
@@ -14541,12 +14544,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="993"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为临时场景中的%1创建默认存储节点。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1015"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法在临时场景中保存 %1 的显示属性。</translation>
     </message>
 </context>
 <context>
