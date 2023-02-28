@@ -21710,12 +21710,12 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
         <source>Active Transform:</source>
-        <translation type="unfinished">Active Transform:</translation>
+        <translation>التحويل النشط:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>معلومات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="92"/>
@@ -21725,37 +21725,37 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>مصفوفة التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="163"/>
         <source>Rotation</source>
-        <translation type="unfinished">Rotation</translation>
+        <translation>دوران</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="184"/>
         <source>Identity</source>
-        <translation type="unfinished">Identity</translation>
+        <translation>الهوية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="194"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>عكس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="204"/>
         <source>Split a composite transform to its components</source>
-        <translation type="unfinished">Split a composite transform to its components</translation>
+        <translation>قم بتقسيم تحويل مركب إلى مكوناته</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
         <source>Split</source>
-        <translation type="unfinished">Split</translation>
+        <translation>شق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
         <source>Translation in global or local (rotated) reference frame</source>
-        <translation type="unfinished">Translation in global or local (rotated) reference frame</translation>
+        <translation>الترجمة في إطار مرجعي عالمي أو محلي (مدور)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
@@ -21765,32 +21765,32 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="254"/>
         <source>Copy transform</source>
-        <translation type="unfinished">Copy transform</translation>
+        <translation>نسخ التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="264"/>
         <source>Paste transform</source>
-        <translation type="unfinished">Paste transform</translation>
+        <translation>لصق التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="309"/>
         <source>Apply transform</source>
-        <translation type="unfinished">Apply transform</translation>
+        <translation>تطبيق التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
         <source>Transformable:</source>
-        <translation type="unfinished">Transformable:</translation>
+        <translation>قابل للتحويل:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
         <source>Apply the active transform to the selected transformable nodes</source>
-        <translation type="unfinished">Apply the active transform to the selected transformable nodes</translation>
+        <translation>قم بتطبيق التحويل النشط على العقد القابلة للتحويل المحددة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
@@ -21800,7 +21800,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
         <source>Remove the active transform from the selected transformed nodes</source>
-        <translation type="unfinished">Remove the active transform from the selected transformed nodes</translation>
+        <translation>قم بإزالة التحويل النشط من العقد المحولة المحددة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
@@ -21810,67 +21810,67 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation>تصلب التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
         <source>Transformed:</source>
-        <translation type="unfinished">Transformed:</translation>
+        <translation>تحويل:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>يتحول</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="454"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation>الحجم المرجعي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation type="unfinished">Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</translation>
+        <translation>الحجم الذي يحدد اتجاهات الأصل والتباعد والمحور لحقل الإزاحة المصدر. إذا كان الحجم المرجعي تحت تحويل غير خطي ، استخدام الهندسة غير المحولة كمرجع.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
         <source>Output displacement field:</source>
-        <translation type="unfinished">Output displacement field:</translation>
+        <translation>حقل إزاحة الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
-        <translation type="unfinished">Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</translation>
+        <translation>عقدة الحجم أو التحويل التي ستخزن حقل الإزاحة. إذا تم اختيار عقدة الحجم العددي ، حفظ حجم الإزاحة فقط. في حجم المتجه أو تحويل عقدة يتم حفظ ناقل الإزاحة 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
         <source>Displacement Field</source>
-        <translation type="unfinished">Displacement Field</translation>
+        <translation>حقل الإزاحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>طبق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="127"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="133"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>لصق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>فشل التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation type="unfinished">Failed to convert transform. See application log for details.</translation>
+        <translation>فشل تحويل التحويل. راجع سجل التطبيق للحصول على التفاصيل.</translation>
     </message>
 </context>
 <context>
@@ -21878,7 +21878,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="47"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>الوحدات</translation>
     </message>
 </context>
 <context>
