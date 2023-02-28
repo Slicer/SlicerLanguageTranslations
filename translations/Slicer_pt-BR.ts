@@ -20322,7 +20322,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="188"/>
         <source>Modules to ignore</source>
-        <translation>Módulos a ignorar</translation>
+        <translation>Módulos à ignorar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
@@ -20367,12 +20367,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="70"/>
         <source>Log messages at this level and above are displayed in the Python console.</source>
-        <translation>As mensagens de registro neste nível e acima são exibidas no console Python.</translation>
+        <translation>Mensagens de registro deste nível e superior são exibidas no console do Python.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Display Python console in a window that can be placed inside the main window.</source>
-        <translation>Exibir o console Python em uma janela que pode ser colocada dentro da janela principal.</translation>
+        <translation>Mostrar console do Python em uma janela que pode ser posicionada dentro da janela principal.</translation>
     </message>
 </context>
 <context>
@@ -20749,7 +20749,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
         <source>Multisampling (MSAA)</source>
-        <translation>Multiamostragem (MSAA)</translation>
+        <translation>Suavização de múltipla amostra antiserrilhamento (MSAA)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="95"/>
