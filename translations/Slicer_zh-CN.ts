@@ -1069,7 +1069,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished">拟合过程中要使用的成本度量。默认为MMI。选项是MMI（Mattes Mutual Information），MSE（Mean Square Error），NC（Normalized Correlation），MC（Match Cardinality for binary images）。</translation>
+        <translation>拟合过程中要使用的成本度量。默认为MMI。选项是MMI（Mattes Mutual Information），MSE（Mean Square Error），NC（Normalized Correlation），MC（Match Cardinality for binary images）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
@@ -2155,7 +2155,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">该命令模块源自Insight/Examples（版权归Insight软件联盟所有）。</translation>
+        <translation>该命令模块源自Insight/Examples（版权归Insight软件联盟所有）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
@@ -2894,7 +2894,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
         <source>Output filename (.nhdr or .nrrd)</source>
-        <translation type="unfinished">输出文件名（.nhdr或.nrrd）。</translation>
+        <translation>输出文件名（.nhdr或.nrrd）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
@@ -4021,7 +4021,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">该命令模块源自Insight/Examples（版权归Insight软件联盟所有）。</translation>
+        <translation>该命令模块源自Insight/Examples（版权归Insight软件联盟所有）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
@@ -4769,7 +4769,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">该命令模块源自Insight/Examples/Filtering/MedianImageFilter（版权归Insight软件联盟所有）。</translation>
+        <translation>该命令模块源自Insight/Examples/Filtering/MedianImageFilter（版权归Insight软件联盟所有）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
@@ -5070,7 +5070,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished">分割法线对于可视化尖锐特征非常有用。但是，它会在表面上产生孔洞，从而影响测量</translation>
+        <translation>分割法线对于可视化尖锐特征非常有用。但是，它会在表面上产生孔洞，从而影响测量。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
@@ -6217,7 +6217,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
         <source>Correct the tensors if computed tensor is not semi-definite positive</source>
-        <translation type="unfinished">如果计算出的张量不是半无限正数，则纠正张量。</translation>
+        <translation>如果计算出的张量不是半无限正数，则纠正张量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
@@ -6276,7 +6276,7 @@ Preservation of the Principal Direction (PPD)</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished">在2种转换张量的方法中做出选择。有限应变（FS），速度较快，但精度较低，或保留主方向（PPD）。</translation>
+        <translation>在2种转换张量的方法中做出选择。有限应变（FS），速度较快，但精度较低，或保留主方向（PPD）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
@@ -6327,7 +6327,7 @@ Preservation of the Principal Direction (PPD)</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished">变换和图像之间的空间方向不同（RAS/LPS）（警告：如果变换是Slicer3中的变换节点，不要选择）。</translation>
+        <translation>变换和图像之间的空间方向不同（RAS/LPS）（警告：如果变换是Slicer3中的变换节点，不要选择）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6373,7 +6373,7 @@ Preservation of the Principal Direction (PPD)</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished">将变换的中心设置为输入图像的中心（仅适用于刚性和仿生变换）。</translation>
+        <translation>将变换的中心设置为输入图像的中心（仅适用于刚性和仿生变换）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
@@ -6600,11 +6600,11 @@ a = Affine Transform</source>
 Warning: To resample DWMR Images, use nrrd input and output files. 
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation type="unfinished">该模块通过使用itk变换实现图像和矢量图像的重采样。它还可以处理扩散加权MRI图像重采样。&quot;重采样 &quot;是在空间坐标中进行的，而不是在像素/网格坐标中。确保在所涉及的图像上正确设置图像间距是相当重要的。由于从一个空间到另一个空间的映射往往需要评估非网格位置的图像强度，所以需要插值器。 
+        <translation>该模块通过使用itk变换实现图像和矢量图像的重采样。它还可以处理扩散加权MRI图像重采样。&quot;重采样 &quot;是在空间坐标中进行的，而不是在像素/网格坐标中。确保在所涉及的图像上正确设置图像间距是相当重要的。由于从一个空间到另一个空间的映射往往需要评估非网格位置的图像强度，所以需要插值器。 
 
 警告。要对DWMR图像重新取样，请使用nrrd输入和输出文件。 
 
-警告。不要用于重新取样扩散张量图像，张量不会被重新定向。</translation>
+警告。不要用于重新取样扩散张量图像，张量不会被重新定向</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -7071,7 +7071,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation>采样算法（线性、近邻、b样条(cubic)或windowed sinc）。有几种sinc算法可供选择，如以下出版物中所述。Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A。Viergever:用于医学图像插值的Sinc-近似核的定量比较。MICCAI 1999, pp.210-217.每个窗口的半径为3</translation>
+        <translation>采样算法（线性、近邻、b样条(cubic)或windowed sinc）。有几种sinc算法可供选择，如以下出版物中所述。Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A。Viergever:用于医学图像插值的Sinc-近似核的定量比较。MICCAI 1999, pp.210-217.每个窗口的半径为3;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
