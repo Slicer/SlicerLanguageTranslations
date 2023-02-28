@@ -7499,32 +7499,32 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;阈值图像。&lt;/p&gt;&lt;p&gt;如果图像值低于、高于或介于简单阈值之间，请将图像值设置为用户指定的外部值。&lt;/p&gt;&lt;p&gt;阈值以上：大于或等于阈值的值设置为外部值。&lt;/p&gt;&lt;p&gt;阈值低于：小于或等于阈值的值设置为外部值。&lt;/p&gt;&lt;p&gt;阈值外部：超出“下限-上限”范围的值设置为“外部值”。&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
@@ -7534,88 +7534,88 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>阈值化的输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>过滤器设置</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
         <source>Threshold Type</source>
-        <translation type="unfinished"></translation>
+        <translation>阈值类型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
         <source>Threshold Value</source>
-        <translation type="unfinished"></translation>
+        <translation>阈值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>较低</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>上层</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
         <source>Outside Value</source>
-        <translation type="unfinished"></translation>
+        <translation>外部价值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
         <source>Negate Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>否定阈值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished"></translation>
+        <translation>执行什么样的阈值。如果选择“外部”，则使用“上限”和“下限”值。如果选择“低于”，则使用“阈值”，如果选择“高于”，则使用“阈值”。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
         <source>Threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>阈值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
         <source>Lower threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>较低的阈值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
         <source>Upper threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>阈值上限</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished"></translation>
+        <translation>如果体素超出阈值范围，则将其设置为此值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
         <source>Swap the outside value with the inside value.</source>
-        <translation type="unfinished"></translation>
+        <translation>将外部值与内部值交换。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>外部</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>以下</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"/>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>以上</translation>
     </message>
 </context>
 <context>
@@ -7623,37 +7623,37 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>投票二进制孔填充图像过滤器</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">应用投票操作，以填补空洞。这可用于平滑轮廓和填补二元图像的空洞。这种技术在分割完整的器官时经常使用，这些器官可能有管道或血管，但可能没有包括在最初的分割中，例如肺、肾、肝。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>该命令模块源自Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter（版权归Insight软件联盟所有）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制孔填充参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished"></translation>
+        <translation>孔填充参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
         <source>Maximum Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>最大半径</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
         <source>Majority Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>多数阈值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
@@ -7668,52 +7668,52 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished"></translation>
+        <translation>要填充的孔的半径</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">50%以上的像素数量将决定一个OFF像素是否会变成ON。例如，如果一个像素的邻居有124个像素（不包括它自己），50%将是62个，如果你设置一个多数阈值为5，这意味着过滤器将需要67个或更多的邻居像素为ON，才能将当前的OFF像素转换为ON。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished"></translation>
+        <translation>与背景相关的值（不是对象）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished"></translation>
+        <translation>与前景（对象）关联的值</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>输入/输出参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>要过滤的输入数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>输出过滤器</translation>
     </message>
 </context>
 <context>
