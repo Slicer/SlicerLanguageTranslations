@@ -14845,7 +14845,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="468"/>
         <source>the DICOM database</source>
-        <translation type="unfinished">the DICOM database</translation>
+        <translation>قاعدة بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="474"/>
