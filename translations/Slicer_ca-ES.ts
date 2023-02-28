@@ -4890,7 +4890,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Creeu models de superfícies 3D a partir de dades segmentades. &lt;p&gt;Els models s&apos;importen a Slicer sota un node de jerarquia de models en un espai de treball MRML. Els colors del model els estableix la taula de colors associada al volum d&apos;entrada (aquests colors només seran visibles si carregueu el fitxer d&apos;espai de treball del model).&lt;/p&gt; &lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Especifiqueu un &lt;i&gt;volum d&apos;entrada&lt;/i&gt; que és un volum del mapa d&apos;etiquetes segmentat. Creeu una nova jerarquia &lt;i&gt;de models&lt;/i&gt; per proporcionar una estructura que contingui els models de retorn creats a partir del volum d&apos;entrada.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Creeu Múltiples:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Si especifiqueu una llista &lt;i&gt;d&apos;etiquetes&lt;/i&gt;, s&apos;acabarà la configuració de l&apos;etiqueta d&apos;inici/final.&lt;/p&gt; &lt;p&gt;Si feu clic a &lt;i&gt;Genera-ho tot&lt;/i&gt;, es mostrarà la llista d&apos;etiquetes i qualsevol configuració de l&apos;etiqueta d&apos;inici / final.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Paràmetres creadors de models:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Podeu establir el nombre d&apos;iteracions suavitzants, reducció objectiu del nombre de polígons (percentatge decimal). Utilitzeu 0 i 1 si voleu no suavitzar ni delmar. &lt;br&gt;També podeu configurar les banderes per dividir normals o generar normals puntuals en aquesta subfinestra. &lt;br&gt;Podeu desar una còpia dels models després de passos intermedis (daus de marxa, suavització i delmació si no suavització conjunta, en cas contrari just després de la delmació); aquests models no es guarden al fitxer mrml, desactiveu l&apos;eliminació de fitxers temporals primer a la finestra de python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic(). DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -4920,7 +4920,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa d&apos;etiquetes d&apos;entrada. El menú desplegable Volum d&apos;entrada s&apos;emplena amb els volums del mapa d&apos;etiquetes presents a l&apos;espai de treball, selecciona un des del qual generar models.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
@@ -4930,7 +4930,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Models generats, sota un node jeràrquic de models. Els models s&apos;importen a Slicer sota un node de jerarquia de models i els seus colors els defineix la taula de colors associada al volum del mapa de l&apos;etiqueta d&apos;entrada. El node de jerarquia de models s&apos;ha de crear abans d&apos;executar el creador de models, seleccionant Crea un nou modelHierarchy al menú desplegable Models. Si estàs executant-los des de la línia d&apos;ordres, es crearà un node de jerarquia de models en un nou espai de treball mrml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
@@ -5112,7 +5112,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation>Un fitxer mrml que conté un arbre de jerarquia de models de plantilla amb un node jeràrquic per color utilitzat a la taula de colors del volum d&apos;entrada. Els noms de colors utilitzats per als models coincideixen amb els noms de la jerarquia de plantilles per a crear un arbre de sortida de diversos nivells. Crea una jerarquia de models GUI i desa una escena i, a continuació, neteja-la per eliminar-ho tot menys la jerarquia del model i els nodes de visualització.</translation>
+        <translation>Un fitxer mrml que conté un arbre de jerarquia de models de plantilla amb un node jeràrquic per color utilitzat a la taula de colors del volum d&apos;entrada. Els noms de colors utilitzats per als models coincideixen amb els noms de la jerarquia de plantilles per a crear un arbre de sortida de diversos nivells. Crea una jerarquia de models GUI i desa un espai de treball i, a continuació, neteja-la per eliminar-ho tot menys la jerarquia del model i els nodes de presentació.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
@@ -7741,7 +7741,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="20"/>
         <source>Scene Performance</source>
-        <translation>Actuació de l&apos;escena</translation>
+        <translation>Actuació a l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="26"/>
@@ -7756,22 +7756,22 @@ a = Transformada afí</translation>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
         <source>Add Data (or Scene)</source>
-        <translation>Afegir dades (o escena)</translation>
+        <translation>Afegir dades (o espai de treball)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="51"/>
         <source>Restore scene</source>
-        <translation>Restaurar l&apos;escena</translation>
+        <translation>Restaurar l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="56"/>
         <source>Close Scene</source>
-        <translation>Tancar l&apos;escena</translation>
+        <translation>Tancar l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="61"/>
         <source>Switch to Layout</source>
-        <translation>Passar a Disseny</translation>
+        <translation>Passar a disposició</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="66"/>
@@ -7796,7 +7796,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
         <source>Layout</source>
-        <translation>Disseny</translation>
+        <translation>Disposició</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
@@ -7816,7 +7816,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
         <source>SceneView</source>
-        <translation>Vista d&apos;escena</translation>
+        <translation>SceneView</translation>
     </message>
 </context>
 <context>
@@ -8182,12 +8182,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="112"/>
         <source>Scene view</source>
-        <translation>Vista d&apos;escena</translation>
+        <translation>Vista d&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="113"/>
         <source>Capture and name a scene view.</source>
-        <translation>Capturar i anomenar una vista d&apos;escena.</translation>
+        <translation>Capturar i anomenar una vista d&apos;espai de treball.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="120"/>
@@ -8197,17 +8197,17 @@ a = Transformada afí</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="122"/>
         <source>Restore or delete saved scene views.</source>
-        <translation>Restaurar o eliminar les vistes d&apos;escena desades.</translation>
+        <translation>Restaurar o eliminar les vistes d&apos;espai de treball desats.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="177"/>
         <source>SceneView Name</source>
-        <translation>Nom de la vista d&apos;escena</translation>
+        <translation>Nom de SceneView</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation>Nom de la vista d&apos;escena:</translation>
+        <translation>Nom de SceneView:</translation>
     </message>
 </context>
 <context>
@@ -10313,17 +10313,17 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
-        <translation type="unfinished"></translation>
+        <translation>Fàbrica d&apos;espais de treball</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
         <source>New Scene</source>
-        <translation>Escena nova</translation>
+        <translation>Espai de treball nou</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
         <source>Delete Scene</source>
-        <translation>Eliminar l&apos;escena</translation>
+        <translation>Eliminar l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
@@ -10349,7 +10349,7 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneViewMenu.cxx" line="257"/>
         <source>No scene views</source>
-        <translation>No hi ha vistes d&apos;escena</translation>
+        <translation>No hi ha vistes d&apos;espai de treball</translation>
     </message>
 </context>
 <context>
@@ -11899,7 +11899,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
         <source>Toggle the visibility of the slice in the 3D scene</source>
-        <translation>Commutar la visibilitat de la secció a l&apos;escena 3D</translation>
+        <translation>Commutar la visibilitat de la secció a l&apos;espai de treball 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="87"/>
@@ -11916,7 +11916,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="118"/>
         <source>Toggle the visibility of the reformat widget in the 3D scene</source>
-        <translation>Commutar la visibilitat del giny reformat a l&apos;escena 3D</translation>
+        <translation>Commutar la visibilitat del giny reformat a l&apos;espai de treball 3D</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="145"/>
@@ -12281,7 +12281,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="59"/>
         <source>Zoom out of the scene by a small amount.</source>
-        <translation>Allunya l&apos;escena en salts petits.</translation>
+        <translation>Allunya l&apos;espai de treball en salts petits.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="79"/>
@@ -12307,7 +12307,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="159"/>
         <source>Zoom in on the scene by a small amount.</source>
-        <translation>Amplia l&apos;escena en salts petits.</translation>
+        <translation>Amplia l&apos;espai de treball en salts petits.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="196"/>
@@ -14312,7 +14312,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>Gestiona les vistes 3D i càmeres. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Passa la disposició a «Disseny 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disseny 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES / dades, en tancar l&apos;escena probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
+        <translation>Gestiona les vistes 3D i càmeres. &lt;br&gt;El menú desplegable de visualització següent es pot utilitzar per a crear vistes noves i seleccionar la vista activa. Passa la disposició a «Disseny 3D amb pestanyes» des de la icona de disposició de la barra d&apos;eines per a accedir a diverses vistes. La vista seleccionada a «Disseny 3D amb pestanyes» es converteix en la vista activa i substitueix la vista 3D en totes les altres disposicions. El menú desplegable de la càmera a continuació es pot utilitzar per a establir la càmera activa per a la vista seleccionada. &lt;br&gt;ADVERTÈNCIA: això és bastant experimental en aquest moment (fiducials, ES/dades, en tancar l&apos;espai de treball probablement es trenquen per a noves vistes). &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -14523,7 +14523,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
         <source>No nodes were saved in the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>No es van salvar nodes a l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="918"/>
@@ -14540,12 +14540,12 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="993"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot crear el node d&apos;emmagatzematge predeterminat per a %1 a l&apos;espai de treball temporal.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1015"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es poden desar les propietats de presentació del %1 a l&apos;espai de treball temporal.</translation>
     </message>
 </context>
 <context>
@@ -14825,7 +14825,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="199"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation>Si està marcat, les etiquetes editades manualment es desaran a l&apos;escena i es conservaran per a la següent exportació. Si no està marcat, es poden fer canvis temporals, només per a aquesta operació d&apos;exportació.</translation>
+        <translation>Si està marcat, les etiquetes editades manualment es desaran a l&apos;espai de treball i es conservaran per a la següent exportació. Si no està marcat, es poden fer canvis temporals, només per a aquesta operació d&apos;exportació.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
@@ -14972,7 +14972,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="14"/>
         <source>Add data into the scene</source>
-        <translation>Afegir dades a l&apos;escena</translation>
+        <translation>Afegir dades a l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="20"/>
@@ -16484,12 +16484,12 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="328"/>
         <source>Load Scene</source>
-        <translation>Carregar l&apos;escena</translation>
+        <translation>Carregar l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="331"/>
         <source>Raise a file browser to select a scene (mrml, xcat or xml) to load. It first clears any existing scene in Slicer and resets the application state.</source>
-        <translation>Eleva un navegador de fitxers per a seleccionar una escena (mrml, xcat o xml) per a carregar. Primer esborra qualsevol escena existent a Slicer i restableix l&apos;estat de l&apos;aplicació.</translation>
+        <translation>Eleva un navegador de fitxers per a seleccionar un espai de treball (mrml, xcat o xml) per a carregar. Primer esborra qualsevol espai de treball existent a Slicer i restableix l&apos;estat de l&apos;aplicació.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="340"/>
@@ -16500,7 +16500,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="343"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="382"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-        <translation>Eleva un estri «Afegeir dades» que et permet seleccionar conjunts de dades individuals per a afegir a l&apos;escena existent. Aquesta opció de càrrega és més útil quan vols carregar molts tipus de dades diferents alhora (volums, models, etc.) que encara no poden ser descrits per un fitxer d&apos;escena.</translation>
+        <translation>Eleva un giny «Afegir dades» que et permet seleccionar conjunts de dades individuals per a afegir a l&apos;espai de treball existent. Aquesta opció de càrrega és més útil quan vols carregar molts tipus de dades diferents alhora (volums, models, etc.) que encara no poden ser descrits per un fitxer d&apos;espai de treball.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="352"/>
@@ -16515,12 +16515,12 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="367"/>
         <source>Import Scene</source>
-        <translation>Importar escena</translation>
+        <translation>Importar espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="370"/>
         <source>Raise a file browser to navigate and select a scene file to be added to the existing scene. The scene is not cleared.</source>
-        <translation>Eleva un navegador de fitxers per a navegar i seleccionar un fitxer d&apos;escena que s&apos;afegirà a l&apos;escena existent. L&apos;escena no està esborrada.</translation>
+        <translation>Eleva un navegador de fitxers per a navegar i seleccionar un fitxer d&apos;espai de treball que s&apos;afegirà a l&apos;espai de treball existent. L&apos;espai de treball no està esborrat.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="379"/>
@@ -16540,7 +16540,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="397"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
-        <translation>Eleva un estri «Afegir volum» que et permet seleccionar un conjunt de dades volumètric per a afegir a l&apos;escena existent. El quadre «Opcions de volum» es pot utilitzar per a aclarir com s&apos;ha de carregar i presentar el conjunt de dades seleccionat.</translation>
+        <translation>Eleva un giny «Afegir volum» que et permet seleccionar un conjunt de dades volumètric per a afegir a l&apos;espai de treball existent. El quadre «Opcions de volum» es pot utilitzar per a aclarir com s&apos;ha de carregar i presentar el conjunt de dades seleccionat.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="406"/>
@@ -16550,7 +16550,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="409"/>
         <source>Raise a standard file browser that allows you to select a transform to the existing scene.</source>
-        <translation>Eleva un navegador de fitxers estàndard que et permeti seleccionar una transformació a l&apos;escena existent.</translation>
+        <translation>Eleva un navegador de fitxers estàndard que et permeti seleccionar una transformació a l&apos;espai de treball existent.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="641"/>
@@ -16560,7 +16560,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="421"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation>Mostra el giny «Desar dades», que ofereix moltes opcions per a desar una escena i/o conjunts de dades individuals.</translation>
+        <translation>Presenta el giny «Desar dades», que ofereix moltes opcions per a desar un espai de treball i/o conjunts de dades individuals.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="424"/>
@@ -16570,32 +16570,32 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="433"/>
         <source>Save Scene To Directory</source>
-        <translation>Desar l&apos;escena al directori</translation>
+        <translation>Desar l&apos;espai de treball al directori</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="436"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-        <translation>EN CONSTRUCCIÓ: Desa l&apos;escena actual en un directori independent.</translation>
+        <translation>EN CONSTRUCCIÓ: Desa l&apos;espai de treball actual en un directori independent.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="445"/>
         <source>Save Scene to MRB File</source>
-        <translation>Desar l&apos;escena al fitxer MRB</translation>
+        <translation>Desar l&apos;espai de treball al fitxer MRB</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="448"/>
         <source>Create a Medical Reality Bundle containing the scene.</source>
-        <translation>Crear un paquet de realitat mèdica que contingui l&apos;escena.</translation>
+        <translation>Crear un paquet de realitat mèdica que contingui l&apos;espai de treball.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="457"/>
         <source>Close Scene</source>
-        <translation>Tancar l&apos;escena</translation>
+        <translation>Tancar l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="460"/>
         <source>Close the current scene and reset the application state. </source>
-        <translation>Tancar l&apos;escena actual i restablir l&apos;estat de l&apos;aplicació. </translation>
+        <translation>Tancar l&apos;espai de treball actual i restablir l&apos;estat de l&apos;aplicació. </translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="463"/>
@@ -17135,7 +17135,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="634"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation>L&apos;escena ha estat modificada. Vols desar-lo abans de sortir?</translation>
+        <translation>L&apos;espai de treball ha estat modificat. Vols desar-lo abans de sortir?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="639"/>
@@ -17155,27 +17155,27 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="675"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation>S&apos;han modificat algunes dades. Vols desar-los abans de tancar l&apos;escena?</translation>
+        <translation>S&apos;han modificat algunes dades. Vols desar-los abans de tancar l&apos;espai de treball?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="679"/>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation>L&apos;escena ha estat modificada. Vols desar-lo abans de tancar l&apos;escena?</translation>
+        <translation>L&apos;espai de treball ha estat modificat. Vols desar-lo abans de tancar-lo?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="689"/>
         <source>Save before closing scene?</source>
-        <translation>Vols desar abans de tancar l&apos;escena?</translation>
+        <translation>Vols desar abans de tancar l&apos;espai de treball?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="694"/>
         <source>Close scene (discard modifications)</source>
-        <translation>Tancar l&apos;escena (descartar modificacions)</translation>
+        <translation>Tancar l&apos;espai de treball (descartar modificacions)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="695"/>
         <source>Save scene</source>
-        <translation>Desar l&apos;escena</translation>
+        <translation>Desar l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="938"/>
@@ -17195,7 +17195,7 @@ Clicar OK per a esperar que finalitzin o Ignorar per a tancar el Gestor d&apos;e
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1002"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">Escena MRML</translation>
+        <translation>Espai de treball MRML</translation>
     </message>
 </context>
 <context>
@@ -18527,7 +18527,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation>Desar l&apos;escena i les dades no desades</translation>
+        <translation>Desar l&apos;espai de treball i les dades no desades</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
@@ -18547,7 +18547,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation>Seleccionar només l&apos;escena i les dades modificades</translation>
+        <translation>Seleccionar només l&apos;espai de treball i les dades modificades</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
@@ -18587,7 +18587,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation>Crear un paquet de gravacions mèdiques que contingui l&apos;escena</translation>
+        <translation>Crear un paquet de gravacions mèdiques que contingui l&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
@@ -18621,7 +18621,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="725"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation type="unfinished">El fitxer d&apos;escena no s&apos;ha desat perquè l&apos;usuari ha decidit no sobreescriure el fitxer existent: %1.</translation>
+        <translation>El fitxer d&apos;espai de treball no s&apos;ha desat perquè l&apos;usuari ha decidit no sobreescriure el fitxer existent: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="814"/>
@@ -18647,7 +18647,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="916"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1120"/>
         <source>Scene</source>
-        <translation type="unfinished">Escena</translation>
+        <translation>Espai de treball</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1432"/>
@@ -18713,12 +18713,12 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="59"/>
         <source>MRB Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet de dades MRB Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="98"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet de realitat mèdica</translation>
     </message>
 </context>
 <context>
@@ -18726,12 +18726,12 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="14"/>
         <source>Scene Options</source>
-        <translation>Opcions d&apos;escena</translation>
+        <translation>Opcions d&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerSceneIOOptionsWidget.ui" line="23"/>
         <source>Clear existing scene</source>
-        <translation>Netejar l&apos;escena existent</translation>
+        <translation>Netejar l&apos;espai de treball existent</translation>
     </message>
 </context>
 <context>
@@ -18740,27 +18740,27 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="65"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="103"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">Escena MRML</translation>
+        <translation>Espai de treball MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
         <source>The scene file was saved with %1 application (this application is %2).</source>
-        <translation>El fitxer d&apos;escena s&apos;ha desat amb l&apos;aplicació %1 (aquesta aplicació és %2).</translation>
+        <translation>El fitxer d&apos;espai de treball s&apos;ha desat amb l&apos;aplicació %1 (aquesta aplicació és %2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="142"/>
         <source>The scene file was created with a newer version of the application (%1) than the current version (%2).</source>
-        <translation>El fitxer d&apos;escena s&apos;ha creat amb una versió més recent de l&apos;aplicació (%1) que la versió actual (%2).</translation>
+        <translation>El fitxer d&apos;espai de treball s&apos;ha creat amb una versió més recent de l&apos;aplicació (%1) que la versió actual (%2).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
         <source>The scene may not load correctly.</source>
-        <translation>És possible que l&apos;escena no es carregui correctament.</translation>
+        <translation>És possible que l&apos;espai de treball no es carregui correctament.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
         <source>These extensions were installed when the scene was saved but not installed now: %1. These extensions may be required for successful loading of the scene.</source>
-        <translation>Aquestes extensions es van instal·lar quan es va desar l&apos;escena però no es van instal·lar ara: %1. Aquestes extensions poden ser necessàries per a carregar correctament l&apos;escena.</translation>
+        <translation>Aquestes extensions es van instal·lar quan es va desar l&apos;espai de treball però no es van instal·lar ara: %1. Aquestes extensions poden ser necessàries per a carregar correctament l&apos;espai de treball.</translation>
     </message>
 </context>
 <context>
@@ -18768,7 +18768,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="40"/>
         <source>Views</source>
-        <translation type="unfinished">Vistes</translation>
+        <translation>Vistes</translation>
     </message>
 </context>
 <context>
@@ -18776,7 +18776,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="31"/>
         <source>3D Slicer SceneView</source>
-        <translation type="unfinished">3D Slicer SceneView</translation>
+        <translation>3D Slicer SceneView</translation>
     </message>
 </context>
 <context>
@@ -18785,7 +18785,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/SceneViews/Resources/UI/qSlicerSceneViewsModuleWidget.ui" line="45"/>
         <source>SceneViews</source>
-        <translation>Vista d&apos;escena</translation>
+        <translation>SceneViews</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="179"/>
@@ -18812,7 +18812,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="63"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="83"/>
         <source>MRML Scene</source>
-        <translation>Escena MRML</translation>
+        <translation>Espai de treball MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
@@ -18828,13 +18828,13 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="101"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="177"/>
         <source>Failed to save scene as %1 (path %2 is not writeable)</source>
-        <translation>No s&apos;ha pogut desar l&apos;escena com a %1 (no es pot escriure al camí %2 )</translation>
+        <translation>No s&apos;ha pogut desar l&apos;espai de treball com a %1 (no es pot escriure al camí %2 )</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="149"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="194"/>
         <source>Failed to save scene as %1</source>
-        <translation>No s&apos;ha pogut desar l&apos;escena com a %1</translation>
+        <translation>No s&apos;ha pogut desar l&apos;espai de treball com a %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="232"/>
@@ -19919,12 +19919,12 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation>Directori predeterminat on es guarden les escenes</translation>
+        <translation>Directori predeterminat on es guarden els espais de treball</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
         <source>Default scene location:</source>
-        <translation>Ubicació predeterminada de l&apos;escena:</translation>
+        <translation>Ubicació predeterminada de l&apos;espai de treball:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
@@ -19949,7 +19949,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation>Confirmar al tancament de l&apos;escena:</translation>
+        <translation>Confirmar al tancament de l&apos;espai de treball:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
@@ -20028,7 +20028,7 @@ Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="157"/>
         <source>Default scene path</source>
-        <translation type="unfinished"></translation>
+        <translation>Camí d&apos;espai de treball predeterminat</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsGeneralPanel.cxx" line="188"/>
@@ -20546,7 +20546,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation>Directori on es guarden les escenes per defecte</translation>
+        <translation>Directori on es guarden els espais de treball per defecte</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
@@ -20972,7 +20972,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="39"/>
         <source>Automatically delete subject hierarchy children for nodes removed from the scene.</source>
-        <translation>Suprimir automàticament els fills de la jerarquia de subjectes dels nodes eliminats de l&apos;escena.</translation>
+        <translation>Suprimir automàticament els fills de la jerarquia de subjectes dels nodes eliminats de l&apos;espai de treball.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
@@ -21978,7 +21978,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation>Selecciona una vista de l&apos;escena actual. Cada element correspon a un giny específic. Els nodes de visualització estan connectats amb estris de representació 3D. PlotView amb estris de traçat. Seccions (vermell, verd, groc) amb estris de representació 2D.</translation>
+        <translation>Selecciona una vista de l&apos;espai de treball actual. Cada element correspon a un giny específic. Els nodes de visualització estan connectats amb ginys de representació 3D. PlotView amb ginys de traçat. Seccions (vermell, verd, groc) amb ginys de representació 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
@@ -22526,7 +22526,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="74"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>El Mòdul de Volums és la interfície per ajustar finestra, nivell, llindar, color LUT i altres paràmetres que controlen la presentació de dades d&apos;imatges de volum a l&apos;espai de treball.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="93"/>
