@@ -16607,72 +16607,72 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="436"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-        <translation type="unfinished">UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</translation>
+        <translation>EM CONSTRUÇÃO: Salvar a cena atual em um diretório independente.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="445"/>
         <source>Save Scene to MRB File</source>
-        <translation type="unfinished">Save Scene to MRB File</translation>
+        <translation>Salvar Cena em arquivo MRB</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="448"/>
         <source>Create a Medical Reality Bundle containing the scene.</source>
-        <translation type="unfinished">Create a Medical Reality Bundle containing the scene.</translation>
+        <translation>Crie um Pacote de Realidade Médica contendo a cena.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="457"/>
         <source>Close Scene</source>
-        <translation type="unfinished">Close Scene</translation>
+        <translation>Fechar Cena</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="460"/>
         <source>Close the current scene and reset the application state. </source>
-        <translation type="unfinished">Close the current scene and reset the application state. </translation>
+        <translation>Feche a cena atual e reinicie o estado do aplicativo. </translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="463"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrl+W</translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="468"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">E&amp;xit</translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="471"/>
         <source>Quit the application</source>
-        <translation type="unfinished">Quit the application</translation>
+        <translation>Feche o aplicativo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="480"/>
         <source>Undo</source>
-        <translation type="unfinished">Undo</translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="483"/>
         <source>Undo the history of undoable commands, from last to first.</source>
-        <translation type="unfinished">Undo the history of undoable commands, from last to first.</translation>
+        <translation>Desfaça o histórico de comandos que podem ser desfeitos, do último ao primeiro.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="486"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished">Ctrl+Z</translation>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="495"/>
         <source>Redo</source>
-        <translation type="unfinished">Redo</translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="498"/>
         <source>Redo the history of commands most recently undone, from last to first.</source>
-        <translation type="unfinished">Redo the history of commands most recently undone, from last to first.</translation>
+        <translation>Refaça o histórico dos comandos desfeitos mais recentemente, do último ao primeiro.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="501"/>
         <source>Ctrl+Y</source>
-        <translation type="unfinished">Ctrl+Y</translation>
+        <translation>Ctrl+Y</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="418"/>
@@ -16682,27 +16682,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="510"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>Gerenciador de Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="513"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</translation>
+        <translation>Ative o assistente &quot;Gerenciador de extensões&quot; que fornece status e informações sobre as extensões disponíveis</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="516"/>
         <source>Ctrl+4</source>
-        <translation type="unfinished">Ctrl+4</translation>
+        <translation>Ctrl+4</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="521"/>
         <source>Cache &amp; Remote I/O Manager</source>
-        <translation type="unfinished">Cache &amp; Remote I/O Manager</translation>
+        <translation>Gerenciador de Cache e E/S Remota</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="524"/>
         <source>The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</source>
-        <translation type="unfinished">The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</translation>
+        <translation>A interface Cache e Tratamento Remoto de Dados fornece status e informações sobre todas as transferências de dados remotas e permite algum controle sobre o cache local.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="532"/>
@@ -16712,122 +16712,122 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="541"/>
         <source>Application Settings</source>
-        <translation type="unfinished">Application Settings</translation>
+        <translation>Configurações do Aplicativo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="544"/>
         <source>The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</source>
-        <translation type="unfinished">The Application Settings provides options for controlling the application&apos;s user interface preferences into the application registry, so they are preserved across sessions.</translation>
+        <translation>As Configurações do Aplicativo fornecem opções para controlar as preferências da interface do usuário do aplicativo no registro do aplicativo, para que sejam preservadas nas sessões.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="547"/>
         <source>Ctrl+2</source>
-        <translation type="unfinished">Ctrl+2</translation>
+        <translation>Ctrl+2</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="556"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Corte</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="559"/>
         <source>Cut currently selected item and place in clipboard</source>
-        <translation type="unfinished">Cut currently selected item and place in clipboard</translation>
+        <translation type="unfinished">Recortar o item selecionado no momento e colocá-lo na área de transferência</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="562"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished">Ctrl+X</translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="571"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="574"/>
         <source>Copy currently selected item to clipboard</source>
-        <translation type="unfinished">Copy currently selected item to clipboard</translation>
+        <translation>Copiar o item selecionado no momento para a área de transferência</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="577"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="586"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="589"/>
         <source>Paste the current contents of the clipboard</source>
-        <translation type="unfinished">Paste the current contents of the clipboard</translation>
+        <translation>Colar o conteúdo atual da área de transferência</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="592"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished">Ctrl+V</translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="603"/>
         <source>&amp;Maximize view</source>
-        <translation type="unfinished">&amp;Maximize view</translation>
+        <translation>&amp;Maximizar visão</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="606"/>
         <source>Maximize/Minimize the current view.</source>
-        <translation type="unfinished">Maximize/Minimize the current view.</translation>
+        <translation>Maximizar/minimizar a exibição atual.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="609"/>
         <source>Ctrl+6</source>
-        <translation type="unfinished">Ctrl+6</translation>
+        <translation>Ctrl+6</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="614"/>
         <source>&amp;Error Log</source>
-        <translation type="unfinished">&amp;Error Log</translation>
+        <translation>Registro de &amp;Erros</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="617"/>
         <source>Raise the error log display.</source>
-        <translation type="unfinished">Raise the error log display.</translation>
+        <translation>Aumente a exibição do log de erros.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="620"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished">Ctrl+0</translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="625"/>
         <source>Feedback: report usability issue (www)</source>
-        <translation type="unfinished">Feedback: report usability issue (www)</translation>
+        <translation>Feedback: relatar problema de usabilidade (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="628"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</source>
-        <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</translation>
+        <translation>Crie um tópico no fórum Slicer (https://discourse.slicer.org) para relatar qualquer problema de usabilidade e fazer sugestões de como resolvê-lo.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="633"/>
         <source>Feedback: make a feature request (www)</source>
-        <translation type="unfinished">Feedback: make a feature request (www)</translation>
+        <translation>Feedback: fazer um pedido de recurso (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="636"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</source>
-        <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</translation>
+        <translation>Crie um tópico no fórum Slicer (https://discourse.slicer.org) para solicitar um novo recurso.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="641"/>
         <source>Load Module</source>
-        <translation type="unfinished">Load Module</translation>
+        <translation>Carregar Módulo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="650"/>
         <source>Conventional</source>
-        <translation type="unfinished">Conventional</translation>
+        <translation>Convencional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="662"/>
@@ -16837,199 +16837,199 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="674"/>
         <source>Dual 3D</source>
-        <translation type="unfinished">Dual 3D</translation>
+        <translation>3D duplo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="686"/>
         <source>3D only</source>
-        <translation type="unfinished">3D only</translation>
+        <translation>Apenas 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="698"/>
         <source>3D Table</source>
-        <translation type="unfinished">3D Table</translation>
+        <translation>Tabela 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="710"/>
         <source>Red slice only</source>
-        <translation type="unfinished">Red slice only</translation>
+        <translation>Apenas fatia vermelha</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="722"/>
         <source>Yellow slice only</source>
-        <translation type="unfinished">Yellow slice only</translation>
+        <translation>Apenas a fatia amarela</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="734"/>
         <source>Green slice only</source>
-        <translation type="unfinished">Green slice only</translation>
+        <translation>Apenas a fatia verde</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="746"/>
         <source>Tabbed 3D</source>
-        <translation type="unfinished">Tabbed 3D</translation>
+        <translation>3D com guias</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="758"/>
         <source>Tabbed slice</source>
-        <translation type="unfinished">Tabbed slice</translation>
+        <translation>Fatia com guias</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="770"/>
         <source>Compare</source>
-        <translation type="unfinished">Compare</translation>
+        <translation>Comparar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="782"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="785"/>
         <source>Compare Widescreen</source>
-        <translation type="unfinished">Compare Widescreen</translation>
+        <translation>Comparar Widescreen</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="797"/>
         <source>Two over two</source>
-        <translation type="unfinished">Two over two</translation>
+        <translation>Dois sobre dois</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="800"/>
         <source>Two over Two Layout</source>
-        <translation type="unfinished">Two over Two Layout</translation>
+        <translation>Layout Dois sobre Dois</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="812"/>
         <source>Home</source>
-        <translation type="unfinished">Home</translation>
+        <translation>Início</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="815"/>
         <source>Favorite module for easy access</source>
-        <translation type="unfinished">Favorite module for easy access</translation>
+        <translation>Módulo favorito para fácil acesso</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="818"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished">Ctrl+H</translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="830"/>
         <source>Conventional Widescreen</source>
-        <translation type="unfinished">Conventional Widescreen</translation>
+        <translation>Widescreen Convencional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="839"/>
         <source>Triple 3D</source>
-        <translation type="unfinished">Triple 3D</translation>
+        <translation>Triplo 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="848"/>
         <source>Three over three</source>
-        <translation type="unfinished">Three over three</translation>
+        <translation>Três sobre três</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="857"/>
         <source>Four over four</source>
-        <translation type="unfinished">Four over four</translation>
+        <translation>Quatro sobre quatro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="866"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="929"/>
         <source>2 viewers</source>
-        <translation type="unfinished">2 viewers</translation>
+        <translation>2 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="875"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="938"/>
         <source>3 viewers</source>
-        <translation type="unfinished">3 viewers</translation>
+        <translation>3 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="884"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="947"/>
         <source>4 viewers</source>
-        <translation type="unfinished">4 viewers</translation>
+        <translation>4 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="893"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="956"/>
         <source>5 viewers</source>
-        <translation type="unfinished">5 viewers</translation>
+        <translation>5 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="902"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="965"/>
         <source>6 viewers</source>
-        <translation type="unfinished">6 viewers</translation>
+        <translation>6 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="911"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="974"/>
         <source>7 viewers</source>
-        <translation type="unfinished">7 viewers</translation>
+        <translation>7 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="920"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="983"/>
         <source>8 viewers</source>
-        <translation type="unfinished">8 viewers</translation>
+        <translation>8 visualizadores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="992"/>
         <source>Compare Grid</source>
-        <translation type="unfinished">Compare Grid</translation>
+        <translation>Comparar Grade</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1001"/>
         <source>2x2 viewers</source>
-        <translation type="unfinished">2x2 viewers</translation>
+        <translation>Visualizadores 2x2</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1010"/>
         <source>3x3 viewers</source>
-        <translation type="unfinished">3x3 viewers</translation>
+        <translation>Visualizadores 3x3</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1019"/>
         <source>4x4 viewers</source>
-        <translation type="unfinished">4x4 viewers</translation>
+        <translation>Visualizadores 4x4</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1024"/>
         <source>Record Macro</source>
-        <translation type="unfinished">Record Macro</translation>
+        <translation>Gravar Macro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1032"/>
         <source>Play Macro</source>
-        <translation type="unfinished">Play Macro</translation>
+        <translation>Reproduzir Macro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1044"/>
         <source>Side by side</source>
-        <translation type="unfinished">Side by side</translation>
+        <translation>Lado a lado</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1053"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1056"/>
         <source>Four by three slice</source>
-        <translation type="unfinished">Four by three slice</translation>
+        <translation>Fatias quatro por três</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1065"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1068"/>
         <source>Four by two slice</source>
-        <translation type="unfinished">Four by two slice</translation>
+        <translation>Fatias quatro por dois</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1077"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1080"/>
         <source>Five by two slice</source>
-        <translation type="unfinished">Five by two slice</translation>
+        <translation>Fatias de cinco por dois</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1089"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1092"/>
         <source>Three by three slice</source>
-        <translation type="unfinished">Three by three slice</translation>
+        <translation>Fatias três por três</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1101"/>
@@ -17040,12 +17040,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1113"/>
         <source>Plot only</source>
-        <translation type="unfinished">Plot only</translation>
+        <translation>Somente gráfico</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1116"/>
         <source>Plot view</source>
-        <translation type="unfinished">Plot view</translation>
+        <translation>Visualização do gráfico</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1128"/>
