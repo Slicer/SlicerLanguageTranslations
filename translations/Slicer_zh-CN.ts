@@ -5470,7 +5470,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定一个输出数据的方向。根据选定的方向重新安排数据中的切片。这些片子不是插值的。它们只是被重新排序和/或排列。产生的数据将覆盖原来的数据。注意：由于Slicer考虑到了数据的方向，重新排列的数据不会显示与原始数据的任何区别，要看区别，请保存数据，然后用一个忽略图像方向的系统显示（如Paraview）或显示单个图像。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
@@ -5480,7 +5480,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>输入输出</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
@@ -5490,22 +5490,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>输出数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation>输入数据1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
         <source>The oriented volume</source>
-        <translation type="unfinished"></translation>
+        <translation>定向数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="13"/>
