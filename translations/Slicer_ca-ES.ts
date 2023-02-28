@@ -1368,7 +1368,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mida de tancament (en mil·límetres) per a la màscara emplenada connectada més gran.  Aquest valor es divideix per espaiat d&apos;imatges i s&apos;arrodoneix al següent nombre de vòxel més gran.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
@@ -5080,7 +5080,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Encoixina el volum d&apos;entrada amb vòxels de valor zero a les 6 cares per tal d&apos;assegurar la producció de superfícies tancades. Estableix la translació d&apos;origen i la translació d&apos;abast de manera que els models encara s&apos;alineïn amb el volum d&apos;entrada no encoixinat.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
@@ -5190,7 +5190,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
         <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>El volum de sortida tindrà el mateix origen, espaiat, direccions de l&apos;eix i abast que aquest volum.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
@@ -5541,7 +5541,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="19"/>
         <source>Coronal</source>
-        <translation type="unfinished">Frontal</translation>
+        <translation>Frontal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="20"/>
@@ -10155,7 +10155,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="209"/>
         <source>Adjust the Plot Viewer&apos;s field of view to match the extent of the Plot axes</source>
-        <translation>Ajustar el camp de visió del visualitzador de dibuix perquè coincideixi amb l&apos;extensió dels eixos de dibuix</translation>
+        <translation>Ajustar el camp de visió del visualitzador de dibuix perquè coincideixi amb l&apos;abast dels eixos de dibuix</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLPlotViewControllerWidget.cxx" line="109"/>
@@ -10457,7 +10457,7 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="62"/>
         <source>Specify geometry (grid origin, spacing, axis directions, and default extent) of the edited labelmap representation</source>
-        <translation>Especifica la geometria (origen de la quadrícula, espai, direccions dels eixos i extensió per defecte) de la representació del mapa d&apos;etiquetes editat</translation>
+        <translation>Especifica la geometria (origen de la quadrícula, espaiat, direccions dels eixos i abast per defecte) de la representació del mapa d&apos;etiquetes editat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
@@ -11379,7 +11379,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="710"/>
         <source>Reset field of view. Adjusts the slice view&apos;s field of view to match the extent of lowest volume layer (background, then foreground, then label).</source>
-        <translation>Restablir el camp de visió. Ajustar el camp de visió de la vista de seccions perquè coincideixi amb l&apos;extensió de la capa de volum més baixa (fons, primer pla i etiqueta).</translation>
+        <translation>Restablir el camp de visió. Ajustar el camp de visió de la vista de seccions perquè coincideixi amb l&apos;abast de la capa de volum més baixa (fons, primer pla i etiqueta).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
@@ -18985,7 +18985,7 @@ Tria un directori buit.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
-        <translation>Node que s&apos;ha utilitzat per a establir la geometria de segmentació (origen, espaiat, direccions de l&apos;eix i extensió predeterminada)</translation>
+        <translation>Node que s&apos;ha utilitzat per a establir la geometria de segmentació (origen, espaiat, direccions de l&apos;eix i abast predeterminats)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="50"/>
