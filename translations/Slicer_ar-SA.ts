@@ -12619,226 +12619,226 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
         <source>Whether the transform widget can be translated.</source>
-        <translation type="unfinished">Whether the transform widget can be translated.</translation>
+        <translation>ما إذا كان يمكن ترجمة أداة التحويل.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="57"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>تفاعل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="83"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
-        <translation type="unfinished">Show/Hide the transform widget in the 3D view.</translation>
+        <translation>إظهار / إخفاء أداة التحويل في طريقة عرض 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="96"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; قم بتحديث حدود أداة التحويل. &lt;/p&gt; &lt;p&gt; سيقوم التحويل بتحديث حدوده لمطابقة المربع المحيط لجميع العقد الموجودة تحته (إن وجدت). &lt;/p&gt; &lt;p&gt; خلاف ذلك ، سيتم تغيير حجم الأداة نفسها إلى حجم التفاعل الافتراضي. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="99"/>
         <source>Update bounds</source>
-        <translation type="unfinished">Update bounds</translation>
+        <translation>حدود التحديث</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="106"/>
         <source>More options...</source>
-        <translation type="unfinished">More options...</translation>
+        <translation>المزيد من الخيارات...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="158"/>
         <source>Enable translation: </source>
-        <translation type="unfinished">Enable translation: </translation>
+        <translation>تمكين الترجمة: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="168"/>
         <source>Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</source>
-        <translation type="unfinished">Enable scaling by manpulating 3D widget (shift +left click and drag the handle at the center of widget face, or left click and drag the center handle)</translation>
+        <translation>تمكين التحجيم عن طريق تحرير عنصر واجهة مستخدم 3D (shift + انقر بزر الماوس الأيسر واسحب المقبض في وسط وجه عنصر واجهة المستخدم ، أو انقر بزر الماوس الأيسر واسحب المقبض المركزي)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="181"/>
         <source>Enable rotation: </source>
-        <translation type="unfinished">Enable rotation: </translation>
+        <translation>تمكين التدوير: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="191"/>
         <source>Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</source>
-        <translation type="unfinished">Enable translating by manpulating 3D widget (left click and drag anywhere on the widget face)</translation>
+        <translation>تمكين الترجمة عن طريق تحرير عنصر واجهة مستخدم 3D (انقر بزر الماوس الأيسر واسحب في أي مكان على وجه القطعة)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="204"/>
         <source>Enable scaling: </source>
-        <translation type="unfinished">Enable scaling: </translation>
+        <translation>تمكين القياس: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="214"/>
         <source>Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</source>
-        <translation type="unfinished">Enable scaling by manpulating 3D widget (left click and drag the handle at the center of widget face)</translation>
+        <translation>تمكين التحجيم عن طريق تحرير عنصر واجهة مستخدم 3D (انقر بزر الماوس الأيسر واسحب المقبض في وسط وجه القطعة)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="233"/>
         <source>Visualization</source>
-        <translation type="unfinished">Visualization</translation>
+        <translation>التصور</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="246"/>
         <source>Show transform in the slice views</source>
-        <translation type="unfinished">Show transform in the slice views</translation>
+        <translation>إظهار التحويل في طرق عرض الشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="299"/>
         <source>Visualize transform using glyphs</source>
-        <translation type="unfinished">Visualize transform using glyphs</translation>
+        <translation>تصور التحويل باستخدام الحروف الرسومية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="314"/>
         <source>Glyph</source>
-        <translation type="unfinished">Glyph</translation>
+        <translation>حرف رسومي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="361"/>
         <source>Visualize transform using a warped grid</source>
-        <translation type="unfinished">Visualize transform using a warped grid</translation>
+        <translation>تصور التحويل باستخدام شبكة ملتوية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="364"/>
         <source>Grid</source>
-        <translation type="unfinished">Grid</translation>
+        <translation>شبكة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="402"/>
         <source>Visualize transform by isoline/isosurface contours of the displacement magnitude</source>
-        <translation type="unfinished">Visualize transform by isoline/isosurface contours of the displacement magnitude</translation>
+        <translation>تصور التحويل بواسطة خطوط متساوية / متساوية السطح لحجم الإزاحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="405"/>
         <source>Contour</source>
-        <translation type="unfinished">Contour</translation>
+        <translation>محيط شكل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="438"/>
         <source>Show transform in the 3D views</source>
-        <translation type="unfinished">Show transform in the 3D views</translation>
+        <translation>إظهار التحويل في طرق العرض 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="451"/>
         <source>Reference image for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished">Reference image for visualizing transform nodes (will only use size, orientation and position)</translation>
+        <translation>صورة مرجعية لتصور عقد التحويل (ستستخدم فقط الحجم والاتجاه والموضع)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
         <source>Region:</source>
-        <translation type="unfinished">Region:</translation>
+        <translation>منطقة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="470"/>
         <source>Region for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation type="unfinished">Region for visualizing transform nodes (will only use size, orientation and position)</translation>
+        <translation>منطقة لتصور عقد التحويل (ستستخدم فقط الحجم والاتجاه والموضع)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="500"/>
         <source>Select a node</source>
-        <translation type="unfinished">Select a node</translation>
+        <translation>تحديد عقدة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="509"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>الوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="540"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="555"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="591"/>
         <source>Distance between the glyph points</source>
-        <translation type="unfinished">Distance between the glyph points</translation>
+        <translation>المسافة بين نقاط الحرف الرسومي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="558"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="944"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>تباعد:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="565"/>
         <source>Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</source>
-        <translation type="unfinished">Percentage of displacement usef for setting the glyph size. 100% means the glyph size equals the actual displacement.</translation>
+        <translation>النسبة المئوية للإزاحة المستخدمة لضبط حجم الحرف الرسومي. 100٪ تعني أن حجم الحرف الرسومي يساوي الإزاحة الفعلية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="568"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="991"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>عامل المقياس:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="575"/>
         <source>Glyphs are shown if the displacement magnitude is within this range</source>
-        <translation type="unfinished">Glyphs are shown if the displacement magnitude is within this range</translation>
+        <translation>تظهر الحروف الرسومية إذا كان مقدار الإزاحة ضمن هذا النطاق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="578"/>
         <source>Visible range:</source>
-        <translation type="unfinished">Visible range:</translation>
+        <translation>النطاق المرئي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="118"/>
         <source>Visibility in 3D view: </source>
-        <translation type="unfinished"></translation>
+        <translation>الرؤية في عرض 3D: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="239"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="259"/>
         <source>Visibility in slice view:</source>
-        <translation type="unfinished"></translation>
+        <translation>الرؤية في عرض الشريحة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="266"/>
         <source>Visibility in 3D view:</source>
-        <translation type="unfinished"></translation>
+        <translation>الرؤية في عرض 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="622"/>
         <source>Only those glyphs are shown that have displacement magnitude within this range</source>
-        <translation type="unfinished">Only those glyphs are shown that have displacement magnitude within this range</translation>
+        <translation>يتم عرض تلك الحروف الرسومية فقط التي لها حجم إزاحة ضمن هذا النطاق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="647"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="663"/>
         <source>Choose a glyph type to use</source>
-        <translation type="unfinished">Choose a glyph type to use</translation>
+        <translation>اختر نوع حرف رسومي لاستخدامه</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="650"/>
         <source>Glyph type:</source>
-        <translation type="unfinished">Glyph type:</translation>
+        <translation>نوع الحرف الرسومي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="670"/>
         <source>Arrow</source>
-        <translation type="unfinished">Arrow</translation>
+        <translation>سهم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="675"/>
         <source>Cone</source>
-        <translation type="unfinished">Cone</translation>
+        <translation>مخروط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="680"/>
         <source>Sphere</source>
-        <translation type="unfinished">Sphere</translation>
+        <translation>كرة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="694"/>
         <source>Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</source>
-        <translation type="unfinished">Percentage of displacement used for setting the glyph size. 100% means the glyph size equals the actual displacement. Does not affect coloring and visible range.</translation>
+        <translation>النسبة المئوية للإزاحة المستخدمة لتحديد حجم الحرف الرسومي. 100٪ تعني أن حجم الحرف الرسومي يساوي الإزاحة الفعلية. لا يؤثر على التلوين والنطاق المرئي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="712"/>
@@ -12852,157 +12852,157 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="725"/>
         <source>3D glyph settings</source>
-        <translation type="unfinished">3D glyph settings</translation>
+        <translation>إعدادات الحرف الرسومي 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="755"/>
         <source>Adjust radius of base of arrow tip</source>
-        <translation type="unfinished">Adjust radius of base of arrow tip</translation>
+        <translation>ضبط نصف قطر قاعدة طرف السهم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="758"/>
         <source>Diameter:</source>
-        <translation type="unfinished">Diameter:</translation>
+        <translation type="unfinished">قطر:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="765"/>
         <source>Base diameter of the widget</source>
-        <translation type="unfinished">Base diameter of the widget</translation>
+        <translation>قطر قاعدة القطعة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="793"/>
         <source>Adjust radius of arrow shaft</source>
-        <translation type="unfinished">Adjust radius of arrow shaft</translation>
+        <translation>ضبط نصف قطر رمح السهم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="796"/>
         <source>Shaft diameter:</source>
-        <translation type="unfinished">Shaft diameter:</translation>
+        <translation>قطر رمح:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="803"/>
         <source>Diameter of the arrow shaft relative to the base diameter</source>
-        <translation type="unfinished">Diameter of the arrow shaft relative to the base diameter</translation>
+        <translation>قطر عمود السهم بالنسبة لقطر القاعدة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="825"/>
         <source>Adjust how much of the tip the arrow will consist of as a decimal percentage</source>
-        <translation type="unfinished">Adjust how much of the tip the arrow will consist of as a decimal percentage</translation>
+        <translation>اضبط مقدار الطرف الذي سيتكون منه السهم كنسبة مئوية عشرية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="828"/>
         <source>Tip length:</source>
-        <translation type="unfinished">Tip length:</translation>
+        <translation>طول النصيحة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="835"/>
         <source>Length of the arrow tip  as percentage of displacement</source>
-        <translation type="unfinished">Length of the arrow tip  as percentage of displacement</translation>
+        <translation>طول رأس السهم كنسبة مئوية من الإزاحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="860"/>
         <source>Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</source>
-        <translation type="unfinished">Adjust resolution of the glyph (higher value generates smoother curved lines but visualization may be slower)</translation>
+        <translation>ضبط دقة الصورة الرسومية (القيمة الأعلى تولد خطوطا منحنية أكثر سلاسة ولكن قد يكون التصور أبطأ)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="863"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1073"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1175"/>
         <source>Resolution:</source>
-        <translation type="unfinished">Resolution:</translation>
+        <translation>دقة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="870"/>
         <source>Adjust resolution of arrow (lower is less detailed but rendered faster)</source>
-        <translation type="unfinished">Adjust resolution of arrow (lower is less detailed but rendered faster)</translation>
+        <translation>ضبط دقة السهم (الأقل أقل تفصيلا ولكن يتم تقديمه بشكل أسرع)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="898"/>
         <source>Source points:</source>
-        <translation type="unfinished">Source points:</translation>
+        <translation>نقاط المصدر:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
         <source>Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</source>
-        <translation type="unfinished">Markups node that defines glyph starting positions. If specified then 3D view &apos;Region&apos; is ignored.</translation>
+        <translation>عقدة العلامات التي تحدد مواضع بدء الحروف الرسومية. إذا تم تحديده ، تجاهل عرض 3D &quot;المنطقة&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="922"/>
         <source>Entire region</source>
-        <translation type="unfinished">Entire region</translation>
+        <translation>المنطقة بأكملها</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="941"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="957"/>
         <source>Distance between the gridlines</source>
-        <translation type="unfinished">Distance between the gridlines</translation>
+        <translation>المسافة بين خطوط الشبكة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="988"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1004"/>
         <source>Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</source>
-        <translation type="unfinished">Percentage of displacement applied to the gridpoints. 100% means that the grid is deformed with the actual displacement.</translation>
+        <translation>النسبة المئوية للإزاحة المطبقة على نقاط الشبكة. 100٪ تعني أن الشبكة مشوهة مع الإزاحة الفعلية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1029"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1039"/>
         <source>Thickness of the gridlines in the 3D view</source>
-        <translation type="unfinished">Thickness of the gridlines in the 3D view</translation>
+        <translation>سمك خطوط الشبكة في عرض 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1032"/>
         <source>3D gridline diameter:</source>
-        <translation type="unfinished">3D gridline diameter:</translation>
+        <translation>قطر خط الشبكة 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1070"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1080"/>
         <source>Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</source>
-        <translation type="unfinished">Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</translation>
+        <translation>المسافة بين نقاط العينة على طول خطوط الشبكة. ينتج عن القيم المنخفضة خطوط شبكة تتبع عن كثب متجهات الإزاحة الفعلية، ولكنها تتطلب وقتا أطول للحساب.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1111"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1121"/>
         <source>Show non-warped grid in the slice view</source>
-        <translation type="unfinished">Show non-warped grid in the slice view</translation>
+        <translation>إظهار الشبكة غير الملتوية في عرض الشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1114"/>
         <source>Show original grid:</source>
-        <translation type="unfinished">Show original grid:</translation>
+        <translation>إظهار الشبكة الأصلية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1143"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1153"/>
         <source>Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</source>
-        <translation type="unfinished">Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</translation>
+        <translation>القيم التي تحدد الخطوط المتساوية والأسطح المتساوية للكفاف. يتم فصل القيم بمسافات.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1146"/>
         <source>Levels (mm):</source>
-        <translation type="unfinished">Levels (mm):</translation>
+        <translation>المستويات (mm):</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1162"/>
         <source>1 2 3 4</source>
-        <translation type="unfinished">1 2 3 4</translation>
+        <translation>1 2 3 4</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1172"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1188"/>
         <source>Sampling distance for discretizing the displacement field. Lower values result in more accurate contours, but require more computation time.</source>
-        <translation type="unfinished">Sampling distance for discretizing the displacement field. Lower values result in more accurate contours, but require more computation time.</translation>
+        <translation>مسافة أخذ العينات لتمييز مجال الإزاحة. تؤدي القيم المنخفضة إلى خطوط أكثر دقة ، ولكنها تتطلب وقتا أطول للحساب.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1219"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1229"/>
         <source>Opacity of the contour isosurfaces in the 3D view</source>
-        <translation type="unfinished">Opacity of the contour isosurfaces in the 3D view</translation>
+        <translation>عتامة السطوح المتساوية الكنتورية في عرض 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1222"/>
         <source>3D opacity:</source>
-        <translation type="unfinished">3D opacity:</translation>
+        <translation>عتامة 3D:</translation>
     </message>
 </context>
 <context>
@@ -13010,28 +13010,28 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="14"/>
         <source>Transform Information</source>
-        <translation type="unfinished">Transform Information</translation>
+        <translation>تحويل المعلومات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="23"/>
         <source>Transform to parent:</source>
-        <translation type="unfinished">Transform to parent:</translation>
+        <translation>التحويل إلى الوالد:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="48"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="85"/>
         <source>No information available.</source>
-        <translation type="unfinished">No information available.</translation>
+        <translation>لا توجد معلومات متاحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="60"/>
         <source>Transform from parent:</source>
-        <translation type="unfinished">Transform from parent:</translation>
+        <translation>التحويل من الوالد:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
         <source>ViewerRAS</source>
-        <translation type="unfinished">ViewerRAS</translation>
+        <translation>عارض RAS</translation>
     </message>
 </context>
 <context>
@@ -13039,17 +13039,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="14"/>
         <source>Transform</source>
-        <translation type="unfinished">Transform</translation>
+        <translation>تحول</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="26"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>ترجمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="32"/>
         <source>Left-Right</source>
-        <translation type="unfinished">Left-Right</translation>
+        <translation>يسار-يمين</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="35"/>
@@ -14311,7 +14311,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="30"/>
         <source>Camera</source>
-        <translation type="unfinished">Camera</translation>
+        <translation>آلة تصوير</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
@@ -18629,7 +18629,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="916"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1120"/>
         <source>Scene</source>
-        <translation type="unfinished">Scene</translation>
+        <translation>مشهد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1432"/>
@@ -21076,7 +21076,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="204"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>تفاعل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="206"/>
@@ -22142,7 +22142,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="270"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>تفاعل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="271"/>
