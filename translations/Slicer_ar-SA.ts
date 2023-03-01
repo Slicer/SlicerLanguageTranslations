@@ -13094,12 +13094,12 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="167"/>
         <source>Min</source>
-        <translation type="unfinished">Min</translation>
+        <translation>الادني</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTransformSliders.ui" line="219"/>
         <source>Max</source>
-        <translation type="unfinished">Max</translation>
+        <translation>القصوي</translation>
     </message>
 </context>
 <context>
@@ -13107,17 +13107,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="110"/>
         <source>Rename</source>
-        <translation type="unfinished">Rename</translation>
+        <translation>إعادة تسمية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="117"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="123"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Edit properties...</translation>
+        <translation>تحرير الخصائص...</translation>
     </message>
 </context>
 <context>
