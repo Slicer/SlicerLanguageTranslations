@@ -16041,17 +16041,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>检查&lt;b&gt;3D Slicer&lt;/b&gt; 是否正确安装。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation>阅读更多...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="117"/>
         <source>Try Again</source>
-        <translation type="unfinished"></translation>
+        <translation>再试一次</translation>
     </message>
 </context>
 <context>
@@ -16059,59 +16059,59 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Extensions tools</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展工具</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="144"/>
         <source>Query the Extensions Server if there are updates for any of the installed extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>查询扩展服务器是否有任何已安装扩展的更新</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="141"/>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>检查更新</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="38"/>
         <source>Updates all extensions with the latest version available on the Extensions Server</source>
-        <translation type="unfinished"></translation>
+        <translation>使用扩展服务器上可用的最新版本更新所有扩展</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="41"/>
         <source>Update all</source>
-        <translation type="unfinished"></translation>
+        <translation>更新所有</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="56"/>
         <source>Install all the bookmarked extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>安装所有已添加书签的扩展</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="59"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>安装已添加书签</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="74"/>
         <source>Install extensions from one or more extension package files</source>
-        <translation type="unfinished"></translation>
+        <translation>从一个或多个扩展包文件安装扩展</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="122"/>
         <source>Automatically check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>自动检查更新</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="125"/>
         <source>Periodically check for updated extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>定期检查更新的扩展。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="133"/>
         <source>Automatically install updates</source>
-        <translation type="unfinished"></translation>
+        <translation>自动安装更新</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="136"/>
