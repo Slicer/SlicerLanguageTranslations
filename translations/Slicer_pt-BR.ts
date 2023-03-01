@@ -18048,7 +18048,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
         <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-        <translation type="unfinished">Search in full text (module name and description). If unchecked then only module names are searched.</translation>
+        <translation>Busca em texto completo (nome e descrição do módulo). Se desmarcados, somente os nomes dos módulos são pesquisados.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
@@ -18058,27 +18058,27 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
         <source>Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</source>
-        <translation type="unfinished">Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</translation>
+        <translation>Mostrar módulos internos. A desmarcação facilita a localização de módulos fornecidos por extensões.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation type="unfinished">&amp;Built-in</translation>
+        <translation>&amp;Embutido</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
         <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-        <translation type="unfinished">Show testing modules. Useful for software testing and troubleshooting.</translation>
+        <translation>Mostrar módulos de teste. Útil para testes de software e solução de problemas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation type="unfinished">&amp;Testing</translation>
+        <translation>&amp;Testes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
-        <translation type="unfinished">Switch to module</translation>
+        <translation>Alternar para o módulo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
@@ -18161,7 +18161,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="110"/>
         <source>Acknowledgement</source>
-        <translation type="unfinished">Acknowledgement</translation>
+        <translation>Agradecimento</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulePanel.cxx" line="196"/>
@@ -18184,12 +18184,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="111"/>
         <source>Find module</source>
-        <translation type="unfinished">Find module</translation>
+        <translation>Encontrar módulo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="138"/>
         <source>Select a module from the module list</source>
-        <translation type="unfinished">Select a module from the module list</translation>
+        <translation>Selecione um módulo da lista de módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="145"/>
@@ -18200,32 +18200,32 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="152"/>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="156"/>
         <source>Modules history</source>
-        <translation type="unfinished">Modules history</translation>
+        <translation>Histórico de módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="154"/>
         <source>History</source>
-        <translation type="unfinished">History</translation>
+        <translation>História</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="164"/>
         <source>Modules Previous History</source>
-        <translation type="unfinished">Modules Previous History</translation>
+        <translation>Histórico Anterior dos Módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="167"/>
         <source>Previous</source>
-        <translation type="unfinished">Previous</translation>
+        <translation>Anterior</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="168"/>
         <source>Previous modules</source>
-        <translation type="unfinished">Previous modules</translation>
+        <translation>Módulos anteriores</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="181"/>
         <source>Modules Next History</source>
-        <translation type="unfinished">Modules Next History</translation>
+        <translation>Próximos Módulos no Histórico</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="184"/>
@@ -18251,7 +18251,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="81"/>
         <source>Translate/rotate view, adjust displayed objects</source>
-        <translation type="unfinished">Translate/rotate view, adjust displayed objects</translation>
+        <translation>Transladar/girar visualização, ajustar objetos exibidos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="83"/>
@@ -18272,27 +18272,27 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
         <source>Toggle Markups Toolbar</source>
-        <translation type="unfinished">Toggle Markups Toolbar</translation>
+        <translation>Alternar Barra de Ferramentas de Marcações</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="156"/>
         <source>Place Menu</source>
-        <translation type="unfinished">Place Menu</translation>
+        <translation>Menu Lugar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="163"/>
         <source>Create and Place</source>
-        <translation type="unfinished">Create and Place</translation>
+        <translation type="unfinished">Criar e Colocar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="164"/>
         <source>Place</source>
-        <translation type="unfinished">Place</translation>
+        <translation>Colocar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="367"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Place a control point</translation>
+        <translation>Coloque um ponto de controle</translation>
     </message>
 </context>
 <context>
@@ -18300,7 +18300,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation type="unfinished">Adjust</translation>
+        <translation>Ajustar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
@@ -18310,27 +18310,27 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation type="unfinished">Select region</translation>
+        <translation>Selecionar região</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="104"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</translation>
+        <translation>Defina o nível da janela com base em uma região retangular, especificada clicando e arrastando em um visualizador de fatias. A posição do clique é usada como canto da região.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation type="unfinished">Select region - centered</translation>
+        <translation>Selecionar região - centralizada</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="110"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="unfinished">Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</translation>
+        <translation>Definir nível de janela com base em uma região retangular, especificada por clique e pano em um visualizador de fatia. A posição do clique é usada como centro da região.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
         <source>Adjust window/level</source>
-        <translation type="unfinished">Adjust window/level</translation>
+        <translation>Ajustar janela/nível</translation>
     </message>
 </context>
 <context>
@@ -18338,28 +18338,28 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>MultiVolume GPU RayCast</source>
-        <translation type="unfinished">MultiVolume GPU RayCast</translation>
+        <translation>RayCast GPU MultiVolume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="32"/>
         <source>Technique:</source>
-        <translation type="unfinished">Technique:</translation>
+        <translation>Técnica:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="39"/>
         <source>Select ray casting technique for the views where the current volume is visible</source>
-        <translation type="unfinished">Select ray casting technique for the views where the current volume is visible</translation>
+        <translation>Selecione a técnica de &apos;ray casting&apos; para as visualizações onde o volume atual é visível</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="46"/>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="56"/>
         <source>Option for removing wood-grain artifacts by applying random noise to raycasting</source>
-        <translation type="unfinished">Option for removing wood-grain artifacts by applying random noise to raycasting</translation>
+        <translation>Opção para remover artefatos de grão de madeira aplicando ruído aleatório no raycasting</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerMultiVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation type="unfinished">Surface smoothing:</translation>
+        <translation type="unfinished">Suavização de superfície:</translation>
     </message>
 </context>
 <context>
@@ -18367,12 +18367,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="14"/>
         <source>Node Writer Options</source>
-        <translation type="unfinished">Node Writer Options</translation>
+        <translation>Opções do Gravador de Nós</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerNodeWriterOptionsWidget.ui" line="23"/>
         <source>Compress</source>
-        <translation type="unfinished">Compress</translation>
+        <translation>Comprimir</translation>
     </message>
 </context>
 <context>
@@ -18380,7 +18380,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="47"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>Gráficos</translation>
     </message>
 </context>
 <context>
@@ -18388,22 +18388,22 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="20"/>
         <source>Plots</source>
-        <translation type="unfinished">Plots</translation>
+        <translation>Gráficos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
         <source>Charts</source>
-        <translation type="unfinished">Charts</translation>
+        <translation type="unfinished">Gráficos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="58"/>
         <source>Chart:</source>
-        <translation type="unfinished">Chart:</translation>
+        <translation>Gráfico:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
         <source>Allow plot editing</source>
-        <translation type="unfinished">Allow plot editing</translation>
+        <translation>Permitir edição de plotagem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="114"/>
@@ -18418,7 +18418,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
         <source>Clone data series</source>
-        <translation type="unfinished">Clone data series</translation>
+        <translation>Clonar série de dados</translation>
     </message>
 </context>
 <context>
@@ -18426,12 +18426,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="143"/>
         <source>Preset</source>
-        <translation type="unfinished">Preset</translation>
+        <translation>Predefinição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="266"/>
         <source>Select a Preset</source>
-        <translation type="unfinished">Select a Preset</translation>
+        <translation>Selecionar uma predefinição</translation>
     </message>
 </context>
 <context>
@@ -18455,17 +18455,17 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
         <source>Slice:</source>
-        <translation type="unfinished">Slice:</translation>
+        <translation>Fatia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
         <source>Show reformat widget in 3D view</source>
-        <translation type="unfinished">Show reformat widget in 3D view</translation>
+        <translation>Mostrar interface de reformatação na visualização 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="108"/>
         <source>Display &amp;&amp; Edit</source>
-        <translation type="unfinished">Display &amp;&amp; Edit</translation>
+        <translation>Mostrar &amp;&amp; Editar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="117"/>
@@ -18475,17 +18475,17 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="179"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation type="unfinished">Origem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="188"/>
         <source>Coordinate Reference</source>
-        <translation type="unfinished">Coordinate Reference</translation>
+        <translation>Referência de Coordenadas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="194"/>
         <source>On Plane</source>
-        <translation type="unfinished">On Plane</translation>
+        <translation>No Plano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="204"/>
@@ -18495,12 +18495,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="229"/>
         <source>Center</source>
-        <translation type="unfinished">Center</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="242"/>
         <source>Rotation</source>
-        <translation type="unfinished">Rotation</translation>
+        <translation>Rotação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="251"/>
@@ -18520,22 +18520,22 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation type="unfinished">Slice orientation (Axial, Sagittal, Coronal, Reformat).</translation>
+        <translation>Orientação da fatia (Axial, Sagital, Coronal, Reformatar).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="367"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="372"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagital</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="377"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="390"/>
@@ -18550,32 +18550,32 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="406"/>
         <source>NormalX</source>
-        <translation type="unfinished">NormalX</translation>
+        <translation>NormalX</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="413"/>
         <source>NormalY</source>
-        <translation type="unfinished">NormalY</translation>
+        <translation>NormalY</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="420"/>
         <source>NormalZ</source>
-        <translation type="unfinished">NormalZ</translation>
+        <translation>NormalZ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="429"/>
         <source>Normal To Camera</source>
-        <translation type="unfinished">Normal To Camera</translation>
+        <translation>Normal para Câmera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="486"/>
         <source>Lock Normal To Camera</source>
-        <translation type="unfinished">Lock Normal To Camera</translation>
+        <translation>Fixar Normal para a Câmera</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Lock reformat widget&apos;s normal to the camera one. </translation>
+        <translation>Fixar a interface de reformatação normal para o da câmera. </translation>
     </message>
 </context>
 <context>
@@ -18583,27 +18583,27 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation type="unfinished">Save Scene and Unsaved Data</translation>
+        <translation>Salvar Cena e Dados não Salvos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>select modified data only</source>
-        <translation type="unfinished">select modified data only</translation>
+        <translation>selecionar apenas dados modificados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
         <source>Change directory for selected files</source>
-        <translation type="unfinished">Change directory for selected files</translation>
+        <translation>Alterar diretório para arquivos selecionados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>Mostrar Opções</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished">Select scene &amp; modified data only</translation>
+        <translation>Selecionar apenas cena e dados modificados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
@@ -18643,12 +18643,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation type="unfinished">Create a Medical Record Bundle containing the scene</translation>
+        <translation>Criar um Pacote de Registros Médicos contendo a cena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt; Ocorreram erros ou avisos ao salvar. Consulte os ícones de status para obter detalhes.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
@@ -18656,7 +18656,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1133"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1140"/>
         <source>Modified</source>
-        <translation type="unfinished">Modified</translation>
+        <translation>Modificado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
