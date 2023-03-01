@@ -15032,12 +15032,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据模块是中央数据组织点，所有加载的数据都呈现在数据模块中进行访问和操作。它允许在文件夹或病人/研究树中组织数据（对DICOM自动完成），将任何可显示的数据可视化，对整个分支进行转换，以及大量的数据类型的具体功能。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>这项工作得到了NA-MIC、NAC、BIRN、NCIGT、CTSC和Slicer社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
@@ -15115,13 +15115,13 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
         <source>Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>节点</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
         <source>IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>IDs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
@@ -15227,7 +15227,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="93"/>
         <source>Open log location</source>
-        <translation type="unfinished"></translation>
+        <translation>打开日志位置</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
@@ -15245,12 +15245,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="62"/>
         <source>Profiling tool for the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>开发人员的分析工具。</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="70"/>
         <source>This module was developed by Julien Finet, Kitware Inc. This work was supported by NIH grant 3P41RR013218-12S1, NA-MIC, NAC and Slicer community.</source>
-        <translation type="unfinished"></translation>
+        <translation>本模块由Kitware公司的Julien Finet开发。这项工作得到了美国国立卫生研究院拨款3P41RR013218-12S1、NA-MIC、NAC和Slicer社区的支持。</translation>
     </message>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
@@ -15296,17 +15296,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>目录：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="75"/>
         <source>Destination directory</source>
-        <translation type="unfinished"></translation>
+        <translation>目的目录</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="82"/>
         <source>Export formats:</source>
-        <translation type="unfinished"></translation>
+        <translation>导出格式：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="89"/>
@@ -15316,37 +15316,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
         <source>Include nodes directly under the selected item in the hierarchy.</source>
-        <translation type="unfinished"></translation>
+        <translation>包括在层次结构中选定项目下的直接节点。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="117"/>
         <source>Include children</source>
-        <translation type="unfinished"></translation>
+        <translation>包括子项</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="124"/>
         <source>Include all nodes in the selected item in the hierarchy, including in subfolders.</source>
-        <translation type="unfinished"></translation>
+        <translation>包括层次结构中选定项目的所有节点，包括子文件夹中的节点。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="127"/>
         <source>Recursively include children</source>
-        <translation type="unfinished"></translation>
+        <translation>递归包含子项</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="134"/>
         <source>Create subdirectory structure based on node hierarchy. Uncheck this to export all nodes directly into the target directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>根据节点的层次结构创建子目录结构。取消勾选，直接将所有节点导出到目标目录中。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="137"/>
         <source>Export folder structure</source>
-        <translation type="unfinished"></translation>
+        <translation>导出文件夹结构</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation type="unfinished"></translation>
+        <translation>暂时强化任何转换以进行导出</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
@@ -15356,44 +15356,44 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一种格式</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="171"/>
         <source>Export format:</source>
-        <translation type="unfinished"></translation>
+        <translation>导出格式：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="409"/>
         <source>Output folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>输出文件夹：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;导出</translation>
     </message>
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
         <source>Export %n node(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>导出 %n 个节点</numerusform>
         </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="741"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
-        <translation type="unfinished"></translation>
+        <translation>导出多个节点时，会自动设置文件名</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
         <source>&lt;automatic&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;自动&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
         <source>Export </source>
-        <translation type="unfinished"></translation>
+        <translation>导出 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
@@ -15403,24 +15403,24 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
         <source>The following filename is recommended:</source>
-        <translation type="unfinished"></translation>
+        <translation>建议使用以下文件名：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="884"/>
         <source>Accept recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>接受建议</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="885"/>
         <source>Keep my filename</source>
-        <translation type="unfinished"></translation>
+        <translation>保留我的文件名</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="948"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1050"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1058"/>
         <source>Export Error</source>
-        <translation type="unfinished"></translation>
+        <translation>导出错误</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
@@ -15430,7 +15430,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
         <source>File Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>文件已存在</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
@@ -15441,22 +15441,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1070"/>
         <source>Export Information</source>
-        <translation type="unfinished"></translation>
+        <translation>导出信息</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <source>Nothing was exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有任何东西被导出。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
         <source>Error encountered while exporting.</source>
-        <translation type="unfinished"></translation>
+        <translation>导出时遇到的错误。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1065"/>
         <source>Export Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>导出警告</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1223"/>
@@ -15471,7 +15471,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
         <source>There is nothing to export.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有什么可导出的。</translation>
     </message>
 </context>
 <context>
@@ -15483,22 +15483,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
-        <translation type="unfinished"></translation>
+        <translation>安装此扩展（需要重新启动）。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="41"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>安装</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="52"/>
         <source>Click this button to add bookmark this extension. Bookmarked extension will appear in all application versions for easy reinstallation.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击这个按钮，可以将这个扩展添加为书签。被添加书签的扩展将出现在所有应用程序版本中，便于重新安装。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Click to remove the bookmark.</source>
-        <translation type="unfinished"></translation>
+        <translation>单击以删除书签。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
@@ -15548,7 +15548,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
@@ -15571,17 +15571,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="156"/>
         <source>Install pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>安装等待重启</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="161"/>
         <source>Update pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>更新待重启</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="166"/>
         <source>Uninstall pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>卸载等待重启</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="343"/>
@@ -15591,42 +15591,42 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="385"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="422"/>
         <source>Not found for this version of the application (r%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>未发现此版本的应用程序（r%2）</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="430"/>
         <source>Incompatible with Slicer r%2 [built for r%3]</source>
-        <translation type="unfinished"></translation>
+        <translation>与Slicer r%2不兼容 [为r%3建立]</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="447"/>
         <source>Change log...</source>
-        <translation type="unfinished"></translation>
+        <translation>变更日志...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="452"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>有一个更新可用。已安装：%1。可用：%2。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="468"/>
         <source>Version: %1. Disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>版本：%1。禁用。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="475"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>版本: %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="483"/>
         <source>Not installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>未安装。</translation>
     </message>
 </context>
 <context>
@@ -15644,7 +15644,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>重新启动</translation>
     </message>
 </context>
 <context>
@@ -15652,7 +15652,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="459"/>
         <source>Failed to parse %1: error at %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>解析失败 %1: 错误在 %2: %3</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="716"/>
@@ -15677,12 +15677,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
         <source>Failed to extract %1 into %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法将 %1 提取到 %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="889"/>
         <source>Archive %1 doesn&apos;t contain any files</source>
-        <translation type="unfinished"></translation>
+        <translation>档案%1不包含任何文件</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1029"/>
@@ -15720,198 +15720,198 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1403"/>
         <source>Failed to add bookmark extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>添加书签扩展失败：%1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1570"/>
         <source>Retrieving extension metadata for %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检索 %1 扩展的扩展元数据</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1582"/>
         <source>Failed to get metadata from server for extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>从服务器获取扩展名的元数据失败：%1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1599"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>检索 %1 扩展文件 （扩展 ID： %2）</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1630"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下载 %1 扩展 （item_id： %2， file_id： %3）</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1663"/>
         <source>Download of extension failed, id is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>下载扩展失败，ID 无效。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1684"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>下载扩展失败，找不到 id = %1 的扩展</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1701"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2371"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>无法检索 %1 扩展的元数据</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1743"/>
         <source>Failed downloading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>下载失败：%1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1754"/>
         <source>Could not create temporary file for writing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建用于写入的临时文件： %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1775"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>无法列出扩展存档“%1”</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1792"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>在存档 &apos;%1&apos; 中找不到扩展说明</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1805"/>
         <source>InstallExtension failed: extensionName is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>安装扩展失败：未设置扩展名</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1810"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过 %1 扩展的安装。它已安装。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
         <source>Extensions/InstallPath setting is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>未设置扩展/安装路径</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1822"/>
         <source>Failed to create extension installation directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建扩展安装目录 %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1930"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>安装依赖扩展时出错：&lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1953"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1依赖于以下扩展，但无法找到这些扩展：</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1958"/>
         <source>The extension may not function properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>扩展可能无法正常运行。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1959"/>
         <source>Unresolved dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>未解析的依赖项</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2878"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>未指定“扩展名称”参数</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1983"/>
         <source>Installed extension %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已安装的扩展%1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2065"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>从服务器更新扩展信息失败：在等待%1的服务器响应时超时了</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2120"/>
         <source>Failed to download extension metadata from server</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从服务器下载扩展元数据</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2138"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>缺少扩展元数据响应必填的“扩展名”字段</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2170"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>更新扩展名 %1 的检查响应缺少必需的“extension_id”或“修订”字段</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2181"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
-        <translation type="unfinished"></translation>
+        <translation>找到 %1 扩展的更新：“%2”已安装，“%3”可用， </translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2256"/>
         <source>Failed downloading %1 extension from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>从 %2 下载 %1 扩展失败</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2272"/>
         <source>Could not create .updates directory for update archive in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为%1的更新档案创建.更新目录</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2293"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
         <extracomment>%1 is the path name, %2 is the error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>无法写入文件：&apos;%1&apos; (%2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2357"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>缺少 %1 扩展的下载信息</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>计划更新的%1扩展</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2435"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>更新%1扩展失败</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2442"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>更新%1扩展失败：它没有被安排更新</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2566"/>
         <source>Failed to uninstall %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>卸载%1扩展失败</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2573"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>未能卸载 %1 扩展：扩展已加载</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2848"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>扩展 %1 不兼容</translation>
     </message>
     <message>
         <source>extensionName is not specified</source>
@@ -15921,25 +15921,25 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3072"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>损坏的 %1 扩展包</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3080"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
         <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>提取 %1 扩展档案 %2 到目录 %3 失败</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3125"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3132"/>
         <source>Failed to copy directory %1 into directory %2</source>
-        <translation type="unfinished"></translation>
+        <translation>复制目录%1到目录%2失败</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3139"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3146"/>
         <source>Failed to remove directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>移除目录%1失败</translation>
     </message>
 </context>
 <context>
@@ -15962,55 +15962,55 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
         <source>Update all (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>全部更新（%1）</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="446"/>
         <source>Install bookmarked (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>安装书签（%1）</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="451"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>安装书签</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="457"/>
         <source>Manage Extensions (%1)</source>
         <extracomment>%1 represents the number of managed extensions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>管理扩展（%1）</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="487"/>
         <source>Bookmarked extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>加入书签的扩展程序</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="488"/>
         <source>List of bookmarked extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>加入书签的扩展程序列表：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="718"/>
         <source>Select extension archive file(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>选择扩展存档文件...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="719"/>
         <source>Archives</source>
-        <translation type="unfinished"></translation>
+        <translation>档案</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="720"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>全部文件</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
         <source>Install/uninstall/update operations are still in progress:</source>
         <oldsource>Install/uninstall/update operations are still in progress:
 - </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>安装/卸载/更新操作仍在进行中：</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
@@ -16026,17 +16026,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="95"/>
         <source>Slicer Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Slicer扩展</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="102"/>
         <source>Extensions can not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法安装扩展。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">扩展管理器需要安装&lt;em&gt;3D Slicer&lt;/em&gt; 。打开磁盘镜像（.dmg）文件，将&lt;em&gt;Slicer.app&lt;/em&gt; 拖到&lt;em&gt;Applications&lt;/em&gt; 文件夹，并从&lt;em&gt;Applications&lt;/em&gt; 文件夹中启动&lt;em&gt;3D Slicer&lt;/em&gt; 。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
