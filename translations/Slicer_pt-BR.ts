@@ -18662,7 +18662,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
         <source>Not Modified</source>
-        <translation type="unfinished">Not Modified</translation>
+        <translation>Não Modificado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="648"/>
@@ -18677,43 +18677,43 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="725"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation type="unfinished">Scene file was not saved because user chose not to overwrite existing file: %1.</translation>
+        <translation>O arquivo de cena não foi salvo porque o usuário optou por não sobrescrever o arquivo existente: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="814"/>
         <source>Node %1 not saved, file name is empty.</source>
-        <translation type="unfinished">Node %1 not saved, file name is empty.</translation>
+        <translation>Nó %1 não salvo, o nome do arquivo está vazio.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="824"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-        <translation type="unfinished">Node %1 was not saved because user chose not to overwrite existing file: %2.</translation>
+        <translation>O nó %1 não foi salvo porque o usuário optou por não substituir o arquivo existente: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="862"/>
         <source>Cannot write data file: %1.</source>
-        <translation type="unfinished">Cannot write data file: %1.</translation>
+        <translation>Não é possível gravar o arquivo de dados: %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="867"/>
         <source>Failed to save node %1 to file %2.</source>
-        <translation type="unfinished">Failed to save node %1 to file %2.</translation>
+        <translation>Falha ao salvar o nó %1 no arquivo %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="916"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1120"/>
         <source>Scene</source>
-        <translation type="unfinished">Scene</translation>
+        <translation>Cena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1432"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>Quaisquer Dados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1465"/>
         <source>Saving file...</source>
-        <translation type="unfinished">Saving file...</translation>
+        <translation>Salvando arquivo...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1466"/>
