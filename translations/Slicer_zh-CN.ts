@@ -20857,12 +20857,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="174"/>
         <source>Invalid!</source>
-        <translation type="unfinished"></translation>
+        <translation>无效!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="180"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>错误!</translation>
     </message>
 </context>
 <context>
@@ -20870,7 +20870,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="90"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>二维轮廓的可见性</translation>
     </message>
 </context>
 <context>
@@ -20883,7 +20883,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="51"/>
         <source>Subject Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>主题层次结构</translation>
     </message>
 </context>
 <context>
@@ -20891,7 +20891,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>透明度</translation>
     </message>
 </context>
 <context>
@@ -21134,32 +21134,32 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="136"/>
         <source>Show volumes in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文件夹中的数据</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="139"/>
         <source>Show in slice views as foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>在切片视图中显示为前景</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="142"/>
         <source>Reset field of view on show</source>
-        <translation type="unfinished"></translation>
+        <translation>重置放映时的字段</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="147"/>
         <source>Reset view orientation on show</source>
-        <translation type="unfinished"></translation>
+        <translation>显示时重置视图方向</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="154"/>
         <source>Show color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>显示颜色图例</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="163"/>
         <source>Window/level presets</source>
-        <translation type="unfinished"></translation>
+        <translation>窗宽/窗位预设</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="187"/>
@@ -21184,17 +21184,17 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="467"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>无效</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="473"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
         <source>Dimensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>维度：</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
