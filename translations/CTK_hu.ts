@@ -1315,17 +1315,17 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="59"/>
         <source>Patients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alanyok:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="85"/>
         <source>Studies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizsgálatok:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="111"/>
         <source>Series:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorozatok:</translation>
     </message>
 </context>
 <context>
