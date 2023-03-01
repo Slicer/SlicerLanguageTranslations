@@ -6228,7 +6228,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation>Não use o quadro de medição que está na imagem de entrada para transformar os tensores. Em vez disso, usa a orientação da imagem.</translation>
+        <translation>Não use o quadro de medição que está na imagem de entrada para transformar os tensores. Em vez disso, usa a orientação da imagem</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
@@ -8716,7 +8716,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Função usada para calcular pesos escalares para localização de caminhos. O escalar de ponto atualmente ativo pode ser acessado usando o&amp;quot;nome da variável. Todos os outros escalares podem ser acessados como variáveis, desde que não contenham caracteres ilegais&amp;quot;.activeScalar  (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Funções exemplos: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Função usada para calcular pesos escalares para localização de caminhos. O escalar de ponto atualmente ativo pode ser acessado usando o&amp;quot;nome da variável. Todos os outros escalares podem ser acessados como variáveis, desde que não contenham caracteres ilegais&amp;quot;.activeScalar (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Funções exemplos: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"/>
@@ -8917,7 +8917,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
         <source>Unselected Color:</source>
-        <translation>Cor não selecionada</translation>
+        <translation>Cor não selecionada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
@@ -9031,7 +9031,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
         <source>Projection Color:</source>
-        <translation>Cor da Projeção</translation>
+        <translation>Cor da Projeção:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
@@ -11772,7 +11772,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="510"/>
         <source>Lightbox view</source>
-        <translation>Visualização da iluminação.</translation>
+        <translation>Visualização da iluminação</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="522"/>
@@ -11899,7 +11899,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat)</source>
-        <translation>Orientação da fatia (Axial, Sagital, Coronal, Reformatar).</translation>
+        <translation>Orientação da fatia (Axial, Sagital, Coronal, Reformatar)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
@@ -11967,7 +11967,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
         <source>Field of view:</source>
-        <translation>Campo de visão</translation>
+        <translation>Campo de visão:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
@@ -14328,7 +14328,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>GPU RayCast</source>
-        <translation>GPU RayCast</translation>
+        <translation>RayCast da GPU</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerCPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
@@ -14440,7 +14440,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="154"/>
         <source>Delete the color legend for the selected displayable node.</source>
-        <translation>Delete the color legend for the selected displayable node.</translation>
+        <translation>Exclua a legenda de cores para o nó exibível selecionado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="157"/>
@@ -14455,7 +14455,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color Table</source>
-        <translation>Tabela de Cores:</translation>
+        <translation>Tabela de Cores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
@@ -14729,7 +14729,7 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="436"/>
         <source>Windowed Sinc</source>
-        <translation>Windowed Sinc</translation>
+        <translation>Sinc Janelada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="445"/>
@@ -14806,22 +14806,22 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="105"/>
         <source>Output volume type does not match input volume type.</source>
-        <translation>Tipo de volume de saída não é compatível com o tipo de volume de entrada</translation>
+        <translation>Tipo de volume de saída não é compatível com o tipo de volume de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="128"/>
         <source>Input ROI is under a non-linear tansform.</source>
-        <translation>Entrada ROI está sob uma transformação não-linear</translation>
+        <translation>Entrada ROI está sob uma transformação não-liner.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="134"/>
         <source>Select or create a new input ROI.</source>
-        <translation>Selecione ou crie uma nova entrada ROI</translation>
+        <translation>Selecione ou crie uma nova ROI de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
         <source>Output volume is under a non-linear tansform.</source>
-        <translation>Volume de saída está sob uma transformação não-linear</translation>
+        <translation>Volume de saída está sob uma transformação não-linear.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="152"/>
@@ -15408,6 +15408,7 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
         <source>Export %n node(s)</source>
         <translation>
             <numerusform>Exportar %n nó</numerusform>
+            <numerusform>Exportar %n nós</numerusform>
             <numerusform>Exportar %n nós</numerusform>
         </translation>
     </message>
@@ -16261,7 +16262,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="14"/>
         <source>GPU RayCast</source>
-        <translation>GPU RayCast</translation>
+        <translation>RayCast da GPU</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="32"/>
@@ -16282,7 +16283,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerGPURayCastVolumeRenderingPropertiesWidget.ui" line="49"/>
         <source>Surface smoothing:</source>
-        <translation>Suavização de superfície</translation>
+        <translation>Suavização de superfície:</translation>
     </message>
 </context>
 <context>
@@ -16832,7 +16833,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="662"/>
         <source>Four-Up</source>
-        <translation type="unfinished">Four-Up</translation>
+        <translation>Quatro Quadros</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="674"/>
@@ -17050,47 +17051,47 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1128"/>
         <source>Four-Up Plot</source>
-        <translation type="unfinished">Four-Up Plot</translation>
+        <translation>Quatro Quadros c/ Gráfico</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1131"/>
         <source>Three slices and a plot in four-Up layout</source>
-        <translation type="unfinished">Three slices and a plot in four-Up layout</translation>
+        <translation>Três fatias e um gráfico em quatro quadros</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1143"/>
         <source>Conventional Plot</source>
-        <translation type="unfinished">Conventional Plot</translation>
+        <translation>Gráfico Convencional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1146"/>
         <source>Conventional three slices and 3D view with an additional plot</source>
-        <translation type="unfinished">Conventional three slices and 3D view with an additional plot</translation>
+        <translation>Três fatias convencionais e vista 3D com um gráfico adicional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1158"/>
         <source>Three over three Plot</source>
-        <translation type="unfinished">Three over three Plot</translation>
+        <translation>Três sobre três Gráfico</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1161"/>
         <source>Three plots over three slices</source>
-        <translation type="unfinished">Three plots over three slices</translation>
+        <translation>Três gráficos sobre três fatias</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1170"/>
         <source>Four-Up Table</source>
-        <translation type="unfinished">Four-Up Table</translation>
+        <translation>Quatro Quados c/ Tabela</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1179"/>
         <source>Four-Up Quantitative</source>
-        <translation type="unfinished">Four-Up Quantitative</translation>
+        <translation>Quatro-Quadros Quantitativo</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1182"/>
         <source>Four-up slice and 3D view with an additional table and plot</source>
-        <translation type="unfinished">Four-up slice and 3D view with an additional table and plot</translation>
+        <translation>Quatro-quadros de fatias e visão 3D com tabela e gráfico adicional</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1187"/>
@@ -17105,14 +17106,14 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="167"/>
         <source>Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</source>
-        <translation type="unfinished">Collapse/Expand the GUI panel and allows Slicer&apos;s viewers to occupy the entire application window</translation>
+        <translation>Recolhe/Expande o painel GUI e permite que os visualizadores do Slicer ocupem toda a janela de aplicação</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="324"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="338"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="352"/>
         <source>Select number of viewers...</source>
-        <translation type="unfinished">Select number of viewers...</translation>
+        <translation>Selecione o número de visualizadores...</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="165"/>
@@ -17162,42 +17163,42 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="630"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before exit?</translation>
+        <translation>Alguns dados foram modificados. Deseja salvá-los antes de sair?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="634"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation type="unfinished">The scene has been modified. Do you want to save it before exit?</translation>
+        <translation>A cena foi modificada. Deseja salvá-lo antes de sair?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="639"/>
         <source>Save before exit?</source>
-        <translation type="unfinished">Save before exit?</translation>
+        <translation>Salvar antes de sair?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="643"/>
         <source>Exit (discard modifications)</source>
-        <translation type="unfinished">Exit (discard modifications)</translation>
+        <translation>Sair (descartar modificações)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="645"/>
         <source>Cancel exit</source>
-        <translation type="unfinished">Cancel exit</translation>
+        <translation>Cancelar saída</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="675"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before closing the scene?</translation>
+        <translation>Alguns dados foram modificados. Deseja salvá-los antes de fechar a cena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="679"/>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation type="unfinished">The scene has been modified. Do you want to save it before closing the scene?</translation>
+        <translation>A cena foi modificada. Você quer salvá-la antes de fechar a cena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="689"/>
         <source>Save before closing scene?</source>
-        <translation type="unfinished">Save before closing scene?</translation>
+        <translation>Salvar antes de fechar a cena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="694"/>
