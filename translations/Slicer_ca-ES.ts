@@ -1984,7 +1984,7 @@ Permet emetre el mateix tipus que el volum d&apos;entrada.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
@@ -2133,7 +2133,7 @@ Permet emetre el mateix tipus que el volum d&apos;entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="18"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida filtrada</translation>
     </message>
 </context>
 <context>
@@ -2166,7 +2166,7 @@ Permet emetre el mateix tipus que el volum d&apos;entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
@@ -2820,7 +2820,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
@@ -2830,12 +2830,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida filtrada</translation>
     </message>
 </context>
 <context>
@@ -3747,7 +3747,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imatge d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
@@ -3975,7 +3975,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
@@ -4070,7 +4070,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
@@ -4080,12 +4080,12 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida filtrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
@@ -4154,7 +4154,7 @@ Un filtre complementari, Grayscale Grind Peak, elimina els pics de les imatges e
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
@@ -4164,12 +4164,12 @@ Un filtre complementari, Grayscale Grind Peak, elimina els pics de les imatges e
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4222,7 +4222,7 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
@@ -4232,12 +4232,12 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4270,7 +4270,7 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
@@ -4652,7 +4652,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
@@ -4700,7 +4700,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
@@ -4914,7 +4914,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -5179,7 +5179,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
@@ -6018,7 +6018,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MSE</translation>
     </message>
 </context>
 <context>
@@ -6115,7 +6115,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
@@ -6625,7 +6625,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
@@ -7130,7 +7130,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="25"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="26"/>
@@ -7396,7 +7396,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
@@ -7406,12 +7406,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida filtrada</translation>
     </message>
 </context>
 <context>
@@ -7522,7 +7522,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
@@ -7701,7 +7701,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
@@ -7711,12 +7711,12 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida filtrada</translation>
     </message>
 </context>
 <context>
@@ -7949,62 +7949,82 @@ a = Transformada afí</translation>
         <translation>Triar l&apos;entrada a l&apos;algorisme.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
+        <source>inputVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
         <source>Image threshold:</source>
         <translation>Llindar d&apos;imatge:</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="61"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
         <translation>Establir el valor llindar per calcular la imatge de sortida. Els vòxels que tinguin intensitats inferiors a aquest valor es posaran a zero.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
+        <source>imageThreshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
         <source>Outputs</source>
         <translation>Sortides</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="92"/>
         <source>Thresholded volume:</source>
         <translation>Volum llindar:</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="99"/>
         <source>Pick the output to the algorithm.</source>
         <translation>Triar la sortida de l&apos;algorisme.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
+        <source>thresholdedVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
         <source>Inverted volume:</source>
         <translation>Volum invertit:</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="133"/>
         <source>Result with inverted threshold will be written into this volume</source>
         <translation>El resultat amb llindar invertit s&apos;escriurà en aquest volum</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
+        <source>invertedVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
         <source>Advanced</source>
         <translation>Avançat</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="172"/>
         <source>Invert threshold: </source>
         <translation>Invertir el llindar: </translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="179"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
         <translation>Si està marcat, els valors per sobre del llindar s&apos;estableixen en 0. Si no es marca, els valors inferiors es defineixen en 0.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="198"/>
         <source>Run the algorithm.</source>
         <translation>Executar l&apos;algorisme.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="201"/>
         <source>Apply</source>
         <translation>Aplicar</translation>
     </message>
@@ -17928,9 +17948,13 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
         <source>Plots</source>
-        <translation type="unfinished">Dibuixos</translation>
+        <translation type="obsolete">Dibuixos</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
+        <source>Models</source>
+        <translation type="unfinished">Models</translation>
     </message>
 </context>
 <context>
@@ -18024,67 +18048,67 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <translation>&amp;amp;Prova</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
         <translation type="unfinished">Passar a mòdul</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="195"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
         <source>Category:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="234"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Contributors:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="241"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
         <source>Internal name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="245"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
         <source>Unknown type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="249"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="253"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
         <source>C++ Loadable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="257"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
         <source>Command-Line Interface (CLI)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="261"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>built-in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
         <translation type="unfinished">Tipus:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="268"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
         <source>Require:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="272"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
         <source>Location:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="281"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
         <source>%1 module is not loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18189,7 +18213,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
 <context>
     <name>qSlicerModulesListView</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="162"/>
+        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
         <source>Requires:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18821,7 +18845,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paquet de realitat mèdica</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>

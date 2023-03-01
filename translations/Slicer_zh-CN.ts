@@ -1122,12 +1122,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
@@ -2799,12 +2799,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电导率控制电导项的灵敏度。一般来说，该值越低，滤波器对边缘的保护就越强。一个高的值会导致边缘的扩散（平滑）。请注意，迭代次数控制了在以边缘为界的区域内做多少平滑处理。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">迭代次数越多，平滑程度越高。每次迭代都需要相同的时间。如果一次迭代需要10秒，那么10次迭代就需要100秒。注意，电导率控制着每次迭代对边缘的平滑程度。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
@@ -6239,7 +6239,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
@@ -7946,62 +7946,82 @@ a = Affine Transform</source>
         <translation>选择算法输入项。</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
+        <source>inputVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
         <source>Image threshold:</source>
         <translation>图像阈值：</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="61"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
         <translation>设置用于计算输出图像的阈值。强度低于此值的体素将设置为零。</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
+        <source>imageThreshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
         <source>Outputs</source>
         <translation>输出</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="92"/>
         <source>Thresholded volume:</source>
         <translation>阈值数据：</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="99"/>
         <source>Pick the output to the algorithm.</source>
         <translation>选择输出到算法。</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
+        <source>thresholdedVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
         <source>Inverted volume:</source>
         <translation>反向数据：</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="133"/>
         <source>Result with inverted threshold will be written into this volume</source>
         <translation>反向阈值的结果将写入该数据</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
+        <source>invertedVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
         <source>Advanced</source>
         <translation>高级</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="172"/>
         <source>Invert threshold: </source>
         <translation>反向阈值： </translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="179"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
         <translation>如果选中，超过阈值的值将设置为0。如果未选中，低于阈值的值将设置为0。</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="198"/>
         <source>Run the algorithm.</source>
         <translation>运行算法。</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="201"/>
         <source>Apply</source>
         <translation>应用</translation>
     </message>
@@ -17925,9 +17945,13 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
         <source>Plots</source>
-        <translation type="unfinished">绘图</translation>
+        <translation type="obsolete">绘图</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
+        <source>Models</source>
+        <translation type="unfinished">模型</translation>
     </message>
 </context>
 <context>
@@ -18021,67 +18045,67 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>&amp;测试</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
         <translation type="unfinished">切换到模块</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="195"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
         <source>Category:</source>
         <translation>类别：</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="234"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Contributors:</source>
         <translation>贡献者：</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="241"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
         <source>Internal name:</source>
         <translation>内部名称：</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="245"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
         <source>Unknown type</source>
         <translation>未知类型</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="249"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
         <translation>Python 脚本可加载</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="253"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
         <source>C++ Loadable</source>
         <translation>C++ 可加载</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="257"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
         <source>Command-Line Interface (CLI)</source>
         <translation>命令行界面 （CLI）</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="261"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>built-in</source>
         <translation>内置</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
         <translation type="unfinished">类型：</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="268"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
         <source>Require:</source>
         <translation>需要：</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="272"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
         <source>Location:</source>
         <translation>位置：</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="281"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
         <source>%1 module is not loaded</source>
         <translation>%1 模块未加载</translation>
     </message>
@@ -18186,7 +18210,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerModulesListView</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="162"/>
+        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
         <source>Requires:</source>
         <translation>需要：</translation>
     </message>
@@ -22612,7 +22636,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
         <source>All Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部文件</translation>
     </message>
 </context>
 <context>
@@ -22944,7 +22968,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="437"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新的应用程序版本可用： %1</translation>
     </message>
 </context>
 </TS>

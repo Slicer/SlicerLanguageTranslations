@@ -7913,62 +7913,82 @@ a = Affine Transform</source>
         <translation>Choisissez l&apos;entrée pour l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="51"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
+        <source>inputVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
         <source>Image threshold:</source>
         <translation>Seuil d&apos;image :</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="58"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="61"/>
         <source>Set threshold value for computing the output image. Voxels that have intensities lower than this value will set to zero.</source>
         <translation>Définir le seuil pour calculer l&apos;image de sortie. Les voxels qui ont des intensités inférieures à celles de cette valeur seront mis à zéro.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="80"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
+        <source>imageThreshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
         <source>Outputs</source>
         <translation>Sorties</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="92"/>
         <source>Thresholded volume:</source>
         <translation>Volume seuil :</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="93"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="99"/>
         <source>Pick the output to the algorithm.</source>
         <translation>Choisissez la sortie de l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="117"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
+        <source>thresholdedVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
         <source>Inverted volume:</source>
         <translation>Volume inversé :</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="124"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="133"/>
         <source>Result with inverted threshold will be written into this volume</source>
         <translation>Le résultat à seuil inversé sera écrit dans ce volume</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="151"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
+        <source>invertedVolume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="160"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="172"/>
         <source>Invert threshold: </source>
         <translation>Inverser le seuil : </translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="167"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="179"/>
         <source>If checked, values above threshold are set to 0. If unchecked, values below are set to 0.</source>
         <translation>Si coché, les valeurs supérieures au seuil seront mises à 0. Si décoché, les valeurs inférieures seront mises à 0.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="183"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="198"/>
         <source>Run the algorithm.</source>
         <translation>Exécutez l&apos;algorithme.</translation>
     </message>
     <message>
-        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="186"/>
+        <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="201"/>
         <source>Apply</source>
         <translation>Appliquer</translation>
     </message>
@@ -17892,9 +17912,13 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
 <context>
     <name>qSlicerModelsModule</name>
     <message>
-        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
         <source>Plots</source>
-        <translation type="unfinished">Tracé</translation>
+        <translation type="obsolete">Tracé</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
+        <source>Models</source>
+        <translation type="unfinished">Modèles</translation>
     </message>
 </context>
 <context>
@@ -17988,67 +18012,67 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <translation type="unfinished">&amp;Essai</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
         <translation type="unfinished">Passer au module</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="195"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
         <source>Category:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="234"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Contributors:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="241"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
         <source>Internal name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="245"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
         <source>Unknown type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="249"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="253"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
         <source>C++ Loadable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="257"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
         <source>Command-Line Interface (CLI)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="261"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>built-in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
         <translation type="unfinished">Type:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="268"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
         <source>Require:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="272"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
         <source>Location:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="281"/>
+        <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
         <source>%1 module is not loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18153,7 +18177,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
 <context>
     <name>qSlicerModulesListView</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="162"/>
+        <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
         <source>Requires:</source>
         <translation type="unfinished"></translation>
     </message>
