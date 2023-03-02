@@ -6,77 +6,77 @@
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
         <source>Symbolic Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome simbólico</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>Vendedor</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licença</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Direitos autorais</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
         <source>Activaton Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Política de ativação</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"/>
         <source>Contact Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço de Contato</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
         <source>Doc URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL do documento</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguiçoso</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansioso</translation>
     </message>
 </context>
 <context>
@@ -84,12 +84,12 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
         <source>DICOM Application Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Hospedeiro de aplicações DICOM</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicativo de Hospedagem de Exemplo CTK</translation>
     </message>
 </context>
 <context>
@@ -97,17 +97,17 @@
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerador de Plugin CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira o nome da sua organização:</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;sua-organização&gt;</translation>
     </message>
 </context>
 <context>
@@ -115,17 +115,17 @@
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="442"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao verificar XML:</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizado.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleConcurrentHelpers.cpp" line="73"/>
         <source>Module %1 failed with an unknown exception.</source>
-        <translation type="unfinished"></translation>
+        <translation>O módulo %1 falhou com uma exceção desconhecida.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="45"/>
@@ -136,7 +136,13 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao registrar o módulo:
+% 1
+
+devido a:
+% 2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
@@ -147,13 +153,20 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao registrar o módulo:
+% 1
+
+devido a erro de validação de xml:
+% 2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="56"/>
         <source>Failed to register module:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao registrar o módulo:
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
@@ -162,59 +175,63 @@ due to xml validation error:
 
 due to:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao registrar o módulo:
+
+
+devido a:
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao registrar módulos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="368"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique se os arquivos devem ser copiados para o diretório do banco de dados local ou se devem ser criados apenas links?</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Básico</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="109"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="123"/>
         <source>Button1</source>
-        <translation type="unfinished"></translation>
+        <translation>Button1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="124"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="43"/>
         <source>Button2</source>
-        <translation type="unfinished"></translation>
+        <translation>Button2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="42"/>
         <source>My very long text on button</source>
-        <translation type="unfinished"></translation>
+        <translation>Meu texto muito longo no botão</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="44"/>
         <source>Button3</source>
-        <translation type="unfinished"></translation>
+        <translation>Button3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="45"/>
         <source>Button4</source>
-        <translation type="unfinished"></translation>
+        <translation>Button4</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="46"/>
         <source>Button5</source>
-        <translation type="unfinished"></translation>
+        <translation>Button5</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="47"/>
         <source>Button6</source>
-        <translation type="unfinished"></translation>
+        <translation>Button6</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="48"/>
