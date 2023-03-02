@@ -1585,12 +1585,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus d&apos;interpolació que s&apos;utilitzarà quan s&apos;aplica la transformada al volum en moviment.  Les opcions són Lineal, ResampleInPlace, NearestNeighbor, BSpline o WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertader/Fals és calcular la inversa de la transformació donada. El valor per defecte és fals</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
@@ -1836,7 +1836,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de transformades</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
@@ -1846,7 +1846,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del fitxer de transformades</translation>
     </message>
 </context>
 <context>
@@ -1854,7 +1854,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada de conversió (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
@@ -1865,7 +1865,8 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
@@ -1880,12 +1881,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
         <source>Transform File Name To Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del fitxer de transformades per a la conversió</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge de referència</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
@@ -1895,17 +1896,17 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom del fitxer de transformades per a desar-lo com a ConvertedTransform</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation type="unfinished"></translation>
+        <translation>El tipus de transformada objectiu. Ha de ser compatible amb la conversió amb el tipus de transformada d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
         <source>Precision type of the output transform. It can be either single precision or double precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus de precisió de la transformada de sortida. Pot ser d&apos;una sola precisió o de doble precisió</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
@@ -1927,12 +1928,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished"></translation>
+        <translation>ScaleSkewVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
@@ -1942,7 +1943,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished"></translation>
+        <translation>Mateix</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
@@ -3379,32 +3380,32 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
         <source>Parameters that describe transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres que descriuen les transformades.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"/>
         <source>Input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
         <source>Input transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada lineal d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
         <source>Input transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació d&apos;entrada no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
         <source>Input transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada d&apos;entrada bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
@@ -3414,57 +3415,57 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
         <source>Output transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada de sortida lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"/>
         <source>Output transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada de sortida no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
         <source>Output transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada de sortida bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
         <source>A generic input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada d&apos;entrada genèrica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada d&apos;entrada lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada d&apos;entrada no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada d&apos;entrada bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada genèrica de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada de sortida lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada de sortida no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
         <source>A bspline output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada de sortida bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
@@ -3876,12 +3877,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
         <source>Save transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa la transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus de transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
@@ -3906,7 +3907,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
         <source>Save the transform that results from registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa la transformada que resulta del registre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
