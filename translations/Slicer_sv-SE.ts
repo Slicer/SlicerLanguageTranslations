@@ -16003,9 +16003,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>Klicka på OK för att vänta tills de är klara, eller välj Ignorera för att stänga Tilläggshanteraren nu.</translation>
     </message>
 </context>
 <context>
