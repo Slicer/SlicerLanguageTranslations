@@ -19537,7 +19537,7 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="314"/>
         <source>Master node:</source>
-        <translation type="unfinished">Master node:</translation>
+        <translation>Nó mestre:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
@@ -19548,7 +19548,7 @@ Escolha um diretório vazio.</translation>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
         <source>Maximum</source>
         <extracomment>Record all node changes</extracomment>
-        <translation type="unfinished">Maximum</translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="355"/>
@@ -19565,7 +19565,7 @@ Escolha um diretório vazio.</translation>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="371"/>
         <source>Index</source>
         <extracomment>Display item index of master node</extracomment>
-        <translation type="unfinished">Index</translation>
+        <translation>Índice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="376"/>
@@ -19596,12 +19596,12 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="446"/>
         <source>Index properties</source>
-        <translation type="unfinished">Index properties</translation>
+        <translation>Propriedades do índice</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="452"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="465"/>
@@ -19611,17 +19611,17 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="472"/>
         <source>Unit:</source>
-        <translation type="unfinished">Unit:</translation>
+        <translation>Unidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="485"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="492"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="512"/>
@@ -19646,7 +19646,7 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="577"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="588"/>
@@ -19666,7 +19666,7 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="678"/>
         <source>Node type:</source>
-        <translation type="unfinished">Node type:</translation>
+        <translation>Tipo de nó:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="691"/>
@@ -19699,7 +19699,7 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="14"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="23"/>
@@ -19719,7 +19719,7 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="42"/>
         <source>~200MB free</source>
-        <translation type="unfinished">~200MB free</translation>
+        <translation>~200MB livre</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="51"/>
@@ -19735,7 +19735,7 @@ Escolha um diretório vazio.</translation>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="61"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="90"/>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
@@ -19755,42 +19755,42 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="109"/>
         <source>Cache free buffer:</source>
-        <translation type="unfinished">Cache free buffer:</translation>
+        <translation>Buffer livre do cache:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
         <source>Control whether a file must be downloaded even if it is already in the cache</source>
-        <translation type="unfinished">Control whether a file must be downloaded even if it is already in the cache</translation>
+        <translation>Controla se um arquivo deve ser baixado mesmo que já esteja no cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
         <source>Force redownload:</source>
-        <translation type="unfinished">Force redownload:</translation>
+        <translation>Força o redownload:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="136"/>
         <source>Files in cache:</source>
-        <translation type="unfinished">Files in cache:</translation>
+        <translation>Arquivos em cache:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="143"/>
         <source>Delete all files in cache directory</source>
-        <translation type="unfinished">Delete all files in cache directory</translation>
+        <translation>Excluir todos os arquivos no diretório do cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="146"/>
         <source>Clear cache</source>
-        <translation type="unfinished">Clear cache</translation>
+        <translation>Limpar cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
         <source>%1MB used</source>
-        <translation type="unfinished">%1MB used</translation>
+        <translation>%1MB utilizado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
         <source>%1MB free</source>
-        <translation type="unfinished">%1MB free</translation>
+        <translation>%1MB livre</translation>
     </message>
 </context>
 <context>
@@ -19798,58 +19798,58 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="14"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>Desenvolvedor</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
         <source>Enable developer mode:</source>
-        <translation type="unfinished">Enable developer mode:</translation>
+        <translation>Habilitar o modo desenvolvedor:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
         <source>Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</source>
-        <translation type="unfinished">Run the application in developer mode: testing modules are shown in the module list, Reload&amp;Test section is shown in scripted modules user interface, CLI module input and output files are not deleted after module execution</translation>
+        <translation>Execute o aplicativo no modo de desenvolvedor: os módulos de teste são mostrados na lista de módulos, a seção Reload&amp;Test é mostrada na interface do usuário dos módulos scripted, os arquivos de entrada e saída do módulo CLI não são excluídos após a execução do módulo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
         <source>Enable QtTesting:</source>
-        <translation type="unfinished">Enable QtTesting:</translation>
+        <translation>Habilitar QtTesting:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="51"/>
         <source>Self-test message delay:</source>
-        <translation type="unfinished">Self-test message delay:</translation>
+        <translation>Atraso na mensagem de autoteste:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="83"/>
         <source>Time to wait before resuming self-test execution and hiding messages displayed to the user</source>
-        <translation type="unfinished">Time to wait before resuming self-test execution and hiding messages displayed to the user</translation>
+        <translation>Tempo de espera antes de retomar a execução do autoteste e ocultar as mensagens exibidas ao usuário</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="73"/>
         <source>ms</source>
-        <translation type="unfinished">ms</translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="80"/>
         <source>Qt Designer:</source>
-        <translation type="unfinished">Qt Designer:</translation>
+        <translation>Qt Designer:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="89"/>
         <source>launch</source>
-        <translation type="unfinished">launch</translation>
+        <translation>lançar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
         <source>Preserve CLI module data files:</source>
-        <translation type="unfinished">Preserve CLI module data files:</translation>
+        <translation>Preserve os arquivos de dados do módulo CLI:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="118"/>
         <source>Preserve input and data files created during CLI module execution</source>
-        <translation type="unfinished">Preserve input and data files created during CLI module execution</translation>
+        <translation>Preservar arquivos e dados de entrada criados durante a execução do módulo CLI</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsDeveloperPanel.cxx" line="75"/>
@@ -19872,7 +19872,7 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="37"/>
@@ -19907,22 +19907,22 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="97"/>
         <source>Extensions server URL:</source>
-        <translation type="unfinished">Extensions server URL:</translation>
+        <translation>URL do servidor de extensões:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="107"/>
         <source>Extensions frontend server URL:</source>
-        <translation type="unfinished">Extensions frontend server URL:</translation>
+        <translation>URL do servidor front-end de extensões:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="117"/>
         <source>Extensions installation path:</source>
-        <translation type="unfinished">Extensions installation path:</translation>
+        <translation>Caminho de instalação das extensões:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="143"/>
         <source>Open Extensions Manager...</source>
-        <translation type="unfinished">Open Extensions Manager...</translation>
+        <translation>Abra o Gerenciador de Extensões...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="154"/>
@@ -19970,91 +19970,91 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="14"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="20"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished">Directory where scenes are saved to by default</translation>
+        <translation>Diretório onde as cenas são salvas por padrão</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
         <source>Default scene location:</source>
-        <translation type="unfinished">Default scene location:</translation>
+        <translation>Local de cena padrão:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
         <source>Disable splash screen:</source>
-        <translation type="unfinished">Disable splash screen:</translation>
+        <translation>Desativar a tela inicial:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="50"/>
         <source>Language</source>
-        <translation type="unfinished">Language</translation>
+        <translation>Linguagem</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
         <source>Confirm on restart:</source>
-        <translation type="unfinished">Confirm on restart:</translation>
+        <translation>Confirme ao reiniciar:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
         <source>Confirm on exit:</source>
-        <translation type="unfinished">Confirm on exit:</translation>
+        <translation>Confirme ao sair:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation type="unfinished">Confirm on scene close:</translation>
+        <translation>Confirmar no fechamento da cena:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
         <source>Documentation base URL:</source>
-        <translation type="unfinished">Documentation base URL:</translation>
+        <translation>URL base da documentação:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="115"/>
         <source>Specify documentation location.
 Available placeholders: {language}, {version}.
 Default: https://slicer.readthedocs.io/{language}/{version}</source>
-        <translation type="unfinished">Specify documentation location.
-Available placeholders: {language}, {version}.
-Default: https://slicer.readthedocs.io/{language}/{version}</translation>
+        <translation>Especificar a localização da documentação.
+Locais disponíveis: {linguagem}, {versão}.
+Padrão: https://slicer.readthedocs.io/{língua}/{versão}</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
         <source>Max. number of &apos;Recent&apos; menu items:</source>
         <oldsource>Max. number of &apos;Recently Loaded&apos; menu items:</oldsource>
-        <translation type="unfinished">Max. number of &apos;Recently Loaded&apos; menu items:</translation>
+        <translation>Número máximo de itens de menu &apos;Recentes&apos;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished">Python script that is executed after the application is started</translation>
+        <translation>Script Python que é executado depois que o aplicativo é iniciado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="147"/>
         <source>Application startup script:</source>
-        <translation type="unfinished">Application startup script:</translation>
+        <translation>Script de inicialização do aplicativo:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="169"/>
         <source>Open Slicer resource file</source>
-        <translation type="unfinished">Open Slicer resource file</translation>
+        <translation>Abrir arquivo de recursos do Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
         <source>Module documentation URL:</source>
-        <translation type="unfinished">Module documentation URL:</translation>
+        <translation>URL da documentação do módulo:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="188"/>
         <source>Specify URL for module documentation.
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
-        <translation type="unfinished">Specify URL for module documentation.
-Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
-Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
+        <translation>Especificar a URL para a documentação do módulo.
+Espaços reservados disponíveis: {documentationbaseurl}, {lowercasemodulename}.
+Padrão: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
@@ -20108,12 +20108,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>Internacionalização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
         <source>Enable Internationalization:</source>
-        <translation type="unfinished">Enable Internationalization:</translation>
+        <translation>Habilitar a Internacionalização:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="68"/>
@@ -20126,75 +20126,75 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="20"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
         <source>Skip loading of any:</source>
-        <translation type="unfinished">Skip loading of any:</translation>
+        <translation>Pular o carregamento de qualquer:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-loadable-modules on the command line</translation>
+        <translation>Para desativar temporariamente, passe --disable-loadable-modules na linha de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="130"/>
         <source>loadable modules</source>
-        <translation type="unfinished">loadable modules</translation>
+        <translation>módulos carregáveis</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-cli-modules on the command line</translation>
+        <translation>Para desativar temporariamente, passe --disable-loadable-modules na linha de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
         <source>command-line plugins</source>
-        <translation type="unfinished">command-line plugins</translation>
+        <translation>plug-ins de linha de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</translation>
+        <translation>Para desabilitar temporariamente, passe --disable-scripted-loadable-modules na linha de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="150"/>
         <source>scripted loadable modules</source>
-        <translation type="unfinished">scripted loadable modules</translation>
+        <translation>módulos carregáveis com script</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished">Skip loading of builtin:</translation>
+        <translation>Pular o carregamento do built-in:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-loadable-modules on the command line</translation>
+        <translation>Para desabilitar temporariamente, passe --disable-builtin-loadable-modules na linha de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
         <source>To temporarily disable, pass --disable-builtin-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-cli-modules on the command line</translation>
+        <translation>Para desabilitar temporariamente, passe --disable-builtin-cli-modules na linha de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="147"/>
         <source>To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</translation>
+        <translation>Para desabilitar temporariamente, passe --disable-builtin-scripted-loadable-modules na linha de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
         <source>Show hidden modules:</source>
-        <translation type="unfinished">Show hidden modules:</translation>
+        <translation>Mostrar módulos ocultos:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
         <source>Temporary directory:</source>
-        <translation type="unfinished">Temporary directory:</translation>
+        <translation>Diretório temporário:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
@@ -20213,93 +20213,93 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>Caminhos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="289"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="296"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="768"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="338"/>
         <source>when checking/unchecking a module, its dependencies are checked/unchecked accordingly</source>
-        <translation type="unfinished">when checking/unchecking a module, its dependencies are checked/unchecked accordingly</translation>
+        <translation>ao marcar/desmarcar um módulo, suas dependências são marcadas/desmarcadas de acordo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="341"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>Módulos:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="403"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="412"/>
         <source>Hide modules to load at startup</source>
-        <translation type="unfinished">Hide modules to load at startup</translation>
+        <translation>Ocultar módulos para carregar na inicialização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="415"/>
         <source>To load</source>
-        <translation type="unfinished">To load</translation>
+        <translation>Para carregar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="434"/>
         <source>Hide modules to ignore at startup</source>
-        <translation type="unfinished">Hide modules to ignore at startup</translation>
+        <translation>Ocultar módulos para ignorar na inicialização</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="437"/>
         <source>To ignore</source>
-        <translation type="unfinished">To ignore</translation>
+        <translation>Para ignorar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="456"/>
         <source>Hide loaded modules</source>
-        <translation type="unfinished">Hide loaded modules</translation>
+        <translation>Ocultar módulos carregados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="459"/>
         <source>Loaded</source>
-        <translation type="unfinished">Loaded</translation>
+        <translation>Carregado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="509"/>
         <source>Hide ignored modules</source>
-        <translation type="unfinished">Hide ignored modules</translation>
+        <translation>Ocultar módulos ignorados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="512"/>
         <source>Ignored</source>
-        <translation type="unfinished">Ignored</translation>
+        <translation>Ignorado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="562"/>
         <source>Hide Failed to load modules</source>
-        <translation type="unfinished">Hide Failed to load modules</translation>
+        <translation>Esconder módulos falhados ao carregar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="565"/>
         <source>Failed</source>
-        <translation type="unfinished">Failed</translation>
+        <translation>Falhado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="632"/>
         <source>Default startup module:</source>
-        <translation type="unfinished">Default startup module:</translation>
+        <translation>Módulo de inicialização padrão:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="676"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</translation>
+        <translation>Adicione à lista arrastando os módulos da lista &quot;Módulos&quot; acima. Observação: os módulos sem ícones não aparecerão na barra de ferramentas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
@@ -20309,37 +20309,37 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list</source>
-        <translation type="unfinished">Add to the list by dragging modules from the above &quot;Modules&quot; list</translation>
+        <translation>Adicione à lista arrastando os módulos da lista &quot;Módulos&quot; acima</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="759"/>
         <source>Favorite</source>
-        <translation type="unfinished">Favorite</translation>
+        <translation>Favorito</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="765"/>
         <source>Remove selected module from favorites</source>
-        <translation type="unfinished">Remove selected module from favorites</translation>
+        <translation>Remova o módulo selecionado dos favoritos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="775"/>
         <source>Move to the left</source>
-        <translation type="unfinished">Move to the left</translation>
+        <translation>Mover para a esquerda</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="778"/>
         <source>Move Left</source>
-        <translation type="unfinished">Move Left</translation>
+        <translation>Mova para a esquerda</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="785"/>
         <source>Move to the right</source>
-        <translation type="unfinished">Move to the right</translation>
+        <translation>Mova para a direita</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="788"/>
         <source>Move Right</source>
-        <translation type="unfinished">Move Right</translation>
+        <translation>Mover para a direita</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="180"/>
@@ -20354,7 +20354,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsModulesPanel.cxx" line="322"/>
         <source>Select folder</source>
-        <translation type="unfinished">Select folder</translation>
+        <translation>Selecionar pasta</translation>
     </message>
 </context>
 <context>
@@ -20362,7 +20362,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="14"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
@@ -20378,13 +20378,13 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Display Python console in a window that can be placed inside the main window. If disabled then the Python Console is displayed as an independent window.</source>
         <oldsource>Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</oldsource>
-        <translation type="unfinished">Display Python interactor in a window that can be placed inside the main window. If disabled then the Python Interactor is displayed as an independent window.</translation>
+        <translation>Exibir o console Python em uma janela que pode ser colocada dentro da janela principal. Se desativado, o console Python é exibido como uma janela independente.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="49"/>
         <source>Font:</source>
         <oldsource>Shell font:</oldsource>
-        <translation type="unfinished">Shell font:</translation>
+        <translation>Fonte:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="63"/>
@@ -20407,17 +20407,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="14"/>
         <source>StyleSettings</source>
-        <translation type="unfinished">StyleSettings</translation>
+        <translation>StyleSettings</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="23"/>
         <source>Additional style paths:</source>
-        <translation type="unfinished">Additional style paths:</translation>
+        <translation>Caminhos de estilos adicionais:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="49"/>
         <source>Paths</source>
-        <translation type="unfinished">Paths</translation>
+        <translation>Caminhos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="55"/>
@@ -20428,18 +20428,18 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adicione um caminho de plug-in de estilo.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adicionar um caminho de plug-in de estilo tornará acessível esse plug-in de estilo (e, portanto, todos os seus estilos) ao aplicativo. Esta ação &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requer &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; para reiniciar o aplicativo.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="71"/>
@@ -20450,18 +20450,18 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remova o caminho do plug-in de estilo atualmente selecionado.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;A remoção de um caminho de plug-in de estilo tornará inacessível esse plug-in de estilo (e, portanto, todos os seus estilos) na próxima vez que o aplicativo for aberto. Esta ação &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requer &lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; reiniciar o aplicativo.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="103"/>
@@ -20470,16 +20470,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Show the interface to add/remove additional style paths.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Mostrar a interface para adicionar/remover caminhos de estilo adicionais.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="123"/>
         <source>Style</source>
-        <translation type="unfinished">Style</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="130"/>
@@ -20488,16 +20488,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Select the application current style.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Selecione o estilo atual da aplicação.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
         <source>Disable tooltips:</source>
-        <translation type="unfinished">Disable tooltips:</translation>
+        <translation>Desativar dicas de ferramentas:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="148"/>
@@ -20506,16 +20506,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set if tooltips (just like this) appear or not when the mouse hovers above widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Definir se as dicas das ferramentas (&apos;tooltips&apos;) aparecem ou não quando o mouse paira sobre os widgets.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="162"/>
         <source>Font and size:</source>
-        <translation type="unfinished">Font and size:</translation>
+        <translation>Fonte e tamanho:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="169"/>
@@ -20524,16 +20524,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Customize the application&apos;s font and size to your preference.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Personalize a fonte e o tamanho da aplicação de acordo com sua preferência.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
         <source>Show text under icons in toolbar buttons:</source>
-        <translation type="unfinished">Show text under icons in toolbar buttons:</translation>
+        <translation>Mostrar texto sob ícones nos botões da barra de ferramentas:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="187"/>
@@ -20542,16 +20542,16 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When disabled, only icons are seen in the main window toolbar. Otherwise the action&apos;s corresponding text is shown underneath.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Quando desativado, apenas ícones são vistos na barra de ferramentas da janela principal. Caso contrário, o texto correspondente à ação é mostrado embaixo.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="201"/>
         <source>Save user interface size and position on exit:</source>
-        <translation type="unfinished">Save user interface size and position on exit:</translation>
+        <translation>Salve o tamanho e a posição da interface do usuário ao sair:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="208"/>
@@ -20560,11 +20560,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;When enabled, the application size and position will be remembered for the next time the application is started.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Quando ativado, o tamanho e a posição da aplicação serão lembrados para a próxima vez que a aplicação for iniciada.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="102"/>
@@ -20579,7 +20579,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsStylesPanel.cxx" line="252"/>
         <source>Select a path containing a &quot;styles&quot; plugin directory</source>
-        <translation type="unfinished">Select a path containing a &quot;styles&quot; plugin directory</translation>
+        <translation>Selecione um caminho contendo um diretório de plug-in &quot;estilos&quot;</translation>
     </message>
 </context>
 <context>
@@ -20587,47 +20587,47 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
         <source>Organization role:</source>
-        <translation type="unfinished">Organization role:</translation>
+        <translation>Papel da organização:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="58"/>
         <source>Login:</source>
-        <translation type="unfinished">Login:</translation>
+        <translation>Login:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
         <source>Directory where scenes are saved to by default</source>
-        <translation type="unfinished">Directory where scenes are saved to by default</translation>
+        <translation>Diretório onde as cenas são salvas por padrão</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="78"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="95"/>
         <source>Procedure role:</source>
-        <translation type="unfinished">Procedure role:</translation>
+        <translation>Papel do procedimento:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="102"/>
         <source>Organization:</source>
-        <translation type="unfinished">Organization:</translation>
+        <translation>Organização:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="129"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished">Python script that is executed after the application is started</translation>
+        <translation>Script Python que é executado depois que o aplicativo é iniciado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="132"/>
         <source>Email:</source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="169"/>
@@ -20640,18 +20640,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
         <source>ViewsSettings</source>
-        <translation type="unfinished">ViewsSettings</translation>
+        <translation>ViewsSettings</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>
         <source>Slice viewer defaults</source>
-        <translation type="unfinished">Slice viewer defaults</translation>
+        <translation>Padrões do visualizador de fatias</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="50"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="166"/>
         <source>Orientation marker:</source>
-        <translation type="unfinished">Orientation marker:</translation>
+        <translation>Marcador de orientação:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="94"/>
@@ -20659,61 +20659,61 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="237"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="86"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="181"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="87"/>
         <source>cube</source>
-        <translation type="unfinished">cube</translation>
+        <translation>cubo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="186"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="88"/>
         <source>human</source>
-        <translation type="unfinished">human</translation>
+        <translation>humano</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="191"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="89"/>
         <source>axes</source>
-        <translation type="unfinished">axes</translation>
+        <translation>eixos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="66"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="203"/>
         <source>small</source>
-        <translation type="unfinished">small</translation>
+        <translation>pequeno</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="71"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
         <source>medium</source>
-        <translation type="unfinished">medium</translation>
+        <translation>médio</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="76"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="213"/>
         <source>large</source>
-        <translation type="unfinished">large</translation>
+        <translation>grande</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="86"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="223"/>
         <source>Ruler:</source>
-        <translation type="unfinished">Ruler:</translation>
+        <translation>Régua:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="99"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="242"/>
         <source>thin</source>
-        <translation type="unfinished">thin</translation>
+        <translation>fino</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="104"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="247"/>
         <source>thick</source>
-        <translation type="unfinished">thick</translation>
+        <translation>espesso</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="112"/>
@@ -20723,42 +20723,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="129"/>
         <source>3D viewer defaults</source>
-        <translation type="unfinished">3D viewer defaults</translation>
+        <translation>Padrões do visualizador 3D</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="138"/>
         <source>Show 3D cube:</source>
-        <translation type="unfinished">Show 3D cube:</translation>
+        <translation>Mostrar cubo 3D:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="152"/>
         <source>Show 3D axis label:</source>
-        <translation type="unfinished">Show 3D axis label:</translation>
+        <translation>Mostrar rótulo do eixo 3D:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="233"/>
         <source>Ruler is only displayed if orthographic projection mode is used.</source>
-        <translation type="unfinished">Ruler is only displayed if orthographic projection mode is used.</translation>
+        <translation>A régua só é exibida se o modo de projeção ortogonal for usado.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="255"/>
         <source>Use depth peeling:</source>
-        <translation type="unfinished">Use depth peeling:</translation>
+        <translation>Usar redução de profundidade:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="262"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-        <translation type="unfinished">Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</translation>
+        <translation>Habilitar redução de profundidade melhora a renderização de modelos transparentes ao custo de um custo computacional mais alto.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="272"/>
         <source>Use orthographic projection:</source>
-        <translation type="unfinished">Use orthographic projection:</translation>
+        <translation>Usar projeção ortogonal:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="287"/>
         <source>Multi-sampling (MSAA):</source>
-        <translation type="unfinished">Multi-sampling (MSAA):</translation>
+        <translation>Multiamostragem (MSAA):</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="300"/>
@@ -20767,11 +20767,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling para anti-aliasing de tela cheia.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
@@ -20796,12 +20796,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
         <source>patient right is screen left (default)</source>
-        <translation type="unfinished">direito do paciente é esquerdo da tela (padrão)</translation>
+        <translation>a direita do paciente é a esquerda da tela (padrão)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="111"/>
         <source>patient right is screen right</source>
-        <translation type="unfinished">direito do paciente é direito da tela</translation>
+        <translation>a direita do paciente é a direita da tela</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
@@ -20861,7 +20861,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="293"/>
         <source>Options:</source>
-        <translation type="unfinished">Options:</translation>
+        <translation>Opções:</translation>
     </message>
 </context>
 <context>
@@ -20884,7 +20884,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="491"/>
         <source>Create new patient and study for DICOM export?</source>
-        <translation type="unfinished">Create new patient and study for DICOM export?</translation>
+        <translation>Criar novo paciente e estudo para exportação DICOM?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="587"/>
@@ -20933,7 +20933,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchyModule.ui" line="14"/>
         <source>SubjectHierarchy</source>
-        <translation type="unfinished">SubjectHierarchy</translation>
+        <translation>SubjectHierarchy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="51"/>
@@ -20946,7 +20946,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacity</translation>
+        <translation>Opacidade</translation>
     </message>
 </context>
 <context>
@@ -20954,12 +20954,12 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation type="unfinished">Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</translation>
+        <translation>Selecione o volume como imagem em movimento para registro. O segundo volume pode ser selecionado no menu de contexto após o primeiro ter sido definido.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
-        <translation type="unfinished">Right-click another volume to select second volume and start registration</translation>
+        <translation>Clique com o botão direito do mouse em outro volume para selecionar o segundo volume e iniciar o alinhamento</translation>
     </message>
 </context>
 <context>
@@ -20967,29 +20967,29 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="290"/>
         <source>Failed to import data to segmentation</source>
-        <translation type="unfinished">Failed to import data to segmentation</translation>
+        <translation>Falha ao importar dados para segmentação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Falha na conversão</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1004"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished">Failed to export segmentation to labelmap node</translation>
+        <translation>Falha na exportação de segmentos para mapa de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1043"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
         <source>Failed to export segments</source>
-        <translation type="unfinished">Failed to export segments</translation>
+        <translation>Falha ao exportar segmentos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1068"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1332"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished">Failed to export segmentation to models</translation>
+        <translation>Falha ao exportar segmentação para modelos</translation>
     </message>
 </context>
 <context>
@@ -20998,12 +20998,12 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="211"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="224"/>
         <source>Failed to move segment between segmentations</source>
-        <translation type="unfinished">Failed to move segment between segmentations</translation>
+        <translation>Falha ao mover o segmento entre as segmentações</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="235"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Falha na conversão</translation>
     </message>
 </context>
 <context>
@@ -21011,58 +21011,58 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
         <source>SubjectHierarchySettingsPanel</source>
-        <translation type="unfinished">SubjectHierarchySettingsPanel</translation>
+        <translation>SubjectHierarchySettingsPanel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
         <source>Operation</source>
-        <translation type="unfinished">Operation</translation>
+        <translation>Operação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="29"/>
         <source>Delete whole branch under the deleted item from subject hierarchy.</source>
-        <translation type="unfinished">Delete whole branch under the deleted item from subject hierarchy.</translation>
+        <translation>Exclua a ramificação inteira sob o item excluído da hierarquia de objeto.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="32"/>
         <source>Automatically delete subject hierarchy children:</source>
-        <translation type="unfinished">Automatically delete subject hierarchy children:</translation>
+        <translation>Excluir automaticamente os filhos na hierarquia de objeto:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="39"/>
         <source>Automatically delete subject hierarchy children for nodes removed from the scene.</source>
-        <translation type="unfinished">Automatically delete subject hierarchy children for nodes removed from the scene.</translation>
+        <translation>Exclua automaticamente filhos da hierarquia de objetos para nós removidos da cena.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="67"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="94"/>
         <source>  ID:</source>
-        <translation type="unfinished">  ID:</translation>
+        <translation>  ID:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
         <source>Patient tags in item name:</source>
-        <translation type="unfinished">Patient tags in item name:</translation>
+        <translation>Etiquetas do paciente no nome do item:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
         <source>Study tags in item name:</source>
-        <translation type="unfinished">Study tags in item name:</translation>
+        <translation>Etiquetas de estudo no nome do item:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="135"/>
         <source>  Study date:</source>
-        <translation type="unfinished">  Study date:</translation>
+        <translation>  Data de estudo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="148"/>
         <source>  Birth date:</source>
-        <translation type="unfinished">  Birth date:</translation>
+        <translation>  Data de nascimento:</translation>
     </message>
 </context>
 <context>
@@ -21070,16 +21070,16 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="177"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+        <translation>Alguns nós da ramificação já estão transformados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+        <translation>Deseja endurecer todas as transformações já aplicadas antes de definir a nova?
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+Nota: Se você escolher não, a transformação aplicada será simplesmente substituída.</translation>
     </message>
 </context>
 <context>
@@ -21087,93 +21087,93 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="145"/>
         <source>Center view</source>
-        <translation type="unfinished">Center view</translation>
+        <translation>Vista central</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="147"/>
         <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
-        <translation type="unfinished">Center the slice on the currently visible 3D view content and all loaded volumes.</translation>
+        <translation>Centralize a fatia no conteúdo da visualização 3D atualmente visível e em todos os volumes carregados.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="153"/>
         <source>Reset field of view</source>
-        <translation type="unfinished">Reset field of view</translation>
+        <translation>Redefinir campo de visão</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="155"/>
         <source>Center the slice view on the currently displayed volume.</source>
-        <translation type="unfinished">Center the slice view on the currently displayed volume.</translation>
+        <translation>Centralize a exibição da fatia no volume exibido no momento.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="162"/>
         <source>Show this view maximized in the view layout</source>
-        <translation type="unfinished">Show this view maximized in the view layout</translation>
+        <translation>Mostrar esta exibição maximizada no layout de exibição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="167"/>
         <source>Tilt lock</source>
-        <translation type="unfinished">Tilt lock</translation>
+        <translation>Bloqueio de inclinação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="169"/>
         <source>Prevent rotation around the horizontal axis when rotating this view.</source>
-        <translation type="unfinished">Prevent rotation around the horizontal axis when rotating this view.</translation>
+        <translation>Evite a rotação em torno do eixo horizontal ao girar esta exibição.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="171"/>
         <source>Ctrl+b</source>
-        <translation type="unfinished">Ctrl+b</translation>
+        <translation>Ctrl+b</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="177"/>
         <source>Configure slice view annotations...</source>
-        <translation type="unfinished">Configure slice view annotations...</translation>
+        <translation>Configurar anotações de exibição de fatia...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="179"/>
         <source>Configures display of corner annotations and color legend.</source>
-        <translation type="unfinished">Configures display of corner annotations and color legend.</translation>
+        <translation>Configura a exibição de anotações de canto e legenda de cores.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="185"/>
         <source>Copy image</source>
-        <translation type="unfinished">Copy image</translation>
+        <translation>Copiar imagem</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="187"/>
         <source>Copy a screenshot of this view to the clipboard</source>
-        <translation type="unfinished">Copy a screenshot of this view to the clipboard</translation>
+        <translation>Copie uma captura de tela desta visualização para a área de transferência</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="193"/>
         <source>Slice intersections</source>
-        <translation type="unfinished">Slice intersections</translation>
+        <translation>Intersecções de fatia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="195"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Mostra como os outros planos de fatia interseccionam cada plano de fatia.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="204"/>
         <source>Interaction</source>
-        <translation type="unfinished">Interaction</translation>
+        <translation>Interação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="206"/>
         <source>Show handles for slice interaction.</source>
-        <translation type="unfinished">Show handles for slice interaction.</translation>
+        <translation>Mostra os manipuladores para interação com a fatia.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="313"/>
         <source>Restore view layout</source>
-        <translation type="unfinished">Restore view layout</translation>
+        <translation>Restaurar layout de exibição</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="160"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="317"/>
         <source>Maximize view</source>
-        <translation type="unfinished">Maximize view</translation>
+        <translation>Maximizar visualização</translation>
     </message>
 </context>
 <context>
@@ -21181,7 +21181,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation type="unfinished">Switch to Volume Rendering module to manage display options</translation>
+        <translation>Mude para o módulo Volume Rendering para gerenciar as opções de exibição</translation>
     </message>
 </context>
 <context>
@@ -21219,22 +21219,22 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="187"/>
         <source>Default preset for the selected volume</source>
-        <translation type="unfinished">Default preset for the selected volume</translation>
+        <translation>Predefinição padrão para o volume selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="195"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="197"/>
         <source>Display the full intensity range of the volume.</source>
-        <translation type="unfinished">Display the full intensity range of the volume.</translation>
+        <translation>Exibir a faixa completa de intensidade do volume.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="365"/>
         <source>Default (WW=%1, WL=%2)</source>
-        <translation type="unfinished">Default (WW=%1, WL=%2)</translation>
+        <translation>Padrão (WW=%1, WL=%2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="467"/>
@@ -21249,12 +21249,12 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>Dimensões:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>Espaçamento:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="493"/>
@@ -21267,12 +21267,12 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Foo bar</translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Foo Bar</translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -21297,7 +21297,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
 </context>
 <context>
@@ -21305,183 +21305,183 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished">Place markups</translation>
+        <translation>Colocar marcações</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="41"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
         <source>Data type:</source>
-        <translation type="unfinished">Data type:</translation>
+        <translation>Tipo de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
         <source>string</source>
-        <translation type="unfinished">string</translation>
+        <translation>string</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="73"/>
         <source>double</source>
-        <translation type="unfinished">double</translation>
+        <translation>double</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="78"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="83"/>
         <source>bit</source>
-        <translation type="unfinished">bit</translation>
+        <translation>bit</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
         <source>char</source>
-        <translation type="unfinished">char</translation>
+        <translation>char</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="98"/>
         <source>signed char</source>
-        <translation type="unfinished">signed char</translation>
+        <translation>signed char</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="103"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="108"/>
         <source>long</source>
-        <translation type="unfinished">long</translation>
+        <translation>long</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
         <source>long long</source>
-        <translation type="unfinished">long long</translation>
+        <translation>long long</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
         <source>__int64</source>
-        <translation type="unfinished">__int64</translation>
+        <translation>__int64</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="123"/>
         <source>idtype</source>
-        <translation type="unfinished">idtype</translation>
+        <translation>idtype</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="128"/>
         <source>unsigned char</source>
-        <translation type="unfinished">unsigned char</translation>
+        <translation>unsigned char</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="133"/>
         <source>unsigned short</source>
-        <translation type="unfinished">unsigned short</translation>
+        <translation>unsigned short</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
         <source>unsigned int</source>
-        <translation type="unfinished">unsigned int</translation>
+        <translation>unsigned int</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="143"/>
         <source>unsigned long</source>
-        <translation type="unfinished">unsigned long</translation>
+        <translation>unsigned long</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="148"/>
         <source>unsigned long long</source>
-        <translation type="unfinished">unsigned long long</translation>
+        <translation>unsigned long long</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="153"/>
         <source>unsigned __int64</source>
-        <translation type="unfinished">unsigned __int64</translation>
+        <translation>unsigned __int64</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="161"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>Converter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="168"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="177"/>
         <source>Null value:</source>
-        <translation type="unfinished">Null value:</translation>
+        <translation>Valor nulo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Long name:</source>
-        <translation type="unfinished">Long name:</translation>
+        <translation>Nome longo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>Descrição:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="207"/>
         <source>Unit label:</source>
-        <translation type="unfinished">Unit label:</translation>
+        <translation>Rótulo de unidade:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="217"/>
         <source>Component count:</source>
-        <translation type="unfinished">Component count:</translation>
+        <translation>Contagem de componentes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="238"/>
         <source>Component names:</source>
-        <translation type="unfinished">Component names:</translation>
+        <translation>Nomes de componentes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="248"/>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="251"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished">Place multiple control points</translation>
+        <translation>Colocar múltiplos pontos de controle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="260"/>
         <source>Delete all control points</source>
-        <translation type="unfinished">Delete all control points</translation>
+        <translation>Excluir todos os pontos de controle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="263"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished">Delete all control points in the list</translation>
+        <translation>Excluir todos os pontos de controle da lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="273"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>Visibilidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="276"/>
         <source>Toggle control point visibility</source>
-        <translation type="unfinished">Toggle control point visibility</translation>
+        <translation>Alternar a visibilidade do ponto de controle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="286"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>Bloqueado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="289"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished">Toggle control point positions lock</translation>
+        <translation>Alternar o bloqueio das posições do ponto de controle</translation>
     </message>
 </context>
 <context>
@@ -21489,7 +21489,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="47"/>
         <source>Tables</source>
-        <translation type="unfinished">Tables</translation>
+        <translation>Tabelas</translation>
     </message>
 </context>
 <context>
@@ -21497,23 +21497,23 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="20"/>
         <source>Tables</source>
-        <translation type="unfinished">Tables</translation>
+        <translation>Tabelas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
         <source>Allow table editing</source>
-        <translation type="unfinished">Allow table editing</translation>
+        <translation>Permitir edição de tabela</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="99"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="113"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="119"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="116"/>
@@ -21525,63 +21525,63 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="282"/>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="296"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="127"/>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="126"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="174"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table. The First (from left to right) Column will be used as X-Axis and each additional Column will be plotted in the same Chart as Y-Axis.</translation>
+        <translation>Gere um gráfico interativo com base na seleção do usuário das colunas da tabela. A primeira coluna (da esquerda para a direita) será usada como eixo X e cada coluna adicional será plotada no mesmo gráfico do eixo Y.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="204"/>
         <source>Add column</source>
-        <translation type="unfinished">Add column</translation>
+        <translation>Adicionar coluna</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="218"/>
         <source>Delete column</source>
-        <translation type="unfinished">Delete column</translation>
+        <translation>Excluir coluna</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="232"/>
         <source>Lock first column</source>
-        <translation type="unfinished">Lock first column</translation>
+        <translation>Bloquear primeira coluna</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="265"/>
         <source>Add row</source>
-        <translation type="unfinished">Add row</translation>
+        <translation>Adicionar linha</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="279"/>
         <source>Delete row</source>
-        <translation type="unfinished">Delete row</translation>
+        <translation>Excluir linha</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="293"/>
         <source>Lock first row</source>
-        <translation type="unfinished">Lock first row</translation>
+        <translation>Bloquear primeira linha</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="334"/>
         <source>Column properties</source>
-        <translation type="unfinished">Column properties</translation>
+        <translation>Propriedades da coluna</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="349"/>
         <source>New column defaults</source>
-        <translation type="unfinished">New column defaults</translation>
+        <translation>Novos padrões de coluna</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="133"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+        <translation>Gere um gráfico interativo com base na seleção do usuário das colunas da tabela.</translation>
     </message>
 </context>
 <context>
@@ -21594,12 +21594,12 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="149"/>
         <source>QInputDialog::getText()</source>
-        <translation type="unfinished">QInputDialog::getText()</translation>
+        <translation>QInputDialog::getText()</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="150"/>
         <source>Database Password:</source>
-        <translation type="unfinished">Database Password:</translation>
+        <translation>Senha do banco de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="182"/>
@@ -21612,12 +21612,12 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Foo bar</translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Foo Bar</translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
@@ -21643,7 +21643,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
 </context>
 <context>
@@ -21652,7 +21652,7 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
         <location filename="Modules/Loadable/Terminologies/Resources/UI/qSlicerTerminologiesModule.ui" line="14"/>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="47"/>
         <source>Terminologies</source>
-        <translation type="unfinished">Terminologies</translation>
+        <translation>Terminologias</translation>
     </message>
 </context>
 <context>
@@ -21660,71 +21660,71 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="14"/>
         <source>qSlicerTerminologyNavigatorWidget</source>
-        <translation type="unfinished">qSlicerTerminologyNavigatorWidget</translation>
+        <translation>qSlicerTerminologyNavigatorWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="117"/>
         <source>Property type...</source>
-        <translation type="unfinished">Property type...</translation>
+        <translation>Tipo de propriedade...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
         <source>Select type modifier...</source>
-        <translation type="unfinished">Select type modifier...</translation>
+        <translation>Select type modifier...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
         <source>Select anatomic region context...</source>
-        <translation type="unfinished">Select anatomic region context...</translation>
+        <translation>Selecione o contexto da região anatômica...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="201"/>
         <source>Anatomic region...</source>
-        <translation type="unfinished">Anatomic region...</translation>
+        <translation>Região anatômica...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="243"/>
         <source>Select anatomic region modifier...</source>
-        <translation type="unfinished">Select anatomic region modifier...</translation>
+        <translation>Selecione o modificador anatômico de região...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
         <source>Select terminology...</source>
-        <translation type="unfinished">Select terminology...</translation>
+        <translation>Selecione a terminologia...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="337"/>
         <source>Category...</source>
-        <translation type="unfinished">Category...</translation>
+        <translation>Categoria...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="400"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>Cor:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1345"/>
         <source>No type modifier</source>
-        <translation type="unfinished">No type modifier</translation>
+        <translation>Nenhum modificador de tipo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1991"/>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
-        <translation type="unfinished">There is a file with name &apos;%1&apos; in the stored contexts.
+        <translation>Há um arquivo com o nome &apos;%1&apos; nos contextos armazenados.
 
-Do you wish to update the stored context file with the just loaded one?</translation>
+Deseja atualizar o arquivo de contexto armazenado com o recém-carregado?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1994"/>
         <source>Context file exists</source>
-        <translation type="unfinished">Context file exists</translation>
+        <translation>O arquivo de contexto existe</translation>
     </message>
 </context>
 <context>
@@ -21732,7 +21732,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.h" line="55"/>
         <source>Texts</source>
-        <translation type="unfinished">Texts</translation>
+        <translation>Textos</translation>
     </message>
 </context>
 <context>
@@ -21740,37 +21740,37 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="20"/>
         <source>Texts</source>
-        <translation type="unfinished">Texts</translation>
+        <translation>Textos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="44"/>
         <source>Text node:</source>
-        <translation type="unfinished">Text node:</translation>
+        <translation>Nó de texto:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="74"/>
         <source>Contents</source>
-        <translation type="unfinished">Contents</translation>
+        <translation>Conteúdo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="90"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="99"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If checked, the text node is immediately updated as the contents are edited. If unchecked, text node is updated only when &amp;quot;Save&amp;quot; is clicked.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Se marcado, o nó de texto é atualizado imediatamente à medida que o conteúdo é editado. Se desmarcado, o nó de texto é atualizado somente quando &amp;quot;Salvar&amp;quot; é clicado.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
         <source>Auto-save edits to the text node</source>
-        <translation type="unfinished">Auto-save edits to the text node</translation>
+        <translation>Salvar automaticamente as edições no nó de texto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="109"/>
         <source>Enable word wrapping</source>
-        <translation type="unfinished">Enable word wrapping</translation>
+        <translation>Ativar quebra de linha</translation>
     </message>
 </context>
 <context>
@@ -21778,7 +21778,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transforms</translation>
+        <translation>Transformações</translation>
     </message>
 </context>
 <context>
@@ -21786,137 +21786,137 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transforms</translation>
+        <translation>Transformações</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
         <source>Active Transform:</source>
-        <translation type="unfinished">Active Transform:</translation>
+        <translation>Transformação Ativa:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="92"/>
         <source>Edit</source>
-        <translation type="unfinished">Edit</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>Matriz de Transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="163"/>
         <source>Rotation</source>
-        <translation type="unfinished">Rotation</translation>
+        <translation>Rotação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="184"/>
         <source>Identity</source>
-        <translation type="unfinished">Identity</translation>
+        <translation>Identidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="194"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Inverter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="204"/>
         <source>Split a composite transform to its components</source>
-        <translation type="unfinished">Split a composite transform to its components</translation>
+        <translation>Dividir uma transformação composta em seus componentes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
         <source>Split</source>
-        <translation type="unfinished">Split</translation>
+        <translation>Dividir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
         <source>Translation in global or local (rotated) reference frame</source>
-        <translation type="unfinished">Translation in global or local (rotated) reference frame</translation>
+        <translation>Translação em quadro de referência global ou local (rotacionado)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="254"/>
         <source>Copy transform</source>
-        <translation type="unfinished">Copy transform</translation>
+        <translation>Copiar transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="264"/>
         <source>Paste transform</source>
-        <translation type="unfinished">Paste transform</translation>
+        <translation>Colar transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="309"/>
         <source>Apply transform</source>
-        <translation type="unfinished">Apply transform</translation>
+        <translation>Aplicar transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
         <source>Transformable:</source>
-        <translation type="unfinished">Transformable:</translation>
+        <translation>Transformável:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
         <source>Apply the active transform to the selected transformable nodes</source>
-        <translation type="unfinished">Apply the active transform to the selected transformable nodes</translation>
+        <translation>Aplique a transformação ativa aos nós transformáveis selecionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
         <source>Remove the active transform from the selected transformed nodes</source>
-        <translation type="unfinished">Remove the active transform from the selected transformed nodes</translation>
+        <translation>Remover a transformação ativa dos nós transformados selecionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation>Endurecer transformação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
         <source>Transformed:</source>
-        <translation type="unfinished">Transformed:</translation>
+        <translation>Transformado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>Converter</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="454"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation>Volume de referência:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation type="unfinished">Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</translation>
+        <translation>Volume que define origem, espaçamento e direções de eixo do campo de deslocamento exportado. Se o volume de referência estiver sob uma transformação não linear, a geometria não transformada será usada como referência.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
         <source>Output displacement field:</source>
-        <translation type="unfinished">Output displacement field:</translation>
+        <translation>Campo de deslocamento de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
@@ -22274,7 +22274,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="75"/>
         <source>Volume Rendering</source>
-        <translation type="unfinished">Renderização da imagem</translation>
+        <translation>Renderização de Volume</translation>
     </message>
 </context>
 <context>
@@ -22297,7 +22297,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="115"/>
         <source>ROI:</source>
-        <translation type="unfinished">ROI:</translation>
+        <translation>ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="137"/>
@@ -22312,7 +22312,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="172"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="199"/>
@@ -22372,7 +22372,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="359"/>
         <source> fps</source>
-        <translation type="unfinished"> fps</translation>
+        <translation> fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="366"/>
@@ -22412,7 +22412,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="487"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
 </context>
 <context>
@@ -22441,7 +22441,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="73"/>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -22479,7 +22479,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="61"/>
         <source>Quality control method to def</source>
-        <translation type="unfinished">Quality control method to def</translation>
+        <translation>Método de controle de qualidade para def</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="68"/>
@@ -22489,7 +22489,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="87"/>
         <source> fps</source>
-        <translation type="unfinished"> fps</translation>
+        <translation> fps</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="94"/>
@@ -22509,7 +22509,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="118"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation type="unfinished">Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</translation>
+        <translation>Descarregue volumes imediatamente da memória gráfica quando não estiverem visíveis. Reduz o uso de memória, mas torna a visibilidade do volume de alternância mais lenta.</translation>
     </message>
 </context>
 <context>
@@ -22580,7 +22580,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="68"/>
         <source>Volumes</source>
-        <translation type="unfinished">Volumes</translation>
+        <translation>Volumes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="74"/>
@@ -22598,7 +22598,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
-        <translation type="unfinished">Volumes</translation>
+        <translation>Volumes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
@@ -22628,7 +22628,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
@@ -22835,7 +22835,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
         <source>Feedback</source>
-        <translation type="unfinished">Feedback</translation>
+        <translation>Opinião</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="220"/>
