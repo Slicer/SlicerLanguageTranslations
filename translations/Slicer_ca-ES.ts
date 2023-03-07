@@ -6,12 +6,12 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation>Transformació CACP</translation>
+        <translation>Transformada CACP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o CACP) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia CACP s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformació resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
+        <translation>&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o CACP) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia CACP s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformada resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
@@ -52,7 +52,7 @@
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
         <source>Output transform</source>
-        <translation>Transformació de sortida</translation>
+        <translation>Transformada de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
@@ -67,12 +67,12 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
         <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation>Si aquesta opció està habilitada, la transformació de sortida traduirà el punt CA a l&apos;origen. Si aquesta opció està desactivada, es conservarà la posició del volum i la transformació només canviarà l&apos;orientació.</translation>
+        <translation>Si aquesta opció està habilitada, la transformada de sortida traduirà el punt CA a l&apos;origen. Si aquesta opció està desactivada, es conservarà la posició del volum i la transformada només canviarà l&apos;orientació.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
         <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation>Transformació que mou el volum al sistema de coordenades CACP estàndard.</translation>
+        <translation>Transformada que mou el volum al sistema de coordenades CACP estàndard.</translation>
     </message>
 </context>
 <context>
@@ -246,7 +246,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished">Fitxer de referència d&apos;entrada amb punts LE i RE definits en ubicacions físiques</translation>
+        <translation>Fitxer de referència d&apos;entrada amb punts LE i RE definits en ubicacions físiques</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
@@ -463,12 +463,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation>Transformació lineal Slicer</translation>
+        <translation>Transformada lineal Slicer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation>Transformació BSpline Slicer</translation>
+        <translation>Transformada BSpline Slicer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
@@ -478,7 +478,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation>(opcional) Transformació estimada de sortida: en cas que la transformació calculada no sigui BSpline. NOTA: Has de configurar com a mínim un objecte de sortida (volum de transformació i/o sortida).</translation>
+        <translation>(opcional) Transformada estimada de sortida: en cas que la transformada calculada no sigui BSpline. NOTA: Has de configurar com a mínim un objecte de sortida (volum de transformada i/o sortida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
@@ -493,32 +493,32 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation>Configuració d&apos;inicialització de transformacions</translation>
+        <translation>Configuració d&apos;inicialització de transformades</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation>Opcions per a inicialitzar els paràmetres de transformació.</translation>
+        <translation>Opcions per a inicialitzar els paràmetres de transformades.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation>Transformació d&apos;inicialització</translation>
+        <translation>Transformada d&apos;inicialització</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation>Mode iniciar transformació</translation>
+        <translation>Mode iniciar transformada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation>Transformació que s&apos;ha d&apos;aplicar a la imatge en moviment per a inicialitzar el registre.  Això només es pot utilitzar si el mode iniciar transformació està en OFF.</translation>
+        <translation>Transformada que s&apos;ha d&apos;aplicar a la imatge en moviment per a inicialitzar el registre.  Això només es pot utilitzar si el mode iniciar transformada està en OFF.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation>Determina com inicialitzar el centre de transformació.  useMomentsAlign assumeix que el centre de massa de les imatges representen estructures similars.  useCenterOfHeadAlign intenta utilitzar la part superior del cap i la forma del coll per conduir un centre d&apos;estimació de massa. useGeometryAlign on assumeix que el centre de la xarxa voxel de les imatges representen estructures similars.  Off suposa que l&apos;espai físic de les imatges és proper.  Aquest indicador és mútuament excloent amb la transformació d&apos;inicialització.</translation>
+        <translation>Determina com inicialitzar el centre de transformada.  useMomentsAlign assumeix que el centre de massa de les imatges representen estructures similars.  useCenterOfHeadAlign intenta utilitzar la part superior del cap i la forma del coll per conduir un centre d&apos;estimació de massa. useGeometryAlign on assumeix que el centre de la xarxa voxel de les imatges representen estructures similars.  Off suposa que l&apos;espai físic de les imatges és proper.  Aquest indicador és mútuament excloent amb la transformada d&apos;inicialització.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -1074,7 +1074,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation>Si el mode iniciar transformació s&apos;estableix a useCenterOfHeadAlign o l&apos;opció d&apos;emmascarament és AUTORDI, aquest valor defineix la quantitat que es retalla de la part inferior de la imatge. La distància de tall s&apos;especifica en mil·límetres, en relació al centre de la imatge. Si el valor és 1.000 o més, no es realitza cap tall.</translation>
+        <translation>Si el mode iniciar transformada s&apos;estableix a useCenterOfHeadAlign o l&apos;opció d&apos;emmascarament és AUTORDI, aquest valor defineix la quantitat que es retalla de la part inferior de la imatge. La distància de tall s&apos;especifica en mil·límetres, en relació al centre de la imatge. Si el valor és 1.000 o més, no es realitza cap tall.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
@@ -1110,12 +1110,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation>Si aquest indicador està en ON, la transformada composta genèrica actual, resultant de les etapes de registre lineal, s&apos;estableix per a inicialitzar el procés de registre no lineal següent. Tanmateix, per defecte, la imatge en moviment es deforma primer en funció de la transformació existent abans de passar al filtre de registre BSpline. Es fa per accelerar el registre de BSpline reduint els càlculs de la transformada composta jacobiana.</translation>
+        <translation>Si aquest indicador està en ON, la transformada composta genèrica actual, resultant de les etapes de registre lineal, s&apos;estableix per a inicialitzar el procés de registre no lineal següent. Tanmateix, per defecte, la imatge en moviment es deforma primer en funció de la transformada existent abans de passar al filtre de registre BSpline. Es fa per accelerar el registre de BSpline reduint els càlculs de la transformada composta jacobiana.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation>Per defecte, les transformacions de registre de sortida (ja sigui la transformada composta de sortida o cada component de transformació) s&apos;escriuen al disc amb doble precisió. Si aquesta bandera està ON, les transformacions de sortida s&apos;escriuran en precisió única (flotador). És especialment important si la transformada de sortida és una transformada de camp de desplaçament, o és una transformada composta que inclou diversos camps de desplaçament.</translation>
+        <translation>Per defecte, les transformades de registre de sortida (ja sigui la transformada composta de sortida o cada component de transformada) s&apos;escriuen al disc amb doble precisió. Si aquesta bandera està ON, les transformades de sortida s&apos;escriuran en precisió única (flotador). És especialment important si la transformada de sortida és una transformada de camp de desplaçament, o és una transformada composta que inclou diversos camps de desplaçament.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
@@ -1204,7 +1204,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation>Des de itkLBFGSBOptimizer.h: estableix/obté la ProjectedGradientTolerance. L&apos;algoritme acaba quan el gradient del projecte està per sota de la tolerància. El valor per defecte de lbfgsb és 1e-5, però 1e-4 sembla que funciona bé.
+        <translation>Des de itkLBFGSBOptimizer.h: estableix/obté la ProjectedGradientTolerance. L&apos;algoritme acaba quan el degradat del projecte està per sota de la tolerància. El valor per defecte de lbfgsb és 1e-5, però 1e-4 sembla que funciona bé.
       </translation>
     </message>
     <message>
@@ -1566,7 +1566,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation>Calcular la transformada inversa d&apos;una transformada donada?</translation>
+        <translation>Calcular la transformada inversa d&apos;una transformació donada?</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
@@ -1581,7 +1581,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation>Nom del fitxer de la transformació BRAINSFit (ITKv3 o anterior) o del fitxer de transformació compost (ITKv4)</translation>
+        <translation>Nom del fitxer de la transformada BRAINSFit (ITKv3 o anterior) o del fitxer de transformada compost (ITKv4)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
@@ -1816,7 +1816,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation>Llegeix una imatge, escriu la mateixa imatge amb la matriu de rotació d&apos;identitat més un fitxer de transformació ITK</translation>
+        <translation>Llegeix una imatge, escriu la mateixa imatge amb la matriu de rotació d&apos;identitat més un fitxer de transformada ITK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
@@ -1860,7 +1860,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
         <source>Convert ITK transforms to higher order transforms</source>
-        <translation>Converteix les transformacions ITK en transformacions d&apos;ordre superior</translation>
+        <translation>Converteix les transformades ITK en transformades d&apos;ordre superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
@@ -1902,7 +1902,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation>El tipus de transformada objectiu. Ha de ser compatible amb la conversió amb el tipus de transformada d&apos;entrada</translation>
+        <translation>El tipus de transformació objectiu. Ha de ser compatible amb la conversió amb el tipus de transformada d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
@@ -2760,7 +2760,11 @@ Permet emetre el mateix tipus que el volum d&apos;entrada.</translation>
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Realitza una difusió anisotròpica sobre una imatge utilitzant una equació de difusió de curvatura modificada (MCDE).
+
+MCDE no exhibeix les propietats de millora de la vora de la difusió anisotròpica clàssica, que en determinades condicions pot patir una difusió &quot;negativa&quot;, que millora el contrast de les vores.  Les equacions de la forma de MCDE sempre experimenten difusió positiva, amb el terme conductància només variant la força d&apos;aquesta difusió. 
+
+Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal.  És menys sensible al contrast que la difusió clàssica de l&apos;estil Perona-Malik, i conserva estructures detallades més fines en les imatges.  Hi ha una compensació de velocitat potencial per utilitzar aquesta funció en lloc de degradat difusió anisotròpica.  Cada iteració de la solució triga aproximadament el doble de temps.  No obstant això, es poden requerir menys iteracions per arribar a una solució acceptable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -2959,7 +2963,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
         <source>4D NIfTI file containing gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer NIfTI 4D que conté volums de degradats</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
@@ -3024,7 +3028,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriu un fitxer de degradats de protocol</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
@@ -3034,7 +3038,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"/>
         <source>Use BMatrix Gradient Directions</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitza les indicacions del degradat de BMatrix</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
@@ -3044,7 +3048,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
         <source>Small Gradient Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Llindar de degradat petit</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
@@ -3059,17 +3063,17 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation>Escriu els gradients de protocol a un fitxer sufixat per «.txt» tal com es van especificar al procol multiplicant cada direcció del gradient de difusió pel fotograma de mesura.  Aquest fitxer només té finalitats de depuració, el format no està arreglat i probablement canviarà a mesura que sigui necessària la depuració de nous formats de dicom.</translation>
+        <translation>Escriu els degradats de protocol a un fitxer sufixat per «.txt» tal com es van especificar al procol multiplicant cada direcció del degradat de difusió pel fotograma de mesura.  Aquest fitxer només té finalitats de depuració, el format no està arreglat i probablement canviarà a mesura que sigui necessària la depuració de nous formats de dicom.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
         <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
-        <translation>Ajusteu tots els gradients de manera que el fotograma de mesura sigui una matriu d&apos;identitat.</translation>
+        <translation>Ajusteu tots els degradats de manera que el fotograma de mesura sigui una matriu d&apos;identitat.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omple la capçalera nhdr amb les direccions de degradat i els valors b calculats fora del BMatrix. Només canvia el comportament de les dades de Siemens.  En alguns casos els degradats públics estàndard no es calculen adequadament.  Els degradats es poden calcular empíricament a partir dels camps privats de BMatrix.  En alguns casos el BMatrix privat és coherent amb els degradats públics, però no en tots els casos, quan existeix BMatrix sol ser més robust.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
@@ -3079,7 +3083,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si una magnitud de degradat és superior a 0 i inferior a la petitaGradientThreshold, llavors DWIConvert mostrarà un missatge d&apos;error i sortirà, tret que s&apos;estableixi l&apos;opció useBMatrixGradientDirections.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
@@ -3099,7 +3103,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
         <source>Gradient Vector File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer vectorial degradat</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
@@ -3109,12 +3113,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
         <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLET: Utilitza --inputBVector --inputBValue files Fitxer de text que dóna vectors de degradat</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLET: No hi ha suport ni proves.  Sortida d&apos;un fitxer NRRD, però sense degradats</translation>
     </message>
 </context>
 <context>
@@ -3157,12 +3161,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
         <source>An integer without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Un enter sense restriccions</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"/>
         <source>A double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Un doble amb restriccions</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
@@ -3401,7 +3405,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
         <source>Input transform nonlinear</source>
-        <translation>Transformació d&apos;entrada no lineal</translation>
+        <translation>Transformada d&apos;entrada no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
@@ -3411,7 +3415,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished">Transformació de sortida</translation>
+        <translation>Transformada de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
@@ -4005,44 +4009,46 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"/>
         <source>Gradient Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient de difusió anisotròpica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"/>
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Executa la difusió anisotròpica degradada en un volum.
+
+Els mètodes de difusió anisotròpica redueixen el soroll (o els detalls no desitjats) de les imatges alhora que conserven característiques específiques de la imatge, com ara vores.  Per a moltes aplicacions, hi ha un supòsit que les transicions clar-fosc (vores) són interessants.  Els mètodes estàndard de difusió isòtropa es mouen i difuminen els límits clar-fosc.  Els mètodes de difusió anisotròpica es formulen per preservar específicament les vores. El terme de conductància per a aquesta implementació és una funció de la magnitud del degradat de la imatge en cada punt, reduint la força de difusió a les vores. La implementació numèrica d&apos;aquesta equació és similar a la descrita en l&apos;article Perona-Malik, però utilitza una tècnica més robusta per a l&apos;estimació de magnituds de degradat i s&apos;ha generalitzat a N-dimensions.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest mòdul d&apos;ordres es va derivar de Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de difusió anisotròpica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres per a l&apos;algorisme de difusió anisotròpica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>Conductància</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Iteracions</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de temps</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
@@ -4052,12 +4058,12 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Com més iteracions, més suavitzant. Cada iteració triga la mateixa quantitat de temps. Si es triga 10 segons a fer una iteració, trigarà 100 segons a fer 10 iteracions. Tingues en compte que la conductància controla quant suavitza cada iteració a través de les vores.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>El pas de temps depèn de la dimensionalitat de la imatge. A Slicer les imatges són 3D i el pas de temps predeterminat (0,0625) proporcionarà una solució estable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
@@ -4097,17 +4103,17 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres avançats per a l&apos;algorisme de difusió anisotròpica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitza l&apos;espaiat d&apos;imatges</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation type="unfinished"></translation>
+        <translation>! [CDATA[Tenir en compte l&apos;espaiat d&apos;imatges en el càlcul.  És recomanable activar aquesta opció, sobretot quan la mida del píxel és diferent en diferents dimensions. Tanmateix, per a produir resultats coherents amb Slicer4.2 i anteriors, aquesta opció s&apos;ha de desactivar.]]</translation>
     </message>
 </context>
 <context>
@@ -5969,7 +5975,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation>Transformació d&apos;entrada que s&apos;utilitza per a deformar la imatge en moviment abans de la comparació mètrica.</translation>
+        <translation>Transformada d&apos;entrada que s&apos;utilitza per a deformar la imatge en moviment abans de la comparació mètrica.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
@@ -6097,7 +6103,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation>El remostreig d&apos;una imatge és una tasca molt important en l&apos;anàlisi d&apos;imatges. És especialment important en el fotograma del registre d&apos;imatges. Aquest mòdul implementa el remostreig d&apos;imatges DT mitjançant l&apos;ús de transformacions ITK. El remostreig està controlat per l&apos;espaiat de sortida. El « remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules.</translation>
+        <translation>El remostreig d&apos;una imatge és una tasca molt important en l&apos;anàlisi d&apos;imatges. És especialment important en el fotograma del registre d&apos;imatges. Aquest mòdul implementa el remostreig d&apos;imatges DT mitjançant l&apos;ús de transformades ITK. El remostreig està controlat per l&apos;espaiat de sortida. El « remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
@@ -6298,7 +6304,7 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de transformada avançats</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
@@ -6308,32 +6314,32 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre de les transformades</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>No és una transformada massiva</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Incoherència d&apos;orientació espacial (entre transformada i imatge)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona en quin ordre es llegeixen les transformades</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformada després de la transformada BSpline no s&apos;estableix com una transformada a massiva per a la transformada BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;orientació de l&apos;espai entre la transformada i la imatge és diferent (DAS/EPS) (advertència: si la transformada és un node de transformada a Slicer3, no ho seleccionis)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6359,7 +6365,7 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
@@ -6369,27 +6375,27 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
         <source>Inverse Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformació inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation>Centre de rotació (només per a transformacions rígides i afins)</translation>
+        <translation>Centre de rotació (només per a transformades rígides i afins)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation>Establir el centre de la transformació al centre de la imatge d&apos;entrada (només per a transformacions rígides i afins)</translation>
+        <translation>Establir el centre de la transformació al centre de la imatge d&apos;entrada (només per a transformades rígides i afins)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge a utilitzar per centrar la transformada (només s&apos;utilitza si se selecciona «Transformada centrada»)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation>Inversa la transformació abans d&apos;aplicar-la des de la imatge de sortida a la imatge d&apos;entrada (només per a transformacions rígides i afins)</translation>
+        <translation>Inversa la transformació abans d&apos;aplicar-la des de la imatge de sortida a la imatge d&apos;entrada (només per a transformades rígides i afins)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
@@ -6450,7 +6456,7 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 paràmetres de la matriu de direcció per files (ijk a EPS en cas de transformada EPS, ijk a DAS en cas de transformada DAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
@@ -6556,17 +6562,17 @@ b = Blackman</source>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
         <source>Manual Transform (Used only if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada manual (S&apos;utilitza només si no hi ha cap conjunt de nodes de transformada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Matriu de transformació</translation>
+        <translation>Matriu de transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus de transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
@@ -6578,7 +6584,7 @@ b = Blackman</source>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation>Algorisme de transformació
+        <translation>Algorisme de transformades
 rt = Transformada rígida
 a = Transformada afí</translation>
     </message>
@@ -6608,7 +6614,7 @@ a = Transformada afí</translation>
 Warning: To resample DWMR Images, use nrrd input and output files. 
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation>Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformacions ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules. 
+        <translation>Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformades ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules. 
 
 Advertència: Per canviar les imatges DWMR, utilitza fitxers d&apos;entrada i sortida de nrrd. 
 
@@ -6662,17 +6668,17 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres utilitzats per a transformar la imatge d&apos;entrada en la imatge de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Node de transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="18"/>
@@ -6744,7 +6750,7 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="33"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de transformada avançats</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="34"/>
@@ -6754,32 +6760,32 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="35"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre de les transformades</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>No és una transformada massiva</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Incoherència d&apos;orientació espacial (entre transformada i imatge)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona en quin ordre es llegeixen les transformades</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformada després de la transformada BSpline no s&apos;estableix com una transformada massiva per a la transformada BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;orientació de l&apos;espai entre la transformada i la imatge és diferent (DAS/EPS) (advertència: si la transformada és un node de transformada a Slicer3, no ho seleccionis)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
@@ -6805,7 +6811,7 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="46"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="47"/>
@@ -6825,17 +6831,17 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Estableix el centre de la transformació al centre de la imatge d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge que s&apos;utilitzarà per centrar la transformada (només s&apos;utilitza si està seleccionat &quot;transformada centrada&quot;)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverteix la transformació abans d&apos;aplicar-la de la imatge de sortida a la d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
@@ -6896,7 +6902,7 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 paràmetres de la matriu de direcció per files (ijk a EPS si transformada EPS, ijk a DAS si transformada DAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"/>
@@ -6998,12 +7004,12 @@ b = Blackman</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
         <source>Manual Transform (Only used if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformada manual (només s&apos;utilitza si no hi ha cap conjunt de nodes de transformades)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Matriu de transformació</translation>
+        <translation>Matriu de transformada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="88"/>
@@ -7020,7 +7026,7 @@ b = Blackman</source>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation>Algorisme de transformació
+        <translation>Algorisme de transformada
 rt = Transformada rígida
 a = Transformada afí</translation>
     </message>
@@ -7046,7 +7052,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation>El remostreig d&apos;una imatge és una tasca important en l&apos;anàlisi d&apos;imatges. És especialment important en el fotograma del registre d&apos;imatges. Aquest mòdul implementa el remostreig d&apos;imatges mitjançant l&apos;ús de transformacions ITK. Aquest mòdul utilitza una transformada d&apos;identitat. El remostreig està controlat per l&apos;espaiat de sortida. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules. Hi ha diversos interpoladors disponibles: lineal, veí més proper, bspline i cinc sabors de sinc. Els interpoladors sinc, encara que més precisos, són molt més lents que l&apos;interpolador lineal i veí més proper. Per a reanimar les etiquetes, s&apos;ha d&apos;utilitzar exclusivament la interpolació pel veí més proper.</translation>
+        <translation>El remostreig d&apos;una imatge és una tasca important en l&apos;anàlisi d&apos;imatges. És especialment important en el fotograma del registre d&apos;imatges. Aquest mòdul implementa el remostreig d&apos;imatges mitjançant l&apos;ús de transformades ITK. Aquest mòdul utilitza una transformada d&apos;identitat. El remostreig està controlat per l&apos;espaiat de sortida. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules. Hi ha diversos interpoladors disponibles: lineal, veí més proper, bspline i cinc sabors de sinc. Els interpoladors sinc, encara que més precisos, són molt més lents que l&apos;interpolador lineal i veí més proper. Per a reanimar les etiquetes, s&apos;ha d&apos;utilitzar exclusivament la interpolació pel veí més proper.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -8668,7 +8674,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="86"/>
         <source>Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</source>
-        <translation>Direcció de l&apos;eix de rotació en el sistema de coordenades RAS. S&apos;utilitza per a definir la direcció en els modes d&apos;angle orientat mitjançant la regla de la mà dreta.</translation>
+        <translation>Direcció de l&apos;eix de rotació en el sistema de coordenades DAS. S&apos;utilitza per a definir la direcció en els modes d&apos;angle orientat mitjançant la regla de la mà dreta.</translation>
     </message>
 </context>
 <context>
@@ -8997,7 +9003,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
         <source>unconstrained</source>
-        <translation type="unfinished">sense restriccions</translation>
+        <translation>sense restriccions</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="119"/>
@@ -12081,7 +12087,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
         <source>Applied transform</source>
-        <translation>Transformació aplicada</translation>
+        <translation>Transformada aplicada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
@@ -12101,7 +12107,7 @@ Vols continuar amb el canvi de representació mestra?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1158"/>
         <source>Apply transform to children</source>
-        <translation>Aplicar la transformació als fills</translation>
+        <translation>Aplicar la transformada als fills</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1162"/>
@@ -12118,9 +12124,9 @@ Vols continuar amb el canvi de representació mestra?</translation>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation>Vols endurir totes les transformacions ja aplicades abans de configurar la nova?
+        <translation>Vols endurir totes les transformades ja aplicades abans de configurar la nova?
 
-Nota: si tries no, la transformació aplicada simplement es substituirà.</translation>
+Nota: si tries no, la transformada aplicada simplement es substituirà.</translation>
     </message>
 </context>
 <context>
@@ -12128,27 +12134,27 @@ Nota: si tries no, la transformació aplicada simplement es substituirà.</trans
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="253"/>
         <source>Allow interactively modify the transform in 3D views</source>
-        <translation type="unfinished">Permet modificar de manera interactiva la transformació en vistes 3D</translation>
+        <translation>Permet modificar de manera interactiva la transformada en vistes 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="258"/>
         <source>Edit properties of the current transform</source>
-        <translation type="unfinished">Editar les propietats de la transformació actual</translation>
+        <translation>Editar les propietats de la transformada actual</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="263"/>
         <source>Harden current transform on this node and all children nodes</source>
-        <translation>Endurir la transformació actual en aquest node i tots els nodes fills</translation>
+        <translation>Endurir la transformada actual en aquest node i tots els nodes fills</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="268"/>
         <source>Create and apply new transform</source>
-        <translation type="unfinished">Crear i aplicar una nova transformació</translation>
+        <translation>Crear i aplicar una nova transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="276"/>
         <source>Remove parent transform from all the nodes in this branch</source>
-        <translation type="unfinished">Suprimir la transformació principal de tots els nodes d&apos;aquesta branca</translation>
+        <translation>Suprimir la transformada principal de tots els nodes d&apos;aquesta branca</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
@@ -12674,7 +12680,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="26"/>
         <source>Whether the transform widget can be translated.</source>
-        <translation>Si el giny de transformació es pot traslladar.</translation>
+        <translation>Si el giny de transformada es pot traslladar.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="57"/>
@@ -12684,12 +12690,12 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="83"/>
         <source>Show/Hide the transform widget in the 3D view.</source>
-        <translation>Mostra/amaga el giny de transformació a la vista 3D.</translation>
+        <translation>Mostra/amaga el giny de transformada a la vista 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="96"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Update the bounds of the transform widget.&lt;/p&gt;&lt;p&gt;The transform will update its bounds to match the bounding box of all the nodes under it (if any).&lt;/p&gt;&lt;p&gt;Otherwise, the widget will resize itself to the default interaction size.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Actualitzeu els límits del widget de transformació. &lt;/p&gt; &lt;p&gt; La transformació actualitzarà els seus límits perquè coincideixi amb la caixa d&apos;enquadernació de tots els nodes que hi ha a sota (si n&apos;hi ha). &lt;/p&gt; &lt;p&gt; En cas contrari, el widget es redimensionarà a la mida d&apos;interacció predeterminada. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Actualitzeu els límits del widget de transformada. &lt;/p&gt; &lt;p&gt; La transformada actualitzarà els seus límits perquè coincideixi amb la caixa d&apos;enquadernació de tots els nodes que hi ha a sota (si n&apos;hi ha). &lt;/p&gt; &lt;p&gt; En cas contrari, el widget es redimensionarà a la mida d&apos;interacció predeterminada. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="99"/>
@@ -12739,12 +12745,12 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="246"/>
         <source>Show transform in the slice views</source>
-        <translation>Mostra la transformació a les vistes de secció</translation>
+        <translation>Mostra la transformada a les vistes de secció</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="299"/>
         <source>Visualize transform using glyphs</source>
-        <translation>Visualitzar la transformació mitjançant glifs</translation>
+        <translation>Visualitzar la transformada mitjançant glifs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="314"/>
@@ -12754,7 +12760,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="361"/>
         <source>Visualize transform using a warped grid</source>
-        <translation>Visualitzar la transformació mitjançant una quadrícula deformada</translation>
+        <translation>Visualitzar la transformada mitjançant una quadrícula deformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="364"/>
@@ -12764,7 +12770,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="402"/>
         <source>Visualize transform by isoline/isosurface contours of the displacement magnitude</source>
-        <translation>Visualitzar la transformació per contorns isolínies/isosuperfícies de la magnitud del desplaçament</translation>
+        <translation>Visualitzar la transformada per contorns isolínies/isosuperfícies de la magnitud del desplaçament</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="405"/>
@@ -12774,12 +12780,12 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="438"/>
         <source>Show transform in the 3D views</source>
-        <translation>Mostra transformació a les vistes 3D</translation>
+        <translation>Mostra transformada a les vistes 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="451"/>
         <source>Reference image for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation>Imatge de referència per a visualitzar els nodes de transformació (només utilitzarà la mida, l&apos;orientació i la posició)</translation>
+        <translation>Imatge de referència per a visualitzar els nodes de transformada (només utilitzarà la mida, l&apos;orientació i la posició)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
@@ -12789,7 +12795,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="470"/>
         <source>Region for visualizing transform nodes (will only use size, orientation and position)</source>
-        <translation>Regió per a visualitzar els nodes de transformació (només utilitzarà la mida, l&apos;orientació i la posició)</translation>
+        <translation>Regió per a visualitzar els nodes de transformada (només utilitzarà la mida, l&apos;orientació i la posició)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="500"/>
@@ -13065,7 +13071,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="14"/>
         <source>Transform Information</source>
-        <translation>Informació de la transformació</translation>
+        <translation>Informació de la transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="23"/>
@@ -13086,7 +13092,7 @@ Si trieu Sí a tots, aquesta pregunta no apareixerà mai més i tots els fills d
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
         <source>ViewerRAS</source>
-        <translation>DASVisualitzador</translation>
+        <translation>ViewerRAS</translation>
     </message>
 </context>
 <context>
@@ -13362,12 +13368,12 @@ p, li { espai blanc: predeformació; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
         <source>IJK to RAS Direction Matrix:</source>
-        <translation>Matriu de transformació d&apos;IJK a DAS:</translation>
+        <translation>Matriu de direcció IJK a DAS:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
         <source>Set a parent transform to the volume that center it on the origin. Harden the transform to permanently change the volume position.</source>
-        <translation>Establir una transformació principal al volum que la centra en l&apos;origen. Endurir la transformació per a canviar permanentment la posició del volum.</translation>
+        <translation>Establir una transformada principal al volum que la centra en l&apos;origen. Endurir la transformada per a canviar permanentment la posició del volum.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="160"/>
@@ -14808,7 +14814,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="128"/>
         <source>Input ROI is under a non-linear tansform.</source>
-        <translation>La RDI d&apos;entrada ha sofert una transformació no lineal.</translation>
+        <translation>La RDI d&apos;entrada ha sofert una transformada no lineal.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="134"/>
@@ -14818,12 +14824,12 @@ Capacitats gràfiques d&apos;aquest ordinador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
         <source>Output volume is under a non-linear tansform.</source>
-        <translation>El volum de sortida ha sofert una transformació no lineal.</translation>
+        <translation>El volum de sortida ha sofert una transformada no lineal.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="152"/>
         <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation>La interpolació està inhabilitada i el volum d&apos;entrada ha sofert una transformació no lineal</translation>
+        <translation>La interpolació està inhabilitada i el volum d&apos;entrada ha sofert una transformada no lineal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="158"/>
@@ -15097,7 +15103,7 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="106"/>
         <source>Show transforms</source>
-        <translation>Mostrar les transformacions</translation>
+        <translation>Mostrar les transformades</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="116"/>
@@ -15153,12 +15159,12 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
         <source>Insert transform</source>
-        <translation>Inserir una transformació</translation>
+        <translation>Inserir una transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
         <source>Harden transform</source>
-        <translation>Endurir la transformació</translation>
+        <translation>Endurir la transformada</translation>
     </message>
 </context>
 <context>
@@ -15373,12 +15379,12 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation>Endurir temporalment les transformacions per a l&apos;exportació</translation>
+        <translation>Endurir temporalment les transformades per a l&apos;exportació</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
         <source>Apply transforms</source>
-        <translation>Aplicar transformacions</translation>
+        <translation>Aplicar transformades</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
@@ -16574,12 +16580,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="406"/>
         <source>Add Transform</source>
-        <translation>Afegir transformació</translation>
+        <translation>Afegir transformada</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="409"/>
         <source>Raise a standard file browser that allows you to select a transform to the existing scene.</source>
-        <translation>Eleva un navegador de fitxers estàndard que et permeti seleccionar una transformació a l&apos;espai de treball existent.</translation>
+        <translation>Eleva un navegador de fitxers estàndard que et permeti seleccionar una transformada a l&apos;espai de treball existent.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="641"/>
@@ -21051,9 +21057,9 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation>Vols endurir totes les transformacions ja aplicades abans de configurar la nova?
+        <translation>Vols endurir totes les transformades ja aplicades abans de configurar la nova?
 
-Nota: si tries no, la transformació aplicada simplement es substituirà.</translation>
+Nota: si tries no, la transformada aplicada simplement es substituirà.</translation>
     </message>
 </context>
 <context>
@@ -21752,7 +21758,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transformacions</translation>
+        <translation>Transformades</translation>
     </message>
 </context>
 <context>
@@ -21760,12 +21766,12 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
-        <translation>Transformacions</translation>
+        <translation>Transformades</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
         <source>Active Transform:</source>
-        <translation>Transformació activa:</translation>
+        <translation>Transformada activa:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
@@ -21780,7 +21786,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
         <source>Transform Matrix</source>
-        <translation>Matriu de transformació</translation>
+        <translation>Matriu de transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="163"/>
@@ -21800,7 +21806,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="204"/>
         <source>Split a composite transform to its components</source>
-        <translation>Dividir una transformació composta als seus components</translation>
+        <translation>Dividir una transformada composta als seus components</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
@@ -21820,12 +21826,12 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="254"/>
         <source>Copy transform</source>
-        <translation>Copiar la transformació</translation>
+        <translation>Copiar la transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="264"/>
         <source>Paste transform</source>
-        <translation>Enganxar la transformació</translation>
+        <translation>Enganxar la transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
@@ -21835,7 +21841,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="309"/>
         <source>Apply transform</source>
-        <translation>Aplicar transformació</translation>
+        <translation>Aplicar transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
@@ -21845,7 +21851,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
         <source>Apply the active transform to the selected transformable nodes</source>
-        <translation>Aplicar la transformació activa als nodes transformables seleccionats</translation>
+        <translation>Aplicar la transformada activa als nodes transformables seleccionats</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
@@ -21855,7 +21861,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
         <source>Remove the active transform from the selected transformed nodes</source>
-        <translation>Suprimir la transformació activa dels nodes transformats seleccionats</translation>
+        <translation>Suprimir la transformada activa dels nodes transformats seleccionats</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
@@ -21865,7 +21871,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
         <source>Harden transform</source>
-        <translation>Endurir la transformació</translation>
+        <translation>Endurir la transformada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
@@ -21885,7 +21891,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation>Volum que defineix l&apos;origen, l&apos;espaiat i les direccions de l&apos;eix del camp de desplaçament exportat. Si el volum de referència està sota una transformació no lineal, llavors la geometria no transformada s&apos;utilitza com a referència.</translation>
+        <translation>Volum que defineix l&apos;origen, l&apos;espaiat i les direccions de l&apos;eix del camp de desplaçament exportat. Si el volum de referència està sota una transformada no lineal, llavors la geometria no transformada s&apos;utilitza com a referència.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
@@ -21895,7 +21901,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
-        <translation>Volum o node de transformació que emmagatzemarà el camp de desplaçament. Si s&apos;escull el node de volum escalar, només es desa la magnitud del desplaçament. En volum vectorial o node de transformació es desa el vector de desplaçament 3D.</translation>
+        <translation>Volum o node de transformada que emmagatzemarà el camp de desplaçament. Si s&apos;escull el node de volum escalar, només es desa la magnitud del desplaçament. En volum vectorial o node de transformada es desa el vector de desplaçament 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
@@ -21925,7 +21931,7 @@ Vols actualitzar el fitxer de context emmagatzemat amb el que s&apos;acaba de ca
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation>No s&apos;ha pogut convertir la transformació. Consulta el registre de l&apos;aplicació per a més informació.</translation>
+        <translation>No s&apos;ha pogut convertir la transformada. Consulta el registre de l&apos;aplicació per a més informació.</translation>
     </message>
 </context>
 <context>
