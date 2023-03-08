@@ -6,7 +6,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformasi ACPC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
@@ -22661,7 +22661,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="437"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi aplikasi baru tersedia: %1</translation>
     </message>
 </context>
 </TS>
