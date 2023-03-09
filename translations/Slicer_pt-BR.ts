@@ -23002,6 +23002,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
         <translation>
             <numerusform>%1 atualização de extensão disponível</numerusform>
             <numerusform>%1 atualizações de extensão disponíveis</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
