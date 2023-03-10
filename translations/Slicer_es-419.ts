@@ -15088,7 +15088,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="292"/>
         <source>All nodes</source>
-        <translation type="unfinished">All nodes</translation>
+        <translation>Todos los nodos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="373"/>
@@ -15099,7 +15099,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="240"/>
         <source>Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="200"/>
@@ -15110,7 +15110,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="212"/>
         <source>Insert transform</source>
-        <translation type="unfinished">Insert transform</translation>
+        <translation>Insertar transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModuleWidget.cxx" line="218"/>
