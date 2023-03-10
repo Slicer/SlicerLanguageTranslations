@@ -942,7 +942,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada pas en l&apos;optimització fa passos com a mínim tan grans.  Quan no n&apos;hi ha cap, el registre s&apos;ha completat. Valors més petits permeten a l&apos;optimitzador fer ajustos més petits, però el temps de registre pot augmentar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
@@ -952,7 +952,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quant augmentar els canvis de posició (en mm) en comparació amb els canvis de rotació unitaris (en radians) -- disminuir això per permetre més rotació en el patró de cerca.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
@@ -974,17 +974,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres només per a experts</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índex de temps d&apos;imatge fixa</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índex de temps d&apos;imatge en moviment</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
@@ -999,12 +999,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished"></translation>
+        <translation>Mètrica de cost</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
         <source>Inferior Cut Off From Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Punt de tall central inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
@@ -1019,7 +1019,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de mostres</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
@@ -1039,7 +1039,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Passa la imatge en moviment deformada al filtre de registre BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
@@ -1090,7 +1090,8 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre de vòxels mostrejats per al càlcul d&apos;informació mútua.  Augmenta-ho per a obtenir una precisió més alta, a costa d&apos;un temps de càlcul més llarg.
+TINGUES EN COMPTE que es recomana utilitzar samplingPercentage en lloc d&apos;aquesta opció. No obstant això, si s&apos;estableix en no zero, numberOfSamples sobreescriu l&apos;opció samplingPercentage.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
@@ -1131,22 +1132,22 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation type="unfinished"></translation>
+        <translation>NC</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation type="unfinished"></translation>
+        <translation>MIH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
         <source>Debugging Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de depuració</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codi de sortida d&apos;error</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
@@ -1156,27 +1157,27 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de fils</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished"></translation>
+        <translation>Opció de depuració</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>Establir l&apos;estratègia de mostreig</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe del fitxer de registre</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si l&apos;ajust falla, surt amb aquest codi d&apos;estat.  (Es pot utilitzar per a forçar un estat de sortida reeixit de (0) si el registre falla per arribar al nombre màxim d&apos;iteracions.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
