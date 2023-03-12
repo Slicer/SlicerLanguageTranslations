@@ -11849,7 +11849,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>اسم التخطيط:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="33"/>
@@ -12611,7 +12611,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="26"/>
         <source>Layout Name:</source>
-        <translation type="unfinished">Layout Name:</translation>
+        <translation>اسم التخطيط:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewInformationWidget.ui" line="33"/>
