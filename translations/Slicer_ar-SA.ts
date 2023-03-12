@@ -17955,37 +17955,37 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turns visibility on for all models (does not include hierarchies)</translation>
+        <translation>تشغيل الرؤية لجميع الطرز (لا تتضمن التسلسلات الهرمية)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>معلومات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="146"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>وسيلة إيضاح اللون لجدول الألوان المحدد في قسم Scalars.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>وسيلة إيضاح اللون</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clipping Planes</source>
-        <translation type="unfinished">Clipping Planes</translation>
+        <translation>خطط القص</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="219"/>
         <source>Clip selected model:</source>
-        <translation type="unfinished">Clip selected model:</translation>
+        <translation>قص النموذج المحدد:</translation>
     </message>
 </context>
 <context>
@@ -17993,27 +17993,27 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="14"/>
         <source>Module finder</source>
-        <translation type="unfinished">Module finder</translation>
+        <translation>مكتشف الوحدة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
         <source>Search in full text (module name and description). If unchecked then only module names are searched.</source>
-        <translation type="unfinished">Search in full text (module name and description). If unchecked then only module names are searched.</translation>
+        <translation>البحث في النص الكامل (اسم الوحدة ووصفها). إذا لم يتم تحديده ، البحث عن أسماء الوحدات فقط.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="83"/>
         <source>&amp;Full text</source>
-        <translation type="unfinished">&amp;Full text</translation>
+        <translation>&amp;النص الكامل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="93"/>
         <source>Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</source>
-        <translation type="unfinished">Show built-in modules. Unchecking makes it easier to find modules provided by extensions.</translation>
+        <translation>عرض الوحدات المدمجة. يؤدي إلغاء التحديد إلى تسهيل العثور على الوحدات التي توفرها الإضافات.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation type="unfinished">&amp;Built-in</translation>
+        <translation>مدمج</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
