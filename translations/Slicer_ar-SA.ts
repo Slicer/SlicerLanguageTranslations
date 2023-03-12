@@ -8203,7 +8203,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation type="unfinished">SceneView Name:</translation>
+        <translation>اسم عرض المشهد:</translation>
     </message>
 </context>
 <context>
@@ -8211,117 +8211,117 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="14"/>
         <source>Clip</source>
-        <translation type="unfinished">Clip</translation>
+        <translation>قص</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="23"/>
         <source>Clipping Type:</source>
-        <translation type="unfinished">Clipping Type:</translation>
+        <translation>نوع القص:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
         <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-        <translation type="unfinished">When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</translation>
+        <translation>عند استخدام أكثر من مستوى شريحة، يتحكم هذا الخيار في ما إذا كان اتحاد أو تقاطع المساحات الموجبة و/أو السالبة هو المستخدم لقص النموذج. يتم الاحتفاظ بأجزاء النموذج داخل المساحة المحددة ، ويتم قص الأجزاء خارج التحديد.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
         <source>Union</source>
-        <translation type="unfinished">Union</translation>
+        <translation>اتحاد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
         <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>استخدم اتحاد المساحات الموجبة و/أو السالبة المحددة بواسطة مستويات الشرائح لقص النموذج.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>تقاطع</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="57"/>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>استخدم تقاطع المساحات الموجبة و/أو السالبة المحددة بواسطة مستويات الشرائح لقص النموذج.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="64"/>
         <source>Red Slice Clipping:</source>
-        <translation type="unfinished">Red Slice Clipping:</translation>
+        <translation>لقطة شريحة حمراء:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
         <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>استخدم المساحة الموجبة أو السالبة المحددة بواسطة مستوى الشريحة الحمراء لقص النموذج. الجانب الإيجابي هو تجاه الرئيس ، والسلبي هو تجاه الأدنى. يحافظ على جزء النموذج في المساحة المحددة ، ويقطع الباقي.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="121"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="165"/>
         <source>Positive</source>
-        <translation type="unfinished">Positive</translation>
+        <translation>موجب</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="84"/>
         <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</translation>
+        <translation>احتفظ بأجزاء النموذج الموجودة داخل المساحة الموجبة ، باتجاه الرئيس (الرأس) ، المحدد بواسطة مستوى الشريحة الحمراء.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="94"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="138"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="182"/>
         <source>Negative</source>
-        <translation type="unfinished">Negative</translation>
+        <translation>سالب</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="101"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</translation>
+        <translation>احتفظ بأجزاء النموذج الموجودة داخل المساحة السالبة ، باتجاه السفلي (القدم) ، المحددة بواسطة مستوى الشريحة الحمراء.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
         <source>Yellow Slice Clipping:</source>
-        <translation type="unfinished">Yellow Slice Clipping:</translation>
+        <translation>لقطة شريحة صفراء:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="111"/>
         <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>استخدم المساحة الموجبة أو السالبة المحددة بواسطة مستوى الشريحة الصفراء لقص النموذج. الجانب الإيجابي هو نحو اليمين ، والسلبي هو نحو اليسار. يحافظ على جزء النموذج في المساحة المحددة ، ويقطع الباقي.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="128"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</translation>
+        <translation>احتفظ بأجزاء النموذج الموجودة داخل المساحة الموجبة ، باتجاه اليمين ، محددة بواسطة مستوى الشريحة الصفراء.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="145"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</translation>
+        <translation>احتفظ بأجزاء النموذج الموجودة داخل المساحة السالبة ، باتجاه اليسار ، محددة بواسطة مستوى الشريحة الصفراء .</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="152"/>
         <source>Green Slice Clipping:</source>
-        <translation type="unfinished">Green Slice Clipping:</translation>
+        <translation>لقطة الشريحة الخضراء:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="155"/>
         <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>استخدم المساحة الموجبة أو السالبة المحددة بواسطة مستوى الشريحة الخضراء لقص النموذج. الجانب الإيجابي هو نحو الأمامي ، والسلبي هو نحو الخلف. يحافظ على جزء النموذج في المساحة المحددة ، ويقطع الباقي.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="172"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</translation>
+        <translation>احتفظ بأجزاء النموذج الموجودة داخل المساحة الموجبة ، باتجاه الأمامي (الأمامي) ، المحدد بواسطة مستوى الشريحة الخضراء.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="189"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</translation>
+        <translation>احتفظ بأجزاء النموذج الموجودة داخل المساحة السالبة ، باتجاه الخلفي (الخلفي) ، المحدد بواسطة مستوى الشريحة الخضراء.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="202"/>
         <source>Keep only whole cells when clipping</source>
-        <translation type="unfinished">Keep only whole cells when clipping</translation>
+        <translation>احتفظ بخلايا كاملة فقط عند القص</translation>
     </message>
 </context>
 <context>
@@ -8340,12 +8340,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="68"/>
         <source>Title:</source>
-        <translation type="unfinished">Title:</translation>
+        <translation>عنوان:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
