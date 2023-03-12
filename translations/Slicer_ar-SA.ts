@@ -8335,7 +8335,7 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="36"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible:</translation>
+        <translation>رؤية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="58"/>
@@ -8520,13 +8520,13 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>رؤية:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
         <source>&amp;Visibility:</source>
         <oldsource>&amp;Visible:</oldsource>
-        <translation type="unfinished">&amp;Visible:</translation>
+        <translation>رؤية:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
@@ -8542,7 +8542,7 @@ a = Affine Transform</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visibility:</source>
         <oldsource>Slice &amp;Intersections Visible:</oldsource>
-        <translation type="unfinished">Slice &amp;Intersections Visible:</translation>
+        <translation>رؤية الشرائح والتقاطعات:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
@@ -8573,7 +8573,7 @@ a = Affine Transform</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
         <source>3D Visibility:</source>
         <oldsource>3D Visible:</oldsource>
-        <translation type="unfinished">3D Visible:</translation>
+        <translation>رؤية 3D:</translation>
     </message>
 </context>
 <context>
@@ -8581,7 +8581,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLEventLoggerWidget.ui" line="14"/>
         <source>MRML Event logger</source>
-        <translation type="unfinished">MRML Event logger</translation>
+        <translation>مسجل أحداث MRML</translation>
     </message>
 </context>
 <context>
@@ -8593,27 +8593,27 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص الزاوية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
         <source>Angle Settings</source>
-        <translation type="unfinished">Angle Settings</translation>
+        <translation>إعدادات الزاوية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="50"/>
         <source>Measurement mode:</source>
-        <translation type="unfinished">Measurement mode:</translation>
+        <translation>وضع القياس:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; - الحد الأدنى: الحد الأدنى من الزاوية غير الموجهة ، بين [0..180) &lt;br/&gt; - التوقيع الموجه: الزاوية الموجهة [-180..180) ، باستخدام محور الدوران في قاعدة اليد اليمنى &lt;br/&gt; - موجب موجه: زاوية موجهة [0..360) ، باستخدام محور الدوران في قاعدة اليد اليمنى &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
         <source>Minimal</source>
-        <translation type="unfinished">Minimal</translation>
+        <translation>الحد الادني</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
