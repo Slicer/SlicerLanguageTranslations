@@ -11275,27 +11275,27 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="14"/>
         <source>Slice Controller</source>
-        <translation type="unfinished">Slice Controller</translation>
+        <translation>شريحة تحكم</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="51"/>
         <source>Select the label map</source>
-        <translation type="unfinished">Select the label map</translation>
+        <translation>حدد خريطة التسمية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="179"/>
         <source>Select the foreground</source>
-        <translation type="unfinished">Select the foreground</translation>
+        <translation>حدد المقدمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="319"/>
         <source>Select the background</source>
-        <translation type="unfinished">Select the background</translation>
+        <translation>حدد الخلفية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="433"/>
         <source>Link slice views. Synchronizes properties of all slice views in the same view group.</source>
-        <translation type="unfinished">Link slice views. Synchronizes properties of all slice views in the same view group.</translation>
+        <translation type="unfinished">ربط طرق عرض الشرائح. مزامنة خصائص كل عروض الشرائح في نفس مجموعة العرض.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
@@ -13281,12 +13281,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="362"/>
         <source>Restore view layout</source>
-        <translation type="unfinished">Restore view layout</translation>
+        <translation>استعادة تخطيط العرض</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLViewControllerBar.cxx" line="367"/>
         <source>Maximize view</source>
-        <translation type="unfinished">Maximize view</translation>
+        <translation>تكبير العرض</translation>
     </message>
 </context>
 <context>
@@ -13307,7 +13307,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="38"/>
         <source>Image Dimensions:</source>
-        <translation type="unfinished">Image Dimensions:</translation>
+        <translation>أبعاد الصورة:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="58"/>
