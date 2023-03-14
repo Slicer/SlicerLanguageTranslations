@@ -8493,7 +8493,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>لا شيء</translation>
     </message>
 </context>
 <context>
@@ -9675,7 +9675,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="242"/>
@@ -12021,7 +12021,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="130"/>
