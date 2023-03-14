@@ -6,37 +6,37 @@
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
         <source>Symbolic Name</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسم الرمزي</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
         <source>Vendor</source>
-        <translation type="unfinished"></translation>
+        <translation>بائع</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>ترخيص</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>حقوق النشر</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
@@ -46,37 +46,37 @@
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>فئة</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"/>
         <source>Contact Address</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان الإتصال</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>وصف</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
         <source>Doc URL</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان URL للمستند</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>أيقونة</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
         <source>Lazy</source>
-        <translation type="unfinished"></translation>
+        <translation>كسول</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation>مشتاق</translation>
     </message>
 </context>
 <context>
@@ -84,12 +84,12 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
         <source>DICOM Application Host</source>
-        <translation type="unfinished"></translation>
+        <translation>مضيف تطبيق DICOM</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK مثال على تطبيق الاستضافة</translation>
     </message>
 </context>
 <context>
@@ -97,17 +97,17 @@
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>مولد البرنامج المساعد CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل اسم مؤسستك:</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;مؤسستك&gt;</translation>
     </message>
 </context>
 <context>
@@ -115,17 +115,17 @@
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="442"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل أثناء التحقق من XML:</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>منتهى.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleConcurrentHelpers.cpp" line="73"/>
         <source>Module %1 failed with an unknown exception.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل الوحدة النمطية ٪1 مع استثناء غير معروف.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="45"/>
@@ -136,7 +136,13 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تسجيل الوحدة:
+%1
+
+بسبب:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
@@ -147,13 +153,20 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تسجيل الوحدة:
+%1
+
+بسبب خطأ في التحقق من صحة XML:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="56"/>
         <source>Failed to register module:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تسجيل الوحدة النمطية:
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
@@ -162,155 +175,160 @@ due to xml validation error:
 
 due to:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تسجيل الوحدة النمطية:
+
+
+بسبب:
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تسجيل الوحدات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="368"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد ما إذا كان يجب نسخ الملفات إلى دليل قاعدة البيانات المحلية أو إذا كان يجب إنشاء روابط فقط؟</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>أساسي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="109"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="123"/>
         <source>Button1</source>
-        <translation type="unfinished"></translation>
+        <translation>زر1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="124"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="43"/>
         <source>Button2</source>
-        <translation type="unfinished"></translation>
+        <translation>زر2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="42"/>
         <source>My very long text on button</source>
-        <translation type="unfinished"></translation>
+        <translation>نصي الطويل جدا على الزر</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="44"/>
         <source>Button3</source>
-        <translation type="unfinished"></translation>
+        <translation>زر3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="45"/>
         <source>Button4</source>
-        <translation type="unfinished"></translation>
+        <translation>زر4</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="46"/>
         <source>Button5</source>
-        <translation type="unfinished"></translation>
+        <translation>زر5</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="47"/>
         <source>Button6</source>
-        <translation type="unfinished"></translation>
+        <translation>زر6</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="48"/>
         <source>Checkable PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>زر ضغط قابل للتحقق</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="49"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="50"/>
         <source>Connected, Not User Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>متصل ، غير قابل للتحقق من المستخدم</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="51"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="52"/>
         <source>Not Connected, User Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>غير متصل ، يمكن التحقق من المستخدم</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="53"/>
         <source>Checkbox Not User Checkable
 Button Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>خانة الاختيار غير قابلة للتحديد من قبل المستخدم
+زر قابل للفحص</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="54"/>
         <source>Checkbox and Button User Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation>خانة الاختيار والزر القابل للتحديد من قبل المستخدم</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="55"/>
         <source>Checkable PushButton with menu</source>
-        <translation type="unfinished"></translation>
+        <translation>زر ضغط قابل للتحقق مع القائمة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="56"/>
         <source>Checkable PushButton with icon</source>
-        <translation type="unfinished"></translation>
+        <translation>زر ضغط قابل للتحقق مع أيقونة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="57"/>
         <source>Check box controls button toggle state</source>
-        <translation type="unfinished"></translation>
+        <translation>عناصر تحكم خانة الاختيار زر تبديل الحالة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="74"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="44"/>
         <source>Button</source>
-        <translation type="unfinished"></translation>
+        <translation>زر</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="75"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="45"/>
         <source>Nested Collapsible Button</source>
-        <translation type="unfinished"></translation>
+        <translation>زر قابل للطي متداخل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="76"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="46"/>
         <source>CollapsibleButton</source>
-        <translation type="unfinished"></translation>
+        <translation>زر قابل للطي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="78"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="49"/>
         <source>Nested PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>زر ضغط متداخل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="84"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="41"/>
         <source>GroupBox</source>
-        <translation type="unfinished"></translation>
+        <translation>صندوق المجموعة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="85"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="42"/>
         <source>&amp;Radio button 1</source>
-        <translation type="unfinished"></translation>
+        <translation>زر الاختيار 1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="86"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="43"/>
         <source>R&amp;adio button 2</source>
-        <translation type="unfinished"></translation>
+        <translation>زر الاختيار 2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="87"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="44"/>
         <source>Ra&amp;dio button 3</source>
-        <translation type="unfinished"></translation>
+        <translation>زر الاختيار 3</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkTopicRegistry.cpp" line="36"/>
         <source>Topic %1 already owned by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>الموضوع ٪1 مملوكة بالفعل من قبل ٪2</translation>
     </message>
 </context>
 <context>
@@ -318,22 +336,22 @@ Button Checkable</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
         <source>ctkAddRemoveComboBox</source>
-        <translation type="unfinished"></translation>
+        <translation>ctk إضافة إزالة مربع التحرير والسرد</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="36"/>
         <source>Add an object</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة كائن</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="59"/>
         <source>Remove select object</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة كائن محدد</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="82"/>
         <source>Edit selected object</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير الكائن المحدد</translation>
     </message>
 </context>
 <context>
@@ -341,7 +359,7 @@ Button Checkable</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="290"/>
         <source>Load modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل الوحدات...</translation>
     </message>
 </context>
 <context>
@@ -349,17 +367,17 @@ Button Checkable</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="14"/>
         <source>Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>مسارات البحث</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
         <source>Module Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>مسارات البحث عن الوحدة النمطية</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
         <source>The following list of paths will be searched for executables which provide a XML parameter description when called with a &quot;--xml&quot; command line argument:</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم البحث في قائمة المسارات التالية عن الملفات التنفيذية التي توفر وصفًا لمعامل XML عند استدعائها باستخدام وسيطة سطر الأوامر &quot;--xml&quot;:</translation>
     </message>
 </context>
 <context>
@@ -367,22 +385,22 @@ Button Checkable</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="14"/>
         <source>Module Settings            </source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الوحدة            </translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="32"/>
         <source>Run Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الإعدادات</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="73"/>
         <source>Maximum parallel running modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لوحدات التشغيل المتوازي:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
         <source>XML retrieval timeout (in seconds):</source>
-        <translation type="unfinished"></translation>
+        <translation>مهلة استرجاع XML (بالثواني):</translation>
     </message>
 </context>
 <context>
@@ -390,142 +408,142 @@ Button Checkable</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="14"/>
         <source>CTK Command Line Module Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK سطر الأوامر وحدة مستكشف</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="61"/>
         <source>&amp;Module</source>
-        <translation type="unfinished"></translation>
+        <translation>الوحدة النمطية</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط الأدوات</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>الوحدات النمطية</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="146"/>
         <source>Progress Information</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات التقدم</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="195"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>واضح</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="266"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>الناتج</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="297"/>
         <source>XML Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>مدقق XML</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="322"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>فحص</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="369"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>تنفيذ</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="372"/>
         <source>Run module</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الوحدة</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="375"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="384"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="387"/>
         <source>Cancel module</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء الوحدة</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="390"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="395"/>
         <source>&amp;Load Modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل الوحدات...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="398"/>
         <source>Load module</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة التحميل</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="401"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="406"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>خروج</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="418"/>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف مؤقت</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="421"/>
         <source>Pause module</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة الإيقاف المؤقت</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="424"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="429"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="434"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>اعاده تعيين</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="437"/>
         <source>Reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التعيين إلى القيم الافتراضية</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="442"/>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح ذاكرة التخزين المؤقت</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="447"/>
         <source>Reload Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تحميل الوحدات</translation>
     </message>
 </context>
 <context>
@@ -534,17 +552,17 @@ Button Checkable</source>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="14"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="32"/>
         <source>Registered Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>الوحدات المسجلة</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="134"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>إنذار</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="143"/>
         <source>No XML output available.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يتوفر إخراج XML.</translation>
     </message>
 </context>
 <context>
@@ -552,24 +570,24 @@ Button Checkable</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="26"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="85"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمية النص</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="42"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="59"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="73"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة</translation>
     </message>
 </context>
 <context>
@@ -577,12 +595,12 @@ Button Checkable</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="65"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="75"/>
         <source>No validation errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد أخطاء في التحقق من الصحة.</translation>
     </message>
 </context>
 <context>
@@ -590,12 +608,12 @@ Button Checkable</source>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="69"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="89"/>
         <source>Finished </source>
-        <translation type="unfinished"></translation>
+        <translation>منتهى. </translation>
     </message>
 </context>
 <context>
@@ -603,27 +621,27 @@ Button Checkable</source>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM الجزء 19 التطبيق المستضاف</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="20"/>
         <source>CLModule not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين وحدة CL.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="30"/>
         <source>Get Data from Host</source>
-        <translation type="unfinished"></translation>
+        <translation>الحصول على البيانات من المضيف</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="43"/>
         <source>No data received</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تلقي أي بيانات</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="99"/>
         <source>Run and send data to host</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل وإرسال البيانات إلى المضيف</translation>
     </message>
 </context>
 <context>
@@ -631,49 +649,51 @@ Button Checkable</source>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="140"/>
         <source>&amp;Run file</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل الملف</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
         <source>Ctrl+g</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+g</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="145"/>
         <source>Print &amp;help</source>
-        <translation type="unfinished"></translation>
+        <translation>الطباعة والمساعدة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Ctrl+h</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+h</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
         <source>&amp;Run script from file</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل البرنامج النصي من ملف</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن قراءة الملف &apos;٪1&apos;.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
         <source>Select a script file to run</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد ملف برنامج نصي لتشغيله</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1412"/>
         <source>CTRL+h: Print this help message
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+h: طباعة رسالة التعليمات هذه
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1413"/>
         <source>CTRL+r: Open a file dialog to select a file to run
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+r: افتح مربع حوار ملف لتحديد ملف لتشغيله
+</translation>
     </message>
 </context>
 <context>
@@ -681,32 +701,32 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="20"/>
         <source>ctkDICOMAppWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>ctk DICOM التطبيق القطعة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط الأدوات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="72"/>
         <source>LocalDatabase:</source>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة البيانات المحلية:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="108"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="302"/>
         <source>Previous study</source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة سابقة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="305"/>
         <source>&lt;&lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt;&lt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="324"/>
