@@ -5510,17 +5510,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
         <source>Axial</source>
-        <translation>المحوري</translation>
+        <translation>محوري</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="19"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>الإكليل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="20"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>السهمي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"/>
@@ -11305,12 +11305,12 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation>اتجاه الشريحة (محوري ، ساجيتال ، إكليلي ، إعادة تنسيق).</translation>
+        <translation>اتجاه الشريحة (محوري ، سهمي ، إكليلي ، إعادة تنسيق).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="495"/>
         <source>Axial</source>
-        <translation>المحوري</translation>
+        <translation>محوري</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="500"/>
@@ -11864,22 +11864,22 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat)</source>
-        <translation>اتجاه الشريحة (محوري ، ساجيتال ، إكليلي ، إعادة تنسيق)</translation>
+        <translation>اتجاه الشريحة (محوري ، سهمي ، إكليلي ، إعادة تنسيق).</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
         <source>Axial</source>
-        <translation>المحوري</translation>
+        <translation>محوري</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="59"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>السهمي</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="64"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>الإكليل</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
@@ -18470,22 +18470,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation>اتجاه الشريحة (محوري ، ساجيتال ، إكليلي ، إعادة تنسيق).</translation>
+        <translation>اتجاه الشريحة (محوري ، سهمي ، إكليلي ، إعادة تنسيق).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="367"/>
         <source>Axial</source>
-        <translation>المحوري</translation>
+        <translation>محوري</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="372"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>سهمي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="377"/>
         <source>Coronal</source>
-        <translation type="unfinished">Coronal</translation>
+        <translation>الإكليل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="390"/>
