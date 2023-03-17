@@ -8385,7 +8385,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
         <source>Number of colors:</source>
-        <translation type="unfinished">Number of colors:</translation>
+        <translation>عدد الألوان:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
@@ -14357,102 +14357,102 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="14"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>الألوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="49"/>
         <source>Colors:</source>
-        <translation type="unfinished">Colors:</translation>
+        <translation>الألوان:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="68"/>
         <source>Duplicate the current color node to allow editing colors, scalar range, size.</source>
-        <translation type="unfinished">Duplicate the current color node to allow editing colors, scalar range, size.</translation>
+        <translation>قم بتكرار عقدة اللون الحالية للسماح بتحرير الألوان والنطاق القياسي والحجم.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="86"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>وسيلة إيضاح اللون</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
         <source>Displayable node:</source>
-        <translation type="unfinished">Displayable node:</translation>
+        <translation>عقدة قابلة للعرض:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
         <source>Create color legend for the selected displayable node.</source>
-        <translation type="unfinished">Create color legend for the selected displayable node.</translation>
+        <translation>إنشاء وسيلة إيضاح ملونة للعقدة المحددة القابلة للعرض.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="137"/>
         <source>Create</source>
-        <translation type="unfinished">Create</translation>
+        <translation>إنشاء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="144"/>
         <source>Use the currently selected colors for the selected displayable node.</source>
-        <translation type="unfinished">Use the currently selected colors for the selected displayable node.</translation>
+        <translation>استخدم الألوان المحددة حاليا للعقدة المحددة القابلة للعرض.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="147"/>
         <source>Use current colors</source>
-        <translation type="unfinished">Use current colors</translation>
+        <translation>استخدام الألوان الحالية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="154"/>
         <source>Delete the color legend for the selected displayable node.</source>
-        <translation type="unfinished">Delete the color legend for the selected displayable node.</translation>
+        <translation>احذف وسيلة إيضاح اللون للعقدة المحددة القابلة للعرض.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="157"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="166"/>
         <source>Color legend:</source>
-        <translation type="unfinished">Color legend:</translation>
+        <translation>وسيلة إيضاح اللون:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="178"/>
         <source>Color Table</source>
-        <translation type="unfinished">Color Table</translation>
+        <translation>جدول الألوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="233"/>
         <source>Number of Colors: </source>
-        <translation type="unfinished">Number of Colors: </translation>
+        <translation>عدد الألوان: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="256"/>
         <source>Hide empty Colors: </source>
-        <translation type="unfinished">Hide empty Colors: </translation>
+        <translation>إخفاء الألوان الفارغة: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="263"/>
         <source>Show/Hide the unnamed color entries in the list below.</source>
-        <translation type="unfinished">Show/Hide the unnamed color entries in the list below.</translation>
+        <translation>إظهار/إخفاء إدخالات الألوان غير المسماة في القائمة أدناه.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="273"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished">Scalar Range:</translation>
+        <translation>النطاق العددي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="283"/>
         <source>The range of scalars that are mapped to the full range of colors.</source>
-        <translation type="unfinished">The range of scalars that are mapped to the full range of colors.</translation>
+        <translation>نطاق الأعداد القياسية التي يتم تعيينها إلى النطاق الكامل للألوان.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="211"/>
         <source>Discrete table</source>
-        <translation type="unfinished">Discrete table</translation>
+        <translation>جدول منفصل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModuleWidget.cxx" line="269"/>
         <source>Continuous scale</source>
-        <translation type="unfinished">Continuous scale</translation>
+        <translation>مقياس مستمر</translation>
     </message>
 </context>
 <context>
