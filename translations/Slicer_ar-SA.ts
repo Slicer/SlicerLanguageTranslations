@@ -12046,7 +12046,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
         <source>Applied transform</source>
-        <translation type="unfinished">Applied transform</translation>
+        <translation>التحويل التطبيقي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
@@ -21020,9 +21020,9 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation type="unfinished">Do you want to harden all already applied transforms before setting the new one?
+        <translation>هل تريد تقوية جميع التحولات المطبقة بالفعل قبل تعيين التحويل الجديد؟
 
-  Note: If you choose no, then the applied transform will simply be replaced.</translation>
+  ملاحظة: إذا اخترت &quot;لا&quot; ، فسيتم ببساطة استبدال التحويل المطبق.</translation>
     </message>
 </context>
 <context>
