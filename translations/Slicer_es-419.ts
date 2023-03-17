@@ -8008,7 +8008,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
         <source>    Import DICOM files</source>
-        <translation>    .... Importar archivos DICOM</translation>
+        <translation>    Importar archivos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
