@@ -6,17 +6,17 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>ACPC Dönüşümü</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Beyin görüntülerini &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach koordinat sistemine&lt;/a&gt; (stereotaksik veya ACPC koordinat sistemi olarak da bilinir) göre hizalayan bir dönüşümü hesaplayın. Anatomik işaretler.&lt;/p&gt;&lt;p&gt;ACPC çizgisi, biri anterior komissürde ve diğeri posterior komissürde olmak üzere iki nokta arasında uzanır. Ortaya çıkan dönüşüm, iki noktayı yatay olarak AP eksenine bağlayan çizgiyi getirecektir.&lt;/p&gt;&lt;p&gt;Orta hat, beynin hemisferleri arasındaki ayrımı (orta sagital düzlem) tanımlayan bir dizi noktadır (en az 3). Ortaya çıkan dönüşüm, çıktı hacminin orta sagittal düzlemin AS düzlemi ile hizalanmasına neden olacaktır.&lt;/p&gt;&lt;p&gt;Dönüşümünü bir hacme uygulamak için &lt;b&gt;Yeniden Örnekleme Skaler/Vektör/DWI Hacmi&lt;/b&gt;&apos;ni kullanın. .&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu çalışma, Ulusal Sağlık Enstitüleri tarafından NIH Yol Haritası Tıbbi Araştırma, Hibe U54 EB005149 aracılığıyla finanse edilen Ulusal Tıbbi Görüntü Hesaplama İttifakı&apos;nın (NAMIC) bir parçasıdır.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
