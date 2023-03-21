@@ -21608,66 +21608,66 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="117"/>
         <source>Property type...</source>
-        <translation type="unfinished">Property type...</translation>
+        <translation>نوع الملكية...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="130"/>
         <source>Select type modifier...</source>
-        <translation type="unfinished">Select type modifier...</translation>
+        <translation>حدد نوع المعدل...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="169"/>
         <source>Select anatomic region context...</source>
-        <translation type="unfinished">Select anatomic region context...</translation>
+        <translation>حدد سياق المنطقة التشريحية...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="201"/>
         <source>Anatomic region...</source>
-        <translation type="unfinished">Anatomic region...</translation>
+        <translation>المنطقة التشريحية...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="243"/>
         <source>Select anatomic region modifier...</source>
-        <translation type="unfinished">Select anatomic region modifier...</translation>
+        <translation>حدد معدل المنطقة التشريحية...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="280"/>
         <source>Select terminology...</source>
-        <translation type="unfinished">Select terminology...</translation>
+        <translation>حدد المصطلحات...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="337"/>
         <source>Category...</source>
-        <translation type="unfinished">Category...</translation>
+        <translation>فئة...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="400"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>اسم:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/Resources/UI/qSlicerTerminologyNavigatorWidget.ui" line="421"/>
         <source>Color:</source>
-        <translation type="unfinished">Color:</translation>
+        <translation>لون:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1345"/>
         <source>No type modifier</source>
-        <translation type="unfinished">No type modifier</translation>
+        <translation>لا يوجد معدل للنوع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1991"/>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
-        <translation type="unfinished">There is a file with name &apos;%1&apos; in the stored contexts.
+        <translation>يوجد ملف باسم &quot;٪1&quot; في السياقات المخزنة.
 
-Do you wish to update the stored context file with the just loaded one?</translation>
+هل ترغب في تحديث ملف السياق المخزن بالملف الذي تم تحميله للتو؟</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1994"/>
         <source>Context file exists</source>
-        <translation type="unfinished">Context file exists</translation>
+        <translation>ملف السياق موجود</translation>
     </message>
 </context>
 <context>
