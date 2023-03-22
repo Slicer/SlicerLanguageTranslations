@@ -859,12 +859,12 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="295"/>
         <source>Copy on import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">النسخ عند الاستيراد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="299"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استيراد ملفات DICOM القاموس.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="671"/>
@@ -876,12 +876,18 @@ Button Checkable</source>
 %4 New Instances
 </source>
         <extracomment>Arguments represents the number of new patients, studies, series and instances</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تم استكمال استيراد الدليل.
+
+٪ 1 من المرضى الجدد
+٪ 2 دراسات جديدة
+٪ 3 سلسلة جديدة
+٪ 4 مثيلات جديدة
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="680"/>
         <source>DICOM Directory Import</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد دليل الدايكوم</translation>
     </message>
 </context>
 <context>
@@ -1012,12 +1018,12 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="365"/>
         <source>Add Link</source>
-        <translation type="unfinished"></translation>
+        <translation>اضافة رابط</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="366"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="368"/>
@@ -1027,12 +1033,12 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="370"/>
         <source>Import Directory Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع دليل الاستيراد:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="386"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">استيراد ملفات ديكوم من الدليل ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="391"/>
