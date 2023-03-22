@@ -10717,12 +10717,12 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>转换</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="357"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
         <source>Specify geometry</source>
         <translation>指定几何体</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="405"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
         <source>Conversion failed</source>
         <translation>转换失败</translation>
     </message>
@@ -14486,32 +14486,32 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="814"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="815"/>
         <source>Failed to create %1 directory</source>
         <translation>创建 %1 目录失败</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1746"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1747"/>
         <source>Built on top of:</source>
         <translation>建立在以下基础上：</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1766"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
         <source>Licensing Information</source>
         <translation>许可证信息</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
         <source>Website</source>
         <translation>网站</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1769"/>
         <source>Acknowledgments</source>
         <translation>致谢</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1775"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1776"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
         <translation>Slicer不是FDA批准的医疗设备。&lt;br&gt;&lt;br&gt;支持的是。&lt;br&gt;&lt;br&gt;特别感谢美国国立卫生研究院和我们的其他支持者。&lt;br&gt;&lt;br&gt;这项工作是国家医学图像计算联盟（NA-MIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。有关国家生物医学计算中心的信息可从&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;获得。&lt;br&gt;&lt;br&gt;</translation>
     </message>
@@ -14884,17 +14884,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="465"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="457"/>
         <source>DICOM dataset successfully exported to </source>
         <translation>DICOM 数据集成功导出到 </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="468"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="460"/>
         <source>the DICOM database</source>
         <translation>DICOM数据库</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="474"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="466"/>
         <source>Export successful</source>
         <translation>导出成功</translation>
     </message>
@@ -16298,41 +16298,42 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
-        <source>Select a reader to use for your data?</source>
-        <translation>选择要用于数据的读取器？</translation>
+        <source>Select a reader to use for your data:</source>
+        <oldsource>Select a reader to use for your data?</oldsource>
+        <translation type="unfinished">选择要用于数据的读取器？</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="440"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="442"/>
         <source>Loading file </source>
         <translation>正在加载文件 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="580"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
         <source>Adding data succeeded</source>
         <translation>添加数据成功</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="584"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
         <translation>已成功加载所选文件，但报告了错误或警告。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
         <source>Adding data failed</source>
         <translation>添加数据失败</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Error occurred while loading the selected files.</source>
         <translation>加载所选文件时出错。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="593"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="595"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
         <translation>点击 &apos;显示详细信息&apos; 按钮并检查应用程序日志以获取更多信息。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="600"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="602"/>
         <source>Check the application log for more information.</source>
         <translation>检查应用程序日志以获得更多信息。</translation>
     </message>
@@ -18240,6 +18241,8 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
         <source>Toggle Markups Toolbar</source>
         <translation>切换标记工具栏</translation>
     </message>
@@ -18259,7 +18262,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>放置</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="367"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation type="unfinished">放置一个控制点</translation>
     </message>
@@ -18393,12 +18396,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerPresetComboBox</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="143"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
         <source>Preset</source>
         <translation>预设</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="266"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
         <source>Select a Preset</source>
         <translation>选择预设</translation>
     </message>
@@ -22643,7 +22646,7 @@ This should only used by advanced users who understand the consequences of chang
     <name>qSlicerWebDownloadWidget</name>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Web download</source>
         <translation>网络下载</translation>
     </message>
@@ -22674,22 +22677,23 @@ This should only used by advanced users who understand the consequences of chang
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="110"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="138"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="74"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="88"/>
         <source>Save File</source>
         <translation>保存文件</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="124"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="126"/>
         <source>Downloading %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Download complete</source>
         <translation>下载完成</translation>
     </message>
@@ -22953,7 +22957,7 @@ This should only used by advanced users who understand the consequences of chang
         <translation>很遗憾此请求的模块在此Slicer中不可用。</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="401"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation type="unfinished">
@@ -22961,12 +22965,12 @@ This should only used by advanced users who understand the consequences of chang
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="403"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="391"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation>使用扩展管理器更新这些扩展：</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="437"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="425"/>
         <source>New application version is available: %1</source>
         <translation type="unfinished">新的应用程序版本可用： %1</translation>
     </message>

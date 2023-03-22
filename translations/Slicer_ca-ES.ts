@@ -5195,7 +5195,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
         <source>Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Model</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
@@ -5824,7 +5824,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paràmetres d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
@@ -5864,7 +5864,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
@@ -5948,7 +5948,8 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -5958,7 +5959,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paràmetres d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
@@ -5998,7 +5999,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre de mostres</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
@@ -6141,7 +6142,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada que s&apos;ha de tornar a mostrejar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
@@ -6404,7 +6405,7 @@ Preservació de la Direcció Principal (PPD)</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
@@ -6474,7 +6475,7 @@ Preservació de la Direcció Principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre de fils</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
@@ -6850,7 +6851,7 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="54"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="55"/>
@@ -7156,7 +7157,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volum d&apos;entrada que s&apos;ha de tornar a mostrejar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
@@ -7352,7 +7353,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre d&apos;iteracions</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
@@ -7558,7 +7559,7 @@ a = Transformada afí</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configuració del filtre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
@@ -10736,12 +10737,12 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
         <translation>Convertir</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="357"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
         <source>Specify geometry</source>
         <translation>Especifica la geometria</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="405"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
         <source>Conversion failed</source>
         <translation>La conversió ha fallat</translation>
     </message>
@@ -14502,32 +14503,32 @@ Capacitats gràfiques d&apos;aquest ordinador:
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="814"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="815"/>
         <source>Failed to create %1 directory</source>
         <translation>No s&apos;ha pogut crear el directori %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1746"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1747"/>
         <source>Built on top of:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1766"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
         <source>Licensing Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
         <source>Website</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1769"/>
         <source>Acknowledgments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1775"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1776"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14900,17 +14901,17 @@ Si no està marcat, el conjunt de dades exportat s&apos;afegirà a la base de da
         <translation>Exportar</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="465"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="457"/>
         <source>DICOM dataset successfully exported to </source>
         <translation>El conjunt de dades DICOM s&apos;ha exportat correctament a </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="468"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="460"/>
         <source>the DICOM database</source>
         <translation>la base de dades DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="474"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="466"/>
         <source>Export successful</source>
         <translation>Exportació correcta</translation>
     </message>
@@ -16315,41 +16316,42 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
-        <source>Select a reader to use for your data?</source>
-        <translation>Seleccionar un lector per a utilitzar amb les teves dades?</translation>
+        <source>Select a reader to use for your data:</source>
+        <oldsource>Select a reader to use for your data?</oldsource>
+        <translation type="unfinished">Seleccionar un lector per a utilitzar amb les teves dades?</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="440"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="442"/>
         <source>Loading file </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="580"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
         <source>Adding data succeeded</source>
         <translation>S&apos;han afegit dades correctament</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="584"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
         <translation>Els fitxers seleccionats s&apos;han carregat correctament, però s&apos;han informat errors o advertències.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
         <source>Adding data failed</source>
         <translation>Error en afegir dades</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Error occurred while loading the selected files.</source>
         <translation>S&apos;ha produït un error en carregar els fitxers seleccionats.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="593"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="595"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
         <translation>Clicar al botó «Mostrar els detalls» i comprovar el registre de l&apos;aplicació per a més informació.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="600"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="602"/>
         <source>Check the application log for more information.</source>
         <translation>Comprovar el registre de l&apos;aplicació per a més informació.</translation>
     </message>
@@ -18257,6 +18259,8 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
         <source>Toggle Markups Toolbar</source>
         <translation>Commutar la barra d&apos;eines de marcatges</translation>
     </message>
@@ -18276,7 +18280,7 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
         <translation>Ubicar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="367"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation type="unfinished">Ubicar un punt de control</translation>
     </message>
@@ -18410,12 +18414,12 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
 <context>
     <name>qSlicerPresetComboBox</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="143"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
         <source>Preset</source>
         <translation>Predefinit</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="266"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
         <source>Select a Preset</source>
         <translation>Seleccionar un predefinit</translation>
     </message>
@@ -22657,7 +22661,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     <name>qSlicerWebDownloadWidget</name>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Web download</source>
         <translation>Descàrrega web</translation>
     </message>
@@ -22688,22 +22692,23 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="110"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="138"/>
         <source>Cancel</source>
         <translation>Cancel·lar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="74"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="88"/>
         <source>Save File</source>
         <translation>Desar el fitxer</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="124"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="126"/>
         <source>Downloading %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Download complete</source>
         <translation>Descàrrega completada</translation>
     </message>
@@ -22962,7 +22967,7 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         <translation>Malauradament, aquest mòdul sol·licitat no està disponible en aquesta sessió de Slicer.</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="401"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation type="unfinished">
@@ -22971,12 +22976,12 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="403"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="391"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="437"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="425"/>
         <source>New application version is available: %1</source>
         <translation type="unfinished"></translation>
     </message>

@@ -10747,12 +10747,12 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
         <translation>Converter</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="357"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
         <source>Specify geometry</source>
         <translation>Especificar geometria</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="405"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
         <source>Conversion failed</source>
         <translation>Falha na conversão</translation>
     </message>
@@ -14516,32 +14516,32 @@ Capacidades gráficas deste computador:
 <context>
     <name>qSlicerCoreApplication</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="814"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="815"/>
         <source>Failed to create %1 directory</source>
         <translation>Falha ao criar o diretório %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1746"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1747"/>
         <source>Built on top of:</source>
         <translation>Construído em cima de:</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1766"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
         <source>Licensing Information</source>
         <translation>Informações de licenciamento</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1767"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
         <source>Website</source>
         <translation>Website</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1768"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1769"/>
         <source>Acknowledgments</source>
         <translation>Agradecimentos</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1775"/>
+        <location filename="Base/QTCore/qSlicerCoreApplication.cxx" line="1776"/>
         <source>Slicer is NOT an FDA approved medical device.&lt;br&gt;&lt;br&gt;Supported by: NA-MIC, NAC, BIRN, NCIGT and the Slicer Community.&lt;br&gt;&lt;br&gt;Special thanks to the NIH and our other supporters.&lt;br&gt;&lt;br&gt;This work is part of the National Alliance for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</source>
         <translation>O Slicer NÃO é um dispositivo médico aprovado pela FDA.&lt;br&gt;&lt;br&gt;Apoiado por: NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer.&lt;br&gt;&lt;br&gt;Agradecimentos especiais ao NIH e nossos outros apoiadores.&lt;br &lt;br&gt;Este trabalho faz parte da National Alliance for Medical Image Computing (NA-MIC), financiado pelos National Institutes of Health por meio do NIH Roadmap for Medical Research, Grant U54 EB005149. Informações sobre os Centros Nacionais de Computação Biomédica podem ser obtidas em&lt;a href=&quot;https://commonfund.nih.gov/bioinformatics&quot;&gt;https://commonfund.nih.gov/bioinformatics&lt;/a&gt;.&lt;br&gt;&lt; br&gt;</translation>
     </message>
@@ -14914,17 +14914,17 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
         <translation>Exportar</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="465"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="457"/>
         <source>DICOM dataset successfully exported to </source>
         <translation>Conjunto de dados DICOM exportados com sucesso para </translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="468"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="460"/>
         <source>the DICOM database</source>
         <translation>a base de dados DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="474"/>
+        <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="466"/>
         <source>Export successful</source>
         <translation>Exportação bem-sucedida</translation>
     </message>
@@ -16329,41 +16329,42 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
-        <source>Select a reader to use for your data?</source>
-        <translation>Selecione um leitor para usar para seus dados?</translation>
+        <source>Select a reader to use for your data:</source>
+        <oldsource>Select a reader to use for your data?</oldsource>
+        <translation type="unfinished">Selecione um leitor para usar para seus dados?</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="440"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="442"/>
         <source>Loading file </source>
         <translation>Carregando arquivo </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="580"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
         <source>Adding data succeeded</source>
         <translation>Adicionando dados com sucesso</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="584"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
         <translation>Os arquivos selecionados foram carregados com sucesso, mas erros ou avisos foram relatados.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="586"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
         <source>Adding data failed</source>
         <translation>Falha ao adicionar dados</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Error occurred while loading the selected files.</source>
         <translation>Ocorreu um erro ao carregar os arquivos selecionados.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="593"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="595"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
         <translation>Clique no botão &apos;Mostrar detalhes&apos; e veja o &apos;log&apos; do aplicativo para mais informações.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="600"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="602"/>
         <source>Check the application log for more information.</source>
         <translation>Verifique o &apos;log&apos; do aplicativo para mais informações.</translation>
     </message>
@@ -17982,7 +17983,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelos</translation>
     </message>
 </context>
 <context>
@@ -18271,6 +18272,8 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="148"/>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="149"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="178"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="179"/>
         <source>Toggle Markups Toolbar</source>
         <translation>Alternar Barra de Ferramentas de Marcações</translation>
     </message>
@@ -18290,7 +18293,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
         <translation>Colocar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="367"/>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
         <translation>Coloque um ponto de controle</translation>
     </message>
@@ -18424,12 +18427,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
 <context>
     <name>qSlicerPresetComboBox</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="143"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
         <source>Preset</source>
         <translation>Predefinição</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="266"/>
+        <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
         <source>Select a Preset</source>
         <translation>Selecionar uma predefinição</translation>
     </message>
@@ -22674,7 +22677,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <name>qSlicerWebDownloadWidget</name>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="51"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Web download</source>
         <translation>Download da rede</translation>
     </message>
@@ -22705,22 +22708,23 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="110"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="138"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="74"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="88"/>
         <source>Save File</source>
         <translation>Gravar arquivo</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="99"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="124"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="126"/>
         <source>Downloading %1</source>
         <translation>Baixando %1</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="137"/>
+        <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Download complete</source>
         <translation>Download completo</translation>
     </message>
@@ -22996,22 +23000,21 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
         <translation>Infelizmente o módulo solicitado não está disponível nesta sessão do Slicer.</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="401"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation>
             <numerusform>%1 atualização de extensão disponível</numerusform>
             <numerusform>%1 atualizações de extensão disponíveis</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="403"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="391"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation>Use o Gerenciador de Extensões para atualizar estas extensões:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="437"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="425"/>
         <source>New application version is available: %1</source>
         <translation>Nova versão da aplicação disponível: %1</translation>
     </message>
