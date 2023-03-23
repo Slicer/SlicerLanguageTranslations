@@ -2093,7 +2093,7 @@ Permet llançar el mateix tipus que el volum d&apos;entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
         <source>Checker Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Patró de quadres</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
@@ -2867,22 +2867,22 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
         <source>Conversion Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de conversió</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="9"/>
         <source>Options that are used for all conversion modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions que s&apos;utilitzen per a tots els modes de conversió</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="10"/>
         <source>Input DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de volum DWI d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"/>
         <source>Output DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de volum DWI de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
@@ -2905,7 +2905,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
         <source>DicomToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>DicomToNrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
@@ -2925,22 +2925,22 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de conversió Dicom a Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
         <source>Parameters for Dicom to NRRD Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres per a la conversió de Dicom a NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori de dades d&apos;Entrada Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori que conté la sèrie Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
@@ -2956,12 +2956,12 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
         <source>Input bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer bval d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
         <source>Input bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer bvec d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
@@ -2991,17 +2991,17 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
         <source>Output nii file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer nii de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
         <source>Output bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer bval de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
         <source>Output bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer bvec de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
@@ -3021,12 +3021,12 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"/>
         <source>Advanced Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de conversió avançats</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
         <source>Options to control the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions per controlar la sortida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
@@ -3046,7 +3046,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
@@ -3056,12 +3056,12 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
         <source>Transpose Input BVectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Transposar BVectors d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
         <source>Allow lossy image conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet la conversió d&apos;imatges amb pèrdues</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
@@ -3081,7 +3081,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
         <source>Directory holding the output NRRD file</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori que conté el fitxer NRRD de sortida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
@@ -3096,12 +3096,12 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;únic tipus de sortida compatible és «curt». La conversió d&apos;imatges d&apos;un altre tipus pot provocar pèrdues de dades a causa de l&apos;arrodoniment o el truncament. Utilitzeu-lo amb precaució!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
         <source>DEPRECATED THESE DO NOT WORK</source>
-        <translation type="unfinished"></translation>
+        <translation>AQUESTS OBSOLETS NO FUNCIONEN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
@@ -3129,12 +3129,12 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation>Visita el model d&apos;execució</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="5"/>
         <source>Shows one of each type of parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra un de cada tipus de paràmetre.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
@@ -3149,17 +3149,17 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"/>
         <source>Variations on scalar parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variacions dels paràmetres escalars</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre enter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre doble</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
@@ -3174,52 +3174,52 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres vectorials</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variacions dels paràmetres vectorials</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre de vector flotant</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre vectorial de cadena</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>Un vector de flotants</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Un vector de cadenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres d&apos;enumeració</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variacions sobre paràmetres d&apos;enumeració</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetre d&apos;enumeració de cadenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Una enumeració de cadenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"/>
@@ -3227,153 +3227,153 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"/>
         <source>Bill</source>
-        <translation type="unfinished"></translation>
+        <translation>Factura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="124"/>
         <source>Ron</source>
-        <translation type="unfinished"></translation>
+        <translation>Ron</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="125"/>
         <source>Eric</source>
-        <translation type="unfinished"></translation>
+        <translation>Eric</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="127"/>
         <source>Ross</source>
-        <translation type="unfinished"></translation>
+        <translation>Ross</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="28"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="128"/>
         <source>Steve</source>
-        <translation type="unfinished"></translation>
+        <translation>Steve</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="29"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="129"/>
         <source>Will</source>
-        <translation type="unfinished"></translation>
+        <translation>Will</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="30"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="130"/>
         <source>árvíztűrő tükörfúrógép</source>
-        <translation type="unfinished"></translation>
+        <translation>árvíztűrő tükörfúrógép</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
         <source>Boolean Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres booleans</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"/>
         <source>Variations on boolean parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Variacions sobre paràmetres booleans</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
         <source>Boolean Default true</source>
-        <translation type="unfinished"></translation>
+        <translation>Booleà per defecte cert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
         <source>Boolean Default false</source>
-        <translation type="unfinished"></translation>
+        <translation>Booleà per defecte fals</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
         <source>Boolean No Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Booleà sense predeterminat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
         <source>A boolean default true</source>
-        <translation type="unfinished"></translation>
+        <translation>Un booleà per defecte cert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"/>
         <source>A boolean default false</source>
-        <translation type="unfinished"></translation>
+        <translation>Un booleà per defecte fals</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"/>
         <source>A boolean with no default, should be defaulting to false</source>
-        <translation type="unfinished"></translation>
+        <translation>Un booleà sense predeterminat hauria de ser fals</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
         <source>File, Directory and Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de fitxer, directori i imatge</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
         <source>Parameters that describe files and directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres que descriuen fitxers i directoris.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"/>
         <source>Input file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"/>
         <source>Input Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"/>
         <source>Output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxa de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"/>
         <source>Input directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
         <source>Input 4D Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge 4D d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
         <source>An input file</source>
-        <translation type="unfinished"></translation>
+        <translation>Un fitxer d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"/>
         <source>Multiple input files</source>
-        <translation type="unfinished"></translation>
+        <translation>Múltiples fitxers d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"/>
         <source>An output file</source>
-        <translation type="unfinished"></translation>
+        <translation>Un fitxer de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"/>
         <source>An input directory. If no default is specified, the current directory is used,</source>
-        <translation type="unfinished"></translation>
+        <translation>Un directori d&apos;entrada. Si no s&apos;especifica per defecte, s&apos;utilitza el directori actual,</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
         <source>An input image</source>
-        <translation type="unfinished"></translation>
+        <translation>Una imatge d&apos;entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
@@ -3383,7 +3383,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
         <source>An output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Una imatge de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
@@ -3478,32 +3478,32 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
         <source>Point Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de punts</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
         <source>Parameters that describe point sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres que descriuen conjunts de punts.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Llavors</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"/>
         <source>Seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de llavors</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"/>
         <source>Output seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de llavors de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Les llistes de punts de la CLI corresponen a les llistes fiduciàries de la secció</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
