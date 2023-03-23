@@ -21535,7 +21535,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="293"/>
         <source>Lock first row</source>
-        <translation type="unfinished">Lock first row</translation>
+        <translation type="unfinished">Verrouiller la première rangée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="334"/>
