@@ -14349,7 +14349,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="48"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>الألوان</translation>
     </message>
 </context>
 <context>
@@ -21435,7 +21435,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="47"/>
         <source>Tables</source>
-        <translation type="unfinished">Tables</translation>
+        <translation>الجداول</translation>
     </message>
 </context>
 <context>
@@ -21443,7 +21443,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="20"/>
         <source>Tables</source>
-        <translation type="unfinished">Tables</translation>
+        <translation>الجداول</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
