@@ -21598,7 +21598,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/Terminologies/Resources/UI/qSlicerTerminologiesModule.ui" line="14"/>
         <location filename="Modules/Loadable/Terminologies/qSlicerTerminologiesModule.h" line="47"/>
         <source>Terminologies</source>
-        <translation type="unfinished">Terminologies</translation>
+        <translation>المصطلحات</translation>
     </message>
 </context>
 <context>
