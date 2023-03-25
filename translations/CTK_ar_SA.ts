@@ -1492,278 +1492,278 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="890"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير المقطعي بالإصدار البوزيتروني (PET)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="891"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي (فيلم / شاشة تقليدية)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="892"/>
         <source>Single-photon emission computed tomograpy (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير المقطعي المحوسب بانبعاث فوتون واحد (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="893"/>
         <source>Thermography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الحراري</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="894"/>
         <source>X-Ray Aniography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير بالأشعة السينية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="895"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التنظير الفلوري الراديوي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="896"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="897"/>
         <source>Radiotherapy Dose</source>
-        <translation type="unfinished"></translation>
+        <translation>جرعة العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="898"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة هيكل العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
         <source>Radiotherapy Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>خطة العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل علاج RT</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="901"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة ورقية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="902"/>
         <source>Digital Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي الرقمي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="903"/>
         <source>Mammography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي للثدي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="904"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي داخل الفم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>الأشعة السينية البانورامية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>الفحص المجهري العام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة مجهرية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الفوتوغرافي بالكاميرا الخارجية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="909"/>
         <source>Presentation state</source>
-        <translation type="unfinished"></translation>
+        <translation>حالة العرض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>صوتي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
         <source>Electrocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط كهربية القلب</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="912"/>
         <source>Cardiac Electrophysiology</source>
-        <translation type="unfinished"></translation>
+        <translation>الفيزيولوجيا الكهربية للقلب</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="913"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل موجة الدورة الدموية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>وثيقة SR</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>الموجات فوق الصوتية داخل الأوعية الدموية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="916"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير العيون</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="917"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>علاقة مجسمة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير المقطعي للتماسك البصري (غير العيني)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>انكسار العيون</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="920"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>المجال البصري العيني</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="921"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم خرائط العيون</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="922"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الكائن الرئيسي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="923"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>تجزئه</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
         <source>Ophthalmic Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير المقطعي العيني</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="926"/>
         <source>Bone Densitometry (ultrasound)</source>
-        <translation type="unfinished"></translation>
+        <translation>قياس كثافة العظام (الموجات فوق الصوتية)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="927"/>
         <source>Bone Densitometry (X-Ray)</source>
-        <translation type="unfinished"></translation>
+        <translation>قياس كثافة العظام (الأشعة السينية)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="928"/>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>وثيقة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="931"/>
         <source>Digital Subtraction Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير الأوعية بالطرح الرقمي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="932"/>
         <source>Cinefluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير السينمائي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="933"/>
         <source>Digital fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التنظير الفلوري الرقمي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="934"/>
         <source>Videofluorography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الفلوري بالفيديو</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="935"/>
         <source>Angioscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>تنظير الأوعية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="936"/>
         <source>Cystoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>تنظير المثانة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="937"/>
         <source>Echocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط صدى القلب</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="938"/>
         <source>Laparoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>تنظير البطن</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="939"/>
         <source>Fluorescein angiography </source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير الأوعية بالفلوريسئين </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="940"/>
         <source>Culposcopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التنظير المهبلي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="941"/>
         <source>Digital microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>المجهر الرقمي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="942"/>
         <source>Fundoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>تنظير القاع</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="943"/>
         <source>Magnetic resonance angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير الأوعية بالرنين المغناطيسي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="944"/>
         <source>Magnetic resonance spectroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التحليل الطيفي بالرنين المغناطيسي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="973"/>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="994"/>
         <source>Unknown (no DICOM dictionary loaded)</source>
-        <translation type="unfinished"></translation>
+        <translation>غير معروف (لم يتم تحميل قاموس DICOM)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="977"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>مجهول</translation>
     </message>
 </context>
 <context>
@@ -1781,52 +1781,52 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="510"/>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="516"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="128"/>
         <source>Age</source>
-        <translation type="unfinished"></translation>
+        <translation>عمر</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="130"/>
         <source>Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح ضوئي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="132"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="134"/>
         <source>Subject ID</source>
-        <translation type="unfinished"></translation>
+        <translation>معرف الموضوع</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="136"/>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="138"/>
         <source>Institution</source>
-        <translation type="unfinished"></translation>
+        <translation>المؤسسه</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="140"/>
         <source>Referrer</source>
-        <translation type="unfinished"></translation>
+        <translation>الاحالات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="142"/>
         <source>Performer</source>
-        <translation type="unfinished"></translation>
+        <translation>اداء</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="512"/>
         <source>No description</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد وصف</translation>
     </message>
 </context>
 <context>
@@ -1907,27 +1907,27 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="81"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>العلامه</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="82"/>
         <source>Attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>صفة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="83"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="84"/>
         <source>VR</source>
-        <translation type="unfinished"></translation>
+        <translation>الواقع الافتراضي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMObjectModel.cpp" line="85"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>طول</translation>
     </message>
 </context>
 <context>
@@ -1935,72 +1935,72 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="263"/>
         <source>DB open in Query</source>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة بيانات مفتوحة في الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="268"/>
         <source>DB not open in Query</source>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة البيانات غير مفتوحة في الاستعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="281"/>
         <source>Setting Transfer Syntaxes</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد تراكيب النقل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="295"/>
         <source>Error initializing the network</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في تهيئة الشبكة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="300"/>
         <source>Negotiating Association</source>
-        <translation type="unfinished"></translation>
+        <translation>جمعية التفاوض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="308"/>
         <source>Error negotiating the association</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في التفاوض على الجمعية</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="409"/>
         <source>Failed to find acceptable presentation context</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في العثور على سياق عرض تقديمي مقبول</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="414"/>
         <source>Found useful presentation context</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على سياق عرض تقديمي مفيد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="423"/>
         <source>Find failed</source>
-        <translation type="unfinished"></translation>
+        <translation>البحث عن فشل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="429"/>
         <source>Find succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>البحث عن النجاح</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="442"/>
         <source>Processing Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>دراسة المعالجة: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="475"/>
         <source>Starting Series C-FIND for Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>بدء سلسلة C-FIND للدراسة: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="500"/>
         <source>Find succeeded on Series level for Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>البحث عن النجاح على مستوى السلسلة للدراسة: </translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="507"/>
         <source>Find on Series level failed for Study: </source>
-        <translation type="unfinished"></translation>
+        <translation>البحث عن مستوى السلسلة فشل للدراسة: </translation>
     </message>
 </context>
 <context>
@@ -2035,7 +2035,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
         <source>Query DICOM servers</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستعلام عن خوادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
@@ -2052,7 +2052,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
         <source>Retrieve from DICOM servers</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسترداد من خوادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="341"/>
@@ -2136,48 +2136,48 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="73"/>
         <source>Got move request</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على طلب نقل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="96"/>
         <source>Got STORE request for %1</source>
         <extracomment>%1 is an instance UID</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على طلب تخزين ل ٪1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="123"/>
         <source>Got CGET response</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على استجابة CGET</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="399"/>
         <source>Sending Get Request</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال طلب الحصول</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="416"/>
         <source>Found Presentation Context</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على سياق العرض التقديمي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="423"/>
         <source>Sent Get Request</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال طلب الحصول</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="439"/>
         <source>No Responses from Server!</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد ردود من الخادم!</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="443"/>
         <source>Got Responses</source>
-        <translation type="unfinished"></translation>
+        <translation>حصلت على ردود</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="504"/>
         <source>Finished Get</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتهاء من الحصول على</translation>
     </message>
 </context>
 <context>
@@ -2285,7 +2285,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="167"/>
         <source>Image %1</source>
         <extracomment>%1 is the image sequence number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>صورة ٪1</translation>
     </message>
 </context>
 <context>
@@ -2967,377 +2967,377 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="123"/>
         <source>DG</source>
-        <translation type="unfinished"></translation>
+        <translation>DG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="130"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التنظير</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="133"/>
         <source>ES</source>
-        <translation type="unfinished"></translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="140"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح سطح الليزر</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="143"/>
         <source>LS</source>
-        <translation type="unfinished"></translation>
+        <translation>LS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="150"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير المقطعي بالإصدار البوزيتروني (PET)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="153"/>
         <source>PT</source>
-        <translation type="unfinished"></translation>
+        <translation>PT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="160"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي (فيلم / شاشة تقليدية)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
         <source>RG</source>
-        <translation type="unfinished"></translation>
+        <translation>RG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="170"/>
         <source>Single-photon emission computed tomography (SPECT)</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير المقطعي المحوسب بإصدار فوتون واحد (SPECT)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="173"/>
         <source>ST</source>
-        <translation type="unfinished"></translation>
+        <translation>ST</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="180"/>
         <source>Thermography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الحراري</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="183"/>
         <source>TG</source>
-        <translation type="unfinished"></translation>
+        <translation>TG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="190"/>
         <source>X-Ray Angiography</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير الأوعية بالأشعة السينية</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="193"/>
         <source>XA</source>
-        <translation type="unfinished"></translation>
+        <translation>XA</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="200"/>
         <source>Radio Fluoroscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التنظير الفلوري الراديوي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="203"/>
         <source>RF</source>
-        <translation type="unfinished"></translation>
+        <translation>RF</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="210"/>
         <source>Radiotherapy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="213"/>
         <source>RTIMAGE</source>
-        <translation type="unfinished"></translation>
+        <translation>RTIMAGE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="220"/>
         <source>Radiotherapy Dose</source>
-        <translation type="unfinished"></translation>
+        <translation>جرعة العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="223"/>
         <source>RTDOSE</source>
-        <translation type="unfinished"></translation>
+        <translation>RTDOSE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="230"/>
         <source>Radiotherapy Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة هيكل العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="233"/>
         <source>RTSTRUCT</source>
-        <translation type="unfinished"></translation>
+        <translation>RTSTRUCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="240"/>
         <source>Radiotherapy Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>خطة العلاج الإشعاعي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="243"/>
         <source>RTPLAN</source>
-        <translation type="unfinished"></translation>
+        <translation>RTPLAN</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="250"/>
         <source>RT Treatment Record</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل العلاج RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
         <source>RTRECTORD</source>
-        <translation type="unfinished"></translation>
+        <translation>المستقيم</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="260"/>
         <source>Hard Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخة مطبوعة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="263"/>
         <source>HC</source>
-        <translation type="unfinished"></translation>
+        <translation>HC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="270"/>
         <source>Digital Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي الرقمي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="273"/>
         <source>DX</source>
-        <translation type="unfinished"></translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="280"/>
         <source>Mammography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي للثدي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="283"/>
         <source>MG</source>
-        <translation type="unfinished"></translation>
+        <translation>MG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="290"/>
         <source>Intra-oral Radiography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الشعاعي داخل الفم</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="293"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="300"/>
         <source>Panoramic X-Ray</source>
-        <translation type="unfinished"></translation>
+        <translation>الأشعة السينية البانورامية</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="303"/>
         <source>PX</source>
-        <translation type="unfinished"></translation>
+        <translation>PX</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="310"/>
         <source>General Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>الفحص المجهري العام</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="313"/>
         <source>GM</source>
-        <translation type="unfinished"></translation>
+        <translation>GM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="320"/>
         <source>Slide Microscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة مجهرية</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="323"/>
         <source>SM</source>
-        <translation type="unfinished"></translation>
+        <translation>SM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="330"/>
         <source>External-camera Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير الفوتوغرافي بالكاميرا الخارجية</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="333"/>
         <source>XC</source>
-        <translation type="unfinished"></translation>
+        <translation>XC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="340"/>
         <source>Presentation State</source>
-        <translation type="unfinished"></translation>
+        <translation>حالة العرض</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="343"/>
         <source>PR</source>
-        <translation type="unfinished"></translation>
+        <translation>PR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="350"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>صوتي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="353"/>
         <source>AU</source>
-        <translation type="unfinished"></translation>
+        <translation>AU</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="360"/>
         <source>Electrocardiography</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط كهربية القلب</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="363"/>
         <source>ECG</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط كهربية القلب</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="370"/>
         <source>Cardiac Electrophysiology</source>
-        <translation type="unfinished"></translation>
+        <translation>الفيزيولوجيا الكهربية للقلب</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="373"/>
         <source>EPS</source>
-        <translation type="unfinished"></translation>
+        <translation>EPS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="380"/>
         <source>Hemodynamic Waveform</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل موجة الدورة الدموية</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="383"/>
         <source>HD</source>
-        <translation type="unfinished"></translation>
+        <translation>عالية الدقة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="390"/>
         <source>SR Document</source>
-        <translation type="unfinished"></translation>
+        <translation>وثيقة SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="393"/>
         <source>SR</source>
-        <translation type="unfinished"></translation>
+        <translation>SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"/>
         <source>Intravascular Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>الموجات فوق الصوتية داخل الأوعية الدموية</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="403"/>
         <source>IVUS</source>
-        <translation type="unfinished"></translation>
+        <translation>IVUS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="410"/>
         <source>Ophthalmic Photography</source>
-        <translation type="unfinished"></translation>
+        <translation>تصوير العيون</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="413"/>
         <source>OP</source>
-        <translation type="unfinished"></translation>
+        <translation>OP</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="420"/>
         <source>Stereometric Relationship</source>
-        <translation type="unfinished"></translation>
+        <translation>علاقة مجسمة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="423"/>
         <source>SMR</source>
-        <translation type="unfinished"></translation>
+        <translation>SMR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"/>
         <source>Optical Coherence Tomography</source>
-        <translation type="unfinished"></translation>
+        <translation>التصوير المقطعي للتماسك البصري</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"/>
         <source>OCT</source>
-        <translation type="unfinished"></translation>
+        <translation>OCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="440"/>
         <source>Ophthalmic Refraction</source>
-        <translation type="unfinished"></translation>
+        <translation>انكسار العيون</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="443"/>
         <source>OPR</source>
-        <translation type="unfinished"></translation>
+        <translation>OPR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="450"/>
         <source>Ophthalmic Visual Field</source>
-        <translation type="unfinished"></translation>
+        <translation>المجال البصري العيني</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="453"/>
         <source>OPV</source>
-        <translation type="unfinished"></translation>
+        <translation>OPV</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="460"/>
         <source>Ophthalmic Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم خرائط العيون</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="463"/>
         <source>OPM</source>
-        <translation type="unfinished"></translation>
+        <translation>OPM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="470"/>
         <source>Key Object Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد الكائن الرئيسي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="473"/>
         <source>KO</source>
-        <translation type="unfinished"></translation>
+        <translation>KO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"/>
         <source>Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>تجزئه</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="483"/>
         <source>SEG</source>
-        <translation type="unfinished"></translation>
+        <translation>SEG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="490"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="493"/>
         <source>REG</source>
-        <translation type="unfinished"></translation>
+        <translation>REG</translation>
     </message>
 </context>
 <context>
@@ -3345,12 +3345,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="328"/>
         <source>Open a dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح مربع حوار</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="638"/>
         <source>Select a file to save </source>
-        <translation type="unfinished"></translation>
+        <translation>حدد ملفا لحفظه </translation>
     </message>
 </context>
 <context>
@@ -3358,28 +3358,28 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="23"/>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="26"/>
         <source>Add files</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة ملفات</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="33"/>
         <source>Add a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة دليل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="36"/>
         <source>Add directory</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة دليل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="43"/>
         <source>Remove selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة الإدخالات المحددة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
@@ -3389,12 +3389,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
         <source>Edit current entry</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير الإدخال الحالي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="56"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>حرر</translation>
     </message>
 </context>
 <context>
@@ -3402,7 +3402,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="123"/>
         <source>Editing the path failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحرير المسار</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="124"/>
@@ -3415,27 +3415,35 @@ to path
 %2
 
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في تغيير المسار:
+
+%1
+
+إلى المسار
+
+%2
+
+يرجى التحقق من أذوناتك.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="152"/>
         <source>Select one or more files</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد ملف واحد أو أكثر</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="156"/>
         <source>Select a file</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد ملفا</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="241"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد دليلا</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="316"/>
         <source>Adding paths failed</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت إضافة المسارات</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathListButtonsWidget.cpp" line="317"/>
@@ -3443,7 +3451,10 @@ Please check your permissions.</source>
 
 %1
 Please check your permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إضافة المسارات التالية:
+
+%1
+يرجى التحقق من أذوناتك.</translation>
     </message>
 </context>
 <context>
@@ -3456,37 +3467,37 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="37"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="49"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>الإضافات</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="104"/>
         <source>Qt Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>موارد Qt</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="132"/>
         <source>Plugin Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>موارد البرنامج المساعد</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="157"/>
         <source>Services</source>
-        <translation type="unfinished"></translation>
+        <translation>خدمات</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="197"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="241"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>الأحداث</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="262"/>
