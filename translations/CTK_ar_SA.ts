@@ -1043,7 +1043,7 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="391"/>
         <source>DICOM File Metadata</source>
-        <translation>البيانات الوصفية لملف DICOM</translation>
+        <translation type="unfinished">البيانات الوصفية لملف DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="584"/>
