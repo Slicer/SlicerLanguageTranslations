@@ -5896,99 +5896,100 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">اختبار قياس التسجيل (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>قارن القيمة المترية Mattes / MSQ لصورتي إدخال وتحويل BSpline محتمل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
         <source>Transform File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل اسم الملف</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"/>
         <source>Fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة ثابتة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"/>
         <source>Moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة متحركة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإدخال الذي يستخدم لالتفاف الصورة المتحركة قبل المقارنة المترية.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
         <source>Input variables</source>
-        <translation type="unfinished"></translation>
+        <translation>متغيرات الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="14"/>
         <source>Metric type and input parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع المقياس ومعلمات الإدخال.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="15"/>
         <source>Metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع المقياس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد العينات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد صناديق الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
         <source>Comparison metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع مقياس المقارنة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="19"/>
         <source>The number of voxels sampled for metric evaluation.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الفوكسل التي تم أخذ عينات منها للتقييم المتري.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد صناديق الرسم البياني عندما يكون MMI (Mattes) من النوع المتري.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>MSE</translation>
     </message>
 </context>
 <context>
@@ -5996,27 +5997,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"/>
         <source>Probe Volume With Model</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم التحقيق مع النموذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بطلاء نموذج بواسطة وحدة تخزين (باستخدام vtkProbeFilter).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
         <source>BWH, NCIGT/LMI</source>
-        <translation type="unfinished"></translation>
+        <translation>BWH ، NCIGT / LMI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>معلمات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
