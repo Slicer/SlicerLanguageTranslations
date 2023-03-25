@@ -18346,32 +18346,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="46"/>
         <source>Charts</source>
-        <translation type="unfinished">Charts</translation>
+        <translation>المخططات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="58"/>
         <source>Chart:</source>
-        <translation type="unfinished">Chart:</translation>
+        <translation>جدول:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="94"/>
         <source>Allow plot editing</source>
-        <translation type="unfinished">Allow plot editing</translation>
+        <translation>السماح بتحرير المؤامرة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="114"/>
         <source>Series</source>
-        <translation type="unfinished">Series</translation>
+        <translation>سلسلة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
         <source>Data series:</source>
-        <translation type="unfinished">Data series:</translation>
+        <translation>سلسلة البيانات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
         <source>Clone data series</source>
-        <translation type="unfinished">Clone data series</translation>
+        <translation>سلسلة بيانات الاستنساخ</translation>
     </message>
 </context>
 <context>
@@ -18379,7 +18379,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="149"/>
         <source>Preset</source>
-        <translation type="unfinished">Preset</translation>
+        <translation>مسبقا</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerPresetComboBox.cxx" line="272"/>
