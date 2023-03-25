@@ -1043,7 +1043,7 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="391"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>البيانات الوصفية لملف DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="584"/>
@@ -1067,12 +1067,12 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
         <source>Database Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>إصلاح قاعدة البيانات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="859"/>
         <source>All the files in the local database are available.</source>
-        <translation type="unfinished"></translation>
+        <translation>تتوفر جميع الملفات الموجودة في قاعدة البيانات المحلية.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="886"/>
@@ -1082,12 +1082,16 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>لا تتوفر ملفات السلسلة التالية على القرص: 
+اسم المريض: ٪1
+وصف الدراسة: ٪2
+وصف السلسلة: ٪3
+هل تريد إزالة السلسلة من قاعدة بيانات DICOM؟</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1090"/>
         <source>Do you want to delete the following selected items?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد حذف العناصر المحددة التالية؟</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1124"/>
@@ -1095,88 +1099,88 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1238"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1316"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1156"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1230"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1308"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض بيانات تعريف DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1159"/>
         <source>View DICOM metadata of %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض بيانات تعريف DICOM لـ٪ 1 من المرضى المحددين</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1167"/>
         <source>Delete %1 selected patients</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف ٪1 المرضى المختارين</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1172"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1246"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1324"/>
         <source>Export to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1175"/>
         <source>Export %1 selected patients to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير ٪1 المرضى المحددين إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1332"/>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1183"/>
         <source>Send %1 selected patients to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال٪ 1 من المرضى المحددين إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1233"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض بيانات تعريف DICOM لـ٪ 1 دراسات محددة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1241"/>
         <source>Delete %1 selected studies</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف٪ 1 الدراسات المحددة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1249"/>
         <source>Export %1 selected studies to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير٪ 1 دراسات محددة إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1257"/>
         <source>Send %1 selected studies to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال ٪1 دراسات محددة إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1311"/>
         <source>View DICOM metadata of %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض بيانات تعريف DICOM للسلسلة المحددة ٪1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1319"/>
         <source>Delete %1 selected series</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف ٪1 السلسلة المحددة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1327"/>
         <source>Export %1 selected series to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير٪ 1 سلسلة محددة إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1335"/>
         <source>Send %1 selected series to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>إرسال٪ 1 مجموعة محددة إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1419"/>
@@ -1186,7 +1190,11 @@ Do you want to remove the series from the DICOM database?</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تعذر إنشاء دليل وجهة التصدير:
+
+٪ 1
+
+وقف التصدير.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
@@ -1214,7 +1222,13 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على ملف مصدر التصدير:
+
+٪ 1
+
+وقف التصدير.
+
+يمكن إصلاح الخطأ عن طريق الإصلاح.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1469"/>
@@ -1224,7 +1238,11 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ملف وجهة التصدير موجود بالفعل:
+
+٪ 1
+
+وقف التصدير.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1484"/>
@@ -1238,18 +1256,26 @@ to
 
 Halting export.</source>
         <extracomment>%1 and %2 refers to source and destination file paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل النسخ
+
+%1
+
+ل
+
+%2
+
+وقف التصدير.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1514"/>
         <source>Updating database displayed fields...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث الحقول المعروضة لقاعدة البيانات ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1788"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل الاستيراد: تمت إضافة٪ 1 مرضى ، و٪ 2 دراسات ، و٪ 3 سلسلة ، و٪ 4 حالات.</translation>
     </message>
 </context>
 <context>
@@ -1286,17 +1312,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="25"/>
         <source>Unnamed RT Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>خطة RT بدون اسم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="26"/>
         <source>Unnamed RT Structure Set</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة هيكل RT بدون اسم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="27"/>
         <source>Unnamed RT Image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة RT بدون اسم</translation>
     </message>
 </context>
 <context>
@@ -1347,23 +1373,23 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="222"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="249"/>
         <source>Parsing DICOM files</source>
-        <translation type="unfinished"></translation>
+        <translation>تحليل ملفات DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="131"/>
         <source>Updating database displayed fields</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث الحقول المعروضة لقاعدة البيانات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="152"/>
         <source>Indexing complete</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتملت الفهرسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="220"/>
         <location filename="Libs/DICOM/Core/ctkDICOMIndexer.cpp" line="247"/>
         <source>Updating database fields</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث حقول قاعدة البيانات</translation>
     </message>
 </context>
 <context>
@@ -1371,42 +1397,42 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="851"/>
         <source>Head First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>الرأس أولاً - منبطح</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="852"/>
         <source>Head First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>الرأس أولاً - استلقاء يمينًا</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="853"/>
         <source>Feet First - Decubitus Right</source>
-        <translation type="unfinished"></translation>
+        <translation>قدم أولا - استلقاء الحق</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="854"/>
         <source>Feet First - Prone</source>
-        <translation type="unfinished"></translation>
+        <translation>القدم أولاً - منبطح</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="855"/>
         <source>Head First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>الرأس أولا - ضعيف</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="856"/>
         <source>Head First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>الرأس أولا - استلقاء اليسار</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="857"/>
         <source>Feet First - Decubitus Left</source>
-        <translation type="unfinished"></translation>
+        <translation>قدم أولا - استلقاء اليسار</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="858"/>
         <source>Feet First - Supine</source>
-        <translation type="unfinished"></translation>
+        <translation>قدم أولا - ضعيف</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="879"/>
@@ -1456,12 +1482,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="888"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>التنظير</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="889"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح سطح الليزر</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="890"/>
