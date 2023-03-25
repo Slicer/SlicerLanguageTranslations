@@ -14174,22 +14174,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="14"/>
         <source>Module</source>
-        <translation type="unfinished">Module</translation>
+        <translation>الوحده النمطيه</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="47"/>
         <source>Module Title</source>
-        <translation type="unfinished">Module Title</translation>
+        <translation>عنوان الوحدة</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parameter set:</translation>
+        <translation>مجموعة المعلمات:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="104"/>
         <source>Reset parameters to default.</source>
-        <translation type="unfinished">Reset parameters to default.</translation>
+        <translation>إعادة تعيين المعلمات إلى الوضع الافتراضي.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="107"/>
@@ -14200,67 +14200,67 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="98"/>
         <source>AutoRun</source>
-        <translation type="unfinished">AutoRun</translation>
+        <translation type="unfinished">التشغيل التلقائي</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="143"/>
         <source>Cancel the execution of the module</source>
-        <translation type="unfinished">Cancel the execution of the module</translation>
+        <translation>إلغاء تنفيذ الوحدة</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="146"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="156"/>
         <source>Execute the module</source>
-        <translation type="unfinished">Execute the module</translation>
+        <translation>تنفيذ الوحدة</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="159"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>طبق</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
         <source>AutoRun on changed parameter</source>
-        <translation type="unfinished">AutoRun on changed parameter</translation>
+        <translation>التشغيل التلقائي على المعلمة التي تم تغييرها</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</translation>
+        <translation>طالما أن زر التشغيل التلقائي معطل، يتم تشغيل الوحدة في أي وقت يتم فيه تغيير قيمة المعلمة.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="110"/>
         <source>AutoRun on modified input</source>
-        <translation type="unfinished">AutoRun on modified input</translation>
+        <translation>التشغيل التلقائي على الإدخال المعدل</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="112"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node is modified.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node is modified.</translation>
+        <translation>طالما أن زر التشغيل التلقائي معطل ، يتم تشغيل الوحدة في أي وقت يتم فيه تعديل عقدة الإدخال.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="119"/>
         <source>AutoRun on other input events</source>
-        <translation type="unfinished">AutoRun on other input events</translation>
+        <translation>التشغيل التلقائي على أحداث الإدخال الأخرى</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="121"/>
         <source>As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</source>
-        <translation type="unfinished">As long as the AutoRun button is down, the module is run anytime an input node fires an event other than a modified event.</translation>
+        <translation>طالما أن زر التشغيل التلقائي معطل، يتم تشغيل الوحدة النمطية في أي وقت تقوم فيه عقدة الإدخال بتشغيل حدث آخر غير حدث معدل.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="128"/>
         <source>AutoRun cancels running process</source>
-        <translation type="unfinished">AutoRun cancels running process</translation>
+        <translation>التشغيل التلقائي يلغي عملية التشغيل</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="130"/>
         <source>When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</source>
-        <translation type="unfinished">When checked, on apply, the module cancels/stops the existing running instance if any, otherwise it waits the completion to start a new run.</translation>
+        <translation>عند تحديده ، عند التطبيق ، تقوم الوحدة بإلغاء / إيقاف مثيل التشغيل الحالي إن وجد ، وإلا فإنها تنتظر الانتهاء لبدء تشغيل جديد.</translation>
     </message>
 </context>
 <context>
@@ -14268,22 +14268,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="129"/>
         <source>Show details</source>
-        <translation type="unfinished">Show details</translation>
+        <translation>اظهر التفاصيل</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>حالة:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Idle</source>
-        <translation type="unfinished">Idle</translation>
+        <translation>معطل</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="372"/>
         <source>%1 (%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>٪1 (٪2s)</translation>
     </message>
 </context>
 <context>
