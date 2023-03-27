@@ -503,234 +503,234 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل التهيئة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تهيئة وضع التحويل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل ليتم تطبيقها على الصورة المتحركة لتهيئة التسجيل.  لا يمكن استخدام هذا إلا إذا كان وضع تهيئة التحويل متوقفا عن التشغيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد كيفية تهيئة مركز التحويل.  يفترض استخدام محاذاة اللحظات أن مركز كتلة الصور يمثل هياكل مماثلة.  يحاول استخدام مركز محاذاة الرأس استخدام الجزء العلوي من الرأس وشكل الرقبة لدفع مركز تقدير الكتلة. يفترض استخدام محاذاة هندسية على أن مركز شبكة فوكسل للصور يمثل هياكل مماثلة.  يفترض إيقاف التشغيل أن المساحة المادية للصور قريبة.  هذه العلامة حصرية بشكل متبادل مع تحويل التهيئة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>مغلق</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام محاذاة اللحظات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام مركز محاذاة الرأس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام محاذاة هندسية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام مركز محاذاة عائد الاستثمار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation type="unfinished"></translation>
+        <translation>مراحل التسجيل (تحقق من واحدة أو أكثر ، تم تنفيذها بالترتيب المدرج)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
         <source>Each of the registration phases will be used to initialize the next phase</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم استخدام كل مرحلة من مراحل التسجيل لتهيئة المرحلة التالية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
         <source>Rigid (6 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>جامد (6 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"/>
         <source>Rigid+Scale(7 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>جامد + مقياس (7 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"/>
         <source>Rigid+Scale+Skew(10 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>جامد + مقياس + انحراف (10 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>أفيني (12 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline (&gt; 27 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished"></translation>
+        <translation>SyN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
         <source>Composite (many DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>مركب (العديد من DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإجراء تسجيل جامد كجزء من خطوات التسجيل المتسلسلة.  تتجاوز عائلة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإجراء تسجيل مقياس فيرسور 3D كجزء من خطوات التسجيل المتسلسلة.  تتجاوز عائلة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>إجراء تسجيل مقياس انحراف فيرسور 3D كجزء من خطوات التسجيل المتسلسلة.  تتجاوز عائلة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإجراء تسجيل أفين كجزء من خطوات التسجيل المتسلسل.  تتجاوز عائلة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإجراء تسجيل BSpline كجزء من خطوات التسجيل المتسلسل.  تتجاوز عائلة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإجراء تسجيل SyN كجزء من خطوات التسجيل المتسلسل.  تتجاوز عائلة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإجراء تسجيل مركب كجزء من خطوات التسجيل المتسلسل.  تتجاوز عائلة الخيارات هذه استخدام نوع التحويل إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>قناع الصورة والمعالجة المسبقة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished"></translation>
+        <translation>خيار اخفاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) اخفاء المدخلات الثابتة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) اخفاء المدخلات المتحركة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) إخراج قناع ثابت</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) إخراج قناع متحرك</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>تعريف شبكة BSpline عبر المربع المحيط بعائد الاستثمار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished"></translation>
+        <translation>مباراة الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط حجم المرشح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة قيمة القيم المتطرفة للكثافة عند ذيل واحد</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحدد قناعا لمراعاة منطقة صورة معينة فقط للتسجيل.  إذا تم اختيار ROIAUTO ، حساب القناع باستخدام عتبة أوتسو وملء الثقب. إذا تم اختيار عائد الاستثمار ، فيجب تحديد القناع كما هو الحال في الإدخال.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم القناع الثنائي للصورة الثابتة ، مطلوب إذا كان خيار التقنيع هو ROI. يتم تجاهل مناطق الصورة حيث يكون لحجم القناع قيمة صفرية أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم قناع ثنائي الصورة المتحركة ، مطلوب إذا كان خيار الإخفاء هو ROI. يتم تجاهل مناطق الصورة حيث يكون لحجم القناع قيمة صفرية أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI الذي يتم حسابه تلقائيا من الصورة الثابتة. متاح فقط إذا كان خيار الإخفاء هو ROIAUTO. يتم تجاهل مناطق الصورة حيث يكون لحجم القناع قيمة صفرية أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI الذي يتم حسابه تلقائيا من الصورة المتحركة. متاح فقط إذا كان خيار الإخفاء هو ROIAUTO. يتم تجاهل مناطق الصورة حيث يكون لحجم القناع قيمة صفرية أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تمكينه ، فإن المربع المحيط لROI المدخلات يحدد منطقة دعم شبكة BSpline. وإلا فإن منطقة دعم شبكة BSpline هي الصورة الثابتة بالكامل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتطبيق عملية مطابقة الرسم البياني للصور المدخلة لجعلها أكثر تشابها.  هذا مناسب للصور من نفس الطريقة التي قد يكون لها سطوع أو تباين مختلف ، ولكن نفس ملف تعريف الكثافة الإجمالية. لا تستخدمه في حالة تسجيل الصور من طرائق مختلفة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتطبيق التصفية المتوسطة لتقليل الضوضاء في أحجام الإدخال. تحدد القيم الثلاثة نصف قطر المعالجة المسبقة الاختيارية مرشح الصورة المتوسط في جميع الاتجاهات الثلاثة (في voxels).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإزالة voxels عالية جدا ومنخفضة الكثافة جدا من وحدات تخزين الإدخال. تحدد المعلمة نصف النسبة المئوية لتحديد القيم المتطرفة لكثافة الصورة. القيمة الافتراضية هي صفر ، مما يعني عدم وجود إزالة شاذة. إذا تم إعطاء قيمة 0.005 ، التخلص من 0.005٪ من كلا الذيول ، لذلك سيتم تجاهل 0.01٪ من الشدة الإجمالية في الحساب الإحصائي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished"></translation>
+        <translation>لاقناع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAUTO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
@@ -740,84 +740,84 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
         <source>Advanced Output Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات الإخراج المتقدمة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الصورة الثابتة 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الصورة المتحركة2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>إخراج صورة نوع بكسل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة تعبئة الخلفية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished"></translation>
+        <translation>قياس قيم الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع الاستيفاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال صورة ثابتة سيتم استخدامها للتسجيل متعدد الوسائط. (سيتم تحويل الصورة المتحركة إلى مساحة الصورة هذه).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال صورة متحركة سيتم استخدامها للتسجيل متعدد الوسائط (سيتم تحويل هذه الصورة إلى مساحة الصورة الثابتة).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع البيانات لتمثيل voxel من حجم الإخراج.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم استخدام هذه القيمة لملء تلك المناطق من صورة الإخراج التي لا تحتوي على voxels المقابلة في الصورة المتحركة المدخلة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كان هذا صحيحا ، ولا تتناسب قيم voxel مع الحد الأدنى والحد الأقصى لقيم حجم الإخراج نوع بكسل المطلوبة ، فقم بقياس قيم voxel لصورة الإخراج الحد الأدنى / الحد الأقصى خطيا لتلائم النطاق الأدنى / الأقصى ل حجم الإخراج نوع بكسل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الاستيفاء الذي سيتم استخدامه عند تطبيق التحويل على الحجم المتحرك.  الخيارات هي خطي أو أقرب جار أو BSpline أو نافذة سينك أو Hamming أو جيب التمام أو ويلش أو لانكزوس أو إعادة العينة في مكانها.  سيقوم خيار إعادة العينة في مكانها بإنشاء صورة بنفس قيم voxel المنفصلة وسيضبط أصل واتجاه تفسير الفضاء المادي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>حُر</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>خطية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
@@ -827,7 +827,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>عدد صحيح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
@@ -842,12 +842,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>أقرب جار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة العينة في مكانها</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
@@ -857,7 +857,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>نافذة سينك</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
@@ -882,239 +882,241 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished"></translation>
+        <translation>رجل أسود</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
         <source>Advanced Optimization Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات التحسين المتقدمة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
         <source>Max Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى للتكرارات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
         <source>Maximum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لطول الخطوة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
         <source>Minimum Step Length</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى لطول الخطوة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>عامل الاسترخاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس التحويل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس إعادة التناسب</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس الانحراف</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لإزاحة B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد التكرارات التي يجب تجربتها قبل إيقاف التحسين. عند استخدام قيمة أقل (500-1000) ، يتم إجبار التسجيل على الإنهاء في وقت مبكر ولكن هناك خطر أكبر من التوقف قبل الوصول إلى الحل الأمثل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>طول خطوة البداية للمحسن. بشكل عام ، تسمح القيم الأعلى باستعادة الاختلالات الأولية الأكبر ولكن هناك فرصة متزايدة لعدم تقارب التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished"></translation>
+        <translation>كل خطوة في التحسين تأخذ خطوات على الأقل بهذا الحجم.  عندما لا يكون ذلك ممكنا ، يكتمل التسجيل. تسمح القيم الأصغر للمحسن بإجراء تعديلات أصغر ، ولكن قد يزيد وقت التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحدد مدى سرعة تقليل طول خطوة التحسين أثناء التسجيل. يجب أن تكون القيمة أكبر من 0 وأصغر من 1. تؤدي القيم الأكبر إلى تقليل حجم الخطوة بشكل أبطأ ، مما يسمح باستعادة الاختلالات الأولية الأكبر ولكنه يزيد من وقت التسجيل وفرصة عدم تقارب التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>مقدار زيادة التغييرات في الموضع (بالملليمتر) مقارنة بتغييرات دوران الوحدة (بالراديان) - قم بتقليل هذا للسماح بمزيد من الدوران في نمط البحث.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>عامل تعويض مقياس فيرسور 3D &quot;المقياس&quot;.  قم بزيادة هذا للسماح بمزيد من إعادة القياس في نمط بحث مقياس فيرسور 3D أو مقياس انحراف فيرسور 3D.  1.0 يعمل بشكل جيد مع مقياس ترجمة 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس انحراف  فيرسور  3D عامل تعويض الانحراف.  قم بزيادة هذا للسماح بمزيد من الانحراف في نمط بحث مقياس انحراف  فيرسور  3D.  1.0 يعمل بشكل جيد مع مقياس ترجمة 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى للإزاحة المسموح بها في الإحداثيات المادية للصورة (مم) لشبكة التحكم BSpline على طول كل محور.  تشير القيمة 0.0 إلى أن المشكلة يجب أن تكون غير محدودة.  ملاحظة: هذا يقيد فقط جزء BSpline ولا يحد من الإزاحة من التحويل المجمع المقترن.  يمكن أن يؤدي هذا إلى تقليل كبير في وقت الحساب في محسن BSpline.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الخبراء فقط</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤشر وقت الصورة الثابت</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤشر وقت الصورة المتحركة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
         <source>Histogram bin count</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد حاويات الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
         <source>Histogram match point count</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد نقاط مباراة الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس التكلفة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
         <source>Inferior Cut Off From Center</source>
-        <translation type="unfinished"></translation>
+        <translation>قطع أدنى من المركز</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAحجم التمدد التلقائي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>ROIAuto حجم الإغلاق</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد العينات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج المجرد</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع التحويل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished"></translation>
+        <translation>تمرير صورة متحركة مشوهة إلى مرشح تسجيل BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished"></translation>
+        <translation>يكتب تحويل تسجيل الإخراج بدقة واحدة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation type="unfinished"></translation>
+        <translation>الفهرس في السلاسل الزمنية للصورة الثابتة 3D لتناسب. مسموح به فقط إذا كان حجم الإدخال الثابت 4 أبعاد.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished"></translation>
+        <translation>الفهرس في السلاسل الزمنية للصورة المتحركة 3D لتناسب. مسموح به فقط إذا كان حجم الإدخال المتحرك 4 أبعاد</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد مستويات الرسم البياني المستخدمة لتقدير مقياس المعلومات المتبادلة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد نقاط مطابقة الرسم البياني المستخدمة لتقدير مقياس المعلومات المتبادلة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>مقياس التكلفة الذي سيتم استخدامه أثناء التركيب. الإعدادات الافتراضية ل MMI. الخيارات هي MMI (معلومات متبادلة غير لامعة) ، MSE (متوسط مربع الخطأ) ، NC (ارتباط طبيعي) ، MC (مطابقة الكاردينالية للصور الثنائية)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تعيين تهيئة وضع التحويل على استخدام مركز محاذاة الرأس أو خيار اخفاء هو ROIAUTO ، فإن هذه القيمة تحدد مقدار القطع من الجزء السفلي من الصورة. يتم تحديد مسافة القطع بالمليمترات ، بالنسبة إلى مركز الصورة. إذا كانت القيمة 1000 أو أكبر ، فلن يتم إجراء أي قطع.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة.  يحدد حجم التمدد النهائي لالتقاط القليل من الخلفية خارج منطقة الأنسجة.  تم عرض إعداد 10 مم للمساعدة في تنظيم نوع تسجيل BSpline بحيث تكون هناك بعض قيود الخلفية لتتناسب مع حواف الرأس بشكل أفضل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة.  يحدد حجم إغلاق الفتحة بالملليمتر.  يتم تقريبه لأعلى إلى أقرب حجم بكسل كامل في كل اتجاه. الافتراضي هو استخدام حجم إغلاق 9 مم.  بالنسبة لبيانات الماوس ، قد تحتاج هذه القيمة إلى إعادة تعيينها إلى 0.9 أو أصغر.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الفوكسل التي تم أخذ عينات منها لحساب المعلومات المتبادلة.  قم بزيادة هذا للحصول على دقة أعلى ، على حساب وقت حساب أطول.
+لاحظ أنه من المقترح استخدام النسبة المئوية لأخذ العينات بدلا من هذا الخيار. ومع ذلك ، إذا تم التعيين إلى غير صفري ، يقوم عدد العينات بالكتابة فوق خيار النسبة المئوية لأخذ العينات .  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>مكون جامد من تحويل أفين المقدر. يمكن استخدامها لتسجيل الصورة المتحركة بشكل صارم على الصورة الثابتة. ملاحظة: يتم تجاوز هذه القيمة إذا تم تعيين تحويل bspline أو التحويل الخطي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحدد قائمة بأنواع التسجيل التي سيتم استخدامها.  الأنواع الصالحة هي ، جامدة ، ScaleVersor3D ، ScaleSkewVersor3D ، أفين ، BSpline و SyN.  سيؤدي تحديد أكثر من واحد في قائمة مفصولة بفواصل إلى تهيئة المرحلة التالية بالنتائج السابقة. إذا تم استخدام علامة فئة التسجيل ، فإنها تتجاوز إعداد المعلمة هذا.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation type="unfinished"></translation>
+        <translation>(اختياري) اسم الملف الذي يحفظ التحويل المقدر (الاختياري). ملاحظة: يجب تحديد إما الخيار تحويل الإخراج أو الخيار حجم الإخراج.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">إذا كانت هذه العلامة قيد التشغيل، تعيين التحويل المركب العام الحالي، الناتج عن مراحل التسجيل الخطي، لتهيئة عملية التسجيل غير الخطي التالية. ومع ذلك ، من خلال السلوك الافتراضي ، يتم تشويه الصورة المتحركة أولا بناء على التحويل الموجود قبل تمريرها إلى مرشح تسجيل BSpline. يتم ذلك لتسريع تسجيل BSpline عن طريق تقليل حسابات التحويل المركب Jacobian.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished"></translation>
+        <translation>بشكل افتراضي ، تتم كتابة تحويلات تسجيل المخرجات (إما تحويل مركب الإخراج أو كل مكون تحويل) على القرص بدقة مزدوجة. إذا كانت هذه العلامة قيد التشغيل ، كتابة تحويلات الإخراج بدقة مفردة (عائمة). إنه مهم بشكل خاص إذا كان تحويل المخرجات هو تحويل حقل إزاحة ، أو كان تحويلا مركبا يتضمن العديد من حقول الإزاحة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
@@ -1140,105 +1142,107 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
         <source>Debugging Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التصحيح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation type="unfinished"></translation>
+        <translation>رمز الخروج من الفشل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب التحويل عند الفشل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد المواضيع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished"></translation>
+        <translation>خيار التصحيح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين استراتيجية أخذ العينات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished"></translation>
+        <translation>تقرير ملف السجل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا فشل الملاءمة ، فاخرج باستخدام رمز الحالة هذا.  (يمكن استخدامه لفرض حالة خروج ناجحة تبلغ (0) إذا فشل التسجيل بسبب الوصول إلى الحد الأقصى لعدد التكرارات.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished"></translation>
+        <translation>ضع علامة لحفظ التحويل النهائي حتى إذا تم الوصول إلى عدد التكرارات دون تقارب. (مخصص للاستخدام عندما --فشل رمز الخروج 0)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد بشكل صريح الحد الأقصى لعدد سلاسل الرسائل المراد استخدامها. (يتم الكشف التلقائي التلقائي)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض رسائل تصحيح الأخطاء ، وإنتاج نتائج وسيطة لتصحيح الأخطاء.  0 = إيقاف ، 1 = الحد الأدنى ، 10 = الحد الأقصى لتصحيح الأخطاء.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>من itkLBFGSBOptimizer.h: تعيين / الحصول على عامل التقارب عامل تقارب دالة التكلفة. تنتهي الخوارزمية عندما يكون التخفيض في دالة التكلفة أقل من (العامل * epsmcj) حيث epsmch هي دقة الجهاز. القيم النموذجية للعامل: 1e + 12 للدقة المنخفضة ؛ 1e + 7 لدقة معتدلة و 1e + 1 لدقة عالية للغاية.  يبدو أن 1e + 9 يعمل بشكل جيد.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>من itkLBFGSBOptimizer.h: تعيين / الحصول على التدرج المعروض التسامح. تنتهي الخوارزمية عندما يكون تدرج المشروع أقل من التفاوت. قيمة lbfgsb الافتراضية هي 1e-5 ، ولكن يبدو أن 1e-4 تعمل بشكل جيد.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد التقييمات للبحث عن الخط في محسن lbfgsb.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد التصحيحات في محسن lbfgsb.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض وحدات تخزين الصور الوسيطة لتصحيح الأخطاء.  ملاحظة: هذا ليس جزءا من نظام البناء القياسي ، وربما لا يفعل شيئا على التثبيت الخاص بك.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished"></translation>
+        <translation>مطالبة المستخدم بالضغط على Enter في كل مرة يتم فيها إرسال صورة إلى عارض صور التصحيح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحدد الطريقة التي يستخدمها مرشح التسجيل لأخذ عينات من الصورة الثابتة المدخلة. يتم دعم عشوائي فقط في الوقت الحالي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف لكتابة تقرير المعلومات النهائية في ملف CSV: اسم المقياس و القيمة المترية و اسم الصورة الثابت و اسم القناع الثابت و اسم الصورة المتحركة و اسم القناع المتحرك</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>عشوائي</translation>
     </message>
 </context>
 <context>
