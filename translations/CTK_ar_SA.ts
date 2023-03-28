@@ -3507,7 +3507,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="273"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>مخرج</translation>
     </message>
 </context>
 <context>
@@ -3516,32 +3516,32 @@ Please check your permissions.</source>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="162"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="182"/>
         <source>&lt;&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; رجوع</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="194"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="209"/>
         <source>Successfully create plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء البرنامج المساعد بنجاح</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="217"/>
         <source>Creating the plugin failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء المكون الإضافي.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="246"/>
         <source>Creating directory &quot;%1&quot; failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء الدليل &quot;٪1&quot;.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="279"/>
         <source>Creating the preview failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء المعاينة.</translation>
     </message>
 </context>
 <context>
@@ -3554,12 +3554,12 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="39"/>
         <source>Symbolic name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم رمزي</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="46"/>
@@ -3569,7 +3569,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="66"/>
         <source>Activation policy</source>
-        <translation type="unfinished"></translation>
+        <translation>سياسة التفعيل</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
@@ -3584,63 +3584,63 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="105"/>
         <source>Export directive</source>
-        <translation type="unfinished"></translation>
+        <translation>توجيه التصدير</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="115"/>
         <source>Activator class name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم فئة المنشط</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="125"/>
         <source>Activator header file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف رأس المنشط</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="135"/>
         <source>Activator source file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف مصدر المنشط</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="35"/>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="47"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>رئيسي</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"/>
         <source>Advanced (activator class: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>متقدم (فئة المنشط: ٪1)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="102"/>
         <source>The symbolic name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن أن يكون الاسم الرمزي فارغا</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="108"/>
         <source>The export directive cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن أن يكون توجيه التصدير فارغا</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="114"/>
         <source>The activator class name cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن أن يكون اسم فئة المنشط فارغا</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="120"/>
         <source>The activator header filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن أن يكون اسم ملف رأس المنشط فارغا</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="126"/>
         <source>The activator source filename cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن أن يكون اسم ملف مصدر المنشط فارغًا</translation>
     </message>
 </context>
 <context>
