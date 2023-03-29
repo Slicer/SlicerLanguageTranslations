@@ -22139,12 +22139,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="216"/>
         <source>Skip line crossings</source>
-        <translation type="unfinished"></translation>
+        <translation>Évitez les passages à niveau</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="217"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couper les lignes d&apos;intersection s&apos;étendant à travers le champ de vision avec un espace à l&apos;intersection.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="238"/>
