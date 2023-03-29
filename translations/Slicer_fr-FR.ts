@@ -817,7 +817,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation>court</translation>
+        <translation>short</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
