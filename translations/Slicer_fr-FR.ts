@@ -22169,12 +22169,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
         <source>Thick lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes épaisses</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
         <source>Thick lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes épaisses</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="297"/>
