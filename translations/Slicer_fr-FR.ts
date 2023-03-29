@@ -21920,7 +21920,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation>Echec de la conversion de Transformation. Voir le journal des applications pour plus de détails.</translation>
+        <translation>Échec de la conversion de la transformation. Voir le journal des applications pour plus de détails.</translation>
     </message>
 </context>
 <context>
@@ -21936,7 +21936,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
         <source>Units Settings</source>
-        <translation type="unfinished">Paramètres des unités</translation>
+        <translation>Paramètres des unités</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="26"/>
@@ -21945,11 +21945,11 @@ Do you wish to update the stored context file with the just loaded one?</transla
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space : pre-wrap ; }
+p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Attention :&lt;/span&gt; La modification des propriétés de l&apos;unité ne change que l&apos;affichage, pas la valeur !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Avertissement:&lt;/span&gt; La modification des propriétés de l&apos;unité modifie uniquement l&apos;affichage, pas la valeur !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
