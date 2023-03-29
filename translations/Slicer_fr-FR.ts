@@ -21920,7 +21920,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation>Échec de la conversion de la transformation. Voir le journal des applications pour plus de détails.</translation>
+        <translation>Echec de la conversion de Transformation. Voir le journal des applications pour plus de détails.</translation>
     </message>
 </context>
 <context>
@@ -21945,11 +21945,11 @@ Do you wish to update the stored context file with the just loaded one?</transla
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt; !DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http ://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space : pre-wrap ; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family :&apos;MS Shell Dlg 2&apos; ; font-size :8.25pt ; font-weight :400 ; font-style :normal ;&quot;&gt;
-&lt;p style=&quot; margin-top :0px ; margin-bottom :0px ; margin-left :0px ; margin-right :0px ; -qt-block-indent :0 ; text-indent :0px ;&quot;&gt;&lt;span style=&quot; font-weight :600 ; color :#ff0000 ;&quot;&gt;Avertissement :&lt;/span&gt; La modification des propriétés de l&apos;unité modifie uniquement l&apos;affichage, pas la valeur !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+p, li { white-space : pre-wrap ; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Attention :&lt;/span&gt; La modification des propriétés de l&apos;unité ne change que l&apos;affichage, pas la valeur !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
@@ -22019,7 +22019,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation>Pas de tranches de saut</translation>
+        <translation>Pas de saut des coupes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
@@ -22029,22 +22029,22 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation>Saut de tranches - décalage</translation>
+        <translation>Saut de coupes - décalage</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation>Les plans d &apos;affichage des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+        <translation>Les plans d&apos;affichage des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="72"/>
         <source>Jump slices - centered</source>
-        <translation>saut de coupes - centré</translation>
+        <translation>saut des coupes - centré</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation>Les vues de tranche sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+        <translation>Les vues des coupes sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="92"/>
