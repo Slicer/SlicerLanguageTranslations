@@ -22149,12 +22149,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="238"/>
         <source>Fine lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes fines</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="239"/>
         <source>Fine lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes fines</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
