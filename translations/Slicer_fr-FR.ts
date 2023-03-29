@@ -22129,12 +22129,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="210"/>
         <source>Full lines</source>
-        <translation type="unfinished">Lignes complètes</translation>
+        <translation>Lignes complètes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="211"/>
         <source>Full slice intersection lines extending across the field of view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes d&apos;intersection pleine tranche s&apos;étendant sur le champ de vision.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="216"/>
