@@ -22059,12 +22059,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="97"/>
         <source>Basic crosshair</source>
-        <translation type="unfinished">Réticule de base</translation>
+        <translation>Réticule de base</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="98"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Réticule de base s’étendant sur le champ de vision avec un petit espace en position de réticule.</translation>
+        <translation>Réticule de base s&apos;étendant sur le champ de vision avec un petit espace à la position du réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
