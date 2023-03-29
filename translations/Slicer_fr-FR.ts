@@ -22034,7 +22034,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation>Les plans d’affichage des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n’est pas affiché).</translation>
+        <translation>Les plans de vue de tranche sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="72"/>
