@@ -22019,12 +22019,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation type="unfinished">Pas de tranches de saut</translation>
+        <translation>Pas de tranches de saut</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
         <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="unfinished">Les vues de tranches ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
+        <translation>Les vues en coupe ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
