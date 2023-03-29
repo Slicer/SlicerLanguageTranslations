@@ -22044,7 +22044,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation>Les vues des coupes sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+        <translation>Les vues de tranche sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="92"/>
