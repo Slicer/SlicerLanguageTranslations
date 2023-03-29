@@ -22164,7 +22164,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="245"/>
         <source>Medium lines.</source>
-        <translation>Lignes moyennes</translation>
+        <translation>Lignes moyennes.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
