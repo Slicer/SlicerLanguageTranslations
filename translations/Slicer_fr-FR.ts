@@ -16,7 +16,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Ce travail est mené dans le cadre de la National Alliance for Medical Image Computing (NAMIC), financée par les National Institutes of Health par le biais du programme NIH Roadmap for Medical Research, subvention U54 EB005149.</translation>
+        <translation>Ce travail est mené dans le cadre de la National Alliance for Medical Image Computing (NAMIC), financé par les National Institutes of Health par le biais du programme NIH Roadmap for Medical Research, subvention U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
@@ -2141,12 +2141,12 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation>Créez une série DICOM à partir d&apos;un volume Slicer. L&apos;utilisateur peut spécifier des valeurs pour les balises DICOM sélectionnées dans l&apos;interface utilisateur. Étant donné le nombre de balises que possèdent les séries DICOM, il est impossible d&apos;exposer toutes les balises dans l&apos;interface utilisateur. Ainsi, seules les balises importantes peuvent être définies par l&apos;utilisateur.</translation>
+        <translation>Créez une série DICOM à partir d&apos;un volume Slicer. L&apos;utilisateur peut spécifier des valeurs pour les balises DICOM sélectionnées dans l&apos;interface utilisateur (UI). Étant donné le nombre de balises que possèdent les séries DICOM, il est impossible d&apos;exposer toutes les balises dans l&apos;interface utilisateur. Ainsi, seules les balises importantes peuvent être définies par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation>Ce module de commande est dérivé de Insight/Exemples (copyright) Insight Software Consortium.</translation>
+        <translation>Ce module de commande est dérivé d&apos;Insight/Exemples (copyright) Insight Software Consortium.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
@@ -2211,12 +2211,12 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>Output Type:</source>
-        <translation>Type de sortie:</translation>
+        <translation>Type de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation>Répertoire devant contenir la série DICOM.</translation>
+        <translation>Répertoire contenant la série DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
@@ -2278,7 +2278,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"/>
         <source>Patient Parameters</source>
-        <translation>Paramètres de Patients</translation>
+        <translation>Paramètres du Patient</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"/>
@@ -2313,12 +2313,12 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
         <source>The name of the patient (0010,0010)</source>
-        <translation>Le nom du patient(0010,0010)</translation>
+        <translation>Le nom du patient (0010,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
         <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
-        <translation>L&apos;identifiant du patient (0010,0020). S&apos;il est défini sur [aléatoire], un ID aléatoire sera généré.</translation>
+        <translation>L&apos;ID (identifiant) du patient (0010,0020). S&apos;il est défini sur [aléatoire], un ID aléatoire sera généré.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"/>
@@ -2399,7 +2399,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
         <source>Manufacturer</source>
-        <translation>Fabricante</translation>
+        <translation>Fabricant</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
@@ -2450,17 +2450,17 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
         <source>CT</source>
-        <translation>CT</translation>
+        <translation>CT (Tomodensitométrie)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"/>
         <source>MR</source>
-        <translation>RM</translation>
+        <translation>MR (Résonance magnétique)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
         <source>NM</source>
-        <translation>MN</translation>
+        <translation>NM (Médecine nucléaire)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
@@ -2470,12 +2470,12 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
         <source>CR</source>
-        <translation>CR</translation>
+        <translation>CR (Radiographie informatisée)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
         <source>SC</source>
-        <translation>CE</translation>
+        <translation>SC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
@@ -2510,7 +2510,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
         <source>Patient Position:</source>
-        <translation>Position du patient&#xa0;:</translation>
+        <translation>Position du patient :</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
@@ -2541,82 +2541,82 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
         <source>HFS</source>
-        <translation>SHF</translation>
+        <translation>HFS (Tête première-couchée)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
         <source>HFP</source>
-        <translation>PHF</translation>
+        <translation>HFP (Tête première-incliné)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"/>
         <source>HFDR</source>
-        <translation>RDHF</translation>
+        <translation>HFDR (Tête en premier - décubitus droit)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
         <source>HFDL</source>
-        <translation>LDHF</translation>
+        <translation>HFDL (Tête première-décubitus gauche)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
         <source>FFDR</source>
-        <translation>Pieds en premier - décubitus droit</translation>
+        <translation>FFDR (Pieds en premier - décubitus droit)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
         <source>FFDL</source>
-        <translation>Pieds premiers-décubitus gauche</translation>
+        <translation>FFDL (Pieds premiers-décubitus gauche)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
         <source>FFP</source>
-        <translation>Pieds en premier</translation>
+        <translation>FFP (Pieds en premier - incliné)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"/>
         <source>FFS</source>
-        <translation>Pieds d&apos;abord en décubitus dorsal</translation>
+        <translation>FFS (Pieds d&apos;abord en décubitus dorsal)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"/>
         <source>LFP</source>
-        <translation>Premier sujet gauche</translation>
+        <translation>LFP (Premier sujet gauche)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"/>
         <source>LFS</source>
-        <translation>Première gauche en décubitus dorsal</translation>
+        <translation>LFS (Première gauche en décubitus dorsal)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
         <source>RFP</source>
-        <translation>Droite en premier</translation>
+        <translation>RFP (Droite en premier - incliné)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
         <source>RFS</source>
-        <translation>Droite d&apos;abord en décubitus dorsal</translation>
+        <translation>RFS (Droite d&apos;abord en décubitus dorsal)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"/>
         <source>AFDR</source>
-        <translation>Premier décubitus antérieur droit</translation>
+        <translation>AFDR (Premier décubitus antérieur droit)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"/>
         <source>AFDL</source>
-        <translation>Premier décubitus antérieur gauche</translation>
+        <translation>AFDL (Premier décubitus antérieur gauche)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"/>
         <source>PFDR</source>
-        <translation>Premier décubitus postérieur droit</translation>
+        <translation>PFDR (Premier décubitus postérieur droit)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
         <source>PFDL</source>
-        <translation>Premier décubitus postérieur gauche</translation>
+        <translation>PFDL (Premier décubitus postérieur gauche)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
@@ -2666,22 +2666,22 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>Centre de fenêtre (0028,1050). Spécifiez une conversion linéaire des valeurs de pixel stockées (après l&apos;application de Rescale Slope et Intercept) aux valeurs à afficher. Centre de la fenêtre contient la valeur d&apos;entrée qui est le centre de la fenêtre. Si le centre ou la largeur de la fenêtre n&apos;est pas défini, la fenêtre est réglée sur la plage d&apos;intensité complète de l&apos;image.</translation>
+        <translation>Centre de fenêtre (0028,1050). Spécifiez une conversion linéaire des valeurs de pixel stockées (après l&apos;application de Redimensionnement de la pente et Interception) aux valeurs à afficher. Centre de la fenêtre contient la valeur d&apos;entrée qui est le centre de la fenêtre. Si le centre ou la largeur de la fenêtre n&apos;est pas défini, la fenêtre est réglée sur la plage d&apos;intensité complète de l&apos;image.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Window width (0028,1051). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Width contains the width of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>Largeur de la fenêtre (0028,1051). Spécifiez une conversion linéaire des valeurs de pixel stockées (après l&apos;application de Rescale Slope et Intercept) aux valeurs à afficher. Largeur de la fenêtre contient la largeur de la fenêtre. Si le centre ou la largeur de la fenêtre n&apos;est pas défini, la fenêtre est réglée sur la plage d&apos;intensité complète de l&apos;image.</translation>
+        <translation>Largeur de la fenêtre (0028,1051). Spécifiez une conversion linéaire des valeurs de pixel stockées (après l&apos;application de Redimensionnement de la pente et Interception) aux valeurs à afficher. Largeur de la fenêtre contient la largeur de la fenêtre. Si le centre ou la largeur de la fenêtre n&apos;est pas défini, la fenêtre est réglée sur la plage d&apos;intensité complète de l&apos;image.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation>Redimensionner l&apos;interception (0028,1052). Convertit les valeurs de pixel sur le disque en valeurs de pixel en mémoire. (Valeur de pixel en mémoire) = (Valeur de pixel sur le disque) * rescaleSlope + rescaleIntercept. La valeur par défaut est 0,0. Les valeurs de données sont converties lors de l&apos;écriture (les données sont mises à l&apos;échelle et décalées de sorte que la pente et l&apos;intersection les ramènent à la plage d&apos;intensité actuelle).</translation>
+        <translation>Redimensionnez l&apos;interception (0028,1052). Convertit les valeurs de pixel sur le disque en valeurs de pixel en mémoire. (Valeur de pixel en mémoire) = (Valeur de pixel sur le disque) * RedimensionnementPente et RedimentionnementInterception. La valeur par défaut est 0,0. Les valeurs de données sont converties lors de l&apos;écriture (les données sont mises à l&apos;échelle et décalées de sorte que la pente et l&apos;intersection les ramènent à la plage d&apos;intensité actuelle).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation>Redimensionner la pente (0028,1053). Convertit les valeurs de pixel sur le disque en valeurs de pixel en mémoire. (Valeur de pixel en mémoire) = (Valeur de pixel sur le disque) * rescaleSlope + rescaleInterscept. La valeur par défaut est 1.0. Les valeurs de données sont converties lors de l&apos;écriture (les données sont mises à l&apos;échelle et décalées de sorte que la pente et l&apos;intersection les ramènent à la plage d&apos;intensité actuelle).</translation>
+        <translation>Redimensionnez la pente (0028,1053). Convertit les valeurs de pixel sur le disque en valeurs de pixel en mémoire. (Valeur de pixel en mémoire) = (Valeur de pixel sur le disque) * RedimensionnementPente + RedimensionnementInterception. La valeur par défaut est 1.0. Les valeurs de données sont converties lors de l&apos;écriture (les données sont mises à l&apos;échelle et décalées de sorte que la pente et l&apos;intersection les ramènent à la plage d&apos;intensité actuelle).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
@@ -2701,7 +2701,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique Identifiers (UIDs)</source>
-        <translation>Identifiants uniques (UID)</translation>
+        <translation>Identifiants uniques (UIDs)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
@@ -2721,22 +2721,22 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
         <source>Frame of Reference UID</source>
-        <translation>Référentiel UID</translation>
+        <translation type="unfinished">Référentiel UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation>L&apos;UID de l&apos;instance d&apos;étude (0020&#xa0;000d). Laissez-le vide pour générer automatiquement les UID.</translation>
+        <translation>L&apos;UID de l&apos;instance d&apos;étude (0020&#xa0;000d). Laissez-le vide pour générer automatiquement les UIDs.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="127"/>
         <source>The series instance UID (0020,000e). Leave it blank to generate UIDs automatically.</source>
-        <translation>L&apos;UID de l&apos;instance de série (0020,000e). Laissez-le vide pour générer automatiquement les UID.</translation>
+        <translation>L&apos;UID de l&apos;instance de série (0020,000e). Laissez-le vide pour générer automatiquement les UIDs.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="128"/>
         <source>The frame of reference UID (0020,0052). Leave it blank to generate UIDs automatically.</source>
-        <translation>Le cadre de référence UID (0020,0052). Laissez-le vide pour générer automatiquement les UID.</translation>
+        <translation>Le cadre de référence UID (0020,0052). Laissez-le vide pour générer automatiquement les UIDs.</translation>
     </message>
 </context>
 <context>
@@ -8036,7 +8036,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
         <source>Import files into DICOM database</source>
-        <translation>Importer des fichiers dans la base de données DICOM</translation>
+        <translation>Importez des fichiers dans la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="34"/>
@@ -8046,12 +8046,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Show DICOM database browser window</source>
-        <translation>Afficher la fenêtre du navigateur de base de données DICOM</translation>
+        <translation>Affichez la fenêtre du navigateur de base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation>    Afficher la base de données DICOM</translation>
+        <translation>    Affichez la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
@@ -8121,12 +8121,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
         <source>Hide DICOM database browser after data loaded</source>
-        <translation>Masquer le navigateur de la base de données DICOM après le chargement des données</translation>
+        <translation>Masquez le navigateur de la base de données DICOM après le chargement des données</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation>Supprimer tous les éléments de la base de données DICOM si le fichier DICOM référencé n&apos;est pas trouvé sur le disque.</translation>
+        <translation type="unfinished">Supprimez tous les éléments de la base de données DICOM si le fichier DICOM référencé est introuvable sur le disque.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
@@ -13953,7 +13953,7 @@ p, li { white-space : pre-wrap ; }
         <source>please save your work and restart.
 
 </source>
-        <translation>veuillez enregistrer votre travail et redémarrer.
+        <translation type="unfinished">veuillez sauvegarder votre travail et redémarrer.
 
 </translation>
     </message>
@@ -14053,7 +14053,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="718"/>
         <source>Are you sure you want to restart?</source>
-        <translation>Voulez-vous vraiment redémarrer?</translation>
+        <translation>Voulez-vous vraiment redémarrer ?</translation>
     </message>
 </context>
 <context>
@@ -14089,29 +14089,29 @@ Capacités graphiques de cet ordinateur:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">documentation en ligne</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pour plus d’informations, consultez le %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
         <source>Failed to find python interpreter for CLI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de trouver l’interpréteur python pour le CLI : %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="113"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="111"/>
         <source>CLI description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Description CLI : %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="114"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="112"/>
         <source>Failed to read XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Echec de la lecture de la description XML</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="151"/>
@@ -14119,65 +14119,65 @@ Capacités graphiques de cet ordinateur:
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="201"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="207"/>
         <source>CLI executable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI exécutable : %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le processus n’a pas pu démarrer. Soit le programme appelé est manquant, soit vous ne disposez pas des autorisations suffisantes pour appeler le programme.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="161"/>
         <source>The process crashed some time after starting successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus a arrêté de fonctionner quelques temps après avoir démarré avec succès.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="165"/>
         <source>The process timed out after %1 msecs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le processus a expiré après %1 ms.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="169"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
         <source>An error occurred when attempting to read from the process. For example, the process may not be running.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Une erreur s’est produite lors de la tentative de lecture du processus. Par exemple, le processus n’est peut-être pas en cours d’exécution.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="179"/>
         <source>Failed to execute process. An unknown error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;exécution du processus. Une erreur inconnue s&apos;est produite.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="202"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="158"/>
         <source>Failed to retrieve XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de la récupération de la description XML</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
         <source>XML description doesn&apos;t start right away.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La description XML ne démarre pas immédiatement.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
         <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La sortie avant &apos;&lt;?xml&apos; est [%1]</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
         <source>CLI loadable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CLI chargeable : %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
         <source>Failed to retrieve Module Entry Point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Echec de la récupération du point d’entrée du module</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="236"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Echec de la résolution du symbole attendu &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -14185,7 +14185,7 @@ Capacités graphiques de cet ordinateur:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="932"/>
         <source>Compatible Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fichiers compatibles</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
@@ -14218,7 +14218,7 @@ Capacités graphiques de cet ordinateur:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="107"/>
         <source>Restore Defaults</source>
-        <translation>Réinitialiser</translation>
+        <translation type="unfinished">Restaurer les valeurs par défaut</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="117"/>
@@ -14249,12 +14249,12 @@ Capacités graphiques de cet ordinateur:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
         <source>AutoRun on changed parameter</source>
-        <translation>Exécution automatique sur paramètre modifié</translation>
+        <translation type="unfinished">Exécution automatique en cas de modification d&apos;un paramètre</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
         <source>As long as the AutoRun button is down, the module is run anytime a parameter value is changed.</source>
-        <translation>Tant que le bouton AutoRun est enfoncé, le module est exécuté chaque fois qu&apos;une valeur de paramètre est modifiée.</translation>
+        <translation>Tant que le bouton AutoRun (bouton d&apos;exécution automatique) est désactivé, le module est exécuté chaque fois qu’une valeur de paramètre est modifiée.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="110"/>
@@ -14851,14 +14851,14 @@ Capacités graphiques de cet ordinateur:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
         <source>Save modified tags</source>
-        <translation>Enregistrer les étiquettes modifiées</translation>
+        <translation>Enregistrer les mot clés modifiés</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
         <translation>Si cette option est cochée, les fichiers DICOM exportés seront écrits dans le dossier spécifié.
-Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à la base de données DICOM.</translation>
+Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera ajouté à la base de données DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
@@ -14868,7 +14868,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation>Exporter les fichiers DICOM dans ce dossier au lieu de la base de données DICOM de l’application .</translation>
+        <translation>Exportez les fichiers DICOM dans ce dossier au lieu de la base de données DICOM de l’application .</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
@@ -15054,7 +15054,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ce travail a été soutenu par NA-MIC, NAC, BIRN, NCIGT, CTSC et la communauté Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
@@ -15501,7 +15501,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installez cette extension (nécessite un redémarrage).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="41"/>
@@ -15589,17 +15589,17 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="156"/>
         <source>Install pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Installation en attente de redémarrage</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="161"/>
         <source>Update pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise à jour en attente de redémarrage</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="166"/>
         <source>Uninstall pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Désinstallation en attente de redémarrage</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="343"/>
@@ -15662,7 +15662,7 @@ Si cette option n’est pas cochée, le jeu de données exporté sera ajouté à
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Redémarrer</translation>
     </message>
 </context>
 <context>
@@ -19967,7 +19967,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="57"/>
         <source>Confirm on restart:</source>
-        <translation type="unfinished">Confirm on restart:</translation>
+        <translation type="unfinished">Confirmez au redémarrage&#xa0;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
@@ -20397,13 +20397,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
+p, li { white-space: pre-wrap;; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Add a style plugin path.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Ajouter un chemin de plug-in de style.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Adding a style plugin path will make accessible this style plugin (and thus all the its styles) to the application. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;L&apos;ajout d&apos;un chemin de plug-in de style rendra accessible ce plugin de style (et donc tous ses styles) à l&apos;application. Cette action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;nécessite&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; de redémarrer l&apos;application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="64"/>
@@ -20419,13 +20419,13 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Remove the currently selected style plugin path.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Ajouter un chemin de plug-in de style.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Removing a style plugin path will make inaccessible this style plugin (and thus all the its styles) the next time the application is opened. This action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;requires&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; to restart the application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;L&apos;ajout d&apos;un chemin de plug-in de style rendra accessible ce plugin de style (et donc tous ses styles) à l&apos;application. Cette action &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;nécessite&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt; de redémarrer l&apos;application.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="80"/>
@@ -21905,22 +21905,22 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="127"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="133"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>coller</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation type="unfinished">Echec de la conversion</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation type="unfinished">Failed to convert transform. See application log for details.</translation>
+        <translation>Echec de la conversion de  Transformation. Voir le journal des applications pour plus de détails.</translation>
     </message>
 </context>
 <context>
@@ -21936,7 +21936,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
         <source>Units Settings</source>
-        <translation type="unfinished">Units Settings</translation>
+        <translation type="unfinished">Paramètres des unités</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="26"/>
@@ -21947,9 +21947,9 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
+p, li { white-space : pre-wrap ; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Attention :&lt;/span&gt; La modification des propriétés de l&apos;unité ne change que l&apos;affichage, pas la valeur !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
@@ -22006,7 +22006,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation type="unfinished">Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</translation>
+        <translation type="unfinished">Sélectionnez une vue dans la scène active. Chaque élément correspond à un widget spécifique. Les nœuds d’affichage sont connectés à des widgets de rendu 3D. PlotView avec widgets de traçage. Tranches (rouge, vert, jaune) avec widgets de rendu 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
@@ -22019,37 +22019,37 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation type="unfinished">No jump slices</translation>
+        <translation type="unfinished">Pas de tranches de saut</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
         <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="unfinished">Slice views are not repositioned when crosshair is moved.</translation>
+        <translation type="unfinished">Les vues de tranches ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation type="unfinished">Jump slices - offset</translation>
+        <translation>Saut de tranches - offset</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</translation>
+        <translation type="unfinished">Les plans d’affichage des tranches sont décalés pour correspondre à la position du réticule (même si le réticule n’est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="72"/>
         <source>Jump slices - centered</source>
-        <translation type="unfinished">Jump slices - centered</translation>
+        <translation>sauts de Tranches - centrés</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">Slice views are centered on crosshair position (even if crosshair is not displayed).</translation>
+        <translation type="unfinished">Les vues de tranches sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="92"/>
         <source>No crosshair</source>
-        <translation type="unfinished">No crosshair</translation>
+        <translation type="unfinished">Pas de réticule</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="93"/>
@@ -22059,27 +22059,27 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="97"/>
         <source>Basic crosshair</source>
-        <translation type="unfinished">Basic crosshair</translation>
+        <translation type="unfinished">Réticule de base</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="98"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Basic crosshair extending across the field of view with a small gap at the crosshair position.</translation>
+        <translation type="unfinished">Réticule de base s’étendant sur le champ de vision avec un petit espace en position de réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
         <source>Basic + intersection</source>
-        <translation type="unfinished">Basic + intersection</translation>
+        <translation type="unfinished">Basique + intersection</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished">Basic crosshair extending across the field of view.</translation>
+        <translation type="unfinished">Réticule de base s’étendant sur le champ de vision.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="107"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished">Small basic crosshair</translation>
+        <translation type="unfinished">Petit réticule de base</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
@@ -22089,47 +22089,47 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
         <source>Small basic + intersection</source>
-        <translation type="unfinished">Small basic + intersection</translation>
+        <translation>Petit basic + intersection</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished">Small crosshair.</translation>
+        <translation type="unfinished">Petit réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="143"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished">Fine crosshair</translation>
+        <translation type="unfinished">Réticule fin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="144"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished">Fine crosshair.</translation>
+        <translation type="unfinished">Réticule fin.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="148"/>
         <source>Medium crosshair</source>
-        <translation type="unfinished">Medium crosshair</translation>
+        <translation type="unfinished">Réticule moyen</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="149"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished">Medium crosshair.</translation>
+        <translation type="unfinished">Réticule moyen.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="153"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished">Thick crosshair</translation>
+        <translation type="unfinished">Réticule épais</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="154"/>
         <source>Thick crosshair.</source>
-        <translation type="unfinished">Thick crosshair.</translation>
+        <translation type="unfinished">Réticule épais.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="210"/>
         <source>Full lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lignes complètes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="211"/>
@@ -22741,7 +22741,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ce travail a été soutenu par NA-MIC, NAC, BIRN, NCIGT, CTSC et la communauté Slicer. Voir &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; pour plus de détails. Nous tenons également à exprimer nos sincères remerciements aux membres de la communauté des utilisateurs de Slicer qui nous ont aidés à concevoir le contenu de ce module de bienvenue et dont les commentaires continuent d&apos;améliorer les fonctionnalités, la convivialité et l&apos;expérience des utilisateurs de Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
