@@ -22074,12 +22074,12 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished">Réticule de base s’étendant sur le champ de vision.</translation>
+        <translation>Réticule de base s&apos;étendant sur le champ de vision.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="107"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished">Petit réticule de base</translation>
+        <translation>Petit réticule de base</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
@@ -22089,42 +22089,42 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
         <source>Small basic + intersection</source>
-        <translation>Petit basic + intersection</translation>
+        <translation>Petite basique + intersection</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished">Petit réticule.</translation>
+        <translation>Petit réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="143"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished">Réticule fin</translation>
+        <translation>Réticule fin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="144"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished">Réticule fin.</translation>
+        <translation>Réticule fin.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="148"/>
         <source>Medium crosshair</source>
-        <translation type="unfinished">Réticule moyen</translation>
+        <translation>Réticule moyen</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="149"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished">Réticule moyen.</translation>
+        <translation>Réticule moyen.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="153"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished">Réticule épais</translation>
+        <translation>Réticule épais</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="154"/>
         <source>Thick crosshair.</source>
-        <translation type="unfinished">Réticule épais.</translation>
+        <translation>Réticule épais</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="210"/>
