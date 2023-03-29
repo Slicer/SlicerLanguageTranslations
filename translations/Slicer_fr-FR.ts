@@ -22182,7 +22182,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="313"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
         <source>Slice intersections</source>
-        <translation>Intersections de tranche</translation>
+        <translation>Intersections des coupes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="321"/>
