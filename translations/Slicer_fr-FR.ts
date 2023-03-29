@@ -22006,7 +22006,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="64"/>
         <source>Select a view from the current scene. Each element corresponds to a specific widget. View nodes are connected with 3D rendering widgets. PlotView with Plotting widgets. Slices (Red, Green, Yellow) with 2D rendering widgets.</source>
-        <translation>Sélectionnez une vue dans la scène active. Chaque élément correspond à un widget spécifique. Les nœuds d’affichage sont connectés à des widgets de rendu 3D. PlotView avec widgets de traçage. Coupes (rouge, vert, jaune) avec widgets de rendu 2D.</translation>
+        <translation>Sélectionnez une vue de la scène actuelle. Chaque élément correspond à un widget spécifique. Les nœuds de vue sont connectés aux widgets de rendu 3D. PlotView avec widgets de traçage. Tranches (rouge, vert, jaune) avec widgets de rendu 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="87"/>
