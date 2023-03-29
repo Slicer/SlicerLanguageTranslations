@@ -21910,7 +21910,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="133"/>
         <source>Paste</source>
-        <translation>coller</translation>
+        <translation>Coller</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
@@ -21920,7 +21920,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation>Echec de la conversion de  Transformation. Voir le journal des applications pour plus de détails.</translation>
+        <translation>Echec de la conversion de Transformation. Voir le journal des applications pour plus de détails.</translation>
     </message>
 </context>
 <context>
