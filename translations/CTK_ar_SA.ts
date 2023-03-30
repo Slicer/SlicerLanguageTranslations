@@ -42,7 +42,7 @@
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
         <source>Activation Policy</source>
         <oldsource>Activaton Policy</oldsource>
-        <translation type="unfinished">سياسة التفعيل</translation>
+        <translation>سياسة التفعيل</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
@@ -843,7 +843,7 @@ Button Checkable</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="148"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="190"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="153"/>
@@ -859,12 +859,12 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="295"/>
         <source>Copy on import</source>
-        <translation type="unfinished">النسخ عند الاستيراد</translation>
+        <translation>النسخ عند الاستيراد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="299"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished">استيراد ملفات DICOM القاموس.</translation>
+        <translation>استيراد ملفات DICOM القاموس ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="671"/>
@@ -895,7 +895,7 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
         <source>ctkDICOMBrowser</source>
-        <translation>ctkDICOMBrowser</translation>
+        <translation>متصفح ctk DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
@@ -1028,7 +1028,7 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="368"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
-        <translation type="unfinished">حدد ما إذا كان يجب نسخ الملفات إلى دليل قاعدة البيانات المحلية أو إذا كان يجب إنشاء روابط فقط؟</translation>
+        <translation>حدد ما إذا كان يجب نسخ الملفات إلى دليل قاعدة البيانات المحلية أو إذا كان يجب إنشاء روابط فقط؟</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="370"/>
@@ -1038,12 +1038,12 @@ Button Checkable</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="386"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished">استيراد ملفات ديكوم من الدليل ...</translation>
+        <translation>استيراد ملفات DICOM من الدليل ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="391"/>
         <source>DICOM File Metadata</source>
-        <translation type="unfinished">البيانات الوصفية لملف DICOM</translation>
+        <translation>البيانات الوصفية لملف DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="584"/>
@@ -1204,7 +1204,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
         <source>Close</source>
-        <translation type="unfinished">إغلاق</translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1439"/>
@@ -1437,47 +1437,47 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="879"/>
         <source>Computed Radiography</source>
-        <translation type="unfinished">التصوير الشعاعي المحوسب</translation>
+        <translation>التصوير الشعاعي المحوسب</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="880"/>
         <source>Computed Tomography</source>
-        <translation type="unfinished">التصوير المقطعي المحوسب</translation>
+        <translation>التصوير المقطعي المحوسب</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="881"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished">الرنين المغناطيسي</translation>
+        <translation>الرنين المغناطيسي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="882"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished">الطب النووي</translation>
+        <translation>الطب النووي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="883"/>
         <source>Ultrasound</source>
-        <translation type="unfinished">الموجات فوق الصوتيه</translation>
+        <translation>الموجات فوق الصوتيه</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="884"/>
         <source>Other</source>
-        <translation type="unfinished">آخر</translation>
+        <translation>آخر</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="885"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished">التصوير المغناطيسي الحيوي</translation>
+        <translation>التصوير المغناطيسي الحيوي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="886"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished">دوبلر تدفق اللون</translation>
+        <translation>دوبلر تدفق اللون</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="887"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished">دوبلكس دوبلر</translation>
+        <translation>دوبلكس دوبلر</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="888"/>
@@ -2041,7 +2041,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="210"/>
@@ -2225,7 +2225,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="85"/>
         <source>AETitle</source>
-        <translation>AETitle</translation>
+        <translation>العنوان</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="90"/>
@@ -3384,7 +3384,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
         <source>Remove</source>
-        <translation type="unfinished">إزالة</translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
@@ -3462,7 +3462,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished">النافذة الرئيسية</translation>
+        <translation>النافذة الرئيسية</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="37"/>
@@ -3502,7 +3502,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="262"/>
         <source>toolBar</source>
-        <translation type="unfinished">شريط الأدوات</translation>
+        <translation>شريط الأدوات</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="273"/>
@@ -3549,7 +3549,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">شكل</translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
@@ -3564,7 +3564,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="66"/>
@@ -3574,12 +3574,12 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="74"/>
         <source>Lazy</source>
-        <translation type="unfinished">كسول</translation>
+        <translation>كسول</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="79"/>
         <source>Eager</source>
-        <translation type="unfinished">مشتاق</translation>
+        <translation>مشتاق</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="87"/>
@@ -3648,7 +3648,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="14"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished">مولد البرنامج المساعد CTK</translation>
+        <translation>مولد البرنامج المساعد CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="56"/>
@@ -3661,13 +3661,21 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; البرنامج المساعد &lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; مولد &lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="133"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="183"/>
         <source>TextLabel</source>
-        <translation type="unfinished">تسمية النص</translation>
+        <translation>تسمية النص</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="233"/>
@@ -3680,48 +3688,56 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; البرنامج المساعد &lt;/span&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; مولد &lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt; معاينة &lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="307"/>
         <source>Output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الإخراج</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="320"/>
         <source>Choose output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر دليل الإخراج</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="359"/>
         <source>Preview &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة &gt;&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="379"/>
         <source>Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>توليد</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="386"/>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="417"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>مخرج</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="406"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="420"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="425"/>
         <source>Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات...</translation>
     </message>
 </context>
 <context>
@@ -3729,12 +3745,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>حوار</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="20"/>
         <source>License template</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب الترخيص</translation>
     </message>
 </context>
 <context>
@@ -3742,17 +3758,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished">النافذة الرئيسية</translation>
+        <translation>النافذة الرئيسية</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="105"/>
         <source>Record</source>
-        <translation type="unfinished">تسجيل</translation>
+        <translation>تسجيل</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="115"/>
         <source>PlayBack</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
 </context>
 <context>
@@ -3760,7 +3776,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"/>
         <source>ctkSliderSpinBoxWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>ctk المنزلق تدور مربع القطعة</translation>
     </message>
 </context>
 <context>
@@ -3768,113 +3784,113 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="20"/>
         <source>Screen Capture Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات التقاط الشاشة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="28"/>
         <source>0 s</source>
-        <translation type="unfinished"></translation>
+        <translation>0 ثانية</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="48"/>
         <source>Untitled_0.png</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون عنوان _0.png</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="99"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"/>
         <source>Select a directory in which screen captures will be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد دليلا سيتم حفظ لقطات الشاشة فيه.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="119"/>
         <source>Image name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الصورة:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="126"/>
         <source>Type in a base-name for the image file, or use the default provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب اسما أساسيا لملف الصورة، أو استخدم الاسم الافتراضي المتوفر.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="129"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون عنوان</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="136"/>
         <source>Image version number:</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم إصدار الصورة:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>عامل المقياس:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
         <source>Select an integer scale factor (between 0.5 and 5) for the image file, e.g. a value of &quot;2&quot; will save an image twice the size.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عامل مقياس عدد صحيح (بين 0.5 و 5) لملف الصورة ، على سبيل المثال قيمة &quot;2&quot; ستحفظ صورة ضعف الحجم.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="183"/>
         <source>Output resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>دقة الإخراج:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="190"/>
         <source>Width of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض لقطة الشاشة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="193"/>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="216"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation> px</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="203"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="213"/>
         <source>Height of the screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>ارتفاع لقطة الشاشة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="229"/>
         <source>Lock/unlock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبة العرض إلى الارتفاع للقفل/إلغاء القفل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"/>
         <source>Overwrite:</source>
-        <translation type="unfinished"></translation>
+        <translation>الكتابة فوق:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"/>
         <source>Screenshot delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>تأخير لقطة الشاشة:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="273"/>
         <source> s</source>
-        <translation type="unfinished"></translation>
+        <translation> s</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="397"/>
         <source>File already exists. Overwrite ?</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود بالفعل. الكتابة فوق ؟</translation>
     </message>
 </context>
 <context>
@@ -3882,7 +3898,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSearchBox.cpp" line="76"/>
         <source>Search...</source>
-        <translation type="unfinished">بحث...</translation>
+        <translation>بحث...</translation>
     </message>
 </context>
 <context>
@@ -3890,37 +3906,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSettingsDialog.ui" line="14"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="78"/>
         <source>Apply settings and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق الإعدادات وإغلاق الحوار.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="80"/>
         <source>Reject settings changes and close dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>رفض تغييرات الإعدادات وإغلاق الحوار.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="82"/>
         <source>Reset settings to their values when the dialog opened</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين الإعدادات إلى قيمها عند فتح مربع الحوار</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="84"/>
         <source>Restore settings to their default values.To cancel a &quot;Restore&quot;, you can &quot;Reset&quot; the settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة الإعدادات إلى قيمها الافتراضية. لإلغاء &quot;استعادة&quot; ، يمكنك &quot;إعادة تعيين&quot; الإعدادات.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="170"/>
         <source>Restart required!</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التشغيل مطلوبة!</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
         <source>The application must be restarted to take into account the new values of the following properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب إعادة تشغيل التطبيق لمراعاة القيم الجديدة للخصائص التالية:</translation>
     </message>
 </context>
 <context>
@@ -3928,7 +3944,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSliderWidget.ui" line="20"/>
         <source>ctkSliderWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>القطعة المنزلق ctk</translation>
     </message>
 </context>
 <context>
@@ -3936,7 +3952,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkTemplateWidget.ui" line="14"/>
         <source>Template Widget</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب القطعة</translation>
     </message>
 </context>
 <context>
@@ -3944,12 +3960,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="30"/>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>كائن</translation>
     </message>
     <message>
         <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
         <source>My object class definition</source>
-        <translation type="unfinished"></translation>
+        <translation>تعريف فئة الكائن الخاص بي</translation>
     </message>
 </context>
 <context>
@@ -3957,7 +3973,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailLabel.ui" line="14"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">مصغرة</translation>
+        <translation>مصغرة</translation>
     </message>
 </context>
 <context>
@@ -3965,7 +3981,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailListWidget.ui" line="14"/>
         <source>ThumbnailList</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة الصور المصغرة</translation>
     </message>
 </context>
 <context>
@@ -3973,7 +3989,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="516"/>
         <source>FPS: %1(%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>إطار في الثانية:٪ 1 (٪ 2 ثانية)</translation>
     </message>
 </context>
 <context>
@@ -3981,77 +3997,77 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="14"/>
         <source>Color Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation>وظيفة نقل اللون</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="23"/>
         <source>Undo last change of range</source>
-        <translation type="unfinished"></translation>
+        <translation>التراجع عن آخر تغيير في النطاق</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="34"/>
         <source>Reset ranges to data range</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين النطاقات إلى نطاق البيانات</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="45"/>
         <source>Shrink display range to current range</source>
-        <translation type="unfinished"></translation>
+        <translation>تقليص نطاق العرض إلى النطاق الحالي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="56"/>
         <source>Expand current range to display range</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتوسيع النطاق الحالي لعرض النطاق</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="67"/>
         <source>Invert color map</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس خريطة اللون</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="84"/>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات أخرى</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="94"/>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="123"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="194"/>
         <source>Reset</source>
-        <translation type="unfinished">اعاده تعيين</translation>
+        <translation>اعاده تعيين</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="242"/>
         <source>NaN values</source>
-        <translation type="unfinished"></translation>
+        <translation>قيم NaN</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="244"/>
         <source>NaN color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون NaN</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="249"/>
         <source>Discretize</source>
-        <translation type="unfinished"></translation>
+        <translation>التبصر</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="250"/>
         <source>Discretize color transfer function</source>
-        <translation type="unfinished"></translation>
+        <translation>تمييز وظيفة نقل اللون</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="254"/>
         <source>Number of discrete values</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد القيم المنفصلة</translation>
     </message>
 </context>
 <context>
@@ -4059,122 +4075,122 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="14"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>ملكية</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="32"/>
         <source>Representation</source>
-        <translation type="unfinished"></translation>
+        <translation>التمثيل</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished"></translation>
+        <translation>التمثيل:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>النقاط</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished"></translation>
+        <translation>إطار سلكي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished"></translation>
+        <translation>سطح</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="70"/>
         <source>Point Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم النقطة:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
         <source>Line Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الخط:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"/>
         <source>Culling:</source>
-        <translation type="unfinished"></translation>
+        <translation>ذبح:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="119"/>
         <source>Frontface</source>
-        <translation type="unfinished"></translation>
+        <translation>الوجه الأمامي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="126"/>
         <source>Backface</source>
-        <translation type="unfinished"></translation>
+        <translation>الوجه الخلفي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="138"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"/>
         <source>Color:</source>
-        <translation type="unfinished">لون:</translation>
+        <translation>لون:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation type="unfinished">العتامة:</translation>
+        <translation>العتامه:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
         <source>Edge Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية الحافة:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="195"/>
         <source>Edge Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>لون الحافة:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="208"/>
         <source>Lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>إضاءة</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"/>
         <source>Lighting:</source>
-        <translation type="unfinished"></translation>
+        <translation>إضاءة:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستيفاء:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="239"/>
         <source>Flat</source>
-        <translation type="unfinished">مسطح</translation>
+        <translation>مسطح</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="244"/>
         <source>Gouraud</source>
-        <translation type="unfinished">غورو</translation>
+        <translation>غورو</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="249"/>
         <source>Phong</source>
-        <translation type="unfinished">فونج</translation>
+        <translation>فونج</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
         <source>Shading:</source>
-        <translation type="unfinished"></translation>
+        <translation>تظليل:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
         <source>Material</source>
-        <translation type="unfinished"></translation>
+        <translation>مادة</translation>
     </message>
 </context>
 <context>
@@ -4182,7 +4198,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="67"/>
         <source>Size issue ...</source>
-        <translation type="unfinished"></translation>
+        <translation>مشكلة الحجم ...</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
@@ -4190,7 +4206,10 @@ p, li { white-space: pre-wrap; }
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم عرض العرض هو: العرض: ٪1 الارتفاع: ٪2 
+لكن الحجم كان العرض: ٪ 3 الارتفاع: ٪ 4 
+خلال السجل 
+هل تريد استبداله؟</translation>
     </message>
 </context>
 <context>
@@ -4198,37 +4217,37 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="14"/>
         <source>vtkScalarBarWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>أداة شريط عددي vtk</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="23"/>
         <source>Display scalar bar</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض شريط عددي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="30"/>
         <source>Title properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص العنوان:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="45"/>
         <source>Labels properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص التسميات:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"/>
         <source>Maximum number of colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لعدد الألوان:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="81"/>
         <source>Number of labels:</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الملصقات:</translation>
     </message>
 </context>
 <context>
@@ -4236,7 +4255,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKScalarsToColorsComboBox.cpp" line="65"/>
         <source>Select a color transfer function...</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد وظيفة نقل اللون...</translation>
     </message>
 </context>
 <context>
@@ -4244,62 +4263,62 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="14"/>
         <source>ScalarsToColorsWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>العددية إلى الألوان القطعة</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="41"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="54"/>
         <source>Point ID</source>
-        <translation type="unfinished"></translation>
+        <translation>معرف النقطة</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="44"/>
         <source>Point:</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="83"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="96"/>
         <source>X coordinate of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>إحداثيات X للنقطة الحالية</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="86"/>
         <source>X:</source>
-        <translation type="unfinished"></translation>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="103"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="116"/>
         <source>Opacity of the current point</source>
-        <translation type="unfinished"></translation>
+        <translation>عتامة النقطة الحالية</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="106"/>
         <source>O:</source>
-        <translation type="unfinished"></translation>
+        <translation>O:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="129"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="142"/>
         <source>Position of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع نقطة المنتصف</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="132"/>
         <source>M:</source>
-        <translation type="unfinished"></translation>
+        <translation>M:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="155"/>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="168"/>
         <source>Sharpness of the midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>حدة نقطة المنتصف</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarsToColorsWidget.ui" line="158"/>
         <source>S:</source>
-        <translation type="unfinished"></translation>
+        <translation>قصير:</translation>
     </message>
 </context>
 <context>
@@ -4307,67 +4326,67 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="14"/>
         <source>vtkTextProperty</source>
-        <translation type="unfinished"></translation>
+        <translation>خاصية نص vtk</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="23"/>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>نص:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="33"/>
         <source>Color:</source>
-        <translation type="unfinished">لون:</translation>
+        <translation>لون:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="43"/>
         <source>Opacity:</source>
-        <translation type="unfinished">العتامة:</translation>
+        <translation>العتامة:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="63"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>الخط:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"/>
         <source>Arial</source>
-        <translation type="unfinished"></translation>
+        <translation>اريال</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="76"/>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation>الساعي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="81"/>
         <source>Times</source>
-        <translation type="unfinished"></translation>
+        <translation>مرات</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="89"/>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>أسلوب:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"/>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>ثخين</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"/>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>مائل</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="110"/>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ظل</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="117"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم:</translation>
     </message>
 </context>
 <context>
@@ -4375,17 +4394,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="14"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="26"/>
         <source>Threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
         <source>Opacity:</source>
-        <translation type="unfinished">العتامة:</translation>
+        <translation>العتامة:</translation>
     </message>
 </context>
 <context>
@@ -4393,52 +4412,52 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="14"/>
         <source>Volume property</source>
-        <translation type="unfinished"></translation>
+        <translation>‮خصائص الحجم</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"/>
         <source>Scalar Opacity Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>رسم خرائط التعتيم العددي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="51"/>
         <source>Scalar Color Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين اللون القياسي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"/>
         <source>Gradient Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>عتامة التدرج</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستيفاء:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>أقرب جار</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="114"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>خطية</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="122"/>
         <source>Shade:</source>
-        <translation type="unfinished"></translation>
+        <translation>ظل:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"/>
         <source>Material:</source>
-        <translation type="unfinished"></translation>
+        <translation>مادة:</translation>
     </message>
 </context>
 <context>
@@ -4446,12 +4465,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="20"/>
         <source>Workflow</source>
-        <translation type="unfinished"></translation>
+        <translation>سير العمل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="35"/>
         <source>Step title</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان الخطوة</translation>
     </message>
 </context>
 <context>
@@ -4459,13 +4478,14 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="195"/>
         <source>Playback ...</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل...</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/ctkXMLEventSource.cpp" line="196"/>
         <source>The settings are different from the record Settings.
 Do you want to restore the settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>تختلف الإعدادات عن إعدادات السجل.
+هل تريد استعادة الإعدادات؟</translation>
     </message>
 </context>
 <context>
@@ -4473,82 +4493,82 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="14"/>
         <source>Login Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>ملفات تعريف تسجيل الدخول</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="26"/>
         <source>Profiles:</source>
-        <translation type="unfinished"></translation>
+        <translation>ملفات تعريف:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="52"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
         <source>Login information:</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات تسجيل الدخول:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="106"/>
         <source>Profile name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم الملف الشخصي:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="119"/>
         <source>Server URI:</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان URI للخادم:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="132"/>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المستخدم:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="145"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>كلمة المرور:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="162"/>
         <source>Download Dir.:</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل Dir.:</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="169"/>
         <source>Use as default</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام كإعداد افتراضي</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Missing XNAT server URI</source>
-        <translation type="unfinished"></translation>
+        <translation>عنوان URI لخادم XNAT مفقود</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="169"/>
         <source>Please enter XNAT server URI.</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء إدخال عنوان URI لخادم XNAT.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Missing user name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المستخدم مفقود</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="178"/>
         <source>Please enter user name.</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء إدخال اسم المستخدم.</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.cpp" line="209"/>
         <source>Invalid Login Error</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في تسجيل الدخول غير صالح</translation>
     </message>
 </context>
 <context>
@@ -4556,62 +4576,62 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished">النافذة الرئيسية</translation>
+        <translation>النافذة الرئيسية</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="23"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدخول</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="33"/>
         <source>Creates a new resource folder</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء مجلد مورد جديد</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="36"/>
         <source>Add Resource</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة مورد</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="46"/>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث الملف</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="56"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="69"/>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>غير متصل</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>التفاصيل</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
         <source>Select a xnat file, resource, scan, or scan folder to download...</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد ملف xnat أو موردا أو مسحا ضوئيا أو مجلد مسح ضوئي لتنزيله...</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
         <source>&amp;File</source>
-        <translation type="unfinished">ملف</translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="122"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>مغادرة</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح الملف</translation>
     </message>
 </context>
 </TS>
