@@ -3850,7 +3850,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
         <source>Fiducial Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre fiduciari</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
@@ -3875,12 +3875,12 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
         <source>Fixed landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Punts de referència fixos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
         <source>Moving landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Referències en moviment</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
@@ -3895,22 +3895,22 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
         <source>RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
         <source>Output Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Missatge de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista ordenada de punts de referència a la imatge fixa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
         <source>Ordered list of landmarks in the moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista ordenada de punts de referència a la imatge en moviment</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
@@ -3930,7 +3930,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
         <source>Provides more information on the output</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporciona més informació sobre la sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
@@ -3946,7 +3946,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Semblança</translation>
     </message>
 </context>
 <context>
@@ -3954,12 +3954,12 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre d&apos;imatge de desenfocament gaussià</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar un desenfocament gaussià a una imatge</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
@@ -3979,7 +3979,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
@@ -4004,7 +4004,7 @@ Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
         <source>Blurred Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum borrós</translation>
     </message>
 </context>
 <context>
@@ -4124,7 +4124,7 @@ Els mètodes de difusió anisotròpica redueixen el soroll (o els detalls no des
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre d&apos;imatge del forat d&apos;ompliment en escala de grisos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
@@ -4188,7 +4188,7 @@ Un filtre complementari, Grayscale Grind Peak, elimina els pics de les imatges e
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre d&apos;imatge de pic de trituració en escala de grisos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
@@ -4256,17 +4256,17 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"/>
         <source>Grayscale Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>Creador de models en escala de grisos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea models de superfícies 3D a partir de dades en escala de grisos. Aquest mòdul utilitza Marching Cubes per a crear una isosuperfície en un llindar donat. La superfície resultant està formada per triangles que separen un volum en regions per sota i per sobre del llindar. La superfície resultant es pot suavitzar i delmar. Aquest model funciona sobre dades contínues mentre que el mòdul Model Maker treballa sobre dades etiquetades (o discretes).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest treball forma part de la National Alliance for Medical Image Computing (NAMIC), finançada pels Instituts Nacionals de Salut a través del Full de ruta del NIH per a la investigació mèdica, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
@@ -4286,12 +4286,12 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
         <source>Output Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
         <source>Volume containing the input grayscale data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum que conté les dades en escala de grisos d&apos;entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
