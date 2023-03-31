@@ -1662,7 +1662,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation>أضف شبكة ملتوية إلى صورة الإخراج للمساعدة في إظهار التشوه الذي حدث مع التباعد المحدد.   يشير التباعد 0 في البعد إلى أنه يجب جعل خطوط الشبكة تسقط بالضبط (أي لا تسمح بالإزاحة من هذا المستوى).  هذا مفيد لعمل صورة 2D لخطوط الشبكة من مساحة 3D</translation>
+        <translation>أضف شبكة ملتوية إلى صورة الإخراج للمساعدة في إظهار التشوه الذي حدث مع التباعد المحدد. يشير التباعد بمقدار 0 في أحد الأبعاد إلى أنه يجب عرض خطوط الشبكة بحيث تنخفض تمامًا (أي لا تسمح بالإزاحة عن هذا المستوى). هذا مفيد لعمل صورة ثنائية الأبعاد لخطوط الشبكة من الفضاء ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
@@ -3842,22 +3842,22 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
         <source>Fiducial Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>التسجيل الإئتماني</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation>يحسب تحويل جامد أو تشابه أو تحويل أفيني من قائمة مؤمنة متطابقة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
@@ -3867,17 +3867,17 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
         <source>Fixed landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>المعالم الثابتة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
         <source>Moving landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>المعالم المتحركة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
         <source>Save transform</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ التحويل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
@@ -3887,58 +3887,58 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
         <source>RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
         <source>Output Message</source>
-        <translation type="unfinished"></translation>
+        <translation>رسالة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة مرتبة من المعالم في الصورة الثابتة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
         <source>Ordered list of landmarks in the moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة مرتبة من المعالم في الصورة المتحركة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
         <source>Save the transform that results from registration</source>
-        <translation type="unfinished"></translation>
+        <translation>احفظ التحويل الناتج عن التسجيل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
         <source>Type of transform to produce</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع التحويل للإنتاج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
         <source>Display RMS Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض خطأ RMS.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
         <source>Provides more information on the output</source>
-        <translation type="unfinished"></translation>
+        <translation>يوفر المزيد من المعلومات حول الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation>جامد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>ترجمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation>التشابه</translation>
     </message>
 </context>
 <context>
@@ -13595,7 +13595,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="4"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="4"/>
         <source>Specialized</source>
-        <translation type="unfinished"></translation>
+        <translation>متخصص</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="4"/>
