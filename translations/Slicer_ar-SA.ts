@@ -1250,23 +1250,24 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>اخفاء المقدمة (الدماغ)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>يستخدم هذا البرنامج لإنشاء قناع فوق المنطقة الأمامية الأكثر بروزًا في الصورة. يتم تحقيق ذلك من خلال مزيج من عتبة otsu وعملية الإغلاق.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished"></translation>
+        <translation>هانز جونسون (1،3،4) ؛ كينت ويليامز (1) ؛ غريغوري هاريس (1) ، فنسنت ماجنوتا (1،2،3) ؛  أندريه فيدوروف (5) ، فيدوروف -at- bwh.harvard.edu (تكامل القطاعة) ؛ (1 = قسم الطب النفسي بجامعة أيوا ، 2 = قسم الأشعة بجامعة أيوا ، 3 = قسم الهندسة الطبية الحيوية بجامعة أيوا ، 4 = قسم الهندسة الكهربائية وهندسة الحاسبات بجامعة أيوا ، 5 = مختبر التخطيط الجراحي ، هارفارد)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
@@ -1281,67 +1282,67 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
         <source>Output Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>قناع الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished">صورة الإخراج</translation>
+        <translation>صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
         <source>Mask Output</source>
-        <translation type="unfinished"></translation>
+        <translation>إخراج القناع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة الإخراج مقتطعة من قبل ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة الإدخال للعثور على أكبر منطقة مملوءة بالقناع.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على ROI تلقائيا من صورة الإدخال.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال مع اختياري [إخراج القناع | إخراج المحاصيل] إلى منطقة قناع الدماغ.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال مضروبا في قناع ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم اقتصاص حجم الإدخال إلى منطقة قناع ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التكوين</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة Otsu المئوية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>عامل تصحيح Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
         <source>Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإغلاق</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
@@ -1361,53 +1362,53 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة لخوارزمية عتبة Otsu.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>عامل لقياس عتبة نتيجة خوارزمية Otsu ، في حالة قيام القص بتشويه الصورة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإغلاق (بالمليمترات) لأكبر قناع معبأ متصل. يتم تقسيم هذه القيمة من خلال تباعد الصور وتقريبها إلى أكبر رقم فوكسل تالي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة.  يحدد حجم التمدد النهائي لالتقاط القليل من الخلفية خارج منطقة الأنسجة.  عند إعداد 10 مم ، تم إثبات أنه يساعد في تنظيم نوع تسجيل BSpline بحيث تكون هناك بعض قيود الخلفية لتتناسب مع حواف الرأس بشكل أفضل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع بكسل صورة الإخراج هو نوع البيانات القياسي لتمثيل حجم الإخراج.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد بشكل صريح الحد الأقصى لعدد سلاسل الرسائل المراد استخدامها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>حُر</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished">قريب</translation>
+        <translation>قريب</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>عدد صحيح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
