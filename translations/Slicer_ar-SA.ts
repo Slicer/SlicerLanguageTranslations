@@ -1586,7 +1586,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الاستيفاء الذي سيتم استخدامه عند تطبيق التحويل على الحجم المتحرك.  الخيارات هي خطي أو إعادة العينة في مكانها أو اقرب جار أو BSpline أو نافذة سينك</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
