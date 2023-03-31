@@ -1662,7 +1662,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation>أضف شبكة ملتوية إلى صورة الإخراج للمساعدة في إظهار التشوه الذي حدث مع التباعد المحدد. يشير التباعد بمقدار 0 في أحد الأبعاد إلى أنه يجب عرض خطوط الشبكة بحيث تنخفض تمامًا (أي لا تسمح بالإزاحة عن هذا المستوى). هذا مفيد لعمل صورة ثنائية الأبعاد لخطوط الشبكة من الفضاء ثلاثي الأبعاد</translation>
+        <translation>أضف شبكة ملتوية إلى صورة الإخراج للمساعدة في إظهار التشوه الذي حدث مع التباعد المحدد.   يشير التباعد 0 في البعد إلى أنه يجب جعل خطوط الشبكة تسقط بالضبط (أي لا تسمح بالإزاحة من هذا المستوى).  هذا مفيد لعمل صورة 2D لخطوط الشبكة من مساحة 3D</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
