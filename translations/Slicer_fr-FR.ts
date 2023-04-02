@@ -2303,7 +2303,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"/>
         <source>Patient Sex</source>
-        <translation>Sèxe du Patient</translation>
+        <translation>Sexe du Patient</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"/>
@@ -7742,12 +7742,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="243"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished">Charger des données DICOM</translation>
+        <translation type="unfinished">Données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="274"/>
         <source>DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="349"/>
