@@ -41,12 +41,12 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
         <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation>La ligne CAPC relie un point à la commissure antérieure avec un point à la commissure postérieure.</translation>
+        <translation>La ligne CAPC, reliant un point à la commissure antérieure à un point à la commissure postérieure.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
         <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation>l</translation>
+        <translation>La ligne médiane est une série de points (minimum trois points) placée au milieu du plan sagittal caractérisant la division entre les hémisphères du cerveau.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
