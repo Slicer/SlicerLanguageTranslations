@@ -72,7 +72,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
         <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>La Transformation qui déplace le volume vers le Système de coordonnée CACP normal.</translation>
     </message>
 </context>
 <context>
@@ -19836,53 +19836,53 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="14"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="23"/>
         <source>Cache directory for downloaded files</source>
-        <translation type="unfinished">Cache directory for downloaded files</translation>
+        <translation>Répertoire de cache pour les fichiers téléchargés</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="26"/>
         <source>Cache location:</source>
-        <translation type="unfinished">Cache location:</translation>
+        <translation>Emplacement du cache :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="35"/>
         <source>~0MB used</source>
-        <translation type="unfinished">~0MB used</translation>
+        <translation>~0Mo utilisé</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="42"/>
         <source>~200MB free</source>
-        <translation type="unfinished">~200MB free</translation>
+        <translation>~200Mo libre</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="51"/>
         <source>Current usage of the cache</source>
-        <translation type="unfinished">Current usage of the cache</translation>
+        <translation>Utilisation actuelle du cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="54"/>
         <source>Cache usage:</source>
-        <translation type="unfinished">Cache usage:</translation>
+        <translation>Utilisation du cache :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="61"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="90"/>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>Mo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="80"/>
         <source>Upper limit of the dedicated cache for downloaded files</source>
-        <translation type="unfinished">Upper limit of the dedicated cache for downloaded files</translation>
+        <translation>Limite supérieure du cache dédié pour les fichiers téléchargés</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="83"/>
         <source>Cache size:</source>
-        <translation type="unfinished">Cache size:</translation>
+        <translation>Taille du cache :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="106"/>
@@ -19897,37 +19897,37 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
         <source>Control whether a file must be downloaded even if it is already in the cache</source>
-        <translation type="unfinished">Control whether a file must be downloaded even if it is already in the cache</translation>
+        <translation>Contrôle si un fichier doit être téléchargé même s&apos;il se trouve déjà dans le cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="119"/>
         <source>Force redownload:</source>
-        <translation type="unfinished">Force redownload:</translation>
+        <translation>Forcer le retéléchargement :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="136"/>
         <source>Files in cache:</source>
-        <translation type="unfinished">Files in cache:</translation>
+        <translation>Fichiers en cache :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="143"/>
         <source>Delete all files in cache directory</source>
-        <translation type="unfinished">Delete all files in cache directory</translation>
+        <translation>Supprimer tous les fichiers du répertoire de cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="146"/>
         <source>Clear cache</source>
-        <translation type="unfinished">Clear cache</translation>
+        <translation>Vider le cache</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="144"/>
         <source>%1MB used</source>
-        <translation type="unfinished">%1MB used</translation>
+        <translation>%1Mo utilisé</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsCachePanel.cxx" line="148"/>
         <source>%1MB free</source>
-        <translation type="unfinished">%1MB free</translation>
+        <translation>%1Mo libre</translation>
     </message>
 </context>
 <context>
@@ -19940,7 +19940,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="20"/>
         <source>Enable developer mode:</source>
-        <translation type="unfinished">Enable developer mode:</translation>
+        <translation>Activer le mode développeur :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="27"/>
@@ -20024,7 +20024,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="57"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher automatiquement les mises à jour :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="64"/>
