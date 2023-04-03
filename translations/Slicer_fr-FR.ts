@@ -57,7 +57,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
         <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation calculée (translation et rotation rigides) que le module calcule à partir des repères d&apos;entrée. Si cette transformation est appliquée au volume, elle rendra la ligne ACPC &quot;horizontale&quot; (soit dans l&apos;axe AP du système de coordonnées du patient), alignera le plan sagittal médian &quot;vertical&quot; (s&apos;ajustera sur le plan AS du système de coordonnées du patient ), et (si le centrage est activé) faites du point AC l&apos;origine (la coordonnée (0,0,0) dans le système de coordonnées du patient).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
         <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette option est activée, la transformation de sortie traduira le point AC vers l&apos;origine. Si cette option est désactivée, la position du volume sera conservée et la transformation ne changera que l&apos;orientation.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajoute deux images. Bien que tous les types d&apos;images soient pris en charge en entrée, seuls les types signés sont produits. Les deux images ne doivent pas nécessairement avoir les mêmes dimensions.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
@@ -193,7 +193,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation type="unfinished"></translation>
+        <translation>donné une liste de </translation>
     </message>
 </context>
 <context>
@@ -22387,7 +22387,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="278"/>
         <source>Translate</source>
-        <translation type="unfinished">Translate</translation>
+        <translation>Traduire</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="279"/>
