@@ -2196,7 +2196,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation>Tranches inversées</translation>
+        <translation>Coupes inversées</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
@@ -2226,12 +2226,12 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation>Le format de style printf à utiliser lors de la création du nom de fichier DICOM par tranche. Le signe % initial peut être omis.</translation>
+        <translation>Le format de style printf à utiliser lors de la création du nom de fichier DICOM par-coupe. Le signe % initial peut être omis.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
         <source>Reverse the slices.</source>
-        <translation>Inversez les tranches.</translation>
+        <translation>Inversez les coupes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
@@ -2465,7 +2465,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
         <source>US</source>
-        <translation>échographie</translation>
+        <translation>US (échographie)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
@@ -2541,7 +2541,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
         <source>HFS</source>
-        <translation>HFS (Tête première-couchée)</translation>
+        <translation>HFS (Tête première-couché)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
@@ -2556,7 +2556,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
         <source>HFDL</source>
-        <translation>HFDL (Tête première-décubitus gauche)</translation>
+        <translation>HFDL (Tête en premier-décubitus gauche)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
@@ -2566,7 +2566,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
         <source>FFDL</source>
-        <translation>FFDL (Pieds premiers-décubitus gauche)</translation>
+        <translation>FFDL (Pieds en premier-décubitus gauche)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
@@ -7886,7 +7886,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTestModelViews.ui" line="14"/>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation>Forme</translation>
     </message>
 </context>
 <context>
