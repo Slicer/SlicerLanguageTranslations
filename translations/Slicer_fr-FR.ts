@@ -130,7 +130,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume1 + Volume2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
@@ -14024,7 +14024,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="116"/>
         <source>View License</source>
-        <translation>Voir la licence</translation>
+        <translation>Voir la license</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="120"/>
@@ -20245,12 +20245,12 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="14"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>Internationalisation</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsInternationalizationPanel.ui" line="20"/>
         <source>Enable Internationalization:</source>
-        <translation type="unfinished">Enable Internationalization:</translation>
+        <translation>Activer l’internationalisation :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsInternationalizationPanel.cxx" line="68"/>
@@ -21569,7 +21569,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="168"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>annuler</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="177"/>
@@ -21886,7 +21886,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.h" line="55"/>
         <source>Texts</source>
-        <translation type="unfinished">Texts</translation>
+        <translation>Textes</translation>
     </message>
 </context>
 <context>
@@ -21894,7 +21894,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="20"/>
         <source>Texts</source>
-        <translation type="unfinished">Texts</translation>
+        <translation>Textes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="44"/>
@@ -22113,7 +22113,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.h" line="47"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>Unités</translation>
     </message>
 </context>
 <context>
