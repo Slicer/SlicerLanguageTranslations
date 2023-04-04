@@ -2146,7 +2146,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation>Ce module de commande est dérivé d&apos;Insight/Exemples (copyright) Insight Software Consortium.</translation>
+        <translation>Ce module de commande est dérivé d&apos;Insight/Exemples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
