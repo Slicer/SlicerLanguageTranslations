@@ -579,147 +579,147 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline(&gt;27 Degrés de libertés)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished"></translation>
+        <translation>SyN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
         <source>Composite (many DOF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite (plusieurs degrés de liberté)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez un enregistrement rigide dans le cadre des étapes d&apos;enregistrement séquentiel. Cette famille d&apos;options remplace l&apos;utilisation de transformType si l&apos;une d&apos;elles est définie.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez un enregistrement ScaleVersor3D dans le cadre des étapes d&apos;enregistrement séquentielles. Cette famille d&apos;options remplace l&apos;utilisation de transformType si l&apos;une d&apos;elles est définie.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez un enregistrement ScaleSkewVersor3D dans le cadre des étapes d&apos;enregistrement séquentielles. Cette famille d&apos;options remplace l&apos;utilisation de transformType si l&apos;une d&apos;elles est définie.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez un enregistrement Affine dans le cadre des étapes d&apos;enregistrement séquentielles. Cette famille d&apos;options remplace l&apos;utilisation de transformType si l&apos;une d&apos;elles est définie.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez un enregistrement BSpline dans le cadre des étapes d&apos;enregistrement séquentielles. Cette famille d&apos;options remplace l&apos;utilisation de transformType si l&apos;une d&apos;elles est définie.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez un enregistrement SyN dans le cadre des étapes d&apos;enregistrement séquentiel. Cette famille d&apos;options remplace l&apos;utilisation de transformType si l&apos;une d&apos;elles est définie.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuez un enregistrement composite dans le cadre des étapes d&apos;enregistrement séquentiel. Cette famille d&apos;options remplace l&apos;utilisation de transformType si l&apos;une d&apos;elles est définie.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Masque d&apos;image et prétraitement</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Option de masquage</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>(Zone d&apos;intérêt) Entrée de masquage fixe</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished"></translation>
+        <translation>(Zone d&apos;intérêt) Entrée de masquage en mouvement</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(Zone d&apos;intérêt AUTO) Masque fixe de sortie</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(Zone d&apos;intérêt AUTO) Masque mobile de sortie</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir la grille BSpline sur la zone de délimitation de la zone d&apos;intérêt (ROI)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Correspondance d&apos;histogramme</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille médiane du filtre</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la valeur des valeurs aberrantes d&apos;intensité à une queue</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécifie un masque pour ne considérer qu&apos;une certaine région d&apos;image pour l&apos;enregistrement. Si Zone d&apos;intérêt (ROIAUTO) est choisie, alors le masque est calculé en utilisant le seuillage Otsu et le remplissage des trous. Si Zone d&apos;intérêt (ROI) est choisi, le masque doit être spécifié comme en entrée.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de masque binaire d&apos;image fixe, requis si l&apos;option de masquage est Zone d&apos;intérêt (ROI). Les zones d&apos;image où le volume du masque a une valeur nulle sont ignorées lors de l&apos;enregistrement.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de masque binaire de l&apos;image animée, requis si l&apos;option de masquage est Zone d&apos;intérêt (ROI). Les zones d&apos;image où le volume du masque a une valeur nulle sont ignorées lors de l&apos;enregistrement.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zone d&apos;intérêt (ROI) calculé automatiquement à partir de l&apos;image fixe. Uniquement disponible si l&apos;option de masquage est Zone d&apos;intérêt AUTO (ROIAUTO). Les zones d&apos;image où le volume du masque a une valeur nulle sont ignorées lors de l&apos;enregistrement.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zone d&apos;intérêt (ROI) calculé automatiquement à partir de l&apos;image animée. Uniquement disponible si l&apos;option de masquage est Zone d&apos;intérêt (ROIAUTO). Les zones d&apos;image où le volume du masque a une valeur nulle sont ignorées lors de l&apos;enregistrement.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette option est activée, la zone de délimitation des Zones d&apos;intérêt (ROI) d&apos;entrée définit la région de prise en charge de la grille BSpline. Sinon, la région de support de la grille BSpline est l&apos;ensemble de l&apos;image fixe.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquez l&apos;opération de correspondance d&apos;histogramme pour les images d&apos;entrée afin de les rendre plus similaires. Cela convient aux images de la même modalité qui peuvent avoir une luminosité ou un contraste différent, mais le même profil d&apos;intensité global. Ne pas utiliser si vous enregistrez des images de différentes modalités.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquez un filtrage médian pour réduire le bruit dans les volumes d&apos;entrée. Les 3 valeurs spécifient le rayon pour le prétraitement optionnel du filtre d&apos;image médian dans les 3 directions (en voxels).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimez les voxels d&apos;intensité très élevée et très faible des volumes d&apos;entrée. Le paramètre spécifie le demi-pourcentage pour déterminer les valeurs aberrantes des intensités d&apos;image. La valeur par défaut est zéro, ce qui signifie qu&apos;il n&apos;y a pas de suppression de valeurs aberrantes. Si la valeur de 0,005 est donnée, les 0,005&#xa0;% des deux queues seront jetés, donc 0,01&#xa0;% des intensités au total seront ignorées dans le calcul statistique.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
