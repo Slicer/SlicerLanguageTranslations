@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_Hans">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>Form</name>
     <message>
@@ -1169,7 +1169,7 @@ Closing the tab will cancel the current computation.</source>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="886"/>
-        <source>The files for the following series are not available on the disk: 
+        <source>The files for the following series are not available on the disk:
 Patient Name: %1
 Study Description: %2
 Series Description: %3
@@ -4707,9 +4707,9 @@ all settings to their default values?
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKRenderViewEventPlayer.cpp" line="68"/>
-        <source>The Render view size is: width : %1 	 height : %2 
-But the size was         width : %3 	 height : %4 
-during the record 
+        <source>The Render view size is: width : %1 	 height : %2
+But the size was         width : %3 	 height : %4
+during the record
 Do you want to replace it ?</source>
         <translation type="unfinished"></translation>
     </message>
