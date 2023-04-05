@@ -77,7 +77,7 @@
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avide</translation>
     </message>
 </context>
 <context>
@@ -85,12 +85,12 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
         <source>DICOM Application Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Hôte d&apos;application DICOM</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exemple d&apos;application d&apos;hébergement CTK</translation>
     </message>
 </context>
 <context>
@@ -98,17 +98,17 @@
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Générateur de plugins CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisissez le nom de votre organisation :</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;votre-organisation&gt;</translation>
     </message>
 </context>
 <context>
@@ -116,17 +116,17 @@
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="442"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec lors de la vérification XML :</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fini.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleConcurrentHelpers.cpp" line="73"/>
         <source>Module %1 failed with an unknown exception.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le module %1 a échoué avec une exception inconnue.</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="45"/>
@@ -137,7 +137,13 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;enregistrement du module :
+%1
+
+en raison de :
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
@@ -148,13 +154,20 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de l&apos;enregistrement du module&#xa0;:
+%1
+
+en raison d&apos;une erreur de validation xml&#xa0;:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="56"/>
         <source>Failed to register module:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de l&apos;enregistrement du module&#xa0;:
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
@@ -163,77 +176,82 @@ due to xml validation error:
 
 due to:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;enregistrement du module&#xa0;:
+
+
+en raison de :
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Échec de l&apos;enregistrement des modules</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Basique</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="109"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="123"/>
         <source>Button1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bouton1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="124"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="43"/>
         <source>Button2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bouton2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="42"/>
         <source>My very long text on button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mon texte très long sur le bouton</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="44"/>
         <source>Button3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bouton3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="45"/>
         <source>Button4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bouton4</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="46"/>
         <source>Button5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bouton5</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="47"/>
         <source>Button6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bouton6</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="48"/>
         <source>Checkable PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>Bouton-poussoir vérifiable</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="49"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="50"/>
         <source>Connected, Not User Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connecté, non vérifiable par l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="51"/>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="52"/>
         <source>Not Connected, User Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non connecté, vérifiable par l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="53"/>
         <source>Checkbox Not User Checkable
 Button Checkable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Case à cocher Non vérifiable par l’utilisateur
+Bouton vérifiable</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="54"/>
