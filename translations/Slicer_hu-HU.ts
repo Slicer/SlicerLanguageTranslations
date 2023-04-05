@@ -57,7 +57,7 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
         <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation>A bemeneti pontokból kiszámított merev transzformáció (eltolás és forgatás). Ha a transzformációt egy képre alkalmazzuk, az az ACPC vonalat &quot;vízszintesre&quot; (az anterio-poszterior tengellyel párhuzamosra) hozza és a két agyféltekét elválasztó síkot a koordináta rendszer szagittális síkjába igazítja. Ha a középre igazítás engedélyezett akkor az AC pont kerül a páciens koordináta rendszer origójába.</translation>
+        <translation>A bemeneti pontokból kiszámított merev transzformáció (eltolás és forgatás). Ha a transzformációt egy képre alkalmazzuk, az ACPC vonalat &quot;vízszintesre&quot; (az anterio-poszterior tengellyel párhuzamosra) hozza és a két agyféltekét elválasztó síkot a koordináta rendszer szagittális síkjába igazítja. Ha a középre igazítás engedélyezett akkor az AC pont kerül a páciens koordináta rendszer origójába.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
@@ -7845,7 +7845,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="937"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törölni akar minden adatot és fájlt amit az adatbázisba másolt ({count} páciens)?</translation>
     </message>
 </context>
 <context>
@@ -8047,7 +8047,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="242"/>
         <source>Show background volume DICOM annotations if foreground volume is non-DICOM.</source>
-        <translation>Mutassa a háttér kép DICOM információit ha az előtérben nincs DICOM kép</translation>
+        <translation>Mutassa a háttér kép DICOM információit ha az előtérben nincs DICOM kép.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="245"/>
@@ -8125,7 +8125,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="133"/>
         <source>Result with inverted threshold will be written into this volume</source>
-        <translation>Ebbe a képbe kerül az küszöbözött és invertált kép.</translation>
+        <translation>Ebbe a képbe kerül az küszöbözött és invertált kép</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
@@ -8874,7 +8874,7 @@ a = Affine Transform</source>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
         <source>Resample a curve with the number of points specified.</source>
         <oldsource>Resample a curve and optionally constrain the points to a node</oldsource>
-        <translation type="unfinished">Resample a curve and optionally constrain the points to a node</translation>
+        <translation>Resample a curve and optionally constrain the points to a node.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
@@ -11107,7 +11107,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="83"/>
         <source>Showing current segmentation labelmap geometry. Click here to change</source>
-        <translation>Ez az aktuális címke kép reprezentáció geometriája. Kattintson ide a módosításhoz.</translation>
+        <translation>Ez az aktuális címke kép reprezentáció geometriája. Kattintson ide a módosításhoz</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="90"/>
@@ -11118,7 +11118,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="114"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="124"/>
         <source>Split each voxel of the volume to this many voxels along each direction. Useful when increasing the resolution is needed</source>
-        <translation>A kép minden egyes voxelét minden irányban ennyi voxelre osztja fel. Hasznos, ha a felbontás növelése szükséges.</translation>
+        <translation>A kép minden egyes voxelét minden irányban ennyi voxelre osztja fel. Hasznos, ha a felbontás növelése szükséges</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="117"/>
@@ -11195,8 +11195,8 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
         <translation>Ez a forrás reprezentáció.
-  1. Mentéskor ezt a reprezentáció tároljuk.
-  2. Ha ez a reprezentáció módosul, a többi törlődik.</translation>
+   1. Mentéskor ezt a reprezentáció tároljuk
+   2. Ha ez a reprezentáció módosul, a többi törlődik</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="215"/>
@@ -11226,9 +11226,12 @@ This may mean losing important data that cannot be created again from the new ma
 (Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing master representation?</source>
-        <translation>A most kiválasztott reprezentáció lesz a forrás: ez kerül lemezre mentéskor és az összes többi reprezentáció ebből lesz létrehozva, ami bizonyos részletek elvesztéséhez vezethet.
+        <translation>A most kiválasztott reprezentáció lesz a forrás ls a többi reprezentáció törlődni fog.
+Ez azon adatok elvesztéséhez vezethet, ami az új forrás reprezentációból nem állítható elő.
 
-Szeretné megváltoztatni a mester reprezentációt?</translation>
+(Emlkeztetőül: Mentéskor a forrás reprezentációt tároljuk és az összes többi reprezentációt ebből állítjuk elő.)
+
+Szeretné megváltoztatni a forrás reprezentációt?</translation>
     </message>
 </context>
 <context>
@@ -12018,7 +12021,7 @@ Szeretné megváltoztatni a mester reprezentációt?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat)</source>
-        <translation>Szelet orientáció (axiális, sagittális, koronális, elfordított).</translation>
+        <translation>Szelet orientáció (axiális, sagittális, koronális, elfordított)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="54"/>
@@ -13646,12 +13649,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
         <source>download site</source>
-        <translation type="unfinished"></translation>
+        <translation>letöltések weboldalra</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="76"/>
         <source>Visit the %1 to check if a new version is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Új verzió keresésére látogasson el a %1.</translation>
     </message>
 </context>
 <context>
@@ -15351,7 +15354,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Kérdések és fejlesztési javaslatok:&lt;/span&gt; látogasson el a  &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer fórumra&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Hibajelentések: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[kérjük%20írja%20le%20a%20várt%20és%20tapasztallt%20viselkedést]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;új téma indítása a Slicer fórumon&lt;/span&gt;&lt;/a&gt; hogy leírja a problémát, vagy elküldjön egy hibajelentést&lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Írja le a hibához vezető lépéseket, és csatolja a hibanaplót!&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Figyelem - ha páciens adatokkal dolgozik:&lt;/span&gt; Ellenőrizze, hogy a naplóbejegyzések nem tartalmaznek-e a páciens azonosítására alkalmas adatokat. Inkább küldje a naplókat egyes embereknek, mint hogy megossza őket nyilvánosan weboldalakon, vagy levelezőlistákon.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Kérdések és fejlesztési javaslatok:&lt;/span&gt; látogasson el a &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer fórumra&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Hibajelentések: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;új téma indítása a Slicer fórumon&lt;/span&gt;&lt;/a&gt; hogy leírja a problémát, vagy elküldjön egy hibajelentést&lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Írja le a hibához vezető lépéseket, és csatolja a hibanaplót!&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Figyelem - ha páciens adatokkal dolgozik:&lt;/span&gt; Ellenőrizze, hogy a naplóbejegyzések nem tartalmaznek-e a páciens azonosítására alkalmas adatokat. Inkább küldje a naplókat egyes embereknek, mint hogy megossza őket nyilvánosan weboldalakon, vagy levelezőlistákon.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -16164,9 +16167,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>Kattinston az OK gombra, hogy megvárja, amíg a művelet befejeződik; vagy kattintson a Kihagyás gombra a Bővítménykezelő bezárásához.</translation>
     </message>
 </context>
 <context>
@@ -16428,7 +16429,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Válasszon ki egy olvasót az adatai betöltéséhez</translation>
+        <translation>Válasszon ki egy olvasót az adatai betöltéséhez:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="442"/>
@@ -17762,7 +17763,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation type="unfinished">Kontrollpont koordináták és tulajdonságok importálása táblázat elemből.
+        <translation>Kontrollpont koordináták és tulajdonságok importálása táblázat elemből.
 Táblázat oszlop nevek: label, r, a, s, (vagy l, p, s), defined, selected, visible, locked, description.
 Oszlop nevek jelentése:
 - label = címke
@@ -18566,7 +18567,7 @@ Oszlop nevek jelentése:
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
         <source>Reformat</source>
         <oldsource>Form</oldsource>
-        <translation type="unfinished">Form</translation>
+        <translation>Újraszeletelés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
@@ -20320,7 +20321,10 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;További modulok elérési útjai:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(húzd és vidd&lt;br/&gt;fájlokat, vagy mappákat)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
+&lt;p&gt;További modulok elérési útjai:&lt;/p&gt;
+&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;(ide húzhat&lt;br/&gt;fájlokat, vagy mappákat)&lt;/span&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
 </translation>
     </message>
     <message>
@@ -22910,7 +22914,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished">Üdvözöljük a Slicerben</translation>
+        <translation>Üdvözöljük a Slicerben</translation>
     </message>
 </context>
 <context>
@@ -23134,6 +23138,7 @@ This should only used by advanced users who understand the consequences of chang
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation>
+            <numerusform>Frissítés elérhető %1 bővítményhez</numerusform>
             <numerusform>Frissítés elérhető %1 bővítményhez</numerusform>
         </translation>
     </message>
