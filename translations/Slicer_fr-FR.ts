@@ -408,7 +408,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation>Hans Johnson(1,3,4) ; Kent Williams(1) ; Grégory Harris(1), Vincent Magnotta(1,2,3) ; Andriy Fedorov(5) ; Ali Ghayoor (4) 1 = Département de psychiatrie de l&apos;Université de l&apos;Iowa, 2 = Département de radiologie de l&apos;Université de l&apos;Iowa, 3 = Département de génie biomédical de l&apos;Université de l&apos;Iowa, 4 = Département de génie électrique et informatique de l&apos;Université de l&apos;Iowa, 5 = Laboratoire de planification chirurgicale , Harvard  </translation>
+        <translation>Hans Johnson(1,3,4)&#x202f;; Kent Williams(1)&#x202f;; Grégory Harris(1), Vincent Magnotta(1,2,3)&#x202f;; Andriy Fedorov(5)&#x202f;; Ali Ghayoor (4) 1 = Département de psychiatrie de l&apos;Université de l&apos;Iowa, 2 = Département de radiologie de l&apos;Université de l&apos;Iowa, 3 = Département de génie biomédical de l&apos;Université de l&apos;Iowa, 4 = Département de génie électrique et informatique de l&apos;Université de l&apos;Iowa, 5 = Laboratoire de planification chirurgicale , Harvard  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
@@ -1525,7 +1525,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">binaire</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
@@ -3086,7 +3086,7 @@ Le MCDE ne présente pas les propriétés d&apos;amélioration des bords de la d
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation>Le seul type de sortie pris en charge est « court ». La conversion à partir d&apos;images d&apos;un type différent peut entraîner une perte de données due à l&apos;arrondi ou à la troncature. Utiliser avec précaution !</translation>
+        <translation>Le seul type de sortie pris en charge est « court ». La conversion à partir d&apos;images d&apos;un type différent peut entraîner une perte de données due à l&apos;arrondi ou à la troncature. Utiliser avec précaution&#x202f;!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
@@ -4133,7 +4133,7 @@ Ce filtre est utilisé pour lisser les minima locaux sans affecter les valeurs d
 
 Ce filtre utilise le itkGrayscaleGeodesicErodeImageFilter. Il fournit sa propre entrée en tant qu&apos;entrée &quot;masque&quot; à l&apos;érosion géodésique. L&apos;image &quot;marqueur&quot; pour l&apos;érosion géodésique est construite de sorte que les pixels limites correspondent aux pixels limites de l&apos;image d&apos;entrée et que les pixels intérieurs soient réglés sur la valeur de pixel maximale dans l&apos;image d&apos;entrée.
 
-  La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis : Principles and Applications&quot;, Second Edition, Springer, 2003.
+  La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis&#x202f;: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
   Un filtre compagnon, Grayscale Grind Peak, supprime les pics dans les images en niveaux de gris.</translation>
     </message>
@@ -4201,7 +4201,7 @@ Ce filtre utilise le GrayscaleGeodesicDilateImageFilter. Il fournit sa propre en
 
 Ce filtre est le double du GrayscaleFillholeImageFilter qui implémente l&apos;algorithme Fillhole. Comme il s&apos;agit d&apos;un double, il est un peu superflu mais est fourni par commodité.
 
-La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis : Principles and Applications&quot;, Second Edition, Springer, 2003.
+La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis&#x202f;: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 Un filtre compagnon, Grayscale Fill Hole, comble les trous dans les images en niveaux de gris.</translation>
     </message>
@@ -6234,7 +6234,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zéro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
@@ -7719,164 +7719,164 @@ a = Affine Transform</source>
 <context>
     <name>DICOM</name>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="29"/>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="498"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="30"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="502"/>
         <source>DICOM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="30"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="31"/>
         <source>Informatics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="34"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="34"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="243"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="245"/>
         <source>Add DICOM Data</source>
         <translation type="unfinished">Données DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="274"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="276"/>
         <source>DICOM database</source>
         <translation>Base de données DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="349"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="351"/>
         <source>Generic DICOM settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="354"/>
         <source>Database location:</source>
         <translation type="unfinished">Emplacement de la base de données:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="357"/>
         <source>DICOM general settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>Ask user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="365"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Always</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="366"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Never</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="371"/>
         <source>Load referenced series:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="376"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="380"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="376"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="380"/>
         <source>Detailed logging:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="414"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="418"/>
         <source>DICOM Directory</source>
         <translation type="unfinished">Dossier DICOM</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="415"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
         <source>Load directory into DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="509"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="513"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="520"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="524"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="570"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="576"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="630"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="636"/>
         <source>Import options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="635"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="641"/>
         <source>Copy imported files to DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="643"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="843"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="849"/>
         <source>not started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="856"/>
         <source>starting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="855"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="861"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="855"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="861"/>
         <source>running at port %s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="871"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="877"/>
         <source>Received DICOM file: {filename}</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="934"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="940"/>
         <source>DICOM database is already empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="937"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="943"/>
         <source>Clear entire DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="937"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8681,6 +8681,21 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLColorModel</name>
     <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="69"/>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="73"/>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
+        <source>Opacity</source>
+        <translation type="unfinished">Opacité</translation>
+    </message>
+    <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
         <source>None</source>
         <translation>Aucun</translation>
@@ -9072,7 +9087,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
         <source>Unselected Color:</source>
-        <translation>Couleur non sélectionnée :</translation>
+        <translation>Couleur non sélectionnée&#x202f;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
@@ -9285,7 +9300,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="308"/>
         <source>Enable rotation:</source>
-        <translation>Activer la rotation :</translation>
+        <translation>Activer la rotation&#x202f;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="189"/>
@@ -9450,6 +9465,14 @@ a = Affine Transform</source>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="50"/>
         <source>This is a test label in a test widget!</source>
         <translation>Ceci est une étiquette de test dans un widget de test!</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLMarkupsToolBar</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="498"/>
+        <source>Create new %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9803,6 +9826,16 @@ a = Affine Transform</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="90"/>
         <source>Attribute Value</source>
         <translation>Valeur d&apos;attribut</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
+        <source>Attribute name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
+        <source>Attribute value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="133"/>
@@ -10378,7 +10411,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation>Gamme P-A :</translation>
+        <translation>Gamme P-A&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
@@ -10799,6 +10832,16 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="409"/>
         <source>Allow overlap</source>
         <translation>Autoriser chevauchement</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="415"/>
+        <source>Import/export nodes...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="418"/>
+        <source>Export to files...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1374"/>
@@ -11242,17 +11285,73 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
         <translation>Cette représentation n&apos;est pas présente</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
+        <source>Update %1 representation using custom conversion parameters.
+
+Click the down-arrow button for additional operations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="248"/>
+        <source>Remove %1 representation from segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
+        <source>Make master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
+        <source>Create</source>
+        <translation type="unfinished">Créer</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="269"/>
+        <source>Create %1 representation using default conversion parameters.
+
+Press and hold button to access advanced conversion and removal options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
+        <source>Advanced create...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="281"/>
+        <source>Create %1 representation using custom conversion parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="316"/>
+        <source>Failed to convert %1 to %2!
+
+Probably there is no valid conversion path between the master representation and %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="318"/>
         <source>Conversion failed</source>
         <translation>La conversion a échoué</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="413"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="338"/>
+        <source>Advanced segmentation conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
         <source>Confirm master representation change</source>
         <translation>Confirmer le changement de représentation principale</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="414"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="416"/>
         <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
 This may mean losing important data that cannot be created again from the new master representation.
 
@@ -11298,6 +11397,21 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
 </context>
 <context>
     <name>qMRMLSegmentsModel</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="121"/>
+        <source>Opacity</source>
+        <translation type="unfinished">Opacité</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="125"/>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="129"/>
+        <source>Layer</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
         <source>Segment name</source>
@@ -11370,6 +11484,66 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
         <source>Empty segmentation</source>
         <translation>Segmentation vide</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1015"/>
+        <source>Show only selected segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1021"/>
+        <source>Jump slices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1027"/>
+        <source>Move selected segments up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1031"/>
+        <source>Move selected segments down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1038"/>
+        <source>Show filter bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1044"/>
+        <source>Show layer column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1065"/>
+        <source>Show in 3D</source>
+        <translation type="unfinished">Afficher en 3D</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1072"/>
+        <source>Show in 2D as fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1079"/>
+        <source>Show in 2D as outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1103"/>
+        <source>Clear selected segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1173"/>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1176"/>
+        <source>Are you sure you want to clear the contents of the selected segments?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12214,62 +12388,77 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <translation>Aucun</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="130"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
+        <source>Node</source>
+        <translation type="unfinished">Nœud</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="129"/>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
+        <source>IDs</source>
+        <translation type="unfinished">IDs</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node name and type</source>
         <translation>Nom et type de nœud</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="131"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
         <source>Node description</source>
         <translation>Description du nœud</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
         <source>Show/hide branch or node</source>
         <translation>Afficher/masquer la branche ou le nœud</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
         <source>Node color</source>
         <translation>Couleur du nœud</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
         <source>Applied transform</source>
         <translation>Transformation appliquée</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="140"/>
         <source>Node ID</source>
         <translation>ID de nœud</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="982"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
         <source>No subject hierarchy role assigned! Please report error</source>
         <translation>Aucun rôle de hiérarchie de sujet attribué! Veuillez signaler l&apos;erreur</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1148"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1158"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1163"/>
         <source>Apply transform to children</source>
         <translation>Appliquer la transformation aux enfants</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1162"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1167"/>
         <source>This node is not transformable</source>
         <translation>Ce nœud n&apos;est pas transformable</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1351"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1356"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>Certains nœuds de la branche sont déjà transformés</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1352"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1357"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -12281,9 +12470,39 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
 <context>
     <name>qMRMLSubjectHierarchyTreeView</name>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="219"/>
+        <source>Rename</source>
+        <translation type="unfinished">Renommer</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="229"/>
+        <source>Edit properties...</source>
+        <translation type="unfinished">Modifier les propriétés...</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="234"/>
+        <source>Toggle visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="251"/>
+        <source>Interaction in 3D view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="253"/>
         <source>Allow interactively modify the transform in 3D views</source>
         <translation type="unfinished">Autoriser la modification interactive de la transformation dans les vues 3D</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="257"/>
+        <source>Edit transform properties...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="258"/>
@@ -12291,9 +12510,19 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <translation type="unfinished">Modifier les propriétés de la transformation en cours</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="262"/>
+        <source>Harden transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="263"/>
         <source>Harden current transform on this node and all children nodes</source>
         <translation type="unfinished">Renforcer la transformation actuelle sur ce nœud et tous les nœuds enfants</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="267"/>
+        <source>Create new transform</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="268"/>
@@ -12301,9 +12530,24 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <translation type="unfinished">Créer et appliquer une nouvelle transformation</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="274"/>
+        <source>None</source>
+        <translation type="unfinished">Aucun</translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="276"/>
         <source>Remove parent transform from all the nodes in this branch</source>
         <translation type="unfinished">Supprimer la transformation parent de tous les nœuds de cette branche</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="348"/>
+        <source>Expand tree to level...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="398"/>
+        <source>Select plugin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
@@ -12351,6 +12595,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
@@ -12368,11 +12613,13 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
         <source>Paste</source>
         <translation>Pâte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation>Générer un tracé interactif basé sur la sélection par l&apos;utilisateur des colonnes de la table.</translation>
     </message>
@@ -12407,27 +12654,33 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
         <translation>Verrouiller la première rangée</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="135"/>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="vanished">1</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="377"/>
+        <source>Click to unlock this table so that values can be modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="382"/>
+        <source>Click to lock this table to prevent modification of the values in the user interface</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qMRMLTableViewControllerWidgetPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
-        <translation>Copier</translation>
+        <translation type="vanished">Copier</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
         <source>Paste</source>
-        <translation>Coller</translation>
+        <translation type="vanished">Coller</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation>Générer un tracé interactif basé sur la sélection par l&apos;utilisateur des colonnes de la table.</translation>
+        <translation type="vanished">Générer un tracé interactif basé sur la sélection par l&apos;utilisateur des colonnes de la table.</translation>
     </message>
 </context>
 <context>
@@ -12869,7 +13122,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="181"/>
         <source>Enable rotation: </source>
-        <translation>Activer la rotation : </translation>
+        <translation>Activer la rotation&#x202f;: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="191"/>
@@ -15387,7 +15640,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Questions et demandes de fonctionnalités :&lt;/span&gt; visitez le &lt;a href=&quot;https ://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt;forum Slicer&lt;/span&gt;&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Rapports de bug : &lt;/span&gt;&lt;a href=&quot;https ://discourse.slicer.org/new-topic ?body=Problem%20report%20for%20[appname-version-platform] :%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp ;category=support&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt; publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bug sur le &lt;a href=&quot;https ://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration : underline ;&quot;&gt;traqueur de bug de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Décrivez les étapes qui ont conduit à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ;&quot;&gt;Attention - si vous travaillez avec des données de patients :&lt;/span&gt; Vérifiez que les messages de journal ne contiennent pas d&apos;informations permettant d&apos;identifier un patient. Envoyez les messages de journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Questions et demandes de fonctionnalités&#x202f;:&lt;/span&gt; visitez le &lt;a href=&quot;https&#x202f;://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;forum Slicer&lt;/span&gt;&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Rapports de bug&#x202f;: &lt;/span&gt;&lt;a href=&quot;https&#x202f;://discourse.slicer.org/new-topic&#x202f;?body=Problem%20report%20for%20[appname-version-platform]&#x202f;:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp&#x202f;;category=support&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt; publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bug sur le &lt;a href=&quot;https&#x202f;://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;traqueur de bug de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Décrivez les étapes qui ont conduit à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Attention - si vous travaillez avec des données de patients&#x202f;:&lt;/span&gt; Vérifiez que les messages de journal ne contiennent pas d&apos;informations permettant d&apos;identifier un patient. Envoyez les messages de journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -17700,18 +17953,19 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
 <context>
     <name>qSlicerMarkupsModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="266"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"/>
         <source>Visibility</source>
         <translation>Visibilité</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="294"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="299"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
         <source>Lock</source>
         <translation>Bloquer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="322"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="327"/>
         <source>Selected</source>
         <translation>Sélectionné</translation>
     </message>
@@ -17727,6 +17981,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3204"/>
         <source>Name</source>
         <translation type="unfinished">Nom</translation>
     </message>
@@ -17736,65 +17991,191 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
         <translation type="unfinished">Description</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>R</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
         <source>A</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
         <source>S</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="206"/>
         <source>Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="368"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="372"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
+        <source>Visibility On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="273"/>
+        <source>Set visibility flag to on for all control points in the active markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
+        <source>Visibility Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="282"/>
+        <source>Set visibility flag to off for all control points in the active markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="303"/>
+        <source>Set lock flag to on for all control points in the active markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
+        <source>Unlock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
+        <source>Selected On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="338"/>
+        <source>Selected Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="373"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="377"/>
         <source>Cut</source>
         <translation>Couper</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="378"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="382"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="383"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="387"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="388"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="392"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="393"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="397"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="813"/>
+        <source>Create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1000"/>
+        <source>Click to unlock this control point list so points can be moved by the mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1005"/>
+        <source>Click to lock this control point list so points cannot be moved by the mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1011"/>
+        <source>Click to unlock the number of control points so points can be added or deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1018"/>
+        <source>Click to lock the number of control points so no points can be added or deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1621"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1827"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1831"/>
         <source>Delete All</source>
         <translation>Supprimer tout</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3183"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2291"/>
+        <source>Delete highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2298"/>
+        <source>Jump slices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2305"/>
+        <source>Refocus all cameras</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2323"/>
+        <source>Edit position of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2329"/>
+        <source>Skip placement of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2335"/>
+        <source>Restore position of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2341"/>
+        <source>Clear position of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3159"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3187"/>
         <source>No measurement</source>
         <translation>Pas de mesure</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3270"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3204"/>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3272"/>
+        <source>Output table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
+        <source>Export</source>
+        <translation type="unfinished">Exporter</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3274"/>
         <source>Export control points coordinates and properties to table.</source>
         <translation>Exportez les coordonnées et les propriétés des points de contrôle vers la table.</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3279"/>
+        <source>Input table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
+        <source>Import</source>
+        <translation type="unfinished">Importer</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3282"/>
         <source>Import control points coordinates and properties from table node.
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
@@ -18394,6 +18775,41 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <translation>Vue</translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
+        <source>Adjust</source>
+        <translation type="unfinished">Ajuster</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
+        <source>Adjust window/level by click-and-drag in a slice viewer.</source>
+        <translation type="unfinished">Ajuster la fenêtre/le niveau en cliquant-glissant dans une visionneuse de coupes.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
+        <source>Select region</source>
+        <translation type="unfinished">Sélectionner une région</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
+        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
+        <translation type="unfinished">Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de coupes. La position du clic est utilisée comme coin de la région.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
+        <source>Select region - centered</source>
+        <translation type="unfinished">Sélectionner une région - centrée</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
+        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
+        <translation type="unfinished">Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de tranches. La position du clic est utilisée comme centre de la région.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
+        <source>Adjust window/level</source>
+        <translation type="unfinished">Ajuster la fenêtre/le niveau</translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
         <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
         <translation>Ajustez la fenêtre/le niveau de volume par un clic gauche et un glissement dans les vues en tranches. Maintenez la touche Ctrl/Cmd enfoncée pour passer temporairement de l&apos;ajustement au réglage par région.</translation>
@@ -18435,39 +18851,32 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
 <context>
     <name>qSlicerMouseModeToolBarPrivate</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation>Ajuster</translation>
+        <translation type="vanished">Ajuster</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
         <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation>Ajuster la fenêtre/le niveau en cliquant-glissant dans une visionneuse de coupes.</translation>
+        <translation type="vanished">Ajuster la fenêtre/le niveau en cliquant-glissant dans une visionneuse de coupes.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation>Sélectionner une région</translation>
+        <translation type="vanished">Sélectionner une région</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="104"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation>Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de coupes. La position du clic est utilisée comme coin de la région.</translation>
+        <translation type="vanished">Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de coupes. La position du clic est utilisée comme coin de la région.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation>Sélectionner une région - centrée</translation>
+        <translation type="vanished">Sélectionner une région - centrée</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="110"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation>Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de tranches. La position du clic est utilisée comme centre de la région.</translation>
+        <translation type="vanished">Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de tranches. La position du clic est utilisée comme centre de la région.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
         <source>Adjust window/level</source>
-        <translation>Ajuster la fenêtre/le niveau</translation>
+        <translation type="vanished">Ajuster la fenêtre/le niveau</translation>
     </message>
 </context>
 <context>
@@ -18576,7 +18985,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="45"/>
         <source>Reformat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reformater</translation>
     </message>
 </context>
 <context>
@@ -18981,20 +19390,35 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <translation>Vues de scène</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="179"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="180"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="115"/>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
+        <source>Actions</source>
+        <translation type="unfinished">Actions</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
         <source>Restore</source>
         <translation>Restaurer</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="185"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="186"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
         <source>Edit</source>
         <translation>Modifier</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="191"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="192"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="195"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
@@ -19348,7 +19772,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="594"/>
         <source>Exported segments:</source>
-        <translation>Segments exportés  :</translation>
+        <translation>Segments exportés&#x202f; :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
@@ -19811,6 +20235,11 @@ Veuillez choisir un répertoire vide.</translation>
         <translation>indéfini</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="919"/>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1331"/>
         <source>Include this node in synchronized playback</source>
         <translation>Inclure ce nœud dans la lecture synchronisée</translation>
@@ -20196,7 +20625,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
         <source>Automatically check for updates:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechercher automatiquement les mises à jour :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="204"/>
@@ -20989,6 +21418,50 @@ p, li { white-space: pre-wrap; }
         <source>Markup Control Points</source>
         <translation>Points de contrôle de balisage</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="601"/>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="602"/>
+        <source>R</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="129"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="603"/>
+        <source>A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="130"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="604"/>
+        <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
+        <source>Delete highlighted control points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
+        <source>Move current control point up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="412"/>
+        <source>Move current control point down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="413"/>
+        <source>Jump slices to control point</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerStandardFileDialog</name>
@@ -20999,7 +21472,53 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyCloneNodePlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="72"/>
+        <source>Clone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
+        <source>Clone this item and its data node if any along with display and storage options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyColorLegendPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="87"/>
+        <source>Show color legend</source>
+        <translation type="unfinished">Afficher la légende des couleurs</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyDICOMPlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="102"/>
+        <source>Create new subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="107"/>
+        <source>Create child study</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="112"/>
+        <source>Convert folder to subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="117"/>
+        <source>Convert folder to study</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="122"/>
+        <source>Export to DICOM...</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="486"/>
         <source>Data to export need to be under a study item, placed under a patient item in the subject hierarchy.
@@ -21032,6 +21551,24 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyDefaultPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="82"/>
+        <source>Show all children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="85"/>
+        <source>Hide all children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="134"/>
+        <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin</name>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="93"/>
@@ -21051,7 +21588,43 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="180"/>
         <source>Error!</source>
-        <translation>Erreur !</translation>
+        <translation>Erreur&#x202f;!</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyExportPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="84"/>
+        <source>Export to file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
+        <source>Export this node to a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyFolderPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="94"/>
+        <source>Create new folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="99"/>
+        <source>Create child folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="104"/>
+        <source>Apply color to all children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="106"/>
+        <source>If on, then children items will inherit the display properties (e.g. color or opacity) set to the folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21060,6 +21633,99 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="90"/>
         <source>2D outline visibility</source>
         <translation>Visibilité du contour 2D</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyMarkupsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="141"/>
+        <source>Rename control point...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="146"/>
+        <source>Refocus camera on this point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="151"/>
+        <source>Toggle select control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="156"/>
+        <source>Jump to previous control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="157"/>
+        <source>Jump slice views to the previous control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="162"/>
+        <source>Jump to next control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="163"/>
+        <source>Jump slice views to the next control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="168"/>
+        <source>Jump to closest control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="169"/>
+        <source>Jump slice views to the closest control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="174"/>
+        <source>Delete control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="179"/>
+        <source>Delete markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="184"/>
+        <source>Edit markup terminology...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="225"/>
+        <source>Interaction</source>
+        <translation type="unfinished">Interaction</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="198"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="230"/>
+        <source>Translate</source>
+        <translation type="unfinished">Traduire</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="235"/>
+        <source>Rotate</source>
+        <translation type="unfinished">Rotate</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="208"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="240"/>
+        <source>Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="250"/>
+        <source>Interaction options</source>
+        <translation type="unfinished">Interaction options</translation>
     </message>
 </context>
 <context>
@@ -21079,25 +21745,170 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <name>qSlicerSubjectHierarchyOpacityPlugin</name>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="92"/>
         <source>Opacity</source>
         <translation type="unfinished">Opacité</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="93"/>
+        <source>Set item opacity in the sub-menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyParseLocalDataPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="78"/>
+        <source>Create hierarchy from loaded directory structure</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyPluginLogic</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="97"/>
+        <source>Edit properties...</source>
+        <translation type="unfinished">Modifier les propriétés...</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="263"/>
+        <source>Equal confidence number found for more than one subject hierarchy plugin for adding new node to subject hierarchy.
+
+Select plugin to add node named
+&apos;%1&apos;
+(type %2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchyRegisterPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
+        <source>Register this...</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
         <translation>Sélectionnez le volume comme image animée pour l&apos;enregistrement. Le deuxième volume peut être sélectionné dans le menu contextuel après que le premier a été défini.</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="100"/>
+        <source>Register * to this using...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="105"/>
+        <source>Rigid image-based registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="109"/>
+        <source>BSpline image-based registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="113"/>
+        <source>Interactive landmark registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
+        <source>Cancel registration (or right-click another volume to start registration)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
         <translation>Cliquez avec le bouton droit sur un autre volume pour sélectionner le deuxième volume et commencer l&apos;enregistrement</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="217"/>
+        <source>Register %1 to this using...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="261"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="347"/>
+        <source>BRAINSRegistration_%1_To_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="277"/>
+        <source>LinearTransform_%1_To_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="363"/>
+        <source>BSplineTransform_%1_To_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchySceneViewsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/SubjectHierarchyPlugins/qSlicerSubjectHierarchySceneViewsPlugin.cxx" line="79"/>
+        <source>Restore scene view</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchySegmentationsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="110"/>
+        <source>Export visible segments to binary labelmap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="113"/>
+        <source>Export visible segments to models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="116"/>
+        <source>Convert labelmap to segmentation node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="119"/>
+        <source>Convert model to segmentation node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="122"/>
+        <source>Convert models to segmentation node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="125"/>
+        <source>Create binary labelmap representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
+        <source>Create closed surface representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="130"/>
+        <source>Remove binary labelmap representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
+        <source>Remove closed surface representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="135"/>
+        <source>2D fill visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="140"/>
+        <source>2D outline visibility</source>
+        <translation type="unfinished">Visibilité du contour 2D</translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="290"/>
         <source>Failed to import data to segmentation</source>
@@ -21109,25 +21920,117 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
         <translation>Échec de la conversion</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1004"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="378"/>
+        <source> (Representations: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="382"/>
+        <source>None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
+        <source> (Master representation: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="400"/>
+        <source> (Number of segments: %1)</source>
+        <extracomment>parameter is the representation name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1002"/>
+        <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
+
+Please visit the Segmentation module and try the advanced create representation function.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1006"/>
         <source>Failed to export segmentation to labelmap node</source>
         <translation type="unfinished">Échec de l&apos;exportation de la segmentation vers le nœud labelmap</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1043"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1026"/>
+        <source>-label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1042"/>
+        <source>Failed to export segments from segmentation %1 to labelmap node!
+
+Most probably the segment cannot be converted into binary labelmap representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1046"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
         <source>Failed to export segments</source>
         <translation>Échec de l&apos;exportation des segments</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1068"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1332"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1067"/>
+        <source>Failed to create closed surface representation for segmentation %1 using defaultconversion parameters!
+
+Please visit the Segmentation module and try the advanced create representation function.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1071"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1336"/>
         <source>Failed to export segmentation to models</source>
         <translation>Échec de l&apos;exportation de la segmentation vers les modèles</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1076"/>
+        <source>-models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
+        <source>Failed to export segments from segmentation %1 to models!
+
+Most probably the segment cannot be converted into closed surface representation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1331"/>
+        <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
+
+Please visit the Segmentation module and try the advanced create representation function.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchySegmentsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="92"/>
+        <source>Show only this segment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="96"/>
+        <source>Show all segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="100"/>
+        <source>Jump slices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="104"/>
+        <source>Clone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="209"/>
+        <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
+Please check the error window for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="211"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="224"/>
@@ -21138,6 +22041,27 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="235"/>
         <source>Conversion failed</source>
         <translation>Échec de la conversion</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="340"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="369"/>
+        <source>None</source>
+        <translation type="unfinished">Aucun</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="354"/>
+        <source>Segment (Representations: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="359"/>
+        <source> (Color: %1, %2, %3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="382"/>
+        <source> (Tags: %1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21202,6 +22126,21 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
 <context>
     <name>qSlicerSubjectHierarchyTransformsPlugin</name>
     <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="93"/>
+        <source>Invert transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="96"/>
+        <source>Reset transform to identity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="99"/>
+        <source>Interaction in 3D view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="177"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>Certains nœuds de la branche sont déjà transformés</translation>
@@ -21215,9 +22154,34 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
 
    Remarque&#xa0;: Si vous choisissez non, la transformation appliquée sera simplement remplacée.</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="270"/>
+        <source>Transform to parent:</source>
+        <translation type="unfinished">Transformer en parent :</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="272"/>
+        <source>Transform from parent:</source>
+        <translation type="unfinished">Transformer depuis le parent:</translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchyViewContextMenuPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="115"/>
+        <source>View transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="121"/>
+        <source>Adjust window/level</source>
+        <translation type="unfinished">Ajuster la fenêtre/le niveau</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="127"/>
+        <source>Place</source>
+        <translation type="unfinished">Placer</translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="149"/>
         <source>Center view</source>
@@ -21331,9 +22295,37 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyVisibilityPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="81"/>
+        <source>Show in all views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="84"/>
+        <source>2D visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="89"/>
+        <source>3D visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyVolumeRenderingPlugin</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="93"/>
+        <source>Show in 3D views as volume rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="98"/>
+        <source>Volume rendering options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="100"/>
         <source>Switch to Volume Rendering module to manage display options</source>
         <translation type="unfinished">Passer au module Rendu de volume pour gérer les options d&apos;affichage</translation>
     </message>
@@ -21733,9 +22725,19 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
         <translation type="unfinished">New column defaults</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="133"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="134"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation type="unfinished">Generate an Interactive Plot based on user-selection of the columns of the table.</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
+        <source>Click to unlock this table so that values can be modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
+        <source>Click to lock this table to prevent modification of the values in the user interface</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22200,227 +23202,402 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     </message>
 </context>
 <context>
-    <name>qSlicerViewersToolBarPrivate</name>
+    <name>qSlicerViewersToolBar</name>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation>Pas de saut des coupes</translation>
+        <translation type="unfinished">Pas de saut des coupes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
         <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation>Les vues des coupes ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
+        <translation type="unfinished">Les vues des coupes ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation>Saut de coupes - décalage</translation>
+        <translation type="unfinished">Saut de coupes - décalage</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation>Les plans d&apos;affichage des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="72"/>
-        <source>Jump slices - centered</source>
-        <translation>saut des coupes - centré</translation>
+        <translation type="unfinished">Les plans d&apos;affichage des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
+        <source>Jump slices - centered</source>
+        <translation type="unfinished">saut des coupes - centré</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation>Les vues des coupes sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+        <translation type="unfinished">Les vues des coupes sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="92"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
         <source>No crosshair</source>
-        <translation>Pas de réticule</translation>
+        <translation type="unfinished">Pas de réticule</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="93"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
         <source>No crosshair displayed.</source>
-        <translation>Aucun réticule affiché.</translation>
+        <translation type="unfinished">Aucun réticule affiché.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
         <source>Basic crosshair</source>
-        <translation>Réticule de base</translation>
+        <translation type="unfinished">Réticule de base</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="98"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation>Réticule de base s&apos;étendant sur le champ de vision avec un petit espace à la position du réticule.</translation>
+        <translation type="unfinished">Réticule de base s&apos;étendant sur le champ de vision avec un petit espace à la position du réticule.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
         <source>Basic + intersection</source>
-        <translation>Basique + intersection</translation>
+        <translation type="unfinished">Basique + intersection</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation>Réticule de base s&apos;étendant sur le champ de vision.</translation>
+        <translation type="unfinished">Réticule de base s&apos;étendant sur le champ de vision.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
         <source>Small basic crosshair</source>
-        <translation>Petit réticule de base</translation>
+        <translation type="unfinished">Petit réticule de base</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation>Petit réticule avec un petit espace à la position du réticule.</translation>
+        <translation type="unfinished">Petit réticule avec un petit espace à la position du réticule.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
         <source>Small basic + intersection</source>
-        <translation>Petite basique + intersection</translation>
+        <translation type="unfinished">Petite basique + intersection</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
         <source>Small crosshair.</source>
-        <translation>Petit réticule.</translation>
+        <translation type="unfinished">Petit réticule.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="143"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Fine crosshair</source>
-        <translation>Réticule fin</translation>
+        <translation type="unfinished">Réticule fin</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="144"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Fine crosshair.</source>
-        <translation>Réticule fin.</translation>
+        <translation type="unfinished">Réticule fin.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="148"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
         <source>Medium crosshair</source>
-        <translation>Réticule moyen</translation>
+        <translation type="unfinished">Réticule moyen</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="149"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
         <source>Medium crosshair.</source>
-        <translation>Réticule moyen.</translation>
+        <translation type="unfinished">Réticule moyen.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="153"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
         <source>Thick crosshair</source>
-        <translation>Réticule épais</translation>
+        <translation type="unfinished">Réticule épais</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="154"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
         <source>Thick crosshair.</source>
-        <translation>Réticule épais.</translation>
+        <translation type="unfinished">Réticule épais.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="210"/>
-        <source>Full lines</source>
-        <translation>Lignes complètes</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="211"/>
-        <source>Full slice intersection lines extending across the field of view.</source>
-        <translation>Lignes d&apos;intersection d&apos;une coupe pleine s&apos;étendant sur le champ de vision.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="216"/>
-        <source>Skip line crossings</source>
-        <translation>Évitez les passages à niveau</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="217"/>
-        <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
-        <translation>Lignes d&apos;intersection des coupes s&apos;étendant à travers le champ de vision avec un espace à l&apos;intersection.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="238"/>
-        <source>Fine lines</source>
-        <translation>Lignes fines</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="239"/>
-        <source>Fine lines.</source>
-        <translation>Lignes fines.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
-        <source>Medium lines</source>
-        <translation>Lignes moyennes</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="245"/>
-        <source>Medium lines.</source>
-        <translation>Lignes moyennes.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
-        <source>Thick lines</source>
-        <translation>Lignes épaisses</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
-        <source>Thick lines.</source>
-        <translation>Lignes épaisses.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="297"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="312"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="313"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
-        <source>Slice intersections</source>
-        <translation>Intersections des coupes</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="321"/>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation>Montrez comment les autres plans de coupes croisent chaque plan de coupe.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="270"/>
-        <source>Interaction</source>
-        <translation>Interaction</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="271"/>
-        <source>Show handles for slice interaction.</source>
-        <translation type="unfinished">Show handles for slice interaction.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="278"/>
-        <source>Translate</source>
-        <translation>Traduire</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="279"/>
-        <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="unfinished">Control visibility of translation handles for slice intersection.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="285"/>
-        <source>Rotate</source>
-        <translation type="unfinished">Rotate</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="286"/>
-        <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="unfinished">Control visibility of rotation handles for slice intersection.</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="292"/>
-        <source>Interaction options</source>
-        <translation type="unfinished">Interaction options</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="173"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="183"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="184"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="194"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="186"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="187"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
         <source>Crosshair</source>
         <translation type="unfinished">Crosshair</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="192"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation>Basculer la visibilité du réticule. Maintenir la touche Shift et déplacer la souris dans une vue pour définir la position du réticule.</translation>
+        <translation type="unfinished">Basculer la visibilité du réticule. Maintenir la touche Shift et déplacer la souris dans une vue pour définir la position du réticule.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
+        <source>Full lines</source>
+        <translation type="unfinished">Lignes complètes</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
+        <source>Full slice intersection lines extending across the field of view.</source>
+        <translation type="unfinished">Lignes d&apos;intersection d&apos;une coupe pleine s&apos;étendant sur le champ de vision.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="220"/>
+        <source>Skip line crossings</source>
+        <translation type="unfinished">Évitez les passages à niveau</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="222"/>
+        <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
+        <translation type="unfinished">Lignes d&apos;intersection des coupes s&apos;étendant à travers le champ de vision avec un espace à l&apos;intersection.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="243"/>
+        <source>Fine lines</source>
+        <translation type="unfinished">Lignes fines</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
+        <source>Fine lines.</source>
+        <translation type="unfinished">Lignes fines.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
+        <source>Medium lines</source>
+        <translation type="unfinished">Lignes moyennes</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
+        <source>Medium lines.</source>
+        <translation type="unfinished">Lignes moyennes.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="254"/>
+        <source>Thick lines</source>
+        <translation type="unfinished">Lignes épaisses</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="255"/>
+        <source>Thick lines.</source>
+        <translation type="unfinished">Lignes épaisses.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="275"/>
+        <source>Interaction</source>
+        <translation type="unfinished">Interaction</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="276"/>
+        <source>Show handles for slice interaction.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
+        <source>Translate</source>
+        <translation type="unfinished">Traduire</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
+        <source>Control visibility of translation handles for slice intersection.</source>
+        <translation type="unfinished">Control visibility of translation handles for slice intersection.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
+        <source>Rotate</source>
+        <translation type="unfinished">Rotate</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
+        <source>Control visibility of rotation handles for slice intersection.</source>
+        <translation type="unfinished">Control visibility of rotation handles for slice intersection.</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="299"/>
+        <source>Interaction options</source>
+        <translation type="unfinished">Interaction options</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="304"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="319"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
+        <source>Slice intersections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
+        <source>Show how the other slice planes intersect each slice plane.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerViewersToolBarPrivate</name>
+    <message>
+        <source>No jump slices</source>
+        <translation type="vanished">Pas de saut des coupes</translation>
+    </message>
+    <message>
+        <source>Slice views are not repositioned when crosshair is moved.</source>
+        <translation type="vanished">Les vues des coupes ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
+    </message>
+    <message>
+        <source>Jump slices - offset</source>
+        <translation type="vanished">Saut de coupes - décalage</translation>
+    </message>
+    <message>
+        <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
+        <translation type="vanished">Les plans d&apos;affichage des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+    </message>
+    <message>
+        <source>Jump slices - centered</source>
+        <translation type="vanished">saut des coupes - centré</translation>
+    </message>
+    <message>
+        <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
+        <translation type="vanished">Les vues des coupes sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+    </message>
+    <message>
+        <source>No crosshair</source>
+        <translation type="vanished">Pas de réticule</translation>
+    </message>
+    <message>
+        <source>No crosshair displayed.</source>
+        <translation type="vanished">Aucun réticule affiché.</translation>
+    </message>
+    <message>
+        <source>Basic crosshair</source>
+        <translation type="vanished">Réticule de base</translation>
+    </message>
+    <message>
+        <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
+        <translation type="vanished">Réticule de base s&apos;étendant sur le champ de vision avec un petit espace à la position du réticule.</translation>
+    </message>
+    <message>
+        <source>Basic + intersection</source>
+        <translation type="vanished">Basique + intersection</translation>
+    </message>
+    <message>
+        <source>Basic crosshair extending across the field of view.</source>
+        <translation type="vanished">Réticule de base s&apos;étendant sur le champ de vision.</translation>
+    </message>
+    <message>
+        <source>Small basic crosshair</source>
+        <translation type="vanished">Petit réticule de base</translation>
+    </message>
+    <message>
+        <source>Small crosshair with a small gap at the crosshair position.</source>
+        <translation type="vanished">Petit réticule avec un petit espace à la position du réticule.</translation>
+    </message>
+    <message>
+        <source>Small basic + intersection</source>
+        <translation type="vanished">Petite basique + intersection</translation>
+    </message>
+    <message>
+        <source>Small crosshair.</source>
+        <translation type="vanished">Petit réticule.</translation>
+    </message>
+    <message>
+        <source>Fine crosshair</source>
+        <translation type="vanished">Réticule fin</translation>
+    </message>
+    <message>
+        <source>Fine crosshair.</source>
+        <translation type="vanished">Réticule fin.</translation>
+    </message>
+    <message>
+        <source>Medium crosshair</source>
+        <translation type="vanished">Réticule moyen</translation>
+    </message>
+    <message>
+        <source>Medium crosshair.</source>
+        <translation type="vanished">Réticule moyen.</translation>
+    </message>
+    <message>
+        <source>Thick crosshair</source>
+        <translation type="vanished">Réticule épais</translation>
+    </message>
+    <message>
+        <source>Thick crosshair.</source>
+        <translation type="vanished">Réticule épais.</translation>
+    </message>
+    <message>
+        <source>Full lines</source>
+        <translation type="vanished">Lignes complètes</translation>
+    </message>
+    <message>
+        <source>Full slice intersection lines extending across the field of view.</source>
+        <translation type="vanished">Lignes d&apos;intersection d&apos;une coupe pleine s&apos;étendant sur le champ de vision.</translation>
+    </message>
+    <message>
+        <source>Skip line crossings</source>
+        <translation type="vanished">Évitez les passages à niveau</translation>
+    </message>
+    <message>
+        <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
+        <translation type="vanished">Lignes d&apos;intersection des coupes s&apos;étendant à travers le champ de vision avec un espace à l&apos;intersection.</translation>
+    </message>
+    <message>
+        <source>Fine lines</source>
+        <translation type="vanished">Lignes fines</translation>
+    </message>
+    <message>
+        <source>Fine lines.</source>
+        <translation type="vanished">Lignes fines.</translation>
+    </message>
+    <message>
+        <source>Medium lines</source>
+        <translation type="vanished">Lignes moyennes</translation>
+    </message>
+    <message>
+        <source>Medium lines.</source>
+        <translation type="vanished">Lignes moyennes.</translation>
+    </message>
+    <message>
+        <source>Thick lines</source>
+        <translation type="vanished">Lignes épaisses</translation>
+    </message>
+    <message>
+        <source>Thick lines.</source>
+        <translation type="vanished">Lignes épaisses.</translation>
+    </message>
+    <message>
+        <source>Slice intersections</source>
+        <translation type="vanished">Intersections des coupes</translation>
+    </message>
+    <message>
+        <source>Show how the other slice planes intersect each slice plane.</source>
+        <translation type="vanished">Montrez comment les autres plans de coupes croisent chaque plan de coupe.</translation>
+    </message>
+    <message>
+        <source>Interaction</source>
+        <translation type="vanished">Interaction</translation>
+    </message>
+    <message>
+        <source>Show handles for slice interaction.</source>
+        <translation type="obsolete">Show handles for slice interaction.</translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation type="vanished">Traduire</translation>
+    </message>
+    <message>
+        <source>Control visibility of translation handles for slice intersection.</source>
+        <translation type="obsolete">Control visibility of translation handles for slice intersection.</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="obsolete">Rotate</translation>
+    </message>
+    <message>
+        <source>Control visibility of rotation handles for slice intersection.</source>
+        <translation type="obsolete">Control visibility of rotation handles for slice intersection.</translation>
+    </message>
+    <message>
+        <source>Interaction options</source>
+        <translation type="obsolete">Interaction options</translation>
+    </message>
+    <message>
+        <source>Crosshair</source>
+        <translation type="obsolete">Crosshair</translation>
+    </message>
+    <message>
+        <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
+        <translation type="vanished">Basculer la visibilité du réticule. Maintenir la touche Shift et déplacer la souris dans une vue pour définir la position du réticule.</translation>
     </message>
 </context>
 <context>

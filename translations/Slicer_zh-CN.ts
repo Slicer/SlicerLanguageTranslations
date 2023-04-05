@@ -7719,164 +7719,164 @@ a = Affine Transform</source>
 <context>
     <name>DICOM</name>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="29"/>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="498"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="30"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="502"/>
         <source>DICOM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="30"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="31"/>
         <source>Informatics</source>
         <translation type="unfinished">信息学</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="34"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="34"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="243"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="245"/>
         <source>Add DICOM Data</source>
         <translation type="unfinished">添加DICOM数据</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="274"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="276"/>
         <source>DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="349"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="351"/>
         <source>Generic DICOM settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="354"/>
         <source>Database location:</source>
         <translation type="unfinished">数据库位置：</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="357"/>
         <source>DICOM general settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="364"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>Ask user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="365"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Always</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="366"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Never</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="371"/>
         <source>Load referenced series:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="376"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="380"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="376"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="380"/>
         <source>Detailed logging:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="414"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="418"/>
         <source>DICOM Directory</source>
         <translation type="unfinished">DICOM目录</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="415"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
         <source>Load directory into DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="509"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="513"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="520"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="524"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="570"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="576"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="630"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="636"/>
         <source>Import options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="635"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="641"/>
         <source>Copy imported files to DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="643"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="843"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="849"/>
         <source>not started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="856"/>
         <source>starting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="855"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="861"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
         <translation type="unfinished">未知</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="855"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="861"/>
         <source>running at port %s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="871"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="877"/>
         <source>Received DICOM file: {filename}</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="934"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="940"/>
         <source>DICOM database is already empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="937"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="943"/>
         <source>Clear entire DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="937"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8681,6 +8681,21 @@ a = Affine Transform</source>
 <context>
     <name>qMRMLColorModel</name>
     <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="69"/>
+        <source>Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="73"/>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
+        <source>Opacity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
         <source>None</source>
         <translation>无</translation>
@@ -9453,6 +9468,14 @@ a = Affine Transform</source>
     </message>
 </context>
 <context>
+    <name>qMRMLMarkupsToolBar</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="498"/>
+        <source>Create new %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qMRMLModelDisplayNodeWidget</name>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
@@ -9803,6 +9826,16 @@ a = Affine Transform</source>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="90"/>
         <source>Attribute Value</source>
         <translation>属性值</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
+        <source>Attribute name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="126"/>
+        <source>Attribute value</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="133"/>
@@ -10801,6 +10834,16 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>允许重叠</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="415"/>
+        <source>Import/export nodes...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="418"/>
+        <source>Export to files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1374"/>
         <source>Change master representation to binary labelmap?</source>
         <translation>将主表示更改为二进制标签映射？</translation>
@@ -11242,17 +11285,73 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
         <translation>此表示不存在</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
+        <source>Update %1 representation using custom conversion parameters.
+
+Click the down-arrow button for additional operations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="248"/>
+        <source>Remove %1 representation from segmentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
+        <source>Make master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
+        <source>Create</source>
+        <translation type="unfinished">创建</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="269"/>
+        <source>Create %1 representation using default conversion parameters.
+
+Press and hold button to access advanced conversion and removal options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
+        <source>Advanced create...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="281"/>
+        <source>Create %1 representation using custom conversion parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="316"/>
+        <source>Failed to convert %1 to %2!
+
+Probably there is no valid conversion path between the master representation and %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="318"/>
         <source>Conversion failed</source>
         <translation>转换失败</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="413"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="338"/>
+        <source>Advanced segmentation conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
         <source>Confirm master representation change</source>
         <translation>确认主表示更改</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="414"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="416"/>
         <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
 This may mean losing important data that cannot be created again from the new master representation.
 
@@ -11298,6 +11397,21 @@ Do you wish to proceed with changing master representation?</source>
 </context>
 <context>
     <name>qMRMLSegmentsModel</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="121"/>
+        <source>Opacity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="125"/>
+        <source>Name</source>
+        <translation type="unfinished">名称</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="129"/>
+        <source>Layer</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
         <source>Segment name</source>
@@ -11370,6 +11484,66 @@ Do you wish to proceed with changing master representation?</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="475"/>
         <source>Empty segmentation</source>
         <translation>空分割</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1015"/>
+        <source>Show only selected segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1021"/>
+        <source>Jump slices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1027"/>
+        <source>Move selected segments up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1031"/>
+        <source>Move selected segments down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1038"/>
+        <source>Show filter bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1044"/>
+        <source>Show layer column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1065"/>
+        <source>Show in 3D</source>
+        <translation type="unfinished">在3D中显示</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1072"/>
+        <source>Show in 2D as fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1079"/>
+        <source>Show in 2D as outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1103"/>
+        <source>Clear selected segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1173"/>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsTableView.cxx" line="1176"/>
+        <source>Are you sure you want to clear the contents of the selected segments?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12214,62 +12388,77 @@ Do you wish to proceed with changing master representation?</source>
         <translation>无</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="130"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
+        <source>Node</source>
+        <translation type="unfinished">节点</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="129"/>
+        <source>Description</source>
+        <translation type="unfinished">描述</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
+        <source>IDs</source>
+        <translation type="unfinished">IDs</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
         <source>Node name and type</source>
         <translation>节点名称和类型</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="131"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="136"/>
         <source>Node description</source>
         <translation>节点描述</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="132"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="137"/>
         <source>Show/hide branch or node</source>
         <translation>显示/隐藏分支或节点</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="133"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="138"/>
         <source>Node color</source>
         <translation>节点颜色</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="134"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="139"/>
         <source>Applied transform</source>
         <translation>应用变换</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="135"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="140"/>
         <source>Node ID</source>
         <translation>节点 ID</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="982"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
         <source>No subject hierarchy role assigned! Please report error</source>
         <translation>未指定主题层次结构角色！请报告错误</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1148"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
         <source>%1 (%2)</source>
         <translation>%1(%2)</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1158"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1163"/>
         <source>Apply transform to children</source>
         <translation>应用变换到子节点</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1162"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1167"/>
         <source>This node is not transformable</source>
         <translation>此节点不可变换</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1351"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1356"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>分支中的一些节点已经被转换</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1352"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1357"/>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
@@ -12281,9 +12470,39 @@ Do you wish to proceed with changing master representation?</source>
 <context>
     <name>qMRMLSubjectHierarchyTreeView</name>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="219"/>
+        <source>Rename</source>
+        <translation type="unfinished">重命名</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
+        <source>Delete</source>
+        <translation type="unfinished">删除</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="229"/>
+        <source>Edit properties...</source>
+        <translation type="unfinished">编辑属性...</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="234"/>
+        <source>Toggle visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="251"/>
+        <source>Interaction in 3D view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="253"/>
         <source>Allow interactively modify the transform in 3D views</source>
         <translation type="unfinished">允许在3D视图中以交互方式修改变换</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="257"/>
+        <source>Edit transform properties...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="258"/>
@@ -12291,9 +12510,19 @@ Do you wish to proceed with changing master representation?</source>
         <translation type="unfinished">编辑当前变换的属性</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="262"/>
+        <source>Harden transform</source>
+        <translation type="unfinished">固定变换</translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="263"/>
         <source>Harden current transform on this node and all children nodes</source>
         <translation type="unfinished">固定此节点和所有子节点上的当前变换</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="267"/>
+        <source>Create new transform</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="268"/>
@@ -12301,9 +12530,24 @@ Do you wish to proceed with changing master representation?</source>
         <translation type="unfinished">创建并应用新的变换</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="274"/>
+        <source>None</source>
+        <translation type="unfinished">无</translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="276"/>
         <source>Remove parent transform from all the nodes in this branch</source>
         <translation type="unfinished">删除此分支中所有节点的父变换</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="348"/>
+        <source>Expand tree to level...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="398"/>
+        <source>Select plugin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
@@ -12351,6 +12595,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="91"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
@@ -12368,11 +12613,13 @@ If you choose Yes to All, this question never appears again, and all subject hie
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="105"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLTableViewControllerWidget.ui" line="119"/>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation>根据用户对表格列的选择生成交互式绘图。</translation>
     </message>
@@ -12407,27 +12654,33 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <translation>锁定首行</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="135"/>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="vanished">1</translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="377"/>
+        <source>Click to unlock this table so that values can be modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="382"/>
+        <source>Click to lock this table to prevent modification of the values in the user interface</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qMRMLTableViewControllerWidgetPrivate</name>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="85"/>
         <source>Copy</source>
-        <translation>复制</translation>
+        <translation type="vanished">复制</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="92"/>
         <source>Paste</source>
-        <translation>粘贴</translation>
+        <translation type="vanished">粘贴</translation>
     </message>
     <message>
-        <location filename="Libs/MRML/Widgets/qMRMLTableViewControllerWidget.cxx" line="99"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
-        <translation>根据用户对表格列的选择生成交互式绘图。</translation>
+        <translation type="vanished">根据用户对表格列的选择生成交互式绘图。</translation>
     </message>
 </context>
 <context>
@@ -17700,18 +17953,19 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 <context>
     <name>qSlicerMarkupsModuleWidget</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="266"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"/>
         <source>Visibility</source>
         <translation>可视性</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="294"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="299"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
         <source>Lock</source>
         <translation>锁定</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="322"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="327"/>
         <source>Selected</source>
         <translation>已选定</translation>
     </message>
@@ -17727,6 +17981,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3204"/>
         <source>Name</source>
         <translation type="unfinished">名称</translation>
     </message>
@@ -17736,65 +17991,191 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished">描述</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>R</source>
         <translation>R</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
         <source>A</source>
         <translation>A</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
         <source>S</source>
         <translation>S</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="206"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="368"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="372"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
+        <source>Visibility On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="273"/>
+        <source>Set visibility flag to on for all control points in the active markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
+        <source>Visibility Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="282"/>
+        <source>Set visibility flag to off for all control points in the active markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="303"/>
+        <source>Set lock flag to on for all control points in the active markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
+        <source>Unlock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
+        <source>Selected On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="338"/>
+        <source>Selected Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="373"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="377"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="378"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="382"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="383"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="387"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="388"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="392"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="393"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="397"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1617"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="813"/>
+        <source>Create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1000"/>
+        <source>Click to unlock this control point list so points can be moved by the mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1005"/>
+        <source>Click to lock this control point list so points cannot be moved by the mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1011"/>
+        <source>Click to unlock the number of control points so points can be added or deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1018"/>
+        <source>Click to lock the number of control points so no points can be added or deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1621"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1827"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1831"/>
         <source>Delete All</source>
         <translation>全部刪除</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3183"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2291"/>
+        <source>Delete highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2298"/>
+        <source>Jump slices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2305"/>
+        <source>Refocus all cameras</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2323"/>
+        <source>Edit position of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2329"/>
+        <source>Skip placement of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2335"/>
+        <source>Restore position of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2341"/>
+        <source>Clear position of highlighted control point(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3159"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3187"/>
         <source>No measurement</source>
         <translation>无测量值</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3270"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3204"/>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3272"/>
+        <source>Output table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
+        <source>Export</source>
+        <translation type="unfinished">导出</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3274"/>
         <source>Export control points coordinates and properties to table.</source>
         <translation>将控制点坐标和属性导出到表格。</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3279"/>
+        <source>Input table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3280"/>
+        <source>Import</source>
+        <translation type="unfinished">导入</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3282"/>
         <source>Import control points coordinates and properties from table node.
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
@@ -18394,6 +18775,41 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>视图</translation>
     </message>
     <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
+        <source>Adjust</source>
+        <translation type="unfinished">鼠标调整</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
+        <source>Adjust window/level by click-and-drag in a slice viewer.</source>
+        <translation type="unfinished">通过在切片查看器中单击并拖动来调节窗宽/窗位。</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
+        <source>Select region</source>
+        <translation type="unfinished">选择区域</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
+        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
+        <translation type="unfinished">基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域角点。</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
+        <source>Select region - centered</source>
+        <translation type="unfinished">选择区域-居中</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
+        <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
+        <translation type="unfinished">基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域中心。</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
+        <source>Adjust window/level</source>
+        <translation type="unfinished">调节窗宽/窗位</translation>
+    </message>
+    <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
         <source>Adjust window/level of volume by left-click-and-drag in slice views. Hold down Ctrl/Cmd key for temporarily switch between adjustment and region-based setting.</source>
         <translation>通过在切片视图中单击并拖动鼠标左键来调整窗宽/窗位，按住Ctrl/Cmd键可在调整和基于区域的设置之间临时切换。</translation>
@@ -18435,39 +18851,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerMouseModeToolBarPrivate</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation>鼠标调整</translation>
+        <translation type="vanished">鼠标调整</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
         <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation>通过在切片查看器中单击并拖动来调节窗宽/窗位。</translation>
+        <translation type="vanished">通过在切片查看器中单击并拖动来调节窗宽/窗位。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation>选择区域</translation>
+        <translation type="vanished">选择区域</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="104"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation>基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域角点。</translation>
+        <translation type="vanished">基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域角点。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation>选择区域-居中</translation>
+        <translation type="vanished">选择区域-居中</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="110"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation>基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域中心。</translation>
+        <translation type="vanished">基于矩形区域设置窗宽窗位，通过在切片查看器中单击并拖动矩形，单击位置用作区域中心。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
         <source>Adjust window/level</source>
-        <translation>调节窗宽/窗位</translation>
+        <translation type="vanished">调节窗宽/窗位</translation>
     </message>
 </context>
 <context>
@@ -18981,20 +19390,35 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <translation>场景视图</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="179"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="180"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="115"/>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
+        <source>Description</source>
+        <translation type="unfinished">描述</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
+        <source>Actions</source>
+        <translation type="unfinished">执行</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="183"/>
         <source>Restore</source>
         <translation>还原</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="185"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="186"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="188"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="189"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="191"/>
-        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="192"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
+        <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="195"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
@@ -19809,6 +20233,11 @@ Please choose an empty directory.</source>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="691"/>
         <source>undefined</source>
         <translation>未指定</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="919"/>
+        <source>Name</source>
+        <translation type="unfinished">名称</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="1331"/>
@@ -20992,6 +21421,50 @@ p, li own white-space: pre-wrap; }
         <source>Markup Control Points</source>
         <translation>标记控制点</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="601"/>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="602"/>
+        <source>R</source>
+        <translation type="unfinished">R</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="129"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="603"/>
+        <source>A</source>
+        <translation type="unfinished">A</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="130"/>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="604"/>
+        <source>S</source>
+        <translation type="unfinished">S</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
+        <source>Delete highlighted control points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
+        <source>Move current control point up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="412"/>
+        <source>Move current control point down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="413"/>
+        <source>Jump slices to control point</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerStandardFileDialog</name>
@@ -21002,7 +21475,53 @@ p, li own white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyCloneNodePlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="72"/>
+        <source>Clone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
+        <source>Clone this item and its data node if any along with display and storage options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyColorLegendPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Colors/SubjectHierarchyPlugins/qSlicerSubjectHierarchyColorLegendPlugin.cxx" line="87"/>
+        <source>Show color legend</source>
+        <translation type="unfinished">显示颜色图例</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyDICOMPlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="102"/>
+        <source>Create new subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="107"/>
+        <source>Create child study</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="112"/>
+        <source>Convert folder to subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="117"/>
+        <source>Convert folder to study</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="122"/>
+        <source>Export to DICOM...</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="486"/>
         <source>Data to export need to be under a study item, placed under a patient item in the subject hierarchy.
@@ -21035,6 +21554,24 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyDefaultPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="82"/>
+        <source>Show all children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="85"/>
+        <source>Hide all children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="134"/>
+        <source>&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Rename item&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Double-click the item name, or right-click the item and select &apos;Rename&apos;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:4px; margin-bottom:1px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; font-weight:600; color:#000000;&quot;&gt;Deform any branch using a transform (registration result)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot; margin-top:0px; margin-bottom:11px; margin-left:26px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;sans-serif&apos;; font-size:9pt; color:#000000;&quot;&gt;Make sure the transform column is shown using the &apos;Show transforms&apos; checkbox. To transform a branch, right-click on the cell in the transform column of the row in question, and choose a transform.&lt;/span&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin</name>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="93"/>
@@ -21058,11 +21595,140 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyExportPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="84"/>
+        <source>Export to file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
+        <source>Export this node to a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyFolderPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="94"/>
+        <source>Create new folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="99"/>
+        <source>Create child folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="104"/>
+        <source>Apply color to all children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="106"/>
+        <source>If on, then children items will inherit the display properties (e.g. color or opacity) set to the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyLabelMapsPlugin</name>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="90"/>
         <source>2D outline visibility</source>
         <translation>二维轮廓的可见性</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyMarkupsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="141"/>
+        <source>Rename control point...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="146"/>
+        <source>Refocus camera on this point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="151"/>
+        <source>Toggle select control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="156"/>
+        <source>Jump to previous control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="157"/>
+        <source>Jump slice views to the previous control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="162"/>
+        <source>Jump to next control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="163"/>
+        <source>Jump slice views to the next control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="168"/>
+        <source>Jump to closest control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="169"/>
+        <source>Jump slice views to the closest control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="174"/>
+        <source>Delete control point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="179"/>
+        <source>Delete markup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="184"/>
+        <source>Edit markup terminology...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="192"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="225"/>
+        <source>Interaction</source>
+        <translation type="unfinished">交互</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="198"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="230"/>
+        <source>Translate</source>
+        <translation type="unfinished">平移</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="203"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="235"/>
+        <source>Rotate</source>
+        <translation type="unfinished">旋转</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="208"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="240"/>
+        <source>Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="218"/>
+        <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="250"/>
+        <source>Interaction options</source>
+        <translation type="unfinished">交互选项</translation>
     </message>
 </context>
 <context>
@@ -21082,25 +21748,170 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <name>qSlicerSubjectHierarchyOpacityPlugin</name>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="92"/>
         <source>Opacity</source>
         <translation>透明度</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="93"/>
+        <source>Set item opacity in the sub-menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyParseLocalDataPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyParseLocalDataPlugin.cxx" line="78"/>
+        <source>Create hierarchy from loaded directory structure</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchyPluginLogic</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="97"/>
+        <source>Edit properties...</source>
+        <translation type="unfinished">编辑属性...</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="263"/>
+        <source>Equal confidence number found for more than one subject hierarchy plugin for adding new node to subject hierarchy.
+
+Select plugin to add node named
+&apos;%1&apos;
+(type %2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchyRegisterPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
+        <source>Register this...</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
         <translation type="unfinished">选择“数据”作为要配准的运动图像。设置第一个数据后，可以从上下文菜单中选择第二个数据。</translation>
     </message>
     <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="100"/>
+        <source>Register * to this using...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="105"/>
+        <source>Rigid image-based registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="109"/>
+        <source>BSpline image-based registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="113"/>
+        <source>Interactive landmark registration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
+        <source>Cancel registration (or right-click another volume to start registration)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
         <translation type="unfinished">右键单击另一个数据来选择第二个数据并开始配准</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="217"/>
+        <source>Register %1 to this using...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="261"/>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="347"/>
+        <source>BRAINSRegistration_%1_To_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="277"/>
+        <source>LinearTransform_%1_To_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="363"/>
+        <source>BSplineTransform_%1_To_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchySceneViewsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SceneViews/SubjectHierarchyPlugins/qSlicerSubjectHierarchySceneViewsPlugin.cxx" line="79"/>
+        <source>Restore scene view</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchySegmentationsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="110"/>
+        <source>Export visible segments to binary labelmap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="113"/>
+        <source>Export visible segments to models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="116"/>
+        <source>Convert labelmap to segmentation node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="119"/>
+        <source>Convert model to segmentation node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="122"/>
+        <source>Convert models to segmentation node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="125"/>
+        <source>Create binary labelmap representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
+        <source>Create closed surface representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="130"/>
+        <source>Remove binary labelmap representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
+        <source>Remove closed surface representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="135"/>
+        <source>2D fill visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="140"/>
+        <source>2D outline visibility</source>
+        <translation type="unfinished">二维轮廓的可见性</translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="290"/>
         <source>Failed to import data to segmentation</source>
@@ -21112,25 +21923,117 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <translation>转换失败</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1004"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="378"/>
+        <source> (Representations: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="382"/>
+        <source>None)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
+        <source> (Master representation: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="400"/>
+        <source> (Number of segments: %1)</source>
+        <extracomment>parameter is the representation name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1002"/>
+        <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
+
+Please visit the Segmentation module and try the advanced create representation function.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1006"/>
         <source>Failed to export segmentation to labelmap node</source>
         <translation>将分割导出为标签节点失败</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1043"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1026"/>
+        <source>-label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1042"/>
+        <source>Failed to export segments from segmentation %1 to labelmap node!
+
+Most probably the segment cannot be converted into binary labelmap representation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1046"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
         <source>Failed to export segments</source>
         <translation>导出分割失败</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1068"/>
-        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1332"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1067"/>
+        <source>Failed to create closed surface representation for segmentation %1 using defaultconversion parameters!
+
+Please visit the Segmentation module and try the advanced create representation function.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1071"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1336"/>
         <source>Failed to export segmentation to models</source>
         <translation>导出分割至模型失败</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1076"/>
+        <source>-models</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
+        <source>Failed to export segments from segmentation %1 to models!
+
+Most probably the segment cannot be converted into closed surface representation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1331"/>
+        <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
+
+Please visit the Segmentation module and try the advanced create representation function.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchySegmentsPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="92"/>
+        <source>Show only this segment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="96"/>
+        <source>Show all segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="100"/>
+        <source>Jump slices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="104"/>
+        <source>Clone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="209"/>
+        <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
+Please check the error window for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="211"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="224"/>
@@ -21141,6 +22044,27 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="235"/>
         <source>Conversion failed</source>
         <translation>转换失败</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="340"/>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="369"/>
+        <source>None</source>
+        <translation type="unfinished">无</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="354"/>
+        <source>Segment (Representations: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="359"/>
+        <source> (Color: %1, %2, %3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="382"/>
+        <source> (Tags: %1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21205,6 +22129,21 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 <context>
     <name>qSlicerSubjectHierarchyTransformsPlugin</name>
     <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="93"/>
+        <source>Invert transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="96"/>
+        <source>Reset transform to identity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="99"/>
+        <source>Interaction in 3D view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="177"/>
         <source>Some nodes in the branch are already transformed</source>
         <translation>分支中的一些节点已经被转换</translation>
@@ -21218,9 +22157,34 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
 
  注意：如果选择“否”，则应用的变换将被替换。</translation>
     </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="270"/>
+        <source>Transform to parent:</source>
+        <translation type="unfinished">变换为父级：</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="272"/>
+        <source>Transform from parent:</source>
+        <translation type="unfinished">从父级变换：</translation>
+    </message>
 </context>
 <context>
     <name>qSlicerSubjectHierarchyViewContextMenuPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="115"/>
+        <source>View transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="121"/>
+        <source>Adjust window/level</source>
+        <translation type="unfinished">调节窗宽/窗位</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="127"/>
+        <source>Place</source>
+        <translation type="unfinished">放置</translation>
+    </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="149"/>
         <source>Center view</source>
@@ -21334,9 +22298,37 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     </message>
 </context>
 <context>
+    <name>qSlicerSubjectHierarchyVisibilityPlugin</name>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="81"/>
+        <source>Show in all views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="84"/>
+        <source>2D visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="89"/>
+        <source>3D visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>qSlicerSubjectHierarchyVolumeRenderingPlugin</name>
     <message>
-        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="99"/>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="93"/>
+        <source>Show in 3D views as volume rendering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="98"/>
+        <source>Volume rendering options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="100"/>
         <source>Switch to Volume Rendering module to manage display options</source>
         <translation type="unfinished">切换到容积渲染模块以管理显示选项</translation>
     </message>
@@ -21736,9 +22728,19 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <translation>新列默认</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="133"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="134"/>
         <source>Generate an Interactive Plot based on user-selection of the columns of the table.</source>
         <translation>根据用户对表格列的选择生成交互式绘图。</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
+        <source>Click to unlock this table so that values can be modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
+        <source>Click to lock this table to prevent modification of the values in the user interface</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22203,227 +23205,362 @@ This should only used by advanced users who understand the consequences of chang
     </message>
 </context>
 <context>
-    <name>qSlicerViewersToolBarPrivate</name>
+    <name>qSlicerViewersToolBar</name>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation>无跳跃切片</translation>
+        <translation type="unfinished">无跳跃切片</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
         <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation>切片视图移动时不会重定位。</translation>
+        <translation type="unfinished">切片视图移动时不会重定位。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation>跳转切片-偏移</translation>
+        <translation type="unfinished">跳转切片-偏移</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation>切片视图平面将移动以匹配十字线位置(即使未显示十字线)。</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="72"/>
-        <source>Jump slices - centered</source>
-        <translation>跳转切片-居中</translation>
+        <translation type="unfinished">切片视图平面将移动以匹配十字线位置(即使未显示十字线)。</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
+        <source>Jump slices - centered</source>
+        <translation type="unfinished">跳转切片-居中</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation>切片视图以十字线位置为中心(即使未显示十字线)。</translation>
+        <translation type="unfinished">切片视图以十字线位置为中心(即使未显示十字线)。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="92"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
         <source>No crosshair</source>
-        <translation>无十字线</translation>
+        <translation type="unfinished">无十字线</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="93"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
         <source>No crosshair displayed.</source>
-        <translation>无十字线显示。</translation>
+        <translation type="unfinished">无十字线显示。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="97"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
         <source>Basic crosshair</source>
-        <translation>基本十字线</translation>
+        <translation type="unfinished">基本十字线</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="98"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation>基本十字线延伸至视场，十字线位置有一个小间隙。</translation>
+        <translation type="unfinished">基本十字线延伸至视场，十字线位置有一个小间隙。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="102"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
         <source>Basic + intersection</source>
-        <translation>基本十字线 + 相交</translation>
+        <translation type="unfinished">基本十字线 + 相交</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="103"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation>基本十字线延伸至整个视场。</translation>
+        <translation type="unfinished">基本十字线延伸至整个视场。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="107"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
         <source>Small basic crosshair</source>
-        <translation>小的基本十字线</translation>
+        <translation type="unfinished">小的基本十字线</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="108"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation>在十字线位置有小间隙的小十字线。</translation>
+        <translation type="unfinished">在十字线位置有小间隙的小十字线。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="112"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
         <source>Small basic + intersection</source>
-        <translation>小基本十字线+交互</translation>
+        <translation type="unfinished">小基本十字线+交互</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="113"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
         <source>Small crosshair.</source>
-        <translation>小十字线。</translation>
+        <translation type="unfinished">小十字线。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="143"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Fine crosshair</source>
-        <translation>细十字线</translation>
+        <translation type="unfinished">细十字线</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="144"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Fine crosshair.</source>
-        <translation>细十字线。</translation>
+        <translation type="unfinished">细十字线。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="148"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
         <source>Medium crosshair</source>
-        <translation>中十字线</translation>
+        <translation type="unfinished">中十字线</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="149"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
         <source>Medium crosshair.</source>
-        <translation>中十字线。</translation>
+        <translation type="unfinished">中十字线。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="153"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
         <source>Thick crosshair</source>
-        <translation>粗十字线</translation>
+        <translation type="unfinished">粗十字线</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="154"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
         <source>Thick crosshair.</source>
-        <translation>粗十字线。</translation>
+        <translation type="unfinished">粗十字线。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="210"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="186"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="187"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="197"/>
+        <source>Crosshair</source>
+        <translation type="unfinished">十字线</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="195"/>
+        <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
+        <translation type="unfinished">切换十字线可见性，按住Shift键并在视图中移动鼠标以设置十字线位置。</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
         <source>Full lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="211"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
         <source>Full slice intersection lines extending across the field of view.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="216"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="220"/>
         <source>Skip line crossings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="217"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="222"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="238"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="243"/>
         <source>Fine lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="239"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
         <source>Fine lines.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
         <source>Medium lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="245"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
         <source>Medium lines.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="254"/>
         <source>Thick lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="255"/>
         <source>Thick lines.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="297"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="312"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="313"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
-        <source>Slice intersections</source>
-        <translation>切片相交</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="321"/>
-        <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation>显示其他切片平面如何与每个切片平面相交。</translation>
-    </message>
-    <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="270"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="275"/>
         <source>Interaction</source>
-        <translation>交互</translation>
+        <translation type="unfinished">交互</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="271"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="276"/>
         <source>Show handles for slice interaction.</source>
-        <translation>显示切片交互的控键。</translation>
+        <translation type="unfinished">显示切片交互的控键。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="278"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
         <source>Translate</source>
-        <translation>平移</translation>
+        <translation type="unfinished">平移</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="279"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
         <source>Control visibility of translation handles for slice intersection.</source>
-        <translation>控制切片相交的平移控制柄的可见性。</translation>
+        <translation type="unfinished">控制切片相交的平移控制柄的可见性。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="285"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
         <source>Rotate</source>
-        <translation>旋转</translation>
+        <translation type="unfinished">旋转</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="286"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation>控制切片交点旋转控制柄的可见性。</translation>
+        <translation type="unfinished">控制切片交点旋转控制柄的可见性。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="292"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="299"/>
         <source>Interaction options</source>
-        <translation>交互选项</translation>
+        <translation type="unfinished">交互选项</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="173"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="183"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="184"/>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="194"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="304"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="319"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
+        <source>Slice intersections</source>
+        <translation type="unfinished">切片相交</translation>
+    </message>
+    <message>
+        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
+        <source>Show how the other slice planes intersect each slice plane.</source>
+        <translation type="unfinished">显示其他切片平面如何与每个切片平面相交。</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerViewersToolBarPrivate</name>
+    <message>
+        <source>No jump slices</source>
+        <translation type="vanished">无跳跃切片</translation>
+    </message>
+    <message>
+        <source>Slice views are not repositioned when crosshair is moved.</source>
+        <translation type="vanished">切片视图移动时不会重定位。</translation>
+    </message>
+    <message>
+        <source>Jump slices - offset</source>
+        <translation type="vanished">跳转切片-偏移</translation>
+    </message>
+    <message>
+        <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
+        <translation type="vanished">切片视图平面将移动以匹配十字线位置(即使未显示十字线)。</translation>
+    </message>
+    <message>
+        <source>Jump slices - centered</source>
+        <translation type="vanished">跳转切片-居中</translation>
+    </message>
+    <message>
+        <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
+        <translation type="vanished">切片视图以十字线位置为中心(即使未显示十字线)。</translation>
+    </message>
+    <message>
+        <source>No crosshair</source>
+        <translation type="vanished">无十字线</translation>
+    </message>
+    <message>
+        <source>No crosshair displayed.</source>
+        <translation type="vanished">无十字线显示。</translation>
+    </message>
+    <message>
+        <source>Basic crosshair</source>
+        <translation type="vanished">基本十字线</translation>
+    </message>
+    <message>
+        <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
+        <translation type="vanished">基本十字线延伸至视场，十字线位置有一个小间隙。</translation>
+    </message>
+    <message>
+        <source>Basic + intersection</source>
+        <translation type="vanished">基本十字线 + 相交</translation>
+    </message>
+    <message>
+        <source>Basic crosshair extending across the field of view.</source>
+        <translation type="vanished">基本十字线延伸至整个视场。</translation>
+    </message>
+    <message>
+        <source>Small basic crosshair</source>
+        <translation type="vanished">小的基本十字线</translation>
+    </message>
+    <message>
+        <source>Small crosshair with a small gap at the crosshair position.</source>
+        <translation type="vanished">在十字线位置有小间隙的小十字线。</translation>
+    </message>
+    <message>
+        <source>Small basic + intersection</source>
+        <translation type="vanished">小基本十字线+交互</translation>
+    </message>
+    <message>
+        <source>Small crosshair.</source>
+        <translation type="vanished">小十字线。</translation>
+    </message>
+    <message>
+        <source>Fine crosshair</source>
+        <translation type="vanished">细十字线</translation>
+    </message>
+    <message>
+        <source>Fine crosshair.</source>
+        <translation type="vanished">细十字线。</translation>
+    </message>
+    <message>
+        <source>Medium crosshair</source>
+        <translation type="vanished">中十字线</translation>
+    </message>
+    <message>
+        <source>Medium crosshair.</source>
+        <translation type="vanished">中十字线。</translation>
+    </message>
+    <message>
+        <source>Thick crosshair</source>
+        <translation type="vanished">粗十字线</translation>
+    </message>
+    <message>
+        <source>Thick crosshair.</source>
+        <translation type="vanished">粗十字线。</translation>
+    </message>
+    <message>
+        <source>Slice intersections</source>
+        <translation type="vanished">切片相交</translation>
+    </message>
+    <message>
+        <source>Show how the other slice planes intersect each slice plane.</source>
+        <translation type="vanished">显示其他切片平面如何与每个切片平面相交。</translation>
+    </message>
+    <message>
+        <source>Interaction</source>
+        <translation type="vanished">交互</translation>
+    </message>
+    <message>
+        <source>Show handles for slice interaction.</source>
+        <translation type="vanished">显示切片交互的控键。</translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation type="vanished">平移</translation>
+    </message>
+    <message>
+        <source>Control visibility of translation handles for slice intersection.</source>
+        <translation type="vanished">控制切片相交的平移控制柄的可见性。</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="vanished">旋转</translation>
+    </message>
+    <message>
+        <source>Control visibility of rotation handles for slice intersection.</source>
+        <translation type="vanished">控制切片交点旋转控制柄的可见性。</translation>
+    </message>
+    <message>
+        <source>Interaction options</source>
+        <translation type="vanished">交互选项</translation>
+    </message>
+    <message>
         <source>Crosshair</source>
-        <translation>十字线</translation>
+        <translation type="vanished">十字线</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="192"/>
         <source>Toggle crosshair visibility. Hold Shift key and move mouse in a view to set crosshair position.</source>
-        <translation>切换十字线可见性，按住Shift键并在视图中移动鼠标以设置十字线位置。</translation>
+        <translation type="vanished">切换十字线可见性，按住Shift键并在视图中移动鼠标以设置十字线位置。</translation>
     </message>
 </context>
 <context>

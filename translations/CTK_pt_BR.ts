@@ -112,9 +112,17 @@
     </message>
 </context>
 <context>
+    <name>QFileDialog</name>
+    <message>
+        <location filename="Applications/ctkDICOMObjectViewer/ctkDICOMObjectViewerMain.cpp" line="53"/>
+        <source>Choose an image file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="442"/>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="443"/>
         <source>Failed while checking XML:</source>
         <translation>Falha ao verificar XML:</translation>
     </message>
@@ -331,6 +339,29 @@ Button Checkable</source>
     </message>
 </context>
 <context>
+    <name>ctkActionsWidget</name>
+    <message>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
+        <source>Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
+        <source>Shortcut(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
+        <source>Context</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
+        <source>Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ctkAddRemoveComboBox</name>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
@@ -352,12 +383,42 @@ Button Checkable</source>
         <source>Edit selected object</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ctkCLModuleExplorerMainWindow</name>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="290"/>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="204"/>
+        <source>Closing %1 running modules</source>
+        <extracomment>%1 is the number of running modules</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="205"/>
+        <source>Some modules are still running.
+Closing the application will cancel all current computations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="291"/>
         <source>Load modules...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkCheckableComboBox</name>
+    <message>
+        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="385"/>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="390"/>
+        <source>None</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -592,6 +653,11 @@ Button Checkable</source>
 <context>
     <name>ctkCmdLineModuleExplorerShowXmlAction</name>
     <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="39"/>
+        <source>Show XML Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="65"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
@@ -599,6 +665,63 @@ Button Checkable</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="75"/>
         <source>No validation errors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkCmdLineModuleExplorerTabList</name>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="97"/>
+        <source>Closing a running module</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="99"/>
+        <source>The module &apos;%1&apos; is still running.
+Closing the tab will cancel the current computation.</source>
+        <extracomment>%1 is the module name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="112"/>
+        <source>Closing not possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="114"/>
+        <source>The module &apos;%1&apos; is still running and does not support being canceled.</source>
+        <extracomment>%1 is the module name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkCmdLineModuleExplorerTreeWidget</name>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="41"/>
+        <source>Uncategorized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
+        <source>Warning:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
+        <source>Create Frontend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="275"/>
+        <source>Frontend creation failed</source>
+        <extracomment>%1 is the frontend factory name and %2 is the error description</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="276"/>
+        <source>Creating a %1 frontend failed:
+
+%2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1287,6 +1410,24 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMDisplayedFieldGeneratorRadiotherapySeriesDescriptionRule.cpp" line="27"/>
         <source>Unnamed RT Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkDICOMHostMainLogic</name>
+    <message>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="64"/>
+        <source>Choose hosted application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="126"/>
+        <source>Series selected: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="136"/>
+        <source>no series selected</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2242,6 +2383,179 @@ Halting export.</source>
         <source>Table Name</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="40"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="48"/>
+        <source>Patient name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="41"/>
+        <source>Patient ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="42"/>
+        <source>Birth date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="43"/>
+        <source>Birth time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="44"/>
+        <source>Sex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="45"/>
+        <source>Age</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="46"/>
+        <source>Comments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="47"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="60"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="73"/>
+        <source>Date added</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="49"/>
+        <source>Studies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="50"/>
+        <source>Last study date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="51"/>
+        <source>Study ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="52"/>
+        <source>Study date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="53"/>
+        <source>Study time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="54"/>
+        <source>Study description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="55"/>
+        <source>Accession #</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="56"/>
+        <source>Modalities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="57"/>
+        <source>Institution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="58"/>
+        <source>Referring physician</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="59"/>
+        <source>Performing physician</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="61"/>
+        <source>Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="62"/>
+        <source>Series #</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
+        <source>Series date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="64"/>
+        <source>Series time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="65"/>
+        <source>Series description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="66"/>
+        <source>Modality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="67"/>
+        <source>Body part</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="68"/>
+        <source>Acquisition #</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="69"/>
+        <source>Contrast agent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="70"/>
+        <source>Scanning sequence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="71"/>
+        <source>Echo #</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="72"/>
+        <source>Temporal position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="74"/>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="75"/>
+        <source>Count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="76"/>
+        <source>Number of frames</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ctkDICOMThumbnailListWidget</name>
@@ -2463,6 +2777,11 @@ Halting export.</source>
         <source>Send</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
+        <source>Me: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ctkEventTranslatorPlayerWidget</name>
@@ -2574,6 +2893,33 @@ Halting export.</source>
     </message>
 </context>
 <context>
+    <name>ctkFileDialogEventPlayer</name>
+    <message>
+        <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
+        <source>Choose</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkFileDialogEventTranslator</name>
+    <message>
+        <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
+        <source>Loading %1 ... </source>
+        <extracomment>%1 is the filename</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ctkFittedTextBrowser</name>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="40"/>
@@ -2591,6 +2937,11 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.ui" line="25"/>
         <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
+        <source>Choose hosted application</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2787,6 +3138,26 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
         <source>PBR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
+        <source>Full ambient eliminating all directional shading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="107"/>
+        <source>Dull material properties (no specular lighting).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
+        <source>Smooth material properties (moderate specular lighting).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
+        <source>Shiny material properties (high specular lighting).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3316,6 +3687,16 @@ Halting export.</source>
         <source>Select a file to save </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="653"/>
+        <source>Open a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="669"/>
+        <source>Select a directory...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ctkPathListButtonsWidget</name>
@@ -3407,6 +3788,74 @@ Please check your permissions.</source>
 
 %1
 Please check your permissions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkPluginBrowser</name>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"/>
+        <source>Installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
+        <source>Lazy Activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
+        <source>Resolved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"/>
+        <source>Started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"/>
+        <source>Starting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
+        <source>Stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"/>
+        <source>Stopping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"/>
+        <source>Uninstalled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="60"/>
+        <source>Unresolved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"/>
+        <source>Updated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"/>
+        <source>Start Plugin (ignore activation policy)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"/>
+        <source>Start Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"/>
+        <source>Stop Plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3691,6 +4140,92 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>ctkPluginTableModel</name>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="100"/>
+        <source>UNINSTALLED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="101"/>
+        <source>INSTALLED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="102"/>
+        <source>RESOLVED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"/>
+        <source>STARTING</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"/>
+        <source>STOPPING</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="105"/>
+        <source>ACTIVE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="115"/>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkQImageView</name>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
+        <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
+        <source>Intensity Range = %1 .. %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1064"/>
+        <source>W / L = %1 / %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1077"/>
+        <source>Spacing = %1, %2, %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1090"/>
+        <source>Size = %1, %2, %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1102"/>
+        <source>RAS = %1, %2, %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1115"/>
+        <source>IJK = %1, %2, %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1127"/>
+        <source>Value = %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkQImageView.cpp" line="1165"/>
+        <source>No Image Loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ctkQtTestingMainWindow</name>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"/>
@@ -3825,6 +4360,36 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="67"/>
+        <source>Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"/>
+        <source>Height of widget: %1 is invalid. Check widget dimensions. Using default aspect ratio (1.0).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="175"/>
+        <source>Invalid widget dimensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="194"/>
+        <source>Aspect ratio: %1 is invalid. Check widget dimensions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="196"/>
+        <source>Invalid aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"/>
+        <source>Screen Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="397"/>
         <source>File already exists. Overwrite ?</source>
         <translation type="unfinished"></translation>
@@ -3873,6 +4438,30 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
         <source>The application must be restarted to take into account the new values of the following properties:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="300"/>
+        <source>Restart required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"/>
+        <source>For settings to be taken into account, the application
+must be restarted. Restart the application now ?
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="409"/>
+        <source>Restore all settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"/>
+        <source>Are you sure you want to reset
+all settings to their default values?
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4395,6 +4984,24 @@ Do you want to replace it ?</source>
     </message>
 </context>
 <context>
+    <name>ctkWorkflowButtonBoxWidget</name>
+    <message>
+        <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"/>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"/>
+        <source>Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"/>
+        <source>Finish</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ctkWorkflowGroupBox</name>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkWorkflowGroupBox.ui" line="20"/>
@@ -4513,6 +5120,8 @@ Do you want to restore the settings?</source>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="23"/>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="90"/>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="195"/>
         <source>Login</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4562,8 +5171,45 @@ Do you want to restore the settings?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"/>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="196"/>
+        <source>Disconnected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="102"/>
+        <source>Logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="103"/>
+        <source>Connected: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"/>
         <source>Open File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
+        <source>Session Timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
+        <source>The session timed out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="205"/>
+        <source>Session Timeout Soon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="206"/>
+        <source>The session will time out in 1 minute.
+Do you want to renew the session?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
