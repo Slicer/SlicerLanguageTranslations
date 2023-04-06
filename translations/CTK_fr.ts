@@ -2039,7 +2039,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="59"/>
         <source>Patients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Patients :</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="85"/>
@@ -2068,12 +2068,12 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="40"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="48"/>
         <source>Patient name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du Patient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="41"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Patient</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="42"/>
