@@ -7752,7 +7752,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="351"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres DICOM génériques</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="354"/>
@@ -7767,7 +7767,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Détermine si les séries DICOM référencées sont proposées lors du chargement de DICOM, ou le comportement automatique si l&apos;interaction est désactivée. La sélection interactive des séries référencées est la sélection par défaut</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
@@ -7858,7 +7858,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="861"/>
         <source>running at port %s</source>
-        <translation type="unfinished"></translation>
+        <translation>écoute sur le port %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="877"/>
@@ -7878,7 +7878,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation>Voulez-vous vraiment supprimer toutes les données et tous les fichiers copiés dans la base de données (patients{count}) ?</translation>
+        <translation>Voulez-vous vraiment supprimer toutes les données et tous les fichiers copiés dans la base de données ({count} patients) ?</translation>
     </message>
 </context>
 <context>
@@ -7962,7 +7962,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="100"/>
         <source>Layout</source>
-        <translation>Mise-en-Page</translation>
+        <translation>Mise en page</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="122"/>
