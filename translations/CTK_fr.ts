@@ -2078,7 +2078,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="42"/>
         <source>Birth date</source>
-        <translation type="unfinished"></translation>
+        <translation>Naissance</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="43"/>
