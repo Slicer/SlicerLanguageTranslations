@@ -2,85 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr">
 <context>
-    <name>Form</name>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
-        <source>Form</source>
-        <translation>Forme</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
-        <source>Name</source>
-        <translation>Nom</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
-        <source>Symbolic Name</source>
-        <translation type="unfinished">Nom symbolique</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
-        <source>Version</source>
-        <translation type="unfinished">Version</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
-        <source>Vendor</source>
-        <translation type="unfinished">Fournisseur</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
-        <source>License</source>
-        <translation type="unfinished">Licence</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
-        <source>Copyright</source>
-        <translation type="unfinished">Copyright</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
-        <source>Activation Policy</source>
-        <oldsource>Activaton Policy</oldsource>
-        <translation type="unfinished">Politique d’activation</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
-        <source>Category</source>
-        <translation type="unfinished">Catégorie</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"/>
-        <source>Contact Address</source>
-        <translation type="unfinished">Adresse de contact</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
-        <source>Description</source>
-        <translation type="unfinished">Description</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
-        <source>Doc URL</source>
-        <translation type="unfinished">URL du document</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
-        <source>Icon</source>
-        <translation type="unfinished">Icône</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
-        <source>Lazy</source>
-        <translation type="unfinished">Paresseux</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
-        <source>Eager</source>
-        <translation type="unfinished">Avide</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
@@ -91,248 +12,6 @@
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
         <translation type="unfinished">Exemple d&apos;application d&apos;hébergement CTK</translation>
-    </message>
-</context>
-<context>
-    <name>OrganizationInputDialog</name>
-    <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
-        <source>CTK Plugin Generator</source>
-        <translation type="unfinished">Générateur de plugins CTK</translation>
-    </message>
-    <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
-        <source>Enter the name of your organization:</source>
-        <translation>Saisissez le nom de votre organisation :</translation>
-    </message>
-    <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
-        <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished">&lt;votre-organisation&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>QFileDialog</name>
-    <message>
-        <location filename="Applications/ctkDICOMObjectViewer/ctkDICOMObjectViewerMain.cpp" line="53"/>
-        <source>Choose an image file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="443"/>
-        <source>Failed while checking XML:</source>
-        <translation>Échec lors de la vérification XML :</translation>
-    </message>
-    <message>
-        <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
-        <source>Finished.</source>
-        <translation type="unfinished">Fini.</translation>
-    </message>
-    <message>
-        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleConcurrentHelpers.cpp" line="73"/>
-        <source>Module %1 failed with an unknown exception.</source>
-        <translation type="unfinished">Le module %1 a échoué avec une exception inconnue.</translation>
-    </message>
-    <message>
-        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="45"/>
-        <source>Failed to register module:
-%1
-
-due to:
-%2
-
-</source>
-        <translation>Échec de l&apos;enregistrement du module :
-%1
-
-en raison de :
-%2
-
-</translation>
-    </message>
-    <message>
-        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
-        <source>Failed to register module:
-%1
-
-due to xml validation error:
-%2
-
-</source>
-        <translation type="unfinished">Échec de l&apos;enregistrement du module&#xa0;:
-%1
-
-en raison d&apos;une erreur de validation xml&#xa0;:
-%2
-
-</translation>
-    </message>
-    <message>
-        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="56"/>
-        <source>Failed to register module:
-</source>
-        <translation type="unfinished">Échec de l&apos;enregistrement du module&#xa0;:
-</translation>
-    </message>
-    <message>
-        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
-        <source>Failed to register module:
-
-
-due to:
-</source>
-        <translation>Échec de l&apos;enregistrement du module&#xa0;:
-
-
-en raison de :
-</translation>
-    </message>
-    <message>
-        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
-        <source>Failed to register modules</source>
-        <translation type="unfinished">Échec de l&apos;enregistrement des modules</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
-        <source>Basic</source>
-        <translation type="unfinished">Basique</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="109"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="123"/>
-        <source>Button1</source>
-        <translation type="unfinished">Bouton1</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonEventTranslatorPlayerTest1.cpp" line="124"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="43"/>
-        <source>Button2</source>
-        <translation type="unfinished">Bouton2</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="42"/>
-        <source>My very long text on button</source>
-        <translation type="unfinished">Mon texte très long sur le bouton</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="44"/>
-        <source>Button3</source>
-        <translation type="unfinished">Bouton3</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="45"/>
-        <source>Button4</source>
-        <translation type="unfinished">Bouton4</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="46"/>
-        <source>Button5</source>
-        <translation type="unfinished">Bouton5</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="47"/>
-        <source>Button6</source>
-        <translation type="unfinished">Bouton6</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="48"/>
-        <source>Checkable PushButton</source>
-        <translation type="unfinished">Bouton-poussoir contrôlable</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="49"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="50"/>
-        <source>Connected, Not User Checkable</source>
-        <translation type="unfinished">Connecté, non contrôlable par l&apos;utilisateur</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="51"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="52"/>
-        <source>Not Connected, User Checkable</source>
-        <translation type="unfinished">Non connecté, contrôlable par l&apos;utilisateur</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="53"/>
-        <source>Checkbox Not User Checkable
-Button Checkable</source>
-        <translation>Case à cocher Non contrôlable par l’utilisateur
-Bouton à cocher</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="54"/>
-        <source>Checkbox and Button User Checkable</source>
-        <translation type="unfinished">Case à cocher et bouton contrôlable par l&apos;utilisateur</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="55"/>
-        <source>Checkable PushButton with menu</source>
-        <translation type="unfinished">Bouton-poussoir contrôlable avec menu</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="56"/>
-        <source>Checkable PushButton with icon</source>
-        <translation type="unfinished">Bouton-poussoir contrôlable avec icône</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCheckablePushButtonTest1.cpp" line="57"/>
-        <source>Check box controls button toggle state</source>
-        <translation type="unfinished">La case à cocher contrôle l&apos;état de basculement du bouton</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="74"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="44"/>
-        <source>Button</source>
-        <translation type="unfinished">Bouton</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="75"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="45"/>
-        <source>Nested Collapsible Button</source>
-        <translation>Bouton à sections imbriquées</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="76"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="46"/>
-        <source>CollapsibleButton</source>
-        <translation>Bouton à sections</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonEventTranslatorPlayerTest1.cpp" line="78"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleButtonTest1.cpp" line="49"/>
-        <source>Nested PushButton</source>
-        <translation type="unfinished">Bouton-poussoir imbriqué</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="84"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="41"/>
-        <source>GroupBox</source>
-        <translation>Groupe de Boîte</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="85"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="42"/>
-        <source>&amp;Radio button 1</source>
-        <translation type="unfinished">&amp;Bouton radio 1</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="86"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="43"/>
-        <source>R&amp;adio button 2</source>
-        <translation type="unfinished">Bouton R&amp;adio 2</translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxEventTranslatorPlayerTest1.cpp" line="87"/>
-        <location filename="Libs/Widgets/Testing/Cpp/ctkCollapsibleGroupBoxTest1.cpp" line="44"/>
-        <source>Ra&amp;dio button 3</source>
-        <translation type="unfinished">Bouton Ra&amp;dio 3</translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkTopicRegistry.cpp" line="36"/>
-        <source>Topic %1 already owned by %2</source>
-        <translation type="unfinished">Rubrique %1 déjà détenue par %2</translation>
     </message>
 </context>
 <context>
@@ -362,8 +41,8 @@ Bouton à cocher</translation>
     <name>ctkAddRemoveComboBox</name>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
-        <source>ctkAddRemoveComboBox</source>
-        <translation type="unfinished">ctkAddRemoveComboBox</translation>
+        <source>Select items</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="36"/>
@@ -404,6 +83,11 @@ Closing the application will cancel all current computations.</source>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="291"/>
         <source>Load modules...</source>
         <translation type="unfinished">Charger les modules...</translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="443"/>
+        <source>Failed while checking XML:</source>
+        <translation type="unfinished">Échec lors de la vérification XML :</translation>
     </message>
 </context>
 <context>
@@ -626,23 +310,21 @@ Closing the application will cancel all current computations.</source>
     <name>ctkCmdLineModuleExplorerProgressWidget</name>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="14"/>
-        <source>Form</source>
-        <translation>Formulaire</translation>
+        <source>Progress</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="26"/>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="85"/>
-        <source>TextLabel</source>
-        <translation type="unfinished">ÉtiquetteTexte</translation>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="51"/>
+        <source>Pause</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="42"/>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="59"/>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="68"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="73"/>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="82"/>
         <source>Remove</source>
         <translation type="unfinished">Supprimer</translation>
     </message>
@@ -723,6 +405,68 @@ Closing the tab will cancel the current computation.</source>
     </message>
 </context>
 <context>
+    <name>ctkCmdLineModuleManager</name>
+    <message>
+        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="45"/>
+        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="56"/>
+        <source>Failed to register module:
+%1
+
+due to:
+%2
+
+</source>
+        <translation type="unfinished">Échec de l&apos;enregistrement du module :
+%1
+
+en raison de :
+%2
+
+</translation>
+    </message>
+    <message>
+        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
+        <source>Failed to register module:
+%1
+
+due to xml validation error:
+%2
+
+</source>
+        <translation type="unfinished">Échec de l&apos;enregistrement du module&#xa0;:
+%1
+
+en raison d&apos;une erreur de validation xml&#xa0;:
+%2
+
+</translation>
+    </message>
+    <message>
+        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
+        <source>Failed to register module:
+
+
+due to:
+%1
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
+        <source>Failed to register modules</source>
+        <translation type="unfinished">Échec de l&apos;enregistrement des modules</translation>
+    </message>
+</context>
+<context>
+    <name>ctkCmdLineModuleProcessTask</name>
+    <message>
+        <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
+        <source>Finished.</source>
+        <translation type="unfinished">Fini.</translation>
+    </message>
+</context>
+<context>
     <name>ctkCmdLineModuleProcessWatcher</name>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="69"/>
@@ -733,6 +477,14 @@ Closing the tab will cancel the current computation.</source>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="89"/>
         <source>Finished </source>
         <translation>Fini. </translation>
+    </message>
+</context>
+<context>
+    <name>ctkColorDialog</name>
+    <message>
+        <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
+        <source>Basic</source>
+        <translation type="unfinished">Basique</translation>
     </message>
 </context>
 <context>
@@ -843,18 +595,8 @@ Closing the tab will cancel the current computation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="305"/>
-        <source>&lt;&lt;&lt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="324"/>
         <source>Previous series</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="327"/>
-        <source>&lt;&lt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -863,18 +605,8 @@ Closing the tab will cancel the current computation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="349"/>
-        <source>&lt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="368"/>
         <source>Next image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="371"/>
-        <source>&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -883,18 +615,8 @@ Closing the tab will cancel the current computation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="393"/>
-        <source>&gt;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="412"/>
         <source>Next study</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="415"/>
-        <source>&gt;&gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1007,13 +729,14 @@ Closing the tab will cancel the current computation.</source>
     <name>ctkDICOMBrowser</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
-        <source>ctkDICOMBrowser</source>
+        <source>DICOM Browser</source>
+        <oldsource>ctkDICOMBrowser</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
-        <source>toolBar</source>
-        <translation type="unfinished">Barre d&apos;outils</translation>
+        <source>DICOM Browser Toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="69"/>
@@ -1434,7 +1157,7 @@ Halting export.</source>
     <name>ctkDICOMHostMainWidget</name>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="14"/>
-        <source>Form</source>
+        <source>DICOM Hosts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1875,61 +1598,20 @@ Halting export.</source>
     <name>ctkDICOMListenerWidget</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMListenerWidget.ui" line="14"/>
-        <source>Form</source>
+        <source>DICOM Listener</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ctkDICOMModel</name>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="126"/>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="510"/>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="516"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="511"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="517"/>
         <source>Name</source>
         <translation type="unfinished">Nom</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="128"/>
-        <source>Age</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="130"/>
-        <source>Scan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="132"/>
-        <source>Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="134"/>
-        <source>Subject ID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="136"/>
-        <source>Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="138"/>
-        <source>Institution</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="140"/>
-        <source>Referrer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="142"/>
-        <source>Performer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="512"/>
+        <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="513"/>
         <source>No description</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1938,7 +1620,7 @@ Halting export.</source>
     <name>ctkDICOMObjectListWidget</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="14"/>
-        <source>Form</source>
+        <source>DICOM metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2191,46 +1873,46 @@ Halting export.</source>
     <name>ctkDICOMQueryWidget</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="14"/>
-        <source>Form</source>
+        <source>Query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="39"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
         <source>Name</source>
         <translation type="unfinished">Nom</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="42"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="51"/>
         <source>Search by Person Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="52"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="61"/>
         <source>Study</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="55"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="64"/>
         <source>Search in Study Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="65"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="74"/>
         <source>Series</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="68"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
         <source>Search in Series Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="78"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="87"/>
         <source>ID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="81"/>
+        <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="90"/>
         <source>Search by Person ID</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2351,7 +2033,7 @@ Halting export.</source>
     <name>ctkDICOMTableManager</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="20"/>
-        <source>Form</source>
+        <source>DICOM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2374,7 +2056,7 @@ Halting export.</source>
     <name>ctkDICOMTableView</name>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableView.ui" line="14"/>
-        <source>Form</source>
+        <source>DICOM Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2650,120 +2332,17 @@ Halting export.</source>
     </message>
 </context>
 <context>
-    <name>ctkEventBus::ctkEventDispatcher</name>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="173"/>
-        <source>Signal not present for topic %1, create only the entry in CallbacksHash</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="195"/>
-        <source>Signal not valid for topic: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="197"/>
-        <source>Object valid Address: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="198"/>
-        <source>Signature: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="242"/>
-        <source>Unable to disconnect object %1 on topic %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="273"/>
-        <source>Unable to disconnect object %1 from topic %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="306"/>
-        <source>Object %1 is trying to register a signal with Topic &apos;%2&apos; that has been already registered!!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="308"/>
-        <source>NULL is trying to register a signal with Topic &apos;%2&apos; that has been already registered!!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcher.cpp" line="317"/>
-        <source>Callbacks not present for topic %1, create only the entry in SignalsHash</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ctkEventBus::ctkEventDispatcherLocal</name>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcherLocal.cpp" line="95"/>
-        <location filename="Plugins/org.commontk.eventbus/ctkEventDispatcherLocal.cpp" line="147"/>
-        <source>Number of arguments not supported. Max 10 arguments</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ctkEventBus::ctkNetworkConnectorQXMLRPC</name>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQXMLRPC.cpp" line="72"/>
-        <source>ctk/remote/eventbus/communication/send/xmlrpc/serverMethods%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQXMLRPC.cpp" line="115"/>
-        <source>Server is already listening on port %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQXMLRPC.cpp" line="166"/>
-        <source>Remote Dispatcher need to have arguments that are QVariantList</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQXMLRPC.cpp" line="180"/>
-        <source>Remote Dispatcher need to have at least one argument that is a QVariantList</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQXMLRPC.cpp" line="218"/>
-        <source>Process Fault for requestID %1 with error %2 - %3</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ctkEventBus::ctkNetworkConnectorQtSoap</name>
-    <message>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQtSoap.cpp" line="117"/>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQtSoap.cpp" line="121"/>
-        <location filename="Plugins/org.commontk.eventbus/ctkNetworkConnectorQtSoap.cpp" line="125"/>
-        <source>QtSoap doesn&apos;t support server side implementation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ctkEventBusDemoMainWindow</name>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="32"/>
-        <source>EventBus Demo App</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="50"/>
-        <source>127.0.0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="57"/>
-        <source>8000</source>
+        <source>EventBus Demo</source>
+        <oldsource>EventBus Demo App</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="64"/>
-        <source>connect</source>
+        <source>Connect</source>
+        <oldsource>connect</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2786,7 +2365,7 @@ Halting export.</source>
     <name>ctkEventTranslatorPlayerWidget</name>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="14"/>
-        <source>MainWindow</source>
+        <source>Event Player</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3701,7 +3280,7 @@ Halting export.</source>
     <name>ctkPathListButtonsWidget</name>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="14"/>
-        <source>Form</source>
+        <source>Path list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3862,51 +3441,51 @@ Please check your permissions.</source>
     <name>ctkPluginBrowserWindow</name>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="14"/>
-        <source>MainWindow</source>
+        <source>Plugin Browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="37"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="49"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"/>
         <source>Plugins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="104"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="122"/>
         <source>Qt Resources</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="132"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="159"/>
         <source>Plugin Resources</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="157"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="193"/>
         <source>Services</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="197"/>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"/>
+        <source>Link services</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="241"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"/>
         <source>Events</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="262"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
         <source>toolBar</source>
         <translation type="unfinished">Barre d&apos;outils</translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="273"/>
+        <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
         <source>Exit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3944,12 +3523,27 @@ Please check your permissions.</source>
         <source>Creating the preview failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
+        <source>CTK Plugin Generator</source>
+        <translation type="unfinished">Générateur de plugins CTK</translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
+        <source>Enter the name of your organization:</source>
+        <translation type="unfinished">Saisissez le nom de votre organisation :</translation>
+    </message>
+    <message>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
+        <source>&lt;your-organization&gt;</source>
+        <translation type="unfinished">&lt;votre-organisation&gt;</translation>
+    </message>
 </context>
 <context>
     <name>ctkPluginGeneratorMainExtension</name>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="14"/>
-        <source>Form</source>
+        <source>Plugin Generator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4052,7 +3646,7 @@ Please check your permissions.</source>
         <translation type="unfinished">Générateur de plugins CTK</translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="56"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="74"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -4065,13 +3659,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="133"/>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="183"/>
-        <source>TextLabel</source>
-        <translation type="unfinished">ÉtiquetteTexte</translation>
-    </message>
-    <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="233"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -4084,52 +3672,130 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="307"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"/>
         <source>Output directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="320"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="383"/>
         <source>Choose output directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="359"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="431"/>
         <source>Preview &gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="379"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="451"/>
         <source>Generate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="386"/>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="417"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="458"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="489"/>
         <source>Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="406"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="478"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="420"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="492"/>
         <source>Ctrl+Q</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="425"/>
+        <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="497"/>
         <source>Options...</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ctkPluginGeneratorManifestExtension</name>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
+        <source>Manifest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
+        <source>Symbolic Name</source>
+        <translation type="unfinished">Nom symbolique</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
+        <source>Version</source>
+        <translation type="unfinished">Version</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
+        <source>Vendor</source>
+        <translation type="unfinished">Fournisseur</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
+        <source>License</source>
+        <translation type="unfinished">Licence</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
+        <source>Copyright</source>
+        <translation type="unfinished">Copyright</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
+        <source>Activation Policy</source>
+        <translation type="unfinished">Politique d’activation</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
+        <source>Category</source>
+        <translation type="unfinished">Catégorie</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"/>
+        <source>Contact Address</source>
+        <translation type="unfinished">Adresse de contact</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
+        <source>Doc URL</source>
+        <translation type="unfinished">URL du document</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
+        <source>Icon</source>
+        <translation type="unfinished">Icône</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
+        <source>Lazy</source>
+        <translation type="unfinished">Paresseux</translation>
+    </message>
+    <message>
+        <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
+        <source>Eager</source>
+        <translation type="unfinished">Avide</translation>
     </message>
 </context>
 <context>
     <name>ctkPluginGeneratorOptionsDialog</name>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="14"/>
-        <source>Dialog</source>
+        <source>Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4228,7 +3894,7 @@ p, li { white-space: pre-wrap; }
     <name>ctkQtTestingMainWindow</name>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"/>
-        <source>MainWindow</source>
+        <source>Qt Testing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4246,7 +3912,7 @@ p, li { white-space: pre-wrap; }
     <name>ctkRangeWidget</name>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"/>
-        <source>ctkSliderSpinBoxWidget</source>
+        <source>Select range</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4255,16 +3921,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="20"/>
         <source>Screen Capture Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="28"/>
-        <source>0 s</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="48"/>
-        <source>Untitled_0.png</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4468,7 +4124,7 @@ all settings to their default values?
     <name>ctkSliderWidget</name>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSliderWidget.ui" line="20"/>
-        <source>ctkSliderWidget</source>
+        <source>Set value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4505,7 +4161,8 @@ all settings to their default values?
     <name>ctkThumbnailListWidget</name>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailListWidget.ui" line="14"/>
-        <source>ThumbnailList</source>
+        <source>Thumbnails</source>
+        <oldsource>ThumbnailList</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4525,43 +4182,33 @@ all settings to their default values?
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="23"/>
+        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="32"/>
         <source>Undo last change of range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="34"/>
+        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="43"/>
         <source>Reset ranges to data range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="45"/>
+        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="54"/>
         <source>Shrink display range to current range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="56"/>
+        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="65"/>
         <source>Expand current range to display range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="67"/>
+        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="76"/>
         <source>Invert color map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="84"/>
+        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="93"/>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="94"/>
-        <source>1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="123"/>
-        <source>0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4738,7 +4385,8 @@ Do you want to replace it ?</source>
     <name>ctkVTKScalarBarWidget</name>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="14"/>
-        <source>vtkScalarBarWidget</source>
+        <source>Scalar bar properties</source>
+        <oldsource>vtkScalarBarWidget</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
