@@ -2145,12 +2145,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="56"/>
         <source>Modalities</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalités</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="57"/>
         <source>Institution</source>
-        <translation type="unfinished"></translation>
+        <translation>Institution</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="58"/>
@@ -2170,7 +2170,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="62"/>
         <source>Series #</source>
-        <translation type="unfinished"></translation>
+        <translation>Séries #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
