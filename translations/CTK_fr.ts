@@ -4574,7 +4574,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacité :</translation>
     </message>
 </context>
 <context>
