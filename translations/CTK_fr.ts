@@ -2155,47 +2155,47 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="58"/>
         <source>Referring physician</source>
-        <translation type="unfinished"></translation>
+        <translation>Médecin traitant</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="59"/>
         <source>Performing physician</source>
-        <translation type="unfinished"></translation>
+        <translation>Médecin exécutant</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="61"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="62"/>
         <source>Series #</source>
-        <translation>Séries #</translation>
+        <translation>Série #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
         <source>Series date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de la série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="64"/>
         <source>Series time</source>
-        <translation type="unfinished"></translation>
+        <translation>Heure de la série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="65"/>
         <source>Series description</source>
-        <translation type="unfinished"></translation>
+        <translation>Description de la série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="66"/>
         <source>Modality</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalité</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="67"/>
         <source>Body part</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie du corps</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="68"/>
@@ -2205,12 +2205,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="69"/>
         <source>Contrast agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Agent de contraste</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="70"/>
         <source>Scanning sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Séquence d&apos;analyse</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="71"/>
@@ -2220,22 +2220,22 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="72"/>
         <source>Temporal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Position temporaire</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="74"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="75"/>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>compter</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="76"/>
         <source>Number of frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de cadres</translation>
     </message>
 </context>
 <context>
@@ -2244,7 +2244,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="167"/>
         <source>Image %1</source>
         <extracomment>%1 is the image sequence number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Image %1</translation>
     </message>
 </context>
 <context>
@@ -4602,7 +4602,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
