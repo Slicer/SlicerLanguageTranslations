@@ -19,22 +19,22 @@
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>إجراء</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Shortcut(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>اختصار (اختصارات)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>سياق</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Details</source>
-        <translation type="unfinished">التفاصيل</translation>
+        <translation>التفاصيل</translation>
     </message>
 </context>
 <context>
@@ -42,7 +42,7 @@
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
         <source>Select items</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد العناصر</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="36"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
         <source>None</source>
-        <translation type="unfinished">لا شيء</translation>
+        <translation>لا شيء</translation>
     </message>
 </context>
 <context>
@@ -71,13 +71,14 @@
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="204"/>
         <source>Closing %1 running modules</source>
         <extracomment>%1 is the number of running modules</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق وحدات التشغيل %1</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="205"/>
         <source>Some modules are still running.
 Closing the application will cancel all current computations.</source>
-        <translation type="unfinished"></translation>
+        <translation>بعض الوحدات لا تزال قيد التشغيل.
+سيؤدي إغلاق التطبيق إلى إلغاء جميع الحسابات الحالية.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="291"/>
@@ -87,7 +88,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="443"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished">فشل أثناء التحقق من XML:</translation>
+        <translation>فشل أثناء التحقق من XML:</translation>
     </message>
 </context>
 <context>
@@ -95,12 +96,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="385"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>كل</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="390"/>
         <source>None</source>
-        <translation type="unfinished">لا شيء</translation>
+        <translation>لا شيء</translation>
     </message>
 </context>
 <context>
@@ -311,17 +312,17 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="14"/>
         <source>Progress</source>
-        <translation type="unfinished">تقدم</translation>
+        <translation>تقدم</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="51"/>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف مؤقت</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished">إلغاء</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="82"/>
@@ -334,7 +335,7 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="39"/>
         <source>Show XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار وصف XML</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="65"/>
@@ -352,25 +353,26 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="97"/>
         <source>Closing a running module</source>
-        <translation type="unfinished"></translation>
+        <translation>إغلاق وحدة قيد التشغيل</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="99"/>
         <source>The module &apos;%1&apos; is still running.
 Closing the tab will cancel the current computation.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الوحدة النمطية &quot;%1&quot; لا تزال قيد التشغيل.
+سيؤدي إغلاق علامة التبويب إلى إلغاء الحساب الحالي.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="112"/>
         <source>Closing not possible</source>
-        <translation type="unfinished"></translation>
+        <translation>الإغلاق غير ممكن</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="114"/>
         <source>The module &apos;%1&apos; is still running and does not support being canceled.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>لا تزال الوحدة النمطية &quot;%1&quot; قيد التشغيل ولا تدعم الإلغاء.</translation>
     </message>
 </context>
 <context>
@@ -378,30 +380,32 @@ Closing the tab will cancel the current computation.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="41"/>
         <source>Uncategorized</source>
-        <translation type="unfinished"></translation>
+        <translation>غير مصنف</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
         <source>Create Frontend</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء الواجهة الأمامية</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="275"/>
         <source>Frontend creation failed</source>
         <extracomment>%1 is the frontend factory name and %2 is the error description</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء الواجهة الأمامية</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="276"/>
         <source>Creating a %1 frontend failed:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء %1 الواجهة الأمامية:
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -416,7 +420,7 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished">فشل تسجيل الوحدة:
+        <translation>فشل تسجيل الوحدة:
 %1
 
 بسبب:
@@ -433,7 +437,7 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished">فشل تسجيل الوحدة:
+        <translation>فشل تسجيل الوحدة:
 %1
 
 بسبب خطأ في التحقق من صحة XML:
@@ -450,12 +454,18 @@ due to:
 %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تسجيل الوحدة النمطية:
+
+
+بسبب:
+%1
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished">فشل تسجيل الوحدات</translation>
+        <translation>فشل تسجيل الوحدات</translation>
     </message>
 </context>
 <context>
@@ -463,7 +473,7 @@ due to:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished">منتهى.</translation>
+        <translation>منتهى.</translation>
     </message>
 </context>
 <context>
@@ -484,7 +494,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished">أساسي</translation>
+        <translation>أساسي</translation>
     </message>
 </context>
 <context>
@@ -737,12 +747,12 @@ due to:
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
         <source>DICOM Browser</source>
         <oldsource>ctkDICOMBrowser</oldsource>
-        <translation type="unfinished">متصفح ctk DICOM</translation>
+        <translation>متصفح DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
         <source>DICOM Browser Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>شريط أدوات متصفح DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="69"/>
@@ -1172,17 +1182,17 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="64"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر التطبيق المستضاف</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="126"/>
         <source>Series selected: </source>
-        <translation type="unfinished"></translation>
+        <translation>السلسلة المختارة: </translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="136"/>
         <source>no series selected</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد أي سلسلة</translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1200,7 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="14"/>
         <source>DICOM Hosts</source>
-        <translation type="unfinished"></translation>
+        <translation>مضيفو DICOM</translation>
     </message>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="56"/>
@@ -1631,7 +1641,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMListenerWidget.ui" line="14"/>
         <source>DICOM Listener</source>
-        <translation type="unfinished"></translation>
+        <translation>مستمع DICOM</translation>
     </message>
 </context>
 <context>
@@ -1653,7 +1663,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="14"/>
         <source>DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>البيانات الوصفية DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
@@ -1907,7 +1917,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="14"/>
         <source>Query</source>
-        <translation type="unfinished">استعلام</translation>
+        <translation>استعلام</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
@@ -2067,7 +2077,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="20"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="59"/>
@@ -2090,7 +2100,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableView.ui" line="14"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableView.ui" line="50"/>
@@ -2101,174 +2111,174 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="40"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="48"/>
         <source>Patient name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المريض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="41"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>هوية المريض</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="42"/>
         <source>Birth date</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ الميلاد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="43"/>
         <source>Birth time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت الميلاد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="44"/>
         <source>Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>الجنس</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="45"/>
         <source>Age</source>
-        <translation type="unfinished">عمر</translation>
+        <translation>عمر</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="46"/>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>التعليقات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="47"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="60"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="73"/>
         <source>Date added</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ الإضافة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="49"/>
         <source>Studies</source>
-        <translation type="unfinished"></translation>
+        <translation>الدراسات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="50"/>
         <source>Last study date</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ آخر دراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="51"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>معرف الدراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="52"/>
         <source>Study date</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ الدراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="53"/>
         <source>Study time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت الدراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="54"/>
         <source>Study description</source>
-        <translation type="unfinished"></translation>
+        <translation>وصف الدراسة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="55"/>
         <source>Accession #</source>
-        <translation type="unfinished"></translation>
+        <translation>الانضمام #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="56"/>
         <source>Modalities</source>
-        <translation type="unfinished"></translation>
+        <translation>طرائق</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="57"/>
         <source>Institution</source>
-        <translation type="unfinished">المؤسسه</translation>
+        <translation>المؤسسه</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="58"/>
         <source>Referring physician</source>
-        <translation type="unfinished"></translation>
+        <translation>الطبيب المُحيل</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="59"/>
         <source>Performing physician</source>
-        <translation type="unfinished"></translation>
+        <translation>الطبيب المؤدي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="61"/>
         <source>Series</source>
-        <translation type="unfinished">سلسلة</translation>
+        <translation>سلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="62"/>
         <source>Series #</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
         <source>Series date</source>
-        <translation type="unfinished"></translation>
+        <translation>تاريخ السلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="64"/>
         <source>Series time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت السلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="65"/>
         <source>Series description</source>
-        <translation type="unfinished"></translation>
+        <translation>وصف السلسلة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="66"/>
         <source>Modality</source>
-        <translation type="unfinished">طريقه</translation>
+        <translation>طريقه</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="67"/>
         <source>Body part</source>
-        <translation type="unfinished"></translation>
+        <translation>جزء من الجسم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="68"/>
         <source>Acquisition #</source>
-        <translation type="unfinished"></translation>
+        <translation>اقتناء #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="69"/>
         <source>Contrast agent</source>
-        <translation type="unfinished"></translation>
+        <translation>عامل التباين</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="70"/>
         <source>Scanning sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>تسلسل المسح الضوئي</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="71"/>
         <source>Echo #</source>
-        <translation type="unfinished"></translation>
+        <translation>صدى صوت #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="72"/>
         <source>Temporal position</source>
-        <translation type="unfinished"></translation>
+        <translation>الموقف الزمني</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="74"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="75"/>
         <source>Count</source>
-        <translation type="unfinished"></translation>
+        <translation>عد</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="76"/>
         <source>Number of frames</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الإطارات</translation>
     </message>
 </context>
 <context>
@@ -2370,13 +2380,13 @@ Halting export.</source>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="32"/>
         <source>EventBus Demo</source>
         <oldsource>EventBus Demo App</oldsource>
-        <translation type="unfinished">التطبيق التجريبي لناقل الحدث</translation>
+        <translation>التطبيق التجريبي لناقل الحدث</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="64"/>
         <source>Connect</source>
         <oldsource>connect</oldsource>
-        <translation type="unfinished">اتصال</translation>
+        <translation>اتصال</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="73"/>
@@ -2391,7 +2401,7 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
         <source>Me: </source>
-        <translation type="unfinished"></translation>
+        <translation>أنا: </translation>
     </message>
 </context>
 <context>
@@ -2399,7 +2409,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="14"/>
         <source>Event Player</source>
-        <translation type="unfinished"></translation>
+        <translation>مشغل الحدث</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="23"/>
@@ -2508,17 +2518,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>مفتوح</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
         <source>Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>اختار</translation>
     </message>
 </context>
 <context>
@@ -2527,7 +2537,7 @@ Halting export.</source>
         <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
         <source>Loading %1 ... </source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>جاري التحميل %1 ... </translation>
     </message>
 </context>
 <context>
@@ -2553,7 +2563,7 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر التطبيق المستضاف</translation>
     </message>
 </context>
 <context>
@@ -2754,22 +2764,22 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
         <source>Full ambient eliminating all directional shading.</source>
-        <translation type="unfinished"></translation>
+        <translation>محيط كامل يلغي كل التظليل الاتجاهي.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="107"/>
         <source>Dull material properties (no specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص المواد الباهتة (لا توجد إضاءة باهرة).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
         <source>Smooth material properties (moderate specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص المواد الملساء (الإضاءة المرآوية المعتدلة).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
         <source>Shiny material properties (high specular lighting).</source>
-        <translation type="unfinished"></translation>
+        <translation>خصائص مادة لامعة (إضاءة عالية براق).</translation>
     </message>
 </context>
 <context>
@@ -3301,12 +3311,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="653"/>
         <source>Open a file</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ملف</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="669"/>
         <source>Select a directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد دليلا...</translation>
     </message>
 </context>
 <context>
@@ -3314,7 +3324,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="14"/>
         <source>Path list</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة المسار</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="23"/>
@@ -3418,67 +3428,67 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="52"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>المثبتة</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
         <source>Lazy Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل كسول</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
         <source>Resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>حل</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="55"/>
         <source>Started</source>
-        <translation type="unfinished"></translation>
+        <translation>بدأت</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"/>
         <source>Starting</source>
-        <translation type="unfinished">بدء</translation>
+        <translation>بدء</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="58"/>
         <source>Stopping</source>
-        <translation type="unfinished"></translation>
+        <translation>وقف</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="59"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>الغاء تثبيت</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="60"/>
         <source>Unresolved</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلقه</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="61"/>
         <source>Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>محدث</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"/>
         <source>Start Plugin (ignore activation policy)</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء البرنامج المساعد (تجاهل سياسة التنشيط)</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"/>
         <source>Start Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء البرنامج المساعد</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"/>
         <source>Stop Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف البرنامج المساعد</translation>
     </message>
 </context>
 <context>
@@ -3486,7 +3496,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="14"/>
         <source>Plugin Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>متصفح البرنامج المساعد</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
@@ -3516,7 +3526,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"/>
         <source>Link services</source>
-        <translation type="unfinished"></translation>
+        <translation>خدمات الربط</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"/>
@@ -3570,17 +3580,17 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
         <source>CTK Plugin Generator</source>
-        <translation type="unfinished">مولد البرنامج المساعد CTK</translation>
+        <translation>مولد البرنامج المساعد CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="54"/>
         <source>Enter the name of your organization:</source>
-        <translation type="unfinished">أدخل اسم مؤسستك:</translation>
+        <translation>أدخل اسم مؤسستك:</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="55"/>
         <source>&lt;your-organization&gt;</source>
-        <translation type="unfinished">&lt;مؤسستك&gt;</translation>
+        <translation>&lt;مؤسستك&gt;</translation>
     </message>
 </context>
 <context>
@@ -3588,7 +3598,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="14"/>
         <source>Plugin Generator</source>
-        <translation type="unfinished"></translation>
+        <translation>مولد البرنامج المساعد</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="32"/>
@@ -3778,77 +3788,77 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="14"/>
         <source>Manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>يظهر</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="29"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="36"/>
         <source>Symbolic Name</source>
-        <translation type="unfinished">الاسم الرمزي</translation>
+        <translation>الاسم الرمزي</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="43"/>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="53"/>
         <source>Vendor</source>
-        <translation type="unfinished">بائع</translation>
+        <translation>بائع</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="63"/>
         <source>License</source>
-        <translation type="unfinished">ترخيص</translation>
+        <translation>ترخيص</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="70"/>
         <source>Copyright</source>
-        <translation type="unfinished">حقوق النشر</translation>
+        <translation>حقوق النشر</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="93"/>
         <source>Activation Policy</source>
-        <translation type="unfinished">سياسة التفعيل</translation>
+        <translation>سياسة التفعيل</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="100"/>
         <source>Category</source>
-        <translation type="unfinished">فئة</translation>
+        <translation>فئة</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="107"/>
         <source>Contact Address</source>
-        <translation type="unfinished">عنوان الإتصال</translation>
+        <translation>عنوان الإتصال</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="114"/>
         <source>Description</source>
-        <translation type="unfinished">وصف</translation>
+        <translation>وصف</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="124"/>
         <source>Doc URL</source>
-        <translation type="unfinished">عنوان URL للمستند</translation>
+        <translation>عنوان URL للمستند</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="131"/>
         <source>Icon</source>
-        <translation type="unfinished">أيقونة</translation>
+        <translation>أيقونة</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="161"/>
         <source>Lazy</source>
-        <translation type="unfinished">كسول</translation>
+        <translation>كسول</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorManifestExtension.ui" line="166"/>
         <source>Eager</source>
-        <translation type="unfinished">مشتاق</translation>
+        <translation>مشتاق</translation>
     </message>
 </context>
 <context>
@@ -3856,7 +3866,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="14"/>
         <source>Options</source>
-        <translation type="unfinished">خيارات</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorOptionsDialog.ui" line="20"/>
@@ -3869,37 +3879,37 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="100"/>
         <source>UNINSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>الغاء تثبيت</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="101"/>
         <source>INSTALLED</source>
-        <translation type="unfinished"></translation>
+        <translation>المثبتة</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="102"/>
         <source>RESOLVED</source>
-        <translation type="unfinished"></translation>
+        <translation>تم الحل</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"/>
         <source>STARTING</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"/>
         <source>STOPPING</source>
-        <translation type="unfinished"></translation>
+        <translation>وقف</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="105"/>
         <source>ACTIVE</source>
-        <translation type="unfinished"></translation>
+        <translation>نشط</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="115"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>مجهول</translation>
     </message>
 </context>
 <context>
@@ -3907,47 +3917,47 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;CTK صورة بسيطة عارض القطعة&lt;/h1&gt; مساهمة من: Kitware, Inc.أوامر &lt;br&gt;&lt;h3&gt;لوحة المفاتيح&lt;/h3&gt;: &lt;em&gt;س&lt;/em&gt;: إنهاء &lt;em&gt;h&lt;/em&gt;: عرض هذه المساعدة &lt;em&gt;i&lt;/em&gt;: عكس الشدة &lt;em&gt;[ ]&lt;/em&gt;: زيادة / نقصان التكبير &lt;em&gt;X Y&lt;/em&gt;: الوجه على طول المحور x / y &lt;em&gt;r&lt;/em&gt;: إعادة التعيين إلى الشروط الأولية &lt;em&gt;مفتاح المسافة&lt;/em&gt;: تبديل التتبع المستمر للمؤشر سهم &lt;em&gt;لأعلى سهم لأسفل&lt;/em&gt;: التغيير إلى الشريحة التالية / السابقة&lt;h3&gt;أوامر الماوس&lt;/h3&gt;: &lt;em&gt;الزر الأيسر&lt;/em&gt;: النافذة والمستوى &lt;em&gt;الزر الأوسط&lt;/em&gt;: زر التكبير &lt;em&gt;الأيمن&lt;/em&gt; :مركز</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
         <source>Intensity Range = %1 .. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>نطاق الشدة = %1 .. %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1064"/>
         <source>W / L = %1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>W / L = %1 / %2</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1077"/>
         <source>Spacing = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>التباعد = %1، %2، %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1090"/>
         <source>Size = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم = %1، %2، %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1102"/>
         <source>RAS = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>أيمن-أمامي-متفوق = %1، %2، %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1115"/>
         <source>IJK = %1, %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>IJK = %1 ، %2 ، %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1127"/>
         <source>Value = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة = %1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1165"/>
         <source>No Image Loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحميل أي صورة.</translation>
     </message>
 </context>
 <context>
@@ -3955,7 +3965,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="14"/>
         <source>Qt Testing</source>
-        <translation type="unfinished"></translation>
+        <translation>اختبار Qt</translation>
     </message>
     <message>
         <location filename="Applications/ctkQtTesting/ctkQtTestingMainWindow.ui" line="105"/>
@@ -3973,7 +3983,7 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkRangeWidget.ui" line="20"/>
         <source>Select range</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد النطاق</translation>
     </message>
 </context>
 <context>
@@ -4077,32 +4087,32 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="67"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="172"/>
         <source>Height of widget: %1 is invalid. Check widget dimensions. Using default aspect ratio (1.0).</source>
-        <translation type="unfinished"></translation>
+        <translation>ارتفاع الأداة: %1 غير صالح. تحقق من أبعاد القطعة. باستخدام نسبة العرض إلى الارتفاع الافتراضية (1.0).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="175"/>
         <source>Invalid widget dimensions</source>
-        <translation type="unfinished"></translation>
+        <translation>أبعاد القطعة غير صالحة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="194"/>
         <source>Aspect ratio: %1 is invalid. Check widget dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبة العرض إلى الارتفاع: %1 غير صالحة. تحقق من أبعاد القطعة.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="196"/>
         <source>Invalid aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>نسبة العرض إلى الارتفاع غير صالحة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="396"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط الشاشة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkScreenshotDialog.cpp" line="397"/>
@@ -4158,26 +4168,30 @@ p, li { مسافة بيضاء: التفاف مسبق; }
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="300"/>
         <source>Restart required</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التشغيل مطلوبة</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="301"/>
         <source>For settings to be taken into account, the application
 must be restarted. Restart the application now ?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>لكي تؤخذ الإعدادات في الاعتبار ، التطبيق
+يجب إعادة تشغيله. أعد تشغيل التطبيق الآن؟
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="409"/>
         <source>Restore all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة جميع الإعدادات</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="410"/>
         <source>Are you sure you want to reset
 all settings to their default values?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد من أنك تريد إعادة تعيين
+جميع الإعدادات إلى قيمها الافتراضية؟
+</translation>
     </message>
 </context>
 <context>
@@ -4185,7 +4199,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkSliderWidget.ui" line="20"/>
         <source>Set value</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين القيمة</translation>
     </message>
 </context>
 <context>
@@ -4223,7 +4237,7 @@ all settings to their default values?
         <location filename="Libs/Widgets/Resources/UI/ctkThumbnailListWidget.ui" line="14"/>
         <source>Thumbnails</source>
         <oldsource>ThumbnailList</oldsource>
-        <translation type="unfinished">قائمة الصور المصغرة</translation>
+        <translation>قائمة الصور المصغرة</translation>
     </message>
 </context>
 <context>
@@ -4450,7 +4464,7 @@ Do you want to replace it ?</source>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="14"/>
         <source>Scalar bar properties</source>
         <oldsource>vtkScalarBarWidget</oldsource>
-        <translation type="unfinished">أداة شريط عددي vtk</translation>
+        <translation>خصائص الشريط العددي</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="23"/>
@@ -4698,17 +4712,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>رجوع</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>التالي</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"/>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>متناهي</translation>
     </message>
 </context>
 <context>
@@ -4885,17 +4899,17 @@ Do you want to restore the settings?</source>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="91"/>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="196"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>قطع اتصال</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="102"/>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>الخروج</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="103"/>
         <source>Connected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>متصل: %1</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="163"/>
@@ -4905,23 +4919,24 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>Session Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>مهلة الجلسة</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="198"/>
         <source>The session timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت مهلة الجلسة.</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="205"/>
         <source>Session Timeout Soon</source>
-        <translation type="unfinished"></translation>
+        <translation>مهلة الجلسة قريبا</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.cpp" line="206"/>
         <source>The session will time out in 1 minute.
 Do you want to renew the session?</source>
-        <translation type="unfinished"></translation>
+        <translation>ستنتهي مهلة الجلسة في 1 دقيقة.
+هل تريد تجديد الجلسة؟</translation>
     </message>
 </context>
 </TS>
