@@ -12477,7 +12477,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="229"/>
@@ -21476,7 +21476,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="72"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloner</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyCloneNodePlugin.cxx" line="74"/>
@@ -21497,27 +21497,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="102"/>
         <source>Create new subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau sujet</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="107"/>
         <source>Create child study</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une étude pour enfants</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="112"/>
         <source>Convert folder to subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir le dossier en sujet</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="117"/>
         <source>Convert folder to study</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir le dossier en étude</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="122"/>
         <source>Export to DICOM...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter vers DICOM...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="486"/>
@@ -21555,12 +21555,12 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="82"/>
         <source>Show all children</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher tous les enfants</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="85"/>
         <source>Hide all children</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer tous les enfants</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyDefaultPlugin.cxx" line="134"/>
@@ -21596,12 +21596,12 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="84"/>
         <source>Export to file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter vers le gestionnaire de fichier...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyExportPlugin.cxx" line="85"/>
         <source>Export this node to a file</source>
-        <translation type="unfinished"></translation>
+        <translation>exporter ce nœud vers un fichier</translation>
     </message>
 </context>
 <context>
@@ -21609,17 +21609,17 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="94"/>
         <source>Create new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau dossier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="99"/>
         <source>Create child folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un dossier pour enfant</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="104"/>
         <source>Apply color to all children</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer la couleur à tous les enfants</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="106"/>
@@ -21768,7 +21768,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="97"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Modifier les propriétés...</translation>
+        <translation>Editer les propriétés...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="263"/>
@@ -21785,7 +21785,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
         <source>Register this...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
