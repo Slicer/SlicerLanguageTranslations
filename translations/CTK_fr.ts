@@ -4501,32 +4501,32 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="23"/>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="33"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="43"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacité :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="63"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonte :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"/>
         <source>Arial</source>
-        <translation type="unfinished"></translation>
+        <translation>arial</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="76"/>
         <source>Courier</source>
-        <translation type="unfinished"></translation>
+        <translation>Courrier</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="81"/>
@@ -4536,27 +4536,27 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="89"/>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Style :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"/>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>gras</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"/>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>italique</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="110"/>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>ombre</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="117"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille :</translation>
     </message>
 </context>
 <context>
@@ -4564,12 +4564,12 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="14"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuil</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="26"/>
         <source>Threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuil :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
@@ -4582,22 +4582,22 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="14"/>
         <source>Volume property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriété de Volume</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"/>
         <source>Scalar Opacity Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappage d’opacité scalaire</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="51"/>
         <source>Scalar Color Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappage scalaire des couleurs</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"/>
         <source>Gradient Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacité graduelle</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
@@ -4607,27 +4607,27 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolation :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"/>
         <source>Nearest Neighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>Voisin le plus proche</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="114"/>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linéaire</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="122"/>
         <source>Shade:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombre :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="132"/>
         <source>Material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Matériel :</translation>
     </message>
 </context>
 <context>
@@ -4635,17 +4635,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="87"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Retour</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="89"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkWorkflowButtonBoxWidget.cpp" line="90"/>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminer</translation>
     </message>
 </context>
 <context>
