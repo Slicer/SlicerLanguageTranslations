@@ -555,7 +555,7 @@ due to:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation>لا يمكن قراءة الملف &apos;٪1&apos;.</translation>
+        <translation type="unfinished">لا يمكن قراءة الملف &apos;٪1&apos;.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
@@ -727,7 +727,7 @@ due to:
 %4 New Instances
 </source>
         <extracomment>Arguments represents the number of new patients, studies, series and instances</extracomment>
-        <translation>تم استكمال استيراد الدليل.
+        <translation type="unfinished">تم استكمال استيراد الدليل.
 
 ٪ 1 من المرضى الجدد
 ٪ 2 دراسات جديدة
@@ -901,20 +901,20 @@ due to:
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="584"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation>فشل إنشاء قاعدة بيانات جديدة في المجلد ٪1.</translation>
+        <translation type="unfinished">فشل إنشاء قاعدة بيانات جديدة في المجلد ٪1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="639"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="666"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation>لم يتم العثور على قاعدة بيانات DICOM صالحة في المجلد ٪1.</translation>
+        <translation type="unfinished">لم يتم العثور على قاعدة بيانات DICOM صالحة في المجلد ٪1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="686"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
-        <translation>تم العثور على إصدار قاعدة بيانات DICOM غير متوافق في المجلد ٪1.</translation>
+        <translation type="unfinished">تم العثور على إصدار قاعدة بيانات DICOM غير متوافق في المجلد ٪1.</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
@@ -934,7 +934,7 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation>لا تتوفر ملفات السلسلة التالية على القرص: 
+        <translation type="unfinished">لا تتوفر ملفات السلسلة التالية على القرص: 
 اسم المريض: ٪1
 وصف الدراسة: ٪2
 وصف السلسلة: ٪3
@@ -963,12 +963,12 @@ Do you want to remove the series from the DICOM database?</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1159"/>
         <source>View DICOM metadata of %1 selected patients</source>
-        <translation>عرض بيانات تعريف DICOM لـ٪ 1 من المرضى المحددين</translation>
+        <translation type="unfinished">عرض بيانات تعريف DICOM لـ٪ 1 من المرضى المحددين</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1167"/>
         <source>Delete %1 selected patients</source>
-        <translation>حذف ٪1 المرضى المختارين</translation>
+        <translation type="unfinished">حذف ٪1 المرضى المختارين</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1172"/>
@@ -980,7 +980,7 @@ Do you want to remove the series from the DICOM database?</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1175"/>
         <source>Export %1 selected patients to file system</source>
-        <translation>تصدير ٪1 المرضى المحددين إلى نظام الملفات</translation>
+        <translation type="unfinished">تصدير ٪1 المرضى المحددين إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
@@ -992,47 +992,47 @@ Do you want to remove the series from the DICOM database?</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1183"/>
         <source>Send %1 selected patients to DICOM server</source>
-        <translation>إرسال٪ 1 من المرضى المحددين إلى خادم DICOM</translation>
+        <translation type="unfinished">إرسال٪ 1 من المرضى المحددين إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1233"/>
         <source>View DICOM metadata of %1 selected studies</source>
-        <translation>عرض بيانات تعريف DICOM لـ٪ 1 دراسات محددة</translation>
+        <translation type="unfinished">عرض بيانات تعريف DICOM لـ٪ 1 دراسات محددة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1241"/>
         <source>Delete %1 selected studies</source>
-        <translation>حذف٪ 1 الدراسات المحددة</translation>
+        <translation type="unfinished">حذف٪ 1 الدراسات المحددة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1249"/>
         <source>Export %1 selected studies to file system</source>
-        <translation>تصدير٪ 1 دراسات محددة إلى نظام الملفات</translation>
+        <translation type="unfinished">تصدير٪ 1 دراسات محددة إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1257"/>
         <source>Send %1 selected studies to DICOM server</source>
-        <translation>إرسال ٪1 دراسات محددة إلى خادم DICOM</translation>
+        <translation type="unfinished">إرسال ٪1 دراسات محددة إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1311"/>
         <source>View DICOM metadata of %1 selected series</source>
-        <translation>عرض بيانات تعريف DICOM للسلسلة المحددة ٪1</translation>
+        <translation type="unfinished">عرض بيانات تعريف DICOM للسلسلة المحددة ٪1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1319"/>
         <source>Delete %1 selected series</source>
-        <translation>حذف ٪1 السلسلة المحددة</translation>
+        <translation type="unfinished">حذف ٪1 السلسلة المحددة</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1327"/>
         <source>Export %1 selected series to file system</source>
-        <translation>تصدير٪ 1 سلسلة محددة إلى نظام الملفات</translation>
+        <translation type="unfinished">تصدير٪ 1 سلسلة محددة إلى نظام الملفات</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1335"/>
         <source>Send %1 selected series to DICOM server</source>
-        <translation>إرسال٪ 1 مجموعة محددة إلى خادم DICOM</translation>
+        <translation type="unfinished">إرسال٪ 1 مجموعة محددة إلى خادم DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1419"/>
@@ -1042,7 +1042,7 @@ Do you want to remove the series from the DICOM database?</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination directory</extracomment>
-        <translation>تعذر إنشاء دليل وجهة التصدير:
+        <translation type="unfinished">تعذر إنشاء دليل وجهة التصدير:
 
 ٪ 1
 
@@ -1062,7 +1062,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1439"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
-        <translation>تصدير السلسلة ٪1</translation>
+        <translation type="unfinished">تصدير السلسلة ٪1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1456"/>
@@ -1074,7 +1074,7 @@ Halting export.
 
 Error may be fixed via Repair.</source>
         <extracomment>%1 is the file path</extracomment>
-        <translation>لم يتم العثور على ملف مصدر التصدير:
+        <translation type="unfinished">لم يتم العثور على ملف مصدر التصدير:
 
 ٪ 1
 
@@ -1090,7 +1090,7 @@ Error may be fixed via Repair.</source>
 
 Halting export.</source>
         <extracomment>%1 is the destination file name</extracomment>
-        <translation>ملف وجهة التصدير موجود بالفعل:
+        <translation type="unfinished">ملف وجهة التصدير موجود بالفعل:
 
 ٪ 1
 
@@ -1127,7 +1127,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1788"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
-        <translation>اكتمل الاستيراد: تمت إضافة٪ 1 مرضى ، و٪ 2 دراسات ، و٪ 3 سلسلة ، و٪ 4 حالات.</translation>
+        <translation type="unfinished">اكتمل الاستيراد: تمت إضافة٪ 1 مرضى ، و٪ 2 دراسات ، و٪ 3 سلسلة ، و٪ 4 حالات.</translation>
     </message>
 </context>
 <context>
@@ -1971,7 +1971,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="96"/>
         <source>Got STORE request for %1</source>
         <extracomment>%1 is an instance UID</extracomment>
-        <translation>حصلت على طلب تخزين ل ٪1</translation>
+        <translation type="unfinished">حصلت على طلب تخزين ل ٪1</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="123"/>
@@ -2287,7 +2287,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMThumbnailListWidget.cpp" line="167"/>
         <source>Image %1</source>
         <extracomment>%1 is the image sequence number</extracomment>
-        <translation>صورة ٪1</translation>
+        <translation type="unfinished">صورة ٪1</translation>
     </message>
 </context>
 <context>
@@ -2366,7 +2366,7 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="161"/>
         <source>Event notification for TOPIC: %1</source>
-        <translation>إعلام الحدث ل TOPIC: ٪1</translation>
+        <translation type="unfinished">إعلام الحدث ل TOPIC: ٪1</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
@@ -2576,22 +2576,22 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation>عنصر غير متوقع ٪1.</translation>
+        <translation type="unfinished">عنصر غير متوقع ٪1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation>نص غير متوقع ٪1.</translation>
+        <translation type="unfinished">نص غير متوقع ٪1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation>السمة المفقودة ٪1 في العلامة ٪2.</translation>
+        <translation type="unfinished">السمة المفقودة ٪1 في العلامة ٪2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
         <source>Object Class Definition ID not found %1.</source>
-        <translation>لم يتم العثور على معرف تعريف فئة الكائن ٪ 1.</translation>
+        <translation type="unfinished">لم يتم العثور على معرف تعريف فئة الكائن ٪ 1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
@@ -2601,12 +2601,12 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation>العنصر المفقود ٪1 (المعرف المرجعي = ٪2.)</translation>
+        <translation type="unfinished">العنصر المفقود ٪1 (المعرف المرجعي = ٪2.)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
         <source>Unexpected exception %1 with message %2.</source>
-        <translation>استثناء غير متوقع ٪1 مع الرسالة ٪2.</translation>
+        <translation type="unfinished">استثناء غير متوقع ٪1 مع الرسالة ٪2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="39"/>
@@ -2616,17 +2616,17 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="40"/>
         <source>Value %1 is out of range.</source>
-        <translation>القيمة ٪1 خارج النطاق.</translation>
+        <translation type="unfinished">القيمة ٪1 خارج النطاق.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="41"/>
         <source>Value %1 is out of Option.</source>
-        <translation>القيمة ٪1 خارج الخيار.</translation>
+        <translation type="unfinished">القيمة ٪1 خارج الخيار.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation>العثور على قيم كثيرة جدا في ٪1 عند توقع قيم ٪2.</translation>
+        <translation type="unfinished">العثور على قيم كثيرة جدا في ٪1 عند توقع قيم ٪2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
@@ -2641,22 +2641,22 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
         <source>Option value %1 is invalid because of %2.</source>
-        <translation>قيمة الخيار ٪1 غير صالحة بسبب ٪2.</translation>
+        <translation type="unfinished">قيمة الخيار ٪1 غير صالحة بسبب ٪2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="46"/>
         <source>Defaults value %1 is invalid because of %2.</source>
-        <translation>القيمة الافتراضية ٪1 غير صالحة بسبب ٪2.</translation>
+        <translation type="unfinished">القيمة الافتراضية ٪1 غير صالحة بسبب ٪2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="48"/>
         <source>Plugin(ID=&quot;%1&quot;, name=&quot;%2&quot;) has no MetaData file.</source>
-        <translation>المكون الإضافي (المعرف = &quot;٪ 1&quot; ، الاسم = &quot;٪ 2&quot;) لا يحتوي على ملف بيانات وصفية.</translation>
+        <translation type="unfinished">المكون الإضافي (المعرف = &quot;٪ 1&quot; ، الاسم = &quot;٪ 2&quot;) لا يحتوي على ملف بيانات وصفية.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="49"/>
         <source>OCD(ID=&quot;%1&quot;) cannot support this locale &quot;%2&quot;.</source>
-        <translation>OCD (المعرف = &quot;٪ 1&quot;) لا يمكن أن يعتمد هذا الموقع &quot;٪ 2&quot;.</translation>
+        <translation type="unfinished">OCD (المعرف = &quot;٪ 1&quot;) لا يمكن أن يعتمد هذا الموقع &quot;٪ 2&quot;.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
@@ -2666,7 +2666,7 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation>قدم المكون الإضافي ٪1 مع المعرف ٪2 ctkMetaTypeProvider بخاصية غير صالحة. الخاصية ٪3 بقيمة ٪4 لم تكن من النوع المتوقع (QString أو QStringList) وسيتم تجاهلها.</translation>
+        <translation type="unfinished">قدم المكون الإضافي ٪1 مع المعرف ٪2 ctkMetaTypeProvider بخاصية غير صالحة. الخاصية ٪3 بقيمة ٪4 لم تكن من النوع المتوقع (QString أو QStringList) وسيتم تجاهلها.</translation>
     </message>
 </context>
 <context>
@@ -2805,7 +2805,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="220"/>
         <source>Don&apos;t show this message again and always %1</source>
-        <translation>لا تظهر هذه الرسالة مرة أخرى ودائما ٪1</translation>
+        <translation type="unfinished">لا تظهر هذه الرسالة مرة أخرى ودائما ٪1</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="335"/>
@@ -3570,7 +3570,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="246"/>
         <source>Creating directory &quot;%1&quot; failed.</source>
-        <translation>فشل إنشاء الدليل &quot;٪1&quot;.</translation>
+        <translation type="unfinished">فشل إنشاء الدليل &quot;٪1&quot;.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="279"/>
@@ -3664,7 +3664,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="94"/>
         <source>Advanced (activator class: %1)</source>
-        <translation>متقدم (فئة المنشط: ٪1)</translation>
+        <translation type="unfinished">متقدم (فئة المنشط: ٪1)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.cpp" line="102"/>
@@ -4245,7 +4245,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="516"/>
         <source>FPS: %1(%2s)</source>
-        <translation>إطار في الثانية:٪ 1 (٪ 2 ثانية)</translation>
+        <translation>FPS: %1 (%2 ثانية)</translation>
     </message>
 </context>
 <context>
@@ -4452,7 +4452,7 @@ all settings to their default values?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation>حجم عرض العرض هو: العرض: ٪1 الارتفاع: ٪2 
+        <translation type="unfinished">حجم عرض العرض هو: العرض: ٪1 الارتفاع: ٪2 
 لكن الحجم كان العرض: ٪ 3 الارتفاع: ٪ 4 
 خلال السجل 
 هل تريد استبداله؟</translation>
