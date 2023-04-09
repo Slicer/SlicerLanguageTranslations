@@ -21614,7 +21614,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="99"/>
         <source>Create child folder</source>
-        <translation>Créer un dossier pour enfant</translation>
+        <translation>Créer un dossier enfant</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="104"/>
