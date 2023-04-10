@@ -1413,17 +1413,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="17"/>
+        <source>Angle Dimensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="35"/>
         <source>Angle Settings</source>
         <translation>Options d&apos;Angle</translation>
     </message>
     <message>
-        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="50"/>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="53"/>
         <source>Measurement mode:</source>
         <translation>Mode de mesurement :</translation>
     </message>
     <message>
-        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="60"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal : angle minimal non orienté, entre [0..180)&lt;br/&gt;- Orienté signé : angle orienté [-180..180), utilisant l&apos;axe de rotation dans la règle de droite&lt;br/&gt;- Orienté positif : angle orienté [0..360), utilisant l&apos;axe de rotation dans la règle de droite&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -1432,22 +1437,22 @@
         <translation type="vanished">Minimal</translation>
     </message>
     <message>
-        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="64"/>
         <source>Oriented signed</source>
         <translation>Orienté signé</translation>
     </message>
     <message>
-        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="69"/>
         <source>Oriented positive</source>
         <translation>Orienté positif</translation>
     </message>
     <message>
-        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="74"/>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="77"/>
         <source>Rotation axis:</source>
         <translation>Axe de rotation :</translation>
     </message>
     <message>
-        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="81"/>
+        <location filename="../../../Slicer/Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="84"/>
         <source>Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</source>
         <translation>Direction de l&apos;axe de rotation dans le système de coordonnées RAS. Utilisé pour définir la direction dans les modes d&apos;angle orientés à l&apos;aide de la règle de la main droite.</translation>
     </message>
