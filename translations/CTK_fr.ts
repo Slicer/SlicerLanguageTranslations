@@ -2843,122 +2843,122 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="43"/>
         <source>CT</source>
-        <translation type="unfinished"></translation>
+        <translation>TD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="50"/>
         <source>Magnetic Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Résonance magnétique</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="53"/>
         <source>MR</source>
-        <translation type="unfinished"></translation>
+        <translation>RM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="60"/>
         <source>Nuclear Medicine</source>
-        <translation type="unfinished"></translation>
+        <translation>Médecine nucléaire</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="63"/>
         <source>NM</source>
-        <translation type="unfinished"></translation>
+        <translation>MN</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="70"/>
         <source>Ultrasound</source>
-        <translation type="unfinished"></translation>
+        <translation>Echographie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="73"/>
         <source>US</source>
-        <translation type="unfinished"></translation>
+        <translation>Echographie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Autre</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="83"/>
         <source>OT</source>
-        <translation type="unfinished"></translation>
+        <translation>Other</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="90"/>
         <source>Biomagnetic imaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagerie biomagnétique</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="93"/>
         <source>BI</source>
-        <translation type="unfinished"></translation>
+        <translation>IB</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="100"/>
         <source>Color flow Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppler flux couleur</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="103"/>
         <source>CD</source>
-        <translation type="unfinished"></translation>
+        <translation>DC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="110"/>
         <source>Duplex Doppler</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppler duplex</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="113"/>
         <source>DD</source>
-        <translation type="unfinished"></translation>
+        <translation>DD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="120"/>
         <source>Diaphanography</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaphanographie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="123"/>
         <source>DG</source>
-        <translation type="unfinished"></translation>
+        <translation>DG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="130"/>
         <source>Endoscopy</source>
-        <translation type="unfinished"></translation>
+        <translation>Endoscopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="133"/>
         <source>ES</source>
-        <translation type="unfinished"></translation>
+        <translation>ES</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="140"/>
         <source>Laser surface scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Balayage de surface au laser</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="143"/>
         <source>LS</source>
-        <translation type="unfinished"></translation>
+        <translation>SL</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="150"/>
         <source>Positron emission tomography (PET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomographie par émission de positrons (TEP)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="153"/>
         <source>PT</source>
-        <translation type="unfinished"></translation>
+        <translation>TP</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="160"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagerie radiographique (film/écran conventionnel)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
