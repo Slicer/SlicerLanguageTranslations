@@ -2024,27 +2024,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="30"/>
         <source>Add Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un serveur</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="37"/>
         <source>Storage AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Stockage Titre AE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="47"/>
         <source>Storage Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port de stockage</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="57"/>
         <source>Remove Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le serveur</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="64"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Les serveurs</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="80"/>
