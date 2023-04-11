@@ -2054,22 +2054,22 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="85"/>
         <source>AETitle</source>
-        <translation type="unfinished"></translation>
+        <translation>Titre AE</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="90"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="95"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="100"/>
         <source>CGET</source>
-        <translation type="unfinished"></translation>
+        <translation>CGET</translation>
     </message>
 </context>
 <context>
@@ -2183,7 +2183,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="55"/>
         <source>Accession #</source>
-        <translation type="unfinished"></translation>
+        <translation>Accession #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="56"/>
@@ -2243,7 +2243,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="68"/>
         <source>Acquisition #</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquisition #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="69"/>
@@ -2258,7 +2258,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="71"/>
         <source>Echo #</source>
-        <translation type="unfinished"></translation>
+        <translation>Écho #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="72"/>
@@ -2295,37 +2295,37 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="20"/>
         <source>Date Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Plage de dates</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="29"/>
         <source>Any Date</source>
-        <translation type="unfinished"></translation>
+        <translation>N&apos;importe quelle date</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="36"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Aujourd&apos;hui</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="43"/>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="50"/>
         <source>Last Week</source>
-        <translation type="unfinished"></translation>
+        <translation>La semaine dernière</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="57"/>
         <source>Last Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Le mois dernier</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="64"/>
         <source>Select Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la plage</translation>
     </message>
 </context>
 <context>
@@ -2333,32 +2333,32 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="14"/>
         <source>Log messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages du journal</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="22"/>
         <source>&amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tout</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="32"/>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Les erreurs</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="42"/>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Avertissements</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="52"/>
         <source>&amp;Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Messages</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="69"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Clair</translation>
     </message>
 </context>
 <context>
@@ -2366,7 +2366,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="161"/>
         <source>Event notification for TOPIC: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Notification d&apos;événement pour SUJET&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
