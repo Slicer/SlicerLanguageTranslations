@@ -2586,7 +2586,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation>Attribut %1 manquant dans la balise %2.</translation>
+        <translation>Attribut manquant %1 dans la balise %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
