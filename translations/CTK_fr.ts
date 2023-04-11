@@ -2480,7 +2480,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="77"/>
         <source>Plugin Status:</source>
-        <translation>Statut du plug-in&#xa0;:</translation>
+        <translation>Statut du Plugin&#xa0;:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="90"/>
@@ -2495,7 +2495,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="110"/>
         <source>Not running</source>
-        <translation>Ne pas courir</translation>
+        <translation type="unfinished">Ne fonctionne pas</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="134"/>
@@ -2523,7 +2523,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation>D&apos;accord</translation>
+        <translation type="unfinished">Ok</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
@@ -2571,17 +2571,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="29"/>
         <source>CTK Metatype Service - CommonTK Implementation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Service de métatype CTK - Implémentation de CommonTK</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elément inattendu %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Texte inattendu %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
