@@ -6577,7 +6577,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشكيل الحجم القياسي / المتجه / حجم DWI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
@@ -6586,7 +6586,11 @@ a = تحويل أفين</translation>
 Warning: To resample DWMR Images, use nrrd input and output files. 
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation type="unfinished"></translation>
+        <translation>تنفذ هذه الوحدة إعادة تشكيل الصورة والصورة المتجهة من خلال استخدام تحويلات itk. يمكنه أيضا التعامل مع إعادة تشكيل صورة التصوير بالرنين المغناطيسي المرجحة بالانتشار. يتم تنفيذ &quot;إعادة التشكيل&quot; في إحداثيات الفضاء ، وليس إحداثيات البكسل / الشبكة. من المهم جدا التأكد من تعيين تباعد الصور بشكل صحيح على الصور المعنية. مطلوب الاستيفاء لأن رسم الخرائط من مساحة إلى أخرى سيتطلب غالبا تقييم كثافة الصورة في المواضع غير الشبكية. 
+
+تحذير: لإعادة تشكيل صور DWMR ، استخدم ملفات الإدخال والإخراج nrrd. 
+
+تحذير: لا تستخدم لإعادة تشكيل صور موتر الانتشار ، لن يتم إعادة توجيه الموترات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -6621,7 +6625,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
         <source>Input Volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال المراد إعادة تشكيله</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"/>
@@ -6656,7 +6660,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="19"/>
         <source>Displacement or H-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>الإزاحة أو الحقل h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
@@ -6666,7 +6670,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
         <source>Set if the deformation field is an h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين إذا كان حقل التشوه هو حقل h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
@@ -6682,7 +6686,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="25"/>
         <source>Interpolation Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الاستيفاء</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="26"/>
@@ -6692,7 +6696,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="27"/>
         <source>Sampling algorithm (linear or nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>خوارزمية أخذ العينات (خطي ، nn (أقرب جار) ، ws (نافذة سينك) ، bs (BSpline))</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="28"/>
@@ -6733,17 +6737,17 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="36"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished">ليس تحولا بالجملة</translation>
+        <translation>ليس تحولا بالجملة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished">عدم تناسق اتجاه الفضاء (بين التحويل والصورة)</translation>
+        <translation>عدم تناسق اتجاه الفضاء (بين التحويل والصورة)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished">حدد في أي ترتيب تتم قراءة التحويلات</translation>
+        <translation>حدد في أي ترتيب تتم قراءة التحويلات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
@@ -6769,12 +6773,12 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="44"/>
         <source>Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات جامدة / أفين</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="45"/>
         <source>Rotation Point</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة الدوران</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="46"/>
@@ -6789,17 +6793,17 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="48"/>
         <source>Inverse ITK Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل ITK العكسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="49"/>
         <source>Rotation Point in case of rotation around a point (otherwise useless)</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة الدوران في حالة الدوران حول نقطة (عديمة الفائدة بخلاف ذلك)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="50"/>
         <source>Set the center of the transformation to the center of the input image</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين مركز التحويل إلى مركز صورة الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="51"/>
@@ -6809,7 +6813,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="52"/>
         <source>Inverse the transformation before applying it from output image to input image</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس التحويل قبل تطبيقه من صورة الإخراج إلى صورة الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="53"/>
@@ -6845,7 +6849,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
         <source>Origin</source>
-        <translation type="unfinished">Origin</translation>
+        <translation>أصل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="61"/>
@@ -6885,7 +6889,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
         <source>Number Of Thread</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الخيوط</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"/>
@@ -6972,17 +6976,17 @@ b = Blackman</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
         <source>Manual Transform (Only used if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>التحويل اليدوي (يستخدم فقط في حالة عدم وجود مجموعة عقدة تحويل)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="87"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation>مصفوفة التحويل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="88"/>
         <source>Transform</source>
-        <translation type="unfinished">Transform</translation>
+        <translation>تحول</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
