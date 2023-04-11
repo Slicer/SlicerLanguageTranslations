@@ -2480,37 +2480,37 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="77"/>
         <source>Plugin Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut du plug-in&#xa0;:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="90"/>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="97"/>
         <source>Process Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut du processus&#xa0;:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="110"/>
         <source>Not running</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pas courir</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="134"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspendre</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="141"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
         <source>Show Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les messages</translation>
     </message>
 </context>
 <context>
@@ -2518,17 +2518,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="105"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>D&apos;accord</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
         <source>Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir</translation>
     </message>
 </context>
 <context>
@@ -2537,7 +2537,7 @@ Arrêt de l&apos;exportation.</translation>
         <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
         <source>Loading %1 ... </source>
         <extracomment>%1 is the filename</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chargement de %1... </translation>
     </message>
 </context>
 <context>
@@ -2545,12 +2545,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="40"/>
         <source>Show details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les détails...</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="41"/>
         <source>Hide details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher les détails.</translation>
     </message>
 </context>
 <context>
@@ -2558,12 +2558,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.ui" line="25"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkHostAppExampleWidget.cpp" line="66"/>
         <source>Choose hosted application</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez l&apos;application hébergée</translation>
     </message>
 </context>
 <context>
