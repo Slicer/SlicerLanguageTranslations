@@ -7404,22 +7404,22 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>اطرح الأحجام العددية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>يطرح صورتين. على الرغم من أن جميع أنواع الصور مدعومة عند الإدخال ، إلا أنه يتم إنتاج الأنواع الموقعة فقط. لا يجب أن يكون للصورتين نفس الأبعاد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
@@ -7454,7 +7454,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم 1 + حجم 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
@@ -7482,7 +7482,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة الحجم القياسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
