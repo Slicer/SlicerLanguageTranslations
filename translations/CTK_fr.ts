@@ -2661,12 +2661,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
         <source>The Tokenizer got invalid data.</source>
-        <translation>Le Tokenizer a obtenu des données non valides.</translation>
+        <translation>Le Tokenizer a obtenu des données invalides.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation>Le plug-in %1 avec l&apos;ID %2 a fourni un ctkMetaTypeProvider avec une propriété non valide. La propriété %3 avec la valeur %4 n&apos;était pas du type attendu (QString ou QStringList) et sera ignorée.</translation>
+        <translation>Le plugin %1 avec l&apos;ID %2 a fourni un ctkMetaTypeProvider avec une propriété invalide. La propriété %3 avec la valeur %4 n&apos;était pas du type attendu (QString ou QStringList) et sera ignorée.</translation>
     </message>
 </context>
 <context>
@@ -2709,7 +2709,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation>Pouvoir :</translation>
+        <translation type="unfinished">Puissance :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
