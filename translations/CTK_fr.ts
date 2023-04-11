@@ -2371,7 +2371,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
         <source>Server can not start. Create it first, then call startListen again!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Le serveur ne peut pas démarrer. Créez le d&apos;abord, puis appelez commence rÉcouter à nouveau ! !</translation>
     </message>
 </context>
 <context>
@@ -2380,28 +2380,28 @@ Arrêt de l&apos;exportation.</translation>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="32"/>
         <source>EventBus Demo</source>
         <oldsource>EventBus Demo App</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Démo du bus d&apos;événement</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="64"/>
         <source>Connect</source>
         <oldsource>connect</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Connecter</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="73"/>
         <source>Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Discuter :</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
         <source>Me: </source>
-        <translation type="unfinished"></translation>
+        <translation>Moi : </translation>
     </message>
 </context>
 <context>
@@ -2409,22 +2409,22 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="14"/>
         <source>Event Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Joueur d&apos;événement</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="23"/>
         <source>TestCase :</source>
-        <translation type="unfinished"></translation>
+        <translation>Cas de test :</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="49"/>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="Libs/QtTesting/Resources/UI/ctkEventTranslatorPlayerWidget.ui" line="56"/>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Relecture</translation>
     </message>
 </context>
 <context>
@@ -2437,7 +2437,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="23"/>
         <source>Load Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger les données</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="36"/>
@@ -2447,7 +2447,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="59"/>
         <source>Create Secondary Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une capture secondaire</translation>
     </message>
 </context>
 <context>
@@ -2455,17 +2455,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="25"/>
         <source>Application Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin d&apos;application&#xa0;:</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="32"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="56"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Commencer</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
@@ -2475,7 +2475,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="70"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrêt</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="77"/>
