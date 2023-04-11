@@ -7019,22 +7019,22 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="5"/>
         <source>Resample Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشكيل الحجم القياسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعد إعادة تشكيل الصورة مهمة في تحليل الصورة. من المهم بشكل خاص في إطار تسجيل الصور. تنفذ هذه الوحدة إعادة تشكيل الصورة من خلال استخدام تحويلات itk. تستخدم هذه الوحدة تحويل الهوية. يتم التحكم في إعادة التشكيل بواسطة تباعد الإخراج. يتم تنفيذ &quot;إعادة التشكيل&quot; في إحداثيات الفضاء ، وليس إحداثيات البكسل / الشبكة. من المهم جدا التأكد من تعيين تباعد الصور بشكل صحيح على الصور المعنية. مطلوب الاستيفاء لأن رسم الخرائط من مساحة إلى أخرى سيتطلب غالبا تقييم كثافة الصورة في المواضع غير الشبكية. تتوفر العديد من أجهزة الاستيفاء: خطي ، أقرب جار ، bspline وخمس نكهات من sinc. المحققون sinc ، على الرغم من أنه أكثر دقة ، إلا أنه أبطأ بكثير من الاستيفاء الخطي والأقرب المجاور. لإعادة تشكيل التسمية volumnes ، يجب استخدام أقرب استيفاء مجاور حصريا.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
         <source>Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات إعادة التشكيل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="9"/>
@@ -7059,7 +7059,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished"></translation>
+        <translation>خوارزمية أخذ العينات (خطي ، أقرب جار ، bspline (مكعب) أو نافذة sinc). هناك العديد من خوارزميات sinc المتاحة كما هو موضح في المنشور التالي: Erik H. W. Meijering ، Wiro J. Niessen ، Josien P. W. Pluim ، Max A. Viergever: مقارنة كمية لنواة sinc-diminated لاستيفاء الصور الطبية. MICCAI 1999 ، الصفحات 210-217. كل نافذة لها نصف قطر 3؛</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
@@ -7070,7 +7070,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
         <source>nearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>أقرب جار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"/>
@@ -7105,7 +7105,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="24"/>
@@ -7138,57 +7138,57 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"/>
         <source>Robust Statistics Segmenter</source>
-        <translation type="unfinished"></translation>
+        <translation>شريحة إحصائية قوية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"/>
         <source>Active contour segmentation using robust statistic.</source>
-        <translation type="unfinished"></translation>
+        <translation>تجزئة الكنتور النشطة باستخدام إحصائية قوية.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التجزئة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
         <source>Parameters for robust statistics segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات لتجزئة الإحصاءات القوية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
         <source>Approximate volume(mL)</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم التقريبي (مليلتر)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="11"/>
         <source>The approximate volume of the object, in mL.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم التقريبي للكائن ، بالمليلتر.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المساعدة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
         <source>Some auxiliary parameters to control the stop criteria.</source>
-        <translation type="unfinished"></translation>
+        <translation>بعض المعلمات المساعدة للتحكم في معايير الإيقاف.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="14"/>
         <source>Intensity Homogeneity[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>تجانس الشدة[0-1.0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="15"/>
         <source>Boundary Smoothness[0-1.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>نعومة الحدود [0-1.0]</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="16"/>
@@ -7198,32 +7198,32 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="17"/>
         <source>Max running time(min)</source>
-        <translation type="unfinished"></translation>
+        <translation>أقصى وقت تشغيل (دقيقة)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="18"/>
         <source>What is the homogeneity of intensity within the object? Given constant intensity at 1.0 score and extreme fluctuating intensity at 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>ما تجانس الشدة داخل الجسم؟ إعطاء شدة ثابتة عند 1.0 درجة وشدة متقلبة شديدة عند 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="19"/>
         <source>Given sphere 1.0 score and extreme rough boundary/surface 0 score, what is the expected smoothness of the object?</source>
-        <translation type="unfinished"></translation>
+        <translation>بالنظر إلى درجة الكرة 1.0 ودرجة الحد الخشن / السطح 0 ، ما هي النعومة المتوقعة للجسم؟</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="20"/>
         <source>Label value of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة تسمية الصورة الناتجة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="21"/>
         <source>The program will stop if this time is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتوقف البرنامج إذا تم الوصول إلى هذا الوقت.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="22"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="23"/>
@@ -7233,12 +7233,12 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="24"/>
         <source>Original Image</source>
-        <translation type="unfinished"></translation>
+        <translation>الصورة الأصلية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="25"/>
         <source>Label Image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة التسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="26"/>
@@ -7248,17 +7248,17 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="27"/>
         <source>Original image to be segmented</source>
-        <translation type="unfinished"></translation>
+        <translation>الصورة الأصلية المراد تجزئتها</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="28"/>
         <source>Label image for initialization</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة التسمية للتهيئة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="29"/>
         <source>Segmented image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة مجزأة</translation>
     </message>
 </context>
 <context>
@@ -7266,72 +7266,72 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"/>
         <source>Simple Region Growing Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>تجزئة المنطقة البسيطة المتنامية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation type="unfinished"></translation>
+        <translation>خوارزمية تجزئة بسيطة للمنطقة المتنامية بناء على إحصائيات الكثافة. لإنشاء قائمة من الإيمانيات (البذور) لهذه الخوارزمية ، انقر فوق رمز شريط الأدوات لسهم يشير إلى مجال إيماني للدخول إلى &quot;وضع كائن جديد&quot; ثم استخدم وحدة العلامات. تستخدم هذه الوحدة واجهة سطر الأوامر مقسم طريقة العرض (CLI) ومرشحات ITK مرشح صورة تدفق الانحناء و الوثوق بفلتر الصور المتصلة.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>تم اشتقاق وحدة الأوامر هذه من Insight / أمثلة (حقوق الطبع والنشر) اتحاد Insight للبرمجيات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
         <source>Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التنعيم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="9"/>
         <source>Parameters to denoise the image prior to segmenting</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات لإزالة الضوضاء من الصورة قبل التجزئة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
         <source>Smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>تجانس التكرارات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
         <source>Timestep</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوة الوقت</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
         <source>Number of smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد تكرارات التجانس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
         <source>Timestep for curvature flow</source>
-        <translation type="unfinished"></translation>
+        <translation>الخطوة الزمنية لتدفق الانحناء</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التجزئة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
         <source>Parameters to prescribe the region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات لوصف المنطقة المتنامية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
         <source>Number of iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التكرارات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
         <source>Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>مضاعف</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>نصف قطر الحي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
@@ -7341,37 +7341,37 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>بذار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
         <source>Number of iterations of region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التكرارات في المنطقة المتنامية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"/>
         <source>Number of standard deviations to include in intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الانحرافات المعيارية لتضمينها في نموذج الكثافة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished"></translation>
+        <translation>نصف قطر الحي الذي يتم حساب نموذج الشدة عليه</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة العدد الصحيح (0-255) لاستخدامها في نتائج التجزئة. سيحدد هذا لون التجزئة التي سيتم إنشاؤها بواسطة خوارزمية نمو المنطقة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
         <source>Seed point(s) for region growing</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة (نقاط) البذور لزراعة المنطقة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
@@ -7391,12 +7391,12 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال المراد تصفيته</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>الإخراج المصفى</translation>
     </message>
 </context>
 <context>
