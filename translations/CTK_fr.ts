@@ -2601,7 +2601,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
         <source>Missing element %1 (Reference ID = %2.)</source>
-        <translation>Élément manquant %1 (ID de référence = %2.)</translation>
+        <translation>Elément manquant %1 (ID de référence = %2.)</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="38"/>
@@ -2626,17 +2626,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation>Trop de valeurs trouvées dans %1 alors que %2 valeurs sont attendues.</translation>
+        <translation type="unfinished">Trop de valeurs ont été trouvées dans %1 alors qu&apos;elles étaient attendues dans %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
         <source>Cannot set Option labels or values empty.</source>
-        <translation>Impossible de définir des étiquettes ou des valeurs d&apos;option vides.</translation>
+        <translation type="unfinished">Impossible de définir des étiquettes ou des valeurs d&apos;option vides.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="44"/>
         <source>Labels and Values of Option have different sizes.</source>
-        <translation>Les étiquettes et les valeurs d&apos;option ont des tailles différentes.</translation>
+        <translation type="unfinished">Les étiquettes et les valeurs d&apos;option ont des tailles différentes.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
