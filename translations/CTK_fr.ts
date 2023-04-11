@@ -2371,7 +2371,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
         <source>Server can not start. Create it first, then call startListen again!!</source>
-        <translation>Le serveur ne peut pas démarrer. Créez le d&apos;abord, puis appelez commence rÉcouter à nouveau ! !</translation>
+        <translation>Le serveur ne peut pas démarrer. Créez le d&apos;abord, puis appelez startListen à nouveau !!</translation>
     </message>
 </context>
 <context>
@@ -2380,7 +2380,7 @@ Arrêt de l&apos;exportation.</translation>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="32"/>
         <source>EventBus Demo</source>
         <oldsource>EventBus Demo App</oldsource>
-        <translation>Démo du bus d&apos;événement</translation>
+        <translation>Démo d&apos;EventBus</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="64"/>
@@ -2401,7 +2401,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
         <source>Me: </source>
-        <translation>Moi : </translation>
+        <translation>Moi : </translation>
     </message>
 </context>
 <context>
