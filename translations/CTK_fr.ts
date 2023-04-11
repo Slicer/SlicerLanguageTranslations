@@ -2586,12 +2586,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
         <source>Missing attribute %1 in tag %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attribut %1 manquant dans la balise %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="34"/>
         <source>Object Class Definition ID not found %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de définition de classe d&apos;objet introuvable %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
