@@ -550,7 +550,7 @@ en raison de :
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
         <source>&amp;Run script from file</source>
-        <translation type="unfinished">&amp;Exécuter le script à partir du fichier</translation>
+        <translation>E&amp;xécuter le script à partir du fichier</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
