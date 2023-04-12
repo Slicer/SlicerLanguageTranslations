@@ -2450,27 +2450,27 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
         <source>CT</source>
-        <translation>CT (Tomodensitométrie)</translation>
+        <translation>TDM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"/>
         <source>MR</source>
-        <translation>MR (Résonance magnétique)</translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
         <source>NM</source>
-        <translation>NM (Médecine nucléaire)</translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
         <source>US</source>
-        <translation>US (échographie)</translation>
+        <translation>écho</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
         <source>CR</source>
-        <translation>CR (Radiographie informatisée)</translation>
+        <translation>CR (Radio)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
@@ -2541,82 +2541,82 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
         <source>HFS</source>
-        <translation>HFS (Tête première-couché)</translation>
+        <translation>HFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
         <source>HFP</source>
-        <translation>HFP (Tête première-incliné)</translation>
+        <translation>HFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"/>
         <source>HFDR</source>
-        <translation>HFDR (Tête en premier - décubitus droit)</translation>
+        <translation>HFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
         <source>HFDL</source>
-        <translation>HFDL (Tête en premier-décubitus gauche)</translation>
+        <translation>HFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
         <source>FFDR</source>
-        <translation>FFDR (Pieds en premier - décubitus droit)</translation>
+        <translation>FFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
         <source>FFDL</source>
-        <translation>FFDL (Pieds en premier-décubitus gauche)</translation>
+        <translation>FFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
         <source>FFP</source>
-        <translation>FFP (Pieds en premier - incliné)</translation>
+        <translation>FFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"/>
         <source>FFS</source>
-        <translation>FFS (Pieds d&apos;abord en décubitus dorsal)</translation>
+        <translation>FFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"/>
         <source>LFP</source>
-        <translation>LFP (Premier sujet gauche)</translation>
+        <translation>LFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"/>
         <source>LFS</source>
-        <translation>LFS (Première gauche en décubitus dorsal)</translation>
+        <translation>LFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
         <source>RFP</source>
-        <translation>RFP (Droite en premier - incliné)</translation>
+        <translation>RFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
         <source>RFS</source>
-        <translation>RFS (Droite d&apos;abord en décubitus dorsal)</translation>
+        <translation>RFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"/>
         <source>AFDR</source>
-        <translation>AFDR (Premier décubitus antérieur droit)</translation>
+        <translation>AFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"/>
         <source>AFDL</source>
-        <translation>AFDL (Premier décubitus antérieur gauche)</translation>
+        <translation>AFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"/>
         <source>PFDR</source>
-        <translation>PFDR (Premier décubitus postérieur droit)</translation>
+        <translation>PFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
         <source>PFDL</source>
-        <translation>PFDL (Premier décubitus postérieur gauche)</translation>
+        <translation>PFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
