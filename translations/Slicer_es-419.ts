@@ -8193,22 +8193,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
         <source>DICOM networking</source>
-        <translation>Conectividad DICOM</translation>
+        <translation>Conexión a red DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="119"/>
         <source>Pull data from remote server:</source>
-        <translation>Extraer datos desde un servidor remoto:</translation>
+        <translation>Extraer datos del servidor remoto:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="126"/>
         <source>Query and retrieve DICOM data sets from remote server</source>
-        <translation type="unfinished">Query and retrieve DICOM data sets from remote server</translation>
+        <translation>Consulta y recuperación de datos DICOM desde el servidor remoto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="129"/>
         <source>Query and retrieve</source>
-        <translation type="unfinished">Query and retrieve</translation>
+        <translation>Consulta y recuperación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
@@ -8233,47 +8233,47 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
         <source>DICOM database settings</source>
-        <translation type="unfinished">DICOM database settings</translation>
+        <translation>Configuración de la base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
         <source>Database location:</source>
-        <translation type="unfinished">Database location:</translation>
+        <translation>Ubicación de la base de datos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
         <source>Auto-hide browser window:</source>
-        <translation type="unfinished">Auto-hide browser window:</translation>
+        <translation>Ocultar automáticamente la ventana de búsqueda:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="236"/>
         <source>Maintenance:</source>
-        <translation type="unfinished">Maintenance:</translation>
+        <translation>Mantenimiento:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
         <source>Hide DICOM database browser after data loaded</source>
-        <translation type="unfinished">Hide DICOM database browser after data loaded</translation>
+        <translation>Ocultar el navegador de bases de datos DICOM después de cargar los datos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
         <source>Remove all items from the DICOM database if referenced DICOM file is not found on disk.</source>
-        <translation type="unfinished">Remove all items from the DICOM database if referenced DICOM file is not found on disk.</translation>
+        <translation>Eliminar todos los elementos de la base de datos DICOM si el archivo DICOM de referencia no se encuentra en el disco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="256"/>
         <source>Remove unavailable data sets</source>
-        <translation type="unfinished">Remove unavailable data sets</translation>
+        <translation>Eliminar conjuntos de datos no disponibles</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="263"/>
         <source>Removes all data from the database and all files that were copied into the database during import.</source>
-        <translation type="unfinished">Removes all data from the database and all files that were copied into the database during import.</translation>
+        <translation>Elimina toda la información de la base de datos y todos los archivos que se copiaron a la base de datos al importarse.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="266"/>
         <source>Remove all data sets</source>
-        <translation type="unfinished">Remove all data sets</translation>
+        <translation>Eliminar todos los conjuntos de datos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="276"/>
