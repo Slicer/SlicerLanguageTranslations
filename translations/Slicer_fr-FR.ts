@@ -10458,7 +10458,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="56"/>
         <source>Color Table:</source>
-        <translation>Table de Correspondance :</translation>
+        <translation>Tableau des couleurs :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="66"/>
