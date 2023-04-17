@@ -7150,7 +7150,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="5"/>
         <source>Robust Statistics Segmenter</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmenteur de statistiques robuste</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="6"/>
@@ -7165,12 +7165,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de Segmentation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="9"/>
         <source>Parameters for robust statistics segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de Segmentation des statistiques robustes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="10"/>
@@ -7185,7 +7185,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="12"/>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres auxiliaires</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="13"/>
