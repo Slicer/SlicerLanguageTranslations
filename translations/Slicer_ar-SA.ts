@@ -4363,7 +4363,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"/>
         <source>Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation>مطابقة الرسم البياني</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"/>
@@ -4374,17 +4374,23 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished"></translation>
+        <translation>يطابق قيم التدرج الرمادي لصورة مصدر بناءً على قيم التدرج الرمادي لصورة مرجعية. يستخدم هذا المرشح تقنية مطابقة الرسم البياني حيث يتم مطابقة الرسوم البيانية للصورتين فقط مع عدد محدد من القيم الكمية.
+
+تم تصميم المرشح في الأصل لتطبيع صور MR لبروتوكول نفس MR ونفس جزء الجسم. تعمل الخوارزمية بشكل أفضل إذا تم استبعاد وحدات البكسل في الخلفية من كل من الرسوم البيانية للمصدر والمرجع. تتمثل إحدى طرق استبعاد الخلفية البسيطة في استبعاد كل وحدات البكسل التي تكون قيم التدرج الرمادي الخاصة بها أصغر من متوسط قيمة التدرج الرمادي. يقوم الحد عند متوسط الشدة بتبديل طريقة استبعاد الخلفية البسيطة هذه.
+
+ يتحكم عدد نقاط المطابقة في عدد القيم الكمية المراد مطابقتها.
+
+يفترض المرشح أن كلاً من المصدر والمرجع من نفس النوع وأن نوع صورة الإدخال والإخراج لهما نفس عدد الأبعاد وأنواع البكسل القياسي.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات مطابقة الرسم البياني</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
