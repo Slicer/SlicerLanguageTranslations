@@ -19304,12 +19304,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="648"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Choisir un format</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="674"/>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier de sortie</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="725"/>
@@ -19329,7 +19329,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="862"/>
         <source>Cannot write data file: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d’écrire le fichier de données : %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="867"/>
@@ -19368,7 +19368,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="38"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Préréglages :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="56"/>
@@ -19378,7 +19378,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="63"/>
         <source>Select the color mapping for scalar volumes to colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la palette de couleurs pour les volumes scalaires à colorier.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="79"/>
@@ -19388,12 +19388,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsque cette option est cochée, les vues en coupe affichent des coupes interpolées linéairement à travers les volumes d&apos;entrée. Si la case n&apos;est pas cochée, le rééchantillonnage se fait selon le principe du plus proche voisin.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
         <source>Shows the number of pixels (y axis) vs the image intensity (x axis) over a background of the current window/level and threshold mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Affiche le nombre de pixels (axe y) par rapport à l&apos;intensité de l&apos;image (axe x) sur un fond de fenêtre/niveau et de cartographie de seuil actuels.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
@@ -19406,12 +19406,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="59"/>
         <source>MRB Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ensemble de données Slicer MRB</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerSceneBundleReader.cxx" line="98"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Données de réalité médicale</translation>
     </message>
 </context>
 <context>
@@ -19483,7 +19483,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="115"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Miniature</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
@@ -19576,7 +19576,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1229"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si cette case est cochée, la position du clic définit le centre du cercle ou du rectangle, sinon la position du clic est à la limite de la forme.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
@@ -19636,7 +19636,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1274"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Appliquer aux segments visibles :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
