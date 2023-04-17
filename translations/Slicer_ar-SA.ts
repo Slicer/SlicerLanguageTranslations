@@ -4093,7 +4093,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
@@ -4536,92 +4536,92 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"/>
         <source>Label Map Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>تجانس خريطة التسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>يعمل هذا المرشح على تنعيم خريطة التسمية الثنائية. باستخدام خريطة التسمية كمدخلات ، يقوم هذا المرشح بتشغيل خوارزمية مضادة للتحذير متبوعة بخوارزمية تجانس غاوسي. الإخراج عبارة عن خريطة تسمية متجانسة.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149. يعتمد هذا المرشح على العمل الذي تم تطويره في جامعة يوتا ، وتم تنفيذه في GE Research.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
         <source>Label Selection Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات تحديد التسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
         <source>Parameters for selecting the label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات لاختيار التسمية لتنعيم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
         <source>Label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمية على نحو ناعم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>التسمية على نحو ناعم.  سيتم تجاهل جميع الآخرين.  إذا لم يتم تحديد أي تسمية من قبل المستخدم، يتم اختيار الحد الأقصى للتسمية في الصورة افتراضيا.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
         <source>AntiAliasing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات إزالة التسنن</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات خوارزمية إزالة التسنن</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
         <source>Number of Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التكرارات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"/>
         <source>Maximum RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لخطأ RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد التكرارات لخوارزمية إزالة التسنن المحددة للمستوى</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى لخطأ RMS.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
         <source>Gaussian Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التنعيم الغاوسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"/>
         <source>Parameters for Gaussian Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التنعيم الغاوسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>سيجما</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"/>
         <source>The standard deviation of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>الانحراف المعياري لنواة غاوسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
@@ -4641,12 +4641,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
         <source>Input label map to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال خريطة التسمية لتنعيم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"/>
         <source>Smoothed label map</source>
-        <translation type="unfinished"></translation>
+        <translation>خريطة تسمية ناعمة</translation>
     </message>
 </context>
 <context>
@@ -4810,57 +4810,57 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="4"/>
         <source>Merge Models</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج النماذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
         <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
-        <translation type="unfinished"></translation>
+        <translation>دمج متعدد البيانات من نموذجين إدخال وإخراج نموذج جديد مع متعدد البيانات المدمجة. يستخدم عامل التصفية vtk إلحاق بيانات متعددة. يعمل على الملفات السطحية .vtp و. vtk.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
         <source>Model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"/>
         <source>Model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
         <source>Input model 1</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإدخال 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
         <source>Input model 2</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإدخال 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإخراج</translation>
     </message>
 </context>
 <context>
@@ -4868,22 +4868,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
         <source>Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation>صانع النموذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء نماذج سطح 3D من البيانات المجزأة. &lt;p&gt;يتم استيراد النماذج إلى Slicer ضمن عقدة تسلسل هرمي للنموذج في مشهد MRML. يتم ضبط ألوان النموذج بواسطة جدول الألوان المرتبط بمستوى صوت الإدخال (ستكون هذه الألوان مرئية فقط إذا قمت بتحميل ملف مشهد النموذج).&lt;/p&gt; &lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;حدد وحدة تخزين &lt;p&gt;إدخال عبارة عن &lt;i&gt;وحدة تخزين&lt;/i&gt; خريطة تسمية مجزأة. قم بإنشاء تسلسل هرمي &lt;i&gt;جديد للنماذج&lt;/i&gt; لتوفير بنية تحتوي على نماذج الإرجاع التي تم إنشاؤها من وحدة تخزين الإدخال.&lt;/p&gt; &lt;p&gt;&lt;b&gt;إنشاء متعدد:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;إذا حددت قائمة من &lt;i&gt;التسميات&lt;/i&gt; ، تجاوزها في أي إعدادات تسمية بداية / نهاية.&lt;/p&gt; &lt;p&gt;إذا قمت بالنقر فوق &lt;i&gt;إنشاء الكل&lt;/i&gt; ، تجاوز قائمة التسميات وأي إعدادات تسمية بداية / نهاية.&lt;/p&gt; &lt;p&gt;&lt;b&gt;معلمات صانع النموذج:&lt;/b&gt;&lt;/p&gt; &lt;p&gt;يمكنك تعيين عدد تكرارات التجانس ، وتقليل الهدف في عدد المضلعات (النسبة المئوية العشرية). استخدم 0 و 1 إذا كنت لا ترغب في التنعيم أو الهلاك. &lt;br&gt;يمكنك تعيين العلامات لتقسيم القيم العادية أو إنشاء نقاط عادية في هذا الجزء أيضا. &lt;br&gt;يمكنك حفظ نسخة من النماذج بعد الخطوات الوسيطة (مكعبات المسيرة ، والتنعيم ، والتدمير إن لم يكن تجانس المفاصل ، وإلا بعد الهلاك مباشرة) ؛ لا يتم حفظ هذه النماذج في ملف mrml ، قم بإيقاف تشغيل حذف الملفات المؤقتة أولا في نافذة python:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic(). إيقاف حذف الملفات المؤقتة()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
@@ -4903,27 +4903,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished"></translation>
+        <translation>خريطة تسمية الإدخال. يتم ملء القائمة المنسدلة حجم الإدخال بوحدات تخزين خريطة التسمية الموجودة في المشهد ، حدد واحدة لإنشاء نماذج منها.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول ألوان لعمل تسميات للألوان والكائنات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>النماذج التي تم إنشاؤها، ضمن عقدة التسلسل الهرمي للنموذج. يتم استيراد النماذج إلى مقسم طريقة العرض تحت عقدة تسلسل هيكلي للنموذج، ويتم تعيين ألوانها بواسطة جدول الألوان المقترن بوحدة تخزين خريطة تسمية الإدخال. يجب إنشاء عقدة التدرج الهرمي للنموذج قبل تشغيل صانع النموذج، عن طريق تحديد إنشاء تسلسل هرمي جديد للنموذج من القائمة المنسدلة النماذج. إذا كنت تعمل من سطر الأوامر، إنشاء عقدة تسلسل هرمي للنموذج في مشهد mrml جديد لك.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
         <source>Create Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء متعددة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء أكثر من نموذج واحد في نفس الوقت، يستخدم لنطاقات مستمرة من التسميات.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
@@ -4933,22 +4933,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
         <source>Generate All Models</source>
-        <translation type="unfinished"></translation>
+        <translation>توليد جميع النماذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم لاستخدامه لهذا النموذج. أي نص يتم إدخاله في مربع الإدخال سيكون سلسلة البداية لأسماء ملفات النموذج التي تم إنشاؤها. سيكون رقم التسمية واسم اللون أيضا جزءا من اسم الملف. في حالة إنشاء نماذج متعددة ، استخدم هذا كبادئة للتسمية واسم اللون.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء نماذج لجميع التسميات في وحدة تخزين الإدخال. حدد هذا الخيار إذا كنت تريد إنشاء كل النماذج التي تتوافق مع كل القيم في وحدة تخزين خريطة التسمية (استخدام خيار تجانس المفصل أدناه مفيد مع هذا الخيار). يتجاهل التسميات وتسمية البدء وإعدادات تسمية النهاية. يتخطى التسمية 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
         <source>Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات صانع النموذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
@@ -4958,27 +4958,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
         <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>تسميات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
         <source>Start Label</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء التسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
         <source>End Label</source>
-        <translation type="unfinished"></translation>
+        <translation>نهاية التسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي التسميات غير المسماة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
         <source>Joint Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation>تنعيم المفاصل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
@@ -4988,7 +4988,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
         <source>Filter Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع عامل التصفية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
@@ -4998,83 +4998,83 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
         <source>Split Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>تقسيم الطبيعيات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
         <source>Point Normals</source>
-        <translation type="unfinished"></translation>
+        <translation>نقطة عادية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>ضمادة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة مفصولة بفواصل لقيم التسمية التي يمكن من خلالها إنشاء النماذج. إذا قمت بتحديد قائمة من التسميات ، فسوف تتجاوز أي إعدادات تسمية البداية / النهاية. إذا قمت بالنقر فوق إنشاء جميع النماذج ، تجاوز قائمة التسميات وأي إعدادات تسمية بداية / نهاية.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كنت تريد تحديد نطاق مستمر من التسميات التي يمكن من خلالها إنشاء النماذج، فأدخل التسمية السفلية هنا. قيمة Voxel التي يمكن من خلالها البدء في صنع النماذج. يستخدم بدلا من قائمة الملصقات لتحديد نطاق (تأكد من أن قائمة الملصقات فارغة أو أنها ستتجاوز هذا).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كنت تريد تحديد نطاق مستمر من التسميات التي يمكن من خلالها إنشاء النماذج، فأدخل التسمية الأعلى هنا. قيمة Voxel تصل إلى الاستمرار في صنع النماذج. تخطي أي قيم مع صفر فوكسل.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد هذا الخيار لعدم إنشاء نماذج من التسميات التي ليس لها أسماء محددة في جدول البحث عن اللون المرتبط بخريطة تسمية الإدخال. إذا كان هذا صحيحا ، إنشاء النماذج التي لها إدخال في جدول الألوان فقط.  إذا كان خطأ، فقم بإنشاء جميع النماذج الموجودة ضمن نطاق التسمية.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيضمن ذلك توافق جميع النماذج الناتجة معًا بسلاسة ، مثل قطع أحجية الصور المقطوعة. وإلا فسيتم تنعيم النماذج بشكل مستقل وقد تتداخل.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished"></translation>
+        <translation>هنا يمكنك تعيين عدد مرات التكرار لتنعيم Laplacian ، أو درجة تقريب كثير الحدود لدالة Sinc ذات الإطارات. استخدم 0 إذا كنت لا ترغب في أي تجانس. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك التحكم في نوع التنعيم الذي تم إجراؤه على النماذج عن طريق تحديد نوع مرشح إما Sinc أو Laplacian.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر التخفيض المستهدف في عدد المضلعات كنسبة مئوية عشرية (بين 0 و 1) من عدد المضلعات. يحدد النسبة المئوية للمثلثات المراد إزالتها. على سبيل المثال ، 0.1 يعني تخفيض بنسبة 10٪ و 0.9 يعني تخفيض بنسبة 90٪.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>يعد تقسيم العناصر العادية مفيدا لتصور الميزات الحادة. ومع ذلك فإنه يخلق ثقوبا في الأسطح مما يؤثر على القياسات.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتشغيل هذه العلامة إذا كنت ترغب في حساب المتجهات العادية للنقاط.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>وسادة حجم الإدخال مع voxels قيمة صفرية على جميع الوجوه 6 من أجل ضمان إنتاج الأسطح المغلقة. يضبط ترجمة الأصل وترجمة المدى بحيث تظل النماذج متماشية مع وحدة تخزين الإدخال غير المبطنة.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
         <source>Laplacian</source>
-        <translation type="unfinished"></translation>
+        <translation>Laplacian</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
@@ -5085,27 +5085,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
         <source>Color Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>التسلسل الهرمي للألوان</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
         <source>Save Intermediate Models</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ النماذج الوسيطة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف mrml يحتوي على شجرة تسلسل هرمي لنموذج قالب مع عقدة تسلسل هرمي لكل لون مستخدم في جدول ألوان وحدة تخزين الإدخال. تتم مطابقة أسماء الألوان المستخدمة للنماذج مع أسماء التسلسل الهرمي للقالب لإنشاء شجرة مخرجات متعددة المستويات. قم بإنشاء تسلسل هرمي في واجهة المستخدم الرسومية للنماذج واحفظ مشهدا ، ثم قم بتنظيفه لإزالة كل شيء باستثناء التسلسل الهرمي للنموذج وعقد العرض.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك حفظ نسخة من النماذج بعد كل خطوة من الخطوات الوسيطة (مكعبات المسيرة ، والتنعيم ، والتدمير إن لم يكن تجانس المفاصل ، وإلا بعد التدمير مباشرة). لا يتم حفظ هذه النماذج الوسيطة في ملف mrml ، يجب عليك تحميلها يدويا بعد إيقاف تشغيل حذف الملفات المؤقتة في وحدة تحكم python (عرض -&gt;Python Interactor) باستخدام الأمر التالي slicer.modules.modelmaker.cliModuleLogic (). إيقاف حذف الملفات المؤقتة ().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتشغيل هذه العلامة لرؤية إخراج التصحيح (انظر في نافذة سجل الأخطاء التي يتم الوصول إليها عبر قائمة العرض)</translation>
     </message>
 </context>
 <context>
@@ -5113,47 +5113,47 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
         <source>Model To LabelMap</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج إلى خريطة التسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتقاطع مع نموذج إدخال مع وحدة تخزين مرجعية وينتج خريطة تسمية مخرجات، ويملأ voxels داخل النموذج بقيمة التسمية المحددة.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"/>
         <source>Parameter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات المعلمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة التسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة تسمية الحرف غير الموقعة لاستخدامها في خريطة تسمية الإخراج.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
@@ -5173,17 +5173,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
         <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيكون لحجم الإخراج نفس الأصل والتباعد واتجاهات المحور والمدى مثل هذا الحجم.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
         <source>Unsigned char label map volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم خريطة تسمية حرف غير موقعة</translation>
     </message>
 </context>
 <context>
@@ -8895,7 +8895,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="196"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="211"/>
@@ -9011,7 +9011,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="116"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
@@ -12251,7 +12251,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="741"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="904"/>
@@ -15147,7 +15147,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="295"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
@@ -17927,7 +17927,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="886"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="615"/>
@@ -20169,7 +20169,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="268"/>
         <source>Advanced</source>
-        <translation type="unfinished">Advanced</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="283"/>
