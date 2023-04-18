@@ -10586,7 +10586,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
         <source>Full layout</source>
-        <translation>Toutes les vues</translation>
+        <translation>Mise en page compléte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
@@ -10681,7 +10681,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="65"/>
         <source>Specify geometry of the edited labelmap representation</source>
-        <translation>Spécifier la géométrie de la représentation labelmap modifiée</translation>
+        <translation>Spécifier la géométrie de la représentation modifiée de la carte d&apos;étiquettes modifiée</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentEditorWidget.ui" line="90"/>
@@ -10841,7 +10841,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="418"/>
         <source>Export to files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter vers les fichiers ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1374"/>
@@ -11410,7 +11410,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="129"/>
         <source>Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Couche</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
@@ -19693,7 +19693,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="47"/>
         <source>Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</source>
-        <translation type="unfinished">Node that was used for setting the segmentation geometry (origin, spacing, axis directions, and default extent)</translation>
+        <translation>Nœud utilisé pour définir la géométrie de segmentation (origine, espacement, directions de l’axe et étendue par défaut)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="50"/>
@@ -19723,7 +19723,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="135"/>
         <source>Go to Segment Editor module</source>
-        <translation type="unfinished"></translation>
+        <translation>Aller dans le module Editeur de segments</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="138"/>
@@ -19743,7 +19743,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="194"/>
         <source>List of representations to see available and existing ones, and creating or updating them</source>
-        <translation type="unfinished">List of representations to see available and existing ones, and creating or updating them</translation>
+        <translation>Liste des représentations pour voir celles disponibles et existantes, et les créer ou les mettre à jour</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="197"/>
@@ -19763,7 +19763,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="307"/>
         <source>Move from current segmentation to other Segmentation node</source>
-        <translation type="unfinished">Move from current segmentation to other Segmentation node</translation>
+        <translation>Passer à la segmentation actuelle à partir d&apos;un autre nœud de segmentation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="310"/>
@@ -19793,7 +19793,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
         <source>Move to current segmentation from other Segmentation node</source>
-        <translation type="unfinished">Move to current segmentation from other Segmentation node</translation>
+        <translation>Passer à la segmentation actuelle à partir d&apos;un autre nœud de segmentation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
@@ -19818,7 +19818,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="505"/>
         <source>Operation:</source>
-        <translation>Opération:</translation>
+        <translation>Opération :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="512"/>
@@ -19843,7 +19843,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="543"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="550"/>
@@ -19868,7 +19868,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Tout</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="607"/>
