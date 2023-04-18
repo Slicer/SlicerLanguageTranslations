@@ -7836,7 +7836,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="849"/>
         <source>not started</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يبدأ</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="856"/>
