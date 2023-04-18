@@ -16922,7 +16922,7 @@ Cliquez sur OK pour attendre qu&apos;ils se terminent ou choisissez Ignorer pour
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="60"/>
         <source>Data Probe</source>
-        <translation>Explorateur données</translation>
+        <translation>Données du probe</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
