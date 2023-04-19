@@ -10393,12 +10393,12 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="142"/>
         <source>Selected node has no attributes</source>
-        <translation type="unfinished">Selected node has no attributes</translation>
+        <translation>العقدة المحددة ليس لها سمات</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeAttributeTableView.cxx" line="198"/>
         <source>There is already an attribute with the same name</source>
-        <translation type="unfinished">There is already an attribute with the same name</translation>
+        <translation>هناك بالفعل سمة بنفس الاسم</translation>
     </message>
 </context>
 <context>
@@ -10411,27 +10411,27 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="44"/>
         <source>Add blank row to the table. The attribute is added to the MRML node when the name and value is set</source>
-        <translation type="unfinished">Add blank row to the table. The attribute is added to the MRML node when the name and value is set</translation>
+        <translation>أضف صفا فارغا إلى الجدول. تتم إضافة السمة إلى عقدة MRML عند تعيين الاسم والقيمة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="47"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>أضف</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="73"/>
         <source>Remove selected attribute(s)</source>
-        <translation type="unfinished">Remove selected attribute(s)</translation>
+        <translation>إزالة السمات المحددة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="76"/>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="85"/>
         <source>Node information</source>
-        <translation type="unfinished">Node information</translation>
+        <translation>معلومات العقدة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableWidget.ui" line="100"/>
