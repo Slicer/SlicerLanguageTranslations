@@ -11,7 +11,7 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished">Exemple d&apos;application d&apos;hébergement CTK</translation>
+        <translation>Exemple d&apos;application d&apos;hébergement CTK</translation>
     </message>
 </context>
 <context>
@@ -52,12 +52,12 @@
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="59"/>
         <source>Remove select object</source>
-        <translation type="unfinished">Supprimer l&apos;objet sélectionné</translation>
+        <translation>Supprimer l&apos;objet sélectionné</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="82"/>
         <source>Edit selected object</source>
-        <translation type="unfinished">Modifier l&apos;objet sélectionné</translation>
+        <translation>Modifier l&apos;objet sélectionné</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
@@ -88,7 +88,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="443"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished">Échec lors de la vérification XML :</translation>
+        <translation>Échec lors de la vérification XML :</translation>
     </message>
 </context>
 <context>
@@ -109,7 +109,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="14"/>
         <source>Search Paths</source>
-        <translation type="unfinished">Chemins de recherche</translation>
+        <translation>Chemins de recherche</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
@@ -127,22 +127,22 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="14"/>
         <source>Module Settings            </source>
-        <translation type="unfinished">Paramètres du module            </translation>
+        <translation>Paramètres du module            </translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="32"/>
         <source>Run Settings</source>
-        <translation type="unfinished">Paramètres d&apos;exécution</translation>
+        <translation>Paramètres d&apos;exécution</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="73"/>
         <source>Maximum parallel running modules:</source>
-        <translation type="unfinished">Nombre maximal de modules fonctionnant en parallèle :</translation>
+        <translation>Nombre maximal de modules fonctionnant en parallèle :</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
         <source>XML retrieval timeout (in seconds):</source>
-        <translation type="unfinished">Délai d&apos;attente de récupération XML (en secondes)&#xa0;:</translation>
+        <translation>Délai d&apos;attente de récupération XML (en secondes)&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -150,17 +150,17 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="14"/>
         <source>CTK Command Line Module Explorer</source>
-        <translation type="unfinished">Explorateur de module de ligne de commande CTK</translation>
+        <translation>Explorateur de module de ligne de commande CTK</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;Fichier</translation>
+        <translation>&amp;Fichier</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="61"/>
         <source>&amp;Module</source>
-        <translation type="unfinished">&amp;Module</translation>
+        <translation>&amp;Module</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
@@ -170,12 +170,12 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Modules</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="146"/>
         <source>Progress Information</source>
-        <translation type="unfinished">Informations sur l’état d’avancement</translation>
+        <translation>Informations sur l’état d’avancement</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="195"/>
@@ -190,102 +190,102 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="297"/>
         <source>XML Checker</source>
-        <translation type="unfinished">Vérificateur XML</translation>
+        <translation>Vérificateur XML</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="322"/>
         <source>Check</source>
-        <translation type="unfinished">Vérifier</translation>
+        <translation>Vérifier</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="369"/>
         <source>Run</source>
-        <translation type="unfinished">Exécuter</translation>
+        <translation>Exécuter</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="372"/>
         <source>Run module</source>
-        <translation type="unfinished">Exécuter le module</translation>
+        <translation>Exécuter le module</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="375"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished">Ctrl+R</translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="384"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Annuler</translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="387"/>
         <source>Cancel module</source>
-        <translation type="unfinished">Annuler le module</translation>
+        <translation>Annuler le module</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="390"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="395"/>
         <source>&amp;Load Modules...</source>
-        <translation type="unfinished">&amp;Charger les modules...</translation>
+        <translation>&amp;Charger les modules...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="398"/>
         <source>Load module</source>
-        <translation type="unfinished">Charger le module</translation>
+        <translation>Charger le module</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="401"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished">Ctrl+L</translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="406"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished">&amp;Quitter</translation>
+        <translation>&amp;Quitter</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="418"/>
         <source>&amp;Pause</source>
-        <translation type="unfinished">&amp;Pause</translation>
+        <translation>&amp;Pause</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="421"/>
         <source>Pause module</source>
-        <translation type="unfinished">Interrompre le module</translation>
+        <translation>Interrompre le module</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="424"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished">Ctrl+P</translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="429"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished">&amp;Options...</translation>
+        <translation>&amp;Options...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="434"/>
         <source>Reset</source>
-        <translation type="unfinished">Réinitialiser</translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="437"/>
         <source>Reset to default values</source>
-        <translation type="unfinished">Réinitialiser aux valeurs par défaut</translation>
+        <translation>Réinitialiser aux valeurs par défaut</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="442"/>
         <source>Clear Cache</source>
-        <translation type="unfinished">Vider le cache</translation>
+        <translation>Vider le cache</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="447"/>
         <source>Reload Modules</source>
-        <translation type="unfinished">Recharger les modules</translation>
+        <translation>Recharger les modules</translation>
     </message>
 </context>
 <context>
@@ -294,17 +294,17 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="14"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="32"/>
         <source>Registered Modules</source>
-        <translation type="unfinished">Modules enregistrés</translation>
+        <translation>Modules enregistrés</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="134"/>
         <source>Warning</source>
-        <translation type="unfinished">Avertissement</translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="143"/>
         <source>No XML output available.</source>
-        <translation type="unfinished">Aucune sortie XML disponible.</translation>
+        <translation>Aucune sortie XML disponible.</translation>
     </message>
 </context>
 <context>
@@ -312,7 +312,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="14"/>
         <source>Progress</source>
-        <translation>avancée</translation>
+        <translation>Avancée</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="51"/>
@@ -327,7 +327,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="82"/>
         <source>Remove</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
 </context>
 <context>
@@ -340,7 +340,7 @@ La fermeture de l&apos;application annulera tous les calculs en cours.</translat
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="65"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="75"/>
@@ -385,7 +385,7 @@ La fermeture de l&apos;onglet annulera le calcul en cours.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation>Avertissement&#x202f;:</translation>
+        <translation>Avertissement :</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
@@ -396,14 +396,14 @@ La fermeture de l&apos;onglet annulera le calcul en cours.</translation>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="275"/>
         <source>Frontend creation failed</source>
         <extracomment>%1 is the frontend factory name and %2 is the error description</extracomment>
-        <translation>La création de l&apos;interface a échoué</translation>
+        <translation>Création de l&apos;interface a échoué</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="276"/>
         <source>Creating a %1 frontend failed:
 
 %2</source>
-        <translation>La création d&apos;une interface %1 a échoué&#xa0;:
+        <translation>Création d&apos;une interface %1 a échoué&#xa0;:
 
 %2</translation>
     </message>
@@ -420,7 +420,7 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished">Échec de l&apos;enregistrement du module :
+        <translation>Échec de l&apos;enregistrement du module :
 %1
 
 en raison de :
@@ -437,7 +437,7 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished">Échec de l&apos;enregistrement du module&#xa0;:
+        <translation>Échec de l&apos;enregistrement du module&#xa0;:
 %1
 
 en raison d&apos;une erreur de validation xml&#xa0;:
@@ -454,10 +454,10 @@ due to:
 %1
 
 </source>
-        <translation>Échec de l&apos;enregistrement du module&#x202f;:
+        <translation>Échec de l&apos;enregistrement du module :
 
 
-en raison de&#x202f;:
+en raison de :
 %1
 
 </translation>
@@ -465,7 +465,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished">Échec de l&apos;enregistrement des modules</translation>
+        <translation>Échec de l&apos;enregistrement des modules</translation>
     </message>
 </context>
 <context>
@@ -473,7 +473,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished">Fini.</translation>
+        <translation>Fini.</translation>
     </message>
 </context>
 <context>
@@ -481,7 +481,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="69"/>
         <source>Starting</source>
-        <translation type="unfinished">Démarrage</translation>
+        <translation>Démarrage</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="89"/>
@@ -494,7 +494,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished">Basique</translation>
+        <translation>Basique</translation>
     </message>
 </context>
 <context>
@@ -507,22 +507,22 @@ en raison de&#x202f;:
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="20"/>
         <source>CLModule not set.</source>
-        <translation type="unfinished">CLModule non défini.</translation>
+        <translation>CLModule non défini.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="30"/>
         <source>Get Data from Host</source>
-        <translation type="unfinished">Obtenir des données de l&apos;hôte</translation>
+        <translation>Obtenir des données de l&apos;hôte</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="43"/>
         <source>No data received</source>
-        <translation type="unfinished">Aucune donnée reçue</translation>
+        <translation>Aucune donnée reçue</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="99"/>
         <source>Run and send data to host</source>
-        <translation type="unfinished">Exécuter et envoyer des données à l&apos;hôte</translation>
+        <translation>Exécuter et envoyer des données à l&apos;hôte</translation>
     </message>
 </context>
 <context>
@@ -530,22 +530,22 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="140"/>
         <source>&amp;Run file</source>
-        <translation type="unfinished">&amp;Exécuter le fichier</translation>
+        <translation>&amp;Exécuter le fichier</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
         <source>Ctrl+g</source>
-        <translation type="unfinished">Ctrl+g</translation>
+        <translation>Ctrl+g</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="145"/>
         <source>Print &amp;help</source>
-        <translation type="unfinished">Imprimer &amp;aide</translation>
+        <translation>Imprimer &amp;aide</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Ctrl+h</source>
-        <translation type="unfinished">Ctrl+h</translation>
+        <translation>Ctrl+h</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
@@ -555,12 +555,12 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation type="unfinished">Impossible de lire le fichier &apos;%1&apos;.</translation>
+        <translation>Impossible de lire le fichier &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
         <source>Select a script file to run</source>
-        <translation type="unfinished">Sélectionnez un fichier de script à exécuter</translation>
+        <translation>Sélectionnez un fichier de script à exécuter</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1412"/>
@@ -573,7 +573,7 @@ en raison de&#x202f;:
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1413"/>
         <source>CTRL+r: Open a file dialog to select a file to run
 </source>
-        <translation type="unfinished">CTRL+r&#xa0;: Ouvrir une boîte de dialogue de fichier pour sélectionner un fichier à exécuter
+        <translation>CTRL+r&#xa0;: Ouvrir une boîte de dialogue de fichier pour sélectionner un fichier à exécuter
 </translation>
     </message>
 </context>
@@ -582,7 +582,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="20"/>
         <source>ctkDICOMAppWidget</source>
-        <translation type="unfinished">ctkDICOMAppWidget</translation>
+        <translation>ctkDICOMAppWidget</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
@@ -602,7 +602,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="302"/>
         <source>Previous study</source>
-        <translation>Étude précédente</translation>
+        <translation>Etude précédente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="324"/>
@@ -658,7 +658,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="494"/>
         <source>Query</source>
-        <translation>mettre en question</translation>
+        <translation>Requête</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="497"/>
@@ -678,12 +678,12 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="516"/>
         <source>Remove</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="519"/>
         <source>Remove from database</source>
-        <translation>Supprimer de la base de données</translation>
+        <translation>Supprimer à partir de la base de données</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="148"/>
@@ -757,7 +757,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="69"/>
         <source>Warning</source>
-        <translation type="unfinished">Avertissement</translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="76"/>
@@ -782,7 +782,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="151"/>
         <source>OK</source>
-        <translation>D&apos;ACCORD</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
@@ -820,7 +820,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="238"/>
         <source>Query</source>
-        <translation>mettre en question</translation>
+        <translation>Requête</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
@@ -840,7 +840,7 @@ en raison de&#x202f;:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
         <source>Remove</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
@@ -934,11 +934,11 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation>Les fichiers des séries suivantes ne sont pas disponibles sur le disque&#x202f;:
-Nom du patient&#x202f;: %1
-Description de l&apos;étude&#x202f;: %2
-Description de la série&#x202f;: %3
-Voulez-vous supprimer la série de la base de données DICOM&#x202f;?</translation>
+        <translation>Les fichiers des séries suivantes ne sont pas disponibles sur le disque :
+Nom du patient : %1
+Description de l&apos;étude : %2
+Description de la série : %3
+Voulez-vous supprimer la série de la base de données DICOM ?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1090"/>
@@ -1056,7 +1056,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1439"/>
@@ -1151,7 +1151,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
         <source>OK</source>
-        <translation>D&apos;ACCORD</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
@@ -1220,7 +1220,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainWidget.ui" line="100"/>
         <source>nothing selected</source>
-        <translation>rien de sélectionné</translation>
+        <translation>rien sélectionné</translation>
     </message>
 </context>
 <context>
@@ -1272,7 +1272,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="852"/>
         <source>Head First - Decubitus Right</source>
-        <translation>Tête première - décubitus droit</translation>
+        <translation>Tête en premier - décubitus droit</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="853"/>
@@ -1287,27 +1287,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="855"/>
         <source>Head First - Supine</source>
-        <translation>La tête en premier procubitus</translation>
+        <translation>Tête première decubitus</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="856"/>
         <source>Head First - Decubitus Left</source>
-        <translation>Tête première - décubitus gauche</translation>
+        <translation>Tête première-décubitus gauche</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="857"/>
         <source>Feet First - Decubitus Left</source>
-        <translation>Pieds en premier - décubitus gauche</translation>
+        <translation>Pieds premiers-décubitus gauche</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="858"/>
         <source>Feet First - Supine</source>
-        <translation>Pieds en premier Décubitus dorsal</translation>
+        <translation>Pieds en premier en décubitus</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="879"/>
         <source>Computed Radiography</source>
-        <translation>Radiographie informatisée</translation>
+        <translation>Radiographie numérique</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="880"/>
@@ -1327,7 +1327,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="883"/>
         <source>Ultrasound</source>
-        <translation>échographie</translation>
+        <translation>Échographie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="884"/>
@@ -1342,7 +1342,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="886"/>
         <source>Color flow Doppler</source>
-        <translation>Doppler flux couleur</translation>
+        <translation>Flux couleur Doppler</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="887"/>
@@ -1367,12 +1367,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="891"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation>Imagerie radiographique (film/écran conventionnel)</translation>
+        <translation>Imagerie radiographique (écran/film conventionnel)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="892"/>
         <source>Single-photon emission computed tomograpy (SPECT)</source>
-        <translation>Tomodensitométrie d&apos;émission monophotonique (SPECT)</translation>
+        <translation>tomographie par émission monophotonique (TEMP)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="893"/>
@@ -1382,12 +1382,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="894"/>
         <source>X-Ray Aniography</source>
-        <translation>Angiographie aux rayons X</translation>
+        <translation>X-Ray Aniography</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="895"/>
         <source>Radio Fluoroscopy</source>
-        <translation>Radio fluoroscopie</translation>
+        <translation>Fluoroscopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="896"/>
@@ -1407,7 +1407,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="899"/>
         <source>Radiotherapy Plan</source>
-        <translation>Régime de radiothérapie</translation>
+        <translation>Plan de radiothérapie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="900"/>
@@ -1437,7 +1437,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="905"/>
         <source>Panoramic X-Ray</source>
-        <translation>Radiographie panoramique</translation>
+        <translation>Panoramic X-Ray</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="906"/>
@@ -1447,7 +1447,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="907"/>
         <source>Slide Microscopy</source>
-        <translation>Microscopie de lame</translation>
+        <translation>Lame de microscopie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="908"/>
@@ -1462,7 +1462,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="910"/>
         <source>Audio</source>
-        <translation>l&apos;audio</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="911"/>
@@ -1482,7 +1482,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="914"/>
         <source>SR Document</source>
-        <translation>Document RS</translation>
+        <translation>SR Document</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="915"/>
@@ -1502,7 +1502,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="918"/>
         <source>Optical Coherence Tomography (non-Ophthalmic)</source>
-        <translation>Tomographie par cohérence optique (non ophtalmique)</translation>
+        <translation>Tomographie en cohérence optique (non ophtalmique)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="919"/>
@@ -1532,7 +1532,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="924"/>
         <source>Registration</source>
-        <translation>Inscription</translation>
+        <translation>Enregistrement</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMItem.cpp" line="925"/>
@@ -1650,7 +1650,7 @@ Arrêt de l&apos;exportation.</translation>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="511"/>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="517"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMModel.cpp" line="513"/>
@@ -1668,7 +1668,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
         <source>File path:</source>
-        <translation>Chemin du fichier&#x202f;:</translation>
+        <translation>Chemin du fichier :</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
@@ -1683,17 +1683,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="68"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filter displayed metadata based on content in Tag, Attribute, and Value columns.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Simple search: &lt;/span&gt;enter any text to show only those items that contains the text. Use ? and * wildcards to represent &lt;span style=&quot; font-style:italic;&quot;&gt;any &lt;/span&gt;single character or sequence of characters.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Regular expression search (for advanced users):&lt;/span&gt; Enter &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:&lt;/span&gt; followed by a regular expression. For example, show 3 specific tags, enter: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtrer les métadonnées affichées en fonction du contenu dans les colonnes Tag, Attribute et Value.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Recherche simple : &lt;/span&gt;entrez n&apos;importe quel texte pour afficher uniquement les éléments qui contiennent le texte. Utiliser ? et * des caractères génériques pour représenter &lt;span style=&quot; font-style:italic;&quot;&gt;tout &lt;/span&gt;caractère unique ou séquence de caractères.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Recherche d&apos;expressions régulières (pour les utilisateurs avancés)&#xa0;:&lt;/span&gt; Saisissez &lt;span style=&quot; font-style:italic;&quot;&gt;regexp&#xa0;:&lt;/span&gt; suivi d&apos;une expression régulière. Par exemple, affichez 3 balises spécifiques, entrez&#xa0;: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/ html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Filtrer les métadonnées affichées en fonction du contenu dans les colonnes Tag, Attribute et Value.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Recherche simple : &lt;/span&gt;entrez n&apos;importe quel texte pour afficher uniquement les éléments qui contiennent le texte. Utiliser ? et * des caractères génériques pour représenter &lt;span style=&quot; font-style:italic;&quot;&gt;tout &lt;/span&gt;caractère unique ou séquence de caractères.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt; Recherche d&apos;expressions régulières (pour les utilisateurs avancés)&#xa0;:&lt;/span&gt; Saisissez &lt;span style=&quot; font-style:italic;&quot;&gt;regexp&#xa0;:&lt;/span&gt; suivi d&apos;une expression régulière. Par exemple, affichez 3 balises spécifiques, entrez&#xa0;: &lt;span style=&quot; font-style:italic;&quot;&gt;regexp:0010,0010|0010,0020|0010,0030&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="75"/>
         <source>Expand all</source>
-        <translation>Développer tout</translation>
+        <translation>Tout développer</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="82"/>
         <source>Collapse all</source>
-        <translation>Réduire tout</translation>
+        <translation>Tout réduire</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="89"/>
@@ -1769,7 +1769,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="268"/>
         <source>DB not open in Query</source>
-        <translation>BD non ouvert dans la requête</translation>
+        <translation>BD non ouvert avec la requête</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMQuery.cpp" line="281"/>
@@ -1859,7 +1859,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="122"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
@@ -1899,7 +1899,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="396"/>
         <source>Retrieve failed.  Keep trying?</source>
-        <translation>Échec de la récupération. Continue d&apos;essayer&#x202f;?</translation>
+        <translation>Échec de la récupération. Continue d&apos;essayer ?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="426"/>
@@ -1922,7 +1922,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="51"/>
@@ -1976,7 +1976,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="123"/>
         <source>Got CGET response</source>
-        <translation>J&apos;ai obtenu une réponse CGET</translation>
+        <translation>Obtenu une réponse CGET</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="399"/>
@@ -2006,7 +2006,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Core/ctkDICOMRetrieve.cpp" line="504"/>
         <source>Finished Get</source>
-        <translation>Obtenir terminé</translation>
+        <translation>Terminé d&apos;obtenir</translation>
     </message>
 </context>
 <context>
@@ -2019,7 +2019,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="20"/>
         <source>Calling AETitle</source>
-        <translation>Appel AETitre</translation>
+        <translation>Appeler AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="30"/>
@@ -2029,7 +2029,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="37"/>
         <source>Storage AETitle</source>
-        <translation>Stockage Titre AE</translation>
+        <translation>Stockage AETitle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="47"/>
@@ -2044,17 +2044,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="64"/>
         <source>Servers</source>
-        <translation>Les serveurs</translation>
+        <translation>Serveurs</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="80"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="85"/>
         <source>AETitle</source>
-        <translation type="unfinished">AETitre</translation>
+        <translation>AETitre</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMServerNodeWidget.ui" line="90"/>
@@ -2158,27 +2158,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="50"/>
         <source>Last study date</source>
-        <translation>Date de la dernière étude</translation>
+        <translation>Date dernière étude</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="51"/>
         <source>Study ID</source>
-        <translation>ID de l&apos;étude</translation>
+        <translation>ID étude</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="52"/>
         <source>Study date</source>
-        <translation>Date de l&apos;étude</translation>
+        <translation>Date étude</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="53"/>
         <source>Study time</source>
-        <translation>Temps d&apos;étude</translation>
+        <translation>Temps étude</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="54"/>
         <source>Study description</source>
-        <translation>Description de l&apos;étude</translation>
+        <translation>Description étude</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="55"/>
@@ -2203,7 +2203,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="59"/>
         <source>Performing physician</source>
-        <translation>Médecin exécutant</translation>
+        <translation>Médecin pratiquant</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="61"/>
@@ -2218,17 +2218,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
         <source>Series date</source>
-        <translation>Date de la série</translation>
+        <translation>Date série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="64"/>
         <source>Series time</source>
-        <translation>Heure de la série</translation>
+        <translation>Heure série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="65"/>
         <source>Series description</source>
-        <translation>Description de la série</translation>
+        <translation>Description série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="66"/>
@@ -2258,12 +2258,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="71"/>
         <source>Echo #</source>
-        <translation type="unfinished">Echo #</translation>
+        <translation>Echo #</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="72"/>
         <source>Temporal position</source>
-        <translation>Position temporaire</translation>
+        <translation>Position temporelle</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="74"/>
@@ -2273,12 +2273,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="75"/>
         <source>Count</source>
-        <translation>compter</translation>
+        <translation>Compter</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="76"/>
         <source>Number of frames</source>
-        <translation>Nombre de cadres</translation>
+        <translation>Nombre de trames</translation>
     </message>
 </context>
 <context>
@@ -2315,12 +2315,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="50"/>
         <source>Last Week</source>
-        <translation>La semaine dernière</translation>
+        <translation>Semaine dernière</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="57"/>
         <source>Last Month</source>
-        <translation>Le mois dernier</translation>
+        <translation>Mois dernier</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkDateRangeWidget.ui" line="64"/>
@@ -2371,7 +2371,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.eventbus/ctkEventBusManager.cpp" line="217"/>
         <source>Server can not start. Create it first, then call startListen again!!</source>
-        <translation>Le serveur ne peut pas démarrer. Créez le d&apos;abord, puis appelez startListen à nouveau&#x202f;!!</translation>
+        <translation>Serveur ne peut pas démarrer. Créez le d&apos;abord, puis appelez startListen à nouveau !!</translation>
     </message>
 </context>
 <context>
@@ -2391,7 +2391,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="73"/>
         <source>Chat:</source>
-        <translation>Discuter&#x202f;:</translation>
+        <translation>Discuter :</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
@@ -2432,7 +2432,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished">Hôte Application DICOM Part 19</translation>
+        <translation>Hôte Application DICOM Part 19</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="23"/>
@@ -2442,7 +2442,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="36"/>
         <source>No data received</source>
-        <translation type="unfinished">Aucune donnée reçue</translation>
+        <translation>Aucune donnée reçue</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="59"/>
@@ -2455,7 +2455,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="25"/>
         <source>Application Path:</source>
-        <translation>Chemin d&apos;application&#xa0;:</translation>
+        <translation>Chemin d&apos;accès à l&apos;application :</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="32"/>
@@ -2470,7 +2470,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
         <source>Run</source>
-        <translation type="unfinished">Exécuter</translation>
+        <translation>Exécuter</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="70"/>
@@ -2495,7 +2495,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="110"/>
         <source>Not running</source>
-        <translation type="unfinished">Ne fonctionne pas</translation>
+        <translation>Ne fonctionne pas</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="134"/>
@@ -2510,7 +2510,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="172"/>
         <source>Show Messages</source>
-        <translation>Afficher les messages</translation>
+        <translation>Afficher messages</translation>
     </message>
 </context>
 <context>
@@ -2523,7 +2523,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="106"/>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFileDialogEventPlayer.cpp" line="107"/>
@@ -2537,7 +2537,7 @@ Arrêt de l&apos;exportation.</translation>
         <location filename="Libs/Widgets/ctkFileDialogEventTranslator.cpp" line="108"/>
         <source>Loading %1 ... </source>
         <extracomment>%1 is the filename</extracomment>
-        <translation>Chargement de %1... </translation>
+        <translation>Chargement %1... </translation>
     </message>
 </context>
 <context>
@@ -2545,12 +2545,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="40"/>
         <source>Show details...</source>
-        <translation>Afficher les détails...</translation>
+        <translation>Afficher détails...</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkFittedTextBrowser.cpp" line="41"/>
         <source>Hide details.</source>
-        <translation>Cacher les détails.</translation>
+        <translation>Cacher détails.</translation>
     </message>
 </context>
 <context>
@@ -2571,17 +2571,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="29"/>
         <source>CTK Metatype Service - CommonTK Implementation</source>
-        <translation type="unfinished">Service de métatype CTK - Implémentation de CommonTK</translation>
+        <translation>Service de métatype CTK - Implémentation de CommonTK</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="31"/>
         <source>Unexpected element %1.</source>
-        <translation type="unfinished">Elément inattendu %1.</translation>
+        <translation>Elément inattendu %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="32"/>
         <source>Unexpected text %1.</source>
-        <translation type="unfinished">Texte inattendu %1.</translation>
+        <translation>Texte inattendu %1.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="33"/>
@@ -2596,7 +2596,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="35"/>
         <source>Default value cannot be null when cardinality is zero.</source>
-        <translation>La valeur par défaut ne peut pas être nulle lorsque la cardinalité est nulle.</translation>
+        <translation>Valeur par défaut ne peut pas être nulle lorsque cardinalité est nulle.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="36"/>
@@ -2616,37 +2616,37 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="40"/>
         <source>Value %1 is out of range.</source>
-        <translation>La valeur %1 est hors plage.</translation>
+        <translation>Valeur %1 est hors plage.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="41"/>
         <source>Value %1 is out of Option.</source>
-        <translation>La valeur %1 est hors option.</translation>
+        <translation>Valeur %1 est hors option.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="42"/>
         <source>Found too many values in %1 when expecting %2 values.</source>
-        <translation type="unfinished">Trop de valeurs ont été trouvées dans %1 alors qu&apos;elles étaient attendues dans %2.</translation>
+        <translation>Trop de valeurs ont été trouvées dans %1 alors qu&apos;elles étaient attendues dans %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="43"/>
         <source>Cannot set Option labels or values empty.</source>
-        <translation type="unfinished">Impossible de définir des étiquettes ou des valeurs d&apos;option vides.</translation>
+        <translation>Impossible de définir des étiquettes ou des valeurs d&apos;option vides.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="44"/>
         <source>Labels and Values of Option have different sizes.</source>
-        <translation type="unfinished">Les étiquettes et les valeurs d&apos;option ont des tailles différentes.</translation>
+        <translation>Les étiquettes et les valeurs d&apos;option ont des tailles différentes.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="45"/>
         <source>Option value %1 is invalid because of %2.</source>
-        <translation>La valeur d&apos;option %1 n&apos;est pas valide à cause de %2.</translation>
+        <translation>Valeur d&apos;option %1 n&apos;est pas valide à cause de %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="46"/>
         <source>Defaults value %1 is invalid because of %2.</source>
-        <translation>La valeur par défaut %1 n&apos;est pas valide à cause de %2.</translation>
+        <translation>Valeur par défaut %1 n&apos;est pas valide à cause de %2.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="48"/>
@@ -2656,7 +2656,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="49"/>
         <source>OCD(ID=&quot;%1&quot;) cannot support this locale &quot;%2&quot;.</source>
-        <translation>OCD(ID=&quot;%1&quot;) ne peut pas prendre en charge cette locale &quot;%2&quot;.</translation>
+        <translation>OCD(ID=&quot;%1&quot;) ne peut pas prendre en charge ce locale &quot;%2&quot;.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="50"/>
@@ -2666,7 +2666,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Plugins/org.commontk.metatype/ctkMTMsg.cpp" line="51"/>
         <source>Plugin %1 with ID %2 provided a ctkMetaTypeProvider with an invalid property. Property %3 with value %4 was not of the expected type (QString or QStringList) and will be ignored.</source>
-        <translation>Le plugin %1 avec l&apos;ID %2 a fourni un ctkMetaTypeProvider avec une propriété invalide. La propriété %3 avec la valeur %4 n&apos;était pas du type attendu (QString ou QStringList) et sera ignorée.</translation>
+        <translation>Plugin %1 avec l&apos;ID %2 a fourni un ctkMetaTypeProvider avec une propriété invalide. La propriété %3 avec la valeur %4 n&apos;était pas du type attendu (QString ou QStringList) et sera ignorée.</translation>
     </message>
 </context>
 <context>
@@ -2679,27 +2679,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation>Couleur&#x202f;:</translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
         <source>Opacity:</source>
-        <translation>Opacité&#x202f;:</translation>
+        <translation>Opacité :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
         <source>Ambient:</source>
-        <translation>Ambiant&#x202f;:</translation>
+        <translation>Ambiant :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation>Diffuser&#x202f;:</translation>
+        <translation>Diffuser :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation>Spéculaire&#x202f;:</translation>
+        <translation>Spéculaire :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
@@ -2709,7 +2709,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation type="unfinished">Puissance :</translation>
+        <translation>Puissance :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
@@ -2719,27 +2719,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation>Aperçu&#x202f;:</translation>
+        <translation>Aperçu :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation>Pré configurations&#x202f;:</translation>
+        <translation>Préconfigurations :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation>Métallique&#x202f;:</translation>
+        <translation>Métallique :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation>Rugosité&#x202f;:</translation>
+        <translation>Rugosité :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation>Mode&#x202f;:</translation>
+        <translation>Mode :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
@@ -2759,7 +2759,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="323"/>
         <source>PBR</source>
-        <translation>Rendu basé sur la physique(RBP)</translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="106"/>
@@ -2774,7 +2774,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="108"/>
         <source>Smooth material properties (moderate specular lighting).</source>
-        <translation>Propriétés des matériaux lisses (éclairage spéculaire modéré).</translation>
+        <translation>Propriétés matériaux lisses (éclairage spéculaire modéré).</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMaterialPropertyWidget.cpp" line="109"/>
@@ -2810,7 +2810,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="335"/>
         <source>Are you sure you want to exit?</source>
-        <translation>Êtes-vous sûr de vouloir quitter&#x202f;?</translation>
+        <translation>Êtes-vous sûr de vouloir quitter ?</translation>
     </message>
 </context>
 <context>
@@ -2828,12 +2828,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="30"/>
         <source>Computed Radiography</source>
-        <translation>Radiographie informatisée</translation>
+        <translation>Radiographie numérique</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="33"/>
         <source>CR</source>
-        <translation>RC</translation>
+        <translation>CR (Radio)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="40"/>
@@ -2843,7 +2843,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="43"/>
         <source>CT</source>
-        <translation>TD</translation>
+        <translation>TDM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="50"/>
@@ -2853,7 +2853,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="53"/>
         <source>MR</source>
-        <translation>RM</translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="60"/>
@@ -2863,7 +2863,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="63"/>
         <source>NM</source>
-        <translation>MN</translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="70"/>
@@ -2873,7 +2873,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="73"/>
         <source>US</source>
-        <translation>Echographie</translation>
+        <translation>écho</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="80"/>
@@ -2883,7 +2883,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="83"/>
         <source>OT</source>
-        <translation>Other</translation>
+        <translation>OT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="90"/>
@@ -2893,17 +2893,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="93"/>
         <source>BI</source>
-        <translation>IB</translation>
+        <translation>BI</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="100"/>
         <source>Color flow Doppler</source>
-        <translation>Doppler flux couleur</translation>
+        <translation>Flux couleur Doppler</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="103"/>
         <source>CD</source>
-        <translation>DC</translation>
+        <translation>CD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="110"/>
@@ -2913,7 +2913,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="113"/>
         <source>DD</source>
-        <translation>DD</translation>
+        <translation>JJ</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="120"/>
@@ -2943,7 +2943,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="143"/>
         <source>LS</source>
-        <translation>SL</translation>
+        <translation>LS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="150"/>
@@ -2953,27 +2953,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="153"/>
         <source>PT</source>
-        <translation>TP</translation>
+        <translation>PT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="160"/>
         <source>Radiographic imaging (conventional film/screen)</source>
-        <translation>Imagerie radiographique (film/écran conventionnel)</translation>
+        <translation>Imagerie radiographique (écran/film conventionnel)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="163"/>
         <source>RG</source>
-        <translation>IG</translation>
+        <translation>RG</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="170"/>
         <source>Single-photon emission computed tomography (SPECT)</source>
-        <translation>Tomodensitométrie d&apos;émission monophotonique (SPECT)</translation>
+        <translation>tomographie par émission monophotonique (TEMP)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="173"/>
         <source>ST</source>
-        <translation>TS</translation>
+        <translation>ST</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="180"/>
@@ -2993,12 +2993,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="193"/>
         <source>XA</source>
-        <translation>AX</translation>
+        <translation>XA</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="200"/>
         <source>Radio Fluoroscopy</source>
-        <translation>Radio fluoroscopie</translation>
+        <translation>Fluoroscopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="203"/>
@@ -3013,7 +3013,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="213"/>
         <source>RTIMAGE</source>
-        <translation>TR IMAGE</translation>
+        <translation>RTIMAGE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="220"/>
@@ -3023,7 +3023,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="223"/>
         <source>RTDOSE</source>
-        <translation>TR DOSE</translation>
+        <translation>RTDOSE</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="230"/>
@@ -3033,27 +3033,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="233"/>
         <source>RTSTRUCT</source>
-        <translation>TRSTRUCT</translation>
+        <translation>RTSTRUCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="240"/>
         <source>Radiotherapy Plan</source>
-        <translation>Régime de radiothérapie</translation>
+        <translation>Plan de radiothérapie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="243"/>
         <source>RTPLAN</source>
-        <translation>TRPLAN</translation>
+        <translation>RTPLAN</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="250"/>
         <source>RT Treatment Record</source>
-        <translation>Dossier de traitement TR</translation>
+        <translation>Dossier de traitement RT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="253"/>
         <source>RTRECTORD</source>
-        <translation>ENREGISTREMENT TR</translation>
+        <translation>RTRECTORD</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="260"/>
@@ -3063,7 +3063,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="263"/>
         <source>HC</source>
-        <translation>CP</translation>
+        <translation>HC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="270"/>
@@ -3073,7 +3073,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="273"/>
         <source>DX</source>
-        <translation>RD</translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="280"/>
@@ -3093,17 +3093,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="293"/>
         <source>IO</source>
-        <translation>IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="300"/>
         <source>Panoramic X-Ray</source>
-        <translation>Radiographie panoramique</translation>
+        <translation>Panoramic X-Ray</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="303"/>
         <source>PX</source>
-        <translation>RP</translation>
+        <translation>PX</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="310"/>
@@ -3113,17 +3113,17 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="313"/>
         <source>GM</source>
-        <translation>MG</translation>
+        <translation>GM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="320"/>
         <source>Slide Microscopy</source>
-        <translation>Microscopie de lame</translation>
+        <translation>Lame de microscopie</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="323"/>
         <source>SM</source>
-        <translation>MS</translation>
+        <translation>SM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="330"/>
@@ -3133,7 +3133,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="333"/>
         <source>XC</source>
-        <translation>CE</translation>
+        <translation type="unfinished">XC</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="340"/>
@@ -3148,7 +3148,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="350"/>
         <source>Audio</source>
-        <translation>l&apos;audio</translation>
+        <translation type="unfinished">Audio</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="353"/>
@@ -3188,12 +3188,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="390"/>
         <source>SR Document</source>
-        <translation>Document RS</translation>
+        <translation type="unfinished">Document SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="393"/>
         <source>SR</source>
-        <translation>RS</translation>
+        <translation type="unfinished">SR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="400"/>
@@ -3203,7 +3203,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="403"/>
         <source>IVUS</source>
-        <translation>EIV</translation>
+        <translation type="unfinished">IVUS</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="410"/>
@@ -3213,7 +3213,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="413"/>
         <source>OP</source>
-        <translation>PO</translation>
+        <translation type="unfinished">OP</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="420"/>
@@ -3223,7 +3223,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="423"/>
         <source>SMR</source>
-        <translation>RSM</translation>
+        <translation type="unfinished">SMR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="430"/>
@@ -3233,7 +3233,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="433"/>
         <source>OCT</source>
-        <translation>TCO</translation>
+        <translation type="unfinished">OCT</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="440"/>
@@ -3243,7 +3243,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="443"/>
         <source>OPR</source>
-        <translation>RO</translation>
+        <translation type="unfinished">OPR</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="450"/>
@@ -3253,7 +3253,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="453"/>
         <source>OPV</source>
-        <translation>OV</translation>
+        <translation type="unfinished">OPV</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="460"/>
@@ -3263,7 +3263,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="463"/>
         <source>OPM</source>
-        <translation>OC</translation>
+        <translation type="unfinished">OPM</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="470"/>
@@ -3273,7 +3273,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="473"/>
         <source>KO</source>
-        <translation>OC</translation>
+        <translation type="unfinished">KO</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="480"/>
@@ -3288,12 +3288,12 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="490"/>
         <source>Registration</source>
-        <translation>Inscription</translation>
+        <translation type="unfinished">Enregistrement</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkModalityWidget.ui" line="493"/>
         <source>REG</source>
-        <translation>INS</translation>
+        <translation type="unfinished">REG</translation>
     </message>
 </context>
 <context>
@@ -3433,7 +3433,7 @@ Veuillez vérifier vos autorisations.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="53"/>
         <source>Lazy Activation</source>
-        <translation>Activation paresseuse</translation>
+        <translation>Activation paquet prérequis</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="54"/>
@@ -3478,12 +3478,12 @@ Veuillez vérifier vos autorisations.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="115"/>
         <source>Start Plugin (ignore activation policy)</source>
-        <translation>Démarrer le plugin (ignorer la politique d&apos;activation)</translation>
+        <translation>Démarrer le plugin (ignorer politique d&apos;activation)</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="116"/>
         <source>Start Plugin</source>
-        <translation>Démarrer le plug-in</translation>
+        <translation>Démarrer le plugin</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="117"/>
@@ -3501,7 +3501,7 @@ Veuillez vérifier vos autorisations.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="46"/>
         <source>File</source>
-        <translation>Déposer</translation>
+        <translation type="unfinished">Fichier</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="58"/>
@@ -3526,7 +3526,7 @@ Veuillez vérifier vos autorisations.</translation>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="260"/>
         <source>Link services</source>
-        <translation>Services de liaison</translation>
+        <translation>Lier Services</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="304"/>
@@ -3565,7 +3565,7 @@ Veuillez vérifier vos autorisations.</translation>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="217"/>
         <source>Creating the plugin failed.</source>
-        <translation>La création du plug-in a échoué.</translation>
+        <translation>Création du plugin a échoué.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="246"/>
@@ -3575,7 +3575,7 @@ Veuillez vérifier vos autorisations.</translation>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGenerator.cpp" line="279"/>
         <source>Creating the preview failed.</source>
-        <translation>La création de l&apos;aperçu a échoué.</translation>
+        <translation>Création de l&apos;aperçu a échoué.</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMain.cpp" line="53"/>
@@ -3643,7 +3643,7 @@ Veuillez vérifier vos autorisations.</translation>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="115"/>
         <source>Activator class name</source>
-        <translation>Nom de la classe d&apos;activateur</translation>
+        <translation>Nom classe d&apos;activateur</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.plugingenerator.ui/ctkPluginGeneratorMainExtension.ui" line="125"/>
@@ -3710,15 +3710,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt; !DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http ://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space : pre-wrap ; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family :&apos;Sans&apos; ; font-size :10pt ; font-weight :400 ; font-style :normal ;&quot;&gt;
-&lt;table border=&quot;0&quot; style=&quot;-qt-table-type : root ; margin-top :4px ; margin-bottom :4px ; margin-left :4px ; margin-right :4px ;&quot;&gt;
+p, li { white-space : pre-wrap ; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border : none ;&quot;&gt;
-&lt;p style=&quot; margin-top :0px ; margin-bottom :0px ; margin-left :0px ; margin-right :0px ; -qt-block-indent :0 ; text-indent :0px ;&quot;&gt;&lt;span style=&quot; font-size :12pt ; font-weight :600 ;&quot;&gt;Brancher&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top :0px ; margin-bottom :0px ; margin-left :0px ; margin-right :0px ; -qt-block-indent :0 ; text-indent :0px ;&quot;&gt;&lt;span style=&quot; font-size :12pt ; font-weight :600 ;&quot;&gt;Générateur&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Générateur&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="278"/>
@@ -3731,15 +3731,15 @@ p, li { white-space: pre-wrap; }
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generator&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Preview&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt; !DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http ://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space : pre-wrap ; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family :&apos;Sans&apos; ; font-size :10pt ; font-weight :400 ; font-style :normal ;&quot;&gt;
-&lt;table border=&quot;0&quot; style=&quot;-qt-table-type : root ; margin-top :4px ; margin-bottom :4px ; margin-left :4px ; margin-right :4px ;&quot;&gt;
+p, li { white-space : pre-wrap ; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
 &lt;tr&gt;
-&lt;td style=&quot;border : none ;&quot;&gt;
-&lt;p style=&quot; margin-top :0px ; margin-bottom :0px ; margin-left :0px ; margin-right :0px ; -qt-block-indent :0 ; text-indent :0px ;&quot;&gt;&lt;span style=&quot; font-size :12pt ; font-weight :600 ;&quot;&gt;Brancher&lt;/span&gt;&lt;span style=&quot; font-size :12pt ; font-weight :600 ;&quot;&gt;Générateur&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top :0px ; margin-bottom :0px ; margin-left :0px ; margin-right :0px ; -qt-block-indent :0 ; text-indent :0px ;&quot;&gt;&lt;span style=&quot; font-size :12pt ; font-weight :600 ;&quot;&gt;Aperçu&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Plugin &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Generateur&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Aperçu&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="370"/>
@@ -3749,7 +3749,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="383"/>
         <source>Choose output directory</source>
-        <translation>Choisissez le répertoire de sortie</translation>
+        <translation>Choisissez répertoire de sortie</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginGenerator/ctkPluginGeneratorMainWindow.ui" line="431"/>
@@ -3894,7 +3894,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="103"/>
         <source>STARTING</source>
-        <translation>DÉPART</translation>
+        <translation type="unfinished">DÉMARRAGE</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginTableModel.cpp" line="104"/>
@@ -3917,7 +3917,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="641"/>
         <source>&lt;h1&gt;CTK Simple Image Viewer Widget&lt;/h1&gt;Contributed by: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Keyboard commands:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: quit  &lt;em&gt;h&lt;/em&gt;: display this help  &lt;em&gt;i&lt;/em&gt;: invert intensities  &lt;em&gt;[ ]&lt;/em&gt;: increase / decrease zoom  &lt;em&gt;x y&lt;/em&gt;: flip along the x / y axis  &lt;em&gt;r&lt;/em&gt;: reset to initial conditions  &lt;em&gt;spacebar&lt;/em&gt;: toggle continuous tracking of cursor  &lt;em&gt;up-arrow down-arrow&lt;/em&gt;: change to next / previous slice&lt;h3&gt;Mouse commands:&lt;/h3&gt;  &lt;em&gt;left-button&lt;/em&gt;: window and level  &lt;em&gt;middle-button&lt;/em&gt;: zoom  &lt;em&gt;right-button&lt;/em&gt;: center</source>
-        <translation>&lt;h1&gt;Widget de visionneuse d&apos;images simple CTK&lt;/h1&gt;Contribution de&#xa0;: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Commandes clavier&#xa0;:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: arrêter&lt;em&gt;h&lt;/em&gt;: afficher cette aide &lt;em&gt;i&lt;/em&gt;: inverser les intensités  &lt;em&gt;[ ]&lt;/em&gt;: augmenter/diminuer le zoom  &lt;em&gt;x y&lt;/em&gt;:retourner le long de l&apos;axe x / y  &lt;em&gt;r&lt;/em&gt;:remise aux conditions initiales  &lt;em&gt;spacebar&lt;/em&gt;: basculer le suivi continu du curseur  &lt;em&gt;flèche vers le haut flèche vers le bas&lt;/em&gt;:passer à la tranche suivante/précédente&lt;h3&gt;Commandes de la souris:&lt;/h3&gt;  &lt;em&gt;bouton gauche&lt;/em&gt;:fenêtre et niveau&lt;em&gt;bouton du milieu&lt;/em&gt;: Zoom&lt;em&gt;bouton de droite&lt;/em&gt;: centre</translation>
+        <translation>&lt;h1&gt;Widget de visionneuse d&apos;images simple CTK&lt;/h1&gt;Contribution de&#xa0;: Kitware, Inc.&lt;br&gt;&lt;h3&gt;Commandes clavier&#xa0;:&lt;/h3&gt;  &lt;em&gt;q&lt;/em&gt;: arrêter&lt;em&gt;h&lt;/em&gt;: afficher cette aide &lt;em&gt;i&lt;/em&gt;: inverser les intensités  &lt;em&gt;[ ]&lt;/em&gt;: augmenter/diminuer le zoom  &lt;em&gt;x y&lt;/em&gt;:retourner le long de l&apos;axe x / y  &lt;em&gt;r&lt;/em&gt;:remise aux conditions initiales  &lt;em&gt;spacebar&lt;/em&gt;: basculer le suivi continu du curseur  &lt;em&gt;flèche vers le haut flèche vers le bas&lt;/em&gt;:passer à la coupe suivante/précédente&lt;h3&gt;Commandes de la souris:&lt;/h3&gt;  &lt;em&gt;bouton gauche&lt;/em&gt;:fenêtre et niveau&lt;em&gt;bouton du milieu&lt;/em&gt;: Zoom&lt;em&gt;bouton de droite&lt;/em&gt;: centre</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1052"/>
@@ -3942,7 +3942,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1102"/>
         <source>RAS = %1, %2, %3</source>
-        <translation>DAS = %1, %2, %3</translation>
+        <translation type="unfinished">RAS = %1, %2, %3</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkQImageView.cpp" line="1115"/>
@@ -4001,7 +4001,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"/>
         <source>Folder:</source>
-        <translation>Dossier&#x202f;:</translation>
+        <translation>Dossier :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"/>
@@ -4031,7 +4031,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation>Facteur d&apos;échelle&#x202f;:</translation>
+        <translation>Facteur d&apos;échelle :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
@@ -4072,7 +4072,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"/>
         <source>Overwrite:</source>
-        <translation>Écraser&#x202f;:</translation>
+        <translation>Écraser :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"/>
@@ -4148,12 +4148,12 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="82"/>
         <source>Reset settings to their values when the dialog opened</source>
-        <translation>Réinitialiser les paramètres à leurs valeurs lorsque la boîte de dialogue s&apos;est ouverte</translation>
+        <translation>Réinitialiser les paramètres à leurs valeurs lorsque la boîte de dialogue est ouverte</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="84"/>
         <source>Restore settings to their default values.To cancel a &quot;Restore&quot;, you can &quot;Reset&quot; the settings.</source>
-        <translation>Restaurez les paramètres à leurs valeurs par défaut. Pour annuler une &quot;Restauration&quot;, vous pouvez &quot;Réinitialiser&quot; les paramètres.</translation>
+        <translation>Restaurez les paramètres à leurs valeurs par défaut. Pour annuler une &quot;Restauration&quot;, &quot;Réinitialiser&quot; les paramètres.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="170"/>
@@ -4263,7 +4263,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="43"/>
         <source>Reset ranges to data range</source>
-        <translation>Réinitialiser les plages à la plage de données</translation>
+        <translation type="unfinished">Réinitialisation des plages à la plage de données</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="54"/>
@@ -4273,7 +4273,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="65"/>
         <source>Expand current range to display range</source>
-        <translation>Développer la plage actuelle pour afficher la plage</translation>
+        <translation type="unfinished">Étendre la plage actuelle à la plage d’affichage</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKDiscretizableColorTransferWidget.ui" line="76"/>
@@ -4293,12 +4293,12 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="242"/>
         <source>NaN values</source>
-        <translation>Valeurs différents d&apos;un nombre</translation>
+        <translation>NaN valeurs</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="244"/>
         <source>NaN color</source>
-        <translation>Couleur qui n&apos;est pas un nombre</translation>
+        <translation>NaN couleur</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="249"/>
@@ -4331,7 +4331,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation>Représentation:</translation>
+        <translation>Représentation :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="52"/>
@@ -4356,7 +4356,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
         <source>Line Width:</source>
-        <translation>Largeur de ligne&#x202f;:</translation>
+        <translation>Largeur de ligne :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"/>
@@ -4381,12 +4381,12 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"/>
         <source>Color:</source>
-        <translation>Couleur&#x202f;:</translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation>Opacité&#x202f;:</translation>
+        <translation>Opacité :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
@@ -4406,12 +4406,12 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"/>
         <source>Lighting:</source>
-        <translation>Éclairage&#x202f;:</translation>
+        <translation>Éclairage :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
         <source>Interpolation:</source>
-        <translation>Interpolation:</translation>
+        <translation>Interpolation :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="239"/>
@@ -4431,7 +4431,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
         <source>Shading:</source>
-        <translation>Ombres&#x202f;:</translation>
+        <translation>Ombres :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
@@ -4452,8 +4452,8 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation>La taille de la vue de rendu est : largeur : %1 hauteur : %2
-Mais la taille était largeur : %3 hauteur : %4
+        <translation>La taille de la vue de rendu est : largeur : %1 	 hauteur : %2 
+Mais la taille était           largeur: %3 	 hauteur : %4 
 pendant l&apos;enregistrement
 Voulez-vous le remplacer ?</translation>
     </message>
@@ -4484,7 +4484,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"/>
         <source>Format:</source>
-        <translation>Format&#x202f;:</translation>
+        <translation>Format :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"/>
@@ -4598,7 +4598,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"/>
         <source>Arial</source>
-        <translation>arial</translation>
+        <translation>Arial</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="76"/>
@@ -4618,7 +4618,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"/>
         <source>bold</source>
-        <translation>gras</translation>
+        <translation type="unfinished">gras</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"/>
@@ -4674,7 +4674,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="73"/>
         <source>Gradient Opacity</source>
-        <translation>Opacité graduelle</translation>
+        <translation>Opacité gradient</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="95"/>
