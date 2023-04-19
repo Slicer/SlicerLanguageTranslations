@@ -8705,7 +8705,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/UtilTest.ui" line="17"/>
         <source>My custom UI</source>
-        <translation type="unfinished">My custom UI</translation>
+        <translation>Mi interfaz de usuario personalizada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="31"/>
@@ -8755,22 +8755,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="136"/>
         <source>Storage listener:</source>
-        <translation type="unfinished">Storage listener:</translation>
+        <translation>Receptor de almacenamiento:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="145"/>
         <source>Enable DICOM listening server to receive images (C-Store SCP)</source>
-        <translation type="unfinished">Enable DICOM listening server to receive images (C-Store SCP)</translation>
+        <translation>Habilitar el servidor receptor DICOM para recibir las imágenes de C-Store SCP</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="186"/>
         <source>Start storage listener on startup:</source>
-        <translation type="unfinished">Start storage listener on startup:</translation>
+        <translation>Iniciar el receptor de almacenamiento al arranque:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="193"/>
         <source>Automatically start listener on application startup</source>
-        <translation type="unfinished">Automatically start listener on application startup</translation>
+        <translation>Iniciar automáticamente el receptor al arrancar la aplicación</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="206"/>
