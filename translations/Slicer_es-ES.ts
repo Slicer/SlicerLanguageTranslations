@@ -7686,165 +7686,694 @@ a = Affine Transform</source>
 <context>
     <name>DICOM</name>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="30"/>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="502"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="31"/>
         <source>DICOM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="31"/>
-        <source>Informatics</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="34"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="35"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="36"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="245"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
         <source>Add DICOM Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="276"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="277"/>
         <source>DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="351"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
         <source>Generic DICOM settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="354"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
         <source>Database location:</source>
         <translation type="unfinished">Ubicación de la base de datos:</translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="357"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
         <source>DICOM general settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="367"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Ask user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Always</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="370"/>
         <source>Never</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="371"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="372"/>
         <source>Load referenced series:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="380"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="380"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Detailed logging:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="418"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
         <source>DICOM Directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
         <source>Load directory into DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="513"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="514"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="524"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="576"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="636"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
         <source>Import options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="641"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="642"/>
         <source>Copy imported files to DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="643"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="644"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="849"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
         <source>not started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="856"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="857"/>
         <source>starting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="861"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="861"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>running at port %s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="877"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="878"/>
         <source>Received DICOM file: {filename}</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="940"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="941"/>
         <source>DICOM database is already empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="943"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>Clear entire DICOM database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="945"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMEnhancedUSVolumePlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
+        <source>Enhanced US volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
+        <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
+        <source>Ultrasound volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMGeAbusPlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="31"/>
+        <source>GE ABUS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="116"/>
+        <source>GE Invenia ABUS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
+        <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMImageSequencePlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="35"/>
+        <source>Image sequence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
+        <source>Image spacing may need to be calibrated for accurate size measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="186"/>
+        <source>{modality} image sequence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="167"/>
+        <source>{modality} image sequence ({count} planes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMLib.DICOMBrowser</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="86"/>
+        <source>DICOM Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="135"/>
+        <source>Uncheck All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="141"/>
+        <source>Examine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="147"/>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="150"/>
+        <source>Load selected items into the scene</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="155"/>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="229"/>
+        <source>The following data type is in your database:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="231"/>
+        <source>The following data types are in your database:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"/>
+        <source>The following extension is not installed, but may help you work with this data:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="238"/>
+        <source>The following extensions are not installed, but may help you work with this data:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
+        <source>You can install extensions using the Extensions Manager option from the View menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="427"/>
+        <source>DICOM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
+        <source>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
+        <source>Checking {what}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="425"/>
+        <source>Warning: {messages}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="426"/>
+        <source>See python console for error message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="535"/>
+        <source>Loading {what}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="557"/>
+        <source>DICOM loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="568"/>
+        <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="573"/>
+        <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="585"/>
+        <source>Referenced datasets found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="589"/>
+        <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="599"/>
+        <source>Remember choice and stop asking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="601"/>
+        <source>Can be changed later in Application Settings / DICOM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="628"/>
+        <source>References</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
+        <source>DICOM Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
+        <source>Reader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
+        <source>Warnings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMPatcher</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="25"/>
+        <source>DICOM Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
+        <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="38"/>
+        <source>This file was originally developed by Andras Lasso, PerkLab.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="52"/>
+        <source>Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="60"/>
+        <source>Input DICOM directory:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="65"/>
+        <source>Output DICOM directory:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="70"/>
+        <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="71"/>
+        <source>Normalize file names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="78"/>
+        <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="79"/>
+        <source>Force same patient name and ID in each directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="86"/>
+        <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="87"/>
+        <source>Force same series instance UID in each directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
+        <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="94"/>
+        <source>Generate missing patient/study/series IDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="99"/>
+        <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
+        <source>Generate slice position for multi-frame volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="127"/>
+        <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="128"/>
+        <source>Partially anonymize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="135"/>
+        <source>Fix DICOM files in input directory and write them to output directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="142"/>
+        <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="162"/>
+        <source>Unexpected error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="259"/>
+        <source>Unspecified Patient {patientIndex}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="325"/>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="536"/>
+        <source>Unspecified Patient</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMScalarVolumePlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="32"/>
+        <source>Scalar Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
+        <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
+        <source>DICOM reader approach:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
+        <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
+        <source>default (apply regularization transform)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="91"/>
+        <source>none</source>
+        <translation type="unfinished">none</translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
+        <source>apply regularization transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
+        <source>Acquisition geometry regularization:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="100"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="113"/>
+        <source>DICOM examination settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="108"/>
+        <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="108"/>
+        <source>Allow loading subseries by time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="129"/>
+        <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="134"/>
+        <source>Pixel data mismatch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="187"/>
+        <source>{count} files, first file: {filename}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
+        <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="299"/>
+        <source>There is no pixel data attribute for the DICOM objects, but they might be readable as secondary capture images.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="558"/>
+        <source>Creates a series of DICOM files from scalar volumes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="586"/>
+        <source>Invalid subject hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="590"/>
+        <source>Series &apos;{itemName}&apos; cannot be exported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="607"/>
+        <source>Unable to get study for series &apos;{volumeName}&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="612"/>
+        <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="658"/>
+        <source>Empty modality for series &apos;{volumeName}&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="672"/>
+        <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="684"/>
+        <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMSlicerDataBundlePlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="27"/>
+        <source>Slicer Data Bundle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="75"/>
+        <source>Contains a Slicer scene</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="168"/>
+        <source>Slicer data bundle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"/>
+        <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="181"/>
+        <source>Invalid subject hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DICOMVolumeSequencePlugin</name>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="26"/>
+        <source>Volume Sequence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"/>
+        <source>Creates a series of DICOM files from volume sequences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
+        <source>Volume sequence of {count} frames</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"/>
+        <source>CT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"/>
+        <source>Unknown manufacturer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"/>
+        <source>Unknown model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="157"/>
+        <source>Invalid subject hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="161"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="167"/>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="173"/>
+        <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="180"/>
+        <source>Unable to get study for series &apos;{volumeName}&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="185"/>
+        <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="214"/>
+        <source>Empty modality for series &apos;{volumeName}&apos;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7950,6 +8479,19 @@ a = Affine Transform</source>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="168"/>
         <source>SceneView</source>
         <translation>Vista de escena</translation>
+    </message>
+</context>
+<context>
+    <name>SegmentEditorSubjectHierarchyPlugin</name>
+    <message>
+        <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="28"/>
+        <source>Segment this...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
+        <source>_Segmentation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14011,6 +14553,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="74"/>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.cxx" line="83"/>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="74"/>
@@ -14040,6 +14583,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="26"/>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="84"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="4"/>
