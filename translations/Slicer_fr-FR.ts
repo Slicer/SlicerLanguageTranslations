@@ -408,7 +408,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation>Hans Johnson(1,3,4)&#x202f;; Kent Williams(1)&#x202f;; Grégory Harris(1), Vincent Magnotta(1,2,3)&#x202f;; Andriy Fedorov(5)&#x202f;; Ali Ghayoor (4) 1 = Département de psychiatrie de l&apos;Université de l&apos;Iowa, 2 = Département de radiologie de l&apos;Université de l&apos;Iowa, 3 = Département de génie biomédical de l&apos;Université de l&apos;Iowa, 4 = Département de génie électrique et informatique de l&apos;Université de l&apos;Iowa, 5 = Laboratoire de planification chirurgicale , Harvard  </translation>
+        <translation>Hans Johnson(1,3,4) ; Kent Williams(1) ; Grégory Harris(1), Vincent Magnotta(1,2,3) ; Andriy Fedorov(5) ; Ali Ghayoor (4) 1 = Département de psychiatrie de l&apos;Université de l&apos;Iowa, 2 = Département de radiologie de l&apos;Université de l&apos;Iowa, 3 = Département de génie biomédical de l&apos;Université de l&apos;Iowa, 4 = Département de génie électrique et informatique de l&apos;Université de l&apos;Iowa, 5 = Laboratoire de planification chirurgicale , Harvard  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
@@ -2146,7 +2146,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation>Ce module de commande est dérivé d&apos;Insight/Exemples (copyright) Insight Software Consortium</translation>
+        <translation>Ce module de commande est dérivé d&apos;Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
@@ -2288,7 +2288,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"/>
         <source>Patient Name</source>
-        <translation>Nom du patient</translation>
+        <translation>Nom patient</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"/>
@@ -2313,7 +2313,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
         <source>The name of the patient (0010,0010)</source>
-        <translation>Le nom du patient (0010,0010)</translation>
+        <translation>Nom du patient (0010,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
@@ -3086,7 +3086,7 @@ Le MCDE ne présente pas les propriétés d&apos;amélioration des bords de la d
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation>Le seul type de sortie pris en charge est « court ». La conversion à partir d&apos;images d&apos;un type différent peut entraîner une perte de données due à l&apos;arrondi ou à la troncature. Utiliser avec précaution&#x202f;!</translation>
+        <translation>Le seul type de sortie pris en charge est « court ». La conversion à partir d&apos;images d&apos;un type différent peut entraîner une perte de données due à l&apos;arrondi ou à la troncature. Utiliser avec précaution !</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
@@ -4133,7 +4133,7 @@ Ce filtre est utilisé pour lisser les minima locaux sans affecter les valeurs d
 
 Ce filtre utilise le itkGrayscaleGeodesicErodeImageFilter. Il fournit sa propre entrée en tant qu&apos;entrée &quot;masque&quot; à l&apos;érosion géodésique. L&apos;image &quot;marqueur&quot; pour l&apos;érosion géodésique est construite de sorte que les pixels limites correspondent aux pixels limites de l&apos;image d&apos;entrée et que les pixels intérieurs soient réglés sur la valeur de pixel maximale dans l&apos;image d&apos;entrée.
 
-  La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis&#x202f;: Principles and Applications&quot;, Second Edition, Springer, 2003.
+  La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis : Principles and Applications&quot;, Second Edition, Springer, 2003.
 
   Un filtre compagnon, Grayscale Grind Peak, supprime les pics dans les images en niveaux de gris.</translation>
     </message>
@@ -4201,7 +4201,7 @@ Ce filtre utilise le GrayscaleGeodesicDilateImageFilter. Il fournit sa propre en
 
 Ce filtre est le double du GrayscaleFillholeImageFilter qui implémente l&apos;algorithme Fillhole. Comme il s&apos;agit d&apos;un double, il est un peu superflu mais est fourni par commodité.
 
-La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis&#x202f;: Principles and Applications&quot;, Second Edition, Springer, 2003.
+La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis : Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 Un filtre compagnon, Grayscale Fill Hole, comble les trous dans les images en niveaux de gris.</translation>
     </message>
@@ -8093,7 +8093,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Résoudre les problèmes courants dans les fichiers DICOM. Ce module peut aider à réparer les fichiers DICOM que Slicer ne parvient pas à importer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="38"/>
@@ -8128,12 +8128,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="78"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Générez le nom et l&apos;ID du patient à partir du premier fichier d&apos;un répertoire et forcez tous les autres fichiers du même répertoire à avoir le même nom et ID de patient. Activez cette option si un répertoire patient distinct est créé pour chaque fichier patché.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="79"/>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Forcer le même nom de patient et ID dans chaque répertoire</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="86"/>
@@ -8308,7 +8308,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="612"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;obtenir un patient pour la série &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="658"/>
@@ -8406,7 +8406,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="185"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;obtenir un patient pour la série &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="214"/>
@@ -8817,7 +8817,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
         <source>Database location:</source>
-        <translation>Emplacement de la base de données&#x202f;:</translation>
+        <translation>Emplacement de la base de données :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
@@ -8939,7 +8939,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation>Nom de la vue de scène&#x202f;:</translation>
+        <translation>Nom de la vue de scène :</translation>
     </message>
 </context>
 <context>
@@ -9287,7 +9287,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation>&amp;Découpage&#x202f;:</translation>
+        <translation>&amp;Découpage :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
@@ -9618,7 +9618,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
         <source>Fill:</source>
-        <translation>Remplir&#x202f;:</translation>
+        <translation>Remplir :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
@@ -9633,12 +9633,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
         <source>Unselected Color:</source>
-        <translation>Couleur non sélectionnée&#x202f;:</translation>
+        <translation>Couleur non sélectionnée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
         <source>Outline:</source>
-        <translation>Contour&#x202f;:</translation>
+        <translation>Contour :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="332"/>
@@ -9653,17 +9653,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
         <source>Line Thickness:</source>
-        <translation>Épaisseur de ligne&#x202f;:</translation>
+        <translation>Épaisseur de ligne :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
         <source>Selected Color:</source>
-        <translation>Couleur sélectionnée&#x202f;:</translation>
+        <translation>Couleur sélectionnée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
         <source>Control Point Labels:</source>
-        <translation>Étiquettes des points de contrôle&#x202f;:</translation>
+        <translation>Étiquettes des points de contrôle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
@@ -9673,17 +9673,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
         <source>Occluded Visibility:</source>
-        <translation>Visibilité occultée&#x202f;:</translation>
+        <translation>Visibilité occultée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation>Mode placement&#x202f;:</translation>
+        <translation>Mode placement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation>Libellé des propriétés&#x202f;:</translation>
+        <translation>Libellé des propriétés :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
@@ -9693,12 +9693,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
         <source>Glyph Size:</source>
-        <translation>Taille du glyphe&#x202f;:</translation>
+        <translation>Taille du glyphe :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
         <source>Text Size:</source>
-        <translation>Taille du texte&#x202f;:</translation>
+        <translation>Taille du texte :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
@@ -9846,7 +9846,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="308"/>
         <source>Enable rotation:</source>
-        <translation>Activer la rotation&#x202f;:</translation>
+        <translation>Activer la rotation :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="189"/>
@@ -9898,7 +9898,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
         <source>Bounds:</source>
-        <translation>Bornes&#x202f;:</translation>
+        <translation>Bornes :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
@@ -10010,7 +10010,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="50"/>
         <source>This is a test label in a test widget!</source>
-        <translation>Ceci est une étiquette de test dans un widget de test&#x202f;!</translation>
+        <translation>Ceci est une étiquette de test dans un widget de test !</translation>
     </message>
 </context>
 <context>
@@ -10087,7 +10087,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
         <source>Clipping:</source>
-        <translation>Découpage&#x202f;:</translation>
+        <translation>Découpage :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
@@ -10957,7 +10957,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation>Gamme P-A&#x202f;:</translation>
+        <translation>Gamme P-A :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
@@ -11636,7 +11636,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="137"/>
         <source>Coordinate system: </source>
-        <translation>Système de Coordonnées&#x202f;: </translation>
+        <translation>Système de Coordonnées : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="150"/>
@@ -12263,7 +12263,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
         <source>Unit:</source>
-        <translation>Unité&#x202f;:</translation>
+        <translation>Unité :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
@@ -12860,7 +12860,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
         <source>Orientation:</source>
-        <translation>Orientation&#x202f;:</translation>
+        <translation>Orientation :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
@@ -12933,7 +12933,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
         <source>Field of view:</source>
-        <translation>Champ de vision&#x202f;:</translation>
+        <translation>Champ de vision :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
@@ -12943,7 +12943,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="194"/>
         <source>Lightbox layout:</source>
-        <translation type="unfinished">Disposition de la lightbox&#x202f;:</translation>
+        <translation type="unfinished">Disposition de la lightbox :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="203"/>
@@ -13759,7 +13759,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="181"/>
         <source>Enable rotation: </source>
-        <translation>Activer la rotation&#x202f;: </translation>
+        <translation>Activer la rotation : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="191"/>
@@ -16106,7 +16106,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
-        <translation>Le module de données est le point central d&apos;organisation des données où toutes les données chargées sont présentées pour l&apos;accès et la manipulation est le module de données. Il permet d&apos;organiser les données dans des dossiers ou des arbres patient/étude (fait automatiquement pour DICOM), de visualiser toutes les données affichables, de transformer des branches entières et une multitude de caractéristiques spécifiques au type de données.</translation>
+        <translation>Module de Données est le point central d&apos;organisation des données où toutes les données chargées sont présentées pour l&apos;accès et la manipulation est le module de Données. Il permet d&apos;organiser les données dans des dossiers ou des arbres patient/étude (fait automatiquement pour DICOM), de visualiser toutes les données affichables, de transformer des branches entières et une multitude de caractéristiques spécifiques au type de données.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
@@ -16279,7 +16279,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Questions et demandes de fonctionnalités&#x202f;:&lt;/span&gt; visitez le &lt;a href=&quot;https&#x202f;://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;forum Slicer&lt;/span&gt;&lt;/a&gt; .&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Rapports de bug&#x202f;: &lt;/span&gt;&lt;a href=&quot;https&#x202f;://discourse.slicer.org/new-topic&#x202f;?body=Problem%20report%20for%20[appname-version-platform]&#x202f;:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp&#x202f;;category=support&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt; publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bug sur le &lt;a href=&quot;https&#x202f;://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration&#x202f;: underline&#x202f;;&quot;&gt;traqueur de bug de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Décrivez les étapes qui ont conduit à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;Attention - si vous travaillez avec des données de patients&#x202f;:&lt;/span&gt; Vérifiez que les messages de journal ne contiennent pas d&apos;informations permettant d&apos;identifier un patient. Envoyez les messages de journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions et demandes de fonctionnalités&#xa0;:&lt;/span&gt; visitez le &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Forum Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug rapports&#xa0;: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;publiez un nouveau sujet sur le forum Slicer&lt;/span&gt;&lt;/a&gt; pour nous faire part de votre problème ou soumettez un rapport de bogue au &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. à l&apos;erreur et joignez également les messages du journal.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Avertissement - si vous travaillez avec des données patient&#xa0;:&lt;/span&gt; Vérifiez que les messages du journal ne contiennent aucune information susceptible d&apos;identifier un patient. Envoyez les messages du journal à des personnes spécifiques au lieu de les partager publiquement sur une liste de diffusion ou un site Web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -20411,7 +20411,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="594"/>
         <source>Exported segments:</source>
-        <translation>Segments exportés&#x202f; :</translation>
+        <translation>Segments exportés  :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
@@ -22213,7 +22213,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="180"/>
         <source>Error!</source>
-        <translation>Erreur&#x202f;!</translation>
+        <translation>Erreur !</translation>
     </message>
 </context>
 <context>
@@ -22730,7 +22730,7 @@ Please check the error window for details.</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
         <source>Patient tags in item name:</source>
-        <translation>Les étiquettes des patients dans le nom de l&apos;article :</translation>
+        <translation>Etiquettes des patients dans le nom de l&apos;article :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
