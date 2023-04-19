@@ -7949,22 +7949,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="135"/>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout décocher</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="141"/>
         <source>Examine</source>
-        <translation type="unfinished"></translation>
+        <translation>Examiner</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="147"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="150"/>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger les éléments sélectionnés dans la scène</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="155"/>
@@ -7974,12 +7974,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="229"/>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Le type de données suivant se trouve dans votre base de données&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="231"/>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation>Les types de données suivants se trouvent dans votre base de données&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"/>
