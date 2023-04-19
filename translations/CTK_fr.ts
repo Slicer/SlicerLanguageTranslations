@@ -385,7 +385,7 @@ La fermeture de l&apos;onglet annulera le calcul en cours.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation>Avertissement&#x202f;:</translation>
+        <translation>Avertissement :</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
@@ -454,10 +454,10 @@ due to:
 %1
 
 </source>
-        <translation>Échec de l&apos;enregistrement du module&#x202f;:
+        <translation>Échec de l&apos;enregistrement du module :
 
 
-en raison de&#x202f;:
+en raison de :
 %1
 
 </translation>
@@ -934,11 +934,11 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation>Les fichiers des séries suivantes ne sont pas disponibles sur le disque&#x202f;:
-Nom du patient&#x202f;: %1
-Description de l&apos;étude&#x202f;: %2
-Description de la série&#x202f;: %3
-Voulez-vous supprimer la série de la base de données DICOM&#x202f;?</translation>
+        <translation>Les fichiers des séries suivantes ne sont pas disponibles sur le disque :
+Nom du patient : %1
+Description de l&apos;étude : %2
+Description de la série : %3
+Voulez-vous supprimer la série de la base de données DICOM ?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1093"/>
@@ -1668,7 +1668,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
         <source>File path:</source>
-        <translation>Chemin du fichier&#x202f;:</translation>
+        <translation>Chemin du fichier :</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
@@ -1899,7 +1899,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="398"/>
         <source>Retrieve failed.  Keep trying?</source>
-        <translation>Échec de la récupération. Continue d&apos;essayer&#x202f;?</translation>
+        <translation>Échec de la récupération. Continue d&apos;essayer ?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="428"/>
@@ -2396,7 +2396,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="73"/>
         <source>Chat:</source>
-        <translation>Discuter&#x202f;:</translation>
+        <translation>Discuter :</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
@@ -2684,27 +2684,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation>Couleur&#x202f;:</translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
         <source>Opacity:</source>
-        <translation>Opacité&#x202f;:</translation>
+        <translation>Opacité :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
         <source>Ambient:</source>
-        <translation>Ambiant&#x202f;:</translation>
+        <translation>Ambiant :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation>Diffuser&#x202f;:</translation>
+        <translation>Diffuser :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation>Spéculaire&#x202f;:</translation>
+        <translation>Spéculaire :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
@@ -2724,27 +2724,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation>Aperçu&#x202f;:</translation>
+        <translation>Aperçu :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation>Préconfigurations&#x202f;:</translation>
+        <translation>Préconfigurations :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation>Métallique&#x202f;:</translation>
+        <translation>Métallique :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation>Rugosité&#x202f;:</translation>
+        <translation>Rugosité :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation>Mode&#x202f;:</translation>
+        <translation>Mode :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
@@ -2815,7 +2815,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="335"/>
         <source>Are you sure you want to exit?</source>
-        <translation>Êtes-vous sûr de vouloir quitter&#x202f;?</translation>
+        <translation>Êtes-vous sûr de vouloir quitter ?</translation>
     </message>
 </context>
 <context>
@@ -4006,7 +4006,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"/>
         <source>Folder:</source>
-        <translation>Dossier&#x202f;:</translation>
+        <translation>Dossier :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"/>
@@ -4036,7 +4036,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation>Facteur d&apos;échelle&#x202f;:</translation>
+        <translation>Facteur d&apos;échelle :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
@@ -4077,7 +4077,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"/>
         <source>Overwrite:</source>
-        <translation>Écraser&#x202f;:</translation>
+        <translation>Écraser :</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"/>
@@ -4163,7 +4163,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="170"/>
         <source>Restart required!</source>
-        <translation>Redémarrage requis&#x202f;!</translation>
+        <translation>Redémarrage requis !</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
@@ -4361,7 +4361,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
         <source>Line Width:</source>
-        <translation>Largeur de ligne&#x202f;:</translation>
+        <translation>Largeur de ligne :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"/>
@@ -4386,12 +4386,12 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"/>
         <source>Color:</source>
-        <translation>Couleur&#x202f;:</translation>
+        <translation>Couleur :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation>Opacité&#x202f;:</translation>
+        <translation>Opacité :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
@@ -4411,7 +4411,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"/>
         <source>Lighting:</source>
-        <translation>Éclairage&#x202f;:</translation>
+        <translation>Éclairage :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
@@ -4436,7 +4436,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
         <source>Shading:</source>
-        <translation>Ombres&#x202f;:</translation>
+        <translation>Ombres :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
@@ -4457,10 +4457,10 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation>La taille de la vue de rendu est&#x202f;: largeur&#x202f;: %1 	 hauteur&#x202f;: %2 
-Mais la taille était           largeur&#x202f;: %3 	 hauteur&#x202f;: %4 
+        <translation>La taille de la vue de rendu est : largeur : %1 	 hauteur : %2 
+Mais la taille était           largeur : %3 	 hauteur : %4 
 pendant l&apos;enregistrement
-Voulez-vous le remplacer&#x202f;?</translation>
+Voulez-vous le remplacer ?</translation>
     </message>
 </context>
 <context>
@@ -4489,7 +4489,7 @@ Voulez-vous le remplacer&#x202f;?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"/>
         <source>Format:</source>
-        <translation>Format&#x202f;:</translation>
+        <translation>Format :</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"/>
