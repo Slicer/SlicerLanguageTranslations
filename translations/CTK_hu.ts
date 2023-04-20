@@ -437,7 +437,7 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished">A modul regisztrálása sikertelen:
+        <translation>A modul regisztrálása sikertelen:
 %1
 
 xml érvényesítési hiba miatt:
@@ -494,7 +494,7 @@ A hiba oka:
     <message>
         <location filename="Libs/Widgets/ctkColorDialog.cpp" line="70"/>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyszerű</translation>
     </message>
 </context>
 <context>
@@ -502,27 +502,27 @@ A hiba oka:
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Part 19 Hosztolt Alkalmazás</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="20"/>
         <source>CLModule not set.</source>
-        <translation type="unfinished"></translation>
+        <translation>A CLMmodul nincs beállítva.</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="30"/>
         <source>Get Data from Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatok lekérése a gazdagéptől</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="43"/>
         <source>No data received</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem érkezett adat</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.cmdlinemoduleapp/ctkCommandLineModuleAppWidget.ui" line="99"/>
         <source>Run and send data to host</source>
-        <translation type="unfinished"></translation>
+        <translation>Futtatás és adatok küldése a gazdagépnek</translation>
     </message>
 </context>
 <context>
@@ -530,49 +530,51 @@ A hiba oka:
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="140"/>
         <source>&amp;Run file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fájl futtatása</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="141"/>
         <source>Ctrl+g</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+g</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="145"/>
         <source>Print &amp;help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Használati útmutató</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="146"/>
         <source>Ctrl+h</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+h</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="151"/>
         <source>&amp;Run script from file</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szkript futtatása fájlból</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1371"/>
         <source>File &apos;%1&apos; can&apos;t be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>A &apos;%1&apos; fájl nem olvasható.</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1400"/>
         <source>Select a script file to run</source>
-        <translation type="unfinished"></translation>
+        <translation>Válassza ki a futtatandó szkript fájlt</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1412"/>
         <source>CTRL+h: Print this help message
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+h: Használati útmutató megjelenítése
+</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkConsole.cpp" line="1413"/>
         <source>CTRL+r: Open a file dialog to select a file to run
 </source>
-        <translation type="unfinished"></translation>
+        <translation>CTRL+r: Fájl párbeszédpanel megnyitása a futtatandó fájl kiválasztásához
+</translation>
     </message>
 </context>
 <context>
@@ -590,130 +592,130 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="72"/>
         <source>LocalDatabase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyi adatbázis:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="108"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="302"/>
         <source>Previous study</source>
-        <translation type="unfinished"></translation>
+        <translation>Előző vizsgálat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="324"/>
         <source>Previous series</source>
-        <translation type="unfinished"></translation>
+        <translation>Előző sorozat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="346"/>
         <source>Previous image</source>
-        <translation type="unfinished"></translation>
+        <translation>Előző kép</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="368"/>
         <source>Next image</source>
-        <translation type="unfinished"></translation>
+        <translation>Következő kép</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="390"/>
         <source>Next series</source>
-        <translation type="unfinished"></translation>
+        <translation>Következő sorozat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="412"/>
         <source>Next study</source>
-        <translation type="unfinished"></translation>
+        <translation>Következő vizsgálat</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="448"/>
         <source>auto-play</source>
-        <translation type="unfinished"></translation>
+        <translation>automatikus lejátszás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="475"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="298"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importálás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="478"/>
         <source>Import a DICOM file or folder</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM fájl vagy mappa importálása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="486"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportálás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="489"/>
         <source>Export selected study/series to a DICOM folder (not yet available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztott vizsgálat/sorozat exportálása DICOM mappába (még nem elérhető)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="494"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>Lekérdezés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="497"/>
         <source>Query and Retrieve DICOM studies from a DICOM node</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM-tanulmányok lekérdezése és lekérdezése egy DICOM hálózati csomópontból</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="505"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Küldés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="508"/>
         <source>Send DICOM Studies to a DICOM node (not yet available)</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM vizsgálatok küldése DICOM hálózati csomópontba (még nem elérhető)</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="516"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="519"/>
         <source>Remove from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás az adatbázisból</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="148"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM séma frissítése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="148"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="190"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mégse</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="153"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="195"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializálás...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="190"/>
         <source>DICOM Import</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM importálás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="295"/>
         <source>Copy on import</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolás importáláskor</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="299"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM fájlok importálása könyvtárból ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="671"/>
@@ -725,12 +727,18 @@ A hiba oka:
 %4 New Instances
 </source>
         <extracomment>Arguments represents the number of new patients, studies, series and instances</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A könyvtár importálása befejeződött.
+
+%1 Új alany
+%2 Új vizsgálat
+%3 Új sorozat
+%4 Új példány
+</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMAppWidget.cpp" line="680"/>
         <source>DICOM Directory Import</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM könyvtár importálása</translation>
     </message>
 </context>
 <context>
@@ -739,42 +747,42 @@ A hiba oka:
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="20"/>
         <source>DICOM Browser</source>
         <oldsource>ctkDICOMBrowser</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>DICOM böngésző</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="38"/>
         <source>DICOM Browser Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM böngésző eszköztár</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="69"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Figyelmeztetés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="76"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatbázis frissítése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="83"/>
         <source>Create new database</source>
-        <translation type="unfinished"></translation>
+        <translation>Új adatbázis létrehozása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="90"/>
         <source>Select database folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatbázis mappa kiválasztása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="144"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Információ</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="151"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
