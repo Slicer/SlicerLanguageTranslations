@@ -6,12 +6,12 @@
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="14"/>
         <source>DICOM Application Host</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM alkalmazásgazda</translation>
     </message>
     <message>
         <location filename="Applications/ctkExampleHost/ctkExampleHostMainWindow.ui" line="37"/>
         <source>CTK Example Hosting Application</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK példa kiszolgáló alkalmazás</translation>
     </message>
 </context>
 <context>
@@ -19,22 +19,22 @@
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Művelet</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="88"/>
         <source>Shortcut(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Billentyűparancs(ok)</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Context</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontextus</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkActionsWidget.cpp" line="89"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Részletek</translation>
     </message>
 </context>
 <context>
@@ -42,27 +42,27 @@
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="14"/>
         <source>Select items</source>
-        <translation type="unfinished"></translation>
+        <translation>Válassza ki az elemeket</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="36"/>
         <source>Add an object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objektum hozzáadása</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="59"/>
         <source>Remove select object</source>
-        <translation type="unfinished"></translation>
+        <translation>A kiválasztott elem eltávolítása</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkAddRemoveComboBox.ui" line="82"/>
         <source>Edit selected object</source>
-        <translation type="unfinished"></translation>
+        <translation>A kiválasztott elem szerkesztése</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkAddRemoveComboBox.cpp" line="75"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs</translation>
     </message>
 </context>
 <context>
@@ -71,23 +71,24 @@
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="204"/>
         <source>Closing %1 running modules</source>
         <extracomment>%1 is the number of running modules</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 futó modul bezárása</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="205"/>
         <source>Some modules are still running.
 Closing the application will cancel all current computations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Néhány modul még mindig fut.
+Az alkalmazás bezárása az összes folyamatban lévő számítást törli.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="291"/>
         <source>Load modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulok betöltése...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="443"/>
         <source>Failed while checking XML:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba XML ellenőrzés közben:</translation>
     </message>
 </context>
 <context>
@@ -95,12 +96,12 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="385"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="390"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs</translation>
     </message>
 </context>
 <context>
@@ -108,17 +109,17 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="14"/>
         <source>Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Keresési útvonalak</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="32"/>
         <source>Module Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul keresési útvonalak</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerDirectorySettings.ui" line="77"/>
         <source>The following list of paths will be searched for executables which provide a XML parameter description when called with a &quot;--xml&quot; command line argument:</source>
-        <translation type="unfinished"></translation>
+        <translation>A következő listában olyan futtatható programok keresése történik, amelyek XML paraméterleírást adnak meg, amikor a &quot;--xml&quot; parancssori argumentummal hívjuk őket:</translation>
     </message>
 </context>
 <context>
@@ -126,22 +127,22 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="14"/>
         <source>Module Settings            </source>
-        <translation type="unfinished"></translation>
+        <translation>Modul beállítások            </translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="32"/>
         <source>Run Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Futtatási beállítások</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="73"/>
         <source>Maximum parallel running modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>Párhuzamosan futó modulok maximális száma:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerGeneralModuleSettings.ui" line="93"/>
         <source>XML retrieval timeout (in seconds):</source>
-        <translation type="unfinished"></translation>
+        <translation>XML lekérdezési időkorlát (másodpercben):</translation>
     </message>
 </context>
 <context>
@@ -149,142 +150,142 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="14"/>
         <source>CTK Command Line Module Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>CTK parancssorimodul-kezelő</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="53"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fájl</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="61"/>
         <source>&amp;Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modul</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="78"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>eszköztár</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="106"/>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulok</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="146"/>
         <source>Progress Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Folyamat előrehaladása</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="195"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="266"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Kimenet</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="297"/>
         <source>XML Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>XML ellenőrző</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="322"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Ellenőrzés</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="369"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Futtatás</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="372"/>
         <source>Run module</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul futtatása</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="375"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="384"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mégse</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="387"/>
         <source>Cancel module</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul megszakítása</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="390"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="395"/>
         <source>&amp;Load Modules...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modulok betöltése...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="398"/>
         <source>Load module</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul betöltése</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="401"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="406"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kilépés</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="418"/>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szünet</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="421"/>
         <source>Pause module</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul szüneteltetése</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="424"/>
         <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="429"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beállítások...</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="434"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Visszaállítás</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="437"/>
         <source>Reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett értékek visszaállítása</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="442"/>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyorsítótár törlése</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.ui" line="447"/>
         <source>Reload Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Modulok újratöltése</translation>
     </message>
 </context>
 <context>
@@ -293,17 +294,17 @@ Closing the application will cancel all current computations.</source>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="14"/>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.ui" line="32"/>
         <source>Registered Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Regisztrált modulok</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="134"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Figyelmeztetés</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerModulesSettings.cpp" line="143"/>
         <source>No XML output available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs XML-kimenet.</translation>
     </message>
 </context>
 <context>
@@ -311,22 +312,22 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="14"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Előrehaladás</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="51"/>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Szüneteltetés</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="68"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerProgressWidget.ui" line="82"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
 </context>
 <context>
@@ -334,17 +335,17 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="39"/>
         <source>Show XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>XML-leírás megjelenítése</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="65"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezár</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerShowXmlAction.cpp" line="75"/>
         <source>No validation errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs érvényesítési hiba.</translation>
     </message>
 </context>
 <context>
@@ -352,25 +353,26 @@ Closing the application will cancel all current computations.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="97"/>
         <source>Closing a running module</source>
-        <translation type="unfinished"></translation>
+        <translation>Futó modul bezárása</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="99"/>
         <source>The module &apos;%1&apos; is still running.
 Closing the tab will cancel the current computation.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A &apos;%1&apos; modul még mindig fut.
+A lap bezárásával az aktuális számítás megszakad.</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="112"/>
         <source>Closing not possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Lezárás nem lehetséges</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTabList.cpp" line="114"/>
         <source>The module &apos;%1&apos; is still running and does not support being canceled.</source>
         <extracomment>%1 is the module name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az &apos;%1&apos; modul továbbra is fut, és nem támogatja a megszakítást.</translation>
     </message>
 </context>
 <context>
@@ -378,30 +380,32 @@ Closing the tab will cancel the current computation.</source>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="41"/>
         <source>Uncategorized</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs kategorizálva</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Figyelmeztetés:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
         <source>Create Frontend</source>
-        <translation type="unfinished"></translation>
+        <translation>Kezelőfelület létrehozása</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="275"/>
         <source>Frontend creation failed</source>
         <extracomment>%1 is the frontend factory name and %2 is the error description</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kezelőfelület létrehozása sikertelen</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="276"/>
         <source>Creating a %1 frontend failed:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>A %1 kezelőfelületlétrehozása nem sikerült:
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -416,7 +420,13 @@ due to:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A modul regisztrálása sikertelen:
+%1
+
+A hiba oka:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="50"/>
@@ -427,7 +437,13 @@ due to xml validation error:
 %2
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A modul regisztrálása sikertelen:
+%1
+
+xml érvényesítési hiba miatt:
+%2
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="60"/>
@@ -438,12 +454,18 @@ due to:
 %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A modul regisztrálása sikertelen:
+
+
+A hiba oka:
+%1
+
+</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Core/ctkCmdLineModuleUtils.cpp" line="96"/>
         <source>Failed to register modules</source>
-        <translation type="unfinished"></translation>
+        <translation>A modulok regisztrálása sikertelen</translation>
     </message>
 </context>
 <context>
@@ -451,7 +473,7 @@ due to:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp" line="108"/>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kész.</translation>
     </message>
 </context>
 <context>
@@ -459,12 +481,12 @@ due to:
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="69"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Indulás</translation>
     </message>
     <message>
         <location filename="Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp" line="89"/>
         <source>Finished </source>
-        <translation type="unfinished"></translation>
+        <translation>Kész </translation>
     </message>
 </context>
 <context>
