@@ -7948,7 +7948,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="141"/>
         <source>Examine</source>
-        <translation type="unfinished"></translation>
+        <translation>يفحص</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="147"/>
