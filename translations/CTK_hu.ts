@@ -587,7 +587,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="38"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">eszköztár</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMAppWidget.ui" line="72"/>
@@ -787,30 +787,30 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="271"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1125"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1127"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="190"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Előrehaladás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="219"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="385"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Importálás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="222"/>
         <source>Import a DICOM file or folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM fájl vagy mappa importálása</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="230"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportálás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="233"/>
@@ -820,7 +820,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="238"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lekérdezés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="241"/>
@@ -830,7 +830,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="249"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Küldés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="252"/>
@@ -840,7 +840,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="260"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eltávolítás</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
@@ -860,12 +860,12 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="271"/>
         <source>DICOM Schema Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM séma frissítése</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="274"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inicializálás...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="365"/>
@@ -890,7 +890,7 @@ A hiba oka:
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="386"/>
         <source>Import DICOM files from directory ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM fájlok importálása könyvtárból ...</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="391"/>
@@ -904,30 +904,30 @@ A hiba oka:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="639"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="666"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="640"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="668"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="686"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="688"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
         <source>Database Repair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="859"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="861"/>
         <source>All the files in the local database are available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="886"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="888"/>
         <source>The files for the following series are not available on the disk: 
 Patient Name: %1
 Study Description: %2
@@ -937,101 +937,101 @@ Do you want to remove the series from the DICOM database?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1090"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
         <source>Do you want to delete the following selected items?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1124"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1164"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1238"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1316"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1126"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1166"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1240"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1318"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1156"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1230"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1308"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1158"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1232"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1310"/>
         <source>View DICOM metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1159"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1161"/>
         <source>View DICOM metadata of %1 selected patients</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1167"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1169"/>
         <source>Delete %1 selected patients</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1172"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1246"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1324"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1174"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1248"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1326"/>
         <source>Export to file system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1175"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
         <source>Export %1 selected patients to file system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1332"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1182"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1256"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1334"/>
         <source>Send to DICOM server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1183"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1185"/>
         <source>Send %1 selected patients to DICOM server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1233"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1235"/>
         <source>View DICOM metadata of %1 selected studies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1241"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1243"/>
         <source>Delete %1 selected studies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1249"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1251"/>
         <source>Export %1 selected studies to file system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1257"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
         <source>Send %1 selected studies to DICOM server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1311"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1313"/>
         <source>View DICOM metadata of %1 selected series</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1319"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1321"/>
         <source>Delete %1 selected series</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1327"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1329"/>
         <source>Export %1 selected series to file system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1335"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
         <source>Send %1 selected series to DICOM server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1419"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1421"/>
         <source>Unable to create export destination directory:
 
 %1
@@ -1041,23 +1041,23 @@ Halting export.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
         <source>DICOM Export</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bezár</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1439"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1441"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1456"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1458"/>
         <source>Export source file not found:
 
 %1
@@ -1069,7 +1069,7 @@ Error may be fixed via Repair.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1469"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1471"/>
         <source>Export destination file already exists:
 
 %1
@@ -1079,7 +1079,7 @@ Halting export.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1484"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1486"/>
         <source>Failed to copy
 
 %1
@@ -1093,12 +1093,12 @@ Halting export.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1514"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1516"/>
         <source>Updating database displayed fields...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1788"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1790"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
         <translation type="unfinished"></translation>
@@ -1125,7 +1125,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMDirectoryListWidget.ui" line="62"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OK</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMDirectoryListWidget.cpp" line="77"/>
@@ -1159,12 +1159,12 @@ Halting export.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="126"/>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="128"/>
         <source>Series selected: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="136"/>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="138"/>
         <source>no series selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1817,7 +1817,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="26"/>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="75"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lekérdezés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="54"/>
@@ -1833,54 +1833,54 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryRetrieveWidget.ui" line="122"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bezár</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="207"/>
         <source>Query DICOM servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="207"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="210"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="307"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="211"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="309"/>
         <source>Initialization...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inicializálás...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Retrieve from DICOM servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="341"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="343"/>
         <source>Retrieving:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="396"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="431"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="434"/>
         <source>Query Retrieve</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="396"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
         <source>Retrieve failed.  Keep trying?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="426"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="429"/>
         <source>Retrieve Process Finished</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="429"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="432"/>
         <source>Retrieve Process Canceled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1890,7 +1890,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="14"/>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lekérdezés</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="48"/>
@@ -2369,7 +2369,7 @@ Halting export.</source>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Küldés</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.cpp" line="42"/>
@@ -2405,7 +2405,7 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="14"/>
         <source>DICOM Part 19 Hosted App</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM Part 19 Hosztolt Alkalmazás</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="23"/>
@@ -2415,7 +2415,7 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="36"/>
         <source>No data received</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem érkezett adat</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.exampleapp/ctkExampleDicomAppWidget.ui" line="59"/>
@@ -2433,7 +2433,7 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="32"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nincs</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="56"/>
@@ -2443,7 +2443,7 @@ Halting export.</source>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="63"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Futtatás</translation>
     </message>
     <message>
         <location filename="Plugins/org.commontk.dah.examplehost/ctkExampleHostControlWidget.ui" line="70"/>
@@ -2760,7 +2760,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="93"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keresés</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkMenuComboBox.cpp" line="125"/>
@@ -3323,7 +3323,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="46"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eltávolítás</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkPathListButtonsWidget.ui" line="53"/>
@@ -3410,7 +3410,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="56"/>
         <source>Starting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Indulás</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowser.cpp" line="57"/>
@@ -3498,7 +3498,7 @@ Please check your permissions.</source>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="334"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">eszköztár</translation>
     </message>
     <message>
         <location filename="Applications/ctkPluginBrowser/ctkPluginBrowserMainWindow.ui" line="345"/>
@@ -4230,7 +4230,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="194"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visszaállítás</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/ctkVTKDiscretizableColorTransferWidget.cpp" line="242"/>
@@ -4816,7 +4816,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="85"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Részletek</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="94"/>
@@ -4826,7 +4826,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="113"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Fájl</translation>
     </message>
     <message>
         <location filename="Applications/ctkXnatTreeBrowser/ctkXnatTreeBrowserMainWindow.ui" line="122"/>

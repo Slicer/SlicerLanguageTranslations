@@ -385,7 +385,7 @@ La fermeture de l&apos;onglet annulera le calcul en cours.</translation>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="68"/>
         <source>Warning:</source>
-        <translation>Avertissement :</translation>
+        <translation>Avertissement&#x202f;:</translation>
     </message>
     <message>
         <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerTreeWidget.cpp" line="90"/>
@@ -454,10 +454,10 @@ due to:
 %1
 
 </source>
-        <translation>Échec de l&apos;enregistrement du module :
+        <translation>Échec de l&apos;enregistrement du module&#x202f;:
 
 
-en raison de :
+en raison de&#x202f;:
 %1
 
 </translation>
@@ -787,7 +787,7 @@ en raison de :
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="271"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1125"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1127"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -904,138 +904,138 @@ en raison de :
         <translation>Impossible de créer une nouvelle base de données dans le dossier %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="639"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="666"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="640"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="668"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>Aucune base de données DICOM valide trouvée dans le dossier %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="686"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="688"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>Version de base de données DICOM incompatible trouvée dans le dossier %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
         <source>Database Repair</source>
         <translation>Réparation de base de données</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="859"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="861"/>
         <source>All the files in the local database are available.</source>
         <translation>Tous les fichiers de la base de données locale sont disponibles.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="886"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="888"/>
         <source>The files for the following series are not available on the disk: 
 Patient Name: %1
 Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation>Les fichiers des séries suivantes ne sont pas disponibles sur le disque :
-Nom du patient : %1
-Description de l&apos;étude : %2
-Description de la série : %3
-Voulez-vous supprimer la série de la base de données DICOM ?</translation>
+        <translation>Les fichiers des séries suivantes ne sont pas disponibles sur le disque&#x202f;:
+Nom du patient&#x202f;: %1
+Description de l&apos;étude&#x202f;: %2
+Description de la série&#x202f;: %3
+Voulez-vous supprimer la série de la base de données DICOM&#x202f;?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1090"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
         <source>Do you want to delete the following selected items?</source>
         <translation>Voulez-vous supprimer les éléments sélectionnés suivants&#xa0;?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1124"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1164"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1238"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1316"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1126"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1166"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1240"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1318"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1156"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1230"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1308"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1158"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1232"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1310"/>
         <source>View DICOM metadata</source>
         <translation>Afficher les métadonnées DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1159"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1161"/>
         <source>View DICOM metadata of %1 selected patients</source>
         <translation>Afficher les métadonnées DICOM de %1&#xa0;patients sélectionnés</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1167"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1169"/>
         <source>Delete %1 selected patients</source>
         <translation>Supprimer %1 patients sélectionnés</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1172"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1246"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1324"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1174"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1248"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1326"/>
         <source>Export to file system</source>
         <translation>Exporter vers le système de fichiers</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1175"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
         <source>Export %1 selected patients to file system</source>
         <translation>Exporter %1&#xa0;patients sélectionnés vers le système de fichiers</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1332"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1182"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1256"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1334"/>
         <source>Send to DICOM server</source>
         <translation>Envoyer au serveur DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1183"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1185"/>
         <source>Send %1 selected patients to DICOM server</source>
         <translation>Envoyer %1&#xa0;patients sélectionnés au serveur DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1233"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1235"/>
         <source>View DICOM metadata of %1 selected studies</source>
         <translation>Afficher les métadonnées DICOM de %1 études sélectionnées</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1241"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1243"/>
         <source>Delete %1 selected studies</source>
         <translation>Supprimer %1 études sélectionnées</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1249"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1251"/>
         <source>Export %1 selected studies to file system</source>
         <translation>Exporter %1 études sélectionnées vers le système de fichiers</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1257"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
         <source>Send %1 selected studies to DICOM server</source>
         <translation>Envoyer %1 études sélectionnées au serveur DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1311"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1313"/>
         <source>View DICOM metadata of %1 selected series</source>
         <translation>Afficher les métadonnées DICOM de %1 séries sélectionnées</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1319"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1321"/>
         <source>Delete %1 selected series</source>
         <translation>Supprimer %1 séries sélectionnées</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1327"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1329"/>
         <source>Export %1 selected series to file system</source>
         <translation>Exporter %1 séries sélectionnées vers le système de fichiers</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1335"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
         <source>Send %1 selected series to DICOM server</source>
         <translation>Envoyer %1 séries sélectionnées au serveur DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1419"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1421"/>
         <source>Unable to create export destination directory:
 
 %1
@@ -1049,23 +1049,23 @@ Halting export.</source>
 Arrêt de l&apos;exportation.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
         <source>DICOM Export</source>
         <translation>Exportation DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1439"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1441"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
         <translation>Exportation de la série %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1456"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1458"/>
         <source>Export source file not found:
 
 %1
@@ -1083,7 +1083,7 @@ Arrêt de l&apos;exportation.
 L&apos;erreur peut être corrigée via la réparation.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1469"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1471"/>
         <source>Export destination file already exists:
 
 %1
@@ -1097,7 +1097,7 @@ Halting export.</source>
 Arrêt de l&apos;exportation.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1484"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1486"/>
         <source>Failed to copy
 
 %1
@@ -1119,12 +1119,12 @@ pour
 Arrêt de l&apos;exportation.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1514"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1516"/>
         <source>Updating database displayed fields...</source>
         <translation>Mise à jour des champs affichés de la base de données...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1788"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1790"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
         <translation>Importation terminée&#xa0;: %1&#xa0;patients ajoutés, %2&#xa0;études, %3&#xa0;séries, %4&#xa0;instances.</translation>
@@ -1185,12 +1185,12 @@ Arrêt de l&apos;exportation.</translation>
         <translation>Choisissez l&apos;application hébergée</translation>
     </message>
     <message>
-        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="126"/>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="128"/>
         <source>Series selected: </source>
         <translation>Série sélectionnée&#xa0;: </translation>
     </message>
     <message>
-        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="136"/>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="138"/>
         <source>no series selected</source>
         <translation>aucune série sélectionnée</translation>
     </message>
@@ -1668,7 +1668,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="24"/>
         <source>File path:</source>
-        <translation>Chemin du fichier :</translation>
+        <translation>Chemin du fichier&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMObjectListWidget.ui" line="44"/>
@@ -1862,52 +1862,52 @@ Arrêt de l&apos;exportation.</translation>
         <translation>Fermer</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="207"/>
         <source>Query DICOM servers</source>
         <translation>Interroger les serveurs DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="207"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="210"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="307"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="211"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="309"/>
         <source>Initialization...</source>
         <translation>Initialisation...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Retrieve from DICOM servers</source>
         <translation>Récupérer depuis les serveurs DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="341"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="343"/>
         <source>Retrieving:
 %1</source>
         <translation>Récupération&#xa0;:
 %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="396"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="431"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="434"/>
         <source>Query Retrieve</source>
         <translation>Récupération de requête</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="396"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
         <source>Retrieve failed.  Keep trying?</source>
-        <translation>Échec de la récupération. Continue d&apos;essayer ?</translation>
+        <translation>Échec de la récupération. Continue d&apos;essayer&#x202f;?</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="426"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="429"/>
         <source>Retrieve Process Finished</source>
         <translation>Processus de récupération terminé</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="429"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="432"/>
         <source>Retrieve Process Canceled</source>
         <translation>Processus de récupération annulé</translation>
     </message>
@@ -2391,7 +2391,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="73"/>
         <source>Chat:</source>
-        <translation>Discuter :</translation>
+        <translation>Discuter&#x202f;:</translation>
     </message>
     <message>
         <location filename="Applications/ctkEventBusDemo/ctkEventBusDemoMainWindow.ui" line="115"/>
@@ -2679,27 +2679,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation>Couleur :</translation>
+        <translation>Couleur&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
         <source>Opacity:</source>
-        <translation>Opacité :</translation>
+        <translation>Opacité&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
         <source>Ambient:</source>
-        <translation>Ambiant :</translation>
+        <translation>Ambiant&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation>Diffuser :</translation>
+        <translation>Diffuser&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation>Spéculaire :</translation>
+        <translation>Spéculaire&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
@@ -2719,27 +2719,27 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation>Aperçu :</translation>
+        <translation>Aperçu&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation>Préconfigurations :</translation>
+        <translation>Préconfigurations&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation>Métallique :</translation>
+        <translation>Métallique&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation>Rugosité :</translation>
+        <translation>Rugosité&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
         <source>Mode:</source>
-        <translation>Mode :</translation>
+        <translation>Mode&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="308"/>
@@ -2810,7 +2810,7 @@ Arrêt de l&apos;exportation.</translation>
     <message>
         <location filename="Libs/Widgets/ctkMessageBox.cpp" line="335"/>
         <source>Are you sure you want to exit?</source>
-        <translation>Êtes-vous sûr de vouloir quitter ?</translation>
+        <translation>Êtes-vous sûr de vouloir quitter&#x202f;?</translation>
     </message>
 </context>
 <context>
@@ -4001,7 +4001,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="105"/>
         <source>Folder:</source>
-        <translation>Dossier :</translation>
+        <translation>Dossier&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="112"/>
@@ -4031,7 +4031,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="146"/>
         <source>Scale factor:</source>
-        <translation>Facteur d&apos;échelle :</translation>
+        <translation>Facteur d&apos;échelle&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="156"/>
@@ -4072,7 +4072,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="249"/>
         <source>Overwrite:</source>
-        <translation>Écraser :</translation>
+        <translation>Écraser&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkScreenshotDialog.ui" line="266"/>
@@ -4158,7 +4158,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="170"/>
         <source>Restart required!</source>
-        <translation>Redémarrage requis !</translation>
+        <translation>Redémarrage requis&#x202f;!</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkSettingsDialog.cpp" line="171"/>
@@ -4356,7 +4356,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
         <source>Line Width:</source>
-        <translation>Largeur de ligne :</translation>
+        <translation>Largeur de ligne&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="110"/>
@@ -4381,12 +4381,12 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"/>
         <source>Color:</source>
-        <translation>Couleur :</translation>
+        <translation>Couleur&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation>Opacité :</translation>
+        <translation>Opacité&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
@@ -4406,7 +4406,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="217"/>
         <source>Lighting:</source>
-        <translation>Éclairage :</translation>
+        <translation>Éclairage&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
@@ -4431,7 +4431,7 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="257"/>
         <source>Shading:</source>
-        <translation>Ombres :</translation>
+        <translation>Ombres&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="274"/>
@@ -4452,10 +4452,10 @@ tous les paramètres à leurs valeurs par défaut&#xa0;?
 But the size was         width : %3 	 height : %4 
 during the record 
 Do you want to replace it ?</source>
-        <translation>La taille de la vue de rendu est : largeur : %1 	 hauteur : %2 
-Mais la taille était           largeur : %3 	 hauteur : %4 
+        <translation>La taille de la vue de rendu est&#x202f;: largeur&#x202f;: %1 	 hauteur&#x202f;: %2 
+Mais la taille était           largeur&#x202f;: %3 	 hauteur&#x202f;: %4 
 pendant l&apos;enregistrement
-Voulez-vous le remplacer ?</translation>
+Voulez-vous le remplacer&#x202f;?</translation>
     </message>
 </context>
 <context>
@@ -4484,7 +4484,7 @@ Voulez-vous le remplacer ?</translation>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="54"/>
         <source>Format:</source>
-        <translation>Format :</translation>
+        <translation>Format&#x202f;:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKScalarBarWidget.ui" line="64"/>

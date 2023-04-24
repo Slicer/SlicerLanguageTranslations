@@ -787,7 +787,7 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="271"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1125"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1127"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
@@ -904,30 +904,30 @@ due to:
         <translation>فشل إنشاء قاعدة بيانات جديدة في المجلد %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="639"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="666"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="640"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="668"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>لم يتم العثور على قاعدة بيانات DICOM صالحة في المجلد %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="686"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="688"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>تم العثور على إصدار قاعدة بيانات DICOM غير متوافق في المجلد %1.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="829"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
         <source>Database Repair</source>
         <translation>إصلاح قاعدة البيانات</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="859"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="861"/>
         <source>All the files in the local database are available.</source>
         <translation>تتوفر جميع الملفات الموجودة في قاعدة البيانات المحلية.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="886"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="888"/>
         <source>The files for the following series are not available on the disk: 
 Patient Name: %1
 Study Description: %2
@@ -941,101 +941,101 @@ Do you want to remove the series from the DICOM database?</source>
 هل تريد إزالة السلسلة من قاعدة بيانات DICOM؟</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1090"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
         <source>Do you want to delete the following selected items?</source>
         <translation>هل تريد حذف العناصر المحددة التالية؟</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1124"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1164"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1238"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1316"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1126"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1166"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1240"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1318"/>
         <source>Delete</source>
         <translation>حذف</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1156"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1230"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1308"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1158"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1232"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1310"/>
         <source>View DICOM metadata</source>
         <translation>عرض بيانات تعريف DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1159"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1161"/>
         <source>View DICOM metadata of %1 selected patients</source>
         <translation>عرض بيانات تعريف DICOM للمرضى المختارين %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1167"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1169"/>
         <source>Delete %1 selected patients</source>
         <translation>حذف %1 المرضى المختارين</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1172"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1246"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1324"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1174"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1248"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1326"/>
         <source>Export to file system</source>
         <translation>تصدير إلى نظام الملفات</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1175"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
         <source>Export %1 selected patients to file system</source>
         <translation>تصدير %1 المرضى المحددين إلى نظام الملفات</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1180"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1254"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1332"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1182"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1256"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1334"/>
         <source>Send to DICOM server</source>
         <translation>إرسال إلى خادم DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1183"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1185"/>
         <source>Send %1 selected patients to DICOM server</source>
         <translation>إرسال %1 المرضى المحددين إلى خادم DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1233"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1235"/>
         <source>View DICOM metadata of %1 selected studies</source>
         <translation>عرض بيانات DICOM الوصفية للدراسات المحددة %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1241"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1243"/>
         <source>Delete %1 selected studies</source>
         <translation>حذف %1 الدراسات المختارة</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1249"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1251"/>
         <source>Export %1 selected studies to file system</source>
         <translation>تصدير %1 الدراسات المختارة إلى نظام الملفات</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1257"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
         <source>Send %1 selected studies to DICOM server</source>
         <translation>أرسل %1 الدراسات المحددة إلى خادم DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1311"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1313"/>
         <source>View DICOM metadata of %1 selected series</source>
         <translation>عرض بيانات تعريف DICOM للسلسلة المحددة %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1319"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1321"/>
         <source>Delete %1 selected series</source>
         <translation>حذف %1 سلسلة مختارة</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1327"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1329"/>
         <source>Export %1 selected series to file system</source>
         <translation>تصدير %1 سلسلة مختارة إلى نظام الملفات</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1335"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
         <source>Send %1 selected series to DICOM server</source>
         <translation>أرسل %1 السلسلة المحددة إلى خادم DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1419"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1421"/>
         <source>Unable to create export destination directory:
 
 %1
@@ -1049,23 +1049,23 @@ Halting export.</source>
 وقف التصدير.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
         <source>DICOM Export</source>
         <translation>تصدير DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1433"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
         <source>Close</source>
         <translation>إغلاق</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1439"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1441"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
         <translation>تصدير سلسلة %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1456"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1458"/>
         <source>Export source file not found:
 
 %1
@@ -1083,7 +1083,7 @@ Error may be fixed via Repair.</source>
 قد يتم إصلاح الخطأ عبر إصلاح.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1469"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1471"/>
         <source>Export destination file already exists:
 
 %1
@@ -1097,7 +1097,7 @@ Halting export.</source>
 وقف التصدير.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1484"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1486"/>
         <source>Failed to copy
 
 %1
@@ -1119,12 +1119,12 @@ Halting export.</source>
 وقف التصدير.</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1514"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1516"/>
         <source>Updating database displayed fields...</source>
         <translation>تحديث الحقول المعروضة لقاعدة البيانات ...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1788"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1790"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
         <translation>اكتمل الاستيراد: تمت إضافة مرضى %1 ، دراسات %2 ، سلسلة %3 ، مثيلات %4.</translation>
@@ -1185,12 +1185,12 @@ Halting export.</source>
         <translation>اختر التطبيق المستضاف</translation>
     </message>
     <message>
-        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="126"/>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="128"/>
         <source>Series selected: </source>
         <translation>السلسلة المختارة: </translation>
     </message>
     <message>
-        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="136"/>
+        <location filename="Applications/ctkDICOMHost/ctkDICOMHostMainLogic.cpp" line="138"/>
         <source>no series selected</source>
         <translation>لم يتم تحديد أي سلسلة</translation>
     </message>
@@ -1862,52 +1862,52 @@ Halting export.</source>
         <translation>إغلاق</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="207"/>
         <source>Query DICOM servers</source>
         <translation>الاستعلام عن خوادم DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="206"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="207"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Cancel</source>
         <translation>إلغاء</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="210"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="307"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="211"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="309"/>
         <source>Initialization...</source>
         <translation>تمهيد...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="303"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="305"/>
         <source>Retrieve from DICOM servers</source>
         <translation>الاسترداد من خوادم DICOM</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="341"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="343"/>
         <source>Retrieving:
 %1</source>
         <translation>استرداد:
 %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="396"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="431"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="434"/>
         <source>Query Retrieve</source>
         <translation>استرجاع الاستعلام</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="396"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
         <source>Retrieve failed.  Keep trying?</source>
         <translation>فشل الاسترداد.  استمر في المحاولة؟</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="426"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="429"/>
         <source>Retrieve Process Finished</source>
         <translation>تم الانتهاء من عملية الاسترداد</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="429"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="432"/>
         <source>Retrieve Process Canceled</source>
         <translation>تم إلغاء عملية الاسترداد</translation>
     </message>
