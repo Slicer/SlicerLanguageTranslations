@@ -25371,7 +25371,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="391"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan Pengelola Ekstensi untuk memperbarui ekstensi ini:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="425"/>
