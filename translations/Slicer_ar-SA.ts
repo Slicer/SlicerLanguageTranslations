@@ -8004,77 +8004,77 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
         <source>Checking {what}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">التحقق من {ماذا}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="425"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحذير: {الرسائل}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="426"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>راجع وحدة التحكم في بايثون لرسالة الخطأ.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="535"/>
         <source>Loading {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="557"/>
         <source>DICOM loading</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="568"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تحذير في المكون الإضافي DICOM {نوع التحمل} عند فحص الملف القابل للتحميل {اسم}: {رسالة}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="573"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>تم اكتشاف تحذيرات أثناء التحميل.  افحص البيانات في الوضع المتقدم للحصول على التفاصيل.  تحميل على أي حال؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="585"/>
         <source>Referenced datasets found</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على مجموعات البيانات المشار إليها</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="589"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحتوي كائنات DICOM المحملة على مراجع لمجموعات بيانات أخرى لم تحددها للتحميل. يُرجى تحديد &quot;نعم&quot; إذا كنت ترغب في تحميل مجموعات البيانات المشار إليها التالية ، أو &quot;لا&quot; إذا كنت تريد فقط تحميل السلسلة المحددة في الأصل ، أو &quot;إلغاء&quot; لإيقاف التحميل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="599"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished"></translation>
+        <translation>تذكر الاختيار وتوقف عن السؤال</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="601"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن تغييرها لاحقا في إعدادات التطبيق / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="628"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>مراجع</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>قارئ</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذيرات</translation>
     </message>
 </context>
 <context>
