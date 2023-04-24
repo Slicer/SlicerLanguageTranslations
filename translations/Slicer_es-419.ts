@@ -2134,7 +2134,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una serie DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
@@ -2154,7 +2154,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
@@ -2276,62 +2276,62 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="34"/>
         <source>Patient Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="35"/>
         <source>Parameters that apply to a patient</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros aplicables al paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="36"/>
         <source>Patient Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="37"/>
         <source>Patient ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="38"/>
         <source>Patient Birth Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de nacimiento del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="39"/>
         <source>Patient Sex</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexo del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="40"/>
         <source>Patient Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios del paciente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="41"/>
         <source>The name of the patient (0010,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre del paciente (0010,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="42"/>
         <source>The patient ID (0010,0020). If set to [random] then a random ID will be generated.</source>
-        <translation type="unfinished"></translation>
+        <translation>El identificador del paciente (0010,0020). Si se establece en [aleatorio], se generará un identificador aleatorio.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="43"/>
         <source>Patient birth date (0010,0030) in the format YYYYMMDD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de nacimiento del paciente (0010,0030) en el formato AAAAMMDD.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="44"/>
         <source>Patient sex (0010,0040). M=male, F=female, O=other, [unknown]=not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexo del paciente (0010,0040). M=masculino, F=femenino, O=otro, [desconocido]=no especificado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="45"/>
         <source>Patient comments (0010,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios del paciente (0010,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="46"/>
@@ -2357,37 +2357,37 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="51"/>
         <source>Study Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros del estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="52"/>
         <source>Parameters that apply to a study</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros aplicables al estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="53"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador del estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="54"/>
         <source>Study Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha del estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="55"/>
         <source>Study Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo del estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="56"/>
         <source>Study Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios del estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="57"/>
         <source>Study Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción del estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="58"/>
@@ -2407,7 +2407,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
         <source>The study ID (0020,0010)</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador único del estudio (0020,0010)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
@@ -2422,12 +2422,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="64"/>
         <source>Study comments (0032,4000)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentarios del estudio (0032,4000)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
         <source>Study description (0008,1030)</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción del estudio (0008,1030)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="66"/>
@@ -2478,47 +2478,47 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="76"/>
         <source>Series Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="77"/>
         <source>Parameters that apply to a series</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros aplicables a la serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="78"/>
         <source>Series Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="79"/>
         <source>Series Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción de la serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="80"/>
         <source>Series Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de la serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="81"/>
         <source>Series Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de la serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="82"/>
         <source>Patient Position:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición del paciente:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="83"/>
         <source>The series number (0020,0011)</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de la serie (0020,0011)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
         <source>Series description (0008,103E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripción de la serie (0008,103E)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
@@ -2533,7 +2533,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="87"/>
         <source>Patient position descriptor relative to the equipment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descriptor de la posición del paciente en relación con el equipo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
@@ -2619,7 +2619,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
         <source>Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
@@ -2709,12 +2709,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="123"/>
         <source>Study Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador único de la instancia de estudio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
         <source>Series Instance UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificador único de la instancia de la serie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
@@ -6221,7 +6221,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
@@ -7708,7 +7708,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="277"/>
         <source>DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
@@ -7718,7 +7718,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
         <source>Database location:</source>
-        <translation type="unfinished">Database location:</translation>
+        <translation>Ubicación de la base de datos:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
@@ -7768,12 +7768,12 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar directorio en la base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="514"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo crear una base de datos DICOM con la configuración predeterminada. Por favor, cree una nueva base de datos o actualice la base de datos incompatible existente utilizando las opciones mostradas en el navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
@@ -7793,7 +7793,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="642"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar los archivos importados a la base de datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="644"/>
@@ -8195,7 +8195,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="91"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
@@ -8951,7 +8951,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="136"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="139"/>
@@ -10880,7 +10880,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="62"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="242"/>
@@ -11140,7 +11140,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="151"/>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="195"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="156"/>
@@ -11828,7 +11828,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1041"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1042"/>
@@ -13633,7 +13633,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="72"/>
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="128"/>
@@ -13780,7 +13780,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="274"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="276"/>
@@ -18971,7 +18971,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
@@ -22775,7 +22775,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="237"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="86"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="181"/>
@@ -23097,7 +23097,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="615"/>
         <source>No study description</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin descripción del estudio</translation>
     </message>
 </context>
 <context>
@@ -23497,7 +23497,7 @@ Note: This may result in unwanted data loss in %4.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="382"/>
         <source>None)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
@@ -23648,7 +23648,7 @@ Note: This may result in unwanted data loss in %5.</source>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="361"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="385"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="398"/>
