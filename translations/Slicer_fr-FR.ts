@@ -1064,7 +1064,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de points de correspondance d&apos;histogramme utilisés pour l&apos;estimation des métriques d&apos;informations mutuelles.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
