@@ -8066,22 +8066,22 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="628"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Références</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecteur</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissements</translation>
     </message>
 </context>
 <context>
