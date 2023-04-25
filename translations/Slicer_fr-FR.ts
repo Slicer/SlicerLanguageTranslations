@@ -21908,12 +21908,12 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="106"/>
         <source>Amount of space that should remain free. It should be the typical size of a file to download.</source>
-        <translation type="unfinished">Amount of space that should remain free. It should be the typical size of a file to download.</translation>
+        <translation>Quantité d’espace qui devrait rester libre. Il doit correspondre à la taille typique d’un fichier à télécharger.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="109"/>
         <source>Cache free buffer:</source>
-        <translation type="unfinished">Cache free buffer:</translation>
+        <translation>Mémoire tampon libre du cache :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsCachePanel.ui" line="116"/>
