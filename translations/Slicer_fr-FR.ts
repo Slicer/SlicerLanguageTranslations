@@ -5298,7 +5298,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation>Effectue une correction du biais d&apos;image à l&apos;aide de l&apos;algorithme N4. Ce module est basé sur les filtres ITK contribués dans la publication suivante : Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net /10380/3053</translation>
+        <translation>Effectue une correction du biais d&apos;image à l&apos;aide de l&apos;algorithme N4. Ce module est basé sur les filtres ITK contribués dans la publication suivante : Tustison N, Gee J &quot;N4ITK : Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https ://hdl.handle.net /10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
@@ -25865,23 +25865,23 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;documentation&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Démarrage rapide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Obtenir de l’aide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Interface utilisateur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&amp;quot ;https ://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&amp;quot ;&gt;Boutons de la souris, raccourcis clavier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Parcourir les didacticiels&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;Contactez-nous&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https ://discourse.slicer.org/&quot;&gt;Visitez le forum Slicer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://twitter.com/3dslicerapp&quot;&gt;Rejoignez-nous sur Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Rechercher des caractéristiques de demandes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Signaler un bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;À propos de 3D Slicer&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https ://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Voir la licence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;Comment citer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://scholar.google.com/scholar ?&amp;amp ;as_sdt=1%2C22&amp;amp ;as_vis=1&amp;amp ;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp ;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Remerciements&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;Documentation&lt;/b&gt;&lt;/p&gt; &lt;p&gt;La documentation
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Démarrage rapide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Obtenir de l&apos;aide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Interface utilisateur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Boutons de la souris, &quot;Hot-keys&quot; ; et raccourcis clavier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Parcourir les tutoriels&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Contactez-nous&lt;/p&gt; &lt;p&gt;Lisez le communiqué de presse
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Visiter le Forum Slicer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;Joignez-nous sur Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Recherche de demandes de caractéristiques&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Reporter un bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;A propos de 3D Slicer&lt;/p&gt; &lt;p&gt;L&apos;utilisation de 3D Slicer&lt;/p&gt; &lt;p&gt;L&apos;utilisation de 3D Slicer
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Voir la licence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;Comment citer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;as_sdt=1%2C22&amp;as_vis=1&amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;btnG=&quot;&gt;Publications sur les slicers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Remerciements&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
@@ -25950,9 +25950,9 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
 &lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
 &lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;p&gt;Le développement de 3D Slicer est soutenu par &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; et la &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;communauté Slicer&lt;/a&gt;. Voir &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; pour plus de détails.&lt;/p&gt;
-&lt;p&gt;Nous tenons également à exprimer nos sincères remerciements aux membres de la Communauté des Utilisateurs de Slicer qui nous ont aidés à concevoir le contenu de ce module de bienvenue et dont les commentaires continuent d&apos;améliorer les fonctionnalités, la convivialité et l&apos;expérience utilisateur de Slicer.&lt;/p&gt;
-&lt;p&gt;Ce module a été développé par Jean-Christophe Fillion-Robin et Julien Finet de Kitware, Inc., et par Wendy Plesniak, Sonia Pujol, Steve Pieper et Ron Kikinis du Brigham and Women&apos;s Hospital.&lt;/p&gt;</translation>
+&lt;p&gt;Le développement de 3D Slicer est soutenu par &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; et la &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. Voir &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; pour plus de détails.&lt;/p&gt;
+&lt;p&gt;Nous tenons également à remercier sincèrement les membres de la communauté des utilisateurs de Slicer qui nous ont aidés à concevoir le contenu de ce module de bienvenue et dont les commentaires continuent d&apos;améliorer les fonctionnalités, la convivialité et l&apos;expérience des utilisateurs de Slicer.&lt;/p&gt;
+&lt;p&gt;Ce module a été développé par Jean-Christophe Fillion-Robin et Julien Finet chez Kitware, Inc, et par Wendy Plesniak, Sonia Pujol, Steve Pieper et Ron Kikinis au Brigham and Women&apos;s Hospital.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
