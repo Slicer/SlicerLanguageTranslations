@@ -524,7 +524,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation type="unfinished">Désactivé</translation>
+        <translation>Arrêt</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
@@ -806,13 +806,13 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>flottant</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linéaire</translation>
+        <translation>Linéaire</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
@@ -827,7 +827,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>entier</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
@@ -1069,7 +1069,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished"></translation>
+        <translation>La métrique de coût à utiliser lors de l&apos;ajustement. Par défaut, MMI. Les options sont MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
@@ -25864,23 +25864,23 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Documents&lt;/b&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Démarrage rapide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Obtenir de l&apos;aide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Interface utilisateur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Boutons de la souris, &amp;quot;Raccourcis&amp;quot; et raccourcis clavier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Parcourir les didacticiels&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        <translation>&lt;p&gt;&lt;b&gt;documentation&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;Démarrage rapide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;Obtenir de l’aide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Interface utilisateur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&amp;quot ;https ://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&amp;quot ;&gt;Boutons de la souris, raccourcis clavier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Parcourir les didacticiels&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;b&gt;Contactez-nous&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Visiter le forum Slicer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;Rejoignez-nous sur Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Rechercher des demandes de fonctionnalités&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Signaler un bogue&lt;/a&gt;&lt;/ li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;À propos du segment 3D&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Afficher la licence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;Comment citer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OU+ %22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Remerciements&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https ://discourse.slicer.org/&quot;&gt;Visitez le forum Slicer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://twitter.com/3dslicerapp&quot;&gt;Rejoignez-nous sur Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Rechercher des caractéristiques de demandes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;Signaler un bug&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;À propos de 3D Slicer&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https ://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Voir la licence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;Comment citer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://scholar.google.com/scholar ?&amp;amp ;as_sdt=1%2C22&amp;amp ;as_vis=1&amp;amp ;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp ;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https ://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Remerciements&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
@@ -25966,7 +25966,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Raising %1 Module:</source>
-        <translation>Élever le module %1:</translation>
+        <translation>Élever le module %1 :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
@@ -25979,6 +25979,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <comment>%1 extension updates are available</comment>
         <translation>
             <numerusform>La mise à jour de l&apos;extension %1 est disponible</numerusform>
+            <numerusform>Les mises à jour des extensions %1 sont disponibles</numerusform>
             <numerusform>Les mises à jour des extensions %1 sont disponibles</numerusform>
         </translation>
     </message>
