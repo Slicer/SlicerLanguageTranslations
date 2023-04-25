@@ -8533,7 +8533,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="23"/>
         <source>Segment Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>إحصائيات القطاع</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="37"/>
@@ -8548,146 +8548,158 @@ Requires segment labelmap representation and selection of a scalar volume
 Closed surface statistics (CS): surface mm2, volume mm3, volume cm3 (computed from closed surface).
 Requires segment closed surface representation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+استخدم هذه الوحدة لحساب الأعداد والأحجام للشرائح بالإضافة إلى إحصائيات حول حجم الخلفية ذات التدرج الرمادي.
+الحقول المحسوبة:
+إحصائيات خريطة تسمية المقطع (LM): عدد الفوكسل ، الحجم مم 3 ، الحجم سم 3.
+يتطلب تمثيل خريطة تسمية الشريحة.
+إحصائيات الحجم القياسي (SV): عدد الفوكسل ، الحجم مم 3 ، الحجم سم 3 (حيث تتداخل المقاطع مع الحجم القياسي) ،
+الحد الأدنى ، الحد الأقصى ، المتوسط ، STDEV (إحصائيات الكثافة).
+يتطلب تمثيل خريطة تسمية المقطع وتحديد وحدة تخزين قياسية
+إحصائيات السطح المغلق (CS): السطح مم 2 ، الحجم مم 3 ، الحجم سم 3 (محسوب من السطح المغلق).
+يتطلب تمثيل سطح مغلق مقطع.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="42"/>
         <source>
 Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www.slicer.org for details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+بدعم من NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer. راجع https://www.slicer.org للحصول على التفاصيل.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="79"/>
         <source>Pick parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>اختيار مجموعة المعلمات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="85"/>
         <source>Inputs</source>
-        <translation type="unfinished">المدخلات</translation>
+        <translation>المدخلات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="95"/>
         <source>Pick the segmentation to compute statistics for</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر التقسيم لحساب الإحصائيات ل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="96"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">تجزئة:</translation>
+        <translation>تجزئة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="107"/>
         <source>Select the scalar volume for intensity statistics calculations</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الحجم القياسي لحسابات إحصائيات الكثافة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
         <source>Scalar volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم القياسي:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="113"/>
         <source>Output</source>
-        <translation type="unfinished">الناتج</translation>
+        <translation>الناتج</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="118"/>
         <source>Create new table</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء جدول جديد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="125"/>
         <source>Select the table where statistics will be saved into</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الجدول الذي سيتم حفظ الإحصائيات فيه</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="128"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="133"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="147"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="216"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="149"/>
         <source>Calculate Statistics.</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب الإحصاءات.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="192"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل حساب النتائج.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="198"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>العمل...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="223"/>
         <source>Enabled segment statistics plugins:</source>
-        <translation type="unfinished"></translation>
+        <translation>ملحقات إحصائيات الشرائح الممكنة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="225"/>
         <source>{pluginName} Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>{pluginName} إحصائيات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="228"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="297"/>
         <source>Edit Segment Statistics Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير معلمات إحصائيات الشريحة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="313"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="338"/>
         <source>Edit segment statistics plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير معلمات ملحق إحصائيات الشريحة:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="315"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>تم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="317"/>
         <source>Finish editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنهاء التحرير.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="339"/>
         <source>Edit {pluginName} plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير معلمات ملحق {pluginName}:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="619"/>
         <source>Computed by {pluginName} Statistics plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>محسوبة بواسطة ملحق إحصائيات {pluginName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="950"/>
         <source>Add Data</source>
-        <translation type="unfinished">إضافة البيانات</translation>
+        <translation>إضافة بيانات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="953"/>
         <source>Load Scene</source>
-        <translation type="unfinished">Load Scene</translation>
+        <translation>تحميل المشهد</translation>
     </message>
 </context>
 <context>
