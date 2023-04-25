@@ -13614,7 +13614,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="234"/>
         <source>Slice spacing mode:</source>
-        <translation>Mode d&apos;espacement des tranches:</translation>
+        <translation>Mode d&apos;espacement des coupes :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
@@ -13629,7 +13629,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
         <source>Manual spacing:</source>
-        <translation>Espacement manuel:</translation>
+        <translation>Espacement manuel :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="275"/>
@@ -13639,7 +13639,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
         <source>View group:</source>
-        <translation>Groupe de vues:</translation>
+        <translation>Afficher groupe :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
@@ -13723,7 +13723,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
         <source>No subject hierarchy role assigned! Please report error</source>
-        <translation>Aucun rôle de hiérarchie de sujet attribué! Veuillez signaler l&apos;erreur</translation>
+        <translation>Aucun rôle de hiérarchie de sujet attribué ! Veuillez signaler l&apos;erreur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
@@ -13840,7 +13840,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1988"/>
         <source>Delete subject hierarchy branch?</source>
-        <translation>Supprimer la branche hiérarchique des sujets?</translation>
+        <translation>Supprimer la branche hiérarchique des sujets ?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="1989"/>
@@ -13848,7 +13848,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation>L&apos;élément de hiérarchie de sujets supprimé a des enfants. Voulez-vous également les supprimer?
+        <translation>L&apos;élément de hiérarchie de sujets supprimé a des enfants. Voulez-vous également les supprimer ?
 
 Si vous choisissez oui, toute la branche sera supprimée, y compris tous les enfants.
 Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et tous les enfants de la hiérarchie des sujets sont automatiquement supprimés. Cela peut être modifié ultérieurement dans les paramètres de l&apos;application.</translation>
@@ -14400,7 +14400,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="158"/>
         <source>Enable translation: </source>
-        <translation>Activer la traduction: </translation>
+        <translation>Activer la traduction : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="168"/>
@@ -14480,7 +14480,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
         <source>Region:</source>
-        <translation>Région:</translation>
+        <translation>Région :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="470"/>
@@ -14512,7 +14512,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="558"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="944"/>
         <source>Spacing:</source>
-        <translation>Espacement:</translation>
+        <translation>Espacement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="565"/>
@@ -14523,7 +14523,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="568"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="991"/>
         <source>Scale factor:</source>
-        <translation>Facteur d&apos;échelle:</translation>
+        <translation>Facteur d&apos;échelle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="575"/>
@@ -14533,7 +14533,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="578"/>
         <source>Visible range:</source>
-        <translation>Distance visible:</translation>
+        <translation>Portée visible&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="118"/>
@@ -14569,7 +14569,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="650"/>
         <source>Glyph type:</source>
-        <translation>Type de glyphe:</translation>
+        <translation>Type de symbole :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="670"/>
@@ -14613,7 +14613,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="758"/>
         <source>Diameter:</source>
-        <translation>Diamètre:</translation>
+        <translation>Diamètre :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="765"/>
@@ -14643,7 +14643,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="828"/>
         <source>Tip length:</source>
-        <translation>Longueur de la pointe:</translation>
+        <translation>Longueur de la pointe :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="835"/>
@@ -14660,7 +14660,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1073"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1175"/>
         <source>Resolution:</source>
-        <translation>Résolution:</translation>
+        <translation>Résolution :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="870"/>
@@ -14670,7 +14670,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="898"/>
         <source>Source points:</source>
-        <translation>Points sources:</translation>
+        <translation>Points sources :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
@@ -14703,7 +14703,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1032"/>
         <source>3D gridline diameter:</source>
-        <translation>Diamètre du quadrillage 3D:</translation>
+        <translation>Diamètre du quadrillage 3D :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1070"/>
@@ -14720,7 +14720,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1114"/>
         <source>Show original grid:</source>
-        <translation>Afficher la grille d&apos;origine:</translation>
+        <translation>Afficher la grille d&apos;origine :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1143"/>
@@ -14731,7 +14731,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1146"/>
         <source>Levels (mm):</source>
-        <translation>Niveaux (mm):</translation>
+        <translation>Niveaux (mm) :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1162"/>
@@ -14777,7 +14777,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="60"/>
         <source>Transform from parent:</source>
-        <translation>Transformer depuis le parent:</translation>
+        <translation>Transformation depuis le parent :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
@@ -14939,7 +14939,7 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the maximum value possible for the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;For example, a speed unit (in &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;) should probably have a maximum of 3e6. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space : pre-wrap ; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -14979,7 +14979,7 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Set the minimum value possible for the unit.&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;For example, a temperature unit (in &lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;) should probably have a minimum of 0. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space : pre-wrap ; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -15058,7 +15058,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="119"/>
         <source>IJK to RAS Direction Matrix:</source>
-        <translation>Matrice de transformation des directions:</translation>
+        <translation>Matrice de direction IJK vers RAS&#xa0;:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="157"/>
@@ -15108,7 +15108,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation>Préconfiguartions Fenetre/Niveau:</translation>
+        <translation>Préconfiguartions Fenetre/Niveau :</translation>
     </message>
 </context>
 <context>
@@ -15190,7 +15190,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation>W: </translation>
+        <translation>W : </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
@@ -15200,7 +15200,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation>G: </translation>
+        <translation>L : </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
@@ -15313,7 +15313,7 @@ p, li { white-space : pre-wrap ; }
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="4"/>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="4"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
@@ -15456,7 +15456,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="73"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
-        <translation type="unfinished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
+        <translation>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
     </message>
 </context>
 <context>
@@ -15743,7 +15743,7 @@ p, li { white-space : pre-wrap ; }
         <source>The message detail is:
 
 </source>
-        <translation>Le détail du message est:
+        <translation>Le détail du message est :
 
 </translation>
     </message>
@@ -15751,7 +15751,7 @@ p, li { white-space : pre-wrap ; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
         <source>Exception thrown in event: </source>
-        <translation>Exception levée dans l&apos;événement: </translation>
+        <translation>Exception levée dans l&apos;événement : </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="542"/>
@@ -15865,7 +15865,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
         <source>XML description doesn&apos;t start right away.</source>
-        <translation type="unfinished">La description XML ne démarre pas immédiatement.</translation>
+        <translation>La description XML ne démarre pas immédiatement.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
@@ -15876,7 +15876,7 @@ Capacités graphiques de cet ordinateur :
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
         <source>CLI loadable: %1</source>
-        <translation type="unfinished">CLI chargeable : %1</translation>
+        <translation>CLI chargeable : %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
@@ -15958,7 +15958,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="101"/>
         <source>AutoRun on changed parameter</source>
-        <translation type="unfinished">Exécution automatique en cas de modification d&apos;un paramètre</translation>
+        <translation>Exécution automatique en cas de modification d&apos;un paramètre</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleWidget.cxx" line="103"/>
@@ -16006,7 +16006,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
         <source>Status:</source>
-        <translation>Statut:</translation>
+        <translation>Statut :</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
@@ -16042,7 +16042,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>Gérer les vues 3D et les caméras.&lt;br&gt;Le menu déroulant des vues ci-dessous peut être utilisé pour créer de nouvelles vues et sélectionner la vue active. Basculer la mise en page sur &quot;Mise en page 3D à onglets&quot; à partir de l&apos;icône de mise en page dans la barre d&apos;outils pour accéder à plusieurs vues. La vue sélectionnée dans « Mise en page 3D à onglets » devient la vue active et remplace la vue 3D dans toutes les autres mises en page. Le menu déroulant de la caméra ci-dessous peut être utilisé pour définir la caméra active pour la vue sélectionnée.&lt;br&gt;ATTENTION: ceci est plutôt expérimental pour le moment (les repères, les entrées/sorties/les données, la fermeture de la scène sont probablement interrompus pour les nouvelles vues).&lt;br&gt;</translation>
+        <translation>Gérer les vues 3D et les caméras.&lt;br&gt;Le menu déroulant des vues ci-dessous peut être utilisé pour créer de nouvelles vues et sélectionner la vue active. Basculer la mise en page sur &quot;Mise en page 3D à onglets&quot; à partir de l&apos;icône de mise en page dans la barre d&apos;outils pour accéder à plusieurs vues. La vue sélectionnée dans « Mise en page 3D à onglets » devient la vue active et remplace la vue 3D dans toutes les autres mises en page. Le menu déroulant de la caméra ci-dessous peut être utilisé pour définir la caméra active pour la vue sélectionnée.&lt;br&gt;ATTENTION : ceci est plutôt expérimental pour le moment (les fiduciaires, les IO/données, la fermeture de la scène sont probablement interrompus pour les nouvelles vues).&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -16070,12 +16070,12 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
         <source>View:</source>
-        <translation>Vue:</translation>
+        <translation>Vue :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
-        <translation>Caméra:</translation>
+        <translation>Caméra :</translation>
     </message>
 </context>
 <context>
@@ -16111,7 +16111,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
         <source>Displayable node:</source>
-        <translation>Nœud affichable:</translation>
+        <translation>Nœud affichable :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -16307,12 +16307,12 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
         <source>Input volume:</source>
-        <translation>Volume d&apos;entrée:</translation>
+        <translation>Volume d&apos;entrée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
         <source>Input ROI:</source>
-        <translation>ROI d&apos;entrée:</translation>
+        <translation>ROI d&apos;entrée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
@@ -16337,7 +16337,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="248"/>
         <source>Output volume:</source>
-        <translation>Volume de sortie:</translation>
+        <translation>Volume de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
@@ -16358,7 +16358,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
         <source>Interpolated cropping:</source>
-        <translation>Recadrage interpolé:</translation>
+        <translation>Recadrage interpolé :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
@@ -16374,7 +16374,7 @@ Capacités graphiques de cet ordinateur :
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
         <source>Spacing scale:</source>
-        <translation>Échelle d&apos;espacement:</translation>
+        <translation>Échelle d&apos;espacement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="361"/>
@@ -20801,7 +20801,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1415"/>
         <source>Diameter:</source>
-        <translation type="unfinished">Diamètre:</translation>
+        <translation>Diamètre :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1416"/>
@@ -21476,7 +21476,7 @@ Most probably the segment cannot be converted into closed surface representation
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="81"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="93"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentation</translation>
     </message>
 </context>
 <context>
@@ -21652,7 +21652,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="187"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - save proxy node changes into sequence node during recording.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Record - enregistre les modifications du nœud proxy dans le nœud de séquence pendant l&apos;enregistrement.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
@@ -21662,7 +21662,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Set the proxy node name using sequence node name and index value.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Définissez le nom du nœud proxy à l&apos;aide du nom du nœud de séquence et de la valeur d&apos;index.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="204"/>
@@ -21672,7 +21672,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="207"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the proxy node current state into the sequence when not in playback or recording mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Save the proxy node current state into the sequence when not in playback or recording mode.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Enregistrez l&apos;état actuel du nœud proxy dans la séquence lorsqu&apos;il n&apos;est pas en mode de lecture ou d&apos;enregistrement.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
@@ -21712,7 +21712,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
         <source>Recording sampling mode:</source>
-        <translation>Mode d’échantillonnage d’enregistrement:</translation>
+        <translation>Mode d’échantillonnage d’enregistrement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
@@ -21746,7 +21746,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="384"/>
         <source>Index display format:</source>
-        <translation type="unfinished">Index display format:</translation>
+        <translation>Format d&apos;affichage des index :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
@@ -21839,7 +21839,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="899"/>
         <source>Overwrite the associated node&apos;s name during playback</source>
-        <translation>Écraser le nom du nœud associé pendant la lecture.</translation>
+        <translation>Écraser le nom du nœud associé pendant la lecture</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="903"/>
