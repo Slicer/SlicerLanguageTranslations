@@ -7723,27 +7723,27 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="35"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمح هذه الوحدة باستيراد ملفات DICOM وتحميلها وتصديرها وإرسال بيانات الاستلام باستخدام شبكة DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم دعم هذا العمل من قبل NA-MIC و NAC و BIRN و NCIGT ومجتمع Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished">إضافة بيانات DICOM</translation>
+        <translation>إضافة بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="277"/>
         <source>DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات DICOM العامة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
@@ -7753,42 +7753,42 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات العامة ل DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished"></translation>
+        <translation>يحدد ما إذا كان سيتم تقديم سلسلة DICOM المشار إليها عند تحميل DICOM، أو السلوك التلقائي إذا تم تعطيل التفاعل. التحديد التفاعلي للسلسلة المشار إليها هو التحديد الافتراضي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation>اسأل المستخدم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>دائماً</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="370"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>أبداً</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="372"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل السلسلة المرجعية:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل المزيد من التفاصيل أثناء عمليات DICOM. مفيد للتحقيق في مشكلات تحميل DICOM ولكنه قد يؤثر على الأداء.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished"></translation>
+        <translation>التسجيل التفصيلي:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
@@ -7798,37 +7798,37 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل الدليل في قاعدة بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="514"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر إنشاء قاعدة بيانات DICOM بالإعدادات الافتراضية. يرجى إنشاء قاعدة بيانات جديدة أو تحديث قاعدة البيانات غير المتوافقة الحالية باستخدام الخيارات الموضحة في متصفح DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد الملفات التي تحتوي على أحرف خاصة (غير ASCII) في أسمائها غير معتمد. يوصى بنقل الملفات إلى مجلد مختلف وإعادة المحاولة. حاول الاستيراد من الموقع الحالي على أي حال؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستيراد من المجلدات ذات الأحرف الخاصة (غير ASCII) في الاسم غير مدعوم. يوصى بنقل الملفات إلى مجلد مختلف وإعادة المحاولة. حاول الاستيراد من الموقع الحالي على أي حال؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
         <source>Import options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الاستيراد</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="642"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>نسخ الملفات المستوردة إلى قاعدة بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="644"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished"></translation>
+        <translation>في حالة التمكين، يتم نسخ جميع الملفات المستوردة إلى قاعدة بيانات DICOM. يكون هذا مفيدا عند الاستيراد من محركات الأقراص القابلة للإزالة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
@@ -7838,38 +7838,38 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="857"/>
         <source>starting</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>مجهول</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>running at port %s</source>
-        <translation type="unfinished"></translation>
+        <translation>يعمل في المنفذ ٪s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="878"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>تم استلام ملف DICOM: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="941"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة بيانات DICOM فارغة بالفعل.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>مسح قاعدة بيانات DICOM بالكامل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="945"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد من أنك تريد حذف جميع البيانات والملفات المنسوخة في قاعدة البيانات (مرضى {count})؟</translation>
     </message>
 </context>
 <context>
@@ -7877,7 +7877,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم أمريكي محسن</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
