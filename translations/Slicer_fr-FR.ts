@@ -8590,7 +8590,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
         <source>Scalar volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume scalaire&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="113"/>
@@ -8610,7 +8610,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="128"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tableau de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="133"/>
@@ -11879,7 +11879,9 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
         <source>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
 
 Change master representation to binary labelmap?</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;édition nécessite une représentation maître carteEtiquette binaire, mais actuellement la représentation maître est %1. La modification de la représentation principale nécessite une conversion. Certains détails peuvent être perdus pendant le processus de conversion.
+
+Changer la représentation principale encarteEtiquette binaire&#xa0;?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1375"/>
@@ -11890,7 +11892,8 @@ Change master representation to binary labelmap?</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1396"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la création d&apos;une représentation carte d&apos;étiquettes binaire dans la segmentation %1 pour l&apos;édition&#xa0;!
+Veuillez consulter le module Segmentations pour plus de détails.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1398"/>
@@ -12545,7 +12548,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="76"/>
         <source>Apply smoothing when converting binary labelmap to closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquez le lissage lors de la conversion de la carte d&apos;étiquettes binaire en représentation de surface fermée.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="81"/>
@@ -19443,7 +19446,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3272"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tableau de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
@@ -21325,12 +21328,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="634"/>
         <source>Output type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="635"/>
         <source>Output node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="636"/>
@@ -21408,7 +21411,9 @@ Do you want to crop the segmentation?
         <source>Failed to export segments from segmentation %1 to labelmap node %2!
 
 Most probably the segment cannot be converted into binary labelmap representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;exportation des segments de la segmentation %1 vers le nœud labelmap %2&#xa0;!
+
+Très probablement, le segment ne peut pas être converti en représentation carte d&apos;étiquette binaire.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1005"/>
@@ -23478,7 +23483,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="125"/>
         <source>Create binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une représentation binaire de la carte d&apos;étiquettes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
@@ -23488,7 +23493,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="130"/>
         <source>Remove binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer la représentation binaire de la carte d&apos;étiquettes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
