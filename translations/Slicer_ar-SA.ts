@@ -15294,7 +15294,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="4"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="4"/>
         <source>BRAINS</source>
-        <translation type="unfinished"></translation>
+        <translation>العقول</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="78"/>
