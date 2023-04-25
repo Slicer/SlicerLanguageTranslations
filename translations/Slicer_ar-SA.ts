@@ -8082,118 +8082,118 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="25"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>تصحيح DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>إصلاح المشكلات الشائعة في ملفات DICOM. قد تساعد هذه الوحدة في إصلاح ملفات DICOM التي فشل Slicer في استيرادها.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="38"/>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تطوير هذا الملف في الأصل بواسطة Andras Lasso ، PerkLab.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="52"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="60"/>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال دليل DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="65"/>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل DICOM للإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="70"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدل أسماء الملفات والمجلدات بأسماء تم إنشاؤها تلقائيا. يعمل على إصلاح الأخطاء الناتجة عن مسار الملف الذي يحتوي على أحرف خاصة أو كونه طويلا جدا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="71"/>
         <source>Normalize file names</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيع أسماء الملفات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="78"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء اسم المريض ومعرفه من الملف الأول في دليل وفرض أن يكون لجميع الملفات الأخرى في نفس الدليل نفس اسم المريض ومعرفه. قم بتمكين هذا الخيار إذا تم إنشاء دليل مريض منفصل لكل ملف مصحح.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="79"/>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>فرض نفس اسم المريض ومعرفه في كل دليل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="86"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء مثيل سلسلة جديد UID لكل دليل وقم بتعيينه في جميع الملفات في نفس الدليل. قم بتمكين هذا الخيار لفرض وضع كل الإطارات في مجلد في وحدة تخزين واحدة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="87"/>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation>فرض نفس المعرف الفريد لمثيل السلسلة في كل دليل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء معرفات المريض والدراسة والسلسلة المفقودة. من المفترض أن جميع الملفات الموجودة في الدليل تنتمي إلى نفس السلسلة. يعمل على إصلاح الخطأ الناجم عن إخفاء الهوية العدواني للغاية أو محولات صور DICOM غير الصحيحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="94"/>
         <source>Generate missing patient/study/series IDs</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء معرفات المريض / الدراسة / السلسلة المفقودة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="99"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء &quot;تسلسل موضع الصورة&quot; للملفات متعددة الإطارات التي تحتوي فقط على حقل &quot;SliceThickness&quot;. يعمل على إصلاح الخطأ في ماسحات Dolphin 3D CBCT.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء موضع شريحة لوحدات التخزين متعددة الإطارات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="127"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تحديده ، فستتم إزالة بعض معلومات تعريف المريض من ملفات DICOM المصححة. هناك العديد من الحقول التي يمكنها تحديد المريض ، وهذه الوظيفة لا تزيلها جميعا.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="128"/>
         <source>Partially anonymize</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء الهوية جزئيا</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="135"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished"></translation>
+        <translation>إصلاح ملفات DICOM في دليل الإدخال وكتابتها في دليل الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="142"/>
         <source>Import DICOM files in output directory into the application&apos;s DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد ملفات DICOM في دليل الإخراج إلى قاعدة بيانات DICOM الخاصة بالتطبيق</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="162"/>
         <source>Unexpected error.</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ غير متوقع.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="259"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished"></translation>
+        <translation>مريض غير محدد {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="325"/>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="537"/>
         <source>Unspecified Patient</source>
-        <translation type="unfinished"></translation>
+        <translation>مريض غير محدد</translation>
     </message>
 </context>
 <context>
@@ -8201,12 +8201,12 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="32"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم القياسي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished"></translation>
+        <translation>النهاية الخلفية المفضلة. تم استخدام النموذج الأصلي افتراضيا في Slicer قبل يونيو 2017. قم بتغيير هذا الإعداد إذا توقفت البيانات التي تم تحميلها مسبقا عن العمل (وقم بالإبلاغ عن مشكلة).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
