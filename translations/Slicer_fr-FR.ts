@@ -1074,28 +1074,29 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si Initialiser le mode de transformation est défini sur useCenterOfHeadAlign ou que Masking Option est ROIAUTO, cette valeur définit la quantité de découpe de la partie inférieure de l&apos;image. La distance de coupure est spécifiée en millimètres, par rapport au centre de l&apos;image. Si la valeur est supérieure ou égale à 1000, aucune coupure n&apos;est effectuée.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce drapeau n&apos;est pertinent que lors de l&apos;utilisation du mode ROIAUTO pour l&apos;initialisation des masques. Il définit la taille de dilatation finale pour capturer un peu de fond en dehors de la région tissulaire. Un réglage de 10 mm a été montré pour aider à régulariser un type d&apos;enregistrement BSpline afin qu&apos;il y ait des contraintes d&apos;arrière-plan pour mieux correspondre aux bords de la tête.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce drapeau n&apos;est pertinent que lors de l&apos;utilisation du mode ROIAUTO pour l&apos;initialisation des masques. Il définit la taille de fermeture du trou en mm. Il est arrondi à la taille de pixel entière la plus proche dans chaque direction. La valeur par défaut est d&apos;utiliser une taille de fermeture de 9 mm. Pour les données de souris, cette valeur peut devoir être réinitialisée à 0,9 ou moins.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Le nombre de voxels échantillonnés pour le calcul des informations mutuelles. Augmentez cette valeur pour une plus grande précision, au prix d&apos;un temps de calcul plus long.
+REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de cette option. Cependant, s&apos;il est défini sur une valeur différente de zéro, numberOfSamples écrase l&apos;option samplingPercentage.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Composante rigide de Tfransformation affine estimée. Peut être utilisé pour enregistrer de manière rigide l&apos;image en mouvement sur l&apos;image fixe. REMARQUE&#xa0;: Cette valeur est remplacée si bsplineTransform ou linearTransform est défini.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
