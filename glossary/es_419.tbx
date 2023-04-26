@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glyph</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>volume</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>volumen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Toggle visibility</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Cambiar visibilidad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Selected Color</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Color seleccionado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add Data (or Scene)</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scene</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>escena</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Voxel</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>vóxel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glyph type combo box</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Caja de combinaciones de tipos de símbolos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>projected fiducial</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>fiducial proyectado o marcador de referencia proyectado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VTK</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>VTK</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>labelmap</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>mapa de etiquetas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bounds:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Límites:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cell</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Celda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color legend</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Leyenda de colores</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Cell</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coordinate system</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Sistema de coordenadas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extension</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Extensión</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extensions manager:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Gestor de extensiones:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extensions index:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Índice de extensiones:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extent:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Extensión:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fiducial:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Fiducial/Marcador de referencia:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frame:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Cuadro:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Geometry:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Geometría:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image intensity: </term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Intensificador de imagen: </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IJK</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>IJK</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ITK</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>ITK</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image intensity:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Intensificador de imagen:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Labelmap</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>marcador de etiqueta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>LPS</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Sistema de coordenadas anatómicas izquierda-posterior-superior LPS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Markups</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>marcadores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Source volume</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Volumen de origen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MRML</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>MRML</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Model</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Modelo (o nodo de modelo)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Module</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Módulo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Node</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Nodo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Orientation marker</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RAS</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>RAS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reference</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Referencia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Region of interest (ROI)</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Región de interés (ROI)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Registration</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Registro</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Resolution</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Resolución</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ruler</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Regla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scalar component</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Componente escalar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scalar value</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Valor escalar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Segment</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>segmento</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Segmentation</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Segmentación</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slice</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Corte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slice view annotations</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Anotaciones de la vista de corte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Spacing</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Espaciado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Transform </term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Transformación o transformar. </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VR</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>RV</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Window/level</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Ventana/nivel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AC</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>CA</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ACPC Transform</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Transformación ACPC</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ACPC</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>ACPC</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Above</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Arriba</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Active Transform:</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Anaglyph</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Anaglifo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Annotation</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Anotación</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AP</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>AP</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Active Transform</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Transformación activa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AS</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backface</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Cara trasera</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bound</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Límite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Built-in</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Integrado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cells</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>celdas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chart</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Gráfico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Charts</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Gráficos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>children</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>niños/hijos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clip</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Cortar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clipping</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Recortar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coefficient</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Coeficiente</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>color node</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>nodo de colores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color Table</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Tabla de colores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commissure</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>comisura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Continue</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contour</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Contorno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corner annotation</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>anotación de esquina</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coronal</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Coronal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>count</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>contar/conteo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Crop</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Recortar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cropped</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Recortado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cropping</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>recortar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cross</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>cruz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>crosshair</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>puntero en forma de cruz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cut</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>cortar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deface</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Deformar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Diffuse</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>difuso/disperso</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>displacement field</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>campo de desplazamiento</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Mostrar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>displayable</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>mostrable</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>displayed</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>mostrado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>display node</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display settings</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Configuración de pantalla/visualización</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Edge</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Borde</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Permitir/Habilitar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Favorite</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Favorito</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>características</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Feedback</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>observaciones</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fiducials</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Fiduciales/Marcadores de referencia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Field of view</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Campo de visión</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filled</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>lleno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>indicador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Font Type</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Tipo de letra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>foreground</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>primer plano</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FOV</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>CV</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fps</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>fps</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>free-hand</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>manual</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Glyph</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gouraud</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Sombreado Gouraud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Grid</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>cuadro</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Grids</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>handle</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>identificador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>handles</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>identificadores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hide</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Ocultar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hot linked</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>hot linked/vinculado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>initialize transform mode</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>inicializar el modo de transformación</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>intersect</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>intersectar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IO</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>IO</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Label</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>etiqueta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>landmark</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>punto de referencia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Landmarks</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>puntos de referencia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Layout</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>diseño</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>length</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>longitud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lightbox</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>caja de luz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line dashed</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>línea discontinua</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listener</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>receptor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listening</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>recepción</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lock</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>bloqueo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lower</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>inferior</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>L-R</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>I-D</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>major</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>mayor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>map volume</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>volumen del mapa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Markers</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>marcadores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>marcado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mask</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>máscara (de entrada)</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Window/level</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Continue</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Continuar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Contour</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>contorno</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>cropping</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>recortar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>display node</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>nodo mostrado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Grids</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>cuadros</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Landmarks</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>puntos de referencia</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>projected fiducial</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>fiducial proyectado/marcador de referencia proyectado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Orientation Marker</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Marcador de orientación</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Volume</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>volumen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glyph</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term>Glifo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plugin</term></tig></langSet>
+                <langSet xml:lang="es_419"><tig><term></term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glyph</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>volume</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>objem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Toggle visibility</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Přepínat viditelnost</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Selected Color</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Vybraná barva</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add Data (or Scene)</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Přidat data (nebo scénu)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scene</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>scéna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Voxel</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Voxel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glyph type combo box</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Výběrové pole Typ glyfu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>projected fiducial</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>projektovaná referenční hodnota</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VTK</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>labelmap</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>mapa označení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bounds:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Hranice:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cell</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Buňka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color legend</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Barevná legenda</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Cell</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coordinate system</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Soustava souřadnic</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extension</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Rozšíření</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extensions manager:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Správce rozšíření:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extensions index:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Index rozšíření:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extent:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Rozsah:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fiducial:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Výchozí:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frame:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Rám:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Geometry:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Geometrie:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image intensity: </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Intenzita obrazu: </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IJK</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>IJK</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ITK</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přehled nástrojů</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image intensity:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Intenzita obrazu:</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Labelmap</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Mapa označení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>LPS</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>LPS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Markups</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Označení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Source volume</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Objem zdroje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MRML</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>MRML</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Model</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Model</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Module</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Modul</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Node</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Uzel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Orientation marker</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RAS</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>RAS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reference</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Odkaz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Region of interest (ROI)</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Oblast zájmu (ROI)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Registration</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Registrace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Resolution</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Rozlišení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ruler</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Pravítko</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scalar component</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Skalární složka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scalar value</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Skalární hodnota</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Segment</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Segment</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Segmentation</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Segmentace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slice</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Plocha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Slice view annotations</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Anotace zobrazení plochy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Spacing</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Rozestupy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Transform </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Transformovat </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VR</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>VR</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Window/level</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Okno/úroveň</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AC</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>umístěný vpředu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ACPC Transform</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>ACPC transformace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ACPC</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Čára, která spojuje přední a zadní body</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Above</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Nad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Active Transform:</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Anaglyph</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>anaglyf</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Annotation</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Anotace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AP</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zpředu dozadu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Active Transform</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Aktivní transformace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AS</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>AS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backface</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zadní strana</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bound</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>hranice</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Built-in</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Vestavěný</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cells</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>buňky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chart</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Schéma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Charts</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Schémata</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>children</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>děti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clip</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Připnout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clipping</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Ořezávací</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coefficient</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Součinitel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>color node</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>barevný uzel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color Table</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Barevná tabulka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commissure</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>komisura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Continue</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contour</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Kontura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corner annotation</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>rohová anotace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coronal</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Koronální</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>count</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>počítat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Crop</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Oříznutí</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cropped</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Oříznuté</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cropping</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>ořezávání</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cross</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kříž</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>crosshair</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zaměřovač</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cut</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Řezat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deface</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Znetvořit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Diffuse</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Difuze</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>displacement field</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pole posunu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Ukázat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>displayable</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zobrazitelný</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>displayed</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zobrazeno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>display node</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display settings</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Nastavení zobrazení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Edge</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Hrana</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Povolit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Favorite</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Oblíbený</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Vlastnost</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Feedback</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zpětná vazba</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fiducials</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Referenční čísla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Field of view</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zorné pole</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filled</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vyplněné</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vlajka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Font Type</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Typ písma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>foreground</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>popředí</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FOV</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zorné pole</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fps</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>z pohledu první osoby</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>free-hand</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>od ruky</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Glyph</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gouraud</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Gouraud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Grid</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Mřížka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Grids</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>handle</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>rukojeť</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>handles</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>rukojeti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hide</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Skrýt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hot linked</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Hot Linked</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>initialize transform mode</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Inicializovat režim transformace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>intersect</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přetínat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IO</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Vstup Výstup</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Label</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Označení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>landmark</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>mezník</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Landmarks</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Mezníky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Layout</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Rozložení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>length</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>délka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lightbox</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Světelný box</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line dashed</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>čárkovaná čára</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listener</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>posluchač</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listening</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>poslech</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lock</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zamknout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lower</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Dolní</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>L-R</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Levá Pravá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>major</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>hlavní</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>map volume</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Objem mapy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Markers</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Značky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>označení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mask</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>maska</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Window/level</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Continue</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Pokračovat</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Contour</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Kontura</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>cropping</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>ořezávání</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>display node</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Uzel zobrazení</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Grids</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Mřížky</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Landmarks</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Mezníky</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>projected fiducial</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>projektovaná referenční hodnota</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Orientation Marker</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Orientační značka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Volume</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Objem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glyph</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Glyf</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plugin</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
