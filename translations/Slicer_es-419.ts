@@ -7703,7 +7703,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished">Añadir Datos DICOM</translation>
+        <translation>Añadir Datos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="277"/>
