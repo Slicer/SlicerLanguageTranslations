@@ -7912,7 +7912,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="135"/>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmarcar todo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="141"/>
