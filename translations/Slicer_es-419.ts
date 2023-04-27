@@ -524,7 +524,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
@@ -4428,7 +4428,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
         <source>Reference Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de referencia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
@@ -10933,7 +10933,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1020"/>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="1287"/>
         <source>Delete current </source>
-        <translation type="unfinished">Delete current </translation>
+        <translation>Eliminar actual </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLNodeComboBox.cxx" line="608"/>
@@ -11524,7 +11524,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
         <source>Delete Scene</source>
-        <translation type="unfinished">Delete Scene</translation>
+        <translation>Eliminar escena</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
@@ -11534,7 +11534,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="61"/>
         <source>Delete Node</source>
-        <translation type="unfinished">Delete Node</translation>
+        <translation>Eliminar nodo</translation>
     </message>
 </context>
 <context>
@@ -13048,7 +13048,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="823"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="831"/>
@@ -13579,7 +13579,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="246"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="256"/>
@@ -13720,17 +13720,17 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="219"/>
         <source>Rename</source>
-        <translation type="unfinished">Rename</translation>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="224"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="229"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Edit properties...</translation>
+        <translation>Editar propiedades...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="234"/>
@@ -14818,17 +14818,17 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="110"/>
         <source>Rename</source>
-        <translation type="unfinished">Rename</translation>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="117"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLTreeView.cxx" line="123"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Edit properties...</translation>
+        <translation>Editar propiedades...</translation>
     </message>
 </context>
 <context>
@@ -15108,7 +15108,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="47"/>
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeThresholdWidget.ui" line="60"/>
@@ -15135,12 +15135,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="29"/>
         <source>Window/Level:</source>
-        <translation type="unfinished">Window/Level:</translation>
+        <translation>Ventana/nivel:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="37"/>
         <source>Auto</source>
-        <translation type="unfinished">Auto</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
@@ -15150,7 +15150,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation type="unfinished">W: </translation>
+        <translation>V: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
@@ -15160,7 +15160,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation type="unfinished">L: </translation>
+        <translation>N: </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
@@ -16101,7 +16101,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="157"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="166"/>
@@ -17076,7 +17076,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
         <source>&lt;automatic&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;automático&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
@@ -19275,7 +19275,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
         <source>Visibility Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad desactivada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="282"/>
@@ -19348,12 +19348,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1621"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1831"/>
         <source>Delete All</source>
-        <translation type="unfinished">Delete All</translation>
+        <translation>Eliminar todo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2291"/>
@@ -20559,7 +20559,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="135"/>
         <source>Histogram</source>
-        <translation type="unfinished">Histogram</translation>
+        <translation>Histograma</translation>
     </message>
 </context>
 <context>
@@ -20672,7 +20672,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="194"/>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="195"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>Eliminar</translation>
     </message>
 </context>
 <context>
@@ -21619,7 +21619,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="196"/>
         <source>Rename</source>
-        <translation type="unfinished">Rename</translation>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="199"/>
@@ -23070,7 +23070,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="122"/>
         <source>Export to DICOM...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar a DICOM...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="486"/>
@@ -23318,7 +23318,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="97"/>
         <source>Edit properties...</source>
-        <translation type="unfinished">Edit properties...</translation>
+        <translation>Editar propiedades...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyPluginLogic.cxx" line="263"/>
@@ -23963,7 +23963,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="195"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="197"/>
