@@ -3132,87 +3132,87 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
         <source>Scalar Parameters (árvíztűrő tükörfúrógép)</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات العددية (árvíztűrő tükörfúrógép)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"/>
         <source>Variations on scalar parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في المعلمات العددية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة مزدوجة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
         <source>An integer without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد صحيح بدون قيود</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"/>
         <source>A double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>مزدوج مع القيود</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات المتجهات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في معلمات المتجهات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>تعويم المتجه المعلمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة متجه السلسلة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>متجه للطفو</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>متجه السلاسل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التعداد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في معلمات التعداد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة تعداد السلسلة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد السلاسل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"/>
@@ -3220,7 +3220,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"/>
         <source>Bill</source>
-        <translation type="unfinished"></translation>
+        <translation>فاتورة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"/>
@@ -3261,72 +3261,72 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
         <source>Boolean Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات منطقية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"/>
         <source>Variations on boolean parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في المعلمات المنطقية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
         <source>Boolean Default true</source>
-        <translation type="unfinished"></translation>
+        <translation>منطقي الافتراضي صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
         <source>Boolean Default false</source>
-        <translation type="unfinished"></translation>
+        <translation>منطقي افتراضي خطأ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
         <source>Boolean No Default</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة منطقية غير افتراضية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
         <source>A boolean default true</source>
-        <translation type="unfinished"></translation>
+        <translation>صواب افتراضي منطقي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"/>
         <source>A boolean default false</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ افتراضي منطقي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"/>
         <source>A boolean with no default, should be defaulting to false</source>
-        <translation type="unfinished"></translation>
+        <translation>منطقي بدون افتراضي، يجب أن يكون متخلف إلى خطأ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
         <source>File, Directory and Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الملف والدليل والصورة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
         <source>Parameters that describe files and directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات التي تصف الملفات والدلائل.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"/>
         <source>Input file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"/>
         <source>Input Files</source>
-        <translation type="unfinished"></translation>
+        <translation>ملفات الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"/>
         <source>Output file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"/>
         <source>Input directory</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
@@ -3336,47 +3336,47 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
         <source>Input 4D Image</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال صورة 4D</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
         <source>An input file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف إدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"/>
         <source>Multiple input files</source>
-        <translation type="unfinished"></translation>
+        <translation>ملفات إدخال متعددة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"/>
         <source>An output file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف إخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"/>
         <source>An input directory. If no default is specified, the current directory is used,</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الإدخال. إذا لم يتم تحديد أي افتراضي ، يتم استخدام الدليل الحالي ،</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
         <source>An input image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة إدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
         <source>Input 4D Image (txyz)</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال صورة 4D (txyz)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
         <source>An output image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
@@ -3386,27 +3386,27 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
         <source>Parameters that describe transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات التي تصف التحويلات.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"/>
         <source>Input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المدخلات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
         <source>Input transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال تحويل خطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
         <source>Input transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال تحويل غير خطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
         <source>Input transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال تحويل bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
@@ -3416,67 +3416,67 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
         <source>Output transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>إخراج تحويل خطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"/>
         <source>Output transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>إخراج تحويل غير خطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
         <source>Output transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
         <source>A generic input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إدخال عام</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإدخال الخطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إدخال غير خطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إدخال bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إخراج عام</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج الخطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إخراج غير خطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
         <source>A bspline output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل إخراج bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
         <source>Point Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات النقطة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
         <source>Parameters that describe point sets.</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات التي تصف مجموعات النقاط.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
@@ -3486,42 +3486,42 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"/>
         <source>Seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف البذور</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"/>
         <source>Output seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف بذور الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation type="unfinished"></translation>
+        <translation>قوائم النقاط في CLI تتوافق مع القوائم الإيمانية لتقطيع الشرائح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
         <source>Test file of input fiducials, compared to seeds</source>
-        <translation type="unfinished"></translation>
+        <translation>إختبار ملف القيم الليفية للإدخال، مقارنة بالبذور</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف الإخراج للقراءة مرة أخرى ، قارن بالبذور ذات الإعدادات المقلوبة في أول إيمان</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
         <source>Geometry Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الهندسة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"/>
         <source>Parameters that describe models.</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات التي تصف النماذج.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"/>
         <source>Input Model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
@@ -3546,52 +3546,52 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>النماذج التي تم إنشاؤها، ضمن عقدة التسلسل الهرمي للنموذج. يتم استيراد النماذج إلى مقسم طريقة العرض ضمن عقدة تسلسل هرمي للنموذج. يجب إنشاء عقدة التدرج الهرمي للنموذج قبل تشغيل صانع النموذج، عن طريق تحديد إنشاء تسلسل هرمي جديد للنموذج من القائمة المنسدلة النماذج.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
         <source>Index Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الفهرس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"/>
         <source>Variations on parameters that use index rather than flags.</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في المعلمات التي تستخدم الفهرس بدلا من العلامات.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"/>
         <source>First index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>وسيطة الفهرس الأولى</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="92"/>
         <source>Second index argument</source>
-        <translation type="unfinished"></translation>
+        <translation>وسيطة الفهرس الثانية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"/>
         <source>First index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>وسيطة الفهرس الأولى هي صورة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"/>
         <source>Second index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation>وسيطة الفهرس الثانية هي صورة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"/>
         <source>Regions of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>مناطق الاهتمام</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="96"/>
         <source>Input region list</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة منطقة الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="97"/>
         <source>List of regions to process</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة المناطق المراد معالجتها</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
@@ -3601,122 +3601,122 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
         <source>Input FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>قياسات إدخال FA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="100"/>
         <source>Output FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>قياسات الإخراج FA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"/>
         <source>Array of FA values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>صفيف قيم FA المطلوب معالجتها</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="102"/>
         <source>Array of processed (output) FA values</source>
-        <translation type="unfinished"></translation>
+        <translation>صفيف من قيم FA المعالجة (الإخراج)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="103"/>
         <source>Generic Tables</source>
-        <translation type="unfinished"></translation>
+        <translation>الجداول العامة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="104"/>
         <source>Input Table</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="105"/>
         <source>Output Table</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="106"/>
         <source>Array of Table values to process</source>
-        <translation type="unfinished"></translation>
+        <translation>صفيف من قيم الجدول للمعالجة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="107"/>
         <source>Array of processed (output) Table values</source>
-        <translation type="unfinished"></translation>
+        <translation>صفيف من قيم الجدول المعالجة (الإخراج)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="108"/>
         <source>Simple return types</source>
-        <translation type="unfinished"></translation>
+        <translation>أنواع الإرجاع البسيطة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="109"/>
         <source>An integer return value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة إرجاع عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="110"/>
         <source>A boolean return value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة إرجاع منطقية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
         <source>A floating point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة إرجاع النقطة العائمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
         <source>A double point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة إرجاع نقطة مزدوجة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="113"/>
         <source>A string point return value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة إرجاع نقطة السلسلة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="114"/>
         <source>An integer vector return value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة إرجاع متجه عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="115"/>
         <source>A string enumeration return value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة إرجاع تعداد سلسلة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="116"/>
         <source>An example of an integer return type</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال على نوع إرجاع عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"/>
         <source>An example of a boolean return type</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال على نوع إرجاع منطقي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال على نوع إرجاع عائم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
         <source>An example of a double return type</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال على نوع الإرجاع المزدوج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"/>
         <source>An example of a string return type</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال على نوع إرجاع سلسلة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"/>
         <source>An example of an integer vector return type</source>
-        <translation type="unfinished"></translation>
+        <translation>مثال على نوع إرجاع متجه عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="122"/>
         <source>An enumeration of strings as a return type</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد السلاسل كنوع إرجاع</translation>
     </message>
 </context>
 <context>
@@ -15528,82 +15528,82 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
         <source>Quick Start</source>
-        <translation type="unfinished"></translation>
+        <translation>بداية سريعة</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="91"/>
         <source>Get Help</source>
-        <translation type="unfinished"></translation>
+        <translation>الحصول على مساعدة</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="95"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>واجهة المستخدم</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="99"/>
         <source>Visit the Slicer Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>زيارة منتدى Slicer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
         <source>Browse Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح البرامج التعليمية</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>الاعترافات</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
         <source>Report a Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>الإبلاغ عن خطأ</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
         <source>Raise the training pages in your favorite web browser</source>
-        <translation type="unfinished">Raise the training pages in your favorite web browser</translation>
+        <translation>رفع صفحات التدريب في متصفح الويب المفضل لديك</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
         <source>Join Us on Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>انضم إلينا على تويتر</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
         <source>Search Feature Requests</source>
-        <translation type="unfinished"></translation>
+        <translation>طلبات ميزات البحث</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="116"/>
         <source>View License</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الترخيص</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="120"/>
         <source>How to Cite</source>
-        <translation type="unfinished"></translation>
+        <translation>كيفية الاستشهاد</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="124"/>
         <source>Slicer Publications</source>
-        <translation type="unfinished">Slicer Publications</translation>
+        <translation>منشورات القطاعة</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="133"/>
         <source>Report error or request enhancement or new feature.</source>
-        <translation type="unfinished">Report error or request enhancement or new feature.</translation>
+        <translation>الإبلاغ عن خطأ أو طلب تحسين أو ميزة جديدة.</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
         <source>About 3D Slicer</source>
-        <translation type="unfinished">About 3D Slicer</translation>
+        <translation>حول القطاعة ثلاثية الأبعاد</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="138"/>
         <source>Provides a description of the Slicer effort and its support.</source>
-        <translation type="unfinished">Provides a description of the Slicer effort and its support.</translation>
+        <translation>يوفر وصفا لجهود مقسم طريقة العرض ودعمها.</translation>
     </message>
 </context>
 <context>
@@ -15611,19 +15611,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="365"/>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>عام</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="880"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="368"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="840"/>
         <source>Modules</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>وحدات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="372"/>
         <source>Appearance</source>
-        <translation type="unfinished">Appearance</translation>
+        <translation>مظهر</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="376"/>
@@ -15633,38 +15633,38 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="380"/>
         <source>User</source>
-        <translation type="unfinished">User</translation>
+        <translation>مستخدم</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="384"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>ملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="388"/>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>تخزين مؤقت</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="393"/>
         <source>Internationalization</source>
-        <translation type="unfinished">Internationalization</translation>
+        <translation>تدويل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
         <source>Python</source>
-        <translation type="unfinished">Python</translation>
+        <translation>بايثون</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="404"/>
         <source>Developer</source>
-        <translation type="unfinished">Developer</translation>
+        <translation>المطور</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="512"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="548"/>
         <source>%1 has caught an application error, </source>
-        <translation type="unfinished">%1 has caught an application error, </translation>
+        <translation>%1 اشتعلت خطأ في التطبيق ، </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="513"/>
@@ -15672,14 +15672,14 @@ p, li { white-space: pre-wrap; }
         <source>please save your work and restart.
 
 </source>
-        <translation type="unfinished">please save your work and restart.
+        <translation>يرجى حفظ عملك وإعادة التشغيل.
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="514"/>
         <source>The application has run out of memory. </source>
-        <translation type="unfinished">The application has run out of memory. </translation>
+        <translation>نفدت ذاكرة التطبيق. </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="515"/>
@@ -15691,35 +15691,35 @@ p, li { white-space: pre-wrap; }
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing virtual memory size in system settings or adding more RAM may fix this issue.
+        <translation>قد تؤدي زيادة حجم الذاكرة الظاهرية في إعدادات النظام أو إضافة المزيد من ذاكرة الوصول العشوائي إلى إصلاح هذه المشكلة.
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="519"/>
         <source>linux</source>
-        <translation type="unfinished">linux</translation>
+        <translation>لينكس</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="521"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing swap size in system settings or adding more RAM may fix this issue.
+        <translation>قد تؤدي زيادة حجم المبادلة في إعدادات النظام أو إضافة المزيد من ذاكرة الوصول العشوائي إلى إصلاح هذه المشكلة.
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="523"/>
         <source>darwin</source>
-        <translation type="unfinished">darwin</translation>
+        <translation>داروين</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="525"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Increasing free disk space or adding more RAM may fix this issue.
+        <translation>قد تؤدي زيادة مساحة القرص الحرة أو إضافة المزيد من ذاكرة الوصول العشوائي إلى حل هذه المشكلة.
 
 </translation>
     </message>
@@ -15728,7 +15728,7 @@ p, li { white-space: pre-wrap; }
         <source>Adding more RAM may fix this issue.
 
 </source>
-        <translation type="unfinished">Adding more RAM may fix this issue.
+        <translation>قد تؤدي إضافة المزيد من ذاكرة الوصول العشوائي إلى إصلاح هذه المشكلة.
 
 </translation>
     </message>
@@ -15736,7 +15736,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="531"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="550"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
-        <translation type="unfinished">If you have a repeatable sequence of steps that causes this message, </translation>
+        <translation>إذا كان لديك تسلسل قابل للتكرار من الخطوات التي تسبب هذه الرسالة، </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
@@ -15745,7 +15745,10 @@ p, li { white-space: pre-wrap; }
 
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى الإبلاغ عن المشكلة باتباع الإرشادات المتوفرة في https://slicer.org
+
+
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="533"/>
@@ -15753,7 +15756,7 @@ p, li { white-space: pre-wrap; }
         <source>The message detail is:
 
 </source>
-        <translation type="unfinished">The message detail is:
+        <translation>تفاصيل الرسالة هي:
 
 </translation>
     </message>
@@ -15761,18 +15764,18 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
         <source>Exception thrown in event: </source>
-        <translation type="unfinished">Exception thrown in event: </translation>
+        <translation>تم طرح الاستثناء في الحدث: </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="542"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="561"/>
         <source>Application Error</source>
-        <translation type="unfinished">Application Error</translation>
+        <translation>خطأ في التطبيق</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="718"/>
         <source>Are you sure you want to restart?</source>
-        <translation type="unfinished">Are you sure you want to restart?</translation>
+        <translation>هل أنت متأكد من أنك تريد إعادة التشغيل؟</translation>
     </message>
 </context>
 <context>
@@ -15780,7 +15783,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="249"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
-        <translation type="unfinished">Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</translation>
+        <translation>قدرة الرسومات لهذا الكمبيوتر غير كافية لتشغيل هذا التطبيق. التطبيق على الأرجح لن يعمل بشكل صحيح.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="252"/>
@@ -15790,17 +15793,17 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-        <translation type="unfinished">See more information and help at:
-%1/user_guide/get_help.html#slicer-application-does-not-start
+        <translation>انظر المزيد من المعلومات والمساعدة على:
+%1 / user_guide / get_help.html # مقسم طريقة العرض - التطبيق - لا - ابدأ
 
-Graphics capabilities of this computer:
+قدرات الرسومات لهذا الكمبيوتر:
 
 </translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="261"/>
         <source>Insufficient graphics capability</source>
-        <translation type="unfinished">Insufficient graphics capability</translation>
+        <translation>قدرة رسومات غير كافية</translation>
     </message>
 </context>
 <context>
@@ -15808,29 +15811,29 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>الوثائق عبر الإنترنت</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>لمزيد من المعلومات، انظر %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
         <source>Failed to find python interpreter for CLI: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في العثور على مترجم python ل CLI: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="113"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="111"/>
         <source>CLI description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>وصف CLI: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="114"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="112"/>
         <source>Failed to read XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت قراءة وصف XML</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="151"/>
@@ -15838,65 +15841,65 @@ Graphics capabilities of this computer:
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="201"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="207"/>
         <source>CLI executable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>CLI قابل للتنفيذ: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="156"/>
         <source>The process failed to start. Either the invoked program is missing, or you may have insufficient permissions to invoke the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت العملية في البدء. إما أن البرنامج الذي تم استدعاؤه مفقود أو قد يكون لديك أذونات غير كافية لاستدعاء البرنامج.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="161"/>
         <source>The process crashed some time after starting successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطلت العملية بعض الوقت بعد البدء بنجاح.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="165"/>
         <source>The process timed out after %1 msecs.</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت مهلة العملية بعد %1 مللي ثانية.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="169"/>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="174"/>
         <source>An error occurred when attempting to read from the process. For example, the process may not be running.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ عند محاولة القراءة من العملية. على سبيل المثال، قد لا تكون العملية قيد التشغيل.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="179"/>
         <source>Failed to execute process. An unknown error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنفيذ العملية. حدث خطأ غير معروف.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="202"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="158"/>
         <source>Failed to retrieve XML Description</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل استرداد وصف XML</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="208"/>
         <source>XML description doesn&apos;t start right away.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يبدأ وصف XML على الفور.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="209"/>
         <source>Output before &apos;&lt;?xml&apos; is [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>الإخراج قبل &quot;&lt;?xml&quot; هو [%1]</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="157"/>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="175"/>
         <source>CLI loadable: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>واجهة سطر الأوامر (CLI) قابلة للتحميل: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="176"/>
         <source>Failed to retrieve Module Entry Point</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل استرداد نقطة إدخال الوحدة النمطية</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLILoadableModuleFactory.cxx" line="236"/>
         <source>Failed to resolve expected symbol &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في حل الرمز المتوقع &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -15904,7 +15907,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="932"/>
         <source>Compatible Files</source>
-        <translation type="unfinished"></translation>
+        <translation>الملفات المتوافقة</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModuleUIHelper.cxx" line="945"/>
