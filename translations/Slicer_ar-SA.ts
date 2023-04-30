@@ -3947,22 +3947,22 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>مرشح التمويه الضبابي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيق تمويه ضبابي على صورة ما</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
@@ -3987,7 +3987,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
         <source>Sigma value in physical units (e.g., mm) of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة سيجما بالوحدات الفيزيائية (على سبيل المثال ، مم) من نواة غاوسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
@@ -3997,7 +3997,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
         <source>Blurred Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم غير واضح</translation>
     </message>
 </context>
 <context>
@@ -4005,14 +4005,16 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"/>
         <source>Gradient Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>انتشار متباين الخواص المتدرج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"/>
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>يدير انتشار متباين الخواص المتدرج على حجم.
+
+تعمل طرق الانتشار متباين الخواص على تقليل التشويش (أو التفاصيل غير المرغوب فيها) في الصور مع الحفاظ على ميزات صورة معينة ، مثل الحواف.  بالنسبة للعديد من التطبيقات ، هناك افتراض بأن التحولات الفاتحة والظلام (الحواف) مثيرة للاهتمام.  تعمل طرق الانتشار الخواص القياسية على تحريك وطمس حدود الضوء والظلام.  تمت صياغة طرق الانتشار متباين الخواص للحفاظ على الحواف على وجه التحديد. مصطلح التوصيل لهذا التنفيذ هو دالة لحجم التدرج للصورة في كل نقطة ، مما يقلل من قوة الانتشار عند الحواف. يشبه التنفيذ العددي لهذه المعادلة تلك الموصوفة في ورقة Perona-Malik ، ولكنه يستخدم تقنية أكثر قوة لتقدير حجم التدرج وقد تم تعميمه على أبعاد N.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
@@ -4022,47 +4024,47 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الانتشار متباين الخواص</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات خوارزمية الانتشار متباين الخواص</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation>ناقلية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>التكرارات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation>خطوة زمنية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>تتحكم الناقلية في حساسية مصطلح التوصيل. كقاعدة عامة ، كلما انخفضت القيمة ، زادت قوة المرشح في الحفاظ على الحواف. ستؤدي القيمة العالية إلى الانتشار (التنعيم) عبر الحواف. لاحظ أن عدد التكرارات يتحكم في مقدار التنعيم الذي يتم داخل المناطق المحاطة بحواف.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>لمزيد من التكرارات ، وأكثر سلاسة. يستغرق كل تكرار نفس القدر من الوقت. إذا استغرق الأمر 10 ثوان لتكرار واحد ، فسيستغرق الأمر 100 ثانية لتكرار 10. لاحظ أن الناقلية تتحكم في مقدار تنعيم كل تكرار عبر الحواف.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعتمد الخطوة الزمنية على أبعاد الصورة. في Slicer ، تكون الصور ثلاثية الأبعاد وستوفر الخطوة الزمنية الافتراضية (.0625) حلاً مستقرًا.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
@@ -4087,7 +4089,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output filtered</source>
-        <translation>الإخراج المصفى</translation>
+        <translation>تمت تصفية الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
@@ -4097,17 +4099,17 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المتقدمة لخوارزمية الانتشار متباين الخواص</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام تباعد الصور</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation type="unfinished"></translation>
+        <translation>! [CDATA [مراعاة تباعد الصور في الحساب.  ينصح بتشغيل هذا الخيار ، خاصة عندما يكون حجم البكسل مختلفا في أبعاد مختلفة. ومع ذلك ، لتحقيق نتائج متوافقة مع Slicer4.2 والإصدارات السابقة ، يجب إيقاف تشغيل هذا الخيار.]]</translation>
     </message>
 </context>
 <context>
@@ -4659,22 +4661,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="5"/>
         <source>Mask Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم القناع العددي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>أقنعة صورتين. يتم ضبط صورة الإخراج على 0 في كل مكان باستثناء مكان وجود التسمية المختارة من حجم القناع ، وعند هذه النقطة ستحتفظ بقيمها الأصلية. لا يجب أن يكون للصورتين نفس الأبعاد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
         <source>Input and Output</source>
-        <translation type="unfinished"></translation>
+        <translation>المدخلات والمخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
@@ -4699,17 +4701,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
         <source>Input volume to be masked</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال المراد إخفاءه</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
         <source>Label volume containing the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة تخزين التسمية التي تحتوي على القناع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإخراج: حجم الإدخال مقنع بقيمة التسمية من حجم القناع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
@@ -4719,7 +4721,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
         <source>Filter settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات التصفية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
@@ -4729,17 +4731,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
         <source>Replace value</source>
-        <translation type="unfinished"></translation>
+        <translation>استبدال القيمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة التسمية في وحدة تخزين القناع لاستخدامها كقناع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
         <source>Value to use for the output volume outside of the mask</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة المراد إستخدامها لحجم الإخراج خارج القناع</translation>
     </message>
 </context>
 <context>
@@ -4747,42 +4749,42 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"/>
         <source>Median Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>مرشح الصورة المتوسطة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation type="unfinished"></translation>
+        <translation>عادة ما يستخدم عامل تصفية الصورة الوسيط كأسلوب قوي لتقليل التشويش. هذا المرشح فعال بشكل خاص ضد ضجيج &quot;الملح والفلفل&quot;. وبعبارة أخرى، فإنه قوي بالنسبة لوجود الخارجين على المستوى الرمادي. يقوم مرشح الصورة الوسيط بحساب قيمة كل بيكسل مخرجات على هيئة المتوسط الإحصائي لقيم الجوار حول بيكسل المدخلات المرادف.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation>تم اشتقاق وحدة الأوامر هذه من Insight / أمثلة / تصفية / مرشح الصورة الوسيط (حقوق الطبع والنشر) اتحاد برامج البصيرة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
         <source>Median Filter Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التصفية المتوسطة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"/>
         <source>Parameters for the median filter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات المرشح الوسيط</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"/>
         <source>Neighborhood Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الحي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"/>
         <source>The size of the neighborhood in each dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الحي في كل بعد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
@@ -4807,7 +4809,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation>الإخراج المصفى</translation>
+        <translation>تمت تصفية الإخراج</translation>
     </message>
 </context>
 <context>
@@ -5196,22 +5198,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="5"/>
         <source>Multiply Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>ضرب الأحجام العددية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>ضرب صورتين. على الرغم من أن جميع أنواع الصور معتمدة على الإدخال، إلا أنه يتم إنتاج الأنواع الموقعة فقط. لا يجب أن يكون للصورتين نفس الأبعاد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
@@ -5246,7 +5248,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
         <source>Volume1 * Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم 1 * حجم 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
@@ -15367,7 +15369,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="4"/>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="4"/>
         <source>Arithmetic</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="82"/>
