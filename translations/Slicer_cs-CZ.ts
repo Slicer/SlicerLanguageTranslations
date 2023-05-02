@@ -25752,7 +25752,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation>Dokumentace &amp; tutoriály</translation>
+        <translation>Dokumentace &amp;&amp; tutoriály</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="320"/>
