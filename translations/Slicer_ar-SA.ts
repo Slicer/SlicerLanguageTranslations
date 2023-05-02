@@ -22815,18 +22815,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="14"/>
         <source>ViewsSettings</source>
-        <translation type="unfinished">ViewsSettings</translation>
+        <translation>إعدادات طرق العرض</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="41"/>
         <source>Slice viewer defaults</source>
-        <translation type="unfinished">Slice viewer defaults</translation>
+        <translation>افتراضيات عارض الشرائح</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="50"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="166"/>
         <source>Orientation marker:</source>
-        <translation type="unfinished">Orientation marker:</translation>
+        <translation>علامة الاتجاه:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="94"/>
@@ -22834,106 +22834,106 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="237"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="86"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="181"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="87"/>
         <source>cube</source>
-        <translation type="unfinished">cube</translation>
+        <translation>مكعب</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="186"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="88"/>
         <source>human</source>
-        <translation type="unfinished">human</translation>
+        <translation>بشري</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="191"/>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="89"/>
         <source>axes</source>
-        <translation type="unfinished">axes</translation>
+        <translation>المحاور</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="66"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="203"/>
         <source>small</source>
-        <translation type="unfinished">small</translation>
+        <translation>صغير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="71"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="208"/>
         <source>medium</source>
-        <translation type="unfinished">medium</translation>
+        <translation>متوسط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="76"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="213"/>
         <source>large</source>
-        <translation type="unfinished">large</translation>
+        <translation>كبير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="86"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="223"/>
         <source>Ruler:</source>
-        <translation type="unfinished">Ruler:</translation>
+        <translation>مسطرة:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="99"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="242"/>
         <source>thin</source>
-        <translation type="unfinished">thin</translation>
+        <translation>رفيع</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="104"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="247"/>
         <source>thick</source>
-        <translation type="unfinished">thick</translation>
+        <translation>سميك</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="112"/>
         <source>View orientation:</source>
-        <translation type="unfinished">View orientation:</translation>
+        <translation>عرض الاتجاه:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="129"/>
         <source>3D viewer defaults</source>
-        <translation type="unfinished">3D viewer defaults</translation>
+        <translation>افتراضيات عارض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="138"/>
         <source>Show 3D cube:</source>
-        <translation type="unfinished">Show 3D cube:</translation>
+        <translation>إظهار مكعب ثلاثي الأبعاد:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="152"/>
         <source>Show 3D axis label:</source>
-        <translation type="unfinished">Show 3D axis label:</translation>
+        <translation>إظهار تسمية المحور ثلاثي الأبعاد:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="233"/>
         <source>Ruler is only displayed if orthographic projection mode is used.</source>
-        <translation type="unfinished">Ruler is only displayed if orthographic projection mode is used.</translation>
+        <translation>يتم عرض المسطرة فقط في حالة إستخدام وضع إسقاط عامودي.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="255"/>
         <source>Use depth peeling:</source>
-        <translation type="unfinished">Use depth peeling:</translation>
+        <translation>استخدم تقشير العمق:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="262"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-        <translation type="unfinished">Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</translation>
+        <translation>يؤدي تمكين تقشير العمق إلى تحسين عرض النماذج الشفافة بتكلفة حسابية أعلى.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="272"/>
         <source>Use orthographic projection:</source>
-        <translation type="unfinished">Use orthographic projection:</translation>
+        <translation>استخدم الإسقاط الهجائي:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="287"/>
         <source>Multi-sampling (MSAA):</source>
-        <translation type="unfinished">Multi-sampling (MSAA):</translation>
+        <translation>أخذ العينات المتعددة (MSAA):</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="300"/>
@@ -22942,31 +22942,31 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Use multisampling for full-screen anti-aliasing.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-size:8pt;&quot;&gt; استخدم أخذ العينات المتعددة للصقل بملء الشاشة. &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="83"/>
         <source>Multisampling (MSAA)</source>
-        <translation type="unfinished"></translation>
+        <translation>أخذ العينات المتعددة (MSAA)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="95"/>
         <source>Slice view orientation marker type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع علامة اتجاه عرض الشريحة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="101"/>
         <source>Slice view orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم علامة اتجاه عرض الشريحة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="107"/>
         <source>Slice view ruler type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع مسطرة عرض الشريحة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="110"/>
@@ -22981,42 +22981,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="114"/>
         <source>Default slice view orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه عرض الشريحة الافتراضي</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="121"/>
         <source>3D view cube visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية مكعب عرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="124"/>
         <source>3D view axis label visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية تسمية محور العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="129"/>
         <source>3D view orientation marker type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع علامة اتجاه العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="135"/>
         <source>3D view orientation marker size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم علامة اتجاه العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="141"/>
         <source>3D view ruler type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع مسطرة العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="145"/>
         <source>3D depth peeling</source>
-        <translation type="unfinished"></translation>
+        <translation>تقشير عمق ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsViewsPanel.cxx" line="148"/>
         <source>Orthographic projection</source>
-        <translation type="unfinished"></translation>
+        <translation>إسقاط عمودي</translation>
     </message>
 </context>
 <context>
