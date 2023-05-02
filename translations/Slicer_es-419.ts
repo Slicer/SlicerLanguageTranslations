@@ -7693,7 +7693,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="35"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite importar, cargar y exportar archivos DICOM, así como enviar y recibir datos utilizando la red DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
@@ -15388,12 +15388,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="346"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para más información consulte la %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerAbstractCoreModule.cxx" line="347"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>documentación en línea</translation>
     </message>
 </context>
 <context>
@@ -15758,12 +15758,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="187"/>
         <source>online documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>documentación en línea</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIModule.cxx" line="189"/>
         <source>For more information see the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para más información consulte el %1.</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIExecutableModuleFactory.cxx" line="88"/>
