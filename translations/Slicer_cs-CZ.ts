@@ -5236,7 +5236,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroly</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
@@ -8858,7 +8858,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="153"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="158"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Objem</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="154"/>
@@ -18085,100 +18085,100 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="60"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Data Probe</translation>
+        <translation>Datová sonda</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
         <source>Load/Save</source>
-        <translation type="unfinished">Load/Save</translation>
+        <translation>Načíst/uložit</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="87"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="529"/>
         <source>Favorite Modules</source>
-        <translation type="unfinished">Favorite Modules</translation>
+        <translation>Oblíbené moduly</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
         <source>Undo Redo ToolBar</source>
-        <translation type="unfinished">Undo Redo ToolBar</translation>
+        <translation>Vrátit zpět, Znovu ToolBar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>
         <source>Layout Selection</source>
-        <translation type="unfinished">Layout Selection</translation>
+        <translation>Výběr rozvržení</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="123"/>
         <source>Mouse Interaction</source>
-        <translation type="unfinished">Mouse Interaction</translation>
+        <translation>Interakce s myší</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
         <source>Capture/Restore</source>
-        <translation type="unfinished">Capture/Restore</translation>
+        <translation>Zachycení/obnovení</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="148"/>
         <source>Crosshair Selection</source>
-        <translation type="unfinished">Crosshair Selection</translation>
+        <translation>Výběr křížového zaměřovače</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="159"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>Rozšíření</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="171"/>
         <source>Layout ToolBar</source>
-        <translation type="unfinished">Layout ToolBar</translation>
+        <translation>Panel nástrojů rozložení</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="218"/>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;File</translation>
+        <translation>&amp;Soubor</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="222"/>
         <source>Recent</source>
         <oldsource>Recently Loaded</oldsource>
-        <translation type="unfinished">Recently Loaded</translation>
+        <translation>Poslední</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="236"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished">&amp;Edit</translation>
+        <translation>&amp;Upravit</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="249"/>
         <source>&amp;View</source>
-        <translation type="unfinished">&amp;View</translation>
+        <translation>&amp;Zobrazit</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="253"/>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="378"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Rozložení</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="291"/>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished">&amp;Toolbars</translation>
+        <translation type="unfinished">&amp;Panely nástrojů</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="296"/>
         <source>&amp;Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vzhled</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="314"/>
         <source>&amp;Help</source>
-        <translation type="unfinished">&amp;Help</translation>
+        <translation>&amp;Pomoc</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="328"/>
         <source>Load Scene</source>
-        <translation type="unfinished">Load Scene</translation>
+        <translation>Načíst scénu</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="331"/>
@@ -18188,28 +18188,28 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="340"/>
         <source>Load Data</source>
-        <translation type="unfinished">Load Data</translation>
+        <translation>Načíst data</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="343"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="382"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-        <translation type="unfinished">Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</translation>
+        <translation>Vyvolá widget &quot;Přidat data&quot;, který umožňuje vybrat jednotlivé datové sady, které se přidají do stávající scény. Tato možnost načtení je nejužitečnější, pokud chcete načíst mnoho různých typů dat najednou (objemy, modely atd.), které ještě nemusí být popsány souborem scény.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="352"/>
         <source>Load DICOM</source>
-        <translation type="unfinished">Load DICOM</translation>
+        <translation>Načíst DICOM</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="355"/>
         <source>Raise the DICOM module for loading DICOM datasets.</source>
-        <translation type="unfinished">Raise the DICOM module for loading DICOM datasets.</translation>
+        <translation>Vyvolat modul DICOM pro načítání datových sad DICOM.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="367"/>
         <source>Import Scene</source>
-        <translation type="unfinished">Import Scene</translation>
+        <translation>Importovat scénu</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="370"/>
@@ -18219,7 +18219,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="379"/>
         <source>&amp;Add Data</source>
-        <translation type="unfinished">&amp;Add Data</translation>
+        <translation>&amp;Přidat data</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="385"/>
@@ -18229,7 +18229,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="394"/>
         <source>Add Volume</source>
-        <translation type="unfinished">Add Volume</translation>
+        <translation>Přidat objem</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="397"/>
@@ -18239,7 +18239,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="406"/>
         <source>Add Transform</source>
-        <translation type="unfinished">Add Transform</translation>
+        <translation>Přidat Transformaci</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="409"/>
@@ -18249,12 +18249,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="641"/>
         <source>Save</source>
-        <translation type="unfinished">Save</translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="421"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation type="unfinished">Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</translation>
+        <translation>Zobrazte widget &quot;Uložit data&quot;, který nabízí mnoho možností pro uložení scény a/nebo jednotlivých datových sad.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="424"/>
@@ -18264,17 +18264,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="433"/>
         <source>Save Scene To Directory</source>
-        <translation type="unfinished">Save Scene To Directory</translation>
+        <translation>Uložit scénu do adresáře</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="436"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-        <translation type="unfinished">UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</translation>
+        <translation>UPRAVUJE SE: Uložit aktuální scénu do samostatného adresáře.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="445"/>
         <source>Save Scene to MRB File</source>
-        <translation type="unfinished">Save Scene to MRB File</translation>
+        <translation>Uložit scénu do souboru MRB</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="448"/>
@@ -18284,7 +18284,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="457"/>
         <source>Close Scene</source>
-        <translation type="unfinished">Close Scene</translation>
+        <translation>Zavřít scénu</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="460"/>
@@ -18304,57 +18304,57 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="471"/>
         <source>Quit the application</source>
-        <translation type="unfinished">Quit the application</translation>
+        <translation>Zavřít aplikaci</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="480"/>
         <source>Undo</source>
-        <translation type="unfinished">Undo</translation>
+        <translation>Zpět</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="483"/>
         <source>Undo the history of undoable commands, from last to first.</source>
-        <translation type="unfinished">Undo the history of undoable commands, from last to first.</translation>
+        <translation>Zrušení historie zrušitelných příkazů od posledního k prvnímu.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="486"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished">Ctrl+Z</translation>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="495"/>
         <source>Redo</source>
-        <translation type="unfinished">Redo</translation>
+        <translation>Znovu</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="498"/>
         <source>Redo the history of commands most recently undone, from last to first.</source>
-        <translation type="unfinished">Redo the history of commands most recently undone, from last to first.</translation>
+        <translation>Znovu provede historii naposledy zrušených příkazů od posledního k prvnímu.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="501"/>
         <source>Ctrl+Y</source>
-        <translation type="unfinished">Ctrl+Y</translation>
+        <translation>Ctrl+Y</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="418"/>
         <source>Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit data</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="510"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>Správce rozšíření</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="513"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</source>
-        <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that provides status and information about available extensions</translation>
+        <translation>Vyvolání průvodce &quot;Správce rozšíření&quot;, který poskytuje stav a informace o dostupných rozšířeních.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="516"/>
         <source>Ctrl+4</source>
-        <translation type="unfinished">Ctrl+4</translation>
+        <translation>Ctrl+4</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="521"/>
@@ -18369,12 +18369,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="532"/>
         <source>Open settings to the Modules panel where Favorite Modules can be defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřete nastavení panelu Moduly, kde lze definovat oblíbené moduly.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="541"/>
         <source>Application Settings</source>
-        <translation type="unfinished">Application Settings</translation>
+        <translation>Nastavení aplikace</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="544"/>
@@ -18384,188 +18384,188 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="547"/>
         <source>Ctrl+2</source>
-        <translation type="unfinished">Ctrl+2</translation>
+        <translation>Ctrl+2</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="556"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>Vyjmout</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="559"/>
         <source>Cut currently selected item and place in clipboard</source>
-        <translation type="unfinished">Cut currently selected item and place in clipboard</translation>
+        <translation>Vyjmout aktuálně vybranou položku a umístit ji do schránky</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="562"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished">Ctrl+X</translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="571"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="574"/>
         <source>Copy currently selected item to clipboard</source>
-        <translation type="unfinished">Copy currently selected item to clipboard</translation>
+        <translation>Kopírovat aktuálně vybrané položky do schránky</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="577"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="586"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="589"/>
         <source>Paste the current contents of the clipboard</source>
-        <translation type="unfinished">Paste the current contents of the clipboard</translation>
+        <translation>Vložit aktuální obsah schránky</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="592"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished">Ctrl+V</translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="603"/>
         <source>&amp;Maximize view</source>
-        <translation type="unfinished">&amp;Maximize view</translation>
+        <translation>&amp;Maximalizovat zobrazení</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="606"/>
         <source>Maximize/Minimize the current view.</source>
-        <translation type="unfinished">Maximize/Minimize the current view.</translation>
+        <translation>Maximalizovat/minimalizovat aktuální zobrazení.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="609"/>
         <source>Ctrl+6</source>
-        <translation type="unfinished">Ctrl+6</translation>
+        <translation>Ctrl+6</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="614"/>
         <source>&amp;Error Log</source>
-        <translation type="unfinished">&amp;Error Log</translation>
+        <translation>&amp;Protokol chyb</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="617"/>
         <source>Raise the error log display.</source>
-        <translation type="unfinished">Raise the error log display.</translation>
+        <translation>Vyvolat zobrazení protokolu chyb.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="620"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished">Ctrl+0</translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="625"/>
         <source>Feedback: report usability issue (www)</source>
-        <translation type="unfinished">Feedback: report usability issue (www)</translation>
+        <translation>Zpětná vazba: nahlásit problém s použitelností (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="628"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</source>
-        <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to report any usability issues and make suggestions how to address them.</translation>
+        <translation>Vytvořte téma na fóru Slicer (https://discourse.slicer.org), kde můžete nahlásit případné problémy s použitelností a navrhnout jejich řešení.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="633"/>
         <source>Feedback: make a feature request (www)</source>
-        <translation type="unfinished">Feedback: make a feature request (www)</translation>
+        <translation>Zpětná vazba: zadejte požadavek na funkci (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="636"/>
         <source>Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</source>
-        <translation type="unfinished">Create a topic at the Slicer forum (https://discourse.slicer.org) to request a new feature.</translation>
+        <translation>Vytvořte téma ve fóru Slicer (https://discourse.slicer.org) a požádejte o novou funkci.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="641"/>
         <source>Load Module</source>
-        <translation type="unfinished">Load Module</translation>
+        <translation>Načítací modul</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="650"/>
         <source>Conventional</source>
-        <translation type="unfinished">Conventional</translation>
+        <translation>Konvenční</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="662"/>
         <source>Four-Up</source>
-        <translation type="unfinished">Four-Up</translation>
+        <translation>Four-Up</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="674"/>
         <source>Dual 3D</source>
-        <translation type="unfinished">Dual 3D</translation>
+        <translation>Duální 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="686"/>
         <source>3D only</source>
-        <translation type="unfinished">3D only</translation>
+        <translation>Pouze 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="698"/>
         <source>3D Table</source>
-        <translation type="unfinished">3D Table</translation>
+        <translation>3D tabulka</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="710"/>
         <source>Red slice only</source>
-        <translation type="unfinished">Red slice only</translation>
+        <translation>Pouze červený řez</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="722"/>
         <source>Yellow slice only</source>
-        <translation type="unfinished">Yellow slice only</translation>
+        <translation>Pouze žlutý řez</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="734"/>
         <source>Green slice only</source>
-        <translation type="unfinished">Green slice only</translation>
+        <translation>Pouze zelený řez</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="746"/>
         <source>Tabbed 3D</source>
-        <translation type="unfinished">Tabbed 3D</translation>
+        <translation>3D se záložkami</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="758"/>
         <source>Tabbed slice</source>
-        <translation type="unfinished">Tabbed slice</translation>
+        <translation>Řez se záložkami</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="770"/>
         <source>Compare</source>
-        <translation type="unfinished">Compare</translation>
+        <translation>Porovnat</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="782"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="785"/>
         <source>Compare Widescreen</source>
-        <translation type="unfinished">Compare Widescreen</translation>
+        <translation>Porovnat širokoúhlý displej</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="797"/>
         <source>Two over two</source>
-        <translation type="unfinished">Two over two</translation>
+        <translation>Dva na dva</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="800"/>
         <source>Two over Two Layout</source>
-        <translation type="unfinished">Two over Two Layout</translation>
+        <translation>Rozložení dva na dva</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="812"/>
         <source>Home</source>
-        <translation type="unfinished">Home</translation>
+        <translation>Domů</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="815"/>
         <source>Favorite module for easy access</source>
-        <translation type="unfinished">Favorite module for easy access</translation>
+        <translation>Oblíbený modul pro snadný přístup</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="818"/>
@@ -18575,74 +18575,74 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="830"/>
         <source>Conventional Widescreen</source>
-        <translation type="unfinished">Conventional Widescreen</translation>
+        <translation>Konvenční širokoúhlý displej</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="839"/>
         <source>Triple 3D</source>
-        <translation type="unfinished">Triple 3D</translation>
+        <translation>Trojitý 3D</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="848"/>
         <source>Three over three</source>
-        <translation type="unfinished">Three over three</translation>
+        <translation>Tři na tři</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="857"/>
         <source>Four over four</source>
-        <translation type="unfinished">Four over four</translation>
+        <translation>Čtyři na čtyři</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="866"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="929"/>
         <source>2 viewers</source>
-        <translation type="unfinished">2 viewers</translation>
+        <translation>2 diváci</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="875"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="938"/>
         <source>3 viewers</source>
-        <translation type="unfinished">3 viewers</translation>
+        <translation>3 diváci</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="884"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="947"/>
         <source>4 viewers</source>
-        <translation type="unfinished">4 viewers</translation>
+        <translation>4 diváci</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="893"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="956"/>
         <source>5 viewers</source>
-        <translation type="unfinished">5 viewers</translation>
+        <translation>5 diváků</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="902"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="965"/>
         <source>6 viewers</source>
-        <translation type="unfinished">6 viewers</translation>
+        <translation>6 diváků</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="911"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="974"/>
         <source>7 viewers</source>
-        <translation type="unfinished">7 viewers</translation>
+        <translation>7 diváků</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="920"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="983"/>
         <source>8 viewers</source>
-        <translation type="unfinished">8 viewers</translation>
+        <translation>8 diváků</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="992"/>
         <source>Compare Grid</source>
-        <translation type="unfinished">Compare Grid</translation>
+        <translation>Porovnávací mřížka</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1001"/>
         <source>2x2 viewers</source>
-        <translation type="unfinished">2x2 viewers</translation>
+        <translation>2x2 diváci</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1010"/>
@@ -18757,12 +18757,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1187"/>
         <source>Reset to default</source>
-        <translation type="unfinished">Reset to default</translation>
+        <translation>Obnovení výchozího nastavení</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1198"/>
         <source>Show Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit stavový řádek</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="167"/>
@@ -18779,27 +18779,27 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="165"/>
         <source>Show &amp;Module Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit &amp;panel modulů</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="193"/>
         <source>Module Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Výběr modulů</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="445"/>
         <source>Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Python konzole</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="457"/>
         <source>Slicer Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Konzola Slicer Python</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="468"/>
         <source>&amp;Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Python konzole</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="469"/>
@@ -18809,22 +18809,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="471"/>
         <source>Ctrl+3</source>
-        <translation type="unfinished">Ctrl+3</translation>
+        <translation>Ctrl+3</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="471"/>
         <source>Ctrl+`</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+`</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="571"/>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat historii</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="630"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before exit?</translation>
+        <translation>Některé údaje byly upraveny. Chcete je před ukončením uložit?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="634"/>
@@ -18834,7 +18834,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="639"/>
         <source>Save before exit?</source>
-        <translation type="unfinished">Save before exit?</translation>
+        <translation>Uložit před ukončením?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="643"/>
@@ -18889,7 +18889,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="1002"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">MRML Scene</translation>
+        <translation>MRML Scéna</translation>
     </message>
 </context>
 <context>
@@ -25403,7 +25403,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="14"/>
         <source>Volume Options</source>
-        <translation type="unfinished">Volume Options</translation>
+        <translation>Možnosti Objemů</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="33"/>
@@ -25448,7 +25448,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="73"/>
         <source>Show</source>
-        <translation type="unfinished">Show</translation>
+        <translation>Ukázat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesIOOptionsWidget.ui" line="76"/>
@@ -25466,17 +25466,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="68"/>
         <source>Volumes</source>
-        <translation type="unfinished">Volumes</translation>
+        <translation>Objemy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="74"/>
         <source>The Volumes Module is the interface for adjusting Window, Level, Threshold, Color LUT and other parameters that control the display of volume image data in the scene.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul objemů je rozhraní pro nastavení okénka, úrovně, prahové hodnoty, barevné tabulky LUT a dalších parametrů, které řídí zobrazení obrazových dat objemů ve scéně.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="93"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato práce byla podpořena NA-MIC, NAC, BIRN, NCIGT a Slicer komunitou.</translation>
     </message>
 </context>
 <context>
@@ -25484,17 +25484,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="17"/>
         <source>Volumes</source>
-        <translation type="unfinished">Volumes</translation>
+        <translation>Objemy</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="41"/>
         <source>Active Volume: </source>
-        <translation type="unfinished">Active Volume: </translation>
+        <translation>Aktivní objemy: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="65"/>
         <source>Volume Information</source>
-        <translation type="unfinished">Volume Information</translation>
+        <translation>Informace o objemech</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="98"/>
@@ -25509,17 +25509,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="139"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>Konvertovat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="152"/>
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Ukázat</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Resources/UI/qSlicerVolumesModuleWidget.ui" line="170"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Barevná legenda</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModuleWidget.cxx" line="131"/>
