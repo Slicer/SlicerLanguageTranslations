@@ -18494,7 +18494,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="662"/>
         <source>Four-Up</source>
-        <translation>Čtyři-nahoru</translation>
+        <translation>Čtyři</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="674"/>
@@ -18712,12 +18712,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1128"/>
         <source>Four-Up Plot</source>
-        <translation>Čtyři-nahoru plocha</translation>
+        <translation>Plocha pro čtyři</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1131"/>
         <source>Three slices and a plot in four-Up layout</source>
-        <translation type="unfinished">Three slices and a plot in four-Up layout</translation>
+        <translation>Tři řezy a plocha pro čtyři</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1143"/>
@@ -18747,7 +18747,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1179"/>
         <source>Four-Up Quantitative</source>
-        <translation>Kvantitativní Čtyři-nahoru</translation>
+        <translation>Kvantitativní čtyři</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="1182"/>
