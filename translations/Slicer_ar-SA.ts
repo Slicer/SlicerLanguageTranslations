@@ -23249,12 +23249,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="141"/>
         <source>Rename control point...</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تسمية نقطة التحكم...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="146"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>أعد تركيز الكاميرا على هذه النقطة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="151"/>
