@@ -7775,7 +7775,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="277"/>
         <source>DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Banco de Dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
