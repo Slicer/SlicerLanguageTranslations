@@ -25549,44 +25549,44 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="53"/>
         <source>Load...</source>
-        <translation type="unfinished">Load...</translation>
+        <translation>لوڈ کریں...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="55"/>
         <source>Download the data and open in Slicer</source>
-        <translation type="unfinished">Download the data and open in Slicer</translation>
+        <translation>ڈیٹا ڈاؤن لوڈ کریں اور سلائسر میں کھولیں</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="56"/>
         <source>Save...</source>
-        <translation type="unfinished">Save...</translation>
+        <translation>محفوظ کریں...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="57"/>
         <source>Save to an arbitrary location</source>
-        <translation type="unfinished">Save to an arbitrary location</translation>
+        <translation>کسی بھی مرضی کی جگہ محفوظ کریں</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="58"/>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="138"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>کینسل/منسوخ کریں</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="88"/>
         <source>Save File</source>
-        <translation type="unfinished">Save File</translation>
+        <translation>فائل محفوظ Save کریں</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="124"/>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="126"/>
         <source>Downloading %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ڈاؤن لوڈ کیا جا رہا ہے۔ %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebDownloadWidget.cxx" line="169"/>
         <source>Download complete</source>
-        <translation type="unfinished">Download complete</translation>
+        <translation>ڈاؤن لوڈ مکمل ہوگیا ہے</translation>
     </message>
 </context>
 <context>
@@ -25594,22 +25594,22 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="59"/>
         <source>Allow Python execution?</source>
-        <translation type="unfinished">Allow Python execution?</translation>
+        <translation>پائتھن (Python) کو چلانے کی اجازت دیں؟</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="60"/>
         <source>Allow the web page to execute code using Slicer&apos;s python?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ویب پیج کو کوڈ نفذ کرنے کے لئے سلائسر کے پائتھن (Python) کےاستعمال کی اجازت دیں؟</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="62"/>
         <source>Allow</source>
-        <translation type="unfinished">Allow</translation>
+        <translation>اجازت دیں</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebPythonProxy.cxx" line="63"/>
         <source>Reject</source>
-        <translation type="unfinished">Reject</translation>
+        <translation>مسترد کریں</translation>
     </message>
 </context>
 <context>
@@ -25617,17 +25617,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="389"/>
         <source>bytes/sec</source>
-        <translation type="unfinished"></translation>
+        <translation>بائٹس فی سیکنڈ (بائٹ/سیکنڈ) (Bytes/sec)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="393"/>
         <source>kB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>کلوبائٹس فی سیکنڈ (kB/s)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerWebWidget.cxx" line="398"/>
         <source>MB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>میگابائٹس فی سیکنڈ (MB/s)</translation>
     </message>
 </context>
 <context>
@@ -25635,12 +25635,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished"></translation>
+        <translation>اس کام کی حمایت NA-MIC، NAC، BIRN، NCIGT، CTSC اور سلائسر کمیونٹی کے ذریعے کی گئی ہے۔ تفصیلات کے لئے &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; دیکھیں۔ ہم سلائسر یوزر کمیونٹی کے رکنوں کا بھی خیر مقدم کرنا چاہتے ہیں جنہوں نے ہمیں اس ویلکم ماڈیول کے مواد کی ڈیزائن کرنے میں مدد کی ہے، اور جن کی رائے نے سلائسر کی فعالیت، استعمالیت اور صارف تجربے کو بہتر بنانے میں مدد کی ہے۔</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
         <source>Welcome to Slicer</source>
-        <translation type="unfinished"></translation>
+        <translation>سلائسر میں خوش آمدید</translation>
     </message>
 </context>
 <context>
@@ -25648,58 +25648,60 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation type="unfinished">Welcome</translation>
+        <translation>خوش آمدید</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Download Sample Data</translation>
+        <translation type="unfinished">سیمپل ڈیٹا ڈاؤن لوڈ کریں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation type="unfinished">Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</translation>
+        <translation type="unfinished">&quot;ایکسٹینشن منیجر&quot; وزارڈ کو بلند کریں جو سلائسر ایکسٹینشنز تلاش کرنے، ڈاؤن لوڈ کرنے اور انسٹال کرنے کی اجازت دیتا ہے۔
+&lt;br&gt;&lt;br&gt;ایک ایکسٹینشن، ایک یا ایک سے زیادہ سلائسر ماڈیولز کو ملکروانے والا ایک ترسیلی پیکیج ہوتا ہے۔
+&lt;br&gt;&lt;br&gt;ایک ایکسٹینشن کو انسٹال کرنے کے بعد، مطابقتی ماڈیولز ماڈیول سلیکٹر میں دستیاب ہوں گے۔</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
-        <translation type="unfinished">Customize Slicer</translation>
+        <translation type="unfinished">سلائسر کو اپنے مطابق ترتیب دیں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation> ایکسٹینشنز انسٹال کریں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:22pt; color:#afb7d5;&quot;&gt;Welcome&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ڈیٹا شامل کریں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="111"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM ڈیٹا شامل کریں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="141"/>
         <source>Explore Added Data</source>
-        <translation type="unfinished"></translation>
+        <translation>شامل کیا گیا ڈیٹا کا جائزہ لیں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>ایپلیکیشن کا نیا ورژن دستیاب ہے۔ ڈاؤن لوڈ پیج پر جانے کے لئے بٹن پر کلک کریں۔</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
         <source>Feedback</source>
-        <translation type="unfinished">Feedback</translation>
+        <translation type="unfinished">فیڈبیک</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="220"/>
@@ -25708,23 +25710,28 @@ This should only used by advanced users who understand the consequences of chang
 &lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;Share your stories with us on the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;Slicer forum&lt;/a&gt; and let us know about how 3D Slicer has enabled your research.&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
 &lt;p&gt;We are always interested in improving 3D Slicer, to tell us about your problem or submit a bug report, open &lt;b&gt;Help -&amp;gt; Report a Bug&lt;/b&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;table border=&quot;0&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;img src=&quot;qrc:Icons/Chat.png&quot; width=&quot;64&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p&gt;اپنی کہانیاں ہمارے ساتھ شیئر کریں، &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;سلائسر فورم&lt;/a&gt; پر آئیں اور ہمیں بتائیں کہ 3D سلائسر نے آپ کی تحقیق کو کیسے ممکن بنایا ہے۔&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;ہمیں ہمیشہ 3D سلائسر کی بہتری کیلئے دلچسپی ہوتی ہے، اپنے مسئلے کے بارے میں ہمیں بتانے یا کوئی بگ رپورٹ کرنے کے لئے، &lt;b&gt;مدد -&amp;gt; بگ رپورٹ کریں&lt;/b&gt; کھولیں۔&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
         <source>About</source>
-        <translation type="unfinished">About</translation>
+        <translation type="unfinished">تفصیلات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; طبی تصویر کی پروسیسنگ اور تصویری ڈیٹا کی تین بعدی تشکیل (3D visualization) کے لئے مفت کھلا سورس (open source) سافٹ ویئر پلیٹ فارم ہے۔ یہ ماڈیول کچھ بنیادی معلومات اور استعمال کرنے کے لئے کارآمد لنکس شامل کرتا ہے۔ زیادہ معلومات کے لئے، براہ کرم ہماری ویب سائٹ &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; پر جائیں۔&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; کا تقسیم ایک بی ایس ڈی-سٹائل (BSD-style )لائسنس کے تحت ہوتا ہے؛ تفصیلات کے لئے معاوضہ اور سافٹ ویئر لائسنس اگریمنٹ کے بارے میں، براہ کرم &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer سافٹ ویئر لائسنس اگریمنٹ&lt;/a&gt; دیکھیں۔ یہ سافٹ ویئر صرف تحقیقی مقاصد کے لئے تیار کیا گیا ہے اور اسکا فوڈ اینڈ ڈرگ ایڈمنسٹریشن (FDA) یا کسی دوسرے ادارے نے جائزہ کیا ہے نہ ہی منظور۔&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation type="unfinished">Documentation &amp;&amp; Tutorials</translation>
+        <translation>دستاویزات اور ٹیوٹوریلز</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="320"/>
@@ -25745,59 +25752,81 @@ This should only used by advanced users who understand the consequences of chang
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;How to Cite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;Slicer Publications&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Acknowledgments&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;دستاویزات&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/&quot;&gt;دستاویزات&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#quick-start&quot;&gt;تیز شروع&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html&quot;&gt;مدد حاصل کریں&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;صارف انٹرفیس&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;ماؤس بٹنز، &quot;ہاٹ کیز(hot keys)&quot; اور کی بورڈ شارٹ کٹس(&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;ٹیوٹوریلز براؤز کریں&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;ہم سے رابطہ کریں&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;سلائسر فورم پر جائیں&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;ہمارے ساتھ ٹوئٹر پر شامل ہوں&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;فیچر درخواستوں کی تلاش کریں&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/get_help.html#i-want-to-report-a-problem&quot;&gt;بگ رپورٹ کریں&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;3D سلائسر کے بارے میں&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;لائسنس دیکھیں&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite&quot;&gt;کیسے حوالہ دیں&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scholar.google.com/scholar?&amp;amp;as_sdt=1%2C22&amp;amp;as_vis=1&amp;amp;q=%28%223D+Slicer%22+OR+%22slicer+org%22+OR+Slicer3D%29+-Slic3r+&amp;amp;btnG=&quot;&gt;سلائسر پبلیکیشنز&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;شکریہ نامہ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="407"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
-        <translation type="unfinished"></translation>
+        <translation>اپ ڈیٹس updates کی جانچ پڑتال کرنے کے لئے بٹن پر کلک کریں۔ نوٹ کریں کہ بلا نام استعمال کے اعداد و شماردرج کیے جائیں گے.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>اپ ڈیٹس Updates</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="379"/>
         <source>Check for updates: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نئے اپ ڈیٹس کی تفصیلات دیکھیں </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation type="unfinished"></translation>
+        <translation>منظم طور پر اپ ڈیٹس کی جانچ پڑتال کریں۔ نوٹ کریں کہ بلا نام استعمال کے اعداد و شمار درج کیے جائیں گے۔ اگر باکس جزوی طور پر چیک شدہ نظر آئے تو یہ مطلب ہے کہ خودکار اپ ڈیٹس صرف ایپلیکیشن کے لئے یا ایکسٹینشنز کے لئے چیک شدہ ہیں، لیکن دونوں کے لئے نہیں - چیک باکس پر کلک کریں تا کہ تمام خودکار اپ ڈیٹس کی جانچ پڑتال کو فعال / غیر فعال کریں۔</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
         <source>Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>خودکار طور پر Automatically</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
         <source>Check now</source>
-        <translation type="unfinished"></translation>
+        <translation>ابھی جانچیں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
         <source>Application update: </source>
-        <translation type="unfinished"></translation>
+        <translation>اپلیکیشن کی اپ ڈیٹ: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="464"/>
         <source>No information is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>کوئی معلومات دستیاب نہیں ہے۔</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
         <source>Extension updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>ایکسٹینشنز کی اپ ڈیٹس: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
         <source>Acknowledgment</source>
-        <translation type="unfinished">Acknowledgment</translation>
+        <translation>شکریہ نامہ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="529"/>
@@ -25809,46 +25838,55 @@ This should only used by advanced users who understand the consequences of chang
 &lt;p&gt;Development of 3D Slicer is supported by &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;, &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;, &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; and the &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;Slicer Community&lt;/a&gt;. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details.&lt;/p&gt;
 &lt;p&gt;We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.&lt;/p&gt;
 &lt;p&gt;This module was developed by Jean-Christophe Fillion-Robin and Julien Finet at Kitware, Inc., and by Wendy Plesniak, Sonia Pujol, Steve Pieper and Ron Kikinis at Brigham and Women&apos;s Hospital.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;table align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;5&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAMIC.png&quot; width=&quot;80&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.na-mic.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/NAC.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;img src=&quot;qrc:Logos/NCIGT.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.ncigt.org/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;img src=&quot;qrc:Logos/SPL.png&quot; style=&quot;vertical-align: middle;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.spl.harvard.edu/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;ترویج 3D سلائسر کا حمایت &lt;a href=&quot;https://www.na-mic.org/&quot;&gt;NA-MIC&lt;/a&gt;, &lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;,
+&lt;a href=&quot;https://nac.spl.harvard.edu/&quot;&gt;NAC&lt;/a&gt;، &lt;a href=&quot;https://www.ncigt.org/&quot;&gt;NCIGT&lt;/a&gt;، &lt;a href=&quot;https://www.spl.harvard.edu&quot;&gt;SPL&lt;/a&gt; اور 
+&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/about.html#acknowledgments&quot;&gt;سلائسر کمیونٹی&lt;/a&gt; کی طرف سے کی گئی ہے۔ تفصیلات کے لئے دیکھیں: &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ہم اس ویلکم ماڈیول کے مواد کا ڈیزائن کرنے میں ہماری مدد کرنے والے سلائسر یوزر کمیونٹی کے رکنوں کا خالص شکریہ ادا کرنا چاہیں گے، جن کی رائے کے ذریعے کارکردگی، استعمال کی سہولت اور سلائسر کے صارف تجربے کو بہتر بنانے کا عمل جاری رہتا ہے۔&lt;/p&gt;
+&lt;p&gt;یہ ماڈیول جان کرسٹوف فلیوں-روبن اور جولیان فینٹ نے کٹویئر انک Kitware Inc پر تشکیل دیا ہے. اور وینڈی پلیسنیک، سونیا پوجول، سٹیو پیپر اور ران کیکنس بریگھم اور وومنز ہسپتالBrigham and Women&apos;s Hospital میں</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>اپ ڈیٹس کی جانچ جاری ہے...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="109"/>
         <source>No updates were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>کوئی اپ ڈیٹس نہیں ملے.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Raising %1 Module:</source>
-        <translation type="unfinished">Raising %1 Module:</translation>
+        <translation type="unfinished">ماڈیول %1 اٹھا رہا ہے:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished">Unfortunately, this requested module is not available in this Slicer session.</translation>
+        <translation>معذرت، یہ درخواست شدہ ماڈیول اس سلائسر سیشن میں دستیاب نہیں ہے۔</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>%1 تازہ ترین ایکسٹینشن اپ ڈیٹ دستیاب ہے۔</numerusform>
+            <numerusform>%1 تازہ ترین ایکسٹینشن اپ ڈیٹ دستیاب ہے۔</numerusform>
         </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="391"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>ان ایکسٹینشنز کو اپ ڈیٹ کرنے کے لئے ایکسٹینشنز مینیجر کا استعمال کریں:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="425"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نئی ایپلیکیشن ورژن دستیاب ہے: %1</translation>
     </message>
 </context>
 </TS>
