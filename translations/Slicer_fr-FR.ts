@@ -20657,7 +20657,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="148"/>
         <source>The scene may not load correctly.</source>
-        <translation type="unfinished">La scène peut ne pas se charger correctement.</translation>
+        <translation>La scène peut ne pas se charger correctement.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="172"/>
@@ -20697,7 +20697,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="116"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
@@ -20785,12 +20785,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1031"/>
         <source>Operate on invisible segment?</source>
-        <translation type="unfinished"></translation>
+        <translation>Opérer sur un segment invisible ?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1032"/>
         <source>The currently selected segment is hidden. Would you like to make it visible?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le segment actuellement sélectionné est caché. Souhaitez-vous le rendre visible ?</translation>
     </message>
 </context>
 <context>
@@ -20818,47 +20818,47 @@ Veuillez choisir un répertoire vide.</translation>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1420"/>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1431"/>
         <source>Set the paint brush size as percentage of screen size or as fixed length</source>
-        <translation type="unfinished"></translation>
+        <translation>Définissez la taille du pinceau en pourcentage de la taille de l’écran ou en longueur fixe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1439"/>
         <source>Toggle diameter quick set buttons between percentage of window size / absolute size in millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer les boutons de réglage rapide du diamètre entre le pourcentage de taille de la fenêtre / la taille absolue en millimètres</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1449"/>
         <source>Sphere brush</source>
-        <translation type="unfinished"></translation>
+        <translation>Brosse sphérique</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1450"/>
         <source>Use a 3D spherical brush rather than a 2D circular brush.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez un pinceau sphérique 3D plutôt qu&apos;un pinceau circulaire 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1453"/>
         <source>Edit in 3D views</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer en vues 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1454"/>
         <source>Allow painting in 3D views. If enabled, click-and-drag in a 3D view paints in the view instead of rotating the view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser la peinture dans les vues 3D.cliquez et faites glisser vers les peintures en vue 3D au lieu de la faire pivoter.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1458"/>
         <source>Color smudge</source>
-        <translation type="unfinished"></translation>
+        <translation>Tache de couleur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1459"/>
         <source>Select segment by sampling the pixel locationwhere the brush stroke starts. If brush stroke starts in an empty area then the brush erases highlighted region from the selected segment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un segment en échantillonnant l&apos;emplacement du pixel où le coup de pinceau commence. Si le coup de pinceau commence dans une zone vide, le pinceau efface la zone en surbrillance du segment sélectionné.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1466"/>
         <source>Erase all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer tous les segments</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1467"/>
@@ -20868,17 +20868,17 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1474"/>
         <source>Pixel mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode pixel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1475"/>
         <source>Paint exactly the pixel under the cursor, ignoring the diameter, threshold, and paint over.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peignez exactement le pixel sous le curseur, en ignorant le diamètre, le seuil et peignez dessus.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1554"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -20891,47 +20891,47 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
         <source>Erase inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer l&apos;intérieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
         <source>Erase outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer l&apos;extérieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplir l&apos;intérieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1205"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplir l&apos;extérieur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1207"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opération :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1224"/>
         <source>Free-form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forme libre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Cercle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1226"/>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Rectangle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Centered</source>
-        <translation type="unfinished">Centré</translation>
+        <translation>Centré</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1229"/>
@@ -20941,7 +20941,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1231"/>
         <source>Shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forme :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
@@ -20951,7 +20951,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
-        <translation type="unfinished">Coupe la segmentation entière. Utilisé uniquement pour les vues en slicer.</translation>
+        <translation>Coupe la segmentation entière. Utilisé uniquement pour les vues en slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
@@ -20961,7 +20961,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Seul le côté positif du plan de slice est inclus dans la région de coupe. Utilisé uniquement pour les vues en slice.</translation>
+        <translation>Seul le côté positif du plan de slice est inclus dans la région de la coupe. Utilisé uniquement pour les vues en slice.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
@@ -21014,7 +21014,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="14"/>
         <source>Segmentations Options</source>
-        <translation type="unfinished">Options de segmentation</translation>
+        <translation>Options de segmentation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
@@ -21094,7 +21094,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="138"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="164"/>
@@ -21164,7 +21164,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="416"/>
