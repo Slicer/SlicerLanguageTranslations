@@ -8595,7 +8595,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="113"/>
         <source>Output</source>
-        <translation type="unfinished">Sortie</translation>
+        <translation>Sortie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="118"/>
@@ -16769,7 +16769,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation type="unfinished">Module de Données est le point central d&apos;organisation des données où toutes les données chargées sont présentées pour l&apos;accès et la manipulation est le module de Données. Il permet d&apos;organiser les données dans des dossiers ou des arbres patient/étude (fait automatiquement pour DICOM), de visualiser toutes les données affichables, de transformer des branches entières et une multitude de caractéristiques spécifiques au type de données.</translation>
+        <translation>Module de Données est le point central d&apos;organisation des données où toutes les données chargées sont présentées pour l&apos;accès et la manipulation est le module de Données. Il permet d&apos;organiser les données dans des dossiers ou des arbres patient/étude (fait automatiquement pour DICOM), de visualiser toutes les données affichables, de transformer des branches entières et une multitude de caractéristiques spécifiques au type de données.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
