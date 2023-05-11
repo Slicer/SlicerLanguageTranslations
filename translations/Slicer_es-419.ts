@@ -25244,12 +25244,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="309"/>
         <source>GPU memory size:</source>
-        <translation>Tamaño de la memoria GPU:</translation>
+        <translation>Tamaño de la memoria UPG:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="316"/>
         <source>Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</source>
-        <translation type="unfinished">Amount of memory allocated for volume rendering on the graphic card. &quot;Default&quot; can be modified in the settings.</translation>
+        <translation>Cantidad de memoria asignada para el renderizado del volumen dentro de la tarjeta gráfica. &quot;Predeterminado&quot; se puede modificar en la configuración.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="326"/>
@@ -25259,7 +25259,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="340"/>
         <source>Interactive speed:</source>
-        <translation># de imágenes por segundo:</translation>
+        <translation>Número de imágenes por segundo (velocidad interactiva):</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="359"/>
@@ -25269,17 +25269,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="366"/>
         <source>Advanced rendering properties</source>
-        <translation>Parámetros avanzados de renderizado</translation>
+        <translation>Propiedades avanzadas del renderizado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="397"/>
         <source>Auto-release resources:</source>
-        <translation type="unfinished">Auto-release resources:</translation>
+        <translation>Recursos autodescargables:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="404"/>
         <source>Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</source>
-        <translation type="unfinished">Immediately unload volumes from graphics memory when not visible. Reduces memory usage but makes toggling volume visibility slower.</translation>
+        <translation>Descarga inmediatamente los volúmenes de la memoria gráfica cuando no están visibles. Reduce el uso de memoria, pero ralentiza la conmutación de la visibilidad del volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="415"/>
@@ -25294,7 +25294,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="457"/>
         <source>Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</source>
-        <translation type="unfinished">Don&apos;t use threshold values. Set opacity ramp from the Window/Level range instead.</translation>
+        <translation>No utilice valores umbral. Establezca la rampa de opacidad desde el rango Ventana/Nivel.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="460"/>
