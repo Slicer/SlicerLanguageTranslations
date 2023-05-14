@@ -23394,63 +23394,63 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
         <source>Register this...</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل هذا...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation type="unfinished">Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</translation>
+        <translation>حدد الحجم كصورة متحركة للتسجيل. يمكن تحديد المجلد الثاني من قائمة السياق بعد تعيين المجلد الأول.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="100"/>
         <source>Register * to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل * لهذا باستخدام ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="105"/>
         <source>Rigid image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل صارم يستند إلى الصور</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="109"/>
         <source>BSpline image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>BSpline التسجيل القائم على الصورة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="113"/>
         <source>Interactive landmark registration</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل المعلم التفاعلي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
         <source>Cancel registration (or right-click another volume to start registration)</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء التسجيل (أو انقر بزر الماوس الأيمن فوق وحدة تخزين أخرى لبدء التسجيل)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
-        <translation type="unfinished">Right-click another volume to select second volume and start registration</translation>
+        <translation>انقر بزر الماوس الأيمن فوق وحدة تخزين أخرى لتحديد وحدة التخزين الثانية وبدء التسجيل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="217"/>
         <source>Register %1 to this using...</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل %1 في هذا باستخدام ...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="261"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="347"/>
         <source>BRAINSRegistration_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>تسجيل الدماغ_٪1_إلى_٪2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="277"/>
         <source>LinearTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل خطي_٪1_إلى_٪2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="363"/>
         <source>BSplineTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل BSpline_٪1_إلى_٪2</translation>
     </message>
 </context>
 <context>
@@ -23458,7 +23458,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SceneViews/SubjectHierarchyPlugins/qSlicerSubjectHierarchySceneViewsPlugin.cxx" line="79"/>
         <source>Restore scene view</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة عرض المشهد</translation>
     </message>
 </context>
 <context>
@@ -23466,57 +23466,57 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="110"/>
         <source>Export visible segments to binary labelmap</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير المقاطع المرئية إلى خريطة التسمية الثنائية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="113"/>
         <source>Export visible segments to models</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير الشرائح المرئية إلى النماذج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="116"/>
         <source>Convert labelmap to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل خريطة التسمية إلى عقدة تجزئة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="119"/>
         <source>Convert model to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل النموذج إلى عقدة تجزئة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="122"/>
         <source>Convert models to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل النماذج إلى عقدة تجزئة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="125"/>
         <source>Create binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء تمثيل لمخطط تفصيلي ثنائي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="127"/>
         <source>Create closed surface representation</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء تمثيل سطح مغلق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="130"/>
         <source>Remove binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة تمثيل خريطة التسمية الثنائية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="132"/>
         <source>Remove closed surface representation</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة تمثيل السطح المغلق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="135"/>
         <source>2D fill visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية تعبئة ثنائية الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="140"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية مخطط تفصيلي ثنائي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="282"/>
@@ -23525,111 +23525,125 @@ Select plugin to add node named
 Would you like to change the master representation of &apos;%4&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن تحويل تمثيل المصدر الرئيسي &apos;%1&apos; إلى الهدف الرئيسي &apos;%2&apos;، وبالتالي غير قادر على استيراد العقدة &apos;%3&apos; إلى التجزئة &apos;%4&apos;.
+
+هل ترغب في تغيير التمثيل الرئيسي ل &quot;%4&quot; إلى &quot;%1&quot;؟
+
+ملاحظة: قد يؤدي ذلك إلى فقدان البيانات غير المرغوب فيها في %4.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="290"/>
         <source>Failed to import data to segmentation</source>
-        <translation type="unfinished">Failed to import data to segmentation</translation>
+        <translation>فشل استيراد البيانات إلى التجزئة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="298"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحويل %1 إلى %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="299"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>فشل التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="355"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="361"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>غير صالح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="378"/>
         <source> (Representations: </source>
-        <translation type="unfinished"></translation>
+        <translation> (التمثيلات: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="382"/>
         <source>None)</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
         <source> (Master representation: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (التمثيل الرئيسي: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="400"/>
         <source> (Number of segments: %1)</source>
         <extracomment>parameter is the representation name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation> (عدد المقاطع: %1)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1002"/>
         <source>Failed to create binary labelmap representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء تمثيل خريطة تسمية ثنائي للتجزئة %1 باستخدام معلمات التحويل الافتراضية!
+
+يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء تمثيل متقدمة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1006"/>
         <source>Failed to export segmentation to labelmap node</source>
-        <translation type="unfinished">Failed to export segmentation to labelmap node</translation>
+        <translation>فشل تصدير التجزئة إلى عقدة خريطة التسمية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1026"/>
         <source>-label</source>
-        <translation type="unfinished"></translation>
+        <translation>-تسميه</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1042"/>
         <source>Failed to export segments from segmentation %1 to labelmap node!
 
 Most probably the segment cannot be converted into binary labelmap representation</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تصدير المقاطع من التجزئة %1 إلى عقدة خريطة التسمية!
+
+على الأرجح لا يمكن تحويل المقطع إلى تمثيل ثنائي لخريطة التسمية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1046"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1096"/>
         <source>Failed to export segments</source>
-        <translation type="unfinished">Failed to export segments</translation>
+        <translation>فشل تصدير الشرائح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1067"/>
         <source>Failed to create closed surface representation for segmentation %1 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء تمثيل سطح مغلق للتجزئة %1 باستخدام معلمات التحويل الافتراضية!
+
+يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء تمثيل متقدمة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1071"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1336"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished">Failed to export segmentation to models</translation>
+        <translation>فشل تصدير التجزئة إلى النماذج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1076"/>
         <source>-models</source>
-        <translation type="unfinished"></translation>
+        <translation>-نماذج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تصدير الشرائح من التجزئة %1 إلى النماذج!
+
+على الأرجح لا يمكن تحويل القطعة إلى تمثيل سطح مغلق.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1331"/>
         <source>Failed to create %1 representation for segmentation %2 using defaultconversion parameters!
 
 Please visit the Segmentation module and try the advanced create representation function.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء تمثيل %1 للتجزئة %2 باستخدام معلمات التحويل الافتراضية!
+
+يرجى زيارة وحدة التجزئة وتجربة وظيفة إنشاء تمثيل متقدمة.</translation>
     </message>
 </context>
 <context>
@@ -23637,45 +23651,46 @@ Please visit the Segmentation module and try the advanced create representation 
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="99"/>
         <source>Show only this segment</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار هذا المقطع فقط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="103"/>
         <source>Show all segments</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض جميع القطاعات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="107"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال إلى شرائح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="111"/>
         <source>Clone</source>
-        <translation type="unfinished"></translation>
+        <translation>استنساخ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="116"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="126"/>
         <source>Opacity</source>
-        <translation type="unfinished">العتامة:</translation>
+        <translation>العتامة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="127"/>
         <source>Set segment opacity in the sub-menu</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين عتامة المقطع في القائمة الفرعية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="230"/>
         <source>Segment ID of the moved segment (%1) might exist in the target segmentation.
 Please check the error window for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>قد يكون معرف المقطع للمقطع المنقول (%1) موجودا في التقسيم المستهدف.
+يرجى التحقق من نافذة الخطأ للحصول على التفاصيل.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="232"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="245"/>
         <source>Failed to move segment between segmentations</source>
-        <translation type="unfinished">Failed to move segment between segmentations</translation>
+        <translation>فشل نقل المقطع بين الأجزاء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="237"/>
@@ -23684,36 +23699,41 @@ Please check the error window for details.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن تحويل التمثيل الرئيسي المصدر &apos;%1&apos; إلى الهدف الرئيسي &apos;%2&apos;، وبالتالي غير قادر على نقل المقطع &apos;%3&apos; من التجزئة &apos;%4&apos; إلى &apos;%5&apos;.
+
+هل ترغب في تغيير التمثيل الرئيسي ل &quot;%5&quot; إلى &quot;%1&quot;؟
+
+ملاحظة: قد يؤدي ذلك إلى فقدان البيانات غير المرغوب فيها في %5.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="254"/>
         <source>Failed to convert %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحويل %1 إلى %2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="256"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>فشل التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="323"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="329"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="335"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>غير صالح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="361"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="385"/>
         <source>None</source>
-        <translation type="unfinished">لا شيء</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="398"/>
         <source>Segment - Representations: %1, Color: (%2, %3, %4)
 Tags: %5</source>
-        <translation type="unfinished"></translation>
+        <translation>الجزء - التمثيلات: %1 ، اللون: (%2 ، %3 ، %4)
+العلامات: %5</translation>
     </message>
 </context>
 <context>
@@ -23721,27 +23741,27 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="14"/>
         <source>SubjectHierarchySettingsPanel</source>
-        <translation type="unfinished">SubjectHierarchySettingsPanel</translation>
+        <translation>لوحة إعدادات التسلسل الهرمي للموضوع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="20"/>
         <source>Operation</source>
-        <translation type="unfinished">Operation</translation>
+        <translation>عملية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="29"/>
         <source>Delete whole branch under the deleted item from subject hierarchy.</source>
-        <translation type="unfinished">Delete whole branch under the deleted item from subject hierarchy.</translation>
+        <translation>حذف الفرع بأكمله ضمن العنصر المحذوف من التسلسل الهرمي للموضوع.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="32"/>
         <source>Automatically delete subject hierarchy children:</source>
-        <translation type="unfinished">Automatically delete subject hierarchy children:</translation>
+        <translation>حذف عناصر التدرج الهرمي للموضوع تلقائيا:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="39"/>
         <source>Automatically delete subject hierarchy children for nodes removed from the scene.</source>
-        <translation type="unfinished">Automatically delete subject hierarchy children for nodes removed from the scene.</translation>
+        <translation>حذف العناصر الفرعية للتدرج الهرمي للموضوع تلقائيا للعقد التي تمت إزالتها من المشهد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="52"/>
@@ -23752,27 +23772,27 @@ Tags: %5</source>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="67"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="94"/>
         <source>  ID:</source>
-        <translation type="unfinished">  ID:</translation>
+        <translation>  معرف:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
         <source>Patient tags in item name:</source>
-        <translation type="unfinished">Patient tags in item name:</translation>
+        <translation>علامات المريض في اسم العنصر:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
         <source>Study tags in item name:</source>
-        <translation type="unfinished">Study tags in item name:</translation>
+        <translation>علامات الدراسة في اسم العنصر:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="135"/>
         <source>  Study date:</source>
-        <translation type="unfinished">  Study date:</translation>
+        <translation>  تاريخ الدراسة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="148"/>
         <source>  Birth date:</source>
-        <translation type="unfinished">  Birth date:</translation>
+        <translation>  تاريخ الميلاد:</translation>
     </message>
 </context>
 <context>
@@ -23780,22 +23800,22 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="93"/>
         <source>Invert transform</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="96"/>
         <source>Reset transform to identity</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين التحويل إلى الهوية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="99"/>
         <source>Interaction in 3D view</source>
-        <translation type="unfinished"></translation>
+        <translation>التفاعل في العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="177"/>
         <source>Some nodes in the branch are already transformed</source>
-        <translation type="unfinished">Some nodes in the branch are already transformed</translation>
+        <translation>تم بالفعل تحويل بعض العقد في الفرع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="178"/>
@@ -23809,12 +23829,12 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="270"/>
         <source>Transform to parent:</source>
-        <translation type="unfinished">التحويل إلى الوالد:</translation>
+        <translation>التحويل إلى الوالد:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="272"/>
         <source>Transform from parent:</source>
-        <translation type="unfinished">التحويل من الوالد:</translation>
+        <translation>التحويل من الوالد:</translation>
     </message>
 </context>
 <context>
@@ -23822,37 +23842,37 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="115"/>
         <source>View transform</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض التحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="121"/>
         <source>Adjust window/level</source>
-        <translation type="unfinished">ضبط النافذة / المستوى</translation>
+        <translation>ضبط النافذة / المستوى</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="127"/>
         <source>Place</source>
-        <translation type="unfinished">Place</translation>
+        <translation>مكان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="149"/>
         <source>Center view</source>
-        <translation type="unfinished">Center view</translation>
+        <translation>عرض المركز</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="151"/>
         <source>Center the slice on the currently visible 3D view content and all loaded volumes.</source>
-        <translation type="unfinished">Center the slice on the currently visible 3D view content and all loaded volumes.</translation>
+        <translation>توسيط الشريحة على محتوى العرض ثلاثي الأبعاد المرئي حاليا وكافة وحدات التخزين المحملة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="157"/>
         <source>Refocus camera on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>أعد تركيز الكاميرا على هذه النقطة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="159"/>
         <source>Set the camera focus to rotate around this point.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط تركيز الكاميرا للتدوير حول هذه النقطة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="164"/>
@@ -23862,62 +23882,62 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="166"/>
         <source>Center the slice view on the currently displayed volume.</source>
-        <translation type="unfinished">Center the slice view on the currently displayed volume.</translation>
+        <translation>توسيط عرض الشريحة على وحدة التخزين المعروضة حاليا.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="171"/>
         <source>Refocus cameras on this point</source>
-        <translation type="unfinished"></translation>
+        <translation>أعد تركيز الكاميرات على هذه النقطة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="173"/>
         <source>Set the focus of all cameras to rotate around this point.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط تركيز جميع الكاميرات للتدوير حول هذه النقطة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="181"/>
         <source>Show this view maximized in the view layout</source>
-        <translation type="unfinished">Show this view maximized in the view layout</translation>
+        <translation>إظهار طريقة العرض هذه مكبرة في تخطيط طريقة العرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="186"/>
         <source>Tilt lock</source>
-        <translation type="unfinished">Tilt lock</translation>
+        <translation>قفل الإمالة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="188"/>
         <source>Prevent rotation around the horizontal axis when rotating this view.</source>
-        <translation type="unfinished">Prevent rotation around the horizontal axis when rotating this view.</translation>
+        <translation>منع الدوران حول المحور الأفقي عند تدوير هذا العرض.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="190"/>
         <source>Ctrl+b</source>
-        <translation type="unfinished">Ctrl+b</translation>
+        <translation>Ctrl+b</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="196"/>
         <source>Configure slice view annotations...</source>
-        <translation type="unfinished">Configure slice view annotations...</translation>
+        <translation>تكوين التعليقات التوضيحية لعرض الشرائح...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="198"/>
         <source>Configures display of corner annotations and color legend.</source>
-        <translation type="unfinished">Configures display of corner annotations and color legend.</translation>
+        <translation>تكوين عرض التعليقات التوضيحية الركنية وأدلة الألوان.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="204"/>
         <source>Copy image</source>
-        <translation type="unfinished">Copy image</translation>
+        <translation>نسخ الصورة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="206"/>
         <source>Copy a screenshot of this view to the clipboard</source>
-        <translation type="unfinished">Copy a screenshot of this view to the clipboard</translation>
+        <translation>نسخ لقطة شاشة لطريقة العرض هذه إلى الحافظة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="212"/>
         <source>Slice intersections</source>
-        <translation type="unfinished">Slice intersections</translation>
+        <translation>تقاطعات الشرائح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="214"/>
@@ -23932,7 +23952,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="225"/>
         <source>Show handles for slice interaction.</source>
-        <translation type="unfinished">Show handles for slice interaction.</translation>
+        <translation>إظهار مقابض تفاعل الشريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="338"/>
@@ -23943,7 +23963,7 @@ Tags: %5</source>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="179"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="342"/>
         <source>Maximize view</source>
-        <translation type="unfinished">Maximize view</translation>
+        <translation>تكبير العرض</translation>
     </message>
 </context>
 <context>
@@ -23951,17 +23971,17 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="81"/>
         <source>Show in all views</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار في جميع طرق العرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="84"/>
         <source>2D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية ثنائية الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyVisibilityPlugin.cxx" line="89"/>
         <source>3D visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>رؤية ثلاثية الأبعاد</translation>
     </message>
 </context>
 <context>
