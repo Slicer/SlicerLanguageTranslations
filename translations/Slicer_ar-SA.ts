@@ -23259,82 +23259,82 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="151"/>
         <source>Toggle select control point</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل تحديد نقطة التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="156"/>
         <source>Jump to previous control point</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال إلى نقطة التحكم السابقة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="157"/>
         <source>Jump slice views to the previous control point</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال بين طرق عرض الشرائح إلى نقطة التحكم السابقة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="162"/>
         <source>Jump to next control point</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال إلى نقطة التحكم التالية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="163"/>
         <source>Jump slice views to the next control point</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال بين طرق عرض الشرائح إلى نقطة التحكم التالية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="168"/>
         <source>Jump to closest control point</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال إلى أقرب نقطة تحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="169"/>
         <source>Jump slice views to the closest control point</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال بين طرق عرض الشرائح إلى أقرب نقطة تحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="174"/>
         <source>Delete control point</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف نقطة التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="179"/>
         <source>Delete markup</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف العلامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="184"/>
         <source>Edit markup terminology...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير مصطلحات العلامات...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="192"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="225"/>
         <source>Interaction</source>
-        <translation type="unfinished">تفاعل</translation>
+        <translation>تفاعل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="198"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="230"/>
         <source>Translate</source>
-        <translation type="unfinished">ترجمة</translation>
+        <translation>ترجمة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="203"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="235"/>
         <source>Rotate</source>
-        <translation type="unfinished">دور</translation>
+        <translation>استدارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="208"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="240"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">مِيزَان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="218"/>
         <location filename="Modules/Loadable/Markups/SubjectHierarchyPlugins/qSlicerSubjectHierarchyMarkupsPlugin.cxx" line="250"/>
         <source>Interaction options</source>
-        <translation type="unfinished">خيارات التفاعل</translation>
+        <translation>خيارات التفاعل</translation>
     </message>
 </context>
 <context>
@@ -23342,12 +23342,12 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchyModule.ui" line="14"/>
         <source>SubjectHierarchy</source>
-        <translation type="unfinished">SubjectHierarchy</translation>
+        <translation>التدرج الهرمي للموضوع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/qSlicerSubjectHierarchyModule.h" line="51"/>
         <source>Subject Hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>التدرج الهرمي للموضوع</translation>
     </message>
 </context>
 <context>
