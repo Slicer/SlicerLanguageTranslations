@@ -4296,47 +4296,47 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
         <source>Output that contains geometry model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortida que conté model de geometria.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"/>
         <source>Grayscale Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres del creador de models en escala de grisos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres utilitzats per a la creació de models.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Llindar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del model</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Llisa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delmar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
         <source>Split Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir normals?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"/>
         <source>Compute Point Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular punts normals?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
@@ -4346,27 +4346,27 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;usuari per a aquest model.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
         <source>Number of smoothing iterations. If 0, no smoothing will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;iteracions de suavització. Si és 0, no es farà cap suavització.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="24"/>
         <source>Target reduction during decimation, as a decimal percentage reduction in the number of polygons. If 0, no decimation will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reducció objectiu durant la delmació, com a reducció percentual decimal del nombre de polígons. Si 0, no es farà cap delmació.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affect measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>La divisió de normals és útil per a visualitzar funcions nítides. No obstant això, crea forats en superfícies que afecten les mesures</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="26"/>
         <source>Calculate the point normals? Calculated point normals make the surface appear smooth. Without point normals, the surface will appear faceted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular els punts normals? Les normals de punts calculats fan que la superfície sembli llisa. Sense punts normals, la superfície apareixerà facetada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
@@ -4376,12 +4376,12 @@ Un filtre complementari, Grayscale Hole Fill, omple els forats a les imatges en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Depurar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"/>
         <source>Turn this flag on to log more details during execution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa aquesta marca per a registrar més detalls durant l&apos;execució.</translation>
     </message>
 </context>
 <context>
@@ -4499,12 +4499,12 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"/>
         <source>Image Label Combine</source>
-        <translation type="unfinished"></translation>
+        <translation>Combinació d&apos;etiquetes d&apos;imatge</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
         <source>Combine two label maps into one</source>
-        <translation type="unfinished"></translation>
+        <translation>Combina dos mapes d&apos;etiquetes en un de sol</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
@@ -4519,33 +4519,33 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
         <source>Input Label Map A</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa d&apos;etiquetes d&apos;entrada A</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"/>
         <source>Input Label Map B</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa d&apos;etiquetes d&apos;entrada B</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"/>
         <source>Output Label Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa d&apos;etiquetes de sortida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
         <source>Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge del mapa d&apos;etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
         <source>Resulting Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatge del mapa de l&apos;etiqueta resultant</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
         <source>Label combination options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de combinació d&apos;etiquetes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"/>
@@ -5025,7 +5025,7 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delmar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
