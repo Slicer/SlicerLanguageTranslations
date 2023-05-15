@@ -23989,17 +23989,17 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="93"/>
         <source>Show in 3D views as volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار في طرق العرض الثلاثية الأبعاد كعرض وحدة التخزين</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="98"/>
         <source>Volume rendering options...</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات عرض وحدة التخزين...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="100"/>
         <source>Switch to Volume Rendering module to manage display options</source>
-        <translation type="unfinished">التبديل إلى وحدة عرض الحجم لإدارة خيارات العرض</translation>
+        <translation>التبديل إلى وحدة عرض الحجم لإدارة خيارات العرض</translation>
     </message>
 </context>
 <context>
@@ -24007,12 +24007,12 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="136"/>
         <source>Show volumes in folder</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار وحدات التخزين في مجلد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="139"/>
         <source>Show in slice views as foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار في طرق عرض الشرائح كمقدمة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="142"/>
@@ -24022,62 +24022,62 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="147"/>
         <source>Reset view orientation on show</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين اتجاه العرض في العرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="154"/>
         <source>Show color legend</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار وسيلة إيضاح الألوان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="163"/>
         <source>Window/level presets</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات المسبقة للنافذة/المستوى</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="187"/>
         <source>Default preset for the selected volume</source>
-        <translation type="unfinished">الإعداد الافتراضي للمجلد المحدد</translation>
+        <translation>الإعداد الافتراضي للمجلد المحدد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="195"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>تلقائي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="197"/>
         <source>Display the full intensity range of the volume.</source>
-        <translation type="unfinished">عرض النطاق الكامل للحجم.</translation>
+        <translation>عرض النطاق الكامل للحجم.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="365"/>
         <source>Default (WW=%1, WL=%2)</source>
-        <translation type="unfinished">Default (WW=%1, WL=%2)</translation>
+        <translation>الافتراضي (WW = %1 ، WL = %2)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="467"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>غير صالح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="473"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
         <source>Dimensions:</source>
-        <translation type="unfinished">Dimensions:</translation>
+        <translation>أبعاد:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>تباعد:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="493"/>
         <source> Empty volume</source>
-        <translation type="unfinished"></translation>
+        <translation> حجم فارغ</translation>
     </message>
 </context>
 <context>
@@ -24098,7 +24098,7 @@ Tags: %5</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/qSlicerSuperLoadableModuleTemplateModule.h" line="43"/>
         <source>qSlicerSuperLoadableModuleTemplateModule</source>
-        <translation type="unfinished"></translation>
+        <translation>qSlicerSuperLoadableModuleTemplateModule</translation>
     </message>
 </context>
 <context>
@@ -24110,7 +24110,7 @@ Tags: %5</source>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="14"/>
         <source>SlicerSuperLoadableModuleTemplate</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب الوحدة النمطية القابلة للتحميل الفائق لمقسم طريقة العرض</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/SuperBuildExtensionTemplate/SuperLoadableModuleTemplate/Resources/UI/qSlicerSuperLoadableModuleTemplateModuleWidget.ui" line="20"/>
@@ -24123,32 +24123,32 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished">Place markups</translation>
+        <translation>وضع العلامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="41"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>اسم:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
         <source>Data type:</source>
-        <translation type="unfinished">Data type:</translation>
+        <translation>نوع البيانات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
         <source>string</source>
-        <translation type="unfinished">string</translation>
+        <translation>سلسلة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="73"/>
         <source>double</source>
-        <translation type="unfinished">double</translation>
+        <translation>مزدوج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="78"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="83"/>
@@ -24158,32 +24158,32 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>حُر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
         <source>char</source>
-        <translation type="unfinished">char</translation>
+        <translation>مِحرف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="98"/>
         <source>signed char</source>
-        <translation type="unfinished">signed char</translation>
+        <translation>حرف موقع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="103"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="108"/>
         <source>long</source>
-        <translation type="unfinished">long</translation>
+        <translation>طويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="113"/>
         <source>long long</source>
-        <translation type="unfinished">long long</translation>
+        <translation>طويل طويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="118"/>
@@ -24193,113 +24193,113 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="123"/>
         <source>idtype</source>
-        <translation type="unfinished">idtype</translation>
+        <translation>نوع الهوية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="128"/>
         <source>unsigned char</source>
-        <translation type="unfinished">unsigned char</translation>
+        <translation>حرف غير موقع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="133"/>
         <source>unsigned short</source>
-        <translation type="unfinished">unsigned short</translation>
+        <translation>قصير غير موقع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
         <source>unsigned int</source>
-        <translation type="unfinished">unsigned int</translation>
+        <translation>عدد صحيح غير موقعة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="143"/>
         <source>unsigned long</source>
-        <translation type="unfinished">unsigned long</translation>
+        <translation>طويل غير موقع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="148"/>
         <source>unsigned long long</source>
-        <translation type="unfinished">unsigned long long</translation>
+        <translation>طويل طويل غير موقع</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="153"/>
         <source>unsigned __int64</source>
-        <translation type="unfinished">unsigned __int64</translation>
+        <translation>__int64 غير الموقعة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="161"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>تحويل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="168"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="177"/>
         <source>Null value:</source>
-        <translation type="unfinished">Null value:</translation>
+        <translation>قيمة فارغة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Long name:</source>
-        <translation type="unfinished">Long name:</translation>
+        <translation>الاسم الطويل:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>وصف:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="207"/>
         <source>Unit label:</source>
-        <translation type="unfinished">Unit label:</translation>
+        <translation>تسمية الوحدة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="217"/>
         <source>Component count:</source>
-        <translation type="unfinished">Component count:</translation>
+        <translation>عدد المكونات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="238"/>
         <source>Component names:</source>
-        <translation type="unfinished">Component names:</translation>
+        <translation>أسماء المكونات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="248"/>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="251"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished">Place multiple control points</translation>
+        <translation>ضع نقاط تحكم متعددة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="260"/>
         <source>Delete all control points</source>
-        <translation type="unfinished">Delete all control points</translation>
+        <translation>حذف جميع نقاط التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="263"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished">Delete all control points in the list</translation>
+        <translation>حذف جميع نقاط التحكم في القائمة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="273"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>رؤية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="276"/>
         <source>Toggle control point visibility</source>
-        <translation type="unfinished">Toggle control point visibility</translation>
+        <translation>تبديل رؤية نقطة التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="286"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>مقفل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="289"/>
         <source>Toggle control point positions lock</source>
-        <translation type="unfinished">Toggle control point positions lock</translation>
+        <translation>تبديل قفل مواضع نقطة التحكم</translation>
     </message>
 </context>
 <context>
@@ -24389,7 +24389,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="334"/>
         <source>Column properties</source>
-        <translation type="unfinished">خصائص العمود</translation>
+        <translation>خصائص العمود</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="349"/>
@@ -24404,12 +24404,12 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر لإلغاء تأمين هذا الجدول بحيث يمكن تعديل القيم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر لتأمين هذا الجدول لمنع تعديل القيم في واجهة المستخدم</translation>
     </message>
 </context>
 <context>
@@ -24417,7 +24417,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="134"/>
         <source>Table reading failed: no file extension specified: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشلت قراءة الجدول: لم يتم تحديد امتداد الملف: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="149"/>
@@ -24427,12 +24427,12 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="150"/>
         <source>Database Password:</source>
-        <translation type="unfinished">Database Password:</translation>
+        <translation>كلمة مرور قاعدة البيانات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="182"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في قراءة الجدول من &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -24454,7 +24454,7 @@ Tags: %5</source>
         <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="43"/>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="43"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>مفتاح القالب</translation>
     </message>
 </context>
 <context>
@@ -24466,7 +24466,7 @@ Tags: %5</source>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>مفتاح القالب</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
@@ -24795,7 +24795,7 @@ Do you wish to update the stored context file with the just loaded one?</source>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="14"/>
         <source>Units Settings</source>
-        <translation type="unfinished">Units Settings</translation>
+        <translation>إعدادات الوحدات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="26"/>
@@ -24804,18 +24804,17 @@ Do you wish to update the stored context file with the just loaded one?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Warning:&lt;/span&gt; Changing the properties of the unit only change the display, not the value !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt; &lt;head&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+p, li { مسافة بيضاء: التفاف مسبق; }
+&lt;/style&gt; &lt;/head&gt; &lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; &lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt; تحذير: &lt;/span&gt; تغيير خصائص الوحدة فقط تغيير العرض ، وليس القيمة! &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
         <source>Show all the units&apos; properties.
 This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</source>
-        <translation type="unfinished">Show all the units&apos; properties.
-This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</translation>
+        <translation>إظهار كافة خصائص الوحدات. يجب أن يستخدم هذا فقط من قبل المستخدمين المتقدمين الذين يفهمون عواقب تغيير خاصية الوحدة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
