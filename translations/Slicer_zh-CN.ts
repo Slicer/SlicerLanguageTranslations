@@ -90,7 +90,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
@@ -120,12 +120,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">输入数据1</translation>
+        <translation>输入数据1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">输入数据2</translation>
+        <translation>输入数据2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished">样本百分比</translation>
+        <translation>样本百分比</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
@@ -438,12 +438,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished">输入固定图像（移动图像将被转换到这个图像空间）。</translation>
+        <translation>输入修正的图像（移动图像将被转换到这个图像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished">输入移动图像（该图像将被转换到固定图像空间）。</translation>
+        <translation>输入移动图像（该图像将被转换到固定图像空间）。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
@@ -664,12 +664,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished">柱状图匹配</translation>
+        <translation>直方图匹配</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished">中位数过滤器尺寸</translation>
+        <translation>中位数过滤器尺寸</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
@@ -735,7 +735,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
@@ -760,17 +760,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished">背景填充值</translation>
+        <translation>背景填充值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished">缩放输出值</translation>
+        <translation>缩放输出值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">插值模式</translation>
+        <translation>插值模式</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
@@ -790,12 +790,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished">这个值将用于填充输出图像中那些在输入移动图像中没有相应体素的区域。</translation>
+        <translation>这个值将用于填充输出图像中的那些在输入移动图像中没有相应体素的区域。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished">如果为真，且体素值不符合所需的outputVolumePixelType的最小和最大值，则线性缩放最小/最大输出图像体素值以符合outputVolumePixelType的最小/最大范围。</translation>
+        <translation>如果为真，且体素值不符合所需的outputVolumePixelType的最小和最大值，则线性缩放最小/最大输出图像体素值以符合outputVolumePixelType的最小/最大范围。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
@@ -806,18 +806,18 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">浮点数</translation>
+        <translation>浮点数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">线性</translation>
+        <translation>线性</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">短整数型</translation>
+        <translation>短整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
@@ -927,7 +927,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished">最大 B 样条位移</translation>
+        <translation>最大 B 样条位移</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
@@ -952,12 +952,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished">与单位旋转变化（以弧度为单位）相比，位置变化（以毫米为单位）的比例 - 减小此值以允许在搜索模式中进行更多旋转。</translation>
+        <translation>与单位旋转变化（以弧度为单位）相比的位置变化（以毫米为单位）的比例；减小此值以允许在搜索模式中进行更多旋转。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished">ScaleVersor3D“Scale”补偿因子。 增加此值以允许在 ScaleVersor3D 或 ScaleSkewVersor3D 搜索模式中进行更多重新缩放。 1.0 适用于 1000.0 的翻译比例</translation>
+        <translation>ScaleVersor3D的“比例”补偿因子。 增加此值以允许在 ScaleVersor3D 或 ScaleSkewVersor3D 搜索模式中进行更多的重缩放。 翻译比例为1.0 ：1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
@@ -1029,12 +1029,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
         <source>Transform Type</source>
-        <translation type="unfinished">转换类型</translation>
+        <translation>转换类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished">输出转换</translation>
+        <translation>输出转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
@@ -1044,7 +1044,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished">以单精度写入输出配准转换</translation>
+        <translation>以单精度写入输出配准转换</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
@@ -1059,12 +1059,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished">用于相互信息度量估计的直方图级别的数量。</translation>
+        <translation>用于相互信息度量估计的直方图级别的数量。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished">用于相互信息度量估计的直方图匹配点的数量。</translation>
+        <translation>用于相互信息度量估计的直方图匹配点的数量。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
@@ -1122,12 +1122,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished">MMI</translation>
+        <translation>MMI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished">MSE</translation>
+        <translation>MSE</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
@@ -1182,12 +1182,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished">用于保存最终转换的标志，即使未达到收敛的迭代次数也是如此。（用于 --failureExitCode 0 ）</translation>
+        <translation>用于保存最终转换的标志，即使未达到收敛的迭代次数也是如此。（被设计用于当--failureExitCode 0时的情况）</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished">明确指定要使用的最大线程数。(默认是自动检测)</translation>
+        <translation>明确指定要使用的最大线程数。(默认是自动检测)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
@@ -1198,7 +1198,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished">来自 itkLBFGSBOptimizer.h：设置/获取 CostFunctionConvergenceFactor。当成本函数的减少小于 (factor * epsmcj) 时算法终止，其中 epsmch 是机器精度。因子的典型值：1e+12 表示低精度； 1e+7 用于中等精度，1e+1 用于极高精度。 1e+9 似乎运作良好。
+        <translation>来自 itkLBFGSBOptimizer.h：设置/获取 CostFunctionConvergenceFactor。当成本函数的减少小于 (factor * epsmcj) 时算法终止，其中 epsmch 是机器精度。因子的典型值如下：1e+12 表示低精度； 1e+7 用于中等精度，1e+1 用于极高精度。 1e+9时一般而言运行效果较好。
       </translation>
     </message>
     <message>
@@ -1236,7 +1236,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished">用于在 CSV 文件中写出最终信息报告的文件：MetricName、MetricValue、FixedImageName、FixedMaskName、MovingImageName、MovingMaskName</translation>
+        <translation>用于在 CSV 文件中写出最终信息报告的文件：MetricName、MetricValue、FixedImageName、FixedMaskName、MovingImageName、MovingMaskName</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
@@ -1256,13 +1256,13 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished">该程序用于在图像中最突出的前景区域上创建蒙版。 这是通过 otsu 阈值和关闭操作的组合来实现的。
+        <translation>该程序用于在图像中最突出的前景区域上创建蒙版。 这是通过 otsu 阈值和关闭操作的组合来实现的。
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished">Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=爱荷华大学精神病学系，2=爱荷华大学放射学系，3=爱荷华大学生物医学工程系，4=爱荷华大学电子和计算机工程系，5=哈佛大学外科规划实验室)  </translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=爱荷华大学精神病学系，2=爱荷华大学放射学系，3=爱荷华大学生物医学工程系，4=爱荷华大学电子和计算机工程系，5=哈佛大学外科规划实验室)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
@@ -1287,7 +1287,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished">输出图像</translation>
+        <translation>输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
@@ -1297,7 +1297,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished">按 ROI 裁剪的输出图像</translation>
+        <translation>按 ROI 裁剪的输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
@@ -1307,7 +1307,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished">从输入图像中自动找到的ROI。</translation>
+        <translation>从输入图像中自动找到的ROI。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
@@ -1352,7 +1352,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished">输出图像像素类型</translation>
+        <translation>输出图像像素类型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
@@ -1387,18 +1387,18 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished">显式指定要使用的最大线程数。</translation>
+        <translation>明确指定要使用的最大线程数。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">短整数型</translation>
+        <translation>短整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">浮点数</translation>
+        <translation>浮点数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
@@ -1440,17 +1440,17 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished">该工具的开发得到了美国国家神经疾病和中风研究所NS050568和NS40068的资助以及美国国家精神卫生研究所MH31593和MH40856的资助。  </translation>
+        <translation>该工具的开发得到了美国国家神经疾病和中风研究所NS050568和NS40068的资助以及美国国家精神卫生研究所MH31593和MH40856的资助。  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">输入</translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished">用于指定要扭曲的图像和产生的图像空间的参数</translation>
+        <translation>用于指定要扭曲的图像和产生的图像空间的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
@@ -1466,22 +1466,22 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation type="unfinished">仅用于定义输出空间的参考图像。如果不指定，则在与要扭曲的图像相同的空间中进行扭曲。</translation>
+        <translation>仅用于定义输出空间的参考图像。如果不指定，则在与要扭曲的图像相同的空间中进行扭曲。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
         <source>Outputs</source>
-        <translation type="unfinished">输出</translation>
+        <translation>输出</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
         <source>Resulting deformed image parameters</source>
-        <translation type="unfinished">生成的变形图像参数</translation>
+        <translation>生成的变形图像参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation type="unfinished">输出图像</translation>
+        <translation>输出图像</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
@@ -1502,12 +1502,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation type="unfinished">浮点数</translation>
+        <translation>浮点数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
         <source>short</source>
-        <translation type="unfinished">短整数型</translation>
+        <translation>短整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
@@ -1547,7 +1547,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished">用来定义图像的变形原点的参数</translation>
+        <translation>用来定义图像的变形原点的参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
@@ -1567,7 +1567,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished">计算给定变换的逆变换？</translation>
+        <translation>计算给定变换的逆变换？</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
@@ -1592,23 +1592,23 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished">真/假是计算给定变换的逆运算。默认值为假</translation>
+        <translation>真/假被用于计算给定变换的逆运算。默认值为假</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
         <source>Default voxel value</source>
-        <translation type="unfinished">默认体素值</translation>
+        <translation>默认体素值</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
         <source>Linear</source>
-        <translation type="unfinished">线性</translation>
+        <translation>线性</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished">最近邻</translation>
+        <translation>最近邻</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
@@ -1618,7 +1618,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation type="unfinished">B样条</translation>
+        <translation>B样条</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
@@ -1663,7 +1663,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished">在输出的图像中添加扭曲的网格，以帮助显示在指定间距下发生的变形。   某一维度的间距为0，表示网格线应该被渲染成准确的落差（即不允许偏离该平面的位移）。  这对于从三维空间制作网格线的二维图像很有用</translation>
+        <translation>在输出的图像中添加扭曲的网格，以帮助显示在指定间距下发生的变形。   如果某一维度的间距为0，则表示网格线应该被渲染成准确的落差（即不允许偏离该平面的位移）。  这对于从三维空间制作网格线的二维图像很有用</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
@@ -1693,7 +1693,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished">
+        <translation>
 这个程序对于通过一个恒定的比例系数对图像进行降采样很有用。
   </translation>
     </message>
@@ -1756,12 +1756,12 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">浮点数</translation>
+        <translation>浮点数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation type="unfinished">短整数型</translation>
+        <translation>短整数型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
@@ -1869,7 +1869,8 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
@@ -1899,7 +1900,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished"></translation>
+        <translation>转换文件名以保存ConvertedTransform</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
@@ -1921,7 +1922,7 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="24"/>
         <source>double</source>
-        <translation type="unfinished">双精度</translation>
+        <translation>双精度型</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
@@ -1951,7 +1952,7 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation type="unfinished">浮点数</translation>
+        <translation>浮点数</translation>
     </message>
 </context>
 <context>
@@ -1973,7 +1974,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>这项工作是美国国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -2077,7 +2078,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>这项工作是美国国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -2097,7 +2098,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished"></translation>
+        <translation>在输出图像中的输入1和输入2的模式。用户可以指定在每个维度中指定检查器的数量。一个2,2,1的checkerPattern意思是图像将在前两个维度上被替换为每个其他的检查器。此时第三个维度将使用和前两个维度相同的检查器。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
@@ -2234,7 +2235,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
         <source>The printf-style format to be used when creating the per-slice DICOM filename. The leading % sign can be omitted.</source>
-        <translation type="unfinished">创建每片DICOM文件名时要使用的printf-style格式。前面的%符号可以省略。</translation>
+        <translation>创建每片DICOM文件名时要使用的printf风格的格式。格式前面的%符号可以省略。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
@@ -2604,7 +2605,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
         <source>RFS</source>
-        <translation type="unfinished"></translation>
+        <translation>RFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
@@ -2689,32 +2690,32 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished">重新缩放斜率(0028,1053)。将磁盘上的像素值转换为内存中的像素值。(内存中的像素值）=（磁盘上的像素值）* rescaleSlope + rescaleInterscept。  默认为1.0。数据值在写入时被转换（数据被缩放和移位，以便斜率和截距能使它回到当前的强度范围）。</translation>
+        <translation>重新缩放斜率(0028,1053)。将磁盘上的像素值转换为内存中的像素值。(内存中的像素值）=（磁盘上的像素值）* rescaleSlope + rescaleInterscept。  默认为1.0。数据值在写入时被转换（数据被缩放和移位，以便斜率和截距能使它回到当前的强度范围）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
         <source>Specifies the output units of the rescaled image (0008,1054). Leave it blank to set it automatically (Hounsfield unit for CT, unspecified for others).</source>
-        <translation type="unfinished">指定重新缩放图像的输出单位（0008,1054）。留空是为了自动设置（对CT来说是Hounsfield单位，对其他来说是未指定的）。</translation>
+        <translation>指定重新缩放图像的输出单位（0008,1054）。留空是为了自动设置（对CT来说是Hounsfield单位，对其他来说是未指定的）。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
         <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished">图片内容的日期（0008,0023），格式为YYYMMDD。如果设置为&quot;[现在]&quot;，那么将使用当前日期。</translation>
+        <translation>图片内容的日期（0008,0023），格式为YYYYMMDD。如果设置为&quot;[now]&quot;，那么将使用当前日期。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
         <source>The time of the image content (0008,0033) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished">图像内容的时间（0008,0033），格式为HHMMSS。如果设置为&quot;[现在]&quot;，则使用当前时间。</translation>
+        <translation>图像内容的时间（0008,0033），格式为HHMMSS。如果设置为&quot;[now]&quot;，则使用当前时间。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
         <source>Unique Identifiers (UIDs)</source>
-        <translation type="unfinished">唯一标识符 （UID）</translation>
+        <translation>唯一标识符 （UID）</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation type="unfinished">唯一标识符(UID)，允许在现有研究或系列中添加框架。要自动生成UID，请将所有的UID留空。</translation>
+        <translation>唯一标识符(UID)，允许用于在现有研究或系列中附加帧。要自动生成UID，请将所有的UID留空。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
@@ -2798,12 +2799,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished">电导率控制电导项的灵敏度。一般来说，该值越低，滤波器对边缘的保护就越强。一个高的值会导致边缘的扩散（平滑）。请注意，迭代次数控制了在以边缘为界的区域内做多少平滑处理。</translation>
+        <translation>电导率控制电导项的灵敏度。一般来说，该值越低，滤波器对边缘的保护就越强。一个高的值会导致边缘的扩散（平滑）。请注意，迭代次数控制了在以边缘为界的区域内做多少平滑处理。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished">迭代次数越多，平滑程度越高。每次迭代都需要相同的时间。如果一次迭代需要10秒，那么10次迭代就需要100秒。注意，电导率控制着每次迭代对边缘的平滑程度。</translation>
+        <translation>迭代次数越多越平滑。每次迭代都需要相同的时间。如果一次迭代需要10秒，那么10次迭代就需要100秒。注意，电导率控制着每次迭代对边缘的平滑程度。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
@@ -2851,7 +2852,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation type="unfinished"></translation>
+        <translation>在DICOM系列中转换弥散加权的MRI到NRRD格式以在Slicer中分析。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
