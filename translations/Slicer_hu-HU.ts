@@ -8380,83 +8380,86 @@ a = Affine Transform</source>
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Az Adatszonda modul információt ad az egér mutató
+aktuális pozíciójában található adatokról.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="34"/>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezt a munkát a NA-MIC, a NAC, az NCIGT, az NIH U24 CA180918 (PI-k Kikinis és Fedorov) és a Slicer Community támogatta.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="133"/>
         <source>No volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs kép</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="136"/>
         <source>No Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs kép</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="140"/>
         <source>Out of Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Képterületen kívül</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="144"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="156"/>
         <source>Out of bounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Határon kívül</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="159"/>
         <source>No Point Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincsenek pontadatok</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="163"/>
         <source>No Tensor Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincsenek tenzor adatok</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="181"/>
         <source>{numberOfComponents} components</source>
-        <translation type="unfinished"></translation>
+        <translation>{numberOfComponents} komponens</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="293"/>
         <source>Data Probe: {sceneName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatszonda: {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="297"/>
         <source>Data Probe</source>
-        <translation type="unfinished">Adatszonda</translation>
+        <translation>Adatszonda</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="499"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished"></translation>
+        <translation>További információk és opciók az Adatszonda modulban találhatók</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
         <source>Show Zoomed Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagyított szelet megjelenítése</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="540"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Szelet nézet feliratozás beállítások</translation>
+        <translation>Szelet nézet feliratozás beállítások</translation>
     </message>
 </context>
 <context>
