@@ -2831,235 +2831,236 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="5"/>
         <source>Diffusion-weighted DICOM Import (DWIConvert)</source>
-        <translation type="unfinished"></translation>
+        <translation>Importación DICOM ponderada por difusión (Conversor DWI)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="6"/>
         <source>Converts diffusion weighted MR images in DICOM series into NRRD format for analysis in Slicer. This program has been tested on only a limited subset of DTI DICOM formats available from Siemens, GE, and Philips scanners. Work in progress to support DICOM multi-frame data. The program parses DICOM header to extract necessary information about measurement frame, diffusion weighting directions, b-values, etc, and write out a NRRD image. For non-diffusion weighted DICOM images, it loads in an entire DICOM series and writes out a single dicom volume in a .nhdr/.raw pair.</source>
-        <translation type="unfinished"></translation>
+        <translation>Convierte imágenes de RM ponderadas por difusión en series DICOM al formato NRRD para su análisis en Slicer. Este programa ha sido probado sólo en un subconjunto limitado de formatos DICOM DTI disponibles de escáneres Siemens, GE y Philips. Se está trabajando para soportar datos DICOM multi-frame. El programa analiza el encabezado DICOM para extraer la información necesaria sobre el marco de medición, las direcciones de ponderación de difusión, los valores b, etc., y escribe una imagen NRRD. Para imágenes DICOM sin ponderación de difusión, carga una serie DICOM completa y escribe un único volumen dicom en un par .nhdr/.raw.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149.  Vincent Magnotta y Hans Johnson, de la Universidad de Iowa, contribuyeron con apoyo adicional para los datos DTI producidos en escáneres Philips.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
         <source>Conversion Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de conversión</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="9"/>
         <source>Options that are used for all conversion modes</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones que se utilizan para todos los modos de conversión</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="10"/>
         <source>Input DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de volumen DWI de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="11"/>
         <source>Output DWI Volume file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de volumen DWI de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
         <source>Determine which conversion to perform. DicomToNrrd (default): Convert DICOM series to NRRD DicomToFSL: Convert DICOM series to NIfTI File + gradient/bvalue text files NrrdToFSL: Convert DWI NRRD file to NIfTI File + gradient/bvalue text files FSLToNrrd: Convert NIfTI File + gradient/bvalue text files to NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Determina qué conversión realizar. DicomToNrrd (por defecto): Convertir series DICOM a NRRD DicomToFSL: Convertir series DICOM a Archivo NIfTI + archivos de texto gradiente/valor NrrdToFSL: Convertir archivo DWI NRRD a Archivo NIfTI + archivos de texto gradiente/valor FSLToNrrd: Convierte archivos de texto NIfTI File + gradient/bvalue en archivos NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
         <source>Input DWI volume -- not used for DicomToNrrd mode.
       </source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen DWI de entrada -- no se utiliza para el modo DicomToNrrd.
+      </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="14"/>
         <source>Output filename (.nhdr or .nrrd)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del archivo de salida (.nhdr o .nrrd)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
         <source>DicomToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom a Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
         <source>DicomToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom a FSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="18"/>
         <source>NrrdToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrd a FSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="19"/>
         <source>FSLToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL a Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de conversión de Dicom a Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
         <source>Parameters for Dicom to NRRD Conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros para la conversión de Dicom a NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="22"/>
         <source>Input Dicom Data Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de entrada de datos Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="23"/>
         <source>Directory holding Dicom series</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de la serie Dicom</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="24"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="25"/>
         <source>NiftiFSL To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de conversión de NiftiFSL a Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="26"/>
         <source>FSL NIfTI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichero FSL NIfTI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="27"/>
         <source>Input bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo bval de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="28"/>
         <source>Input bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo bvec de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="29"/>
         <source>4D NIfTI file containing gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo NIfTI 4D con volúmenes de gradiente</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
         <source>The B Values are stored in FSL .bval text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Los valores B se almacenan en formato de archivo de texto FSL .bval</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Los vectores de gradiente se almacenan en formato de archivo de texto FSL .bvec</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="32"/>
         <source>Nrrd To NiftiFSL Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de conversión de Nrrd a NiftiFSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="33"/>
         <source>Nrrd To NiftiFSL (NrrdToFSL) Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de conversión de Nrrd a NiftiFSL (NrrdToFSL)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="34"/>
         <source>Output nii file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida nii</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="35"/>
         <source>Output bval file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida bval</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="36"/>
         <source>Output bvec file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de salida bvec</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="37"/>
         <source>Nifti output filename (for Slicer GUI use).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del archivo de salida Nifti (para uso de la GUI de Slicer).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="38"/>
         <source>The B Values are stored in FSL .bval text file format (defaults to &lt;outputVolume&gt;.bval)</source>
-        <translation type="unfinished"></translation>
+        <translation>Los valores B se almacenan en formato de archivo de texto FSL .bval (por defecto es &lt;outputVolume&gt;.bval)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="39"/>
         <source>The Gradient Vectors are stored in FSL .bvec text file format (defaults to &lt;outputVolume&gt;.bvec)</source>
-        <translation type="unfinished"></translation>
+        <translation>Los vectores de gradiente se almacenan en formato de archivo de texto FSL .bvec (por defecto es &lt;outputVolume&gt;.bvec)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="40"/>
         <source>Advanced Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros avanzados de conversión</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
         <source>Options to control the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de control de la salida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir archivo de gradientes de protocolo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
         <source>Use Identity Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar marco de medición de identidad</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"/>
         <source>Use BMatrix Gradient Directions</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar direcciones de gradiente BMatrix</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
         <source>Small Gradient Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral de gradiente reducido</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
         <source>Transpose Input BVectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Transponer vectores de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
         <source>Allow lossy image conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir la conversión de imágenes con pérdidas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribe los gradientes del protocolo en un archivo con el sufijo &quot;.txt&quot; tal y como se especificaron en el procol multiplicando cada dirección del gradiente de difusión por el fotograma de medición.  Este archivo es sólo para fines de depuración, el formato no es fijo, y es probable que cambie como la depuración de nuevos formatos dicom es necesario.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
         <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste todos los gradientes para que el marco de medición sea una matriz de identidad.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellena la cabecera nhdr con las direcciones del gradiente y los valores b calculados a partir de la BMatrix. Sólo cambia el comportamiento de los datos Siemens.   En algunos casos, los gradientes públicos estándar no se calculan correctamente.   Los gradientes pueden calcularse empíricamente a partir de los campos privados de la BMatrix.   En algunos casos la BMatrix privada es consistente con los gradientes públicos, pero no en todos los casos, cuando existe la BMatrix suele ser más robusta.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
         <source>Directory holding the output NRRD file</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorio que contiene el archivo NRRD de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
@@ -3069,37 +3070,37 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
         <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
-        <translation type="unfinished"></translation>
+        <translation>Se espera que los vectores BV de entrada FSL estén codificados en el archivo de entrada como un vector por línea. Si no es el caso, utilice esta opción para transponer el archivo a medida que se lee</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>El único tipo de salida admitida es &quot;corto&quot;. La conversión a partir de imágenes de otro tipo puede provocar pérdidas de datos debido al redondeo o al truncamiento. ¡Utilícelo con precaución!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
         <source>DEPRECATED THESE DO NOT WORK</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLETOS, ESTOS NO FUNCIONAN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
         <source>Gradient Vector File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo vectorial de degradado</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
         <source>Output fMRI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo fMRI de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
         <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLETO:  Use --Vector B de entrada--archivos de Valor B de entrada Fichero de texto con los vectores de gradiente</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation type="unfinished"></translation>
+        <translation>OBSOLETO:  Sin soporte ni pruebas.  Imprimir un archivo NRRD, pero sin gradientes</translation>
     </message>
 </context>
 <context>
