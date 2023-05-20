@@ -16066,22 +16066,22 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="129"/>
         <source>Show details</source>
-        <translation type="unfinished">Show details</translation>
+        <translation>Mostrar detalles</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Estado:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
         <source>Idle</source>
-        <translation type="unfinished">Idle</translation>
+        <translation>Sin actividad</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="372"/>
         <source>%1 (%2s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2s)</translation>
     </message>
 </context>
 <context>
