@@ -6,17 +6,17 @@
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformatoare ACPC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Calculați o transformare care aliniază imaginile creierului la sistemul de coordonate Talairach (&lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;cunoscut și sub denumirea de sistem de coordonate stereotaxic sau ACPC&lt;/a&gt;) pe baza repere anatomice.&lt;/p&gt;&lt;p&gt;Linia ACPC se întinde între două puncte, unul la comisura anterioară și unul la comisura posterioară. Transformarea rezultată va face ca linia care leagă cele două puncte să fie orizontală față de axa AP.&lt;/p&gt;&lt;p&gt;Linia mediană este o serie de puncte (cel puțin 3) care definesc diviziunea între emisferele creierului (planul median sagital). Transformarea rezultată va face ca volumul rezultat să aibă planul median sagital aliniat cu planul AS.&lt;/p&gt;&lt;p&gt;Utilizați funcția &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; pentru a aplica transformarea la un volum.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>Această activitate face parte din Alianța Națională pentru Imagistica Medicală (NAMIC), finanțată de National Institutes of Health prin intermediul Roadmap-ului NIH pentru Cercetarea Medicală, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
