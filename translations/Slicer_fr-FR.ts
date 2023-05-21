@@ -25389,7 +25389,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="283"/>
         <source>Translate</source>
-        <translation type="unfinished">Traduire</translation>
+        <translation>translater</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
