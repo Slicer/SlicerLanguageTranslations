@@ -21624,7 +21624,11 @@ Veuillez choisir un répertoire vide.</translation>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de convertir la représentation de la source principale &apos;%1&apos; en cible principal &apos;%2&apos;, donc impossible de copier le segment &apos;%3&apos; de la segmentation &apos;%4&apos; vers &apos;%5&apos;.
+
+souhaitez-vous remplacer la représentation principale de &apos;%5&apos; par &apos;%1&apos; ?
+
+Remarque : Cela peut entraîner une perte de données indésirable dans %5.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="786"/>
@@ -21656,7 +21660,7 @@ Note: This may result in unwanted data loss in %5.</source>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished">La segmentation actuelle ne correspond pas complètement à la nouvelle géométrie.
+        <translation>La segmentation actuelle ne correspond pas complètement à la nouvelle géométrie.
 Voulez-vous recadrer la segmentation ?
 </translation>
     </message>
@@ -21701,7 +21705,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1089"/>
         <source>Failed to copy polydata from model node %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la copie des polydonnées du nœud de modèle %1 !</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1091"/>
@@ -21711,7 +21715,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1100"/>
         <source>Failed to copy polydata from models under folder %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la copie des polydonnées des modèles sous le dossier %1 !</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1102"/>
@@ -21729,7 +21733,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette option est activée, la représentation de la carte d&apos;étiquettes de la segmentation est réduite à la taille minimale nécessaire. Cela permet d&apos;économiser de l&apos;espace de stockage mais modifie le système de coordonnées des voxels (le système de coordonnées physiques n&apos;est pas affecté).</translation>
     </message>
 </context>
 <context>
@@ -21799,7 +21803,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="91"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished">Définissez automatiquement les opacités des segments en fonction de qui contient quoi, de sorte qu&apos;aucun segment n&apos;en masque un autre</translation>
+        <translation>Définissez automatiquement les opacités des segments en fonction de ceux qui en contiennent d&apos;autres, de manière à ce qu&apos;aucun segment n&apos;obstrue un autre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="95"/>
@@ -21809,7 +21813,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="98"/>
         <source>Default terminology entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée de terminologie par défaut</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="100"/>
@@ -21819,12 +21823,12 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="101"/>
         <source>Always make visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Toujours rendre visible</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="102"/>
         <source>Always allow</source>
-        <translation type="unfinished"></translation>
+        <translation>Toujours autoriser</translation>
     </message>
 </context>
 <context>
