@@ -21722,7 +21722,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="46"/>
         <source>Crop to minimum extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Rogner au minimum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
@@ -21802,7 +21802,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="95"/>
         <source>Enable closed surface representation smoothing by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer le lissage de la représentation de surface fermée par défaut</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="98"/>
