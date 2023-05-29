@@ -16670,64 +16670,63 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="20"/>
         <source>DICOM Export</source>
-        <translation type="unfinished">DICOM Export</translation>
+        <translation>تصدير DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="82"/>
         <source>1. Select node</source>
-        <translation type="unfinished">1. Select node</translation>
+        <translation>1. حدد العقدة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="125"/>
         <source>2. Select export type</source>
-        <translation type="unfinished">2. Select export type</translation>
+        <translation>2. حدد نوع التصدير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="168"/>
         <source>3. Edit DICOM tags</source>
-        <translation type="unfinished">3. Edit DICOM tags</translation>
+        <translation>3. تحرير علامات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="199"/>
         <source>If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</source>
-        <translation type="unfinished">If checked, the manually edited tags will be saved into the scene, preserved for the next export. If unchecked, temporary changes can be made, only for this export operation.</translation>
+        <translation>إذا تم تحديده ، فسيتم حفظ العلامات التي تم تحريرها يدويا في المشهد ، مع الاحتفاظ بها للتصدير التالي. إذا لم يتم التحقق منها ، يمكن إجراء تغييرات مؤقتة ، فقط لعملية التصدير هذه.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="202"/>
         <source>Save modified tags</source>
-        <translation type="unfinished">Save modified tags</translation>
+        <translation>حفظ العلامات المعدلة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation>إذا تم تحديده ، كتابة ملفات DICOM المصدرة في المجلد المحدد.
-إذا لم يتم تحديدها، ستتم إضافة مجموعة البيانات المصدرة إلى قاعدة بيانات DICOM.</translation>
+        <translation>إذا تم التحقق، سيتم كتابة ملفات DICOM المصدرة في المجلد المحدد. إذا لم يتم التحقق منها ، ستتم إضافة مجموعة البيانات المصدرة إلى قاعدة بيانات DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
         <source>Export to folder:</source>
-        <translation type="unfinished">Export to folder:</translation>
+        <translation>تصدير إلى مجلد:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+        <translation>تصدير ملفات DICOM إلى هذا المجلد بدلا من قاعدة بيانات DICOM الخاصة بالتطبيق.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
         <source>Error messages</source>
-        <translation type="unfinished">Error messages</translation>
+        <translation>رسائل الخطأ</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="359"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>تصدير</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="457"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>تم تصدير مجموعة بيانات DICOM بنجاح إلى </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="460"/>
@@ -16737,7 +16736,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="466"/>
         <source>Export successful</source>
-        <translation type="unfinished">Export successful</translation>
+        <translation>تصدير ناجح</translation>
     </message>
 </context>
 <context>
@@ -16745,47 +16744,47 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="14"/>
         <source>Diffusion Tensor Volume Slice Display</source>
-        <translation type="unfinished">Diffusion Tensor Volume Slice Display</translation>
+        <translation>عرض شريحة حجم موتر الانتشار</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="35"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>الرؤية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>العتامه:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
-        <translation type="unfinished">Scalar ColorMap:</translation>
+        <translation>خريطة الألوان العددية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation type="unfinished">Color by Scalar:</translation>
+        <translation>اللون حسب العددية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
         <source>Scalar Range:</source>
-        <translation type="unfinished">Scalar Range:</translation>
+        <translation>النطاق العددي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
         <source>Glyph Type:</source>
-        <translation type="unfinished">Glyph Type:</translation>
+        <translation>نوع الحرف الرمزي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>خطوط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
         <source>Tubes</source>
-        <translation type="unfinished">Tubes</translation>
+        <translation>انابيب</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="123"/>
@@ -16795,41 +16794,41 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
         <source>Scale Factor:</source>
-        <translation type="unfinished">Scale Factor:</translation>
+        <translation>عامل المقياس:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
         <source>Spacing:</source>
-        <translation type="unfinished">Spacing:</translation>
+        <translation>تباعد:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
         <source>Glyph EigenVector:</source>
-        <translation type="unfinished">Glyph EigenVector:</translation>
+        <translation>الشكل الرسومي EigenVector:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="249"/>
         <source>Major</source>
-        <translation type="unfinished">Major</translation>
+        <translation>رئيسي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="212"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="254"/>
         <source>Middle</source>
-        <translation type="unfinished">Middle</translation>
+        <translation>وسط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="217"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="259"/>
         <source>Minor</source>
-        <translation type="unfinished">Minor</translation>
+        <translation>قاصر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="274"/>
         <source>Manual or Auto scalar range</source>
-        <translation type="unfinished">Manual or Auto scalar range</translation>
+        <translation>نطاق عددي يدوي أو تلقائي</translation>
     </message>
 </context>
 <context>
