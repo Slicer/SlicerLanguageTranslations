@@ -10370,7 +10370,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="57"/>
         <source>Y</source>
-        <translation>Y</translation>
+        <translation>J</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="101"/>
@@ -19442,7 +19442,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation>R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
