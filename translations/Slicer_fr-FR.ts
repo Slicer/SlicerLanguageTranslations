@@ -9321,12 +9321,12 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="51"/>
         <source>Show DICOM database browser window</source>
-        <translation>Affichez la fenêtre du navigateur de base de données DICOM</translation>
+        <translation>Afficher la fenêtre du navigateur de base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="54"/>
         <source>    Show DICOM database</source>
-        <translation>    Affichez la base de données DICOM</translation>
+        <translation>    Afficher la base de données DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
