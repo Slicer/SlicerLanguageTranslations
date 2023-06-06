@@ -8426,12 +8426,15 @@ a = Affine Transform</source>
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Le module Sonde de données est utilisé pour obtenir des informations sur la position RAS actuelle
+ indiqué par la position de la souris.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="34"/>
         <source>This work is supported by NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail est soutenu par NA-MIC, NAC, NCIGT, NIH U24 CA180918 (PIs Kikinis and Fedorov) et la communauté Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="133"/>
@@ -8486,7 +8489,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
         <source>None</source>
-        <translation type="unfinished">Aucun</translation>
+        <translation>Aucun</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
@@ -8502,7 +8505,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="540"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Paramètres d&apos;annotations de la vue de coupe</translation>
+        <translation>Paramètres d&apos;annotations de la vue de coupe</translation>
     </message>
 </context>
 <context>
@@ -13013,7 +13016,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="14"/>
         <source>Unit Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramétres des unités</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
@@ -24567,7 +24570,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="168"/>
         <source>Cancel</source>
-        <translation>annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="177"/>
