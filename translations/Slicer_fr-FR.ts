@@ -8497,7 +8497,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
         <source>Show Zoomed Slice</source>
-        <translation>Afficher la tranche agrandie</translation>
+        <translation>Afficher la coupe agrandie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="540"/>
@@ -25694,7 +25694,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="242"/>
         <source>Fit to Volume</source>
-        <translation>Ajuster au volume</translation>
+        <translation>Adapter au volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="255"/>
