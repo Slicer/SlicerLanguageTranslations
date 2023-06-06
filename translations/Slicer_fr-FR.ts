@@ -8476,7 +8476,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="293"/>
         <source>Data Probe: {sceneName}</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonde de données : {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="297"/>
