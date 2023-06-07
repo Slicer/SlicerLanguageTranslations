@@ -19519,7 +19519,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1008"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation>Haga clic para bloquear esta lista de puntos de control para que los puntos no se puedan mover con el mouse</translation>
+        <translation>Hacer clic para bloquear esta lista de puntos de control para que los puntos no se puedan mover con el mouse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1014"/>
@@ -19540,7 +19540,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1615"/>
         <source>Delete %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar %1 puntos de control de esta lista?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1621"/>
@@ -19712,7 +19712,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="163"/>
         <source>Clear the position of all control points in the list (the control points will not be deleted).</source>
-        <translation type="unfinished">Clear the position of all control points in the list (the control points will not be deleted).</translation>
+        <translation>Borrar la posición de todos los puntos de control de la lista (los puntos de control no se borrarán).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="173"/>
