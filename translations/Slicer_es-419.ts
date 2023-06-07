@@ -19157,12 +19157,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation>Borre los los puntos de control resaltados de la lista activa.</translation>
+        <translation>Borrar los puntos de control resaltados de la lista activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation>Eliminar todos los puntos de control de la lista activa.</translation>
+        <translation>Eliminar todos los puntos de control de la lista activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
@@ -19234,12 +19234,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="647"/>
         <source>Move a highlighted control point down one spot in the list</source>
-        <translation>Desplazar un punto de control resaltado hacia abajo en la lista.</translation>
+        <translation>Desplazar un punto de control resaltado hacia abajo en la lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
         <source>Add a new control point to the active list, at origin</source>
-        <translation type="unfinished">Add a new control point to the active list, at origin</translation>
+        <translation>Añadir un nuevo punto de control a la lista activa, en el origen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
@@ -19514,7 +19514,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1003"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga clic para desbloquear esta lista de puntos de control y poder moverlos con el mouse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1008"/>
