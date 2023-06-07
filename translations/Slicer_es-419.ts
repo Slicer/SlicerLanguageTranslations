@@ -19132,17 +19132,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
         <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-        <translation>Alternar la bandera de visibilidad en todos los puntos de control de la lista. Utilizar el menú desplegable para establecer todos como visibles o invisibles.</translation>
+        <translation>Alternar la bandera de visibilidad en todos los puntos de control de la lista. Utilice el menú desplegable para establecer todos como visibles o invisibles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
         <source>Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</source>
-        <translation>Alternar la bandera seleccionada en todos los puntos de control de la lista. Utilizar el menú desplegable para seleccionar o deseleccionar todos.</translation>
+        <translation>Alternar la bandera seleccionada en todos los puntos de control de la lista. Utilice el menú desplegable para seleccionar o deseleccionar todos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
         <source>Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</source>
-        <translation>Activar el indicador de bloqueo en todos los puntos de control de la lista.Utilice el menú desplegable para establecer todo en bloqueado o desbloqueado.</translation>
+        <translation>Activar el indicador de bloqueo en todos los puntos de control de la lista. Utilice el menú desplegable para establecer todo en bloqueado o desbloqueado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
