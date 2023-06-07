@@ -3482,7 +3482,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
         <source>Lists of points in the CLI correspond to slicer fiducial lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Las listas de puntos de la CLI corresponden a las listas fiduciales de la cortadora</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
@@ -3780,7 +3780,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="18"/>
         <source>Output points list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de puntos de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="19"/>
@@ -4858,7 +4858,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cree modelos de superficie 3D a partir de datos segmentados.&lt;p&gt;Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos en una escena MRML. Los colores del modelo se establecen mediante la tabla de colores asociada al volumen de entrada (estos colores sólo serán visibles si se carga el archivo de escena del modelo).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Especifique un&lt;i&gt;Volumen de entrada&lt;/i&gt; que sea un volumen de mapa de etiquetas segmentado. Cree una nueva jerarquía&lt;i&gt;Modelos&lt;/i&gt; para proporcionar una estructura que contenga los modelos de retorno creados a partir del volumen de entrada.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Cree múltiples:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Si especifica una lista de &lt;i&gt;Etiquetas&lt;/i&gt;, anulará cualquier configuración de etiquetas de inicio/fin.&lt;/p&gt;&lt;p&gt;Si hace clic en&lt;i&gt;Generar todo&lt;/i&gt; anulará la lista de etiquetas y cualquier configuración de etiquetas de inicio/fin.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Parámetros del fabricante del modelo:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Puede establecer el número de iteraciones de suavizado, objetivo de reducción en número de polígonos (porcentaje decimal). Utilice 0 y 1 si no desea suavizado ni diezmado.&lt;br&gt;En este panel también puede configurar las banderas para dividir normales o generar normales puntuales.&lt;br&gt;Puede guardar una copia de los modelos después de los pasos intermedios (cubos de marcha, suavizado y decimación si no hay suavizado conjunto, de lo contrario sólo después de la decimación); estos modelos no se guardan en el archivo mrml, desactive primero la eliminación de archivos temporales en la ventana de python:&lt;br&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
@@ -19132,12 +19132,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
         <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-        <translation type="unfinished">Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</translation>
+        <translation>Alternar la bandera de visibilidad en todos los puntos de control de la lista. Utilizar el menú desplegable para establecer todos como visibles o invisibles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
         <source>Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</source>
-        <translation type="unfinished">Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</translation>
+        <translation>Alternar la bandera seleccionada en todos los puntos de control de la lista. Utilizar el menú desplegable para seleccionar o deseleccionar todos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
@@ -19147,7 +19147,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
         <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-        <translation type="unfinished">Skip placement of highlighted control point(s) from the active list (will clear current position).</translation>
+        <translation>Omitir la colocación de los puntos de control resaltados de la lista activa (borrará la posición actual).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
