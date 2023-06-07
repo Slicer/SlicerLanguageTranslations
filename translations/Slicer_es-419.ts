@@ -19152,7 +19152,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
         <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-        <translation>Borra la posición de los puntos de control resaltados de la lista activa (los puntos de control no se borrarán).</translation>
+        <translation>Borrar la posición de los puntos de control resaltados de la lista activa (los puntos de control no se borrarán).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
@@ -19162,7 +19162,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation type="unfinished">Remove all control points from the active list</translation>
+        <translation>Eliminar todos los puntos de control de la lista activa.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
@@ -19234,7 +19234,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="647"/>
         <source>Move a highlighted control point down one spot in the list</source>
-        <translation type="unfinished">Move a highlighted control point down one spot in the list</translation>
+        <translation>Desplazar un punto de control resaltado hacia abajo en la lista.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
