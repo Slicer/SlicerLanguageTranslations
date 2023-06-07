@@ -5339,7 +5339,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
         <source>Resolution of the initial bspline grid defined as a sequence of three numbers. The actual resolution will be defined by adding the bspline order (default is 3) to the resolution in each dimension specified here. For example, 1,1,1 will result in a 4x4x4 grid of control points. This parameter may need to be adjusted based on your input image. In the multi-resolution N4 framework, the resolution of the bspline grid at subsequent iterations will be doubled. The number of resolutions is implicitly defined by Number of iterations parameter (the size of this list is the number of resolutions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución del grid b-spline inicial definida como una secuencia de tres números. La resolución real se definirá sumando el orden b-spline (por defecto es 3) a la resolución en cada dimensión que se especifica aquí. Por ejemplo, 1,1,1 resultará en un grid de 4x4x4 puntos de control. Puede ser necesario ajustar este parámetro en función de la imagen de entrada. En el marco multi-resolución N4, la resolución del grid b-spline en iteraciones subsecuentes será duplicada. El número de resoluciones se define implícitamente por el parámetro Número de iteraciones (el tamaño de esta lista es el número de resoluciones)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
@@ -7246,7 +7246,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
         <source>A simple region growing segmentation algorithm based on intensity statistics. To create a list of fiducials (Seeds) for this algorithm, click on the tool bar icon of an arrow pointing to a sphere fiducial to enter the &apos;place a new object mode&apos; and then use the Markups module. This module uses the Slicer Command Line Interface (CLI) and the ITK filters CurvatureFlowImageFilter and ConfidenceConnectedImageFilter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un algoritmo sencillo de segmentación por crecimiento regional basado en estadísticas de intensidad.Para crear una lista de fiduciales (semillas) haga clic en el icono de la barra de herramientas de una flecha apuntando a una esfera fiducial para entrar en el &quot;modo de colocar un nuevo objeto&quot; y use el módulo de Markups. Este módulo utiliza la interfaz de línea de comandos (CLI) de Slicer y los filtros ITK CurvatureFlowImageFilter y ConfidenceConnectedImageFilter.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
@@ -19142,7 +19142,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
         <source>Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</source>
-        <translation type="unfinished">Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</translation>
+        <translation>Activar el indicador de bloqueo en todos los puntos de control de la lista.Utilice el menú desplegable para establecer todo en bloqueado o desbloqueado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
