@@ -14723,7 +14723,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="941"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="957"/>
         <source>Distance between the gridlines</source>
-        <translation>Distancia entre las cuadrículas</translation>
+        <translation>Distancia entre las líneas de cuadrícula</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="988"/>
@@ -14735,18 +14735,18 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1029"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1039"/>
         <source>Thickness of the gridlines in the 3D view</source>
-        <translation type="unfinished">Thickness of the gridlines in the 3D view</translation>
+        <translation>Grosor de las líneas de cuadrícula en la vista 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1032"/>
         <source>3D gridline diameter:</source>
-        <translation type="unfinished">3D gridline diameter:</translation>
+        <translation>Diámetro de la línea de cuadrícula 3D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1070"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1080"/>
         <source>Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</source>
-        <translation type="unfinished">Distance between sample points along the gridlines. Lower values result in gridlines that follow more closely the actual displacement vectors, but require more computation time.</translation>
+        <translation>Distancia entre los puntos de muestreo a lo largo de la cuadrícula. Los valores más bajos dan como resultado líneas de cuadrícula que siguen más de cerca los vectores de desplazamiento reales, pero requieren más tiempo de cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1111"/>
@@ -14763,7 +14763,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1143"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1153"/>
         <source>Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</source>
-        <translation type="unfinished">Values defining the isolines and isosurfaces to contour. Values are separated by spaces.</translation>
+        <translation>Valores que definen las isolíneas e isosuperficies a contornear. Los valores están separados por espacios.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1146"/>
@@ -16571,7 +16571,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="128"/>
         <source>Input ROI is under a non-linear tansform.</source>
-        <translation type="unfinished">Input ROI is under a non-linear tansform.</translation>
+        <translation>La ROI de entrada está sometida a una tansformación no lineal.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="134"/>
