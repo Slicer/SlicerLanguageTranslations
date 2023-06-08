@@ -66,12 +66,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات متقدمة لضبط الحسبان.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب الاستيفاء متعدد الحدود المستخدم في حالة وجود صورتين لهما هندسة مختلفة (الأصل ، التباعد ، اتجاهات المحور ، أو المدى): 0 = أقرب جار ، 1 = خطي ، 2 = مربع ، 3 = استيفاء مكعب.</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -1904,7 +1904,9 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل حجم إلى نوع بيانات معين
+استخدم على مسؤوليتك الخاصة عند تحويل حجم إدخال إلى نوع أقل دقة!
+يسمح بالبث إلى نفس نوع حجم الإدخال.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
@@ -1939,7 +1941,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإخراج, بث إلى النوع الجديد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
@@ -1949,12 +1951,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الخارج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع البيانات العددية للحجم الخارج الجديد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
@@ -1965,7 +1967,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished">مِحرف</translation>
+        <translation>حرف</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
@@ -1990,12 +1992,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished"></translation>
+        <translation>الطفو</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished"></translation>
+        <translation>مزدوج</translation>
     </message>
 </context>
 <context>
@@ -2688,7 +2690,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="5"/>
         <source>Curvature Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation>انحناء تدفق متباين الخواص</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
@@ -2702,7 +2704,10 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تنفيذ انحناء تدفق متباين الخواص على صورة باستخدام  معادلة تدفق الانحناء المعدلة (MCDE) 
+ MCDE لا يعرض خصائص تحسين الحواف الكلاسيكية لتدفق المتباين الخواص,والتي يمكن أن تخضع تحت شروط معين لتدفق سلبي,مما يعزز تباين الحواف.
+المعادلات مثل MCDE  دائماً تخضع  لتدفق إيجابي,مع قيمة التوصيل فقط تغير قوة هذا تدفق
+ نوعيا MCDE مقارن جيدًا مع تقنيات تدفق غير الخطية الأخرى, إنه أقل حساسية للتباين من تدفق أسلوب Perona-Malik الكلاسيكي, ويحافظ  على أدق التفاصيل الهياكل  في الصور. هناك مقايضة سرعة محتملة لاستخدام هذه الوظيفة بدلاً من تدفق متباين الخواص متدرج.يستغرق كل تكرار للحل ضعف الوقت تقريبًا.مع ذلك ، قد تكون هناك حاجة  أقل لتكرار أقل للوصول إلى حل مقبول.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -26158,7 +26163,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="14"/>
         <source>Welcome</source>
-        <translation type="unfinished">Welcome</translation>
+        <translation>مرحباً</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
