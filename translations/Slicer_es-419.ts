@@ -16581,12 +16581,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
         <source>Output volume is under a non-linear tansform.</source>
-        <translation type="unfinished">Output volume is under a non-linear tansform.</translation>
+        <translation>El volumen de salida está sometido a una tansformación no lineal.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="152"/>
         <source>Interpolation is disabled and input volume is under a non-linear tansform</source>
-        <translation type="unfinished">Interpolation is disabled and input volume is under a non-linear tansform</translation>
+        <translation>La interpolación está desactivada y el volumen de entrada está sometido a una transformación no lineal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="158"/>
@@ -16709,7 +16709,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">Lines</translation>
+        <translation>Líneas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
@@ -16996,7 +16996,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Preguntas y solicitudes de funciones:&lt;/span&gt; visite el &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Foro de Slicer&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Informes de errores:: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;publicar un nuevo tema en el foro Slicer&lt;/span&gt;&lt;/a&gt; para contarnos su problema o enviar un informe de error al&lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Rastreador de errores de 3D Slicer&lt;/span&gt;&lt;/a&gt;. Describa los pasos que conducen al error y adjunte también los mensajes de registro.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Advertencia: si trabaja con datos de pacientes:&lt;/span&gt; Comprueba que los mensajes de registro no contienen información que pueda identificar a un paciente. Envía los mensajes de registro a personas concretas en lugar de compartirlos públicamente en una lista de correo o un sitio web.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -17930,7 +17930,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el sitio web del Catálogo de extensiones en el navegador web predeterminado. Es útil para descargar paquetes de extensiones para utilizarlos sin conexión.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
@@ -18141,7 +18141,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="32"/>
         <source>When displaying the label map with the outline/not filled option, this controls the width of the outline.</source>
-        <translation type="unfinished">When displaying the label map with the outline/not filled option, this controls the width of the outline.</translation>
+        <translation>Cuando se visualiza el mapa de etiquetas con la opción contorno/no relleno, esta opción controla la anchura del contorno.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="35"/>
@@ -18156,7 +18156,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
         <source>Label Outline &amp;Thickness:</source>
-        <translation type="unfinished">Label Outline &amp;Thickness:</translation>
+        <translation>Contorno y grosor de la etiqueta:</translation>
     </message>
 </context>
 <context>
@@ -19579,7 +19579,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2454"/>
         <source>Summed linear distance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia lineal sumada: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3158"/>
@@ -20093,7 +20093,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
         <source>Command-Line Interface (CLI)</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfaz de línea de comandos (CLI)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
@@ -20776,7 +20776,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="86"/>
         <source>When checked, slice views will display linearly interpolated slices through input volumes. Unchecked indicates nearest neighbor resampling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está marcada, las vistas de cortes mostrarán cortes interpolados linealmente a través de los volúmenes de entrada. Si no está marcada, indica el remuestreo del vecino más próximo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerScalarVolumeDisplayWidget.ui" line="132"/>
@@ -21065,7 +21065,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1180"/>
         <source>&lt;html&gt;Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;Recortar todo el segmento desde el punto de vista actual&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Arrastrar y soltar con el botón izquierdo:&lt;/b&gt; trazar un esquema.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/li&gt;&lt;/ul&gt;&lt;pLa edición está disponible tanto en la vista de cortes como en la vista 3D. En la vista de cortes, el corte se aplicará a todos los cortes.&lt;p&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
@@ -22345,7 +22345,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="157"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el sitio web del Catálogo de extensiones en el navegador web predeterminado. Es útil para descargar paquetes de extensiones para utilizarlos sin conexión.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="164"/>
@@ -22549,7 +22549,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
         <source>To temporarily disable, pass --disable-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-loadable-modules on the command line</translation>
+        <translation>Para desactivar temporalmente, seleccione --desactivar-módulos-cargables en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="63"/>
@@ -22560,18 +22560,18 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="70"/>
         <source>To temporarily disable, pass --disable-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-cli-modules on the command line</translation>
+        <translation>Para desactivar temporalmente, seleccione --desactivar-módulos-cli en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="73"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="140"/>
         <source>command-line plugins</source>
-        <translation type="unfinished">command-line plugins</translation>
+        <translation>plugins de línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="80"/>
         <source>To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-scripted-loadable-modules on the command line</translation>
+        <translation>Para desactivar temporalmente, seleccione --desactivar-módulos-cargables-programados en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="83"/>
@@ -22587,17 +22587,17 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-loadable-modules on the command line</translation>
+        <translation>Para desactivar temporalmente, seleccione  --desactivar-módulos-cargables-integrados en la línea de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
         <source>To temporarily disable, pass --disable-builtin-cli-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass --disable-builtin-cli-modules on the command line</translation>
+        <translation>Para desactivar temporalmente, seleccione --desactivar-módulos-cli-integrados en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="147"/>
         <source>To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</source>
-        <translation type="unfinished">To temporarily disable, pass  --disable-builtin-scripted-loadable-modules on the command line</translation>
+        <translation>Para desactivar temporalmente, seleccione    --desactivar-módulos-cargables-programados-integrados en la línea de comandos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
@@ -23488,7 +23488,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyLabelMapsPlugin.cxx" line="90"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad del contorno 2D</translation>
     </message>
 </context>
 <context>
@@ -23677,7 +23677,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="109"/>
         <source>BSpline image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro basado en imágenes BSpline</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="113"/>
@@ -23708,12 +23708,12 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="277"/>
         <source>LinearTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación Linear_%1_a_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="363"/>
         <source>BSplineTransform_%1_To_%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación BSpline _%1_a_%2</translation>
     </message>
 </context>
 <context>
@@ -23779,7 +23779,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="140"/>
         <source>2D outline visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad del contorno 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="282"/>
@@ -24993,7 +24993,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
         <source>Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</source>
-        <translation type="unfinished">Volume that defines origin, spacing, and axis directions of the exported displacement field. If the reference volume is under a non-linear transform then the non-transformed geometry is used as reference.</translation>
+        <translation>Volumen que define el origen, el espaciado y las direcciones de los ejes del campo de desplazamiento exportado. Si el volumen de referencia está sometido a una transformación no lineal, se utilizará como referencia la geometría no transformada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
@@ -25255,52 +25255,52 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="213"/>
         <source>Full lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas completas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="215"/>
         <source>Full slice intersection lines extending across the field of view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas de intersección de corte completo que se extienden por todo el campo de visión.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="220"/>
         <source>Skip line crossings</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar cruces de línea</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="222"/>
         <source>Slice intersection lines extending across the field of view with a gap at the intersection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas de intersección de cortes que se extienden a través del campo de visión con un espacio en la intersección.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="243"/>
         <source>Fine lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas finas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="244"/>
         <source>Fine lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas finas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="249"/>
         <source>Medium lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas medias</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="250"/>
         <source>Medium lines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Líneas medias.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="254"/>
         <source>Thick lines</source>
-        <translation type="unfinished">Líneas gruesas</translation>
+        <translation>Líneas gruesas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="255"/>
         <source>Thick lines.</source>
-        <translation type="unfinished">Líneas gruesas.</translation>
+        <translation>Líneas gruesas.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="275"/>
