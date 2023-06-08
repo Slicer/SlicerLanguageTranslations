@@ -585,7 +585,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation>Definir la red BSpline sobre la caja delimitadora del ROI</translation>
+        <translation>Definir la cuadrícula BSpline sobre la caja delimitadora del ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
@@ -630,7 +630,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation>Si se activa, el cuadro delimitador de los ROI de entrada define la región de soporte de la red BSpline. En caso contrario, la región de soporte de la red BSpline es toda la imagen fija.</translation>
+        <translation>Si se activa, el cuadro delimitador de los ROI de entrada define la región de soporte de la cuadrícula BSpline. En caso contrario, la región de soporte de la cuadrícula BSpline es toda la imagen fija.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
@@ -726,7 +726,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen en movimiento.  Las opciones son Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, o ResampleInPlace.  La opción ResampleInPlace creará una imagen con los mismos valores discretos de voxel y ajustará el origen y la dirección de la interpretación del espacio físico.</translation>
+        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen en movimiento,  las opciones son: Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, o ResampleInPlace.  La opción ResampleInPlace creará una imagen con los mismos valores discretos de voxel y ajustará el origen y la dirección de la interpretación del espacio físico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
@@ -894,7 +894,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation>Desplazamientos máximos permitidos en coordenadas físicas de la imagen (mm) para la rejilla de control BSpline a lo largo de cada eje.  Un valor de 0.0 indica que el problema no debe tener límites.  NOTA: Esto sólo restringe la parte BSpline, y no limita el desplazamiento de la transformación masiva asociada.  Esto puede conducir a una reducción sustancial en el tiempo de cálculo en el optimizador BSpline.
+        <translation>Desplazamientos máximos permitidos en coordenadas físicas de la imagen (mm) para la cuadrícula de control BSpline a lo largo de cada eje.  Un valor de 0.0 indica que el problema no debe tener límites.  NOTA: Esto sólo restringe la parte BSpline, y no limita el desplazamiento de la transformación masiva asociada.  Esto puede conducir a una reducción sustancial en el tiempo de cálculo en el optimizador BSpline.
       </translation>
     </message>
     <message>
@@ -1026,7 +1026,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation>Especifica una lista de tipos de registro a utilizar.  Los tipos válidos son, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline y SyN.  Especificar más de uno en una lista separada por comas la cual inicializará la siguiente etapa con los resultados anteriores. Si se utiliza la bandera registrationClass, ésta anula la configuración de este parámetro.</translation>
+        <translation>Especifica una lista de tipos de registro a utilizar. Los tipos válidos son, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline y SyN.  Especificar más de uno en una lista separada por comas la cual inicializará la siguiente etapa con los resultados anteriores. Si se utiliza la bandera registrationClass, ésta anula la configuración de este parámetro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
