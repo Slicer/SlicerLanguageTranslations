@@ -22056,13 +22056,6 @@ Most probably the segment cannot be converted into closed surface representation
         <source>Volume Sequence</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
-        <source>Volume Sequence</source>
-        <oldsource>Volume `Sequence</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>qSlicerSettingsCachePanel</name>

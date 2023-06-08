@@ -2697,10 +2697,15 @@ Permet llançar el mateix tipus que el volum d&apos;entrada.</translation>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
-        <translation>Realitza una difusió anisotròpica sobre una imatge utilitzant una equació de difusió de curvatura modificada (MCDE).
+        <oldsource>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
+
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
+
+ Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
+        <translation type="unfinished">Realitza una difusió anisotròpica sobre una imatge utilitzant una equació de difusió de curvatura modificada (MCDE).
 
 MCDE no exhibeix les propietats de millora de la vora de la difusió anisotròpica clàssica, que en determinades condicions pot patir una difusió &quot;negativa&quot;, que millora el contrast de les vores.  Les equacions de la forma de MCDE sempre experimenten difusió positiva, amb el terme conductància només variant la força d&apos;aquesta difusió.
 
@@ -4071,10 +4076,19 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
-        <translation>GrayscaleFillholeImageFilter omple els forats en una imatge en escala de grisos.  Els forats són mínims locals a la topografia en escala de grisos que no estan connectats amb els límits de la imatge. Els valors de nivell de gris adjacents a un forat s&apos;extrapolen al llarg del forat.
+        <oldsource>GrayscaleFillholeImageFilter fills holes in a grayscale image.  Holes are local minima in the grayscale topography that are not connected to boundaries of the image. Gray level values adjacent to a hole are extrapolated across the hole.
+
+This filter is used to smooth over local minima without affecting the values of local maxima.  If you take the difference between the output of this filter and the original image (and perhaps threshold the difference above a small value), you&apos;ll obtain a map of the local minima.
+
+This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
+
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
+
+ A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
+        <translation type="unfinished">GrayscaleFillholeImageFilter omple els forats en una imatge en escala de grisos.  Els forats són mínims locals a la topografia en escala de grisos que no estan connectats amb els límits de la imatge. Els valors de nivell de gris adjacents a un forat s&apos;extrapolen al llarg del forat.
 
 Aquest filtre s&apos;utilitza per suavitzar els mínims locals sense afectar els valors màxims locals.  Si prenem la diferència entre la sortida d&apos;aquest filtre i la imatge original (i potser limitem la diferència per sobre d&apos;un valor petit), obtenim un mapa de mínims locals.
 
@@ -6221,9 +6235,11 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or
+        <source>Finite Strain (FS) or 
 Preservation of the Principal Direction (PPD)</source>
-        <translation>Esforç Finit (FS) o
+        <oldsource>Finite Strain (FS) or
+Preservation of the Principal Direction (PPD)</oldsource>
+        <translation type="unfinished">Esforç Finit (FS) o
 Preservació de la Direcció Principal (PPD)</translation>
     </message>
     <message>
@@ -6446,12 +6462,18 @@ Preservació de la Direcció Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function
+        <source>Window Function 
+h = Hamming 
+c = Cosine 
+w = Welch 
+l = Lanczos 
+b = Blackman</source>
+        <oldsource>Window Function
 h = Hamming
 c = Cosine
 w = Welch
 l = Lanczos
-b = Blackman</source>
+b = Blackman</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6550,12 +6572,17 @@ a = Transformada afí</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+
+Warning: To resample DWMR Images, use nrrd input and output files. 
+
+Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
+        <oldsource>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
 Warning: To resample DWMR Images, use nrrd input and output files.
 
-Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation>Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformades ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules.
+Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
+        <translation type="unfinished">Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformades ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules.
 
 Advertència: Per canviar les imatges DWMR, utilitza fitxers d&apos;entrada i sortida de nrrd.
 
@@ -6892,12 +6919,18 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function
+        <source>Window Function 
+h = Hamming 
+c = Cosine 
+w = Welch 
+l = Lanczos 
+b = Blackman</source>
+        <oldsource>Window Function
 h = Hamming
 c = Cosine
 w = Welch
 l = Lanczos
-b = Blackman</source>
+b = Blackman</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22121,13 +22154,6 @@ Most probably the segment cannot be converted into closed surface representation
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
-        <source>Volume Sequence</source>
-        <oldsource>Volume `Sequence</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
