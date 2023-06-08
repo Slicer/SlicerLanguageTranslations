@@ -4,75 +4,60 @@
 <context>
     <name>CLI_ACPCTransform</name>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation>Transformada CACP</translation>
+        <translation type="vanished">Transformada CACP</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o CACP) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia CACP s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformada resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o CACP) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia CACP s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformada resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>Aquest treball forma part de l&apos;Aliança Nacional per a la Computació de la Imatge Mèdica (NAMIC), finançat pel Institut Nacional de Salut a través del NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation type="vanished">Aquest treball forma part de l&apos;Aliança Nacional per a la Computació de la Imatge Mèdica (NAMIC), finançat pel Institut Nacional de Salut a través del NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation>Referències d&apos;entrada</translation>
+        <translation type="vanished">Referències d&apos;entrada</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
         <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation>Referències anatòmiques que s&apos;utilitzaran per a calcular la transformada CACP.</translation>
+        <translation type="vanished">Referències anatòmiques que s&apos;utilitzaran per a calcular la transformada CACP.</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
         <source>ACPC line</source>
-        <translation>Línia CACP</translation>
+        <translation type="vanished">Línia CACP</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="11"/>
         <source>Midline</source>
-        <translation>Línia mitjana</translation>
+        <translation type="vanished">Línia mitjana</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
         <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation>Línia CACP, que connecta un punt de la comissura anterior amb un punt de la comissura posterior.</translation>
+        <translation type="vanished">Línia CACP, que connecta un punt de la comissura anterior amb un punt de la comissura posterior.</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
         <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation>La línia mitjana és una sèrie de punts (almenys 3) situats al pla sagital mitjà, que defineixen la divisió entre els hemisferis del cervell.</translation>
+        <translation type="vanished">La línia mitjana és una sèrie de punts (almenys 3) situats al pla sagital mitjà, que defineixen la divisió entre els hemisferis del cervell.</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
         <source>Output transform</source>
-        <translation>Transformada de sortida</translation>
+        <translation type="vanished">Transformada de sortida</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
         <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation>Transformació calculada (translació i rotació rígides) que el mòdul calcula a partir de les referències d&apos;entrada. Si aquesta transformació s&apos;aplica al volum, farà que la línia CACP sigui «horitzontal» (a l&apos;eix AP del sistema de coordenades del pacient), alinear el pla sagital mitjà «vertical» (al pla SA del sistema de coordenades del pacient). ), i (si el centratge està habilitat), fa que el punt CA sigui l&apos;origen (la coordenada (0,0,0) al sistema de coordenades del pacient).</translation>
+        <translation type="vanished">Transformació calculada (translació i rotació rígides) que el mòdul calcula a partir de les referències d&apos;entrada. Si aquesta transformació s&apos;aplica al volum, farà que la línia CACP sigui «horitzontal» (a l&apos;eix AP del sistema de coordenades del pacient), alinear el pla sagital mitjà «vertical» (al pla SA del sistema de coordenades del pacient). ), i (si el centratge està habilitat), fa que el punt CA sigui l&apos;origen (la coordenada (0,0,0) al sistema de coordenades del pacient).</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
         <source>Center volume</source>
-        <translation>Centrar el volum</translation>
+        <translation type="vanished">Centrar el volum</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
         <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation>Si aquesta opció està habilitada, la transformada de sortida traduirà el punt CA a l&apos;origen. Si aquesta opció està desactivada, es conservarà la posició del volum i la transformada només canviarà l&apos;orientació.</translation>
+        <translation type="vanished">Si aquesta opció està habilitada, la transformada de sortida traduirà el punt CA a l&apos;origen. Si aquesta opció està desactivada, es conservarà la posició del volum i la transformada només canviarà l&apos;orientació.</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
         <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation>Transformada que mou el volum al sistema de coordenades CACP estàndard.</translation>
+        <translation type="vanished">Transformada que mou el volum al sistema de coordenades CACP estàndard.</translation>
     </message>
 </context>
 <context>
@@ -134,13 +119,26 @@
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
-        <source>Controls</source>
-        <translation>Controls</translation>
+        <source>Advanced</source>
+        <translation type="unfinished">Avançat</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
+        <source>Advanced parameters for fine-tune the computation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
+        <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <translation type="vanished">Controls</translation>
+    </message>
+    <message>
         <source>Control how the module operates</source>
-        <translation>Controla com funciona el mòdul</translation>
+        <translation type="vanished">Controla com funciona el mòdul</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
@@ -148,9 +146,8 @@
         <translation>Ordre d&apos;interpolació</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation>Ordre d&apos;interpolació si dues imatges estan en fotogrames de coordenades diferents o tenen un mostreig diferent.</translation>
+        <translation type="vanished">Ordre d&apos;interpolació si dues imatges estan en fotogrames de coordenades diferents o tenen un mostreig diferent.</translation>
     </message>
 </context>
 <context>
@@ -11981,15 +11978,19 @@ hauria d&apos;establir «cara posterior» i «cara frontal» a OFF a opcions de 
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1370"/>
-        <source>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
+        <source>Editing requires binary labelmap source representation, but currently the source representation is %1. Changing the source representation requires conversion. Some details may be lost during conversion process.
 
-Change master representation to binary labelmap?</source>
+Change source representation to binary labelmap?</source>
+        <oldsource>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
+
+Change master representation to binary labelmap?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1375"/>
-        <source>Change master representation to binary labelmap?</source>
-        <translation>Canviar la representació mestra al mapa d&apos;etiquetes binari?</translation>
+        <source>Change source representation to binary labelmap?</source>
+        <oldsource>Change master representation to binary labelmap?</oldsource>
+        <translation type="unfinished">Canviar la representació mestra al mapa d&apos;etiquetes binari?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1396"/>
@@ -12528,10 +12529,13 @@ Do you want to crop the segmentation?
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="210"/>
-        <source>This is the master representation.
+        <source>This is the source representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
-        <translation>Aquesta és la representació mestra.
+        <oldsource>This is the master representation.
+  1. This representation is saved on disk
+  2. If this representation is modified, the others are cleared</oldsource>
+        <translation type="unfinished">Aquesta és la representació mestra.
   1. Aquesta representació es desa al disc
   2. Si es modifica aquesta representació, s&apos;esborren les altres</translation>
     </message>
@@ -12569,7 +12573,8 @@ Click the down-arrow button for additional operations.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
-        <source>Make master</source>
+        <source>Make source</source>
+        <oldsource>Make master</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12595,36 +12600,42 @@ Press and hold button to access advanced conversion and removal options.</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="316"/>
-        <source>Failed to convert %1 to %2!
-
-Probably there is no valid conversion path between the master representation and %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="318"/>
-        <source>Conversion failed</source>
-        <translation>La conversió ha fallat</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="338"/>
-        <source>Advanced segmentation conversion</source>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="414"/>
+        <source>Confirm source representation change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
-        <source>Confirm master representation change</source>
-        <translation>Confirmar el canvi de representació mestra</translation>
+        <source>Changing source representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
+This may mean losing important data that cannot be created again from the new source representation.
+
+(Reminder: Source representation is the data type which is saved to disk, and which is used as input when creating other representations)
+
+Do you wish to proceed with changing source representation?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="416"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="317"/>
+        <source>Conversion failed</source>
+        <translation>La conversió ha fallat</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="337"/>
+        <source>Advanced segmentation conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm master representation change</source>
+        <translation type="vanished">Confirmar el canvi de representació mestra</translation>
+    </message>
+    <message>
         <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
 This may mean losing important data that cannot be created again from the new master representation.
 
 (Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing master representation?</source>
-        <translation>Canviar la representació mestra farà que la representació «estàndard d&apos;or» sigui la seleccionada i provocarà la supressió de totes les altres representacions.
+        <translation type="vanished">Canviar la representació mestra farà que la representació «estàndard d&apos;or» sigui la seleccionada i provocarà la supressió de totes les altres representacions.
 Això pot suposar la pèrdua de dades importants que no es poden tornar a crear a partir de la nova representació mestra.
 
 (Recordatori: la representació mestra és el tipus de dades que es desa al disc i que s&apos;utilitza com a entrada quan es creen altres representacions)
@@ -15405,7 +15416,6 @@ p, li { espai blanc: predeformació; }
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="3"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="3"/>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="3"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
         <source>Registration</source>
@@ -15421,7 +15431,6 @@ p, li { espai blanc: predeformació; }
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="4"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="4"/>
         <source>Specialized</source>
         <translation type="unfinished"></translation>
@@ -15559,7 +15568,7 @@ p, li { espai blanc: predeformació; }
         <translation>Més…</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="73"/>
+        <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
         <translation type="unfinished">%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</translation>
     </message>
@@ -15611,105 +15620,105 @@ p, li { espai blanc: predeformació; }
 <context>
     <name>qSlicerAppMainWindow</name>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="76"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
         <translation type="unfinished">&amp;Dreceres de _teclat</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
         <translation>Eleva una finestra que enumeri les dreceres de teclat d&apos;ús comú.</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="81"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
         <translation type="unfinished">Documentació de la interfície</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Ctrl+1</source>
         <comment>Documentation</comment>
         <translation type="unfinished">Ctrl+1</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="86"/>
         <source>Quick Start</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="91"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="90"/>
         <source>Get Help</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="95"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="94"/>
         <source>User Interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="99"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="98"/>
         <source>Visit the Slicer Forum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
         <source>Browse Tutorials</source>
         <translation>Navegar pels tutorials</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="127"/>
         <source>Acknowledgments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="131"/>
         <source>Report a Bug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
         <source>Raise the training pages in your favorite web browser</source>
         <translation>Eleva les pàgines d&apos;entrenament al teu navegador web preferit</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Join Us on Twitter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
         <source>Search Feature Requests</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="116"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="115"/>
         <source>View License</source>
         <translation>Veure llicència</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="120"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="119"/>
         <source>How to Cite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="124"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="123"/>
         <source>Slicer Publications</source>
         <translation>Publicacions de Slicer</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="133"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
         <source>Report error or request enhancement or new feature.</source>
         <translation>Informar d&apos;un error o sol·licitar una millora o una funcionalitat nova.</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="136"/>
         <source>About 3D Slicer</source>
         <translation>Quant a 3D Slicer</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="138"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
         <source>Provides a description of the Slicer effort and its support.</source>
         <translation>Proporcionar una descripció de l&apos;esforç de Slicer i el seu suport.</translation>
     </message>
@@ -15717,66 +15726,66 @@ p, li { espai blanc: predeformació; }
 <context>
     <name>qSlicerApplication</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="365"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="366"/>
         <source>General</source>
         <translation>General</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="880"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="368"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="840"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="369"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="841"/>
         <source>Modules</source>
         <translation>Mòduls</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="372"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="373"/>
         <source>Appearance</source>
         <translation>Aparença</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="376"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="377"/>
         <source>Views</source>
         <translation>Vistes</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="380"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="381"/>
         <source>User</source>
         <translation>Usuari</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="384"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="385"/>
         <source>Extensions</source>
         <translation>Extensions</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="388"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="389"/>
         <source>Cache</source>
         <translation>Memòria cau</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="393"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="394"/>
         <source>Internationalization</source>
         <translation>Internacionalització</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="400"/>
         <source>Python</source>
         <translation>Python</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="404"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="405"/>
         <source>Developer</source>
         <translation>Desenvolupador</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="512"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="548"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="513"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="549"/>
         <source>%1 has caught an application error, </source>
         <translation>%1 ha detectat un error d&apos;aplicació, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="513"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="549"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="514"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="550"/>
         <source>please save your work and restart.
 
 </source>
@@ -15785,17 +15794,17 @@ p, li { espai blanc: predeformació; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="514"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="515"/>
         <source>The application has run out of memory. </source>
         <translation>L&apos;aplicació s&apos;ha quedat sense memòria. </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="515"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="516"/>
         <source>winnt</source>
         <translation>winnt</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="517"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="518"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -15804,12 +15813,12 @@ p, li { espai blanc: predeformació; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="519"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="520"/>
         <source>linux</source>
         <translation>linux</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="521"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="522"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -15818,12 +15827,12 @@ p, li { espai blanc: predeformació; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="523"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="524"/>
         <source>darwin</source>
         <translation>darwin</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="525"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="526"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
@@ -15832,7 +15841,7 @@ p, li { espai blanc: predeformació; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="529"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="530"/>
         <source>Adding more RAM may fix this issue.
 
 </source>
@@ -15841,14 +15850,14 @@ p, li { espai blanc: predeformació; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="531"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="550"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="551"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
         <translation>Si tens una seqüència repetible de passos que provoca aquest missatge, </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="551"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="533"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="552"/>
         <source>please report the issue following instructions available at https://slicer.org
 
 
@@ -15856,8 +15865,8 @@ p, li { espai blanc: predeformació; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="533"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="552"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
         <source>The message detail is:
 
 </source>
@@ -15866,19 +15875,19 @@ p, li { espai blanc: predeformació; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="535"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="554"/>
         <source>Exception thrown in event: </source>
         <translation>Excepció llançada en esdeveniment: </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="542"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="561"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="543"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="562"/>
         <source>Application Error</source>
         <translation>Error d&apos;aplicació</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="718"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="719"/>
         <source>Are you sure you want to restart?</source>
         <translation>Estàs segur que vols reiniciar?</translation>
     </message>
@@ -15886,12 +15895,12 @@ p, li { espai blanc: predeformació; }
 <context>
     <name>qSlicerApplicationHelper</name>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="249"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="250"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
         <translation>La capacitat gràfica d&apos;aquest ordinador no és suficient per a executar aquesta aplicació. El més probable és que l&apos;aplicació no funcioni correctament.</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="252"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="253"/>
         <source>See more information and help at:
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
@@ -15906,7 +15915,7 @@ Capacitats gràfiques d&apos;aquest ordinador:
 </translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="261"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="262"/>
         <source>Insufficient graphics capability</source>
         <translation>Capacitat gràfica insuficient</translation>
     </message>
@@ -16358,55 +16367,55 @@ Capacitats gràfiques d&apos;aquest ordinador:
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="581"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="626"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="616"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="662"/>
         <source>%1 load failed.</source>
         <translation>La càrrega de %1 ha fallat.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="786"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="832"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="801"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="834"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="880"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="893"/>
         <source>No nodes were saved in the scene</source>
         <translation>No es van salvar nodes a l&apos;espai de treball</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="918"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="964"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>No s&apos;ha pogut trobar un node emmagatzemable amb l&apos;ID %1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="931"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="967"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1025"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="977"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1013"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1071"/>
         <source>Error encountered while exporting %1.</source>
         <translation>S&apos;ha trobat un error en exportar %1.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="993"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1039"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation>No es pot crear el node d&apos;emmagatzematge predeterminat per a %1 a l&apos;espai de treball temporal.</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1015"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1061"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
         <translation>No es poden desar les propietats de presentació del %1 a l&apos;espai de treball temporal.</translation>
     </message>
@@ -18159,37 +18168,37 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation>Selecciona un lector per a utilitzar amb les teves dades:</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="442"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
         <source>Loading file </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Adding data succeeded</source>
         <translation>S&apos;han afegit dades correctament</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="584"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="592"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
         <translation>Els fitxers seleccionats s&apos;han carregat correctament, però s&apos;han informat errors o advertències.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="596"/>
         <source>Adding data failed</source>
         <translation>Error en afegir dades</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="598"/>
         <source>Error occurred while loading the selected files.</source>
         <translation>S&apos;ha produït un error en carregar els fitxers seleccionats.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="595"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="603"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
         <translation>Clicar al botó «Mostrar els detalls» i comprovar el registre de l&apos;aplicació per a més informació.</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="602"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="610"/>
         <source>Check the application log for more information.</source>
         <translation>Comprovar el registre de l&apos;aplicació per a més informació.</translation>
     </message>
@@ -19819,14 +19828,14 @@ Noms de columnes de la taula: etiqueta, d, a, s, ( e, p, s), definit, selecciona
 <context>
     <name>qSlicerMarkupsReader</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="78"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="79"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
         <source>Markups</source>
         <translation type="unfinished">Marcatges</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="94"/>
         <source>Markups Fiducials</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21619,11 +21628,16 @@ Tria un directori buit.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="780"/>
-        <source>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+        <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+
+Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
+
+Note: This may result in unwanted data loss in %5.</source>
+        <oldsource>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
-Note: This may result in unwanted data loss in %5.</source>
+Note: This may result in unwanted data loss in %5.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21729,8 +21743,8 @@ Most probably the segment cannot be converted into closed surface representation
 <context>
     <name>qSlicerSegmentationsReader</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="81"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="93"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="82"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="94"/>
         <source>Segmentation</source>
         <translation type="unfinished">Segmentació</translation>
     </message>
@@ -22157,19 +22171,22 @@ Most probably the segment cannot be converted into closed surface representation
 <context>
     <name>qSlicerSequencesReader</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="81"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="94"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="82"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <source>Sequence</source>
         <translation type="unfinished">Seqüència</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
         <source>Volume Sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
-        <source>Volume `Sequence</source>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
+        <source>Volume Sequence</source>
+        <oldsource>Volume `Sequence</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23395,7 +23412,7 @@ p, li { espai blanc: predeformació }
 <context>
     <name>qSlicerStandardFileDialog</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="293"/>
+        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="294"/>
         <source>Options:</source>
         <translation>Opcions:</translation>
     </message>
@@ -23853,11 +23870,16 @@ Select plugin to add node named
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="282"/>
-        <source>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
+        <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
+
+Would you like to change the source representation of &apos;%4&apos; to &apos;%1&apos;?
+
+Note: This may result in unwanted data loss in %4.</source>
+        <oldsource>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
 
 Would you like to change the master representation of &apos;%4&apos; to &apos;%1&apos;?
 
-Note: This may result in unwanted data loss in %4.</source>
+Note: This may result in unwanted data loss in %4.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23893,7 +23915,8 @@ Note: This may result in unwanted data loss in %4.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
-        <source> (Master representation: %1)</source>
+        <source> (Source representation: %1)</source>
+        <oldsource> (Master representation: %1)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24012,11 +24035,16 @@ Please check the error window for details.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="237"/>
-        <source>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+        <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+
+Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
+
+Note: This may result in unwanted data loss in %5.</source>
+        <oldsource>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
-Note: This may result in unwanted data loss in %5.</source>
+Note: This may result in unwanted data loss in %5.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24728,22 +24756,22 @@ Nota: si tries no, la transformada aplicada simplement es substituirà.</transla
 <context>
     <name>qSlicerTablesReader</name>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="134"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="147"/>
         <source>Table reading failed: no file extension specified: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="149"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
         <source>QInputDialog::getText()</source>
         <translation>QInputDialog::getText()</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="150"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
         <source>Database Password:</source>
         <translation>Contrasenya de la base de dades:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="182"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26270,27 +26298,27 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
 &lt;p&gt;Aquest mòdul va ser desenvolupat per Jean-Christophe Fillion-Robin i Julien Finet a Kitware, Inc., i per Wendy Plesniak, Sonia Pujol, Steve Pieper i Ron Kikinis al Brigham and Women&apos;s Hospital.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
         <source>Checking for updates...</source>
         <translation>Comprovant actualitzacions…</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="109"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
         <source>No updates were found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Raising %1 Module:</source>
         <translation>Elevant el mòdul %1:</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
         <translation>Malauradament, aquest mòdul sol·licitat no està disponible en aquesta sessió de Slicer.</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="388"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation type="unfinished">
@@ -26299,12 +26327,12 @@ Això només han d&apos;utilitzar els usuaris avançats que entenguin les conseq
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="391"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="390"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="425"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
         <source>New application version is available: %1</source>
         <translation type="unfinished"></translation>
     </message>

@@ -4,75 +4,60 @@
 <context>
     <name>CLI_ACPCTransform</name>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="5"/>
         <source>ACPC Transform</source>
-        <translation>ACPC变换</translation>
+        <translation type="vanished">ACPC变换</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="6"/>
         <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;计算一个转换，使大脑图像与&lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach坐标系统&lt;/a&gt;（也称为立体坐标系统或ACPC坐标系统）相一致。&lt;/p&gt;&lt;p&gt;ACPC线在两点之间延伸，一个在前神经节，一个在后神经节。由此产生的转换将使连接这两点的线水平于AP轴。&lt;/p&gt;&lt;p&gt;中线是一系列的点（至少3个），定义了大脑半球之间的分界线（中矢状面）。由此产生的转换将使输出的体积的矢状面中部与AS平面对齐。&lt;/p&gt;&lt;p&gt;使用&lt;b&gt;对标量/矢量/DWI体积重新采样&lt;/b&gt; ，将转换应用到一个体积。&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;计算一个转换，使大脑图像与&lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach坐标系统&lt;/a&gt;（也称为立体坐标系统或ACPC坐标系统）相一致。&lt;/p&gt;&lt;p&gt;ACPC线在两点之间延伸，一个在前神经节，一个在后神经节。由此产生的转换将使连接这两点的线水平于AP轴。&lt;/p&gt;&lt;p&gt;中线是一系列的点（至少3个），定义了大脑半球之间的分界线（中矢状面）。由此产生的转换将使输出的体积的矢状面中部与AS平面对齐。&lt;/p&gt;&lt;p&gt;使用&lt;b&gt;对标量/矢量/DWI体积重新采样&lt;/b&gt; ，将转换应用到一个体积。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation type="vanished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="8"/>
         <source>Input landmarks</source>
-        <translation>输入标志</translation>
+        <translation type="vanished">输入标志</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="9"/>
         <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation>将用于计算 ACPC 变换的解剖标志。</translation>
+        <translation type="vanished">将用于计算 ACPC 变换的解剖标志。</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="10"/>
         <source>ACPC line</source>
-        <translation>ACPC线</translation>
+        <translation type="vanished">ACPC线</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="11"/>
         <source>Midline</source>
-        <translation>中线</translation>
+        <translation type="vanished">中线</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="12"/>
         <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation>ACPC 线，连接前连合处的点和后连合处的点。</translation>
+        <translation type="vanished">ACPC 线，连接前连合处的点和后连合处的点。</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="13"/>
         <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation>中线是放置在矢状面中部的一系列点（至少3个），界定了大脑半球之间的分界。</translation>
+        <translation type="vanished">中线是放置在矢状面中部的一系列点（至少3个），界定了大脑半球之间的分界。</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="14"/>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="17"/>
         <source>Output transform</source>
-        <translation>输出变换</translation>
+        <translation type="vanished">输出变换</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="15"/>
         <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation>模块从输入的标志计算出的变换（刚性平移和旋转）。如果将此变换应用于体积，那么它将使ACPC线 &quot;水平&quot;（在病人坐标系的AP轴上），使矢状面中部 &quot;垂直&quot;（适合在病人坐标系的AS平面上），并且（如果启用居中）使AC点成为原点（病人坐标系的（0，0，0）坐标）。</translation>
+        <translation type="vanished">模块从输入的标志计算出的变换（刚性平移和旋转）。如果将此变换应用于体积，那么它将使ACPC线 &quot;水平&quot;（在病人坐标系的AP轴上），使矢状面中部 &quot;垂直&quot;（适合在病人坐标系的AS平面上），并且（如果启用居中）使AC点成为原点（病人坐标系的（0，0，0）坐标）。</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="16"/>
         <source>Center volume</source>
-        <translation>数据居中</translation>
+        <translation type="vanished">数据居中</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="18"/>
         <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation>如果这个选项被启用，那么输出的变换将把AC点平移到原点。如果这个选项被禁用，那么体积的位置将被保留，变换将只改变方向。</translation>
+        <translation type="vanished">如果这个选项被启用，那么输出的变换将把AC点平移到原点。如果这个选项被禁用，那么体积的位置将被保留，变换将只改变方向。</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="19"/>
         <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation>将体积移动到标准 ACPC 坐标系的变换。</translation>
+        <translation type="vanished">将体积移动到标准 ACPC 坐标系的变换。</translation>
     </message>
 </context>
 <context>
@@ -134,13 +119,26 @@
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
-        <source>Controls</source>
-        <translation>控件</translation>
+        <source>Advanced</source>
+        <translation type="unfinished">高级</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
+        <source>Advanced parameters for fine-tune the computation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
+        <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <translation type="vanished">控件</translation>
+    </message>
+    <message>
         <source>Control how the module operates</source>
-        <translation>控制模块如何运行</translation>
+        <translation type="vanished">控制模块如何运行</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
@@ -148,9 +146,8 @@
         <translation>插值顺序</translation>
     </message>
     <message>
-        <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation>如果两个图像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
+        <translation type="vanished">如果两个图像位于不同的坐标系中或具有不同的采样，则为插值顺序。</translation>
     </message>
 </context>
 <context>
@@ -5933,7 +5930,8 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
@@ -11966,15 +11964,19 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1370"/>
-        <source>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
+        <source>Editing requires binary labelmap source representation, but currently the source representation is %1. Changing the source representation requires conversion. Some details may be lost during conversion process.
 
-Change master representation to binary labelmap?</source>
+Change source representation to binary labelmap?</source>
+        <oldsource>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
+
+Change master representation to binary labelmap?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1375"/>
-        <source>Change master representation to binary labelmap?</source>
-        <translation>将主表示更改为二进制标签映射？</translation>
+        <source>Change source representation to binary labelmap?</source>
+        <oldsource>Change master representation to binary labelmap?</oldsource>
+        <translation type="unfinished">将主表示更改为二进制标签映射？</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1396"/>
@@ -12513,10 +12515,13 @@ Do you want to crop the segmentation?
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="210"/>
-        <source>This is the master representation.
+        <source>This is the source representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</source>
-        <translation>这是主表示。
+        <oldsource>This is the master representation.
+  1. This representation is saved on disk
+  2. If this representation is modified, the others are cleared</oldsource>
+        <translation type="unfinished">这是主表示。
  1. 此表示保存在磁盘上
  2. 如果修改了此表示，其他表示将被清除</translation>
     </message>
@@ -12554,7 +12559,8 @@ Click the down-arrow button for additional operations.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
-        <source>Make master</source>
+        <source>Make source</source>
+        <oldsource>Make master</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12580,36 +12586,42 @@ Press and hold button to access advanced conversion and removal options.</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="316"/>
-        <source>Failed to convert %1 to %2!
-
-Probably there is no valid conversion path between the master representation and %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="318"/>
-        <source>Conversion failed</source>
-        <translation>转换失败</translation>
-    </message>
-    <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="338"/>
-        <source>Advanced segmentation conversion</source>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="414"/>
+        <source>Confirm source representation change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
-        <source>Confirm master representation change</source>
-        <translation>确认主表示更改</translation>
+        <source>Changing source representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
+This may mean losing important data that cannot be created again from the new source representation.
+
+(Reminder: Source representation is the data type which is saved to disk, and which is used as input when creating other representations)
+
+Do you wish to proceed with changing source representation?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="416"/>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="317"/>
+        <source>Conversion failed</source>
+        <translation>转换失败</translation>
+    </message>
+    <message>
+        <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="337"/>
+        <source>Advanced segmentation conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm master representation change</source>
+        <translation type="vanished">确认主表示更改</translation>
+    </message>
+    <message>
         <source>Changing master representation will make the &apos;gold standard&apos; representation the selected one, and will result in deletion of all the other representations.
 This may mean losing important data that cannot be created again from the new master representation.
 
 (Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing master representation?</source>
-        <translation>更改主表示将使&apos;黄金标准&apos;表示将删除选定的表示，并将导致删除所有其他表示。
+        <translation type="vanished">更改主表示将使&apos;黄金标准&apos;表示将删除选定的表示，并将导致删除所有其他表示。
 这可能意味着丢失无法从新的主表示中再次创建的重要数据。
 
 （提醒：主表示是保存到磁盘的数据类型，在创建其他表示时用作输入）
@@ -15359,7 +15371,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="4"/>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="4"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="4"/>
         <source>Specialized</source>
         <translation>专门</translation>
@@ -15395,7 +15406,6 @@ p, li { white-space: pre-wrap; }
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="3"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="3"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="3"/>
-        <location filename="Modules/CLI/ACPCTransform/ACPCTransform_tr.h" line="3"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="3"/>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.cxx" line="72"/>
         <source>Registration</source>
@@ -15544,7 +15554,7 @@ p, li { white-space: pre-wrap; }
         <translation>更多...</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="73"/>
+        <location filename="Base/QTGUI/qSlicerActionsDialog.cxx" line="72"/>
         <source>%1/user_guide/user_interface.html#mouse-keyboard-shortcuts</source>
         <translation type="unfinished">%1/user_guide/user_interface.html#鼠标键盘快捷方式</translation>
     </message>
@@ -15596,105 +15606,105 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerAppMainWindow</name>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="76"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
         <translation type="unfinished">&amp;键盘快捷键</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="78"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
         <source>Raise a window that lists commonly-used keyboard shortcuts.</source>
         <translation>打开一个列出常用键盘快捷键的窗口。</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="81"/>
         <source>Documentation</source>
         <oldsource>Interface Documentation</oldsource>
         <translation type="unfinished">接口文档</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="83"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="82"/>
         <source>Ctrl+1</source>
         <comment>Documentation</comment>
         <translation type="unfinished">Ctrl+1</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="87"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="86"/>
         <source>Quick Start</source>
         <translation>快速启动</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="91"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="90"/>
         <source>Get Help</source>
         <translation>获取帮助</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="95"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="94"/>
         <source>User Interface</source>
         <translation>用户界面</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="99"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="98"/>
         <source>Visit the Slicer Forum</source>
         <translation>访问Slicer论坛</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
         <source>Browse Tutorials</source>
         <translation>浏览教程</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="128"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="127"/>
         <source>Acknowledgments</source>
         <translation>致谢</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="131"/>
         <source>Report a Bug</source>
         <translation>报告错误</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="104"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
         <source>Raise the training pages in your favorite web browser</source>
         <translation>在您最喜欢的web浏览器中打开培训页面</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="108"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Join Us on Twitter</source>
         <translation>在Twitter上加入我们</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="112"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
         <source>Search Feature Requests</source>
         <translation>搜索功能请求</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="116"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="115"/>
         <source>View License</source>
         <translation>查看许可证</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="120"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="119"/>
         <source>How to Cite</source>
         <translation>如何引用</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="124"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="123"/>
         <source>Slicer Publications</source>
         <translation>Slicer出版物</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="133"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="132"/>
         <source>Report error or request enhancement or new feature.</source>
         <translation>报告错误或请求增强功能或新功能。</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="136"/>
         <source>About 3D Slicer</source>
         <translation>关于3DSlicer</translation>
     </message>
     <message>
-        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="138"/>
+        <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="137"/>
         <source>Provides a description of the Slicer effort and its support.</source>
         <translation>提供Slicer工作及其支持的说明。</translation>
     </message>
@@ -15702,66 +15712,66 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerApplication</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="365"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="366"/>
         <source>General</source>
         <translation>通用</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="880"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="368"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="840"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="369"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="841"/>
         <source>Modules</source>
         <translation>模块</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="372"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="373"/>
         <source>Appearance</source>
         <translation>外观</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="376"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="377"/>
         <source>Views</source>
         <translation>视图</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="380"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="381"/>
         <source>User</source>
         <translation>用户</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="384"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="385"/>
         <source>Extensions</source>
         <translation>扩展</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="388"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="389"/>
         <source>Cache</source>
         <translation>缓存</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="393"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="394"/>
         <source>Internationalization</source>
         <translation>国际化</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="399"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="400"/>
         <source>Python</source>
         <translation>Python</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="404"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="405"/>
         <source>Developer</source>
         <translation>开发者</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="512"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="548"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="513"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="549"/>
         <source>%1 has caught an application error, </source>
         <translation>%1 捕获了应用程序错误， </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="513"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="549"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="514"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="550"/>
         <source>please save your work and restart.
 
 </source>
@@ -15770,17 +15780,17 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="514"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="515"/>
         <source>The application has run out of memory. </source>
         <translation>应用程序已耗尽内存. </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="515"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="516"/>
         <source>winnt</source>
         <translation>获胜者</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="517"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="518"/>
         <source>Increasing virtual memory size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -15789,12 +15799,12 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="519"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="520"/>
         <source>linux</source>
         <translation>linux</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="521"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="522"/>
         <source>Increasing swap size in system settings or adding more RAM may fix this issue.
 
 </source>
@@ -15803,12 +15813,12 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="523"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="524"/>
         <source>darwin</source>
         <translation>darwin</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="525"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="526"/>
         <source>Increasing free disk space or adding more RAM may fix this issue.
 
 </source>
@@ -15817,7 +15827,7 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="529"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="530"/>
         <source>Adding more RAM may fix this issue.
 
 </source>
@@ -15826,14 +15836,14 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="531"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="550"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="551"/>
         <source>If you have a repeatable sequence of steps that causes this message, </source>
         <translation>如果您有一系列可重复的步骤导致此消息， </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="532"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="551"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="533"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="552"/>
         <source>please report the issue following instructions available at https://slicer.org
 
 
@@ -15844,8 +15854,8 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="533"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="552"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
         <source>The message detail is:
 
 </source>
@@ -15854,19 +15864,19 @@ p, li { white-space: pre-wrap; }
 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="534"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="535"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="554"/>
         <source>Exception thrown in event: </source>
         <translation>事件中引发异常： </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="542"/>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="561"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="543"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="562"/>
         <source>Application Error</source>
         <translation>应用程序错误</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="718"/>
+        <location filename="Base/QTGUI/qSlicerApplication.cxx" line="719"/>
         <source>Are you sure you want to restart?</source>
         <translation>确定要重新启动吗？</translation>
     </message>
@@ -15874,12 +15884,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>qSlicerApplicationHelper</name>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="249"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="250"/>
         <source>Graphics capability of this computer is not sufficient to run this application. The application most likely will not function properly.</source>
         <translation>此计算机的图形功能不足以运行此应用程序，应用程序很可能无法正常工作。</translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="252"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="253"/>
         <source>See more information and help at:
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
@@ -15894,7 +15904,7 @@ Graphics capabilities of this computer:
 </translation>
     </message>
     <message>
-        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="261"/>
+        <location filename="Base/QTApp/qSlicerApplicationHelper.cxx" line="262"/>
         <source>Insufficient graphics capability</source>
         <translation>图形能力不足</translation>
     </message>
@@ -16346,55 +16356,55 @@ Graphics capabilities of this computer:
 <context>
     <name>qSlicerCoreIOManager</name>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="581"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="626"/>
         <source>Loading %1</source>
         <extracomment>%1 is the filename</extracomment>
         <translation>正在加载%1</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="616"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="662"/>
         <source>%1 load failed.</source>
         <translation>%1 加载失败。</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="786"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="832"/>
         <source>No writer found to write file %1 of type %2.</source>
         <translation>找不到要写入类型 %2 的文件 %1 的编写器。</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="801"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
         <source>Unable to create directory &apos;%1&apos;</source>
         <translation>无法创建目录 &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="834"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="880"/>
         <source>Saving failed with all writers found for file &apos;%1&apos; of type &apos;%2&apos;.</source>
         <translation>保存失败，找到类型为“%2”的文件“%1”的所有编写器。</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="847"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="893"/>
         <source>No nodes were saved in the scene</source>
         <translation>场景中未保存任何节点</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="918"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="964"/>
         <source>Unable to find a storable node with ID %1</source>
         <translation>找不到ID为 %1 的可存储节点</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="931"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="967"/>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1025"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="977"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1013"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1071"/>
         <source>Error encountered while exporting %1.</source>
         <translation>导出 %1 时发生错误。</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="993"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1039"/>
         <source>Unable to create default storage node for %1 in temporary scene.</source>
         <translation>无法为临时场景中的%1创建默认存储节点。</translation>
     </message>
     <message>
-        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1015"/>
+        <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="1061"/>
         <source>Unable to save display properties for %1 in temporary scene.</source>
         <translation>无法在临时场景中保存 %1 的显示属性。</translation>
     </message>
@@ -18146,37 +18156,37 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <translation type="unfinished">选择要用于数据的读取器？</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="442"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
         <source>Loading file </source>
         <translation>正在加载文件 </translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="582"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Adding data succeeded</source>
         <translation>添加数据成功</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="584"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="592"/>
         <source>The selected files were loaded successfully but errors or warnings were reported.</source>
         <translation>已成功加载所选文件，但报告了错误或警告。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="588"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="596"/>
         <source>Adding data failed</source>
         <translation>添加数据失败</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="598"/>
         <source>Error occurred while loading the selected files.</source>
         <translation>加载所选文件时出错。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="595"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="603"/>
         <source>Click &apos;Show details&apos; button and check the application log for more information.</source>
         <translation>点击 &apos;显示详细信息&apos; 按钮并检查应用程序日志以获取更多信息。</translation>
     </message>
     <message>
-        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="602"/>
+        <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="610"/>
         <source>Check the application log for more information.</source>
         <translation>检查应用程序日志以获得更多信息。</translation>
     </message>
@@ -19806,14 +19816,14 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 <context>
     <name>qSlicerMarkupsReader</name>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="78"/>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="91"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="79"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
         <source>Markups</source>
         <translation type="unfinished">标记</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
+        <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="94"/>
         <source>Markups Fiducials</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21606,11 +21616,16 @@ Please choose an empty directory.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="780"/>
-        <source>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+        <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+
+Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
+
+Note: This may result in unwanted data loss in %5.</source>
+        <oldsource>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;, thus unable to copy segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
-Note: This may result in unwanted data loss in %5.</source>
+Note: This may result in unwanted data loss in %5.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21716,8 +21731,8 @@ Most probably the segment cannot be converted into closed surface representation
 <context>
     <name>qSlicerSegmentationsReader</name>
     <message>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="81"/>
-        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="93"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="82"/>
+        <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsReader.cxx" line="94"/>
         <source>Segmentation</source>
         <translation type="unfinished">分割</translation>
     </message>
@@ -22144,19 +22159,22 @@ Most probably the segment cannot be converted into closed surface representation
 <context>
     <name>qSlicerSequencesReader</name>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="81"/>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="94"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="82"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
         <source>Sequence</source>
         <translation type="unfinished">序列</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="95"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
         <source>Volume Sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="96"/>
-        <source>Volume `Sequence</source>
+        <location filename="Modules/Loadable/Sequences/qSlicerSequencesReader.cxx" line="97"/>
+        <source>Volume Sequence</source>
+        <oldsource>Volume `Sequence</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23382,7 +23400,7 @@ p, li own white-space: pre-wrap; }
 <context>
     <name>qSlicerStandardFileDialog</name>
     <message>
-        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="293"/>
+        <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="294"/>
         <source>Options:</source>
         <translation>选项：</translation>
     </message>
@@ -23843,11 +23861,16 @@ Select plugin to add node named
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="282"/>
-        <source>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
+        <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
+
+Would you like to change the source representation of &apos;%4&apos; to &apos;%1&apos;?
+
+Note: This may result in unwanted data loss in %4.</source>
+        <oldsource>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to import node &apos;%3&apos; to segmentation &apos;%4&apos;.
 
 Would you like to change the master representation of &apos;%4&apos; to &apos;%1&apos;?
 
-Note: This may result in unwanted data loss in %4.</source>
+Note: This may result in unwanted data loss in %4.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23883,7 +23906,8 @@ Note: This may result in unwanted data loss in %4.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
-        <source> (Master representation: %1)</source>
+        <source> (Source representation: %1)</source>
+        <oldsource> (Master representation: %1)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24002,11 +24026,16 @@ Please check the error window for details.</source>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="237"/>
-        <source>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+        <source>Cannot convert source representation &apos;%1&apos; into target source &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
+
+Would you like to change the source representation of &apos;%5&apos; to &apos;%1&apos;?
+
+Note: This may result in unwanted data loss in %5.</source>
+        <oldsource>Cannot convert source master representation &apos;%1&apos; into target master &apos;%2&apos;,thus unable to move segment &apos;%3&apos; from segmentation &apos;%4&apos; to &apos;%5&apos;.
 
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
-Note: This may result in unwanted data loss in %5.</source>
+Note: This may result in unwanted data loss in %5.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -24718,22 +24747,22 @@ Tags: %5</source>
 <context>
     <name>qSlicerTablesReader</name>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="134"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="147"/>
         <source>Table reading failed: no file extension specified: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="149"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
         <source>QInputDialog::getText()</source>
         <translation>QInputDialog:::getText()</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="150"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
         <source>Database Password:</source>
         <translation>数据库密码：</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="182"/>
+        <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -26265,27 +26294,27 @@ This should only used by advanced users who understand the consequences of chang
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
         <source>Checking for updates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="109"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
         <source>No updates were found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Raising %1 Module:</source>
         <translation>正在升级 %1模块：</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="182"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
         <translation>很遗憾此请求的模块在此Slicer中不可用。</translation>
     </message>
     <message numerus="yes">
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="389"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="388"/>
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation type="unfinished">
@@ -26293,12 +26322,12 @@ This should only used by advanced users who understand the consequences of chang
         </translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="391"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="390"/>
         <source>Use Extensions Manager to update these extensions:</source>
         <translation>使用扩展管理器更新这些扩展：</translation>
     </message>
     <message>
-        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="425"/>
+        <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
         <source>New application version is available: %1</source>
         <translation type="unfinished">新的应用程序版本可用： %1</translation>
     </message>
