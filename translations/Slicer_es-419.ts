@@ -389,7 +389,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation>Transformación de Slicer Linear</translation>
+        <translation>Transformación de Slicer Lineal</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
@@ -726,7 +726,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen en movimiento,  las opciones son: Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, o ResampleInPlace.  La opción ResampleInPlace creará una imagen con los mismos valores discretos de voxel y ajustará el origen y la dirección de la interpretación del espacio físico.</translation>
+        <translation>Tipo de interpolación que se utilizará al aplicar la transformación al volumen en movimiento. Las opciones son: Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, o ResampleInPlace.  La opción ResampleInPlace creará una imagen con los mismos valores discretos de voxel y ajustará el origen y la dirección de la interpretación del espacio físico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
@@ -738,7 +738,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
@@ -1021,7 +1021,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation>Componente rígido de la transformada afín estimada. Puede utilizarse para registrar rígidamente la imagen en movimiento en la imagen fija. NOTA: Este valor se anula si se establece Transformación de bspline o Transformación linear.</translation>
+        <translation>Componente rígido de la transformación afín estimada. Puede utilizarse para registrar rígidamente la imagen en movimiento en la imagen fija. NOTA: Este valor se anula si se establece Transformación de bspline o Transformación lineal.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
@@ -1036,7 +1036,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation>Si esta bandera está en ENCENDIDO, la actual compuesta genérica se transforma, como resultado de las etapas de registro lineal, se establece para inicializar el siguiente proceso de registro no lineal. Sin embargo, por defecto, la imagen en movimiento es primero deformada basándose en la transformación existente antes de ser pasada al filtro de registro BSpline, esto se hace para acelerar el registro BSpline reduciendo los cálculos de la transformación compuesta Jacobiana.</translation>
+        <translation>Si esta bandera está en ENCENDIDO, la actual compuesta genérica se transforma, como resultado de las etapas de registro lineal, se establece para inicializar el siguiente proceso de registro no lineal. Sin embargo, por defecto, la imagen en movimiento primero se deforma basándose en la transformación existente antes de ser pasada al filtro de registro BSpline, esto se hace para acelerar el registro BSpline reduciendo los cálculos de la transformación compuesta Jacobiana.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
@@ -1299,7 +1299,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation>Esta bandera sólo es relevante cuando se utiliza el modo ROIAUTO para inicializar las máscaras.  Define el tamaño de dilatación final para capturar un poco de fondo fuera de la región de tejido.  Se ha demostrado que un ajuste de 10mm ayuda a regularizar un tipo de registro BSpline para que haya algunas restricciones de fondo para que coincida mejor con los bordes de la cabeza.</translation>
+        <translation>Esta bandera sólo es relevante cuando se utiliza el modo ROIAUTO para inicializar las máscaras.  Define el tamaño de dilatación final para capturar un poco de fondo fuera de la región de tejido.  Se ha demostrado que un ajuste de 10mm ayuda a regularizar un tipo de registro BSpline para que haya algunas restricciones de fondo con el propósito de que coincida mejor con los bordes de la cabeza.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
@@ -1523,7 +1523,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
         <source>Linear</source>
-        <translation type="unfinished">Linear</translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
@@ -1583,7 +1583,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade una cuadrícula deformada a la imagen de salida para ayudar a mostrar la deformación que se ha producido con el espaciado especificado.   Un espaciado de 0 en una dimensión indica que las líneas de la cuadrícula deben renderizarse para que caigan exactamente (es decir, no permitir desplazamientos fuera de ese plano).  Esto es útil para hacer una imagen 2D de las líneas de la cuadrícula desde el espacio 3D</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
@@ -2586,7 +2586,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
         <source>Window center (0028,1050). Specify a linear conversion from stored pixel values (after Rescale Slope and Intercepthave been applied) to values to be displayed. Window Center contains the input value that is the center of the window. If either window center or width is undefined then the window is set to the full intensity ange of the image.</source>
-        <translation>Centro de la ventana (0028,1050). Especifica una conversión lineal de los valores de píxel almacenados (después de aplicar la pendiente de reescalado y la intercepción) a los valores que se mostrarán. Centro de ventana contiene el valor de entrada que es el centro de la ventana. Si el centro o la anchura de la ventana no están definidos, la ventana se ajusta al rango de intensidad total de la imagen.</translation>
+        <translation>Centro de la ventana (0028,1050). Especifica una conversión lineal de los valores de píxel almacenados (después de aplicar la pendiente de reescalado y la intercepción) a los valores que se mostrarán. El centro de ventana contiene el valor de entrada que es el centro de la ventana. Si el centro o la anchura de la ventana no están definidos, la ventana se ajusta al rango de intensidad total de la imagen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="114"/>
@@ -2678,7 +2678,11 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Realiza la difusión anisotrópica en una imagen utilizando una ecuación de difusión de curvatura modificada (MCDE).
+
+La MCDE no presenta las propiedades de mejora de los bordes de la difusión anisotrópica clásica, que en determinadas condiciones puede experimentar una difusión &quot;negativa&quot;, que mejora el contraste de los bordes.  Las ecuaciones de la forma de MCDE siempre experimentan difusión positiva, y el término de conductancia sólo varía en la fuerza de esa difusión. 
+
+ Cualitativamente, el MCDE es comparable a otras técnicas de difusión no lineal.  Es menos sensible al contraste que la difusión clásica al estilo Perona-Malik y conserva estructuras más detalladas en las imágenes.  El uso de esta función en lugar de la difusión anisotrópica de gradiente puede suponer una pérdida de velocidad.  Cada iteración de la solución requiere aproximadamente el doble de tiempo.  Sin embargo, pueden ser necesarias menos iteraciones para alcanzar una solución aceptable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -3314,17 +3318,17 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
         <source>Input transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de entrada lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
         <source>Input transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de entrada no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
         <source>Input transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de entrada bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
@@ -3334,17 +3338,17 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
         <source>Output transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de salida lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"/>
         <source>Output transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de salida no lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
         <source>Output transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformación de salida bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
@@ -3354,17 +3358,17 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación lineal de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación no lineal de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformada de entrada bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
@@ -3374,17 +3378,17 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación lineal de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación no lineal de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
         <source>A bspline output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Una transformación de salida bspline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
@@ -3742,7 +3746,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
         <source>Centerline points as markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos centrales como curva de marcas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
@@ -4839,7 +4843,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node, and their colors are set by the color table associated with the input label map volume. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu. If you&apos;re running from the command line, a model hierarchy node in a new mrml scene will be created for you.</source>
-        <translation>Modelos generados, bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos, y sus colores se establecen mediante la tabla de colores asociada al volumen del mapa de etiquetas de entrada. El nodo de jerarquía de modelos debe crearse antes de ejecutar el marcador de modelo, seleccionando Crear nueva jerarquía de modelos en el menú desplegable Modelos. Si se ejecuta desde la línea de comandos, se creará un nodo de jerarquía de modelos en una nueva escena mrml.</translation>
+        <translation>Modelos generados, bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos, y sus colores se establecen mediante la tabla de colores asociada al volumen del mapa de etiquetas de entrada. El nodo de jerarquía de modelos debe crearse antes de ejecutar el marcador de modelo, seleccionando &lt;&lt;Crear nueva jerarquía de modelos&gt;&gt; en el menú desplegable Modelos. Si se ejecuta desde la línea de comandos, se creará un nodo de jerarquía de modelos en una nueva escena mrml.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
@@ -4989,7 +4993,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
         <source>Pad the input volume with zero value voxels on all 6 faces in order to ensure the production of closed surfaces. Sets the origin translation and extent translation so that the models still line up with the unpadded input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rellena el volumen de entrada con vóxeles de valor cero en las 6 caras para garantizar la producción de superficies cerradas. Ajusta la traslación de origen y la traslación de extensión para que los modelos sigan alineados con el volumen de entrada sin relleno.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
@@ -5265,12 +5269,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"/>
         <source>BSpline grid resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolución de la cuadrícula BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="19"/>
         <source>Spline distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia de Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="20"/>
@@ -5285,7 +5289,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="22"/>
         <source>An alternative means to define the spline grid, by setting the distance between the control points. This parameter is used only if the grid resolution is not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un medio alternativo para definir la cuadrícula de spline, es estableciendo la distancia entre los puntos de control. Este parámetro sólo se utiliza si no se especifica la resolución de la cuadrícula.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
@@ -5315,7 +5319,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"/>
         <source>BSpline order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"/>
@@ -5351,7 +5355,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
         <source>Order of B-spline used in the approximation. Larger values will lead to longer execution times, may result in overfitting and poor result.</source>
-        <translation type="unfinished"></translation>
+        <translation>El orden de B-spline utilizado en la aproximación. Los valores más grandes provocarán tiempos de ejecución más largos, pueden dar lugar a un sobreajuste y a un resultado deficiente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
@@ -5798,7 +5802,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"/>
         <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una tabla que contiene los valores SUV de salida en líneas separadas por comas, una por etiqueta. Opcional.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"/>
@@ -5836,7 +5840,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comparar el valor de la métrica Mattes/MSQ para dos imágenes de entrada y una posible transformación BSpline de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
@@ -6116,7 +6120,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"/>
         <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de muestreo (lineal , nn (vecino más próximo), ws (WindowedSinc), bs (BSpline) )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
@@ -6132,7 +6136,7 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
@@ -6232,7 +6236,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformación que sigue a la transformación BSpline no se establece como transformación masiva para la transformación BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
@@ -6446,22 +6450,22 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la función interpolar BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para la interpolación BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de Spline (El orden de Spline puede ser de 0 a 5)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
@@ -6627,13 +6631,13 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="27"/>
         <source>Sampling algorithm (linear or nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de muestreo (lineal o nn (vecino más próximo), ws (WindowedSinc), bs (BSpline) )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="28"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="29"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"/>
@@ -6683,7 +6687,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="39"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformación que sigue a la transformación BSpline no se establece como transformación masiva para la transformación BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
@@ -6897,18 +6901,18 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="82"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de la función interpolar BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="83"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros usados para la interpolación BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
@@ -6959,7 +6963,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>El remuestreo de una imagen es una tarea importante en el análisis de imágenes. Es especialmente importante en el marco del registro de imágenes. Este módulo implementa el remuestreo de imágenes mediante el uso de Transformación ITK. Este módulo utiliza una Transformación de Identidad. El remuestreo es controlado por el Espaciado de Salida. &quot;El remuestreo se realiza en coordenadas espaciales, no en coordenadas de píxel/cuadrícula. Es muy importante asegurarse de que el espaciado de imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeado de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones fuera de cuadrícula. Existen varios interpoladores: lineal, vecino más próximo, bspline y cinco tipos de sinc. Los interpoladores sinc, aunque más precisos, son mucho más lentos que los interpoladores lineal y de vecino más próximo. Para remuestrear volúmenes de etiquetas, debe utilizarse exclusivamente la interpolación del vecino más próximo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
@@ -6994,13 +6998,13 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished"></translation>
+        <translation>Algoritmo de muestreo (lineal, vecino más próximo, bspline(cúbico) o sinc con ventana). Existen varios algoritmos sinc, como se describe en la siguiente publicación: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Comparación cuantitativa de los núcleos de aproximación de Sinc para la interpolación de imágenes médicas. MICCAI 1999, pp. 210-217. Cada ventana tiene un radio de 3;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="15"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>lineal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
