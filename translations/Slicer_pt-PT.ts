@@ -2,13 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_PT" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">Transformação ACPC</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2676,7 +2669,7 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation type="unfinished"></translation>
@@ -4043,7 +4036,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation type="unfinished"></translation>
@@ -6168,7 +6161,7 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6392,11 +6385,11 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6494,9 +6487,9 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
         <translation type="unfinished"></translation>
@@ -6832,11 +6825,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>

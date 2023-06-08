@@ -2,65 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ko" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">ACPC 변환</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;해부학적 지표를 기반으로 뇌 이미지를 &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach 좌표계&lt;/a&gt; (정위 또는 ACPC 좌표계라고도 함) 에 정렬하는 변환을 계산합니다.&lt;/p&gt;&lt;p&gt;ACPC 라인은 두 지점 사이를 연장합니다. 하나는 앞쪽 교련에 있고 다른 하나는 뒤쪽 교련에 있습니다. 변환 결과 두 점을 연결하는 선이 AP 축에 수평이 됩니다.&lt;/p&gt;&lt;p&gt;정중선은 뇌의 반구 (중간 시상면) 사이의 구분을 정의하는 일련의 점 (적어도 3개)입니다. 변환 결과로 AS 평면과 정렬된 중간 시상면을 갖는 출력 볼륨이 생성됩니다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt;을 사용하여 변환을 볼륨에 적용합니다.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="vanished">이 작업은 의료 이미지 컴퓨팅을 위한 전국 연합 (NAMIC)의 일부로, 의료 연구를 위한 NIH 로드맵, 그랜트 U54 EB005149를 통해 국립 보건원에서 자금을 지원합니다.</translation>
-    </message>
-    <message>
-        <source>Input landmarks</source>
-        <translation type="vanished">랜드마크 입력</translation>
-    </message>
-    <message>
-        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="vanished">ACPC 변환을 계산하는 데 사용될 해부학적 랜드마크입니다.</translation>
-    </message>
-    <message>
-        <source>ACPC line</source>
-        <translation type="vanished">ACPC 라인</translation>
-    </message>
-    <message>
-        <source>Midline</source>
-        <translation type="vanished">정중선</translation>
-    </message>
-    <message>
-        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="vanished">ACPC 라인은 전방 교합의 지점과 후방 교련의 한 지점을 연결합니다.</translation>
-    </message>
-    <message>
-        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="vanished">정중선은 중간 시상면에 배치된 일련의 점 (적어도 3개)으로, 뇌 반구 사이의 분할을 정의합니다.</translation>
-    </message>
-    <message>
-        <source>Output transform</source>
-        <translation type="vanished">출력 변환</translation>
-    </message>
-    <message>
-        <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="vanished">모듈이 입력 랜드마크에서 계산하는 계산된 변환 (엄격한 변환 및 회전)입니다. 이 변환이 볼륨에 적용되면 ACPC 선이 &quot;수평&quot;(환자 좌표계의 AP 축에 있음), 상면 중간면이 &quot;수직&quot;으로 정렬 (환자 좌표계의 AS 평면에 적합), (센터링이 활성화된 경우) AC 지점을 원점(환자 좌표계의 (0,0,0) 좌표)으로 만듭니다.</translation>
-    </message>
-    <message>
-        <source>Center volume</source>
-        <translation type="vanished">중앙 볼륨</translation>
-    </message>
-    <message>
-        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="vanished">이 옵션이 활성화되면 출력 변환이 AC 지점을 원점으로 변환합니다. 이 옵션을 비활성화하면 볼륨의 위치가 유지되고 변환은 방향만 변경합니다.</translation>
-    </message>
-    <message>
-        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="vanished">볼륨을 표준 ACPC 좌표계로 이동하는 변환입니다.</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2740,7 +2681,7 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation type="unfinished"></translation>
@@ -4107,7 +4048,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation type="unfinished"></translation>
@@ -6232,7 +6173,7 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6456,11 +6397,11 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6558,9 +6499,9 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
         <translation type="unfinished"></translation>
@@ -6896,11 +6837,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11580,7 +11521,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation>스칼라 값을 기반으로 표시된 모델에 임계값을 적용합니다. 일부 셀 법선이 뒤집힐 수 있으며, 이 경우 표시 옵션에서 
+        <translation>스칼라 값을 기반으로 표시된 모델에 임계값을 적용합니다. 일부 셀 법선이 뒤집힐 수 있으며, 이 경우 표시 옵션에서
 &quot;후면&quot; 및 &quot;앞면&quot;를 끄기로 설정하여 모든 셀을 시각화해야 합니다.</translation>
     </message>
     <message>
@@ -12478,8 +12419,8 @@ Do you want to crop the segmentation?
         <oldsource>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</oldsource>
-        <translation type="unfinished">이것은 마스터 표현입니다. 
-  1. 이 표현은 디스크에 저장 
+        <translation type="unfinished">이것은 마스터 표현입니다.
+  1. 이 표현은 디스크에 저장
   2. 이 표현이 수정되면 나머지는 지워짐</translation>
     </message>
     <message>
@@ -12578,11 +12519,11 @@ This may mean losing important data that cannot be created again from the new ma
 (Reminder: Master representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing master representation?</source>
-        <translation type="vanished">마스터 표현을 변경하면 &apos;gold standard&apos; 표현이 선택된 것으로 만들어지고 다른 모든 표현이 삭제됩니다. 
-이는 새로운 마스터 표현에서 다시 생성할 수 없는 중요한 데이터가 손실된다는 것을 의미할 수 있습니다. 
- 
-(주의: 마스터 표현은 디스크에 저장되고 다른 표현을 생성할 때 입력으로 사용되는 데이터 유형) 
- 
+        <translation type="vanished">마스터 표현을 변경하면 &apos;gold standard&apos; 표현이 선택된 것으로 만들어지고 다른 모든 표현이 삭제됩니다.
+이는 새로운 마스터 표현에서 다시 생성할 수 없는 중요한 데이터가 손실된다는 것을 의미할 수 있습니다.
+
+(주의: 마스터 표현은 디스크에 저장되고 다른 표현을 생성할 때 입력으로 사용되는 데이터 유형)
+
 마스터 표현 변경을 계속하겠습니까?</translation>
     </message>
 </context>
@@ -13808,8 +13749,8 @@ Do you wish to proceed with changing master representation?</source>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation>새로운 변환을 설정하기 전에 이미 적용된 모든 변환을 강화하겠습니까? 
- 
+        <translation>새로운 변환을 설정하기 전에 이미 적용된 모든 변환을 강화하겠습니까?
+
   참고: 아니요를 선택하면 적용된 변환이 단순히 대체됩니다.</translation>
     </message>
 </context>
@@ -13906,9 +13847,9 @@ Do you wish to proceed with changing master representation?</source>
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation>삭제된 주제 계층 항목에는 하위 항목이 있습니다. 그것들도 제거하겠습니까? 
- 
-예를 선택하면 모든 하위 항목을 포함하여 전체 분기가 삭제됩니다. 
+        <translation>삭제된 주제 계층 항목에는 하위 항목이 있습니다. 그것들도 제거하겠습니까?
+
+예를 선택하면 모든 하위 항목을 포함하여 전체 분기가 삭제됩니다.
 모두 예를 선택하면 이 질문이 다시 나타나지 않고 모든 주제 계층 하위 항목이 자동으로 삭제됩니다. 이는 나중에 애플리케이션 설정에서 변경할 수 있습니다.</translation>
     </message>
 </context>
@@ -14959,11 +14900,11 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Set the prefix of the unit.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;The unit prefix will be displayed in the application before the unit&apos;s value. For example, the prefix &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot; could be used before an unit.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt; 
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt; 
-p, li { white-space: pre-wrap; } 
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;단위의 접두사를 설정합니다.&lt;/span&gt;&lt;/p&gt; 
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;단위의 접두사를 설정합니다.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;단위 접두사는 단위 값보다 먼저 애플리케이션에 표시됩니다. 예를 들어, 접두사 &amp;quot;&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;$&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;&amp;quot;는 단위 앞에 사용할 수 있습니다.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -15001,7 +14942,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;장치에 가능한 최대값을 설정합니다.&lt;/span&gt;&lt;/p&gt; 
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;장치에 가능한 최대값을 설정합니다.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;예를 들어, 속도 단위 (&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;m.s&lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600; vertical-align:super;&quot;&gt;-1&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;)는 최대 3e6이어야 합니다. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -15021,7 +14962,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;단위의 정밀도(유효 자릿수)를 설정합니다.&lt;/span&gt;&lt;/p&gt; 
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;단위의 정밀도(유효 자릿수)를 설정합니다.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;이것은 GUI에서 현재 단위에 대해 입력할 수 있는 자릿수를 결정하는 데 사용됩니다. 예를 들어, &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;정밀도&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;가 3인 경우 1.0123 1.112로 반올림됩니다.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -15041,7 +14982,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;장치에 가능한 최소값을 설정합니다.&lt;/p&gt; 
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;장치에 가능한 최소값을 설정합니다.&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;예를 들어, 온도 단위 (&lt;span style=&quot; font-weight:600;&quot;&gt;Kelvin&lt;/span&gt;)은 최소 0 이어야 합니다. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
@@ -15850,9 +15791,9 @@ p, li { white-space: pre-wrap; }
 Graphics capabilities of this computer:
 
 </source>
-        <translation>자세한 정보 및 도움말 보기: 
-%1/user_guide/get_help.html#slicer-application-does-not-start 
- 
+        <translation>자세한 정보 및 도움말 보기:
+%1/user_guide/get_help.html#slicer-application-does-not-start
+
 이 컴퓨터의 그래픽 기능:
 
 </translation>
@@ -16651,7 +16592,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation>선택하면 내보낸 DICOM 파일이 지정된 폴더에 기록됩니다. 
+        <translation>선택하면 내보낸 DICOM 파일이 지정된 폴더에 기록됩니다.
 선택하지 않으면 내보낸 데이터 세트가 DICOM 데이터베이스에 추가됩니다.</translation>
     </message>
     <message>
@@ -19643,7 +19584,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation type="unfinished">테이블 노드에서 제어점 좌표 및 속성을 가져옵니다. 
+        <translation type="unfinished">테이블 노드에서 제어점 좌표 및 속성을 가져옵니다.
 테이블 열 이름: 레이블, r, a, s, (또는 l, p, s), 정의됨, 선택됨, 표시됨, 잠김, 설명.</translation>
     </message>
 </context>
@@ -20973,9 +20914,9 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
 &quot;%1&quot;
 %2.
 Please choose an empty directory.</source>
-        <translation>선택한 디렉토리 
-&quot;%1&quot; 
-%2. 
+        <translation>선택한 디렉토리
+&quot;%1&quot;
+%2.
 빈 디렉토리를 선택하세요.</translation>
     </message>
 </context>
@@ -22868,7 +22809,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;스타일 플러그인 경로를 추가합니다.&lt;/span&gt;&lt;/p&gt; 
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;스타일 플러그인 경로를 추가합니다.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;스타일 플러그인 경로를 추가하면 이 스타일 플러그인 (따라서 모든 스타일)이 애플리케이션에 접속할 수 있습니다. 이 작업을 &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;요청&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;하려면 응용 프로그램을 다시 시작해야 합니다.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -22890,7 +22831,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;현재 선택된 스타일 플러그인 경로를 제거합니다.&lt;/span&gt;&lt;/p&gt; 
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;현재 선택된 스타일 플러그인 경로를 제거합니다.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;스타일 플러그인 경로를 제거하면 다음에 응용 프로그램을 열 때 이 스타일 플러그인 (및 모든 스타일)에 접속할 수 없게 됩니다. 이 작업을 &lt;/span&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;요청&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;하려면 애플리케이션을 다시 시작해야 합니다.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -24103,8 +24044,8 @@ Tags: %5</source>
         <source>Do you want to harden all already applied transforms before setting the new one?
 
   Note: If you choose no, then the applied transform will simply be replaced.</source>
-        <translation>새로운 변환을 설정하기 전에 이미 적용된 모든 변환을 강화하시겠습니까? 
- 
+        <translation>새로운 변환을 설정하기 전에 이미 적용된 모든 변환을 강화하시겠습니까?
+
   참고: 아니요를 선택하면 적용된 변환이 단순히 대체됩니다.</translation>
     </message>
     <message>
@@ -24826,7 +24767,7 @@ Tags: %5</source>
         <source>There is a file with name &apos;%1&apos; in the stored contexts.
 
 Do you wish to update the stored context file with the just loaded one?</source>
-        <translation>저장된 컨텍스트에 이름이 &apos;%1&apos;인 파일이 있습니다. 
+        <translation>저장된 컨텍스트에 이름이 &apos;%1&apos;인 파일이 있습니다.
 
 방금 불러온 컨텍스트 파일로 저장된 컨텍스트 파일을 업데이트하겠습니까?</translation>
     </message>
@@ -25095,7 +25036,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="43"/>
         <source>Show all the units&apos; properties.
 This should only used by advanced users who understand the consequences of changing a unit&apos;s property.</source>
-        <translation>모든 유닛의 속성을 표시합니다. 
+        <translation>모든 유닛의 속성을 표시합니다.
 유닛 속성 변경의 결과를 이해하는 고급 사용자만 사용해야 합니다.</translation>
     </message>
     <message>

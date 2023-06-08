@@ -2,65 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_BR" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">Transformação ACPC</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Calcula a transformação que alinha imagens cerebrais ao &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Sistema de Coordenadas Talairach &lt;/a&gt; (também conhecido como Sistema estereotáxico ou Sistema ACPC) com base em marcadores anatômicos.&lt;/p&gt;&lt;p&gt;A linha ACPC liga dois pontos, um na comissura anterior e um na comissura posterior. A transformação resultante trará a linha que conecta os dois pontos para o plano horizontal ao eixo antero-porterior (AP).&lt;/p&gt;&lt;p&gt;A linha média é uma série de pontos (pelo menos 3) que define a divisão entre os hemisférios cerebrais (plano sagital medial). A transformação resultante deverá gerar um volume de saída que tem o plano sagital medial alinhado com o plano antero-superior (AS) da imagem.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Reamostrar Volume Escalar/Vetorial/DWI&lt;/b&gt; para aplicar a transformação a um volume.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="vanished">Este trabalho faz parte da Aliança Nacional para a Computação de Imagens Médicas (NAMIC), financiado pelos Intitutos Nacionais de Saúde através da Trilha de Pesquisa Médica do NIH, Grant U54 EB005149.</translation>
-    </message>
-    <message>
-        <source>Input landmarks</source>
-        <translation type="vanished">Marcadores de entrada</translation>
-    </message>
-    <message>
-        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="vanished">Marcadores anatômicos que serão usados para calcular a transformação ACPC.</translation>
-    </message>
-    <message>
-        <source>ACPC line</source>
-        <translation type="vanished">Linha ACPC</translation>
-    </message>
-    <message>
-        <source>Midline</source>
-        <translation type="vanished">Linha média</translation>
-    </message>
-    <message>
-        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="vanished">Linha ACPC, conecta um ponto na comissura anterior com um ponto na comissura posterior.</translation>
-    </message>
-    <message>
-        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="vanished">A linha média é uma série de pontos (pelo menos 3) posicionados no plano sagital medial, definindo a divisão entre os hemisférios cerebrais.</translation>
-    </message>
-    <message>
-        <source>Output transform</source>
-        <translation type="vanished">Transformação resultante</translation>
-    </message>
-    <message>
-        <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="vanished">Transformação calculada (translação rígida e rotação) que o módulo processa a partir dos marcadores de entrada. Se esta transformação for aplicada à imagem, então ela fará com que a linha ACPC esteja na &quot;horizontal&quot; (no eixo AP do sistema de coordenadas do paciente), alinhada ao plano sagital medial &quot;vertical&quot; (ajustada ao plano AS do sistema de coordenadas do paciente), e (se Centralizar Imagem estiver habilitado) fará com que o ponto AC fique na origem ( coordenada (0,0,0) do sistema de coordenadas do paciente).</translation>
-    </message>
-    <message>
-        <source>Center volume</source>
-        <translation type="vanished">Centralizar imagem</translation>
-    </message>
-    <message>
-        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="vanished">Se esta opção estiver habilitada, a transformação resultante irá transladar o ponto AC para a origem. Se esta opção estiver desabilitada, a posição da imagem será preservada e a transformação mudará apenas a orientação.</translation>
-    </message>
-    <message>
-        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="vanished">Transformação que move a imagem para o sistema de coordenadas ACPC padrão.</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2756,12 +2697,12 @@ Permite a conversão para o mesmo tipo do volume de entrada.</translation>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation>Executa a difusão anisotrópica em uma imagem usando uma equação de difusão de curvatura modificada (MCDE).
 
-O MCDE não exibe as propriedades de aprimoramento de borda da difusão anisotrópica clássica, que pode, sob certas condições, sofrer uma difusão &apos;negativa&apos;, o que aumenta o contraste das bordas.  As equações da forma de MCDE sempre sofrem difusão positiva, com o termo de condutância variando apenas a força dessa difusão. 
+O MCDE não exibe as propriedades de aprimoramento de borda da difusão anisotrópica clássica, que pode, sob certas condições, sofrer uma difusão &apos;negativa&apos;, o que aumenta o contraste das bordas.  As equações da forma de MCDE sempre sofrem difusão positiva, com o termo de condutância variando apenas a força dessa difusão.
 
  Qualitativamente, o MCDE se compara bem com outras técnicas de difusão não linear.  É menos sensível ao contraste do que a difusão clássica do estilo Perona-Malik e preserva estruturas detalhadas mais finas nas imagens.  Há uma compensação potencial de velocidade para usar esta função no lugar de Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</translation>
     </message>
@@ -4130,7 +4071,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation>GrayscaleFillholeImageFilter preenche buracos em uma imagem em tons de cinza.  Buracos são mínimos locais na topografia em tons de cinza que não estão conectados aos limites da imagem. Os valores de nível de cinza adjacentes a um furo são extrapolados ao longo do furo.
@@ -6280,9 +6221,9 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
-        <translation>Tensão finita (FS) ou 
+        <translation>Tensão finita (FS) ou
 Preservação da Direção Principal (PPD)</translation>
     </message>
     <message>
@@ -6505,17 +6446,17 @@ Preservação da Direção Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
-        <translation>Função da Janela 
-h = Hamming 
-c = Cosseno 
-w = Welch 
-l = Lanczos 
+        <translation>Função da Janela
+h = Hamming
+c = Cosseno
+w = Welch
+l = Lanczos
 b = Blackman</translation>
     </message>
     <message>
@@ -6614,9 +6555,9 @@ a = Transformação afim</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
         <translation>Este módulo implementa a reamostragem de imagem escalar e vetorial por meio do uso de itk Transforms. Ele também pode lidar com reamostragem de imagem de ressonância magnética ponderada por difusão (DWI). &quot;Reamostragem&quot; é executada em coordenadas de espaço, não em coordenadas de pixel/grade. É muito importante garantir que o espaçamento da imagem seja definido corretamente nas imagens envolvidas. O interpolador é necessário, pois o mapeamento de um espaço para o outro geralmente requer avaliação da intensidade da imagem em posições fora da grade.
@@ -6956,17 +6897,17 @@ Aviso: não use para reamostrar as imagens do tensor de difusão, os tensores n�
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
-        <translation>Função da Janela 
-h = Hamming 
-c = Cosseno 
-w = Welch 
-l = Lanczos 
+        <translation>Função da Janela
+h = Hamming
+c = Cosseno
+w = Welch
+l = Lanczos
 b = Blackman</translation>
     </message>
     <message>

@@ -2,57 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="es_419" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">Transformada ACPC</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Calcular una transformación que alinee las imágenes cerebrales a un  &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;sistema de coordenadas de Talairach&lt;/a&gt; (también conocido como estereotáxico o sistema coordenado ACPC) basado en marcadores anatómicos.&lt;/p&gt;&lt;p&gt;La línea de ACPC se extiende entre dos puntos, uno en la comisura anterior y otro en la comisura posterior. La transformada resultante creará una línea que conecta dos puntos horizontales al eje AP.&lt;/p&gt;&lt;p&gt; La línea media es una serie de puntos (al menos 3) que define la división entre los hemisferios del cerebro (el plano medio sagital). La transformada resultante entregará el volumen de salida cuando el plano medio sagital esté alineado con el plano AS.&lt;/p&gt;&lt;p&gt;Utilice &lt;b&gt;Remuestrear Escalar/Vector/Volumen DWI&lt;/b&gt; para aplicar la transformación a un volumen.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="vanished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
-    </message>
-    <message>
-        <source>Input landmarks</source>
-        <translation type="vanished">Marcadores de entrada</translation>
-    </message>
-    <message>
-        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="vanished">Marcadores anatómicos que se utilizarán para calcular la transformada ACPC.</translation>
-    </message>
-    <message>
-        <source>ACPC line</source>
-        <translation type="vanished">línea ACPC</translation>
-    </message>
-    <message>
-        <source>Midline</source>
-        <translation type="vanished">Línea media</translation>
-    </message>
-    <message>
-        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="vanished">Línea ACPC, que conecta un punto en la comisura anterior con un punto en la comisura posterior.</translation>
-    </message>
-    <message>
-        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="vanished">La línea media es una serie de puntos (al menos 3) colocadas en el plano medio sagital, definiendo la división ente los hemisferios del cerebro.</translation>
-    </message>
-    <message>
-        <source>Output transform</source>
-        <translation type="vanished">Transformada de salida</translation>
-    </message>
-    <message>
-        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="vanished">Si esta opción está habilitada entonces la transformada de salida trasladará el punto AC al origen. Si esta opción está inhabilitada entonces la posición del volumen se conservará y la transformada sólo cambiará la orientación.</translation>
-    </message>
-    <message>
-        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="vanished">Transformada que mueve el volumen al sistema coordenado estándar ACPC.</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2720,7 +2669,7 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation type="unfinished"></translation>
@@ -4088,7 +4037,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation type="unfinished"></translation>
@@ -6213,7 +6162,7 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6437,11 +6386,11 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6539,9 +6488,9 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
         <translation type="unfinished"></translation>
@@ -6877,11 +6826,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>

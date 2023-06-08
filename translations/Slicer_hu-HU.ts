@@ -2,65 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="hu" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">ACPC transzformáció</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt; Kiszámítja a transzformációt, amely agyi képeket a &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach koordinátarendszerhez&lt;/a&gt; (más néven sztereotaxiás vagy ACPC koordinátarendszerhez) igazítja anatómiai pontok alapján. &lt;/p&gt; &lt;p&gt; Az ACPC vonal két pont között húzódik, az egyik az &quot;anterior commissure&quot; (AC), a másik a &quot;posterior commissure&quot; (PC). Az eredményül kapott transzformáció a két pontot &quot;vízszintesre&quot; (az anterio-poszterior tengellyel párhuzamosra) hozza. &lt;/p&gt; &lt;p&gt; A középvonal egy pont sorozat (legalább 3 pont), a két agyféltekét elválasztó sagittális síkon. Az eredményül kapott transzformáció a képen az agy féltekéket elválasztó síkot a koordináta rendszer sagittális síkjába igazítja. &lt;/p&gt; &lt;p&gt; Az &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; használatával alkalmazhatja a transzformációt egy képre. &lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="vanished">Ez a munka a National Alliance for Medical Image Computing (NAMIC) projekt részeként került kifejlesztésre, amelyet a National Institutes of Health támogatott az NIH Roadmap for Medical Research, Grant U54 EB005149 keretében.</translation>
-    </message>
-    <message>
-        <source>Input landmarks</source>
-        <translation type="vanished">Bemeneti pontok</translation>
-    </message>
-    <message>
-        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="vanished">Anatómiai pontok az ACPC transzformáció kiszámításához.</translation>
-    </message>
-    <message>
-        <source>ACPC line</source>
-        <translation type="vanished">ACPC vonal</translation>
-    </message>
-    <message>
-        <source>Midline</source>
-        <translation type="vanished">Középvonal</translation>
-    </message>
-    <message>
-        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="vanished">ACPC-vonal, amely az &quot;anterior commissure&quot; és a &quot;posterior commissure&quot; pontokat köti össze.</translation>
-    </message>
-    <message>
-        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="vanished">Legalább 3 pont a két agyféltekét elválasztó szagittális síkon.</translation>
-    </message>
-    <message>
-        <source>Output transform</source>
-        <translation type="vanished">Kimeneti transzformáció</translation>
-    </message>
-    <message>
-        <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="vanished">A bemeneti pontokból kiszámított merev transzformáció (eltolás és forgatás). Ha a transzformációt egy képre alkalmazzuk, az ACPC vonalat &quot;vízszintesre&quot; (az anterio-poszterior tengellyel párhuzamosra) hozza és a két agyféltekét elválasztó síkot a koordináta rendszer szagittális síkjába igazítja. Ha a középre igazítás engedélyezett akkor az AC pont kerül a páciens koordináta rendszer origójába.</translation>
-    </message>
-    <message>
-        <source>Center volume</source>
-        <translation type="vanished">Középre igazítás</translation>
-    </message>
-    <message>
-        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="vanished">Ha ez az opció engedélyezve van, akkor a kimeneti transzformáció eltolja a képet úgy, hogy az AC pontot az origóba kerüljön. Ha ez az opció ki van kapcsolva, akkor a kép pozíciója megmarad és a transzformáció csak a kép orientációját változtatja meg.</translation>
-    </message>
-    <message>
-        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="vanished">Transzformáció, amely a képet a szabványos ACPC koordináta-rendszerbe helyezi át.</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2736,7 +2677,7 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation type="unfinished"></translation>
@@ -4103,7 +4044,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation type="unfinished"></translation>
@@ -6228,7 +6169,7 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6452,11 +6393,11 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6554,9 +6495,9 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
         <translation type="unfinished"></translation>
@@ -6892,11 +6833,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>

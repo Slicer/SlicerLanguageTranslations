@@ -2,65 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ar_SA" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">تحويل ACPC</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt; احسب التحويل الذي يحاذي صور الدماغ مع &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt; نظام إحداثيات Talairach &lt;/a&gt; (المعروف أيضا باسم نظام الإحداثيات المجسمة أو ACPC) بناء على المعالم التشريحية. &lt;/p&gt; &lt;p&gt; يمتد خط ACPC بين نقطتين ، واحدة في المفصل الأمامي والأخرى عند المفصل الخلفي. سيؤدي التحويل الناتج إلى جلب الخط الذي يربط النقطتين أفقيا بمحور AP. &lt;/p&gt; &lt;p&gt; خط الوسط عبارة عن سلسلة من النقاط (3 على الأقل) تحدد الانقسام بين نصفي الكرة المخية (المستوى السهمي المتوسط). سيؤدي التحويل الناتج إلى حجم الإخراج الذي يحتوي على المستوى السهمي المتوسط مصطفا مع مستوى AS. &lt;/p&gt; &lt;p&gt; استخدم &lt;b&gt; إعادة تشكيل وحدة التخزين العددية / المتجهة / DWI &lt;/b&gt; لتطبيق التحويل على وحدة تخزين. &lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="vanished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC) ، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية ، Grant U54 EB005149.</translation>
-    </message>
-    <message>
-        <source>Input landmarks</source>
-        <translation type="vanished">معالم الإدخال</translation>
-    </message>
-    <message>
-        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="vanished">المعالم التشريحية التي سيتم استخدامها لحساب تحويل ACPC.</translation>
-    </message>
-    <message>
-        <source>ACPC line</source>
-        <translation type="vanished">خط ACPC</translation>
-    </message>
-    <message>
-        <source>Midline</source>
-        <translation type="vanished">خط الوسط</translation>
-    </message>
-    <message>
-        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="vanished">خط ACPC ، يربط نقطة عند المفصل الأمامي بنقطة في المفصل الخلفي.</translation>
-    </message>
-    <message>
-        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="vanished">خط الوسط عبارة عن سلسلة من النقاط (3 على الأقل) موضوعة على المستوى السهمي المتوسط ، تحدد الانقسام بين نصفي الكرة المخية.</translation>
-    </message>
-    <message>
-        <source>Output transform</source>
-        <translation type="vanished">تحويل الإخراج</translation>
-    </message>
-    <message>
-        <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="vanished">التحويل المحسوب (الترجمة الجامدة والتدوير) الذي تحسبه الوحدة من معالم الإدخال. إذا تم تطبيق هذا التحويل على الحجم ، فسيجعل خط ACPC &quot;أفقيا&quot; (يكون في محور AP لنظام إحداثيات المريض) ، ويصطف المستوى السهمي المتوسط &quot;عموديا&quot; (يتناسب مع مستوى AS لنظام إحداثيات المريض) ، و (إذا تم تمكين التوسيط) ثم اجعل نقطة التيار المتردد هي الأصل (الإحداثيات (0،0،0) في نظام إحداثيات المريض).</translation>
-    </message>
-    <message>
-        <source>Center volume</source>
-        <translation type="vanished">مستوى الصوت المركزي</translation>
-    </message>
-    <message>
-        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="vanished">إذا تم تمكين هذا الخيار ، فسيقوم تحويل الإخراج بترجمة نقطة التيار المتردد إلى نقطة الأصل. إذا تم تعطيل هذا الخيار ، الحفاظ على موضع وحدة التخزين وسيؤدي التحويل إلى تغيير الاتجاه فقط.</translation>
-    </message>
-    <message>
-        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="vanished">التحويل الذي ينقل وحدة التخزين إلى نظام إحداثيات ACPC القياسي.</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2753,7 +2694,7 @@ Allows casting to the same type as the input volume.</source>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation type="unfinished"></translation>
@@ -4123,7 +4064,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation type="unfinished"></translation>
@@ -6255,9 +6196,9 @@ The filter assumes that both the source and reference are of the same type and t
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
-        <translation>سلالة محدودة (FS) أو 
+        <translation>سلالة محدودة (FS) أو
 الحفاظ على الاتجاه الرئيسي (PPD)</translation>
     </message>
     <message>
@@ -6480,11 +6421,11 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6584,14 +6525,14 @@ a = تحويل أفين</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation>تنفذ هذه الوحدة إعادة تشكيل الصورة والصورة المتجهة من خلال استخدام تحويلات itk. يمكنه أيضا التعامل مع إعادة تشكيل صورة التصوير بالرنين المغناطيسي المرجحة بالانتشار. يتم تنفيذ &quot;إعادة التشكيل&quot; في إحداثيات الفضاء ، وليس إحداثيات البكسل / الشبكة. من المهم جدا التأكد من تعيين تباعد الصور بشكل صحيح على الصور المعنية. مطلوب الاستيفاء لأن رسم الخرائط من مساحة إلى أخرى سيتطلب غالبا تقييم كثافة الصورة في المواضع غير الشبكية. 
+        <translation>تنفذ هذه الوحدة إعادة تشكيل الصورة والصورة المتجهة من خلال استخدام تحويلات itk. يمكنه أيضا التعامل مع إعادة تشكيل صورة التصوير بالرنين المغناطيسي المرجحة بالانتشار. يتم تنفيذ &quot;إعادة التشكيل&quot; في إحداثيات الفضاء ، وليس إحداثيات البكسل / الشبكة. من المهم جدا التأكد من تعيين تباعد الصور بشكل صحيح على الصور المعنية. مطلوب الاستيفاء لأن رسم الخرائط من مساحة إلى أخرى سيتطلب غالبا تقييم كثافة الصورة في المواضع غير الشبكية.
 
-تحذير: لإعادة تشكيل صور DWMR ، استخدم ملفات الإدخال والإخراج nrrd. 
+تحذير: لإعادة تشكيل صور DWMR ، استخدم ملفات الإدخال والإخراج nrrd.
 
 تحذير: لا تستخدم لإعادة تشكيل صور موتر الانتشار ، لن يتم إعادة توجيه الموترات</translation>
     </message>
@@ -6926,11 +6867,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>

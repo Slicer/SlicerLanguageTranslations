@@ -2,65 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="ca" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">Transformada CACP</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt; Calcula una transformació que alinea les imatges cerebrals amb el sistema de coordenades &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach&lt;/a&gt; (també conegut com a sistema de coordenades estereotàxiques o CACP) basant-se en referències anatòmiques. &lt;/p&gt; &lt;p&gt; La línia CACP s&apos;estén entre dos punts, un a la comissaria anterior i un altre a la comissaria posterior. La transformada resultant portarà la línia que connecta els dos punts horitzontalment amb l&apos;eix AP. &lt;/p&gt; &lt;p&gt; La línia mitjana és una sèrie de punts (almenys 3) que defineixen la divisió entre els hemisferis del cervell (el pla sagital mitjà). La transformada resultant donarà com a resultat que el volum de sortida tingui el pla sagital mitjà alineat amb el pla AS. &lt;/p&gt; &lt;p&gt; Utilitza &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; per a aplicar la transformació a un volum. &lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="vanished">Aquest treball forma part de l&apos;Aliança Nacional per a la Computació de la Imatge Mèdica (NAMIC), finançat pel Institut Nacional de Salut a través del NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
-    </message>
-    <message>
-        <source>Input landmarks</source>
-        <translation type="vanished">Referències d&apos;entrada</translation>
-    </message>
-    <message>
-        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="vanished">Referències anatòmiques que s&apos;utilitzaran per a calcular la transformada CACP.</translation>
-    </message>
-    <message>
-        <source>ACPC line</source>
-        <translation type="vanished">Línia CACP</translation>
-    </message>
-    <message>
-        <source>Midline</source>
-        <translation type="vanished">Línia mitjana</translation>
-    </message>
-    <message>
-        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="vanished">Línia CACP, que connecta un punt de la comissura anterior amb un punt de la comissura posterior.</translation>
-    </message>
-    <message>
-        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="vanished">La línia mitjana és una sèrie de punts (almenys 3) situats al pla sagital mitjà, que defineixen la divisió entre els hemisferis del cervell.</translation>
-    </message>
-    <message>
-        <source>Output transform</source>
-        <translation type="vanished">Transformada de sortida</translation>
-    </message>
-    <message>
-        <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="vanished">Transformació calculada (translació i rotació rígides) que el mòdul calcula a partir de les referències d&apos;entrada. Si aquesta transformació s&apos;aplica al volum, farà que la línia CACP sigui «horitzontal» (a l&apos;eix AP del sistema de coordenades del pacient), alinear el pla sagital mitjà «vertical» (al pla SA del sistema de coordenades del pacient). ), i (si el centratge està habilitat), fa que el punt CA sigui l&apos;origen (la coordenada (0,0,0) al sistema de coordenades del pacient).</translation>
-    </message>
-    <message>
-        <source>Center volume</source>
-        <translation type="vanished">Centrar el volum</translation>
-    </message>
-    <message>
-        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="vanished">Si aquesta opció està habilitada, la transformada de sortida traduirà el punt CA a l&apos;origen. Si aquesta opció està desactivada, es conservarà la posició del volum i la transformada només canviarà l&apos;orientació.</translation>
-    </message>
-    <message>
-        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="vanished">Transformada que mou el volum al sistema de coordenades CACP estàndard.</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2756,12 +2697,12 @@ Permet llançar el mateix tipus que el volum d&apos;entrada.</translation>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation>Realitza una difusió anisotròpica sobre una imatge utilitzant una equació de difusió de curvatura modificada (MCDE).
 
-MCDE no exhibeix les propietats de millora de la vora de la difusió anisotròpica clàssica, que en determinades condicions pot patir una difusió &quot;negativa&quot;, que millora el contrast de les vores.  Les equacions de la forma de MCDE sempre experimenten difusió positiva, amb el terme conductància només variant la força d&apos;aquesta difusió. 
+MCDE no exhibeix les propietats de millora de la vora de la difusió anisotròpica clàssica, que en determinades condicions pot patir una difusió &quot;negativa&quot;, que millora el contrast de les vores.  Les equacions de la forma de MCDE sempre experimenten difusió positiva, amb el terme conductància només variant la força d&apos;aquesta difusió.
 
 Qualitativament, MCDE es compara bé amb altres tècniques de difusió no lineal.  És menys sensible al contrast que la difusió clàssica de l&apos;estil Perona-Malik, i conserva estructures detallades més fines en les imatges.  Hi ha una compensació de velocitat potencial per utilitzar aquesta funció en lloc de degradat difusió anisotròpica.  Cada iteració de la solució triga aproximadament el doble de temps.  No obstant això, es poden requerir menys iteracions per arribar a una solució acceptable.</translation>
     </message>
@@ -4130,7 +4071,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation>GrayscaleFillholeImageFilter omple els forats en una imatge en escala de grisos.  Els forats són mínims locals a la topografia en escala de grisos que no estan connectats amb els límits de la imatge. Els valors de nivell de gris adjacents a un forat s&apos;extrapolen al llarg del forat.
@@ -6280,9 +6221,9 @@ El filtre assumeix que tant la font com la referència són del mateix tipus i q
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
-        <translation>Esforç Finit (FS) o 
+        <translation>Esforç Finit (FS) o
 Preservació de la Direcció Principal (PPD)</translation>
     </message>
     <message>
@@ -6505,11 +6446,11 @@ Preservació de la Direcció Principal (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6609,14 +6550,14 @@ a = Transformada afí</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
-        <translation>Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformades ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules. 
+        <translation>Aquest mòdul implementa el remostreig d&apos;imatges i imatges vectorials mitjançant l&apos;ús de transformades ITK. També pot gestionar el remostreig d&apos;IRM ponderades per difusió. El «remostreig» es realitza en coordenades espacials, no en coordenades de píxels/quadrícules. És molt important assegurar-se que l&apos;espaiat de la imatge estigui configurat correctament a les imatges implicades. L&apos;interpolador és necessari ja que el mapatge d&apos;un espai a l&apos;altre sovint requerirà una avaluació de la intensitat de la imatge en posicions no quadrícules.
 
-Advertència: Per canviar les imatges DWMR, utilitza fitxers d&apos;entrada i sortida de nrrd. 
+Advertència: Per canviar les imatges DWMR, utilitza fitxers d&apos;entrada i sortida de nrrd.
 
 Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensors no es reorientarien</translation>
     </message>
@@ -6951,11 +6892,11 @@ Advertència: No utilitzis per canviar imatges de tensor de difusió, els tensor
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22549,7 +22490,7 @@ Per defecte: https://slicer.readthedocs.io/{language}/{version}</translation>
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
         <translation>Especifica l&apos;URL per a la documentació del mòdul.
-Espais disponibles: {documentationbaseurl}, {lowercasemodulename}. 
+Espais disponibles: {documentationbaseurl}, {lowercasemodulename}.
 Per defecte: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.htm</translation>
     </message>
     <message>

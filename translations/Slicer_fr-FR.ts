@@ -2,65 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr" sourcelanguage="en">
 <context>
-    <name>CLI_ACPCTransform</name>
-    <message>
-        <source>ACPC Transform</source>
-        <translation type="vanished">Transformation CACP</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Calculate a transformation that aligns brain images to &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;Talairach coordinate system&lt;/a&gt; (also known as stereotaxic or ACPC coordinate system) based on anatomical landmarks.&lt;/p&gt;&lt;p&gt;The ACPC line extends between two points, one at the anterior commissure and one at the posterior commissure. The resulting transform will bring the line connecting the two points horizontal to the AP axis.&lt;/p&gt;&lt;p&gt;The midline is a series of points (at least 3) defining the division between the hemispheres of the brain (the mid sagittal plane). The resulting transform will result in the output volume having the mid sagittal plane lined up with the AS plane.&lt;/p&gt;&lt;p&gt;Use &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; to apply the transformation to a volume.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Calculer une transformation qui aligne les images cérébrales sur le &lt;a href=&quot;https://en.wikipedia.org/wiki/Talairach_coordinates&quot;&gt;système de coordonnées de Talairach&lt;/a&gt; (également connu sous le nom de système de coordonnées stéréotaxique ou ACPC) basé sur repères anatomiques.&lt;/p&gt;&lt;p&gt;La ligne ACPC s&apos;étend entre deux points, un à la commissure antérieure et un à la commissure postérieure. La transformation résultante amènera la ligne reliant les deux points horizontalement à l&apos;axe AP.&lt;/p&gt;&lt;p&gt;La ligne médiane est une série de points (au moins 3) définissant la division entre les hémisphères du cerveau (le plan sagittal médian ). La transformation résultante aura pour résultat que le volume de sortie aura le plan sagittal médian aligné avec le plan AS.&lt;/p&gt;&lt;p&gt;Utilisez &lt;b&gt;Resample Scalar/Vector/DWI Volume&lt;/b&gt; pour appliquer la transformation à un volume .&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="vanished">Ce travail est mené dans le cadre de la National Alliance for Medical Image Computing (NAMIC), financé par les National Institutes of Health par le biais du programme NIH Roadmap for Medical Research, subvention U54 EB005149.</translation>
-    </message>
-    <message>
-        <source>Input landmarks</source>
-        <translation type="vanished">Points de repère d&apos;entrée</translation>
-    </message>
-    <message>
-        <source>Anatomical landmarks that will be used for computing the ACPC transform.</source>
-        <translation type="vanished">Les repères atomiques qui seront utilisés pour calculer la transformation ACPC</translation>
-    </message>
-    <message>
-        <source>ACPC line</source>
-        <translation type="vanished">Ligne ACPC</translation>
-    </message>
-    <message>
-        <source>Midline</source>
-        <translation type="vanished">Ligne médiane</translation>
-    </message>
-    <message>
-        <source>ACPC line, connecting a point at the anterior commissure with a point at the posterior commissure.</source>
-        <translation type="vanished">La ligne CAPC, reliant un point à la commissure antérieure à un point à la commissure postérieure.</translation>
-    </message>
-    <message>
-        <source>The midline is a series of points (at least 3) placed on the mid sagittal plane, defining the division between the hemispheres of the brain.</source>
-        <translation type="vanished">La ligne médiane est une série de points (minimum trois points) placée au milieu du plan sagittal caractérisant la division entre les hémisphères du cerveau.</translation>
-    </message>
-    <message>
-        <source>Output transform</source>
-        <translation type="vanished">Transformation de la sortie</translation>
-    </message>
-    <message>
-        <source>Computed transformation (rigid translation and rotation) that the module computes from the input landmarks. If this transformation is applied to the volume then it will make the ACPC line &quot;horizontal&quot; (be in AP axis of the patient coordinate system), line up the mid sagittal plane &quot;vertical&quot; (fit on the AS plane of the patient coordinate system), and (if centering is enabled) then make the AC point the origin (the (0,0,0) coordinate in the patient coordinate system).</source>
-        <translation type="vanished">Transformation calculée (translation et rotation rigides) que le module calcule à partir des repères d&apos;entrée. Si cette transformation est appliquée au volume, elle rendra la ligne ACPC &quot;horizontale&quot; (soit dans l&apos;axe AP du système de coordonnées du patient), alignera le plan sagittal médian &quot;vertical&quot; (s&apos;ajustera sur le plan AS du système de coordonnées du patient ), et (si le centrage est activé) faites du point AC l&apos;origine (la coordonnée (0,0,0) dans le système de coordonnées du patient).</translation>
-    </message>
-    <message>
-        <source>Center volume</source>
-        <translation type="vanished">Centrer le volume</translation>
-    </message>
-    <message>
-        <source>If this option is enabled then the output transform will translate the AC point to the origin. If this option is disabled then the position of the volume will be preserved and transform will only change the orientation.</source>
-        <translation type="vanished">Si cette option est activée, la transformation de sortie traduira le point AC vers l&apos;origine. Si cette option est désactivée, la position du volume sera conservée et la transformation ne changera que l&apos;orientation.</translation>
-    </message>
-    <message>
-        <source>Transform that moves the volume to standard ACPC coordinate system.</source>
-        <translation type="vanished">La Transformation qui déplace le volume vers le Système de coordonnée CACP normal.</translation>
-    </message>
-</context>
-<context>
     <name>CLI_AddScalarVolumes</name>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
@@ -2751,7 +2692,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
         <source>Performs anisotropic diffusion on an image using a modified curvature diffusion equation (MCDE).
 
-MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion. 
+MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</source>
         <translation>Effectue une diffusion anisotrope sur une image à l&apos;aide d&apos;une équation de diffusion de courbure modifiée (MCDE).
@@ -4125,7 +4066,7 @@ This filter is used to smooth over local minima without affecting the values of 
 
 This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own input as the &quot;mask&quot; input to the geodesic erosion.  The &quot;marker&quot; image for the geodesic erosion is constructed such that boundary pixels match the boundary pixels of the input image and the interior pixels are set to the maximum pixel value in the input image.
 
- Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003. 
+ Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</source>
         <translation>GrayscaleFillholeImageFilter remplit les trous dans une image en niveaux de gris. Les trous sont des minima locaux dans la topographie en niveaux de gris qui ne sont pas connectés aux limites de l&apos;image. Les valeurs de niveau de gris adjacentes à un trou sont extrapolées à travers le trou.
@@ -6274,7 +6215,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
-        <source>Finite Strain (FS) or 
+        <source>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6498,11 +6439,11 @@ Preservation of the Principal Direction (PPD)</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6600,9 +6541,9 @@ a = Affine Transform</source>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
-        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. 
+        <source>This module implements image and vector-image resampling through  the use of itk Transforms. It can also handle diffusion weighted MRI image resampling. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.
 
-Warning: To resample DWMR Images, use nrrd input and output files. 
+Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</source>
         <translation type="unfinished"></translation>
@@ -6938,11 +6879,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="75"/>
-        <source>Window Function 
-h = Hamming 
-c = Cosine 
-w = Welch 
-l = Lanczos 
+        <source>Window Function
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
 b = Blackman</source>
         <translation type="unfinished"></translation>
     </message>
