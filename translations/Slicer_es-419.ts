@@ -26033,7 +26033,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo se respaldó por NA-MIC, NAC, BIRN, NCIGT, CTSC y la comunidad Slicer. Vea &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org2&lt;/a&gt; para más detalles. También nos gustaría expresar nuestra más sincera gratitud a los miembros de la Comunidad de usuarios de Slicer quienes nos han ayudado a diseñar el contenido del Módulo de Bienvenida, y cuyos comentarios siguen mejorando la funcionalidad, la facilidad de uso y la experiencia del usuario de Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
@@ -26051,13 +26051,13 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
         <source>Download Sample Data</source>
-        <translation>Descargar Datos de Muestra</translation>
+        <translation>Descargar Datos de muestra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation>Utilice el asistente &quot;Administrador de Extensiones&quot; que permite encontrar, descargar e instalar extensiones de Slicer.&lt;br&gt;&lt;br&gt;Una extensión es un paquete que conjunta uno o más módulos de Slicer.&lt;br&gt;&lt;br&gt;Tras instalar una extensión, los módulos asociados estarán disponibles en el selector de módulos.</translation>
+        <translation>Utilice el asistente &quot;Administrador de extensiones&quot; que permite encontrar, descargar e instalar extensiones de Slicer.&lt;br&gt;&lt;br&gt;Una extensión es un paquete que conjunta uno o más módulos de Slicer.&lt;br&gt;&lt;br&gt;Tras instalar una extensión, los módulos asociados estarán disponibles en el selector de módulos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
@@ -26092,7 +26092,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation>Una nueva versión de la aplicación está disponible. Clic en el botón para ir a la página de descarga.</translation>
+        <translation>Una nueva versión de la aplicación está disponible. Dar clic en el botón para ir a la página de descarga.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
@@ -26170,7 +26170,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="407"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
-        <translation>Clic en el botón para buscar actualizaciones ahora. Note que las estadísticas de uso anonimizadas serán registradas.</translation>
+        <translation>Dar clic en el botón para buscar actualizaciones ahora. Note que las estadísticas de uso anonimizadas serán registradas.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
