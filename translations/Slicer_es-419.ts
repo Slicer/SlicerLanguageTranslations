@@ -17774,7 +17774,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="457"/>
         <source>Manage Extensions (%1)</source>
         <extracomment>%1 represents the number of managed extensions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Administrar extensiones (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="487"/>
