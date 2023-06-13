@@ -8465,7 +8465,7 @@ indicated by the mouse position.
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="46"/>
         <source>Add Data (or Scene)</source>
-        <translation type="unfinished">Add Data (or Scene)</translation>
+        <translation>Añadir datos (o escena)</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/Testing/Python/Resources/UI/ScenePerformance.ui" line="51"/>
@@ -9262,7 +9262,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="99"/>
         <source>Loaded data</source>
-        <translation>Cargar datos</translation>
+        <translation>Datos cargados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="113"/>
@@ -9327,7 +9327,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="243"/>
         <source>Hide DICOM database browser after data loaded</source>
-        <translation>Ocultar el navegador de bases de datos DICOM después de cargar los datos</translation>
+        <translation>Ocultar el navegador de base de datos DICOM después de cargar los datos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="253"/>
@@ -26087,7 +26087,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="141"/>
         <source>Explore Added Data</source>
-        <translation>Explorar Datos Añadidos</translation>
+        <translation>Explorar datos añadidos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
@@ -26121,7 +26121,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; es una plataforma de software libre de código abierto para el procesamiento de imágenes médcas y la visualización 3D de datos de imagen. Este módulo contiene información básica y enlaces útiles para empezar a utilizar Slicer. Para más información, visite nuestro sitio web &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; es una plataforma de software libre de código abierto para el procesamiento de imágenes médicas y la visualización 3D de datos de imagen. Este módulo contiene información básica y enlaces útiles para empezar a utilizar Slicer. Para más información, visite nuestro sitio web &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; se distribuye bajo una licencia de estilo BSD; para más detalles sobre la contribución y el acuerdo de licencia de software, consulte el &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Acuerdo de licencia de software de 3D Slicer&lt;/a&gt;. Este software ha sido diseñado únicamente con fines de investigación y no ha sido revisado ni aprobado por la Food and Drug Administration, ni por ningún otro organismo.&lt;/p&gt;</translation>
     </message>
     <message>
