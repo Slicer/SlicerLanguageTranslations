@@ -18571,7 +18571,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="609"/>
         <source>Ctrl+6</source>
-        <translation>Ctrl+9</translation>
+        <translation>Ctrl+6</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="614"/>
@@ -20033,7 +20033,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="14"/>
         <source>Module finder</source>
-        <translation type="unfinished">Module finder</translation>
+        <translation>Búsqueda de módulos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="80"/>
