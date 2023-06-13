@@ -17349,7 +17349,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>Desinstalar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="102"/>
