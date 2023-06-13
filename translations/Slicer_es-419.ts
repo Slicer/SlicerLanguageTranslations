@@ -16634,8 +16634,8 @@ Graphics capabilities of this computer:
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="238"/>
         <source>If checked, the exported DICOM files will be written into the specified folder.
 If unchecked, the exported dataset will be added to the DICOM database.</source>
-        <translation type="unfinished">If checked, the exported DICOM files will be written into the specified folder.
-If unchecked, the exported dataset will be added to the DICOM database.</translation>
+        <translation>Si está marcada, los archivos DICOM exportados se escribirán en la carpeta especificada.
+Si no está marcada, el conjunto de datos exportado se añadirá a la base de datos DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="242"/>
@@ -16645,7 +16645,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="252"/>
         <source>Exported DICOM files into this folder instead of the application&apos;s DICOM database.</source>
-        <translation type="unfinished">Exported DICOM files into this folder instead of the application&apos;s DICOM database.</translation>
+        <translation>Archivos DICOM exportados a esta carpeta en lugar de a la base de datos DICOM de la aplicación.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/Resources/UI/qSlicerDICOMExportDialog.ui" line="322"/>
@@ -16660,7 +16660,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="457"/>
         <source>DICOM dataset successfully exported to </source>
-        <translation type="unfinished">DICOM dataset successfully exported to </translation>
+        <translation>Conjunto de datos DICOM exportado correctamente a </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/Widgets/qSlicerDICOMExportDialog.cxx" line="460"/>
@@ -16827,17 +16827,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="135"/>
         <source>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</source>
         <oldsource>The Data module is the central data-organizing point where all loaded data is presented for access and manipulation is the Data module. It allows organizing the data in folders or patient/study trees (automatically done for DICOM), visualizing any displayable data, transformation of whole branches, and a multitude of data type specific features.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>El módulo Datos es el punto central de organización de datos donde se presentan todos los datos cargados para su acceso y manipulación. Permite organizar los datos en carpetas o árboles de pacientes/estudios (se hace automáticamente para DICOM), visualizar cualquier dato desplegable, transformar ramas enteras y una multitud de características específicas de tipos de datos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.cxx" line="155"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo ha contado con el apoyo de NA-MIC, NAC, BIRN, NCIGT, CTSC y la Comunidad Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerDataModule.h" line="50"/>
         <source>Data</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Datos</translation>
     </message>
 </context>
 <context>
@@ -17521,12 +17521,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1570"/>
         <source>Retrieving extension metadata for %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperación de los metadatos de la extensión %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1582"/>
         <source>Failed to get metadata from server for extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al obtener metadatos del servidor para la extensión: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1599"/>
@@ -17553,7 +17553,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2371"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Error al recuperar los metadatos de la extensión %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1743"/>
@@ -17634,12 +17634,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</transla
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2120"/>
         <source>Failed to download extension metadata from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar metadatos de extensión del servidor</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2138"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>En la respuesta de metadatos de extensión faltaba el campo obligatorio &quot;nombre de extensión&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2170"/>
@@ -18091,7 +18091,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Select a reader to use for your data?</translation>
+        <translation>Seleccione un lector para sus datos:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
@@ -18101,7 +18101,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="590"/>
         <source>Adding data succeeded</source>
-        <translation type="unfinished">Adding data succeeded</translation>
+        <translation>Datos añadidos con éxito</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="592"/>
@@ -18111,7 +18111,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="596"/>
         <source>Adding data failed</source>
-        <translation type="unfinished">Adding data failed</translation>
+        <translation>Error al añadir datos</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="598"/>
@@ -18313,7 +18313,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="343"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="382"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-        <translation type="unfinished">Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</translation>
+        <translation>Establecer el widget de &quot;Añadir datos&quot; que permite seleccionar conjuntos de datos individuales para añadirlos a la escena existente. Esta opción de carga es más útil cuando se desea cargar muchos tipos de datos diferentes a la vez (volúmenes, modelos, etc.) que pueden no estar descritos aún por un archivo de escena.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="352"/>
@@ -18323,7 +18323,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="355"/>
         <source>Raise the DICOM module for loading DICOM datasets.</source>
-        <translation type="unfinished">Raise the DICOM module for loading DICOM datasets.</translation>
+        <translation>Activar el módulo DICOM para cargar conjuntos de datos DICOM.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="367"/>
@@ -18338,7 +18338,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="379"/>
         <source>&amp;Add Data</source>
-        <translation type="unfinished">&amp;Add Data</translation>
+        <translation>&amp; añadir datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="385"/>
@@ -18353,7 +18353,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="397"/>
         <source>Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</source>
-        <translation type="unfinished">Raise an &quot;Add Volume&quot; widget that allows you to select a volumetric dataset to add to the existing scene. The &quot;Volume Options&quot; panel can be used to clarify how a selected dataset should be loaded and displayed.</translation>
+        <translation>Establecer el widget de &quot;Añadir volumen&quot; que permita seleccionar un conjunto de datos volumétricos para añadirlo a la escena existente. El panel &quot;Opciones de volumen&quot; puede utilizarse para aclarar cómo debe cargarse y mostrarse un conjunto de datos seleccionados.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="406"/>
@@ -18373,7 +18373,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="421"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation type="unfinished">Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</translation>
+        <translation>Mostrar el widget &quot;Guardar datos&quot;, que ofrece muchas opciones para guardar una escena y/o conjuntos de datos individuales.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="424"/>
@@ -18458,7 +18458,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="418"/>
         <source>Save Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="510"/>
@@ -18483,7 +18483,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="524"/>
         <source>The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</source>
-        <translation type="unfinished">The Cache and Remote Data Handling interface provides status and information about all remote data transfers, and allows some control over the local cache.</translation>
+        <translation>La interfaz Caché y manejo de datos remotos proporcionan el estado e información sobre todas las transferencias de datos remotas, y permite cierto control sobre el caché local.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="532"/>
@@ -18923,7 +18923,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="469"/>
         <source>Show Python Console window for controlling the application&apos;s data, user interface, and internals</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra la ventana de la consola de Python para controlar los datos de la aplicación, la interfaz de usuario y las funciones internas</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="471"/>
@@ -18943,7 +18943,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="630"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before exit?</translation>
+        <translation>Se han modificado algunos datos. ¿Desea guardarlos antes de salir?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="634"/>
@@ -18968,7 +18968,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="675"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation type="unfinished">Some data have been modified. Do you want to save them before closing the scene?</translation>
+        <translation>Se han modificado algunos datos. ¿Quiere guardarlos antes de cerrar la escena?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="679"/>
@@ -18993,12 +18993,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="938"/>
         <source>Slicer Data Bundle Directory (Select Empty Directory)</source>
-        <translation type="unfinished">Slicer Data Bundle Directory (Select Empty Directory)</translation>
+        <translation>Directorio de datos del paquete Slicer (seleccionar directorio vacío)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="970"/>
         <source>Save Data Bundle File</source>
-        <translation type="unfinished">Save Data Bundle File</translation>
+        <translation>Guardar el archivo de paquete de datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="971"/>
@@ -20440,12 +20440,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="120"/>
         <source>Data series:</source>
-        <translation type="unfinished">Data series:</translation>
+        <translation>Series de datos:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Resources/UI/qSlicerPlotsModuleWidget.ui" line="142"/>
         <source>Clone data series</source>
-        <translation type="unfinished">Clone data series</translation>
+        <translation>Clonar series de datos</translation>
     </message>
 </context>
 <context>
@@ -20610,72 +20610,72 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation type="unfinished">Save Scene and Unsaved Data</translation>
+        <translation>Guardar escena y datos no guardados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
         <source>select modified data only</source>
-        <translation type="unfinished">select modified data only</translation>
+        <translation>seleccionar sólo datos modificados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="54"/>
         <source>Change directory for selected files</source>
-        <translation type="unfinished">Change directory for selected files</translation>
+        <translation>Cambiar el directorio de los archivos seleccionados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="61"/>
         <source>Show options</source>
-        <translation type="unfinished">Show options</translation>
+        <translation>Mostrar opciones</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="68"/>
         <source>Select scene &amp; modified data only</source>
-        <translation type="unfinished">Select scene &amp; modified data only</translation>
+        <translation>Seleccione sólo la escena y los datos modificados</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="98"/>
         <source>File Name</source>
-        <translation type="unfinished">File Name</translation>
+        <translation>Nobre del archivo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="103"/>
         <source>File Format</source>
-        <translation type="unfinished">File Format</translation>
+        <translation>Formato del archivo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
         <source>Directory</source>
-        <translation type="unfinished">Directory</translation>
+        <translation>Directorio</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="118"/>
         <source>Node Name</source>
-        <translation type="unfinished">Node Name</translation>
+        <translation>Nombre del nodo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="123"/>
         <source>Node Type</source>
-        <translation type="unfinished">Node Type</translation>
+        <translation>Tipo de nodo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="128"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Estatus</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation type="unfinished">Create a Medical Record Bundle containing the scene</translation>
+        <translation>Crear un Paquete de historia clínica que contenga la escena</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;2&lt;head/&gt;3&lt;body&gt;4&lt;p&gt;5&lt;span style=&quot; font-weight:600; color:#ff0000;&quot;&gt;Errors or warnings occurred while saving. See status icons for details.6&lt;/span&gt;7&lt;/p&gt;8&lt;/body&gt;9&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
@@ -20683,18 +20683,18 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1133"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1140"/>
         <source>Modified</source>
-        <translation type="unfinished">Modified</translation>
+        <translation>Modificado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
         <source>Not Modified</source>
-        <translation type="unfinished">Not Modified</translation>
+        <translation>No modificado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="648"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar un formato</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="674"/>
@@ -20735,7 +20735,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1432"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>Cualquier dato</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1465"/>
@@ -26067,7 +26067,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
-        <translation> Instalar Extensiones</translation>
+        <translation> Instalar extensiones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
@@ -26121,7 +26121,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
         <source>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is a free open source software platform for medical image processing and 3D visualization of image data. This module contains some basic information and useful links to get you started using Slicer. For more information, please visit our website &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; is distributed under a BSD-style license; for details about the contribution and software license agreement, please see the &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;3D Slicer Software License Agreement&lt;/a&gt;. This software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration, or by any other agency.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; es una plataforma de software libre de código abierto para el procesamiento de imágenes médicas y la visualización 3D de datos de imagen. Este módulo contiene información básica y enlaces útiles para empezar a utilizar Slicer. Para más información, visite nuestro sitio web &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; es una plataforma de software libre de código abierto para el procesamiento de imágenes médicas y la visualizaciónde datos de imagen 3D. Este módulo contiene información básica y enlaces útiles para empezar a utilizar Slicer. Para más información, visite nuestro sitio web &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;3D Slicer&lt;/b&gt; se distribuye bajo una licencia de estilo BSD; para más detalles sobre la contribución y el acuerdo de licencia de software, consulte el &lt;a href=&quot;https://github.com/Slicer/Slicer/blob/main/License.txt&quot;&gt;Acuerdo de licencia de software de 3D Slicer&lt;/a&gt;. Este software ha sido diseñado únicamente con fines de investigación y no ha sido revisado ni aprobado por la Food and Drug Administration, ni por ningún otro organismo.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -26195,7 +26195,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
         <source>Check now</source>
-        <translation>Buscar ahora</translation>
+        <translation>Comprobar ahora</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="419"/>
@@ -26211,7 +26211,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
         <source>Extension updates: </source>
-        <translation>Actualizaciones de extensión: </translation>
+        <translation>Actualizaciones de extensiones: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
@@ -26269,7 +26269,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="390"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation>Utilice el Administrador de Extensiones para actualizar estas extensiones:</translation>
+        <translation>Utilice el &quot;Administrador de extensiones&quot; para actualizar estas extensiones:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
