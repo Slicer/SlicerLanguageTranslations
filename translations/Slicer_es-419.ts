@@ -711,7 +711,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de datos para representar un vóxel del Volumen de salida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
@@ -1010,7 +1010,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta bandera sólo es relevante cuando se utiliza el modo ROIAUTO para inicializar máscaras.  Define el tamaño de cierre del agujero en mm.  Se redondea al tamaño de píxel entero más cercano en cada dirección. El valor por defecto es de 9 mm.  Para datos de mouse este valor puede necesitar ser reajustado a 0.9 o menor.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
@@ -1304,7 +1304,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>El Tipo de píxel de la imagen de salida es el tipo de datos escalar para la representación del Volumen de salida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
@@ -1884,7 +1884,9 @@ This program is useful for downsampling an image by a constant scale factor.
         <source>Cast a volume to a given data type.
 Use at your own risk when casting an input volume into a lower precision type!
 Allows casting to the same type as the input volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Convierte un volumen a un tipo de datos determinado. 
+¡Utilícelo bajo su propia responsabilidad cuando transforme un volumen de entrada en un tipo de menor precisión!
+Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
@@ -1934,7 +1936,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
         <source>Scalar data type for the new output volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de dato escalar para el nuevo volumen de salida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
@@ -2156,7 +2158,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
         <source>Compress the output pixel data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprime los datos de píxeles de salida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
@@ -2546,7 +2548,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="105"/>
         <source>Parameters that apply to the images and data in each image</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros que se aplican a las imágenes y a los datos de cada imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
@@ -2596,12 +2598,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="115"/>
         <source>Rescale intercept (0028,1052). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleIntercept.  Default is 0.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Reescalar intercepción (0028,1052). Convierte los valores de píxel en disco a valores de píxel en memoria. (Valor de píxel en memoria) = (Valor de píxel en disco) * rescaleSlope + rescaleIntercept.  Por defecto es 0.0. Los valores de los datos se convierten al escribirlos (los datos se escalan y desplazan para que la pendiente y el intercepto los devuelvan al rango de intensidad actual).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="116"/>
         <source>Rescale slope (0028,1053). Converts pixel values on disk to pixel values in memory. (Pixel value in memory) = (Pixel value on disk) * rescaleSlope + rescaleInterscept.  Default is 1.0. Data values are converted on write (the data is scaled and shifted so that the slope and interscept will bring it back to the current intensity range).</source>
-        <translation type="unfinished"></translation>
+        <translation>Reescalar pendiente (0028,1053). Convierte los valores de píxel en disco a valores de píxel en memoria. (Valor de píxel en memoria) = (Valor de píxel en disco) * rescaleSlope + rescaleInterscept.  Por defecto es 1.0. Los valores de los datos se convierten al escribirlos (los datos se escalan y desplazan para que la pendiente y el intercepto los devuelvan al rango de intensidad actual).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="117"/>
@@ -3011,7 +3013,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation>El único tipo de salida admitida es &quot;corto&quot;. La conversión a partir de imágenes de otro tipo puede provocar pérdidas de datos debido al redondeo o al truncamiento. ¡Utilícelo con precaución!</translation>
+        <translation>El único tipo de salida admitida es “corto”. La conversión a partir de imágenes de otro tipo puede provocar pérdidas de datos debido al redondeo o al truncamiento. ¡Utilícelo con precaución!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
@@ -4029,7 +4031,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
         <source>![CDATA[Take into account image spacing in the computation.  It is advisable to turn this option on, especially when the pixel size is different in different dimensions. However, to produce results consistent with Slicer4.2 and earlier, this option should be turned off.]]</source>
-        <translation type="unfinished"></translation>
+        <translation>![CDATA[Tener en cuenta el espaciado de la imagen en el cálculo.  Es aconsejable activar esta opción, especialmente cuando el tamaño del píxel es diferente en distintas dimensiones. Sin embargo, para producir resultados consistentes con Slicer4.2 y anteriores, esta opción debe estar desactivada]].</translation>
     </message>
 </context>
 <context>
@@ -4165,7 +4167,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear modelos de superficie 3D a partir de datos en escala de grises. Este módulo utiliza Marching Cubes para crear una isosuperficie en un umbral determinado. La superficie resultante consiste en triángulos que separan un volumen en regiones por debajo y por encima del umbral. La superficie resultante puede suavizarse y diezmarse. Este modelo funciona con datos continuos, mientras que el módulo Model Maker funciona con datos etiquetados (o discretos).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
@@ -4195,7 +4197,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
         <source>Volume containing the input grayscale data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen que contiene los datos de entrada en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
@@ -4745,7 +4747,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
         <source>Merge the polydata from two input models and output a new model with the combined polydata. Uses the vtkAppendPolyData filter. Works on .vtp and .vtk surface files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Combina los polidatos de dos modelos de entrada y genera un nuevo modelo con los polidatos combinados. Emplea el filtro vtkAppendPolyData. Funciona con archivos de superficie .vtp y .vtk.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
@@ -8345,7 +8347,10 @@ a = Affine Transform</source>
 The DataProbe module is used to get information about the current RAS position being
 indicated by the mouse position.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+El módulo DataProbe se utiliza para obtener información sobre la posición actual RAS que se
+indica por la posición del mouse.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="34"/>
@@ -26051,7 +26056,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="79"/>
         <source>Download Sample Data</source>
-        <translation>Descargar Datos de muestra</translation>
+        <translation>Descargar datos de muestra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
