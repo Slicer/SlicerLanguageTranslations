@@ -61,17 +61,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Haladó</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>A számítás finomhangolásának részletesebb paraméterei.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>A polinom interpoláció fokszáma, amennyiben a két geometria eltérő (origó, képpont méret, tengelyirány vagy kiterjedés): 0 = legközelebbi szomszéd, 1 = lineáris, 2 = kvadratikus, 3 = köbös interpoláció.</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -382,12 +382,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>A rögzített kép voxeleinek a regisztrációhoz használt része. A számnak nagyobbnak kell lennie nullánál és legfeljebb 1 értékű lehet. A nagyobb értékek növelik a számítási időt, de pontosabb eredményt adhatnak. A mintavételi területet ROI maszkokkal és a ROIAUTO maszkgenerálással behatárolható. Az alapértelmezett érték 0.002 (a voxelek körülbelül 0,2%-át használja, ami 100000 mintát eredményez egy 512x512x192-es térfogatban), ami a legtöbb esetben nagyon gyors regisztrációt biztosít. A tipikus értékek 0.01 (1%) és 0.2 (20%) közöttiek, amelyek alacsonyabb, illetve nagyobb felbontású képet biztosítanak.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished"></translation>
+        <translation>A BSpline rácsháló felosztásának száma a rögzített kép tengelyei mentén a képtérre központosítva. A BSpline helyes számításához az értékeknek legalább 3-nak kell lenniük.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
