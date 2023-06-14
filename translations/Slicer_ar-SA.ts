@@ -16839,7 +16839,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="78"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>ملف</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="83"/>
@@ -16849,17 +16849,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="88"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>خيارات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerDataDialog.ui" line="106"/>
         <source>Show Options</source>
-        <translation type="unfinished">Show Options</translation>
+        <translation>إظهار الخيارات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="586"/>
         <source>Any Data</source>
-        <translation type="unfinished">Any Data</translation>
+        <translation>أي بيانات</translation>
     </message>
 </context>
 <context>
@@ -16867,12 +16867,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="509"/>
         <source>Open archive?</source>
-        <translation type="unfinished">Open archive?</translation>
+        <translation>أرشيف مفتوح؟</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="510"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
-        <translation type="unfinished">The selected file is a .zip archive, open it and load contents?</translation>
+        <translation>الملف المحدد هو أرشيف .مضغوط ، افتحه وقم بتحميل المحتويات؟</translation>
     </message>
 </context>
 <context>
@@ -16993,7 +16993,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>عرض عددي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
