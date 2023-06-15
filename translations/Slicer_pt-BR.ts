@@ -7721,7 +7721,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="31"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <source>Informatics</source>
@@ -7730,12 +7730,12 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="35"/>
         <source>This module allows importing, loading, and exporting DICOM files, and sending receiving data using DICOM networking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este módulo permite importar, carregar e exportar arquivos DICOM e enviar dados recebidos usando a rede DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabalho é apoiado pela NA-MIC, NAC, BIRN, NCIGT e comunidade Slicer .</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
@@ -7750,7 +7750,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações DICOM genéricas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
@@ -7770,32 +7770,32 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Perguntar ao usuário</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sempre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="370"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nunca</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="372"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregar séries referenciadas:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registre mais detalhes durante as operações DICOM. Útil para investigar problemas de carregamento DICOM, mas impactar no desempenho.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registro detalhado:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
@@ -7810,42 +7810,42 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="514"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Não foi possível criar um banco de dados DICOM com as configurações padrões. Por favor, crie um novo banco de dados ou atualize o banco de dados incompatível usando as opções mostradas no navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A importação de arquivos que possuem caracteres especiais (não ASCII) em seus nomes não é suportada. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A importação de pastas com caracteres especiais (não ASCII) no nome não é suportada. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
         <source>Import options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opções de importação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="642"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copiar arquivos importados para o banco de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="644"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se habilitado, todos os arquivos importados são copiados para o banco de dados DICOM. Isso é útil ao importar de dispositivos removíveis.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
         <source>not started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">não iniciado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="857"/>
         <source>starting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">iniciando</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
@@ -7856,27 +7856,27 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>running at port %s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">em execução na porta %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="878"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arquivo DICOM recebido: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="941"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O banco de dados DICOM já está vazio.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Limpar todo o banco de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="945"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tem certeza que deseja deletar todos os dados e arquivos copiados para o banco de dados ({count} pacientes)?</translation>
     </message>
 </context>
 <context>
@@ -7889,12 +7889,12 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O carregamento desse tipo de imagem é experimental. Verifique a geometria da imagem e relate qualquer problema encontrado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volume do Ultrassom</translation>
     </message>
 </context>
 <context>
@@ -7912,7 +7912,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O carregamento desse tipo de imagem é experimental. Verifique o tamanho e a orientação da imagem e relate qualquer problema encontrado.</translation>
     </message>
 </context>
 <context>
@@ -7920,23 +7920,23 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="35"/>
         <source>Image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sequência de imagem</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O espaçamento da imagem pode precisar se calibrado para medições de tamanho precisas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="186"/>
         <source>{modality} image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{modality} sequência de imagens</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="167"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{modality} sequência de imagens ({count} planos)</translation>
     </message>
 </context>
 <context>
@@ -7944,27 +7944,27 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="86"/>
         <source>DICOM Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navegador DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="135"/>
         <source>Uncheck All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desmarcar Todos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="141"/>
         <source>Examine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Examinar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="147"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="150"/>
         <source>Load selected items into the scene</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregar itens selecionados na cena</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="155"/>
@@ -7974,113 +7974,113 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="229"/>
         <source>The following data type is in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O seguinte tipo de dados está no seu banco de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="231"/>
         <source>The following data types are in your database:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os seguintes tipos de dados estão no seu banco de dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="236"/>
         <source>The following extension is not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A seguinte extensão não está instalada, mas pode ajudá-lo a trabalhar com esses dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="238"/>
         <source>The following extensions are not installed, but may help you work with this data:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">As seguintes extensões não estão instaladas, mas podem ajudá-lo a trabalhar com esses dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você pode instalar extensões usando a opção Gerenciador de Extensões no menu Exibir.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="427"/>
         <source>DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aviso: {missing_file_count} de {total_file_count} arquivos selecionados listados no banco de dados não podem ser encontrados no disco.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
         <source>Checking {what}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verificando {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="425"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aviso: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="426"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Consulte o console python para ver a mensagem de erro.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="535"/>
         <source>Loading {what}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregando {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="557"/>
         <source>DICOM loading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM carregando</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="568"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aviso no plugin DICOM {load_type} ao examinar o carregável {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="573"/>
         <source>Warnings detected during load.  Examine data in Advanced mode for details.  Load anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avisos detectados durante o carregamento. Examine os dados no modo Avançado para detalhes. Carregar mesmo assim?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="585"/>
         <source>Referenced datasets found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conjuntos de dados referenciados encontrados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="589"/>
         <source>The loaded DICOM objects contain references to other datasets you did not select for loading. Please select Yes if you would like to load the following referenced datasets, No if you only want to load the originally selected series, or Cancel to abort loading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os objetos DICOM carregados contêm referência a outros banco de dados que você não selecionou para carregamento. Por favor, selecione Sim se você quiser carregar os seguintes bancos de dados referenciados, Não se quiser carregar apenas a série originalmente selecionada ou Cancelar para interromper o carregamento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="599"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lembre-se da escolha e pare de perguntar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="601"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pode ser alterado posteriormente em Configurações do Aplicativo / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="628"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Referências</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>Reader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Leitor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avisos</translation>
     </message>
 </context>
 <context>
@@ -8088,17 +8088,17 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="25"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DICOM Patcher</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Corrija problemas comuns em arquivos DICOM. Este módulo pode ajudar a corrigir arquivos DICOM que o Slicer não consegue importar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="38"/>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esse arquivo foi originalmente desenvolvido por Andras Lasso, PerkLab.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="52"/>
@@ -8108,22 +8108,22 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="60"/>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diretório DICOM de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="65"/>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diário de saída DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="70"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Substitui nomes de arquivos e pastas por nomes gerados automaticamente. Corrige erros causados pelo fato de o caminho do arquivo conter caracteres especiais ou ser muito longo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="71"/>
         <source>Normalize file names</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normalizar nomes de arquivos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="78"/>
