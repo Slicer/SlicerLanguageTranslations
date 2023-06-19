@@ -5027,12 +5027,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
         <source>A mrml file that contains a template model hierarchy tree with a hierarchy node per color used in the input volume&apos;s color table. Color names used for the models are matched to template hierarchy names to create a multi level output tree. Create a hierarchy in the Models GUI and save a scene, then clean it up to remove everything but the model hierarchy and display nodes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un archivo mrml que contiene un árbol jerárquico de modelos de plantilla con un nodo jerárquico por cada color utilizado en la tabla de colores del volumen de entrada. Los nombres de los colores utilizados para los modelos coinciden con los nombres de las jerarquías de las plantillas para crear un árbol de salida de varios niveles. Cree una jerarquía en la GUI de Modelos y guarde una escena, luego límpiela para eliminar todo excepto la jerarquía del modelo y los nodos de visualización.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="52"/>
         <source>You can save a copy of the models after each of the intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation). These intermediate models are not saved in the mrml file, you have to load them manually after turning off deleting temporary files in they python console (View -&gt;Python Interactor) using the following command slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede guardar una copia de los modelos después de cada uno de los pasos intermedios (cubos de marcha, suavizado y diezmado si no es un suavizado conjunto, de lo contrario sólo después del diezmado). Estos modelos intermedios no se guardan en el archivo mrml, hay que cargarlos manualmente después de desactivar el borrado de archivos temporales en la consola python (View -&gt;Python Interactor) usando el siguiente comando slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff().</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
