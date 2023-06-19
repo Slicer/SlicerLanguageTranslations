@@ -4865,17 +4865,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
         <source>Generate All Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar todos los modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="18"/>
         <source>Name to use for this model. Any text entered in the entry box will be the starting string for the created model file names. The label number and the color name will also be part of the file name. If making multiple models, use this as a prefix to the label and color name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre a utilizar para este modelo. Cualquier texto introducido en el cuadro de entrada será la cadena inicial para los nombres de archivo del modelo creado. El número de etiqueta y el nombre del color también formarán parte del nombre del archivo. Si va a crear varios modelos, utilícelo como prefijo para la etiqueta y el nombre del color.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar modelos para todas las etiquetas del volumen de entrada. Seleccione esta opción si desea crear todos los modelos que corresponden a todos los valores de un volumen de mapa de etiquetas (el uso del “Suavizado conjunto” que aparece a continuación es útil con esta opción). Ignore los ajustes de Etiquetas, Etiqueta inicial, Etiqueta final. Omita la etiqueta 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
@@ -4885,7 +4885,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros utilizados para hacer modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
@@ -4945,27 +4945,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una lista separada por comas de valores de etiquetas para crear los modelos. Si especifica una lista de etiquetas, anulará cualquier configuración de etiquetas de inicio/final. Si hace clic en “Generar todos los modelos”, se anulará la lista de etiquetas y cualquier configuración de etiquetas de inicio/fin.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the lower label here. Voxel value from which to start making models. Used instead of the label list to specify a range (make sure the label list is empty or it will over ride this).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si desea especificar un rango continuo de etiquetas a partir del cual generar modelos, introduzca aquí la etiqueta inferior. Valor del vóxel a partir del cual se empiezan a crear los modelos. Se utiliza en lugar de la lista de etiquetas para especificar un rango (asegúrese de que la lista de etiquetas está vacía o se sobrepondrá a esto).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="35"/>
         <source>If you want to specify a continuous range of labels from which to generate models, enter the higher label here. Voxel value up to which to continue making models. Skip any values with zero voxels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si desea especificar un rango continuo de etiquetas a partir del cual generar modelos, introduzca aquí la etiqueta superior. Valor de vóxel hasta el cual continuar haciendo modelos. Omita cualquier valor con cero vóxeles.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="36"/>
         <source>Select this to not generate models from labels that do not have names defined in the color look up table associated with the input label map. If true, only models which have an entry in the color table will be generated.  If false, generate all models that exist within the label range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione esta opción para no generar modelos a partir de etiquetas que no tengan nombres definidos en la tabla de búsqueda de colores asociada al mapa de etiquetas de entrada. Si es verdadero, sólo se generarán los modelos que tengan una entrada en la tabla de colores.  Si es falso, se generarán todos los modelos que existan dentro del rango de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="37"/>
         <source>This will ensure that all resulting models fit together smoothly, like jigsaw puzzle pieces. Otherwise the models will be smoothed independently and may overlap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto garantizará que todos los modelos resultantes encajen suavemente, como las piezas de un puzzle. De lo contrario, los modelos se alisarán de forma independiente y podrían solaparse.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
@@ -4975,7 +4975,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
         <source>You can control the type of smoothing done on the models by selecting a filter type of either Sinc or Laplacian.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede controlar el tipo de suavizado realizado en los modelos seleccionando un tipo de filtro Sinc o Laplaciano.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
@@ -5022,7 +5022,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
         <source>Save Intermediate Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar modelos intermedios</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="51"/>
@@ -19975,7 +19975,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.h" line="48"/>
         <source>Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos</translation>
     </message>
 </context>
 <context>
@@ -19983,7 +19983,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="20"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="61"/>
@@ -20013,22 +20013,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="168"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>Leyenda de colores para la tabla de colores seleccionada en la sección Escalares.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="171"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>Leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="207"/>
         <source>Clipping Planes</source>
-        <translation type="unfinished">Clipping Planes</translation>
+        <translation>Planos de corte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="219"/>
         <source>Clip selected model:</source>
-        <translation type="unfinished">Clip selected model:</translation>
+        <translation>Recorte del modelo seleccionado:</translation>
     </message>
 </context>
 <context>
@@ -20096,7 +20096,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
-        <translation>Python Scripted Cargable</translation>
+        <translation>Python Programado Cargable</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
@@ -21366,7 +21366,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="457"/>
         <source>Export/import models and labelmaps</source>
-        <translation type="unfinished">Export/import models and labelmaps</translation>
+        <translation>Exportar/importar modelos y mapas de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="489"/>
@@ -21386,7 +21386,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="522"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="529"/>
@@ -21561,7 +21561,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="669"/>
         <source>Export models to new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar modelos a una nueva carpeta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="780"/>
@@ -21628,12 +21628,14 @@ Most probably the segment cannot be converted into binary labelmap representatio
         <source>Failed to export segments from segmentation %1 to models in folder %2!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al exportar segmentos de la segmentación %1 a los modelos de la carpeta %2.
+
+Lo más probable es que el segmento no pueda convertirse en una representación de superficie cerrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1021"/>
         <source>Failed to export segments to models</source>
-        <translation type="unfinished">Failed to export segments to models</translation>
+        <translation>Error al exportar segmentos a modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1078"/>
@@ -21663,7 +21665,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1102"/>
         <source>Failed to import models</source>
-        <translation type="unfinished">Failed to import models</translation>
+        <translation>Error al importar modelos</translation>
     </message>
 </context>
 <context>
@@ -21715,7 +21717,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="66"/>
         <source>Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</source>
-        <translation type="unfinished">Enable surface smoothing during binary labelmap to closed surface conversion in new segmentations. Smoothing improves appearance in 3D views and exported models but makes segment editing considerably slower.</translation>
+        <translation>Activar el suavizado de superficies durante la conversión de mapa de etiquetas binario a superficie cerrada en nuevas segmentaciones. El suavizado mejora el aspecto en las vistas 3D y en los modelos exportados, pero ralentiza considerablemente la edición de segmentos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="79"/>
@@ -23172,7 +23174,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="262"/>
         <source>Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</source>
-        <translation type="unfinished">Enabling depth peeling improves rendering of transparent models at the cost of higher computational cost.</translation>
+        <translation>Activar el pelado de profundidad mejora el renderizado de modelos transparentes a cambio de un mayor gasto computacional.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="272"/>
@@ -23751,7 +23753,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="113"/>
         <source>Export visible segments to models</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar segmentos visibles a modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="116"/>
@@ -23766,7 +23768,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="122"/>
         <source>Convert models to segmentation node</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir modelos en nodo de segmentación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="125"/>
@@ -23898,19 +23900,21 @@ Please visit the Segmentation module and try the advanced create representation 
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1071"/>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1336"/>
         <source>Failed to export segmentation to models</source>
-        <translation type="unfinished">Failed to export segmentation to models</translation>
+        <translation>Error al exportar la segmentación a los modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1076"/>
         <source>-models</source>
-        <translation type="unfinished"></translation>
+        <translation>-modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1092"/>
         <source>Failed to export segments from segmentation %1 to models!
 
 Most probably the segment cannot be converted into closed surface representation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al exportar segmentos de la segmentación %1 a modelos.
+
+Lo más probable es que el segmento no pueda convertirse en una representación de superficie cerrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="1331"/>
@@ -25870,7 +25874,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesModule.cxx" line="93"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este trabajo recibió el apoyo de NA-MIC, NAC, BIRN, NCIGT y la Comunidad Slicer.</translation>
     </message>
 </context>
 <context>
@@ -25937,12 +25941,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="107"/>
         <source>Dicom</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="108"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/qSlicerVolumesReader.cxx" line="109"/>
