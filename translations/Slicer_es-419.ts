@@ -16159,7 +16159,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/Colors/qSlicerColorsModule.h" line="48"/>
         <source>Colors</source>
-        <translation type="unfinished">Colors</translation>
+        <translation>Colores</translation>
     </message>
 </context>
 <context>
