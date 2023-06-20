@@ -4167,7 +4167,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from grayscale data. This module uses Marching Cubes to create an isosurface at a given threshold. The resulting surface consists of triangles that separate a volume into regions below and above the threshold. The resulting surface can be smoothed and decimated. This model works on continuous data while the module Model Maker works on labeled (or discrete) data.</source>
-        <translation>Crear modelos de superficie 3D a partir de datos en escala de grises. Este módulo utiliza Marching Cubes para crear una isosuperficie en un umbral determinado. La superficie resultante consiste en triángulos que separan un volumen en regiones por debajo y por encima del umbral. La superficie resultante puede suavizarse y diezmarse. Este modelo funciona con datos continuos, mientras que el módulo Model Maker funciona con datos etiquetados (o discretos).</translation>
+        <translation>Crear modelos de superficie 3D a partir de datos en escala de grises. Este módulo utiliza Cubos de marcha para crear una isosuperficie en un umbral determinado. La superficie resultante consiste en triángulos que separan un volumen en regiones por debajo y por encima del umbral. La superficie resultante puede suavizarse y diezmarse. Este modelo funciona con datos continuos, mientras que el módulo Creador de modelos funciona con datos etiquetados (o discretos).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
@@ -4875,7 +4875,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="19"/>
         <source>Generate models for all labels in the input volume. select this option if you want to create all models that correspond to all values in a labelmap volume (using the Joint Smoothing option below is useful with this option). Ignores Labels, Start Label, End Label settings. Skips label 0.</source>
-        <translation>Generar modelos para todas las etiquetas del volumen de entrada. Seleccione esta opción si desea crear todos los modelos que corresponden a todos los valores de un volumen de mapa de etiquetas (el uso del “Suavizado conjunto” que aparece a continuación es útil con esta opción). Ignore los ajustes de Etiquetas, Etiqueta inicial, Etiqueta final. Omita la etiqueta 0.</translation>
+        <translation>Generar modelos para todas las etiquetas del volumen de entrada. Seleccione esta opción si desea crear todos los modelos que corresponden a todos los valores de un volumen de mapa de etiquetas (el uso del Suavizado conjunto que aparece a continuación es útil con esta opción). Ignore los ajustes de Etiquetas, Etiqueta inicial, Etiqueta final. Omita la etiqueta 0.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
@@ -4945,7 +4945,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
         <source>A comma separated list of label values from which to make models. f you specify a list of Labels, it will override any start/end label settings. If you click Generate All Models it will override the list of labels and any start/end label settings.</source>
-        <translation>Una lista separada por comas de valores de etiquetas para crear los modelos. Si especifica una lista de etiquetas, anulará cualquier configuración de etiquetas de inicio/final. Si hace clic en “Generar todos los modelos”, se anulará la lista de etiquetas y cualquier configuración de etiquetas de inicio/fin.</translation>
+        <translation>Una lista separada por comas de valores de etiquetas para crear los modelos. Si especifica una lista de etiquetas, anulará cualquier configuración de etiquetas de inicio/final. Si hace clic en Generar todos los modelos, se anulará la lista de etiquetas y cualquier configuración de etiquetas de inicio/fin.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="34"/>
@@ -8348,7 +8348,7 @@ The DataProbe module is used to get information about the current RAS position b
 indicated by the mouse position.
 </source>
         <translation>
-El módulo DataProbe de datos se utiliza para obtener información sobre la posición actual
+El módulo Sonda de datos se utiliza para obtener información sobre la posición actual
 RAS indicada por la posición del mouse.
 </translation>
     </message>
@@ -8416,7 +8416,7 @@ RAS indicada por la posición del mouse.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="499"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation>Vaya al módulo “Sonda de datos” para más información y opciones</translation>
+        <translation>Vaya al módulo Sonda de datos para más información y opciones</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
@@ -12138,7 +12138,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="306"/>
         <source>Representation that is shown in 3D (models only)</source>
-        <translation type="unfinished">Representation that is shown in 3D (models only)</translation>
+        <translation>Representación que se muestra en 3D (sólo modelos)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="313"/>
@@ -14200,7 +14200,7 @@ If you choose Yes to All, this question never appears again, and all subject hie
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="412"/>
         <source>Depth peeling is used to render transparent surface models in order</source>
-        <translation type="unfinished">Depth peeling is used to render transparent surface models in order</translation>
+        <translation>El pelado en profundidad se utiliza para renderizar modelos de superficies transparentes con el fin de</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLThreeDViewControllerWidget.ui" line="424"/>
@@ -15446,7 +15446,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="3"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="3"/>
         <source>Surface Models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de superficie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="25"/>
@@ -16854,7 +16854,7 @@ Si no se marcó, el conjunto de datos exportado se añadirán a la base de datos
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="14"/>
         <source>Data</source>
-        <translation>Información</translation>
+        <translation>Datos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/Resources/UI/qSlicerDataModuleWidget.ui" line="41"/>
@@ -18216,7 +18216,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="60"/>
         <source>Data Probe</source>
-        <translation>Explorador de Datos</translation>
+        <translation>Sonda de datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
@@ -18325,7 +18325,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="343"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="382"/>
         <source>Raise an &quot;Add Data&quot; widget that allows you to select individual datasets to add to the existing scene. This load option is most useful when you want to load many different data types at once (volumes, models, etc.) which may not yet be described by a scene file.</source>
-        <translation>Establecer el widget de &quot;Añadir datos&quot; que permite seleccionar conjuntos de datos individuales para añadirlos a la escena existente. Esta opción de carga es más útil cuando se desea cargar muchos tipos de datos diferentes a la vez (volúmenes, modelos, etc.) que pueden no estar descritos aún por un archivo de escena.</translation>
+        <translation>Establecer el widget de “Añadir datos” que permite seleccionar conjuntos de datos individuales para añadirlos a la escena existente. Esta opción de carga es más útil cuando se desea cargar muchos tipos de datos diferentes a la vez (volúmenes, modelos, etc.) que pueden no estar descritos aún por un archivo de escena.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="352"/>
@@ -18350,7 +18350,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="379"/>
         <source>&amp;Add Data</source>
-        <translation>&amp; añadir datos</translation>
+        <translation>y añadir datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="385"/>
@@ -18385,7 +18385,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="421"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation>Mostrar el widget &quot;Guardar datos&quot;, que ofrece muchas opciones para guardar una escena y/o conjuntos de datos individuales.</translation>
+        <translation>Mostrar el widget “Guardar datos”, que ofrece muchas opciones para guardar una escena y/o conjuntos de datos individuales.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="424"/>
@@ -19939,22 +19939,22 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="14"/>
         <source>Models options</source>
-        <translation type="unfinished">Models options</translation>
+        <translation>Opciones de modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="32"/>
         <source>Coordinate system:</source>
-        <translation type="unfinished">Coordinate system:</translation>
+        <translation>Sistema de coordenadas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="45"/>
         <source>Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</source>
-        <translation type="unfinished">Use LPS (left-posterior-superior) for better compatibility with most software (this is the default). Use RAS (right-anterior-superior) for better compatibility with earlier Slicer versions. If coordinate system is defined in the file then that is used and this choice is ignored.</translation>
+        <translation>Utilice LPS (izquierda-posterior-superior) para una mejor compatibilidad con la mayoría del software (este es el valor por defecto). Utilice RAS (“derecha-anterior-superior”) para una mejor compatibilidad con versiones anteriores de Slicer. Si el sistema de coordenadas está definido en el archivo, se utilizará y se ignorará esta opción.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="49"/>
         <source>Default</source>
-        <translation type="unfinished">Default</translation>
+        <translation>Por defecto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsIOOptionsWidget.ui" line="54"/>
@@ -19994,12 +19994,12 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
         <source>Turn the visibility off on all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turn the visibility off on all models (does not include hierarchies)</translation>
+        <translation>Desactivar la visibilidad en todos los modelos (no incluye jerarquías)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
         <source>Turns visibility on for all models (does not include hierarchies)</source>
-        <translation type="unfinished">Turns visibility on for all models (does not include hierarchies)</translation>
+        <translation>Activa la visibilidad de todos los modelos (no incluye jerarquías)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="125"/>
