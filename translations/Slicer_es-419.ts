@@ -18385,7 +18385,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="421"/>
         <source>Display the &quot;Save Data&quot; widget, which offers many options for saving a scene and/or individual datasets.</source>
-        <translation>Mostrar el widget “Guardar datos”, que ofrece muchas opciones para guardar una escena y/o conjuntos de datos individuales.</translation>
+        <translation>Mostrar el widget “Guardar datos”, que ofrece varias opciones para guardar una escena y/o conjuntos de datos individuales.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="424"/>
