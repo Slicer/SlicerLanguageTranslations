@@ -12530,9 +12530,9 @@ Voulez-vous recadrer la segmentation ?
         <source>Update %1 representation using custom conversion parameters.
 
 Click the down-arrow button for additional operations.</source>
-        <translation>Mise à jour %1la représentation à l’aide de paramètres de conversion personnalisés.
+        <translation>Mise à jour de la représentation %1 à l&apos;aide de paramètres de conversion personnalisés. 
 
-Cliquez sur la flèche vers le bas pour effectuer d’autres opérations.</translation>
+Cliquez sur la flèche vers le bas pour accéder à d&apos;autres opérations.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
