@@ -21697,7 +21697,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1078"/>
         <source>Failed to copy labels from labelmap volume node %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la copie des étiquettes du nœud de volume de la carte d&apos;étiquette %1 !</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1080"/>
