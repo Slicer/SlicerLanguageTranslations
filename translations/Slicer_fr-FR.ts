@@ -7725,7 +7725,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
         <source>Generic DICOM settings</source>
-        <translation>Paramètres DICOM génériques</translation>
+        <translation>Paramètres génériques DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
