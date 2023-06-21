@@ -18127,7 +18127,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
         <source>Loading file... </source>
-        <translation>Chargement du fichier… </translation>
+        <translation>Chargement du fichier... </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="97"/>
