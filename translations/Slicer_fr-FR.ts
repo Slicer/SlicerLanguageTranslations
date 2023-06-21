@@ -7980,7 +7980,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement : {missing_file_count} des fichiers sélectionnés {total_file_count} répertoriés dans la base de données sont introuvables sur le disque.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
