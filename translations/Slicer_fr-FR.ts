@@ -7740,7 +7740,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation>Détermine si les séries DICOM référencées sont proposées lors du chargement de DICOM, ou le comportement automatique si l&apos;interaction est désactivée. La sélection interactive des séries référencées est la sélection par défaut</translation>
+        <translation>Détermine si les séries DICOM référencées sont proposées lors du chargement de DICOM, ou le traitement automatique si l&apos;interaction est désactivée. La sélection interactive des séries référencées est la sélection par défaut.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
