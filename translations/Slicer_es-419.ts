@@ -7919,7 +7919,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
         <source>You can install extensions using the Extensions Manager option from the View menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes instalar extensiones utilizando la opción Gestor de extensiones del menú Vista.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="242"/>
@@ -7935,7 +7935,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
         <source>Checking {what}</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="425"/>
@@ -7945,7 +7945,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="426"/>
         <source>See python console for error message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver mensaje de error en la consola de Python.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="535"/>
@@ -7960,7 +7960,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="568"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia en el plugin DICOM {load_type} al examinar el cargable {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="573"/>
@@ -7980,17 +7980,17 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="599"/>
         <source>Remember choice and stop asking</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordar la elección y dejar de preguntar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="601"/>
         <source>Can be changed later in Application Settings / DICOM</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede modificarse posteriormente en Configuración de la aplicación / DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="628"/>
         <source>References</source>
-        <translation type="unfinished"></translation>
+        <translation>Referencias</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="661"/>
@@ -23677,12 +23677,12 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="94"/>
         <source>Register this...</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrar esto...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="95"/>
         <source>Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</source>
-        <translation type="unfinished">Select volume as moving image for registration. Second volume can be selected from context menu after the first one has been set.</translation>
+        <translation>Seleccione el volumen como imagen en movimiento para el registro. El segundo volumen puede seleccionarse desde el menú contextual una vez que se ha establecido el primero.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="100"/>
@@ -23692,7 +23692,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="105"/>
         <source>Rigid image-based registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro basado en imágenes rígidas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="109"/>
@@ -23702,17 +23702,17 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="113"/>
         <source>Interactive landmark registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro interactivo de puntos de referencia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="118"/>
         <source>Cancel registration (or right-click another volume to start registration)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar el registro (o hacer clic con el botón derecho en otro volumen para iniciar el registro)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="119"/>
         <source>Right-click another volume to select second volume and start registration</source>
-        <translation type="unfinished">Right-click another volume to select second volume and start registration</translation>
+        <translation>Haga clic con el botón derecho en otro volumen para seleccionar el segundo volumen e iniciar el registro</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="217"/>
@@ -23728,7 +23728,7 @@ Select plugin to add node named
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="277"/>
         <source>LinearTransform_%1_To_%2</source>
-        <translation>Transformación Linear_%1_a_%2</translation>
+        <translation>Transformación Lineal_%1_a_%2</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyRegisterPlugin.cxx" line="363"/>
