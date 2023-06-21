@@ -21204,7 +21204,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation>Seul le côté positif du plan de slice est inclus dans la région de la coupe. Utilisé uniquement pour les vues en slice.</translation>
+        <translation>Seul le côté positif du plan de la coupe est inclus dans la région coupée. Utilisé uniquement pour les vues en coupe.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
