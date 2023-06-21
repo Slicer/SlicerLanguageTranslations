@@ -12063,7 +12063,7 @@ Veuillez consulter le module Segmentations pour plus de détails.</translation>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="107"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="254"/>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation>Coût</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="159"/>
