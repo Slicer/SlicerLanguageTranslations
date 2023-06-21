@@ -25625,7 +25625,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="82"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Le module de Rendu de Volumes fournit des outils avancés pour basculer le rendu interactif des volumes des ensembles de données. &lt;br/&gt; S’il est pris en charge, le rendu de volume accéléré par le matériel est disponible. Le module permet de sélectionner des fonctions de transfert prédéfinies pour coloriser et définir l&apos;opacité des données d&apos;une manière adaptée à la tâche, et des outils pour personnaliser les fonctions de transfert qui spécifient ces paramètres.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="96"/>
