@@ -66,12 +66,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres avancés pour le calcul de précision.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre de l&apos;interpolation polynomiale qui est utilisée si deux images ont une géométrie différente (origine, espacement, direction de l&apos;axe, ou d&apos;étendue): 0 = plus proche voisin, 1 = linéaire, 2 = quadratique, 3 = interpolation cubique.</translation>
     </message>
     <message>
         <source>Controls</source>
