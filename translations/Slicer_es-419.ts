@@ -374,7 +374,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fracción de los vóxeles de la imagen fija que se utilizarán para el registro. El número tiene que ser mayor que cero y menor o igual que uno. Los valores más altos aumentan el tiempo de cálculo pero pueden dar resultados más precisos. También puede limitar el enfoque de muestreo con las máscaras ROI y la generación de máscaras ROIAUTO. El valor por defecto es 0.002 (utiliza aproximadamente el 0.2% de los voxels, resultando en 100000 muestras en un volumen de 512x512x192) para proporcionar un registro muy rápido en la mayoría de los casos. Los valores típicos oscilan entre 0,01 (1%) para imágenes poco detalladas y 0,2 (20%) para imágenes muy detalladas.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
@@ -470,7 +470,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished"></translation>
+        <translation>usoCentro deROIAlinear</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
@@ -565,22 +565,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) Entrada de máscara fija</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROI) Entrada de enmascaramiento en movimiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) Máscara fija de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished"></translation>
+        <translation>(ROIAUTO) Máscara móvil de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
@@ -605,27 +605,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifica una máscara para considerar sólo una determinada región de la imagen para el registro.  Si se elige ROIAUTO, la máscara se calcula utilizando el umbral de Otsu y el relleno de agujeros. Si se elige ROI, la máscara debe especificarse como entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen fijo de la máscara binaria de la imagen, necesario si la opción de máscara es ROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de máscara binaria de la imagen en movimiento, necesario si la opción de máscara es ROI. Las áreas de imagen en las que el volumen de máscara tiene valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI que se calcula automáticamente a partir de la imagen fija. Sólo disponible si la opción de máscara es AUTO ROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>ROI que se calcula automáticamente a partir de la imagen en movimiento. Sólo disponible si la opción de máscara es AUTO ROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
@@ -656,7 +656,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished"></translation>
+        <translation>AUTO ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
@@ -935,12 +935,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto ROI Dilate Size</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de cierre Auto ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
@@ -1000,7 +1000,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si el modo Inicializar transformación está configurado para utilizar Alineación al centro de la cabeza o la opción Máscara es AUTO ROI, este valor define la cantidad de recorte de la parte inferior de la imagen. La distancia de corte se especifica en milímetros, relativa al centro de la imagen. Si el valor es 1000 o mayor, no se realiza ningún corte.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
@@ -1173,7 +1173,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enmascaramiento del primer plano (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
@@ -1184,7 +1184,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished"></translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5), fedorov -en- bwh.harvard. edu (integración de Slicer); (1=Departamento de Psiquiatría de la Universidad de Iowa, 2=Departamento de Radiología de la Universidad de Iowa, 3=Departamento de Ingeniería Biomédica de la Universidad de Iowa, 4=Departamento de Ingeniería Eléctrica e Informática de la Universidad de Iowa, 5=Laboratorio de Planificación Quirúrgica, Harvard)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
@@ -1194,82 +1194,82 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen de la imagen de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
         <source>Output Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Máscara de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
         <source>Mask Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida de máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de salida recortada por ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>La imagen de entrada para encontrar la máscara rellena de región más grande.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>La ROI encontrada automáticamente a partir de la imagen de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>El inputVolume con opcional [máscara Salida | recorte Salida]a la región de la máscara cerebral.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>El input Volumen multiplicado por la máscara ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>El input Volumen recortado a la región de la máscara ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetros de configuración</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral del percentil Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation type="unfinished"></translation>
+        <translation>Factor de corrección de Otsu</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
         <source>Closing Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de cierre</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto ROI Tamaño de dilatación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
@@ -3653,7 +3653,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="5"/>
         <source>Extract the skeleton of a binary object.  The skeleton can be limited to being a 1D curve or allowed to be a full 2D manifold.  The branches of the skeleton can be pruned so that only the maximal center skeleton is returned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrae el esqueleto de un objeto binario.  El esqueleto puede limitarse a ser una curva 1D o permitirse que sea un colector 2D completo.  Las ramas del esqueleto se pueden podar para que sólo se devuelva el esqueleto central máximo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
@@ -3723,7 +3723,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="19"/>
         <source>Output markups curve</source>
-        <translation type="unfinished"></translation>
+        <translation>Curva de márgenes de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="20"/>
@@ -7861,7 +7861,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="167"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation type="unfinished"></translation>
+        <translation>{modalidad} secuencia de imágenes ({contar} planos)</translation>
     </message>
 </context>
 <context>
@@ -9457,7 +9457,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
         <source>When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</source>
-        <translation type="unfinished">When more than one slice plane is used, this option controls if it&apos;s the union or intersection of the positive and/or negative spaces that is used to clip the model. The parts of the model inside the selected space is kept, parts outside of the selection are clipped away.</translation>
+        <translation>Cuando se utiliza más de un plano de corte, esta opción controla si es la unión o la intersección de los espacios positivo y/o negativo la que se utiliza para recortar el modelo. Las partes del modelo dentro del espacio seleccionado se mantienen, las partes fuera de la selección se recortan.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
@@ -9467,7 +9467,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
         <source>Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the union of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>Utilice la unión de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="50"/>
@@ -9477,7 +9477,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="57"/>
         <source>Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</source>
-        <translation type="unfinished">Use the intersection of the positive and/or negative spaces defined by the slice planes to clip the model.</translation>
+        <translation>Utilice la intersección de los espacios positivos y/o negativos definidos por los planos de corte para recortar el modelo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="64"/>
@@ -9487,7 +9487,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
         <source>Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Red slice plane to clip the model. Positive side is toward the Superior, negative is toward the Inferior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Utilice el espacio positivo o negativo definido por el plano de corte Rojo para recortar el modelo. El lado positivo está hacia el Superior, el negativo hacia el Inferior. Mantener la parte del modelo en el espacio seleccionado, recortar el resto.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="77"/>
@@ -9499,7 +9499,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="84"/>
         <source>Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside the positive space, toward the Superior (head), defined by the Red slice plane.</translation>
+        <translation>Mantenga las partes del modelo que están dentro del espacio positivo, hacia el Superior (cabeza), definido por el plano de corte Rojo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="94"/>
@@ -9511,7 +9511,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="101"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Inferior (feet), defined by the Red slice plane.</translation>
+        <translation>Mantenga las partes del modelo que están dentro del espacio negativo, hacia el Inferior (pies), definido por el plano de corte Rojo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
@@ -9521,17 +9521,17 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="111"/>
         <source>Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Yellow slice plane to clip the model. Positive side is toward the Right, negative is toward the Left. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Utilice el espacio positivo o negativo definido por el plano de corte Amarillo para recortar el modelo. El lado positivo está hacia la derecha, el negativo hacia la izquierda. Mantiene la parte del modelo en el espacio seleccionado, recorta el resto.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="128"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Right, defined by the Yellow slice plane.</translation>
+        <translation>Mantenga las partes del modelo que están dentro del espacio positivo, hacia la derecha, definido por el plano de corte Amarillo.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="145"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Left, defined by the Yellow slice plane .</translation>
+        <translation>Mantenga las partes del modelo que están dentro del espacio negativo, hacia la Izquierda, definido por el plano de corte Amarillo .</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="152"/>
@@ -9541,17 +9541,17 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="155"/>
         <source>Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</source>
-        <translation type="unfinished">Use the positive or negative space defined by the Green slice plane to clip the model. Positive side is toward the Anterior, negative is toward the Posterior. Keeps the part of the model in the selected space, clips away the rest.</translation>
+        <translation>Utilice el espacio positivo o negativo definido por el plano de corte Verde para recortar el modelo. El lado positivo está hacia el anterior, el negativo hacia el posterior. Mantiene la parte del modelo en el espacio seleccionado, recorta el resto.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="172"/>
         <source>Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the positive space, toward the Anterior (front), defined by the Green slice plane.</translation>
+        <translation>Mantenga las partes del modelo que están dentro del espacio positivo, hacia el anterior (frente), definido por el plano de corte Verde.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="189"/>
         <source>Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</source>
-        <translation type="unfinished">Keep the parts of the model that are inside of the negative space, toward the Posterior (back), defined by the Green slice plane.</translation>
+        <translation>Mantenga las partes del modelo que están dentro del espacio negativo, hacia el posterior (atrás), definido por el plano de corte Verde.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
@@ -9897,47 +9897,47 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="32"/>
         <source>Curve Settings</source>
-        <translation type="unfinished">Curve Settings</translation>
+        <translation>Ajustes de curva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="58"/>
         <source>Curve Type:</source>
-        <translation type="unfinished">Curve Type:</translation>
+        <translation>Tipo de curva:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="68"/>
         <source>Constrain to Model:</source>
-        <translation type="unfinished">Constrain to Model:</translation>
+        <translation>Limitar al modelo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="89"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Superficie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="98"/>
         <source>Cost function:</source>
-        <translation type="unfinished">Cost function:</translation>
+        <translation>Función de coste:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="105"/>
         <source>Distance weighting function:</source>
-        <translation type="unfinished">Distance weighting function:</translation>
+        <translation>Función de ponderación de la distancia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="142"/>
         <source>distance / (</source>
-        <translation type="unfinished">distance / (</translation>
+        <translation>distancia / (</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="164"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Function used to calculate scalar weights for pathfinding. The currently active point scalar can be accessed using the &amp;quot;activeScalar&amp;quot; variable name. All other scalars can be accessed as variables provided that they don&apos;t contain any illegal characters (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Example functions: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Función utilizada para calcular los pesos escalares para el pathfinding. Se puede acceder al punto escalar actualmente activo mediante la función &amp;quot;activeScalar&amp;quot; nombre de la variable. Se puede acceder a todos los demás escalares como variables siempre que no contengan caracteres ilegales (&amp;quot;./* etc.).&lt;/p&gt;&lt;p&gt;Ejemplos de funciones: &amp;quot;activeScalar*activeScalar&amp;quot;, &amp;quot;exp(activeScalar)&amp;quot;, &amp;quot;1.0-activeScalar&amp;quot;, &amp;quot;scalarA*scalarB&amp;quot;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="167"/>
         <source>activeScalar</source>
-        <translation type="unfinished">activeScalar</translation>
+        <translation>EscalaActiva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="180"/>
@@ -9952,12 +9952,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="211"/>
         <source>Maximum projection distance:</source>
-        <translation type="unfinished">Maximum projection distance:</translation>
+        <translation>Distancia máxima de proyección:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="218"/>
         <source>Select the maximum projection distance as percentage of bounding box size.</source>
-        <translation type="unfinished">Select the maximum projection distance as percentage of bounding box size.</translation>
+        <translation>Seleccione la distancia máxima de proyección como porcentaje del tamaño del cuadro delimitador.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="233"/>
@@ -9968,52 +9968,52 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="249"/>
         <source>Resample a curve with the number of points specified.</source>
         <oldsource>Resample a curve and optionally constrain the points to a node</oldsource>
-        <translation type="unfinished">Resample a curve and optionally constrain the points to a node</translation>
+        <translation>Volver a muestrear una curva y, opcionalmente, restringir los puntos a un nodo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
         <source>Resample</source>
-        <translation type="unfinished">Resample</translation>
+        <translation>Remuestrear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="333"/>
         <source>Resamples the active curve with the number of points specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuelve a muestrear la curva activa con el número de puntos especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="261"/>
         <source>Output node: </source>
-        <translation type="unfinished">Output node: </translation>
+        <translation>Nodo de salida: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="268"/>
         <source>Select the number of points on the resampled curve. </source>
-        <translation type="unfinished">Select the number of points on the resampled curve. </translation>
+        <translation>Seleccione el número de puntos de la curva remuestreada. </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="271"/>
         <source>Number of resampled points: </source>
-        <translation type="unfinished">Number of resampled points: </translation>
+        <translation>Número de puntos remuestreados: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="281"/>
         <source>The active curve will be resamples with the number of points specified.</source>
-        <translation type="unfinished">The active curve will be resamples with the number of points specified.</translation>
+        <translation>La curva activa se remuestreará con el número de puntos especificado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="303"/>
         <source>Select a node to store the resampled curve </source>
-        <translation type="unfinished">Select a node to store the resampled curve </translation>
+        <translation>Seleccione un nodo para almacenar la curva remuestreada </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="326"/>
         <source>(Overwrite current node)</source>
-        <translation type="unfinished">(Overwrite current node)</translation>
+        <translation>(Sobrescribir el nodo actual)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="336"/>
         <source>Resample curve</source>
-        <translation type="unfinished">Resample curve</translation>
+        <translation>Curva de remuestreo</translation>
     </message>
 </context>
 <context>
@@ -10232,7 +10232,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="135"/>
         <source>If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</source>
-        <translation type="unfinished">If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</translation>
+        <translation>Si se activa, todos los puntos de control se mostrarán en visores 2D, proyectándolos en el plano de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="44"/>
@@ -10336,7 +10336,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="242"/>
         <source>View plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver plano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="285"/>
@@ -10363,27 +10363,27 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="14"/>
         <source>Plane Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades del plano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="32"/>
         <source>Plane settings</source>
-        <translation type="unfinished">Plane settings</translation>
+        <translation>Ajustes del plano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="52"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="62"/>
         <source>Size mode:</source>
-        <translation type="unfinished">Size mode:</translation>
+        <translation>Modo de tamaño:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
         <source>Size:</source>
-        <translation type="unfinished">Size:</translation>
+        <translation>Tamaño:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
@@ -10398,27 +10398,27 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
         <source>Bounds:</source>
-        <translation type="unfinished">Bounds:</translation>
+        <translation>Límites:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
         <source>X max:</source>
-        <translation type="unfinished">X max:</translation>
+        <translation>X máximo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="171"/>
         <source>X min:</source>
-        <translation type="unfinished">X min:</translation>
+        <translation>X mínimo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="184"/>
         <source>Y min:</source>
-        <translation type="unfinished">Y min:</translation>
+        <translation>Y mínimo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="217"/>
         <source>Y max:</source>
-        <translation type="unfinished">Y max:</translation>
+        <translation>Y máximo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="226"/>
@@ -10597,12 +10597,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
         <source>Hide part of the model according to Clipping Planes settings.</source>
-        <translation type="unfinished">Hide part of the model according to Clipping Planes settings.</translation>
+        <translation>Ocultar parte del modelo según los ajustes de Planos de recorte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="129"/>
         <source>Configure clipping planes</source>
-        <translation type="unfinished">Configure clipping planes</translation>
+        <translation>Configurar planos de recorte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
@@ -10706,7 +10706,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="413"/>
         <source>Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</source>
-        <translation type="unfinished">Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</translation>
+        <translation>Intersección: muestra la intersección del modelo con el corte. Proyección: muestra el modelo completo proyectado en el plano de corte con color sólido. Proyección coloreada: muestra el modelo completo proyectado en el plano de corte, coloreado según la distancia desde el plano de corte (anula la selección Escalar activo).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
@@ -10736,7 +10736,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="465"/>
         <source>Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</source>
-        <translation type="unfinished">Color table that maps distance from slice plane to colors. Used when &apos;Distance encoded projection&apos; mode is chosen.</translation>
+        <translation>Tabla de colores que asigna la distancia desde el plano de corte a los colores. Se utiliza cuando se elige el modo &apos;Proyección codificada por distancia&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="475"/>
@@ -13083,7 +13083,7 @@ Do you wish to proceed with changing master representation?</translation>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="719"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="722"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotate to volume plane</translation>
+        <translation>Girar al plano de volumen</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="738"/>
@@ -19100,7 +19100,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation type="unfinished">Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</translation>
+        <translation>Desplazamiento: fija la posición del plano de corte. Centrado: establece la posición del plano de corte y centra la vista de corte en el punto de control.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
@@ -19125,7 +19125,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Muestre cómo los otros planos de corte intersecan cada plano de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
@@ -20524,7 +20524,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="194"/>
         <source>On Plane</source>
-        <translation type="unfinished">On Plane</translation>
+        <translation>En el plano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="204"/>
@@ -24222,7 +24222,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="214"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Muestre cómo los otros planos de corte intersecan cada plano de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="223"/>
@@ -25173,7 +25173,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</translation>
+        <translation>Los planos de vista de corte se desplazan para coincidir con la posición de la retícula (aunque no se muestre la retícula).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
@@ -25374,7 +25374,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation type="unfinished">Show how the other slice planes intersect each slice plane.</translation>
+        <translation>Muestre cómo los otros planos de corte intersecan cada plano de corte.</translation>
     </message>
 </context>
 <context>
