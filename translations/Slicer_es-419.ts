@@ -1179,7 +1179,8 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>Este programa se utiliza para crear una máscara sobre la región de primer plano más prominente de una imagen.  Esto se consigue mediante una combinación de umbralización otsu y una operación de cierre.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
@@ -1274,27 +1275,27 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen de salida Tipo píxel</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de cadenas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parámetro del algoritmo de umbral Otsu.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un factor para escalar el umbral obtenido por el algoritmo Otsu, en caso de que el recorte afecte a la imagen.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño de cierre (en milímetros) para la máscara rellena conectada más grande.  Este valor se divide por el espaciado de la imagen y se redondea al siguiente número de vóxel más grande.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
@@ -1309,23 +1310,23 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique explícitamente el número máximo de cadenas a utilizar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>corto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>flotador</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished"></translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
@@ -1335,12 +1336,12 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished"></translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished"></translation>
+        <translation>uchar</translation>
     </message>
 </context>
 <context>
@@ -3520,17 +3521,17 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Medidas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
         <source>Input FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Medidas FA de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="100"/>
         <source>Output FA measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediciones FA de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"/>
@@ -4247,7 +4248,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
         <source>Grayscale threshold of isosurface. The resulting surface of triangles separates the volume into voxels that lie above (inside) and below (outside) the threshold.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbral en escala de grises de la isosuperficie. La superficie de triángulos resultante separa el volumen en vóxeles que se encuentran por encima (dentro) y por debajo (fuera) del umbral.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
@@ -4267,7 +4268,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affect measurements</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir las normales es útil para visualizar características nítidas. Sin embargo, crea agujeros en las superficies que afectan a las mediciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="26"/>
@@ -4980,12 +4981,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="40"/>
         <source>Chose the target reduction in number of polygons as a decimal percentage (between 0 and 1) of the number of polygons. Specifies the percentage of triangles to be removed. For example, 0.1 means 10% reduction and 0.9 means 90% reduction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija el objetivo de reducción del número de polígonos como un porcentaje decimal (entre 0 y 1) del número de polígonos. Especifica el porcentaje de triángulos que se eliminarán. Por ejemplo, 0,1 significa una reducción del 10% y 0,9 una reducción del 90%.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="41"/>
         <source>Splitting normals is useful for visualizing sharp features. However it creates holes in surfaces which affects measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir las normales es útil para visualizar características nítidas. Sin embargo, crea agujeros en las superficies que afectan a las mediciones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
@@ -7850,7 +7851,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
         <source>Image spacing may need to be calibrated for accurate size measurements.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede ser necesario calibrar el espaciado de las imágenes para obtener mediciones de tamaño precisas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
@@ -9844,47 +9845,47 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="14"/>
         <source>Angle Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades de ángulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="32"/>
         <source>Angle Settings</source>
-        <translation type="unfinished">Angle Settings</translation>
+        <translation>Configuración del ángulo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="50"/>
         <source>Measurement mode:</source>
-        <translation type="unfinished">Measurement mode:</translation>
+        <translation>Modo de medición:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Minimal: minimal non-oriented angle, between [0..180)&lt;br/&gt;- Oriented signed: oriented angle [-180..180), using rotation axis in right-hand rule&lt;br/&gt;- Oriented positive: oriented angle [0..360), using rotation axis in right-hand rule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;- Mínimo: ángulo mínimo no orientado, entre [0..180)&lt;br/&gt;- Orientado firmado: ángulo orientado [-180..180), utilizando el eje de rotación en la regla de la derecha&lt;br/&gt;- Orientado positivo: ángulo orientado [0..360), utilizando el eje de rotación en la regla de la derecha&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="61"/>
         <source>Minimal</source>
-        <translation type="unfinished">Minimal</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="66"/>
         <source>Oriented signed</source>
-        <translation type="unfinished">Oriented signed</translation>
+        <translation>Orientación firmada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="71"/>
         <source>Oriented positive</source>
-        <translation type="unfinished">Oriented positive</translation>
+        <translation>Orientación positiva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="79"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">Rotation axis:</translation>
+        <translation>Eje de rotación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsAngleMeasurementsWidget.ui" line="86"/>
         <source>Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</source>
-        <translation type="unfinished">Rotation axis direction in RAS coordinate system. Used for defining direction in oriented angle modes using right hand rule.</translation>
+        <translation>Dirección del eje de rotación en el sistema de coordenadas RAS. Se usa para definir la dirección en modos de orientación de ángulos utilizando la regla de la mano derecha.</translation>
     </message>
 </context>
 <context>
@@ -10188,7 +10189,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
         <source>Show node name and measurements</source>
-        <translation type="unfinished">Show node name and measurements</translation>
+        <translation>Mostrar nombre de nodo y medidas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
@@ -10441,42 +10442,42 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="14"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="32"/>
         <source>ROI Settings</source>
-        <translation type="unfinished">ROI Settings</translation>
+        <translation>Configuración ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="49"/>
         <source>ROI type:</source>
-        <translation type="unfinished">ROI type:</translation>
+        <translation>Tipo de ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="59"/>
         <source>Inside out:</source>
-        <translation type="unfinished">Inside out:</translation>
+        <translation>Al revés:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="77"/>
         <source>L-R Range:</source>
-        <translation type="unfinished">L-R Range:</translation>
+        <translation>Rango I-D:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
         <source>P-A Range:</source>
-        <translation type="unfinished">P-A Range:</translation>
+        <translation>Rango P-A:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1996"/>
         <source>I-S Range:</source>
-        <translation type="unfinished">I-S Range:</translation>
+        <translation>Rango I-S:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2038"/>
         <source>Display ROI</source>
-        <translation type="unfinished">Display ROI</translation>
+        <translation>Mostrar ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2061"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished">Interactive Mode</translation>
+        <translation>Modo interactivo</translation>
     </message>
 </context>
 <context>
@@ -11452,32 +11453,32 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedades ROI</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
         <source>L-R Range:</source>
-        <translation type="unfinished">L-R Range:</translation>
+        <translation>Rango I-D:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation type="unfinished">P-A Range:</translation>
+        <translation>Rango P-A:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
         <source>I-S Range:</source>
-        <translation type="unfinished">I-S Range:</translation>
+        <translation>Rango I-S:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2003"/>
         <source>Display Clipping box</source>
-        <translation type="unfinished">Display Clipping box</translation>
+        <translation>Mostrar cuadro de recorte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2026"/>
         <source>Interactive Mode</source>
-        <translation type="unfinished">Interactive Mode</translation>
+        <translation>Modo interactivo</translation>
     </message>
 </context>
 <context>
@@ -16389,12 +16390,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
         <source>Input ROI:</source>
-        <translation type="unfinished">Input ROI:</translation>
+        <translation>Entrada ROI:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
-        <translation type="unfinished">Crop Volume ROI</translation>
+        <translation>Cortar volumen ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
@@ -16404,7 +16405,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="214"/>
         <source>Display ROI</source>
-        <translation type="unfinished">Display ROI</translation>
+        <translation>Mostrar ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="235"/>
@@ -16440,7 +16441,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
         <source>Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</source>
-        <translation type="unfinished">Interpolate and pad the input volume to make the output image exactly the size of the ROI, with the requested spacing.</translation>
+        <translation>Interpola y rellena el volumen de entrada para que la imagen de salida tenga exactamente el tamaño del ROI, con el espaciado solicitado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
@@ -16584,12 +16585,12 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="128"/>
         <source>Input ROI is under a non-linear tansform.</source>
-        <translation>La ROI de entrada está sometida a una tansformación no lineal.</translation>
+        <translation>El ROI de entrada está sometida a una tansformación no lineal.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="134"/>
         <source>Select or create a new input ROI.</source>
-        <translation type="unfinished">Select or create a new input ROI.</translation>
+        <translation>Seleccione o cree un nuevo ROI de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="141"/>
@@ -16604,7 +16605,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="158"/>
         <source>Interpolation is disabled and input ROI is not aligned with input volume axes.</source>
-        <translation type="unfinished">Interpolation is disabled and input ROI is not aligned with input volume axes.</translation>
+        <translation>La interpolación está desactivada y el ROI de entrada no está alineado con los ejes de volumen de entrada.</translation>
     </message>
 </context>
 <context>
@@ -19283,7 +19284,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="747"/>
         <source>Measurements</source>
-        <translation type="unfinished">Measurements</translation>
+        <translation>Medidas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="756"/>
@@ -19818,7 +19819,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation type="unfinished">Triangle2D</translation>
+        <translation>Triángulo2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
@@ -25603,7 +25604,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="221"/>
         <source>Display ROI</source>
-        <translation>Visualizar ROI</translation>
+        <translation>Mostrar ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="242"/>
