@@ -6980,25 +6980,27 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 paramètres de la matrice de transformation par lignes ( -les 3 derniers étant la translation-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="90"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Algorithme de transformation
+rt = Transformation rigide
+a = transformation affine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="91"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="93"/>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="92"/>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -7006,7 +7008,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="5"/>
         <source>Resample Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Rééchantillonner le volume scalaire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
@@ -7052,17 +7054,17 @@ a = Affine Transform</source>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="15"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>linéaire</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="16"/>
         <source>nearestNeighbor</source>
-        <translation type="unfinished"></translation>
+        <translation>voisin le plus proche</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="17"/>
         <source>bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>ligne BSP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
@@ -11621,7 +11623,7 @@ doit définir &quot;backface&quot; et &quot;frontface&quot; sur OFF dans les opt
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
-        <translation type="unfinished"></translation>
+        <translation>Usine de scènes</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
@@ -17846,24 +17848,24 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="718"/>
         <source>Select extension archive file(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner le(s) fichier(s) d&apos;archive d&apos;extension...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="719"/>
         <source>Archives</source>
-        <translation type="unfinished"></translation>
+        <translation>Archives</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="720"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les dossiers</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
         <source>Install/uninstall/update operations are still in progress:</source>
         <oldsource>Install/uninstall/update operations are still in progress:
 - </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Les opérations d&apos;installation/désinstallation/mise à jour sont toujours en cours :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
@@ -17879,12 +17881,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="95"/>
         <source>Slicer Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensions de Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="102"/>
         <source>Extensions can not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les extensions ne peuvent pas être installées.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
@@ -17899,12 +17901,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation>En savoir plus...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="117"/>
         <source>Try Again</source>
-        <translation type="unfinished"></translation>
+        <translation>Réessayer</translation>
     </message>
 </context>
 <context>
@@ -17912,13 +17914,13 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Extensions tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils d&apos;extension</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="144"/>
         <source>Query the Extensions Server if there are updates for any of the installed extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Demander au serveur d&apos;extensions s&apos;il existe des mises à jour pour l&apos;une des extensions installées.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
@@ -17929,77 +17931,77 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="38"/>
         <source>Updates all extensions with the latest version available on the Extensions Server</source>
-        <translation type="unfinished"></translation>
+        <translation>met à jour toutes les extensions avec la dernière version disponible sur le serveur d&apos;extensions</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="41"/>
         <source>Update all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout mettre à jour</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="56"/>
         <source>Install all the bookmarked extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer toutes les extensions mises en favoris</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="59"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer les signets</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="74"/>
         <source>Install extensions from one or more extension package files</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer des extensions à partir d&apos;un ou plusieurs fichiers d&apos;extension</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="122"/>
         <source>Automatically check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher automatiquement les mises à jour</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="125"/>
         <source>Periodically check for updated extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifiez régulièrement si les extensions ont été mises à jour.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="133"/>
         <source>Automatically install updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer automatiquement les mises à jour</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="136"/>
         <source>Automatically install updated extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer automatiquement les extensions mises à jour</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="149"/>
         <source>Edit bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les favoris...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="152"/>
         <source>Edit list of bookmarks in a text field</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la liste des signets dans un champ de texte</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="157"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le site web du catalogue des extensions...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le site web du catalogue d&apos;extensions dans le navigateur web par défaut. Utile pour télécharger des paquets d&apos;extensions pour une utilisation hors ligne.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
         <source>Automatically install dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer automatiquement les dépendances</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="171"/>
         <source>Automatically install required additional extensions when installing an extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Installation automatique des extensions supplémentaires requises lors de l&apos;installation d&apos;une extension</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"/>
