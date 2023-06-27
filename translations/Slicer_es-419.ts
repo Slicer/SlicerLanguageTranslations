@@ -1117,7 +1117,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualiza mensajes de depuración y produce resultados intermedios. 0=OFF, 1=Mínimo, 10=Máximo depuración.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
@@ -1144,7 +1144,7 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra volúmenes de imagen intermedios para depuración.  NOTA: Esto no forma parte del sistema de compilación estándar, y probablemente no haga nada en su instalación.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
@@ -3004,7 +3004,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la magnitud de un gradiente es mayor que 0 y menor que un GradientThreshold pequeño, DWIConvert mostrará un mensaje de error y saldrá, a menos que la opción useBMatrixGradientDirections esté activada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
@@ -3843,7 +3843,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
         <source>Display RMS Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error RMS en pantalla.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
@@ -5386,7 +5386,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
         <source>Orients an output volume. Rearranges the slices in a volume according to the selected orientation. The slices are not interpolated. They are just reordered and/or permuted. The resulting volume will cover the original volume. NOTE: since Slicer takes into account the orientation of a volume, the re-oriented volume will not show any difference from the original volume, To see the difference, save the volume and display it with a system that either ignores the orientation of the image (e.g. Paraview) or displays individual images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orienta un volumen de salida. Reorganiza los cortes de un volumen según la orientación seleccionada. Los cortes no se interpolan, sólo se reordenan y/o permutan. El volumen resultante cubrirá el volumen original. NOTA: dado que Slicer tiene en cuenta la orientación de un volumen, el volumen reorientado no mostrará ninguna diferencia con el volumen original. Para ver la diferencia, guarde el volumen y visualícelo con un sistema que ignore la orientación de la imagen (por ejemplo, Paraview) o que muestre imágenes individuales.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
@@ -5710,7 +5710,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcula el valor de captación normalizado en función del peso corporal. Toma una imagen PET de entrada en formato DICOM y NRRD (el encabezado DICOM debe contener parámetros radiofarmacéuticos). Produce un archivo CSV que contiene identificación del paciente, fecha del estudio, dosis, etiqueta, valor mínimo, valor máximo, media y nombre de la etiqueta para cada volumen de interés. También muestra parte de la información como cadenas de salida en la GUI, el archivo CSV es opcional en ese caso. El archivo CSV se añade en cada ejecución de la CLI.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
@@ -8179,7 +8179,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="108"/>
         <source>Offer loading of individual slices or group of slices that were acquired at a specific time (content or trigger time). If this option is enabled then a large number of loadable items may be displayed in the Advanced section of DICOM browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofrece la carga de cortes individuales o grupos de cortes que fueron adquiridos en un momento específico (contenido o tiempo de disparo). Si esta opción está activada, es posible que se muestre un gran número de elementos cargables en la sección Avanzada del navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="108"/>
@@ -9077,7 +9077,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="110"/>
         <source>Annotation Display Level:</source>
-        <translation type="unfinished">Annotation Display Level:</translation>
+        <translation>Nivel de visualización de las anotaciones:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="117"/>
@@ -9587,7 +9587,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="85"/>
         <source>Label text:</source>
-        <translation>Etiqueta de texto:</translation>
+        <translation>Texto de etiqueta:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="100"/>
@@ -9602,7 +9602,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="116"/>
         <source>Show color name as label text</source>
-        <translation type="unfinished">Show color name as label text</translation>
+        <translation>Mostrar el nombre del color como texto de la etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="119"/>
@@ -9617,7 +9617,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="138"/>
         <source>Number of labels to display. Only applicable if values are used as label text (not color name).</source>
-        <translation type="unfinished">Number of labels to display. Only applicable if values are used as label text (not color name).</translation>
+        <translation>Número de etiquetas a mostrar. Sólo aplicable si se utilizan valores como texto de etiqueta (no el nombre del color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="151"/>
@@ -9627,7 +9627,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="158"/>
         <source>Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</source>
-        <translation type="unfinished">Maximum number of colors displayed. Reduce the number to see discrete colors instead of a continuous color gradient. Only applicable if values are used as label text (not color name).</translation>
+        <translation>Número máximo de colores mostrados. Reduzca el número para ver colores discretos en lugar de un gradiente de color continuo. Sólo se aplica si los valores se utilizan como texto de etiqueta (no como nombre de color).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="174"/>
@@ -9653,7 +9653,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="223"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="233"/>
         <source>Horizontal position of the color legend</source>
-        <translation type="unfinished">Horizontal position of the color legend</translation>
+        <translation>Posición horizontal de la leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="226"/>
@@ -9665,7 +9665,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="252"/>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="262"/>
         <source>Vertical position of the color legend</source>
-        <translation type="unfinished">Vertical position of the color legend</translation>
+        <translation>Posición vertical de la leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="255"/>
@@ -9683,7 +9683,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
         <source>Short side length of the color legend, relative to view size</source>
         <oldsource>Short side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Short side length of the color legend, as percentage of view size</translation>
+        <translation>Longitud corta del lado de la leyenda de color, en porcentaje del tamaño de la vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
@@ -9696,7 +9696,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="331"/>
         <source>Long side length of the color legend, relative to view size</source>
         <oldsource>Long side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Long side length of the color legend, as percentage of view size</translation>
+        <translation>Longitud del lado largo de la leyenda de color, en porcentaje del tamaño de la vista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="324"/>
@@ -9722,7 +9722,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/qMRMLColorLegendDisplayNodeWidget.cxx" line="81"/>
         <source>&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;body&gt;Format field uses printf function syntax. Example formats:&lt;br&gt;    - display with 1 fractional digits: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - display integer: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - display with 4 significant digits: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - string label annotation: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;body&gt;El campo Formato utiliza la sintaxis de la función printf.Ejemplo de los formatos:&lt;br&gt;    - pantalla con 1 dígito fraccionario: &lt;b&gt;%.1f&lt;/b&gt;&lt;br&gt;    - mostrar número entero: &lt;b&gt;%.0f&lt;/b&gt;&lt;br&gt;    - con 4 dígitos significativos:: &lt;b&gt;%.4g&lt;/b&gt;&lt;br&gt;    - anotación de etiqueta de cadena: &lt;b&gt;%s&lt;/b&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -9767,7 +9767,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="14"/>
         <source>Display Properties</source>
         <oldsource>Display Node</oldsource>
-        <translation type="unfinished">Display Node</translation>
+        <translation>Propiedades de visualización</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
@@ -9783,7 +9783,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="55"/>
         <source>&amp;Selected:</source>
-        <translation type="unfinished">&amp;Selected:</translation>
+        <translation>&amp;Seleccionado:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
@@ -9794,12 +9794,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visibility:</source>
         <oldsource>Slice &amp;Intersections Visible:</oldsource>
-        <translation type="unfinished">Slice &amp;Intersections Visible:</translation>
+        <translation>Slice &amp;Intersecciones visibles:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation type="unfinished">Slice Intersections &amp;Thickness:</translation>
+        <translation>Intersecciones y grosor de corte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
@@ -9809,23 +9809,23 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="132"/>
         <source>Slice Intersections Opacity:</source>
-        <translation type="unfinished">Slice Intersections Opacity:</translation>
+        <translation>Opacidad de Intersecciones de cortes:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="161"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>Seleccione las vistas en las que se mostrará este nodo. Todo sin anular la selección que muestra todas las vistas de 3D y 2D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="168"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
         <source>3D Visibility:</source>
         <oldsource>3D Visible:</oldsource>
-        <translation type="unfinished">3D Visible:</translation>
+        <translation>Visibilidad en 3D:</translation>
     </message>
 </context>
 <context>
@@ -10023,12 +10023,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="14"/>
         <source>Markups Display Properties</source>
         <oldsource>Markups Display Node</oldsource>
-        <translation type="unfinished">Markups Display Node</translation>
+        <translation>Propiedades de visualización de marcas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
         <source>Overall visibility of the selected node in all views</source>
-        <translation type="unfinished">Overall visibility of the selected node in all views</translation>
+        <translation>Visibilidad global del nodo seleccionado en todas las vistas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="44"/>
@@ -10046,13 +10046,13 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
         <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-        <translation>Si el botón es seleccionado entonces el tamaño del punto de control del marcador es especificado en unidad de longitud física, sino como porcentaje del tamaño de la ventana.</translation>
+        <translation>Si se pulsa el botón, el tamaño del glifo del punto de control se especifica en la unidad de longitud física; de lo contrario, se especifica como porcentaje del tamaño de la ventana.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="354"/>
         <source>absolute</source>
-        <translation type="unfinished">absolute</translation>
+        <translation>absoluto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="91"/>
@@ -10069,27 +10069,27 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
         <source>Text Display</source>
-        <translation type="unfinished">Text Display</translation>
+        <translation>Visualización de texto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="148"/>
         <source>Bold</source>
-        <translation type="unfinished">Bold</translation>
+        <translation>En negrita</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="155"/>
         <source>Italic</source>
-        <translation type="unfinished">Italic</translation>
+        <translation>En cursiva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
         <source>Shadow</source>
-        <translation type="unfinished">Shadow</translation>
+        <translation>Sombreado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
         <source>Font:</source>
-        <translation type="unfinished">Font:</translation>
+        <translation>Tipo de letra:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
@@ -10099,7 +10099,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
         <source>Background:</source>
-        <translation type="unfinished">Background:</translation>
+        <translation>Fondo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
@@ -10109,32 +10109,32 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
         <source>Active Color:</source>
-        <translation type="unfinished">Active Color:</translation>
+        <translation>Activar color:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
         <source>2D Display</source>
-        <translation type="unfinished">2D Display</translation>
+        <translation>Visualización en 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
         <source>Fill:</source>
-        <translation type="unfinished">Fill:</translation>
+        <translation>Rellenar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
         <source>Glyph Type:</source>
-        <translation>Typo de Marcador:</translation>
+        <translation>Tipo de marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="311"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Visualizar:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
         <source>Unselected Color:</source>
-        <translation type="unfinished">Unselected Color:</translation>
+        <translation>Color no seleccionado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
@@ -10144,12 +10144,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="332"/>
         <source>Show control point labels</source>
-        <translation type="unfinished">Show control point labels</translation>
+        <translation>Mostrar etiquetas de puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="351"/>
         <source>If button is pressed then line thickness is specified in physical length unit, otherwise as percentage of glyph size</source>
-        <translation>Si se presiona el botón, entonces lo grueso de la línea se especifica en unidad de longitud física, si no como porcentaje del tamaño del glifo</translation>
+        <translation>Si se pulsa el botón, el grosor de la línea se especifica en la unidad de longitud física; de lo contrario, se especifica como porcentaje del tamaño del glifo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
@@ -10159,32 +10159,32 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
         <source>Selected Color:</source>
-        <translation type="unfinished">Selected Color:</translation>
+        <translation>Color seleccionado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
         <source>Control Point Labels:</source>
-        <translation type="unfinished">Control Point Labels:</translation>
+        <translation>Etiquetas de los puntos de control:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
         <source>3D Display</source>
-        <translation>Monitor 3D</translation>
+        <translation>Visualizar en 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
         <source>Occluded Visibility:</source>
-        <translation type="unfinished">Occluded Visibility:</translation>
+        <translation>Visibilidad oculta:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation>Modo de Colocación:</translation>
+        <translation>Modo de colocación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation>Etiqueta de Características:</translation>
+        <translation>Etiqueta de características:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
@@ -10194,32 +10194,32 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
         <source>Glyph Size:</source>
-        <translation>Tamaño de Marcador:</translation>
+        <translation>Tamaño de marcador:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
         <source>Text Size:</source>
-        <translation type="unfinished">Text Size:</translation>
+        <translation>Tamaño del texto:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
         <source>Scalars</source>
-        <translation type="unfinished">Scalars</translation>
+        <translation>Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="595"/>
         <source>Interaction handles</source>
-        <translation type="unfinished">Interaction handles</translation>
+        <translation>Controles de interacción</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
         <source>unconstrained</source>
-        <translation type="unfinished">unconstrained</translation>
+        <translation>no limitado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="119"/>
         <source>snap to visible surface</source>
-        <translation type="unfinished">snap to visible surface</translation>
+        <translation>encajar en la superficie visible</translation>
     </message>
 </context>
 <context>
@@ -10472,7 +10472,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2038"/>
         <source>Display ROI</source>
-        <translation>Mostrar ROI</translation>
+        <translation>Visualización de ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2061"/>
@@ -10533,67 +10533,67 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
         <source>Model Display Properties</source>
         <oldsource>Model Display Node</oldsource>
-        <translation type="unfinished">Model Display Node</translation>
+        <translation>Propiedades de visualización de los modelos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
         <source>3D Display</source>
-        <translation>Monitor 3D</translation>
+        <translation>Visualización en 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="44"/>
         <source>Representation:</source>
-        <translation type="unfinished">Representation:</translation>
+        <translation>Representación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished">Points</translation>
+        <translation>Puntos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
         <source>Wireframe</source>
-        <translation type="unfinished">Wireframe</translation>
+        <translation>Bastidor</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="62"/>
         <source>Surface</source>
-        <translation type="unfinished">Surface</translation>
+        <translation>Superficie</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="67"/>
         <source>Surface with Edges</source>
-        <translation type="unfinished">Surface with Edges</translation>
+        <translation>Superficie con bordes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="75"/>
         <source>Visible Sides:</source>
-        <translation>Orientaciones Visibles:</translation>
+        <translation>Orientaciones visibles:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="82"/>
         <source>All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</source>
-        <translation type="unfinished">All: recommended for open surface. Front: recommended for faster rendering of closed opaque surfaces. Back: Useful for rendering backface of open surfaces with different color.</translation>
+        <translation>Todo: recomendado para superficies abiertas. Anverso: recomendado para un renderizado más rápido de superficies opacas cerradas. Posterior: Útil para renderizar cara posterior de superficies abiertas con diferente color.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="86"/>
         <source>All</source>
-        <translation type="unfinished">All</translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="91"/>
         <source>Front-facing</source>
-        <translation type="unfinished">Front-facing</translation>
+        <translation>Mirada frontal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="96"/>
         <source>Back-facing</source>
-        <translation type="unfinished">Back-facing</translation>
+        <translation>Mirada hacia atrás</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
         <source>Clipping:</source>
-        <translation type="unfinished">Clipping:</translation>
+        <translation>Recorte:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
@@ -10608,7 +10608,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="132"/>
         <source>Configure...</source>
-        <translation type="unfinished">Configure...</translation>
+        <translation>Configurar...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="154"/>
@@ -10618,33 +10618,33 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="166"/>
         <source>Point Size:</source>
-        <translation type="unfinished">Point Size:</translation>
+        <translation>Tamaño del punto:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="186"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="435"/>
         <source>Line Width:</source>
-        <translation>Ancho de línea:</translation>
+        <translation>Ancho de la línea:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="206"/>
         <source>Edge Color:</source>
-        <translation type="unfinished">Edge Color:</translation>
+        <translation>Color de los bordes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="216"/>
         <source>Lighting:</source>
-        <translation type="unfinished">Lighting:</translation>
+        <translation>Iluminación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="230"/>
         <source>Interpolation:</source>
-        <translation type="unfinished">Interpolation:</translation>
+        <translation>Interpolación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="238"/>
         <source>Flat</source>
-        <translation type="unfinished">Flat</translation>
+        <translation>Plano</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="243"/>
@@ -10654,38 +10654,38 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="248"/>
         <source>Phong</source>
-        <translation type="unfinished">Phong</translation>
+        <translation>Sombreado de Phong</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="253"/>
         <source>PBR</source>
-        <translation type="unfinished"></translation>
+        <translation>PBR</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="274"/>
         <source>Backface color hue, saturation, and brightess offset to frontface color</source>
-        <translation type="unfinished">Backface color hue, saturation, and brightess offset to frontface color</translation>
+        <translation>Tono, saturación y brillo del color de la cara posterior compensados con el color de la cara frontal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="277"/>
         <source>Backface Color Offset:</source>
-        <translation type="unfinished">Backface Color Offset:</translation>
+        <translation>Desplazamiento del color de la cara posterior:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="286"/>
         <source>Color hue offset</source>
-        <translation type="unfinished">Color hue offset</translation>
+        <translation>Desplazamiento del tono de color</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="305"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="324"/>
         <source>Color saturation offset</source>
-        <translation type="unfinished">Color saturation offset</translation>
+        <translation>Desplazamiento del tono de color</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="351"/>
         <source>Slice Display</source>
-        <translation type="unfinished">Slice Display</translation>
+        <translation>Visualización de cortes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="360"/>
@@ -10702,7 +10702,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="406"/>
         <source>Mode:</source>
-        <translation type="unfinished">Mode:</translation>
+        <translation>Modo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="413"/>
@@ -10712,17 +10712,17 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
         <source>Intersection</source>
-        <translation type="unfinished">Intersection</translation>
+        <translation>Intersección</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="422"/>
         <source>Projection</source>
-        <translation type="unfinished">Projection</translation>
+        <translation>Proyección</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="427"/>
         <source>Distance encoded projection</source>
-        <translation type="unfinished">Distance encoded projection</translation>
+        <translation>Proyección codificada por distancia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="442"/>
@@ -10732,7 +10732,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="458"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>Tabla de colores:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="465"/>
@@ -10742,7 +10742,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="475"/>
         <source>Scalars</source>
-        <translation type="unfinished">Scalars</translation>
+        <translation>Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="493"/>
@@ -10752,12 +10752,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="499"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>Seleccione las vistas en las que se mostrará este nodo. Todo esto anulando la selección se muestra en todas las vistas 3D y 2D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="506"/>
         <source>View:</source>
-        <translation type="unfinished">View:</translation>
+        <translation>Vista:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="520"/>
@@ -11473,7 +11473,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2003"/>
         <source>Display Clipping box</source>
-        <translation>Mostrar cuadro de recorte</translation>
+        <translation>Visualización del cuadro de recorte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2026"/>
@@ -11494,7 +11494,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="14"/>
         <source>Scalars Display</source>
-        <translation type="unfinished">Scalars Display</translation>
+        <translation>Visualización del escalar</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
@@ -11505,17 +11505,17 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="46"/>
         <source>Active Scalar:</source>
-        <translation type="unfinished">Active Scalar:</translation>
+        <translation>Escalar activo:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="56"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>Tabla de colores:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="66"/>
         <source>Scalar Range Mode:</source>
-        <translation type="unfinished">Scalar Range Mode:</translation>
+        <translation>Modo de rango escalar:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
@@ -11535,7 +11535,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="90"/>
         <source>Color table (LUT)</source>
-        <translation type="unfinished">Color table (LUT)</translation>
+        <translation>Tabla de color (LUT)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="95"/>
@@ -11545,34 +11545,34 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="100"/>
         <source>Direct color mapping</source>
-        <translation type="unfinished">Direct color mapping</translation>
+        <translation>Asignación directa de colores</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="108"/>
         <source>Displayed Range:</source>
-        <translation type="unfinished">Displayed Range:</translation>
+        <translation>Rango mostrado:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="115"/>
         <source>Set the display scalar range, used when the Display option is selected.</source>
-        <translation type="unfinished">Set the display scalar range, used when the Display option is selected.</translation>
+        <translation>Establece el rango escalar de visualización que se utiliza cuando se selecciona la opción Visualización.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
         <source>Threshold:</source>
-        <translation type="unfinished">Threshold:</translation>
+        <translation>Umbral:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation type="unfinished">Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
-should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</translation>
+        <translation>Aplique el umbral a su modelo visualizado basándose en sus valores escalares. Las normales de algunas celdas pueden estar invertidas, en cuyo caso deberá
+en las opciones de Representación para visualizar todas las celdas.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
         <source>Range used to threshold scalar values.</source>
-        <translation type="unfinished">Range used to threshold scalar values.</translation>
+        <translation>Rango utilizado para umbralizar valores escalares.</translation>
     </message>
 </context>
 <context>
@@ -12090,7 +12090,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="105"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="372"/>
         <source>Slice fill:</source>
-        <translation type="unfinished">Slice fill:</translation>
+        <translation>Relleno de los cortes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="118"/>
@@ -12124,7 +12124,7 @@ Consulte el módulo Segmentaciones para obtener más información.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="282"/>
         <source>Views:</source>
-        <translation type="unfinished">Views:</translation>
+        <translation>Vistas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationDisplayNodeWidget.ui" line="289"/>
