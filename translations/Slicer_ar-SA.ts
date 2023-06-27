@@ -16485,9 +16485,7 @@ Graphics capabilities of this computer:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="348"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="358"/>
         <source>The voxel spacing in the output volume will be scaled by this value. Values larger than 1.0 will make the cropped volume lower resolution than the input volume. Values smaller than 1.0 will make the cropped volume higher resolution than the input volume.</source>
-        <translation>سيتم قياس تباعد فوكسل في حجم الإخراج بهذه القيمة.
-القيم الأكبر من 1.0 ستجعل الحجم الذي تم اقتصاصه أقل دقة من حجم الإدخال.
- و القيم الأقل من 1.0 ستعطي الحجم الذي تم اقتصاصه أعلى دقة من حجم الإدخال.</translation>
+        <translation>سيتم قياس تباعد فوكسل في حجم الإخراج بهذه القيمة.القيم الأكبر من 1.0 ستجعل الحجم الذي تم اقتصاصه أقل دقة من حجم الإدخال. و القيم الأقل من 1.0 ستعطي الحجم الذي تم اقتصاصه أعلى دقة من حجم الإدخال.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
@@ -16993,17 +16991,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
         <source>Scalar Mode:</source>
-        <translation type="unfinished">Scalar Mode:</translation>
+        <translation>الوضع العددي:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
         <source>Glyphs on Slices Display</source>
-        <translation type="unfinished">Glyphs on Slices Display</translation>
+        <translation>الحروف الرسومية على عرض الشرائح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
         <source>Slice Visibility:</source>
-        <translation type="unfinished">Slice Visibility:</translation>
+        <translation>رؤية الشريحة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
