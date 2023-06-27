@@ -1315,7 +1315,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished"></translation>
+        <translation>La drapeau est seulement pertinent  lors de l&apos;utilisation du mode ROIAUTO pour  l&apos;initialisation des masques. Il definit la taille de  la dilatation finale pour caputrer un peut d&apos;arrière plan en dehors de la région du tissu. Il a été démontré qu&apos;un réglage de 10 mm aide à régulariser un type d&apos;enregistrement BSpline de manière à ce qu&apos;il y ait des contraintes d&apos;arrière-plan pour mieux faire correspondre les bords de la tête.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
@@ -1325,7 +1325,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spécifier explicitement le nombre maximum de threads à utiliser.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
@@ -1364,19 +1364,21 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rééchantillonner l&apos;image (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
         <source>
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+    Cet programe collect ensemble trois  three tâches de traitement d&apos;images commun qui impliquent tout  rééchantillonnage un volume d&apos;image: Rééchantillonnage à une nouvelle résolution et à un nouvel espacement, appliquent a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le development de cet outil est suporter par le financement des subventions NS050568 et NS40068 de l&apos;Institute  National de Troubles neurologiques et accidents vasculaires cérébraux et subventions MH31593, MH40856, du l&apos;Institute de Santé Mental.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
@@ -1386,7 +1388,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres pour la spécification de l&apos;image à déformer et de l&apos;espace d&apos;image résultant</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
@@ -1397,7 +1399,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
         <source>Reference Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Image de référence</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
