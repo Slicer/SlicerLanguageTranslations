@@ -66,12 +66,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parâmetros avançados para ajuste fino de computação.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem da interpolação polinominial que é usada se duas imagens tem geometrias diferentes (origem, spaçamemto, direções dos eixos, ou extenções): 0 = vizinhos próximos, 1 = linear, 2 = quadrática, 3 = interpolação cúbica .</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -2705,7 +2705,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation type="unfinished">Executa a difusão anisotrópica em uma imagem usando uma equação de difusão de curvatura modificada (MCDE).
+        <translation>Executa a difusão anisotrópica em uma imagem usando uma equação de difusão de curvatura modificada (MCDE).
 
 O MCDE não exibe as propriedades de aprimoramento de borda da difusão anisotrópica clássica, que pode, sob certas condições, sofrer uma difusão &apos;negativa&apos;, o que aumenta o contraste das bordas.  As equações da forma de MCDE sempre sofrem difusão positiva, com o termo de condutância variando apenas a força dessa difusão.
 
@@ -4088,7 +4088,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished">GrayscaleFillholeImageFilter preenche buracos em uma imagem em tons de cinza.  Buracos são mínimos locais na topografia em tons de cinza que não estão conectados aos limites da imagem. Os valores de nível de cinza adjacentes a um furo são extrapolados ao longo do furo.
+        <translation>GrayscaleFillholeImageFilter preenche buracos em uma imagem em tons de cinza.  Buracos são mínimos locais na topografia em tons de cinza que não estão conectados aos limites da imagem. Os valores de nível de cinza adjacentes a um furo são extrapolados ao longo do furo.
 
 Este filtro é usado para suavizar os mínimos locais sem afetar os valores dos máximos locais.  Se pegarmos a diferença entre a saída desse filtro e a imagem original (e talvez limitarmos a diferença acima de um valor pequeno), obteremos um mapa dos mínimos locais.
 
@@ -6239,7 +6239,7 @@ O filtro assume que tanto a fonte quanto a referência são do mesmo tipo e que 
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished">Tensão finita (FS) ou
+        <translation>Tensão finita (FS) ou
 Preservação da Direção Principal (PPD)</translation>
     </message>
     <message>
@@ -6474,7 +6474,7 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished">Função da Janela
+        <translation>Função da Janela
 h = Hamming
 c = Cosseno
 w = Welch
@@ -6587,7 +6587,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished">Este módulo implementa a reamostragem de imagem escalar e vetorial por meio do uso de itk Transforms. Ele também pode lidar com reamostragem de imagem de ressonância magnética ponderada por difusão (DWI). &quot;Reamostragem&quot; é executada em coordenadas de espaço, não em coordenadas de pixel/grade. É muito importante garantir que o espaçamento da imagem seja definido corretamente nas imagens envolvidas. O interpolador é necessário, pois o mapeamento de um espaço para o outro geralmente requer avaliação da intensidade da imagem em posições fora da grade.
+        <translation>Este módulo implementa a reamostragem de imagem escalar e vetorial por meio do uso de itk Transforms. Ele também pode lidar com reamostragem de imagem de ressonância magnética ponderada por difusão (DWI). &quot;Reamostragem&quot; é executada em coordenadas de espaço, não em coordenadas de pixel/grade. É muito importante garantir que o espaçamento da imagem seja definido corretamente nas imagens envolvidas. O interpolador é necessário, pois o mapeamento de um espaço para o outro geralmente requer avaliação da intensidade da imagem em posições fora da grade.
 
 Aviso: para reamostrar imagens DWi, use os arquivos de entrada e saída nrrd.
 
@@ -6936,7 +6936,7 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished">Função da Janela
+        <translation>Função da Janela
 h = Hamming
 c = Cosseno
 w = Welch
@@ -7740,7 +7740,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished">Adicionar dados DICOM</translation>
+        <translation>Adicionar dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="277"/>
@@ -7755,128 +7755,128 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
         <source>Database location:</source>
-        <translation type="unfinished">Localização do Banco de Dados:</translation>
+        <translation>Localização do Banco de Dados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações gerais DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Determina se as séries DICOM referenciadas são oferecidas ao carregar DICOM ou o comportamento automático se a interação estiver desativada. A seleção interativa de séries referenciadas é a seleção padrão</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Ask user</source>
-        <translation type="unfinished">Perguntar ao usuário</translation>
+        <translation>Perguntar ao usuário</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="370"/>
         <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="372"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished">Carregar séries referenciadas:</translation>
+        <translation>Carregar séries referenciadas:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished">Registre mais detalhes durante as operações DICOM. Útil para investigar problemas de carregamento DICOM, mas impactar no desempenho.</translation>
+        <translation>Registre mais detalhes durante as operações DICOM. Útil para investigar problemas de carregamento DICOM, mas impactar no desempenho.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished">Registro detalhado:</translation>
+        <translation>Registro detalhado:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished">Diretório DICOM</translation>
+        <translation>Diretório DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
         <source>Load directory into DICOM database</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar diretório no banco de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="514"/>
         <source>Could not create a DICOM database with default settings. Please create a new database or update the existing incompatible database using options shown in DICOM browser.</source>
-        <translation type="unfinished">Não foi possível criar um banco de dados DICOM com as configurações padrões. Por favor, crie um novo banco de dados ou atualize o banco de dados incompatível usando as opções mostradas no navegador DICOM.</translation>
+        <translation>Não foi possível criar um banco de dados DICOM com as configurações padrões. Por favor, crie um novo banco de dados ou atualize o banco de dados incompatível usando as opções mostradas no navegador DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished">A importação de arquivos que possuem caracteres especiais (não ASCII) em seus nomes não é suportada. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
+        <translation>Não há suporte para a importação de arquivos que tenham caracteres especiais (não ASCII) em seus nomes. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished">A importação de pastas com caracteres especiais (não ASCII) no nome não é suportada. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
+        <translation>Não há suporte para a importação de pastas com caracteres especiais (não ASCII) no nome. Recomenda-se mover os arquivos para uma pasta diferente e tentar novamente. Tentar importar do local atual mesmo assim?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
         <source>Import options</source>
-        <translation type="unfinished">Opções de importação</translation>
+        <translation>Opções de importação</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="642"/>
         <source>Copy imported files to DICOM database</source>
-        <translation type="unfinished">Copiar arquivos importados para o banco de dados DICOM</translation>
+        <translation>Copiar arquivos importados para o banco de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="644"/>
         <source>If enabled, all imported files are copied into the DICOM database. This is useful when importing from removable drives.</source>
-        <translation type="unfinished">Se habilitado, todos os arquivos importados são copiados para o banco de dados DICOM. Isso é útil ao importar de dispositivos removíveis.</translation>
+        <translation>Se habilitado, todos os arquivos importados são copiados para o banco de dados DICOM. Isso é útil ao importar de dispositivos removíveis.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
         <source>not started</source>
-        <translation type="unfinished">não iniciado</translation>
+        <translation>não iniciado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="857"/>
         <source>starting</source>
-        <translation type="unfinished">iniciando</translation>
+        <translation>iniciando</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished">desconhecido</translation>
+        <translation>desconhecido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>running at port %s</source>
-        <translation type="unfinished">em execução na porta %s</translation>
+        <translation>em execução na porta %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="878"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished">Arquivo DICOM recebido: {filename}</translation>
+        <translation>Arquivo DICOM recebido: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="941"/>
         <source>DICOM database is already empty.</source>
-        <translation type="unfinished">O banco de dados DICOM já está vazio.</translation>
+        <translation>O banco de dados DICOM já está vazio.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="944"/>
         <source>Clear entire DICOM database</source>
-        <translation type="unfinished">Limpar todo o banco de dados DICOM</translation>
+        <translation>Limpar todo o banco de dados DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="945"/>
         <source>Are you sure you want to delete all data and files copied into the database ({count} patients)?</source>
-        <translation type="unfinished">Tem certeza que deseja deletar todos os dados e arquivos copiados para o banco de dados ({count} pacientes)?</translation>
+        <translation>Tem certeza que deseja deletar todos os dados e arquivos copiados para o banco de dados ({count} pacientes)?</translation>
     </message>
 </context>
 <context>
@@ -7884,7 +7884,7 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume US aprimorado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
