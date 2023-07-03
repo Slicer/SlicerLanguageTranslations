@@ -8615,7 +8615,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
         <source>_Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>_Segmentation</translation>
     </message>
 </context>
 <context>
@@ -8623,7 +8623,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="23"/>
         <source>Segment Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Estatísticas do Segmento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="37"/>
@@ -20047,7 +20047,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="71"/>
         <source>Turn the visibility off on all models (does not include hierarchies)</source>
-        <translation>Desligue a visibilidade em todos os modelos (não inclui hierarquias)</translation>
+        <translation type="unfinished">Desligue a visibilidade em todos os modelos (não inclui hierarquias)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Resources/UI/qSlicerModelsModuleWidget.ui" line="85"/>
