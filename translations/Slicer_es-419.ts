@@ -25239,7 +25239,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
         <source>Small basic + intersection</source>
-        <translation type="unfinished">Small basic + intersection</translation>
+        <translation>Pequeña básica + intersección</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
@@ -25367,7 +25367,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="293"/>
         <source>Control visibility of rotation handles for slice intersection.</source>
-        <translation type="unfinished">Control visibility of rotation handles for slice intersection.</translation>
+        <translation>Controla la visibilidad de los controladores de rotación para la intersección de cortes.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="299"/>
@@ -25380,7 +25380,7 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="320"/>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="327"/>
         <source>Slice intersections</source>
-        <translation type="unfinished">Slice intersections</translation>
+        <translation>Intersecciones de cortes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="329"/>
