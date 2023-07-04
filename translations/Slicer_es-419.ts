@@ -9468,7 +9468,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="33"/>
         <source>Union</source>
-        <translation type="unfinished">Union</translation>
+        <translation>Unión</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="43"/>
@@ -9522,7 +9522,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="108"/>
         <source>Yellow Slice Clipping:</source>
-        <translation type="unfinished">Yellow Slice Clipping:</translation>
+        <translation>Recorte de corte amarillo:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="111"/>
@@ -9563,7 +9563,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="199"/>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="202"/>
         <source>Keep only whole cells when clipping</source>
-        <translation type="unfinished">Keep only whole cells when clipping</translation>
+        <translation>Mantener sólo las celdas enteras al recortar</translation>
     </message>
 </context>
 <context>
