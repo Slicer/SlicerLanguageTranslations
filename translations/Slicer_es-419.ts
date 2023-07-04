@@ -9458,7 +9458,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="23"/>
         <source>Clipping Type:</source>
-        <translation type="unfinished">Clipping Type:</translation>
+        <translation>Tipo de recorte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="26"/>
@@ -9488,7 +9488,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="64"/>
         <source>Red Slice Clipping:</source>
-        <translation type="unfinished">Red Slice Clipping:</translation>
+        <translation>Recorte de corte rojo:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLClipNodeWidget.ui" line="67"/>
