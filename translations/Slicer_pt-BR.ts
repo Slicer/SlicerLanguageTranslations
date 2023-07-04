@@ -8452,22 +8452,22 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="156"/>
         <source>Out of bounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Fora dos limites</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="159"/>
         <source>No Point Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem dados de ponto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="163"/>
         <source>No Tensor Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem dados do tensor</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="181"/>
         <source>{numberOfComponents} components</source>
-        <translation type="unfinished"></translation>
+        <translation>{numberOfComponents} componentes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="293"/>
