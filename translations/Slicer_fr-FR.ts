@@ -230,7 +230,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation>Répertoire de sortie</translation>
+        <translation>RépertoireSortie</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
@@ -1285,7 +1285,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished">Taille de dilatation ROIAuto</translation>
+        <translation>Taille de dilatation ROIAuto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
@@ -1295,7 +1295,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Nombre de fils</translation>
+        <translation>Nombre de fils</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
@@ -1325,7 +1325,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished">Spécifier explicitement le nombre maximum de threads à utiliser.</translation>
+        <translation>Spécifier explicitement le nombre maximum de threads à utiliser.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
@@ -1336,17 +1336,17 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>flottant</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished">bref</translation>
+        <translation>bref</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>entier</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
@@ -1371,19 +1371,19 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
         <source>
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
-        <translation type="unfinished">
-    Cet programe collect ensemble trois  three tâches de traitement d&apos;images commun qui impliquent tout  rééchantillonnage un volume d&apos;image: Rééchantillonnage à une nouvelle résolution et à un nouvel espacement, appliquent a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
+        <translation>
+    Cet programe collect ensemble trois  three tâches de traitement d&apos;images commun qui impliquent tout  rééchantillonnage un volume d&apos;image : Rééchantillonnage à une nouvelle résolution et à un nouvel espacement, appliquent a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished">Le development de cet outil est suporter par le financement des subventions NS050568 et NS40068 de l&apos;Institute  National de Troubles neurologiques et accidents vasculaires cérébraux et subventions MH31593, MH40856, du l&apos;Institute de Santé Mental.  </translation>
+        <translation>Le développement de cet outil a été soutenu par le financement des subventions NS050568 et NS40068 de l&apos;Institute National de Troubles neurologiques et accidents vasculaires cérébraux et subventions MH31593, MH40856, du l&apos;Institute de Santé Mental.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
@@ -1394,7 +1394,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">Image à déformer</translation>
+        <translation>Image à déformer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
@@ -1404,12 +1404,12 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Image de référence utilisée uniquement pour définir l&apos;espace de sortie. S&apos;il n&apos;est pas spécifié, le warping est effectué dans le même espace que l&apos;image à warper.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
         <source>Outputs</source>
-        <translation type="unfinished">Sorties</translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
@@ -1440,7 +1440,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>flottant</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
@@ -1450,12 +1450,12 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished">bref</translation>
+        <translation>bref</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>entier</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
@@ -1470,12 +1470,12 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished">binaire</translation>
+        <translation>binaire</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>entrée</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
@@ -1485,27 +1485,27 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres utilisés pour définir la maison où l&apos;image est déformée</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
         <source>Displacement Field (deprecated)</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ de déplacement (obsolète)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished">Transformer le fichier</translation>
+        <translation>Transformer le fichier</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">Mode d&apos;interpolation</translation>
+        <translation>Mode d&apos;interpolation</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer la transformée inverse d&apos;une transformation donnée ?</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
@@ -1515,43 +1515,43 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
         <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ de déplacement à utiliser pour déformer l&apos;image (ITKv3 ou antérieur)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de fichier pour la transformation BRAINSFit (ITKv3 ou antérieure) ou le fichier de transformation composite (ITKv4)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished"></translation>
+        <translation>Type d&apos;interpolation à utiliser lors de l&apos;application de la transformation au volume en mouvement. Les options sont Linéaire, ResampleInPlace, NearestNeighbor, BSpline ou WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished"></translation>
+        <translation>True/False consiste à calculer l&apos;inverse d&apos;une transformation donnée. La valeur par défaut est false</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
         <source>Default voxel value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur de voxel par défaut</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
         <source>Linear</source>
-        <translation type="unfinished">Linéaire</translation>
+        <translation>Linéaire</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished">Voisin le plus proche</translation>
+        <translation>Voisin le plus proche</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished">Rééchantillonner sur place</translation>
+        <translation>ResampleInPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
