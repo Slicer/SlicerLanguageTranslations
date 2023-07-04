@@ -19126,7 +19126,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation type="unfinished">Show Slice Intersections:</translation>
+        <translation>Mostrar intersecciones de cortes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
@@ -24228,7 +24228,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="212"/>
         <source>Slice intersections</source>
-        <translation type="unfinished">Slice intersections</translation>
+        <translation>Intersecciones de cortes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyViewContextMenuPlugin.cxx" line="214"/>
@@ -25219,7 +25219,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
         <source>Basic + intersection</source>
-        <translation type="unfinished">Basic + intersection</translation>
+        <translation>Básico + intersección</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
@@ -25357,7 +25357,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="284"/>
         <source>Control visibility of translation handles for slice intersection.</source>
-        <translation type="unfinished">Control visibility of translation handles for slice intersection.</translation>
+        <translation>Controla la visibilidad de los controladores de traslación para la intersección de cortes.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="291"/>
