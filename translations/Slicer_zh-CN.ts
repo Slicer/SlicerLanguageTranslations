@@ -61,17 +61,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>用于微调计算的高级参数。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果两个图像具有不同的几何体（原点、间距、轴方向或范围），则使用多项式插值的顺序：0=最近邻，1=线性，2=二次，3=三次插值。</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -2705,7 +2705,11 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>使用修改的曲率扩散方程（MCDE）对图像执行各向异性扩散。
+
+MCDE不表现出经典各向异性扩散的边缘增强特性，经典各向异性扩散可在某些条件下经历“负”扩散，这增强了边缘的对比度。MCDE 形式的方程总是经历正扩散，电导项仅改变扩散的强度。
+
+从定性上讲，MCDE 比其他非线性扩散技术好。它比经典的 Perona-Malik 风格扩散对对比度的敏感度低，并保留了图像中更精细的细节结构。使用此函数代替梯度各向异性扩散存在潜在的速度折衷。解决方案的每次迭代大约需要两倍的时间。然而，可能需要更少的迭代来达到可接受的解决方案。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -2800,7 +2804,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  Additional support for DTI data produced on Philips scanners was contributed by Vincent Magnotta and Hans Johnson at the University of Iowa.</source>
-        <translation type="unfinished"></translation>
+        <translation>这项工作是美国国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。爱荷华州大学的文森特·马格诺塔（Vincent Magnotta）和汉斯·约翰逊（Hans Johnson）对飞利浦扫描仪产生的 DTI 数据提供了额外的支持。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="8"/>
@@ -2825,7 +2829,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="12"/>
         <source>Determine which conversion to perform. DicomToNrrd (default): Convert DICOM series to NRRD DicomToFSL: Convert DICOM series to NIfTI File + gradient/bvalue text files NrrdToFSL: Convert DWI NRRD file to NIfTI File + gradient/bvalue text files FSLToNrrd: Convert NIfTI File + gradient/bvalue text files to NRRD file.</source>
-        <translation type="unfinished"></translation>
+        <translation>确定要执行的转换。Dicom 转 Nrrd（默认）：将 DICOM 序列转换为 NRRD Dicom 转 FSL：将 DICOM 序列转换为 NIfTI 文件+梯度/B值文本文件 Nrrd 转 FSL：将 DWI NRRD 文件转换为 NIfTI 文件+梯度/B值文本文件 FSL 转 Nrrd：将 NIfTI 文件+梯度/B值文本文件转换为 NRRD 文件。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="13"/>
@@ -2843,27 +2847,27 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="15"/>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="16"/>
         <source>DicomToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom 转 Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="17"/>
         <source>DicomToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicom 转 FSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="18"/>
         <source>NrrdToFSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nrrd 转 FSL</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="19"/>
         <source>FSLToNrrd</source>
-        <translation type="unfinished"></translation>
+        <translation>FSL 转 Nrrd</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="20"/>
         <source>Dicom To Nrrd Conversion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM 转 Nrrd 转换参数</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="21"/>
@@ -2909,7 +2913,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="30"/>
         <source>The B Values are stored in FSL .bval text file format</source>
-        <translation type="unfinished">B值是以FSL .bval文本文件格式存储的</translation>
+        <translation>B值以 FSL .bval 文本文件格式存储</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="31"/>
@@ -3004,7 +3008,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>通过将每个扩散梯度方向乘以测量帧，将方案梯度写入以“.txt”为后缀的文件中。此文件仅用于调试目的，格式不是固定的，并且可能会随着调试新的 dicom 格式而改变。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
@@ -3014,7 +3018,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>用从 BMatrix 计算出的梯度方向和B值填充 nhdr 标头。仅更改 Siemens 数据的行为。  在某些情况下，标准公共梯度没有被正确地计算。  梯度可以根据私有 BMatrix 字段经验地计算。在某些情况下，私有 BMatrix 与公共 grantes 一致，但不是在所有情况下，当它存在时，BMatrix 通常是最强大的。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
@@ -3024,7 +3028,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果渐变幅度大于 0 且小于 smallGradientThreshold，则 DWIConvert 将显示错误消息并退出，除非设置了 useBMatrixGradientDirections 选项。</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
@@ -3039,7 +3043,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
         <source>DEPRECATED THESE DO NOT WORK</source>
-        <translation type="unfinished"></translation>
+        <translation>已弃用：这些不起作用</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
@@ -3049,7 +3053,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
         <source>Output fMRI file</source>
-        <translation type="unfinished"></translation>
+        <translation>输出 fMRI 文件</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
@@ -3077,7 +3081,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过 NIH 医学研究路线图（Grant U54 EB005149）资助。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3165,13 +3169,13 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"/>
         <source>Bill</source>
-        <translation type="unfinished"></translation>
+        <translation>Bill</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="124"/>
         <source>Ron</source>
-        <translation type="unfinished"></translation>
+        <translation>Ron</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"/>
@@ -3183,25 +3187,25 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="127"/>
         <source>Ross</source>
-        <translation type="unfinished"></translation>
+        <translation>Ross</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="28"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="128"/>
         <source>Steve</source>
-        <translation type="unfinished"></translation>
+        <translation>Steve</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="29"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="129"/>
         <source>Will</source>
-        <translation type="unfinished"></translation>
+        <translation>Will</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="30"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="130"/>
         <source>árvíztűrő tükörfúrógép</source>
-        <translation type="unfinished"></translation>
+        <translation>árvíztűrő tükörfúrógép</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
@@ -3451,37 +3455,37 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation type="unfinished">读取回来的输出文件，与第一个基准点上翻转设置的种子进行比较</translation>
+        <translation>输出文件以回读，与第一个基准上具有翻转设置的种子进行比较</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
         <source>Geometry Parameters</source>
-        <translation type="unfinished">几何参数</translation>
+        <translation>几何参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"/>
         <source>Parameters that describe models.</source>
-        <translation type="unfinished">描述模型的参数。</translation>
+        <translation>描述模型的参数。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"/>
         <source>Input Model</source>
-        <translation type="unfinished">输入模型</translation>
+        <translation>输入模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
         <source>Output Model</source>
-        <translation type="unfinished">输出模型</translation>
+        <translation>输出模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
         <source>Models</source>
-        <translation type="unfinished">模型</translation>
+        <translation>模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
         <source>Input model</source>
-        <translation type="unfinished">输入模型</translation>
+        <translation>输入模型</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
@@ -3491,7 +3495,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation type="unfinished">生成的模型，在一个模型层次结构节点下。模型在模型层次结构节点下被导入 Slicer。模型层次节点必须在运行模型制作器之前创建，从模型下拉菜单中选择创建新的模型层次。</translation>
+        <translation>在模型层次结构节点下生成的模型。将模型导入到模型层次节点下的切片器中。在运行模型制造器之前，必须通过从“模型”下拉菜单中选择“创建新模型层次结构”来创建模型层次结构节点。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
@@ -3541,7 +3545,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
         <source>Measurements</source>
-        <translation type="unfinished">测量</translation>
+        <translation>测量</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="99"/>
@@ -3798,7 +3802,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过NIH医学研究路线图（Grant U54 EB005149）资助。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
@@ -3863,7 +3867,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
         <source>Display RMS Error.</source>
-        <translation type="unfinished">显示 RMS 误差。</translation>
+        <translation>显示 RMS 误差。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
@@ -3874,12 +3878,12 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished">刚性</translation>
+        <translation>刚性</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
         <source>Translation</source>
-        <translation type="unfinished">平移</translation>
+        <translation>平移</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
@@ -3902,7 +3906,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">这项工作是国家医学图像计算联盟（NAMIC）的一部分，由美国国立卫生研究院通过NIH医学研究路线图资助，授予U54 EB005149。</translation>
+        <translation>这项工作是国家医学图像计算联盟（NAMIC）的一部分，该联盟由美国国立卫生研究院通过NIH医学研究路线图（Grant U54 EB005149）资助。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
@@ -3917,7 +3921,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation>镜头</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
@@ -3937,7 +3941,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
         <source>Input volume</source>
-        <translation type="unfinished">输入数据</translation>
+        <translation>输入体积</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
@@ -3969,7 +3973,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished">各向异性的扩散参数</translation>
+        <translation>各向异性扩散参数</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
@@ -3999,12 +4003,12 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished">迭代次数越多，平滑程度越高。每次迭代都需要相同的时间。如果一次迭代需要10秒，那么10次迭代就需要100秒。注意，电导率控制着每次迭代对边缘的平滑程度。</translation>
+        <translation>迭代次数越多，平滑度越高。每次迭代花费相同的时间。如果一次迭代花费10秒，那么10次迭代将花费100秒。注意，电导控制了每次迭代在边缘上平滑的程度。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished">时间步长取决于图像的维度。在Slicer中，图像是三维的，默认的（0.0625）时间步长将提供一个稳定的解决方案。</translation>
+        <translation>时间步长取决于图像的维度。在 Slicer 中，图像是3D的，默认时间步长（0.0625）将提供稳定的解决方案。</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
@@ -4039,7 +4043,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
@@ -4084,7 +4088,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished">GrayscaleFillholeImageFilter可以填补灰度图像中的洞。  孔是灰度地形中的局部最小值，与图像的边界没有联系。与洞相邻的灰度值被外推到洞的对面。
+        <translation>GrayscaleFillholeImageFilter可以填补灰度图像中的洞。  孔是灰度地形中的局部最小值，与图像的边界没有联系。与洞相邻的灰度值被外推到洞的对面。
 
 这个滤波器是用来平滑局部最小值的，而不影响局部最大值的值。  如果你把这个滤波器的输出和原始图像之间的差值（也许还可以把差值的阈值提高到一个小值），你就会得到一个局部最小值的地图。
 
