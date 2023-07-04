@@ -1561,7 +1561,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished">FenêtréSinc</translation>
+        <translation>WindowedSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
@@ -1571,12 +1571,12 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
         <source>Cosine</source>
-        <translation type="unfinished">Cosinus</translation>
+        <translation>Cosinus</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
         <source>Welch</source>
-        <translation type="unfinished">Welche</translation>
+        <translation>Welche</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"/>
@@ -1586,7 +1586,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation type="unfinished">Homme noir</translation>
+        <translation>Homme noir</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
@@ -1596,27 +1596,27 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"/>
         <source>Add Grids</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter des grilles</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajoutez une grille déformée à l&apos;image de sortie pour aider à montrer la déformation qui s&apos;est produite avec l&apos;espacement spécifié. Un espacement de 0 dans une dimension indique que les lignes de grille doivent être rendues pour tomber exactement (c&apos;est-à-dire ne pas autoriser les déplacements hors de ce plan). Ceci est utile pour créer une image 2D des lignes de grille à partir de l&apos;espace 3D</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
         <source>Multiprocessing Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle multitraitement</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Nombre de fils</translation>
+        <translation>Nombre de threads</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécifiez explicitement le nombre maximal de threads à utiliser.</translation>
     </message>
 </context>
 <context>
@@ -1624,64 +1624,66 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionner l&apos;image (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce programme est utile pour sous-échantillonner une image avec un facteur d&apos;échelle constant.
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Le développement de cet outil a été soutenu par le financement des subventions NS050568 et NS40068 du National Institute of Neurological Disorders and Stroke et des subventions MH31593, MH40856, du National Institute of Mental Health.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres pour spécifier l&apos;image à déformer et l&apos;espace d&apos;image résultant</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">Image à déformer</translation>
+        <translation>Image à déformer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
         <source>Image To Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Image à l&apos;échelle</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">Sorties</translation>
+        <translation>Sorties</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
         <source>Resulting scaled image parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres d&apos;image mis à l&apos;échelle résultants</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished">Image de sortie</translation>
+        <translation>Image de sortie</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
         <source>Pixel Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de pixels</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation type="unfinished"></translation>
+        <translation>Image mise à l&apos;échelle résultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
@@ -1692,7 +1694,7 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>flottant</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
@@ -1702,12 +1704,12 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation type="unfinished">bref</translation>
+        <translation>bref</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>entier</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
@@ -1805,12 +1807,13 @@ This program is useful for downsampling an image by a constant scale factor.
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
