@@ -8493,12 +8493,12 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
         <source>Show Zoomed Slice</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Fatia Ampliada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="540"/>
         <source>Slice View Annotations Settings</source>
-        <translation type="unfinished">Configurações da Visão de Anotações da Fatia</translation>
+        <translation>Configurações de Anotações da Visão da Fatia</translation>
     </message>
 </context>
 <context>
@@ -8610,7 +8610,7 @@ indicated by the mouse position.
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="28"/>
         <source>Segment this...</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment este...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
@@ -8638,29 +8638,41 @@ Requires segment labelmap representation and selection of a scalar volume
 Closed surface statistics (CS): surface mm2, volume mm3, volume cm3 (computed from closed surface).
 Requires segment closed surface representation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Use esse módulo para calcular contagens e volumes para segmentos, além de estatísticas sobre o volume de fundo em escala de cinza.
+Campos computados:
+Estatísticas do mapa de rótulos do segmento (LM): contagem de voxels, volume mm3, volume cm3.
+Requer representação do mapa de rótulos do segmento.
+Estatísticas de volume escalar (SV): contagem de voxels, volume mm3, volume cm3 (onde os segmentos se sobrepõem ao volume escalar),
+mínimo, máximo, média, desvio padrão (estatísticas de intensidade).
+Requer representação de mapa de rótulos de segmentos e seleção de um volume escalar
+Estatísticas de superfície fechada (CS): superfície mm2, volume mm3, volume cm3 (calculado a partir da superfície fechada).
+Requer a representação da superfície fechada do segmento.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="42"/>
         <source>
 Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www.slicer.org for details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https://www.slicer.org para detalhes.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="79"/>
         <source>Pick parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha o conjunto de parâmetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="85"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entradas</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="95"/>
         <source>Pick the segmentation to compute statistics for</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a segmentação para calcular as estatísticas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="96"/>
@@ -8706,12 +8718,12 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="147"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="216"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="149"/>
         <source>Calculate Statistics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcule Estatísticas.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="192"/>
