@@ -324,37 +324,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished">Registro general (BRAINS)</translation>
+        <translation>Registro general (CEREBROS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished">Registrar un volumen tridimensional a un volumen de referencia (Mattes Mutual Information por defecto). Método descrito en BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
+        <translation>Registrar un volumen tridimensional a un volumen de referencia (Mattes Mutual Information por defecto). Método descrito en BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation type="unfinished">Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5); Ali Ghayoor(4) 1=Departamento de Psiquiatría de la Universidad de Iowa, 2=Departamento de Radiología de la Universidad de Iowa, 3=Departamento de Ingeniería Biomédica de la Universidad de Iowa, 4=Departamento de Ingeniería Eléctrica e Informática de la Universidad de Iowa, 5=Laboratorio de Planificación Quirúrgica de Harvard.  </translation>
+        <translation>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3); Andriy Fedorov(5); Ali Ghayoor(4) 1=Departamento de Psiquiatría de la Universidad de Iowa, 2=Departamento de Radiología de la Universidad de Iowa, 3=Departamento de Ingeniería Biomédica de la Universidad de Iowa, 4=Departamento de Ingeniería Eléctrica e Informática de la Universidad de Iowa, 5=Laboratorio de Planificación Quirúrgica de Harvard.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished">Imágenes de entrada</translation>
+        <translation>Imágenes de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished">Volumen de imagen fijo</translation>
+        <translation>Volumen de imagen fija</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation type="unfinished">Volumen de imágenes en movimiento</translation>
+        <translation>Volumen de imágenes en movimiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished">Porcentaje de muestras</translation>
+        <translation>Porcentaje de muestras</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
@@ -364,12 +364,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished">Imagen fija de entrada (la imagen en movimiento se transformará en este espacio de imagen).</translation>
+        <translation>Imagen fija de entrada (la imagen en movimiento se transformará en este espacio de imagen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished">Imagen en movimiento de entrada (esta imagen se transformará en el espacio de imagen fija).</translation>
+        <translation>Imagen en movimiento de entrada (esta imagen se transformará en el espacio de imagen fija).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
@@ -384,12 +384,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished">Ajustes de salida (Debe especificarse al menos una salida)</translation>
+        <translation>Configuraciones de salida (Debe especificarse al menos una salida)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation>Transformación de Slicer Lineal</translation>
+        <translation>Transformación de Slicer lineal</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
@@ -414,37 +414,37 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished">(opcional) Imagen de salida: la imagen en movimiento deformada al espacio de imagen fijo. NOTA: Debe definir al menos un objeto de salida (transformación y/o volumen de salida).</translation>
+        <translation>(opcional) Imagen de salida: la imagen en movimiento deformada al espacio de imagen fijo. NOTA: Debe definir al menos un objeto de salida (transformación y/o volumen de salida).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished">Ajustes de inicialización de transformación</translation>
+        <translation>Configuraciones de inicio de transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished">Opciones para inicializar los parámetros de transformación.</translation>
+        <translation>Opciones para iniciar los parámetros de transformación.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation type="unfinished">Transformación de inicialización</translation>
+        <translation>Transformación de inicialización</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation type="unfinished">Inicializar el modo de transformación</translation>
+        <translation>Inicializar el modo de transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished">Transformación que se aplicará a la imagen en movimiento para inicializar el registro.  Sólo se puede utilizar si el modo Inicializar transformación está desactivado.</translation>
+        <translation>Transformación que se aplicará a la imagen en movimiento para iniciar el registro.  Sólo se puede utilizar si el modo Inicializar transformación está desactivado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation type="unfinished">Determina cómo inicializar el centro de transformación. useMomentsAlign asume que el centro de masa de las imágenes representan estructuras similares. useCenterOfHeadAlign intenta utilizar la parte superior de la cabeza y la forma del cuello para impulsar una estimación del centro de masa. useGeometryAlign on asume que el centro de la red de vóxeles de las imágenes representan estructuras similares.  Off asume que el espacio físico de las imágenes son similares.  Esta bandera es mutuamente excluyente con la transformada Initialization.</translation>
+        <translation>Determina cómo inicializar el centro de transformación. useMomentsAlign asume que el centro de masa de las imágenes representan estructuras similares. useCenterOfHeadAlign intenta utilizar la parte superior de la cabeza y la forma del cuello para impulsar una estimación del centro de masa. useGeometryAlign on asume que el centro de la red de vóxeles de las imágenes representan estructuras similares.  Off asume que el espacio físico de las imágenes son similares.  Esta bandera es mutuamente excluyente con la transformada Initialization.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
@@ -455,87 +455,87 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation type="unfinished">useMomentsAlign</translation>
+        <translation>use Alinear momentos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished">useCenterOfHeadAlign</translation>
+        <translation>useAlineacióndecentrodecabeza</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished">useGeometryAlign</translation>
+        <translation>useAlineacióngeométrica</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation>usoCentro deROIAlinear</translation>
+        <translation>usarelCentrodealineaciónROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation type="unfinished">Fases de registro (Marque una o más, ejecutadas en el orden indicado)</translation>
+        <translation>Fases de registro (marque una o más, ejecutadas en el orden indicado)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
         <source>Each of the registration phases will be used to initialize the next phase</source>
-        <translation type="unfinished">Cada una de las fases de registro servirá para inicializar la fase siguiente</translation>
+        <translation>Cada una de las fases de registro servirá para inicializar la siguiente fase</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
         <source>Rigid (6 DOF)</source>
-        <translation type="unfinished">Rígido (6 DOF)</translation>
+        <translation>Rígido (6 grados de libertad- DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"/>
         <source>Rigid+Scale(7 DOF)</source>
-        <translation type="unfinished">Rígido+Escala(7 DOF)</translation>
+        <translation>Rígido+Escala(7 grados de libertad- DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"/>
         <source>Rigid+Scale+Skew(10 DOF)</source>
-        <translation type="unfinished">Rígido+Escala+Torsión(10 DOF)</translation>
+        <translation>Rígido+Escala+Torsión(10 grados de libertad-DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished">Affine (12 DOF)</translation>
+        <translation>Afín (12 grados de libertad-DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation>BSpline(&gt;27 Grados de libertad)</translation>
+        <translation>BSpline(&gt;27 grados de libertad-DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished">SyN</translation>
+        <translation>SyN</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
         <source>Composite (many DOF)</source>
-        <translation type="unfinished">Compuesto (muchos DOF)</translation>
+        <translation>Compuesto (muchos grados de libertad-DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">Realiza un registro rígido como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
+        <translation>Realiza un registro rígido como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">Realiza un registro ScaleVersor3D como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
+        <translation>Realiza un registro ScaleVersor3D como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">Realiza un registro ScaleSkewVersor3D como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
+        <translation>Realiza un registro ScaleSkewVersor3D como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">Realiza un registro Affine como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
+        <translation>Realiza un registro Afín como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
@@ -545,22 +545,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">Realiza un registro SyN como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
+        <translation>Realiza un registro SyN como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">Realiza un registro compuesto como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
+        <translation>Realiza un registro compuesto como parte de los pasos de registro secuencial.  Esta familia de opciones anula el uso de transformType si alguna de ellas está establecida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished">Máscara de imagen y preprocesado</translation>
+        <translation>Máscara de imagen y tratamiento previo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished">Opción de enmascaramiento</translation>
+        <translation>Opción de enmascaramiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
@@ -590,17 +590,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished">Coincidencia de histograma</translation>
+        <translation>Coincidencia de histograma</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished">Tamaño medio del filtro</translation>
+        <translation>Tamaño medio del filtro</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished">Eliminar los valores atípicos de intensidad en una cola</translation>
+        <translation>Eliminar los valores atípicos de intensidad en una cola</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
@@ -610,22 +610,22 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>Volumen fijo de la máscara binaria de la imagen, necesario si la opción de máscara es ROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
+        <translation>El Volumen fijo de la imagen de la máscara binaria es necesaria si la opción de máscara es ROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>Volumen de máscara binaria de la imagen en movimiento, necesario si la opción de máscara es ROI. Las áreas de imagen en las que el volumen de máscara tiene valor cero se ignoran durante el registro.</translation>
+        <translation>El Volumen de máscara binaria de la imagen en movimiento es necesario si la opción de máscara es ROI. Las áreas de imagen en las que el volumen de máscara tiene valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>ROI que se calcula automáticamente a partir de la imagen fija. Sólo disponible si la opción de máscara es AUTO ROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
+        <translation>ROI que se calcula automáticamente a partir de la imagen fija. Sólo disponible si la opción de máscara es AUTOROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation>ROI que se calcula automáticamente a partir de la imagen en movimiento. Sólo disponible si la opción de máscara es AUTO ROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
+        <translation>ROI que se calcula automáticamente a partir de la imagen en movimiento. Sólo disponible si la opción de máscara es AUTOROI. Las áreas de la imagen en las que el volumen de la máscara tiene un valor cero se ignoran durante el registro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
@@ -635,88 +635,88 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished">Aplica la operación de correspondencia de histogramas a las imágenes de entrada para hacerlas más similares.  Esto es adecuado para imágenes de la misma modalidad que pueden tener diferente brillo o contraste, pero el mismo perfil de intensidad global. NO utilizar si se registran imágenes de diferentes modalidades.</translation>
+        <translation>Aplica la operación de correspondencia de histogramas a las imágenes de entrada para hacerlas más similares.  Esto es adecuado para imágenes de la misma modalidad que pueden tener diferente brillo o contraste, pero el mismo perfil de intensidad global. NO utilizar si se registran imágenes de diferentes modalidades.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished">Aplica el filtrado de mediana para reducir el ruido en los volúmenes de entrada. Los 3 valores especifican el radio para el preprocesamiento opcional MedianImageFilter en las 3 direcciones (en vóxeles).</translation>
+        <translation>Aplica el filtrado de mediana para reducir el ruido en los volúmenes de entrada. Los 3 valores especifican el radio para el preprocesamiento opcional MedianImageFilter en las 3 direcciones (en vóxeles).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished">Elimina los vóxeles de intensidad muy alta y muy baja de los volúmenes de entrada. El parámetro especifica el porcentaje medio para decidir los valores atípicos de las intensidades de la imagen. El valor por defecto es cero, lo que significa que no se eliminan valores atípicos. Si se da el valor 0,005, se desechará el 0,005% de ambas colas, por lo que el 0,01% de las intensidades en total se ignorarían en el cálculo estadístico.</translation>
+        <translation>Elimina los vóxeles de intensidad muy alta y muy baja de los volúmenes de entrada. El parámetro especifica el porcentaje medio para decidir los valores atípicos de las intensidades de la imagen. El valor por defecto es cero, lo que significa que no se eliminan valores atípicos. Si se da el valor 0,005, se desechará el 0,005% de ambas colas, por lo que el 0,01% de las intensidades en total se ignorarían en el cálculo estadístico.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished">NOMASK</translation>
+        <translation>NOMASK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation>AUTO ROI</translation>
+        <translation>AUTOROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">ROI</translation>
+        <translation>ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
         <source>Advanced Output Settings</source>
-        <translation type="unfinished">Ajustes avanzados de salida</translation>
+        <translation>Ajustes avanzados de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished">Imagen fija Volumen 2</translation>
+        <translation>Imagen fija volumen 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished">Imagen en movimiento Volumen 2</translation>
+        <translation>Imagen en movimiento volumen 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished">Imagen de salida Tipo de píxel</translation>
+        <translation>Imagen de salida tipo de píxel</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished">Valor de relleno de fondo</translation>
+        <translation>Valor de relleno de fondo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished">Escala de valores de salida</translation>
+        <translation>Escala de valores de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">Modo de interpolación</translation>
+        <translation>Modo de interpolación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished">Imagen fija de entrada que se utilizará para el registro multimodal. (la imagen en movimiento se transformará en este espacio de imagen).</translation>
+        <translation>Imagen fija de entrada que se utilizará para el registro multimodal. (la imagen en movimiento se transformará en este espacio de imagen).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished">Imagen en movimiento de entrada que se utilizará para el registro multimodal (esta imagen se transformará en el espacio de imagen fija).</translation>
+        <translation>Imagen en movimiento de entrada que se utilizará para el registro multimodal (esta imagen se transformará en el espacio de imagen fija).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation>Tipo de datos para representar un vóxel del Volumen de salida.</translation>
+        <translation>Tipo de datos para representar un vóxel del volumen de salida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished">Este valor se utilizará para rellenar las zonas de la imagen de salida que no tengan sus correspondientes vóxeles en la imagen en movimiento de entrada.</translation>
+        <translation>Este valor se utilizará para rellenar las zonas de la imagen de salida que no tengan sus correspondientes vóxeles en la imagen en movimiento de entrada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
@@ -732,7 +732,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
