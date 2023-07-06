@@ -18698,17 +18698,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="710"/>
         <source>Red slice only</source>
-        <translation>Coupe rouge seulement</translation>
+        <translation>Coupe rouge uniquement</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="722"/>
         <source>Yellow slice only</source>
-        <translation>Coupe jaune seulement</translation>
+        <translation>Coupe jaune uniquement</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="734"/>
         <source>Green slice only</source>
-        <translation>Coupe verte seulement</translation>
+        <translation>Coupe verte uniquement</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="746"/>
