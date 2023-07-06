@@ -8738,33 +8738,33 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="223"/>
         <source>Enabled segment statistics plugins:</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Plugins&apos; de estatísticas de segmentos ativados:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="225"/>
         <source>{pluginName} Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>{pluginName} Estatística</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="228"/>
         <source>Options</source>
-        <translation type="unfinished">Opções</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="297"/>
         <source>Edit Segment Statistics Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Parâmetros de Estatísticas de Segmento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="313"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="338"/>
         <source>Edit segment statistics plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar parâmetros de plugin de estatísticas de segmento:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="315"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="317"/>
@@ -17251,6 +17251,7 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
         <translation>
             <numerusform>Exportar %n nó</numerusform>
             <numerusform>Exportar %n nós</numerusform>
+            <numerusform>Exportar %n nós</numerusform>
         </translation>
     </message>
     <message>
@@ -17550,7 +17551,7 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
         <source>Failed to extract %1 into %2</source>
-        <translation>Falha ao extrair % 1 para % 2</translation>
+        <translation>Falha ao extrair %1 para %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="889"/>
@@ -17736,7 +17737,7 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2272"/>
         <source>Could not create .updates directory for update archive in %1</source>
-        <translation>Não foi possível criar o diretório .updates para o arquivo de atualização em % 1</translation>
+        <translation>Não foi possível criar o diretório .updates para o arquivo de atualização em %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2293"/>
@@ -18168,7 +18169,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation type="unfinished">Selecione um leitor para usar para seus dados?</translation>
+        <translation>Selecione um leitor para usar para seus dados:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
@@ -22509,9 +22510,9 @@ Most probably the segment cannot be converted into closed surface representation
         <source>Specify documentation location.
 Available placeholders: {language}, {version}.
 Default: https://slicer.readthedocs.io/{language}/{version}</source>
-        <translation>Especificar a localização da documentação.
-Locais disponíveis: {linguagem}, {versão}.
-Padrão: https://slicer.readthedocs.io/{língua}/{versão}</translation>
+        <translation type="unfinished">Especificar a localização da documentação.
+Locais disponíveis: {language}, {version}.
+Padrão: https://slicer.readthedocs.io/{language}/{version}</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
