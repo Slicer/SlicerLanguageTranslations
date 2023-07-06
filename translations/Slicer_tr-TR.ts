@@ -26034,12 +26034,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
         <source>Customize Slicer</source>
-        <translation type="unfinished">Customize Slicer</translation>
+        <translation>Slicer&apos;ı Kişiselleştir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="62"/>
         <source> Install Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation> Uzantı İndir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="20"/>
@@ -26049,27 +26049,27 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="100"/>
         <source>Add Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Veri Ekle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="111"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM Verilerini Ekle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="141"/>
         <source>Explore Added Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Eklenen Verileri İncele</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="158"/>
         <source>A new version of the application is available. Click the button to go to the download page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamanın yeni bir sürümü var. İndirme sayfasına gitmek için düğmeye tıklayın.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="187"/>
         <source>Feedback</source>
-        <translation type="unfinished">Feedback</translation>
+        <translation>Geribildirim</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="220"/>
@@ -26083,7 +26083,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="240"/>
         <source>About</source>
-        <translation type="unfinished">About</translation>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="273"/>
@@ -26094,7 +26094,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="287"/>
         <source>Documentation &amp;&amp; Tutorials</source>
-        <translation type="unfinished">Documentation &amp;&amp; Tutorials</translation>
+        <translation>Dokümantasyon ve Dersler</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="320"/>
@@ -26121,27 +26121,27 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="352"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="407"/>
         <source>Click the button to check for updates now. Note that anonymized usage statistics will be recorded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeleri denetlemek için düğmeye tıklayın. Anonim kullanım verilerinin kaydedileceğini unutmayın.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="355"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="379"/>
         <source>Check for updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler için denetle: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="391"/>
         <source>Periodically check for updates. Note that anonymized usage statistics will be recorded. If the box appears as partially checked it means that automatic updates are only checked for the application or for extensions, but not both - click the checkbox to enable/disable all automatic update checks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeleri periyodik olarak yokların. Anonimleştirilmiş kullanım verilerinin kaydedileceğini unutmayın. Kutucuk kısmen işaretli olarak görünüyorsa, otomatik güncellemelerin yalnızca uygulama veya uzantılar için kontrol edildiği, ancak her ikisi için kontrol edilmediği anlamına gelir - tüm otomatik güncelleme kontrollerini etkinleştirmek/devre dışı bırakmak için onay kutusuna tıklayın.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="394"/>
         <source>Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Kendiliğinden</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="410"/>
@@ -26157,12 +26157,12 @@ This should only used by advanced users who understand the consequences of chang
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="438"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="464"/>
         <source>No information is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilgi bulunmamaktadır.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="451"/>
         <source>Extension updates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantı güncellemeleri: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="496"/>
@@ -26184,7 +26184,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="107"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncellemeler yoklanıyor...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
@@ -26199,7 +26199,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished">Unfortunately, this requested module is not available in this Slicer session.</translation>
+        <translation>Ne yazık ki, istesiğiniz modül bu Slicer oturumunda yok.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="388"/>
@@ -26212,7 +26212,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="390"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzantıları güncellemek için Extensions Manager&apos;ı kullan:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
