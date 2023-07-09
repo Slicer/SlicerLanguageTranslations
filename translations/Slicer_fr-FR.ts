@@ -21137,7 +21137,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1180"/>
         <source>&lt;html&gt;Cut through the entire segment from the current viewpoint&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; sweep out an outline.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Esc:&lt;/b&gt; cancel.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views. In slice view cutting will be applied to all slices.&lt;p&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;Couper sur tout le segment depuis le point de vue actuel&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin : 0&quot;&gt;&lt;li&gt;&lt;b&gt;Glisser-déposer avec le bouton gauche :&lt;/b&gt; balayer un contour.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Échap :&lt;/b&gt; annuler.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La modification est disponible à la fois dans les vues en coupe et en 3D. Dans la vue par tranches, la découpe sera appliquée à toutes les tranches.&lt;p&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
