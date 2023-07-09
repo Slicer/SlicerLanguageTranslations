@@ -9182,7 +9182,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="262"/>
         <source>Restore Defaults</source>
-        <translation>Restaurer par Défaut</translation>
+        <translation>Restaurer les valeurs par défaut</translation>
     </message>
 </context>
 <context>
@@ -24156,7 +24156,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="96"/>
         <source>Reset transform to identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser la transformation à l&apos;identité</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="99"/>
