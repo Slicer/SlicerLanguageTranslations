@@ -6244,7 +6244,7 @@ Preservation of the Principal Direction (PPD)</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation>Choisi entre 2 methodes pour transformer les tensors: Finite Strain (FS), plus vite mais moins précis ou Preservation of the Principal Direction (PPD)</translation>
+        <translation>Choisi entre 2 methodes pour transformer les tensors : Finite Strain (FS), plus vite mais moins précis ou Preservation of the Principal Direction (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
@@ -8190,27 +8190,27 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="32"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume scalaire</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
         <source>Preferred back end.  Archetype was used by default in Slicer before June of 2017. Change this setting if data that previously loaded stops working (and report an issue).</source>
-        <translation type="unfinished"></translation>
+        <translation>Back-end préféré. Archetype était utilisé par défaut dans Slicer avant juin 2017. Modifiez ce paramètre si les données précédemment chargées cessent de fonctionner (et signalez un problème).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished"></translation>
+        <translation>Approche lecteur DICOM :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
         <source>Enable adding non-linear transform to regularize images acquired irregular geometry: non-rectilinear grid (such as tilted gantry CT acquisitions) and non-uniform slice spacing. If no regularization is applied then image may appear distorted if it was acquired with irregular geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activez l&apos;ajout d&apos;une transformation non linéaire pour régulariser la géométrie irrégulière des images acquises : grille non rectiligne (telle que les acquisitions CT à portique incliné) et espacement des tranches non uniforme. Si aucune régularisation n&apos;est appliquée, l&apos;image peut apparaître déformée si elle a été acquise avec une géométrie irrégulière.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>default (appliquer la transformation de régularisation)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="91"/>
@@ -8225,7 +8225,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Régularisation de la géométrie d&apos;acquisition :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="100"/>
@@ -8241,52 +8241,52 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="108"/>
         <source>Allow loading subseries by time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser le chargement des sous-séries par heure :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="129"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation type="unfinished"></translation>
+        <translation>Le premier volume est {imageScalarType1}, mais le second est {imageScalarType2}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="134"/>
         <source>Pixel data mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Non-concordance des données de pixels</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="187"/>
         <source>{count} files, first file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} Fichiers, premier fichier : {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>{count} fichiers, regroupés par {tag} = {value}. Premier fichier : {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="299"/>
         <source>There is no pixel data attribute for the DICOM objects, but they might be readable as secondary capture images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n&apos;y a pas d&apos;attribut de données de pixel pour les objets DICOM, mais ils peuvent être lisibles en tant qu&apos;images de capture secondaires.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="558"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Crée une série de fichiers DICOM à partir de volumes scalaires</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="586"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiérarchie de sujets invalide</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="590"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation type="unfinished"></translation>
+        <translation>La série &apos;{itemName}&apos; ne peut pas être exportée</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="607"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">Impossible d&apos;obtenir l&apos;étude pour la série&apos;{volumeName}&apos;</translation>
+        <translation>Impossible d&apos;obtenir l&apos;étude pour la série&apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="612"/>
@@ -8296,17 +8296,17 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="658"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalité vide pour la série &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="672"/>
         <source>A series already exists in the database by SeriesInstanceUID {seriesInstanceUID}.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une série existe déjà dans la base de données par SeriesInstanceUID {seriesInstanceUID}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="684"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>La création de fichiers DICOM à partir du volume scalaire a échoué. Voir le journal des applications pour plus de détails.</translation>
     </message>
 </context>
 <context>
