@@ -8210,7 +8210,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
         <source>default (apply regularization transform)</source>
-        <translation>default (appliquer la transformation de régularisation)</translation>
+        <translation>default (appliquer la transformation de régularisation)Valeur par défaut (appliquer la transformation de régularisation</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="91"/>
