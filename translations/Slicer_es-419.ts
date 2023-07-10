@@ -329,7 +329,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation>Registrar un volumen tridimensional a un volumen de referencia (Mattes Mutual Information por defecto). Método descrito en BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
+        <translation>Registrar un volumen tridimensional a un volumen de referencia (Información mutua de mates por defecto). Método descrito en BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
@@ -768,12 +768,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished">VecinoMásCercano</translation>
+        <translation>VecinoMásCercano</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished">RemuestrearEnLugar</translation>
+        <translation>RemuestrearEnLugar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
@@ -783,7 +783,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished">VentanaSinc</translation>
+        <translation>VentanaSinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
@@ -883,12 +883,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation>Factor de compensación &apos;ScaleVersor3D&apos;.  Auméntalo para permitir un mayor reescalado en un patrón de búsqueda ScaleVersor3D o ScaleSkewVersor3D.  1.0 funciona bien con una translationScale de 1000.0</translation>
+        <translation>Factor de compensación &apos;Escala&apos; &apos;EscalaDeVersor3D&apos;. Auméntelo para permitir un mayor reescalado en un patrón de búsqueda EscalaDeVersor3D o EscalaDeVersorInclinada3D. 1.0 funciona bien con un EscalaDeTraslación de 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished">Factor de compensación de inclinación ScaleSkewVersor3D.  Auméntelo para permitir más inclinación en un patrón de búsqueda ScaleSkewVersor3D.  1.0 funciona bien con una Escala de Translación de 1000.0</translation>
+        <translation>EscalaDeVersorInclinada Factor de compensación de inclinación.  Auméntelo para permitir más inclinación en un patrón de búsqueda EscalaDeVersor3D.  1.0 funciona bien con un EscalaDeTraslación de 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
@@ -1016,23 +1016,23 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished">El número de vóxeles muestreados para el cálculo de la información mutua.  Auméntelo para obtener una mayor precisión, a costa de un mayor tiempo de cálculo.
-Tenga en cuenta que se sugiere utilizar samplingPercentage en lugar de esta opción. Sin embargo, si se establece en un valor distinto de cero, numberOfSamples sobrescribe la opción samplingPercentage.  </translation>
+        <translation>El número de vóxeles muestreados para el cálculo de la información mutua.  Auméntelo para obtener una mayor precisión, a costa de un mayor tiempo de cálculo.
+Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta opción. Sin embargo, si se establece en un valor distinto de cero, númeroDeMuestras sobrescribe la opción porcentajeDeMuestreo.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished">Componente rígido de la transformación afín estimada. Puede utilizarse para registrar rígidamente la imagen en movimiento en la imagen fija. NOTA: Este valor se anula si se establece Transformación de bspline o Transformación lineal.</translation>
+        <translation>Componente rígido de la transformación afín estimada. Puede utilizarse para registrar rígidamente la imagen en movimiento en la imagen fija. NOTA: Este valor se anula si se establece TransformaciónDeBspline o TransformaciónLineal.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished">Especifica una lista de tipos de registro a utilizar. Los tipos válidos son, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline y SyN.  Especificar más de uno en una lista separada por comas la cual inicializará la siguiente etapa con los resultados anteriores. Si se utiliza la bandera registrationClass, ésta anula la configuración de este parámetro.</translation>
+        <translation>Especifica una lista de tipos de registro a utilizar. Los tipos válidos son, Rígido, EscalaDeVersor3D, EscalaDeVersorInclinada3D, Afín, BSpline y SyN.  Especificar más de uno en una lista separada por comas la cual inicializará la siguiente etapa con los resultados anteriores. Si se utiliza la bandera ClaseDeRegistro, ésta anula la configuración de este parámetro.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation type="unfinished">(Opcional) Nombre de archivo en el que guardar la transformación estimada (opcional). NOTA: Debe seleccionar la opción outputTransform o outputVolume.</translation>
+        <translation>(Opcional) Nombre de archivo en el que guardar la transformación estimada (opcional). NOTA: Debe seleccionar la opción TransformaciónDeSalida o VolumenDeSalida.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
@@ -1108,7 +1108,7 @@ Tenga en cuenta que se sugiere utilizar samplingPercentage en lugar de esta opci
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation>Bandera para guardar la transformación final incluso si se alcanza el Número de iteraciones sin convergencia. (Previsto para su uso cuando --Fallo del código de salida 0 ).</translation>
+        <translation>Bandera para guardar la transformación final incluso si se alcanza el NúmeroDeIteraciones sin convergencia. (Previsto para su uso cuando --Fallo del código de salida 0 ).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
@@ -1124,14 +1124,14 @@ Tenga en cuenta que se sugiere utilizar samplingPercentage en lugar de esta opci
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished">De itkLBFGSBOptimizer.h: Establece/Obtiene el Factor de Convergencia de la Función de Coste. El algoritmo termina cuando la reducción en la función de coste es menor que (factor * epsmcj) donde epsmch es la precisión de la máquina. Valores típicos para factor: 1e+12 para precisión baja; 1e+7 para precisión moderada y 1e+1 para precisión extremadamente alta.  1e+9 parece funcionar bien.
+        <translation>De itkLBFGSBOptimizer.h: Establece/Obtiene el FactorDeConvergenciaDeLaFunciónDeCoste. El algoritmo termina cuando la reducción en la función de coste es menor que (factor * epsmcj) donde epsmch es la precisión de la máquina. Valores típicos para factor: 1e+12 para precisión baja; 1e+7 para precisión moderada y 1e+1 para precisión extremadamente alta.  1e+9 parece funcionar bien.
       </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished">De itkLBFGSBOptimizer.h: Establece/Obtiene la Tolerancia del Gradiente Proyectado. El algoritmo termina cuando el gradiente proyectado está por debajo de la tolerancia. El valor por defecto de lbfgsb es 1e-5, pero 1e-4 parece funcionar bien.
+        <translation>De itkLBFGSBOptimizer.h: Establece/Obtiene la ToleranciaDelGradienteProyectado. El algoritmo termina cuando el gradiente proyectado está por debajo de la tolerancia. El valor por defecto de lbfgsb es 1e-5, pero 1e-4 parece funcionar bien.
       </translation>
     </message>
     <message>
@@ -1162,7 +1162,7 @@ Tenga en cuenta que se sugiere utilizar samplingPercentage en lugar de esta opci
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished">Un archivo para escribir el informe de información final en un archivo CSV: Nombre de la métrica, Valor de la métrica , Nombre de la imagen fija, Nombre de la máscara fija, Nombre de la imagen móvil, Nombre de la máscara móvil</translation>
+        <translation>Un archivo para escribir el informe de información final en un archivo CSV: NombreDeLaMétrica, ValorDeLaMétrica, NombreDeLaImagenFija, NombreDeLaMáscaraFija, NombreDeLaImagenMóvil, NombreDeLaMáscaraMóvil</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
