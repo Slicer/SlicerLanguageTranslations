@@ -17418,62 +17418,62 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="156"/>
         <source>Install pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>التثبيت في انتظار إعادة التشغيل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="161"/>
         <source>Update pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>التحديث في انتظار إعادة التشغيل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="166"/>
         <source>Uninstall pending restart</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء التثبيت في انتظار إعادة التشغيل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="343"/>
         <source>More...</source>
-        <translation type="unfinished">More...</translation>
+        <translation>أكثر...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="385"/>
         <source>unknown</source>
-        <translation type="unfinished">مجهول</translation>
+        <translation>مجهول</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="422"/>
         <source>Not found for this version of the application (r%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على هذا الإصدار من التطبيق (ص%2)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="430"/>
         <source>Incompatible with Slicer r%2 [built for r%3]</source>
-        <translation type="unfinished"></translation>
+        <translation>غير متوافق مع Slicer r %2 [مصمم لـ r %3]</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="447"/>
         <source>Change log...</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير السجل ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="452"/>
         <source>An update is available. Installed: %1. Available: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتوفر تحديث. تثبيت: %1. متاح: %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="468"/>
         <source>Version: %1. Disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار: %1. معطل.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="475"/>
         <source>Version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الإصدار: %1</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="483"/>
         <source>Not installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>غير مثبت.</translation>
     </message>
 </context>
 <context>
@@ -17481,17 +17481,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="14"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>مدير الامتدادات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerDialog.ui" line="36"/>
         <source>&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</source>
-        <translation type="unfinished">&lt;font color=&quot;red&quot;&gt;* Restart requested&lt;/font&gt;</translation>
+        <translation>&lt;font color=&quot;red&quot;&gt; * مطلوب إعادة التشغيل &lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerDialog.cxx" line="69"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التشغيل</translation>
     </message>
 </context>
 <context>
@@ -17499,266 +17499,266 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="459"/>
         <source>Failed to parse %1: error at %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحليل %1: خطأ في %2: %3</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="716"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation type="unfinished">Failed to open extensions settings file %1</translation>
+        <translation>فشل فتح ملف إعدادات الامتدادات %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="754"/>
         <source>Failed to open extensions settings file: %1</source>
-        <translation type="unfinished">Failed to open extensions settings file: %1</translation>
+        <translation>فشل فتح ملف إعدادات الامتدادات %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="792"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>دليل تثبيت الملحقات غير موجود: &lt;strong&gt; %1 &lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="809"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished">Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>من المتوقع أن يكون دليل تثبيت الملحقات قابلا للقراءة / الكتابة / قابل للتنفيذ: &lt;strong&gt; %1 &lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
         <source>Failed to extract %1 into %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل استخراج %1 في %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="889"/>
         <source>Archive %1 doesn&apos;t contain any files</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يحتوي الأرشيف %1 على أي ملفات</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1029"/>
         <source>&apos;slicerRevision&apos; parameter is not specified</source>
         <oldsource>slicerRevision is not specified</oldsource>
-        <translation type="unfinished">slicerRevision is not specified</translation>
+        <translation>لم يتم تحديد معلمة &apos;slicerRevision&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1033"/>
         <source>&apos;slicerOs&apos; parameter is not specified</source>
         <oldsource>slicerOs is not specified</oldsource>
-        <translation type="unfinished">slicerOs is not specified</translation>
+        <translation>لم يتم تحديد معلمة &apos;slicerOs&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1037"/>
         <source>&apos;slicerArch&apos; parameter is not specified</source>
         <oldsource>slicerArch is not specified</oldsource>
-        <translation type="unfinished">slicerArch is not specified</translation>
+        <translation>لم يتم تحديد معلمة &apos;slicerArch&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1043"/>
         <source>extensionSlicerRevision [%1] is different from slicerRevision [%2]</source>
-        <translation type="unfinished">extensionSlicerRevision [%1] is different from slicerRevision [%2]</translation>
+        <translation type="unfinished">extensionSlicerRevision [%1] يختلف عن slicerRevision [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1049"/>
         <source>extensionArch [%1] is different from slicerArch [%2]</source>
-        <translation type="unfinished">extensionArch [%1] is different from slicerArch [%2]</translation>
+        <translation type="unfinished">extensionArch [%1] يختلف عن slicerArch [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1054"/>
         <source>extensionOs [%1] is different from slicerOs [%2]</source>
-        <translation type="unfinished">extensionOs [%1] is different from slicerOs [%2]</translation>
+        <translation type="unfinished">extensionOs [%1] يختلف عن slicerOs [%2]</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1403"/>
         <source>Failed to add bookmark extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إضافة ملحق إشارة مرجعية: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1570"/>
         <source>Retrieving extension metadata for %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>استرداد البيانات الوصفية للامتداد للملحق %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1582"/>
         <source>Failed to get metadata from server for extension: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل الحصول على البيانات الوصفية من الخادم للامتداد: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1599"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>استرداد ملفات الملحق %1 (معرف الملحق: %2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1630"/>
         <source>Downloading %1 extension (item_id: %2, file_id: %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل ملحق %1 (item_id: %2، file_id: %3)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1663"/>
         <source>Download of extension failed, id is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل الامتداد ، المعرف غير صالح.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1684"/>
         <source>Download of extension failed, could not find an extension with id = %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل الامتداد ، تعذر العثور على امتداد بمعرف = %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1701"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2371"/>
         <source>Failed to retrieve metadata for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل استرداد البيانات الوصفية لملحق %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1743"/>
         <source>Failed downloading: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التنزيل: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1754"/>
         <source>Could not create temporary file for writing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن إنشاء ملف مؤقت للكتابة: %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1775"/>
         <source>Failed to list extension archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إدراج أرشيف الملحق &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1792"/>
         <source>No extension description found in archive &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على وصف ملحق في أرشيف &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1805"/>
         <source>InstallExtension failed: extensionName is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تثبيت الملحق: لم يتم تعيين اسم التمديد</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1810"/>
         <source>Skip installation of %1 extension. It is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي تثبيت ملحق %1. تم تثبيته بالفعل.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1816"/>
         <source>Extensions/InstallPath setting is not set</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين إعداد الملحقات/InstallPath</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1822"/>
         <source>Failed to create extension installation directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إنشاء دليل تثبيت الملحق %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1930"/>
         <source>Error while installing dependent extensions:&lt;ul&gt;%1&lt;ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ أثناء تثبيت الملحقات التابعة: &lt;ul&gt;%1&lt;ul&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1953"/>
         <source>%1 depends on the following extensions, which could not be found:</source>
         <extracomment>%1 is the extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 يعتمد على الامتدادات التالية ، والتي لا يمكن العثور عليها:</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1958"/>
         <source>The extension may not function properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>قد لا يعمل الملحق بشكل صحيح.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1959"/>
         <source>Unresolved dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>التبعيات التي لم يتم حلها</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2878"/>
         <source>&apos;extensionName&apos; parameter is not specified</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحديد معلمة &quot;اسم الامتداد&quot;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1983"/>
         <source>Installed extension %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ملحق مثبت %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2065"/>
         <source>Update extension information from server failed: timed out while waiting for server response from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحديث معلومات الملحق من الخادم: انتهت المهلة أثناء انتظار استجابة الخادم من %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2120"/>
         <source>Failed to download extension metadata from server</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل البيانات الوصفية للملحق من الخادم</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2138"/>
         <source>Extension metadata response missed required &apos;extensionname&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>غاب عن استجابة بيانات تعريف الامتداد حقل &quot;اسم الملحق&quot; المطلوب</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2170"/>
         <source>Update check response for extension %1 missed required &apos;extension_id&apos; or &apos;revision&apos; field</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث التحقق من الاستجابة للملحق %1 غاب عن حقل &quot;extension_id&quot; أو &quot;مراجعة&quot; المطلوب</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2181"/>
         <source>Update found for %1 extension: &apos;%2&apos; installed, &apos;%3&apos; available, </source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على تحديث لملحق %1: &apos;%2&apos; مثبت ، &apos;%3&apos; متوفر ، </translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2256"/>
         <source>Failed downloading %1 extension from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تنزيل ملحق %1 من %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2272"/>
         <source>Could not create .updates directory for update archive in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر إنشاء دليل .updates لأرشيف التحديث في %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2293"/>
         <source>Could not write file: &apos;%1&apos; (%2)</source>
         <extracomment>%1 is the path name, %2 is the error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تعذر كتابة الملف: &quot;%1&quot; (%2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2357"/>
         <source>Missing download information for %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>معلومات التنزيل مفقودة لملحق %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2389"/>
         <source>%1 extension scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 تمديد مجدول للتحديث</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2435"/>
         <source>Failed to update %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحديث ملحق %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2442"/>
         <source>Failed to update %1 extension: it is not scheduled for update</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحديث ملحق %1: لم تتم جدولته للتحديث</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2566"/>
         <source>Failed to uninstall %1 extension</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل إلغاء تثبيت ملحق %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2573"/>
         <source>Failed to uninstall %1 extension: extension is already loaded</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل إلغاء تثبيت ملحق %1: الملحق محمل بالفعل</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="2848"/>
         <source>Extension %1 is incompatible</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>الملحق %1 غير متوافق</translation>
     </message>
     <message>
         <source>extensionName is not specified</source>
@@ -17768,25 +17768,25 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3072"/>
         <source>Corrupted %1 extension package</source>
         <extracomment>%1 is extension name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>حزمة ملحق %1 تالفة</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3080"/>
         <source>Failed to extract %1 extension archive %2 into directory %3</source>
         <extracomment>%1 is extension name, %2 is extension package file path, %3 is destination path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل استخراج أرشيف ملحق %1 %2 إلى الدليل %3</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3125"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3132"/>
         <source>Failed to copy directory %1 into directory %2</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل نسخ الدليل %1 إلى الدليل %2</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3139"/>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="3146"/>
         <source>Failed to remove directory %1</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل إزالة الدليل %1</translation>
     </message>
 </context>
 <context>
@@ -17794,70 +17794,70 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="14"/>
         <source>Slicer Extensions Manager</source>
-        <translation type="unfinished">Slicer Extensions Manager</translation>
+        <translation>مدير ملحقات Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished">Install Extensions</translation>
+        <translation>تثبيت الملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
         <source>Extensions Manager</source>
-        <translation type="unfinished">Extensions Manager</translation>
+        <translation>مدير الملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="415"/>
         <source>Update all (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث الكل (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="446"/>
         <source>Install bookmarked (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت إشارة مرجعية (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="451"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت إشارة مرجعية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="457"/>
         <source>Manage Extensions (%1)</source>
         <extracomment>%1 represents the number of managed extensions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>إدارة الملحقات (%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="487"/>
         <source>Bookmarked extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>ملحقات مرجعية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="488"/>
         <source>List of bookmarked extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة ملحقات الإشارات المرجعية:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="718"/>
         <source>Select extension archive file(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد ملف (ملفات) أرشيف الامتداد ...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="719"/>
         <source>Archives</source>
-        <translation type="unfinished"></translation>
+        <translation>أرشيف</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="720"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>جميع الملفات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="750"/>
         <source>Install/uninstall/update operations are still in progress:</source>
         <oldsource>Install/uninstall/update operations are still in progress:
 - </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>عمليات التثبيت / إلغاء التثبيت / التحديث لا تزال جارية:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="752"/>
@@ -17865,9 +17865,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <oldsource>
 
 Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</oldsource>
-        <translation type="unfinished">
-
-Click OK to wait for them to complete, or choose Ignore to close the Extensions Manager now.</translation>
+        <translation>انقر فوق &quot;موافق&quot; لانتظار اكتمالها ، أو اختر &quot;تجاهل&quot; لإغلاق &quot;مدير الملحقات&quot; الآن.</translation>
     </message>
 </context>
 <context>
@@ -17875,32 +17873,32 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="95"/>
         <source>Slicer Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>ملحقات Slicer</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="102"/>
         <source>Extensions can not be installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يمكن تثبيت الملحقات.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>تتطلب إدارة الملحقات تثبيت &lt;em&gt; 3D Slicer &lt;/em&gt;. افتح ملف صورة القرص (.dmg) ، واسحب &lt;em&gt; Slicer.app &lt;/em&gt; إلى مجلد &lt;em&gt; التطبيقات &lt;/em&gt; ، وقم بتشغيل &lt;em&gt; 3D Slicer &lt;/em&gt; من مجلد &lt;em&gt; التطبيقات &lt;/em&gt;.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق من تثبيت &lt;b&gt; 3D Slicer &lt;/b&gt; بشكل صحيح.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation>قراءة المزيد...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="117"/>
         <source>Try Again</source>
-        <translation type="unfinished"></translation>
+        <translation>حاول مرة أخرى</translation>
     </message>
 </context>
 <context>
@@ -17908,99 +17906,99 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="14"/>
         <source>Extensions tools</source>
-        <translation type="unfinished"></translation>
+        <translation>أدوات الامتدادات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="20"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="144"/>
         <source>Query the Extensions Server if there are updates for any of the installed extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستعلام عن خادم الملحقات إذا كانت هناك تحديثات لأي من الملحقات المثبتة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="23"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="141"/>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق من وجود تحديثات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="38"/>
         <source>Updates all extensions with the latest version available on the Extensions Server</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث كافة الملحقات بأحدث إصدار متوفر على خادم الملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="41"/>
         <source>Update all</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث الكل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="56"/>
         <source>Install all the bookmarked extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتثبيت جميع امتدادات الإشارات المرجعية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="59"/>
         <source>Install bookmarked</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت إشارة مرجعية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="74"/>
         <source>Install extensions from one or more extension package files</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت الملحقات من ملف حزمة ملحق واحد أو أكثر</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="122"/>
         <source>Automatically check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>التحقق تلقائيا من وجود تحديثات:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="125"/>
         <source>Periodically check for updated extensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحقق دوريًا من الإضافات المحدثة.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="133"/>
         <source>Automatically install updates</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت التحديثات تلقائيا:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="136"/>
         <source>Automatically install updated extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت الملحقات المحدثة تلقائيا</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="149"/>
         <source>Edit bookmarks...</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير الإشارات المرجعية...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="152"/>
         <source>Edit list of bookmarks in a text field</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير قائمة الإشارات المرجعية في حقل نصي</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="157"/>
         <source>Open Extensions Catalog website...</source>
-        <translation type="unfinished">افتح موقع ويب كتالوج الملحقات...</translation>
+        <translation>افتح موقع ويب كتالوج الملحقات...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="160"/>
         <source>Open Extensions Catalog website in the default web browser. Useful for downloading extension packages for offline use.</source>
-        <translation type="unfinished">افتح موقع كتالوج الإضافات في متصفح الويب الافتراضي. مفيد لتنزيل حزم الامتداد للاستخدام في وضع عدم الاتصال.</translation>
+        <translation>افتح موقع كتالوج الإضافات في متصفح الويب الافتراضي. مفيد لتنزيل حزم الامتداد للاستخدام في وضع عدم الاتصال.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="168"/>
         <source>Automatically install dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت التبعيات تلقائيا:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="171"/>
         <source>Automatically install required additional extensions when installing an extension</source>
-        <translation type="unfinished">تثبيت الملحقات الإضافية المطلوبة تلقائيا عند تثبيت ملحق</translation>
+        <translation>تثبيت الملحقات الإضافية المطلوبة تلقائيًا عند تثبيت أحد الملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsToolsWidget.ui" line="77"/>
         <source>Install from file...</source>
-        <translation type="unfinished">Install from file...</translation>
+        <translation>تثبيت من ملف ...</translation>
     </message>
 </context>
 <context>
@@ -18016,62 +18014,62 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="81"/>
         <source>128 MB</source>
-        <translation type="unfinished">128 MB</translation>
+        <translation>128 ميجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="82"/>
         <source>256 MB</source>
-        <translation type="unfinished">256 MB</translation>
+        <translation>256 ميجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="83"/>
         <source>512 MB</source>
-        <translation type="unfinished">512 MB</translation>
+        <translation>512 ميجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="84"/>
         <source>1024 MB</source>
-        <translation type="unfinished">1024 MB</translation>
+        <translation>1024 ميجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="85"/>
         <source>1.5 GB</source>
-        <translation type="unfinished">1.5 GB</translation>
+        <translation>1.5 جيجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="86"/>
         <source>2 GB</source>
-        <translation type="unfinished">2 GB</translation>
+        <translation>2 جيجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="87"/>
         <source>3 GB</source>
-        <translation type="unfinished">3 GB</translation>
+        <translation>3 جيجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="88"/>
         <source>4 GB</source>
-        <translation type="unfinished">4 GB</translation>
+        <translation>4 جيجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="89"/>
         <source>6 GB</source>
-        <translation type="unfinished">6 GB</translation>
+        <translation>6 جيجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="90"/>
         <source>8 GB</source>
-        <translation type="unfinished">8 GB</translation>
+        <translation>8 جيجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="91"/>
         <source>12 GB</source>
-        <translation type="unfinished">12 GB</translation>
+        <translation>12 جيجا بايت</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPUMemoryComboBox.cxx" line="92"/>
         <source>16 GB</source>
-        <translation type="unfinished">16 GB</translation>
+        <translation>16 جيجا بايت</translation>
     </message>
 </context>
 <context>
