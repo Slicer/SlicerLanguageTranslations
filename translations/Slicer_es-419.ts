@@ -16,12 +16,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
@@ -31,12 +31,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Volumen de entrada 2</translation>
+        <translation>Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
@@ -46,17 +46,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Volumen de entrada 2</translation>
+        <translation>Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation type="unfinished">Volumen1 + Volumen2</translation>
+        <translation>Volumen1 + Volumen2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished">Parámetros avanzados para afinar el cálculo.</translation>
+        <translation>Parámetros avanzados para afinar el cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
@@ -76,7 +76,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Orden de interpolación</translation>
+        <translation>Orden de interpolación</translation>
     </message>
 </context>
 <context>
@@ -84,12 +84,12 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished">Limpieza de DWI (BRAINS)</translation>
+        <translation>Limpieza de DWI (CEREBROS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation type="unfinished">Eliminar gradientes/volúmenes erróneos del archivo DWI NRRD.</translation>
+        <translation>Eliminar gradientes/volúmenes erróneos del archivo DWI NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
@@ -99,27 +99,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">Volumen de la imagen de entrada</translation>
+        <translation>Volumen de la imagen de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished">NRRD Fichero con gradientes erróneos eliminados.</translation>
+        <translation>NRRD Archivo con gradientes erróneos eliminados.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation type="unfinished">lista de volúmenes de gradiente removidos</translation>
+        <translation>lista de volumen de gradiente erróneo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished">Obligatorio: la imagen de entrada es una imagen 4D NRRD.</translation>
+        <translation>Obligatorio: la imagen de entrada es una imagen 4D NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation type="unfinished">dada una lista de </translation>
+        <translation>dada una lista de </translation>
     </message>
 </context>
 <context>
@@ -127,98 +127,98 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished">Desfase cerebral de la imagen T1/T2 (BRAINS)</translation>
+        <translation>Desfase cerebral de la imagen T1/T2 (CEREBROS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation type="unfinished">Este programa 1) desfigurará imágenes a partir de un conjunto de imágenes.  Las entradas deben estar alineadas ACPC, y AC, PC, LE, RE proporcionado.</translation>
+        <translation>Este programa 1) desfigurará imágenes a partir de un conjunto de imágenes.  Las entradas deben estar alineadas ACPC, y AC, PC, LE, RE proporcionado.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation type="unfinished">Este trabajo ha sido desarrollado por el Departamento de Ingeniería Eléctrica e Informática de la Universidad de Iowa.</translation>
+        <translation>Este trabajo ha sido desarrollado por el Departamento de Ingeniería Eléctrica e Informática de la Universidad de Iowa.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished">Imágenes de entrada</translation>
+        <translation>Imágenes de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation type="unfinished">Primera imagen, segunda imagen e imagen máscara</translation>
+        <translation>Primera imagen, segunda imagen e imagen máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation type="unfinished">Fichero de hitos</translation>
+        <translation>Archivo de puntos de referencia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation type="unfinished">Fuente de la imagen de referencia</translation>
+        <translation>Fuente de la imagen de referencia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation type="unfinished">Fuente Imágenes pasivas Imagen</translation>
+        <translation>Fuente Imágenes pasivas Imagen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation type="unfinished">Máscara opcional</translation>
+        <translation>Máscara opcional</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished">Archivo de puntos de referencia de entrada con puntos LE y RE definidos en ubicaciones físicas</translation>
+        <translation>Archivo de puntos de referencia de entrada con puntos LE y RE definidos en ubicaciones físicas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished">Imágenes de entrada, todas las imágenes deben estar exactamente en el mismo espacio físico, alineadas ACPC y coherentes con los puntos de referencia.</translation>
+        <translation>Imágenes de entrada, todas las imágenes deben estar exactamente en el mismo espacio físico, alineadas ACPC y coherentes con los puntos de referencia.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished">Imágenes de entrada no utilizadas en la generación de máscaras, todas las imágenes deben estar exactamente en el mismo espacio físico que inputVolumes, alineadas ACPC y coherentes con los puntos de referencia.</translation>
+        <translation>Imágenes de entrada no utilizadas en la generación de máscaras, todas las imágenes deben estar exactamente en el mismo espacio físico que volúmenesDeEntrada, alineadas ACPC y coherentes con los puntos de referencia.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation type="unfinished">Máscara pregenerada opcional a utilizar.</translation>
+        <translation>Máscara pregenerada opcional a utilizar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished">desenfoque</translation>
+        <translation>desenfoque</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished">cero</translation>
+        <translation>cero</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished">Archivos de salida</translation>
+        <translation>Archivos de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation type="unfinished">Resultados de la generación de MUSH y de la creación de máscaras de volumen cerebral</translation>
+        <translation>Resultados de la generación de MUSH y de la creación de máscaras de volumen cerebral</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation type="unfinished">máscara de volumen cerebral</translation>
+        <translation>máscara de volumen cerebral</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation type="unfinished">Directorio de salida</translation>
+        <translation>DirectorioDeSalida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
@@ -228,27 +228,27 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation type="unfinished">El directorio de salida para escribir los archivos de entrada desfigurados</translation>
+        <translation>El directorio de salida para escribir los archivos de entrada desfigurados</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished">Modo de ejecución</translation>
+        <translation>Modo de ejecución</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation type="unfinished">Modificar el programa para que sólo genere una máscara</translation>
+        <translation>Modificar el programa para que sólo genere una máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished">Sin aplicación de mascarilla</translation>
+        <translation>Sin aplicación de máscara</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished">No aplicar la máscara a las imágenes de entrada utilizadas para generar la máscara.</translation>
+        <translation>No aplicar la máscara a las imágenes de entrada utilizadas para generar la máscara.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
@@ -306,17 +306,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished">No recorte los valores fuera de este rango para que sean el &quot;Valor exterior&quot;.</translation>
+        <translation>No recorte los valores fuera de este rango para que sean el &quot;Valor exterior&quot;.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished">No escalar a los percentiles relativos de la escala de salida</translation>
+        <translation>No escalar a los percentiles relativos de la escala de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished">Nivel de depuración (0=Ninguno)</translation>
+        <translation>Nivel de depuración (0=Ninguno)</translation>
     </message>
 </context>
 <context>
@@ -399,7 +399,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished">Volumen de imagen de salida</translation>
+        <translation>Volumen de imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
@@ -1152,7 +1152,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished">Pedir al usuario que pulse intro cada vez que se envíe una imagen al VisorDeImagenDepurada.</translation>
+        <translation>Pedir al usuario que pulse intro cada vez que se envíe una imagen al VisorDeImagenDepurada.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
@@ -1193,7 +1193,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
@@ -1334,7 +1334,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
@@ -1352,21 +1352,21 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation type="unfinished">Remuestrear imagen (CEREBRO)</translation>
+        <translation>Remuestrear imagen (CEREBRO)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
         <source>
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
-        <translation type="unfinished">
-    Este programa reúne tres tareas comunes de procesamiento de imágenes que implican el remuestreo de un volumen de imagen: Remuestreo a una nueva resolución y espaciado, aplicación de una transformación (utilizando un mecanismo ITK transform IO) y Warping (utilizando un campo de deformación vectorial de la imagen).
+        <translation>
+    Este programa reúne tres tareas comunes de procesamiento de imágenes que implican el remuestreo de un volumen de imagen: Remuestreo a una nueva resolución y espaciado, aplicación de una transformación (utilizando un mecanismo Transformación ITK IO) y Deformación (utilizando un campo de deformación vectorial de la imagen).
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished">El desarrollo de esta herramienta contó con la financiación de las becas NS050568 y NS40068 del Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares y las becas MH31593, MH40856, del Instituto Nacional de Salud Mental.  </translation>
+        <translation>El desarrollo de esta herramienta contó con la financiación de las becas NS050568 y NS40068 del Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares y las becas MH31593, MH40856, del Instituto Nacional de Salud Mental.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
@@ -1376,7 +1376,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished">Parámetros para especificar la imagen a deformar y el espacio de imagen resultante</translation>
+        <translation>Parámetros para especificar la imagen a deformar y el espacio de imagen resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
