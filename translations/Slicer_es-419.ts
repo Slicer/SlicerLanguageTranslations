@@ -19038,162 +19038,162 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="143"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="56"/>
         <source>Markups</source>
-        <translation type="unfinished">Markups</translation>
+        <translation type="unfinished">Marcas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
         <source>Create Markups:</source>
-        <translation type="unfinished">Create Markups:</translation>
+        <translation type="unfinished">Crear marcas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="81"/>
         <source>Display</source>
-        <translation>Visualización</translation>
+        <translation type="unfinished">Visualización</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation type="unfinished">Leyenda de colores para la tabla de colores seleccionada en la sección Escalares.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="96"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation type="unfinished">Leyenda de colores</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation>Guardar la configuración actual de las propiedades de visualización en los valores predeterminados, se guardará para cuando se reinicie Slicer (consulte Configuración de la aplicación).</translation>
+        <translation type="unfinished">Guardar la configuración actual de las propiedades de visualización en los valores predeterminados, se guardará para cuando se reinicie Slicer (consulte Configuración de la aplicación).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
         <source>Save to Defaults</source>
-        <translation type="unfinished">Save to Defaults</translation>
+        <translation type="unfinished">Guardar como predeterminado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
         <source>Use default display properties.</source>
-        <translation>Utilizar las propiedades de visualización por defecto.</translation>
+        <translation type="unfinished">Utilizar las propiedades de visualización por defecto.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
         <source>Reset to Defaults</source>
-        <translation type="unfinished">Reset to Defaults</translation>
+        <translation type="unfinished">Restablecer valores por defecto</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="138"/>
         <source>Control Points</source>
-        <translation>Puntos de control</translation>
+        <translation type="unfinished">Puntos de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
         <source>Interaction: </source>
-        <translation type="unfinished">Interaction: </translation>
+        <translation type="unfinished">Interacción: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation type="unfinished">Enable/disable all interactions in slice and 3D views.</translation>
+        <translation type="unfinished">Activar/desactivar todas las interacciones en las vistas en corte y 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
         <source>Lock the number of points allowed in the active markup.</source>
-        <translation type="unfinished">Lock the number of points allowed in the active markup.</translation>
+        <translation type="unfinished">Bloquear el número de puntos permitidos en el marcado activo.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
         <source>Jump Slices:</source>
-        <translation type="unfinished">Jump Slices:</translation>
+        <translation type="unfinished">Saltar cortes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation>Desplazamiento: fija la posición del plano de corte. Centrado: establece la posición del plano de corte y centra la vista de corte en el punto de control.</translation>
+        <translation type="unfinished">Desplazamiento: fija la posición del plano de corte. Centrado: establece la posición del plano de corte y centra la vista de corte en el punto de control.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
         <source>none</source>
-        <translation>Ninguno</translation>
+        <translation type="unfinished">Ninguno</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
         <source>offset</source>
-        <translation type="unfinished">offset</translation>
+        <translation type="unfinished">Desplazado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
         <source>centered</source>
-        <translation type="unfinished">centered</translation>
+        <translation type="unfinished">Centrado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation>Mostrar intersecciones de cortes:</translation>
+        <translation type="unfinished">Mostrar intersecciones de cortes:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
         <source>Show how the other slice planes intersect each slice plane.</source>
-        <translation>Muestre cómo los otros planos de corte intersecan cada plano de corte.</translation>
+        <translation type="unfinished">Muestre cómo los otros planos de corte intersecan cada plano de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
         <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-        <translation>Alternar la bandera de visibilidad en todos los puntos de control de la lista. Utilice el menú desplegable para establecer todos como visibles o invisibles.</translation>
+        <translation type="unfinished">Alternar la bandera de visibilidad en todos los puntos de control de la lista. Utilice el menú desplegable para establecer todos como visibles o invisibles.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
         <source>Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</source>
-        <translation>Alternar la bandera seleccionada en todos los puntos de control de la lista. Utilice el menú desplegable para seleccionar o deseleccionar todos.</translation>
+        <translation type="unfinished">Alternar la bandera seleccionada en todos los puntos de control de la lista. Utilice el menú desplegable para seleccionar o deseleccionar todos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
         <source>Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</source>
-        <translation>Activar el indicador de bloqueo en todos los puntos de control de la lista. Utilice el menú desplegable para establecer todo en bloqueado o desbloqueado.</translation>
+        <translation type="unfinished">Activar el indicador de bloqueo en todos los puntos de control de la lista. Utilice el menú desplegable para establecer todo en bloqueado o desbloqueado.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
         <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-        <translation>Omitir la colocación de los puntos de control resaltados de la lista activa (borrará la posición actual).</translation>
+        <translation type="unfinished">Omitir la colocación de los puntos de control resaltados de la lista activa (borrará la posición actual).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
         <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-        <translation>Borrar la posición de los puntos de control resaltados de la lista activa (los puntos de control no se borrarán).</translation>
+        <translation type="unfinished">Borrar la posición de los puntos de control resaltados de la lista activa (los puntos de control no se borrarán).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation>Borrar los puntos de control resaltados de la lista activa</translation>
+        <translation type="unfinished">Borrar los puntos de control resaltados de la lista activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation>Eliminar todos los puntos de control de la lista activa</translation>
+        <translation type="unfinished">Eliminar todos los puntos de control de la lista activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation type="unfinished">Cortar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation type="unfinished">Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation type="unfinished">Pegar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="520"/>
         <source>Coordinates:  </source>
-        <translation type="unfinished">Coordinates:  </translation>
+        <translation type="unfinished">Coordenadas:  </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
         <source>Set visibility and coordinate system of control point positions.</source>
-        <translation type="unfinished">Set visibility and coordinate system of control point positions.</translation>
+        <translation type="unfinished">Establezca la visibilidad y el sistema de coordenadas de las posiciones de los puntos de control.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
@@ -19208,130 +19208,130 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="547"/>
         <source>Hide</source>
-        <translation type="unfinished">Hide</translation>
+        <translation type="unfinished">Ocultar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="567"/>
         <source>The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</source>
-        <translation>Los puntos de control en el nodo de marca activo en ese momento. Haga clic con el botón derecho en una fila para borrar, saltar, copiar, mover.</translation>
+        <translation type="unfinished">Los puntos de control en el nodo de marca activo en ese momento. Haga clic con el botón derecho en una fila para borrar, saltar, copiar, mover.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="570"/>
         <source>active markup control point table</source>
-        <translation type="unfinished">active markup control point table</translation>
+        <translation type="unfinished">Tabla de puntos de control del marcado activo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
         <source>Display, naming, volume interactions, moving up/down, adding</source>
         <oldsource>Display, naming, volume interactions, moving up/down, adding, Annotations import</oldsource>
-        <translation>Visualización, asignación de nombres, interacciones con el volumen, subir/bajar, añadir, importación de anotaciones</translation>
+        <translation type="unfinished">Visualización, asignación de nombres, interacciones con el volumen, subir/bajar, añadir, importación de anotaciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="886"/>
         <source>Advanced</source>
-        <translation>Avanzado</translation>
+        <translation type="unfinished">Avanzado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="615"/>
         <source>Move a highlighted control point up one spot in the list</source>
-        <translation>Desplazar un punto de control resaltado hacia arriba en la lista</translation>
+        <translation type="unfinished">Desplazar un punto de control resaltado hacia arriba en la lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="647"/>
         <source>Move a highlighted control point down one spot in the list</source>
-        <translation>Desplazar un punto de control resaltado hacia abajo en la lista</translation>
+        <translation type="unfinished">Desplazar un punto de control resaltado hacia abajo en la lista</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
         <source>Add a new control point to the active list, at origin</source>
-        <translation>Añadir un nuevo punto de control a la lista activa, en el origen</translation>
+        <translation type="unfinished">Añadir un nuevo punto de control a la lista activa, en el origen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
         <source>Naming</source>
-        <translation type="unfinished">Naming</translation>
+        <translation type="unfinished">Nombrar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="698"/>
         <source>Include %N for list name, %d for number.</source>
-        <translation type="unfinished">Include %N for list name, %d for number.</translation>
+        <translation type="unfinished">Incluya %N para el nombre de la lista, %d para el número.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="701"/>
         <source>Name Format</source>
-        <translation type="unfinished">Name Format</translation>
+        <translation type="unfinished">Formato del nombre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="708"/>
         <source>Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</source>
-        <translation>El formato para crear nombres de nuevos puntos de control, utilizando el estilo de formato sprintf. %N se sustituye por el nombre de la lista, %S se sustituye por el nombre corto de la marca y %d por un número entero.</translation>
+        <translation type="unfinished">El formato para crear nombres de nuevos puntos de control, utilizando el estilo de formato sprintf. %N se sustituye por el nombre de la lista, %S se sustituye por el nombre corto de la marca y %d por un número entero.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="715"/>
         <source>Reset the name format field to the default value.</source>
-        <translation type="unfinished">Reset the name format field to the default value.</translation>
+        <translation type="unfinished">Restablece el valor por defecto el formato del nombre.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation type="unfinished">Restablecer</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="725"/>
         <source>Rename all control points in this list according to the current name format, trying to preserve numbers.</source>
-        <translation>Renombra todos los puntos de control de esta lista según el formato de nombre actual, intentando conservar los números.</translation>
+        <translation type="unfinished">Renombra todos los puntos de control de esta lista según el formato de nombre actual, intentando conservar los números.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="879"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation type="unfinished">Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="747"/>
         <source>Measurements</source>
-        <translation>Medidas</translation>
+        <translation type="unfinished">Medidas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="756"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation type="unfinished">Ninguna medida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="763"/>
         <source>Measurement settings</source>
-        <translation type="unfinished">Measurement settings</translation>
+        <translation type="unfinished">Configuración de las medidas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="823"/>
         <source>Export/import Table</source>
-        <translation>Exportar/importar tabla</translation>
+        <translation type="unfinished">Exportar/importar tabla</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="832"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation type="unfinished">Operación:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="841"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation type="unfinished">Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="848"/>
         <source>Import</source>
-        <translation>Importar</translation>
+        <translation type="unfinished">Importar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="857"/>
         <source>Table:</source>
-        <translation type="unfinished">Table:</translation>
+        <translation type="unfinished">Tabla:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="913"/>
         <source>Export coordinate system:</source>
-        <translation type="unfinished">Export coordinate system:</translation>
+        <translation type="unfinished">Exportar sistema de coordenadas:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="922"/>
@@ -19346,12 +19346,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="203"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un módulo para crear y gestionar marcas en 2D y 3D. Este módulo sustituye al antiguo módulo Anotaciones.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="213"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este trabajo ha contado con el apoyo de NAMIC, NAC y la Comunidad Slicer.</translation>
     </message>
 </context>
 <context>
@@ -19359,24 +19359,24 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"/>
         <source>Visibility</source>
-        <translation>Visibilidad</translation>
+        <translation type="unfinished">Visibilidad</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="299"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
         <source>Lock</source>
-        <translation type="unfinished">Lock</translation>
+        <translation type="unfinished">Bloquear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="327"/>
         <source>Selected</source>
-        <translation type="unfinished">Selected</translation>
+        <translation type="unfinished">Seleccionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation type="unfinished">Bloqueado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
@@ -19387,120 +19387,120 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3203"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation type="unfinished">Nombre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation type="unfinished">Descripción</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="203"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">R</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="204"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="205"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="206"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posición</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
         <source>Visibility On</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visibilidad activada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="273"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
-        <translation>Activar el indicador de visibilidad para todos los puntos de control de la marca activa</translation>
+        <translation type="unfinished">Activar el indicador de visibilidad para todos los puntos de control de la marca activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
         <source>Visibility Off</source>
-        <translation>Visibilidad desactivada</translation>
+        <translation type="unfinished">Visibilidad desactivada</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="282"/>
         <source>Set visibility flag to off for all control points in the active markup</source>
-        <translation>Desactivar la visibilidad de todos los puntos de control de la marca activa</translation>
+        <translation type="unfinished">Desactivar la visibilidad de todos los puntos de control de la marca activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="303"/>
         <source>Set lock flag to on for all control points in the active markup</source>
-        <translation>Activar el indicador de bloqueo para todos los puntos de control de la marca activa</translation>
+        <translation type="unfinished">Activar el indicador de bloqueo para todos los puntos de control de la marca activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desbloquear</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="311"/>
         <source>Set lock flag to off for all control points in the active markup</source>
-        <translation>Desactivar el indicador de bloqueo para todos los puntos de control de la marca activa</translation>
+        <translation type="unfinished">Desactivar el indicador de bloqueo para todos los puntos de control de la marca activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selección activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="331"/>
         <source>Set selected flag to on for all control points in the active markup</source>
-        <translation>Activar el indicador seleccionado para todos los puntos de control de la marca activa</translation>
+        <translation type="unfinished">Activar el indicador seleccionado para todos los puntos de control de la marca activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="339"/>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selección inactiva</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="340"/>
         <source>Set selected flag to off for all control points in the active markup</source>
-        <translation>Desactivar el indicador seleccionado para todos los puntos de control de la marca activa</translation>
+        <translation type="unfinished">Desactivar el indicador seleccionado para todos los puntos de control de la marca activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="375"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="379"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation type="unfinished">Cortar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="385"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="389"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation type="unfinished">Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="395"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="399"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation type="unfinished">Pegar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="480"/>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
-        <translation>Haga clic en esta columna para seleccionar/deseleccionar puntos de control para pasar a módulos CLI</translation>
+        <translation type="unfinished">Haga clic en esta columna para seleccionar/deseleccionar puntos de control para pasar a módulos CLI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="486"/>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
-        <translation>Haga clic en esta columna para bloquear o desbloquear los puntos de control y evitar que se muevan por error</translation>
+        <translation type="unfinished">Haga clic en esta columna para bloquear o desbloquear los puntos de control y evitar que se muevan por error</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="492"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation>Haga clic en esta columna para mostrar/ocultar los puntos de control en 2D y 3D</translation>
+        <translation type="unfinished">Haga clic en esta columna para mostrar/ocultar los puntos de control en 2D y 3D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="498"/>
@@ -19510,7 +19510,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Skip: &apos;Place multiple control points&apos; mode skips over the control point entry
 - Restore: Set the control point position to its last known set position
 - Clear: Clear the defined control point position, but do not delete the control point</source>
-        <translation>Haga clic en esta columna para modificar el estado de la posición del punto de control.
+        <translation type="unfinished">Haga clic en esta columna para modificar el estado de la posición del punto de control.
 
 - Editar: Entrar en el modo &quot;Colocar&quot; para modificar la posición del punto de control en las vistas en corte
 - Omitir: el modo &quot;Colocar varios puntos de control&quot; omite la entrada del punto de control
@@ -19520,17 +19520,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="816"/>
         <source>Create %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crear %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1003"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation>Haga clic para desbloquear esta lista de puntos de control y poder moverlos con el mouse</translation>
+        <translation type="unfinished">Haga clic para desbloquear esta lista de puntos de control y poder moverlos con el mouse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1008"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation>Hacer clic para bloquear ésta lista de puntos de control para que los puntos no se puedan mover con el mouse</translation>
+        <translation type="unfinished">Hacer clic para bloquear ésta lista de puntos de control para que los puntos no se puedan mover con el mouse</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1014"/>
@@ -19546,12 +19546,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1614"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1822"/>
         <source>Confirm control point deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar la eliminación del punto de control</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1615"/>
         <source>Delete %1 control points from this list?</source>
-        <translation>¿Borrar %1 puntos de control de esta lista?</translation>
+        <translation type="unfinished">¿Borrar %1 puntos de control de esta lista?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1621"/>
@@ -19571,53 +19571,53 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2290"/>
         <source>Delete highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Borrar punto(s) de control marcado(s)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2297"/>
         <source>Jump slices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Saltar cortes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2304"/>
         <source>Refocus all cameras</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volver a enfocar todas las cámaras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2322"/>
         <source>Edit position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editar la posición de punto(s) de control marcado(s)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2328"/>
         <source>Skip placement of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Omitir la colocación de punto(s) de control marcado(s)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2334"/>
         <source>Restore position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Restablecer la posición de punto(s) de control marcado(s)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2340"/>
         <source>Clear position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Despejar posición de punto(s) de control marcado(s)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2454"/>
         <source>Summed linear distance: %1</source>
-        <translation>Distancia lineal sumada: %1</translation>
+        <translation type="unfinished">Suma de la distancia lineal: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3158"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3186"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation type="unfinished">Ninguna medida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3203"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Habilitado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3271"/>
@@ -19627,22 +19627,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3272"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation type="unfinished">Exportar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
         <source>Export control points coordinates and properties to table.</source>
-        <translation>Exportar las coordenadas y propiedades de los puntos de control a una tabla.</translation>
+        <translation type="unfinished">Exportar las coordenadas y propiedades de los puntos de control a una tabla.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
         <source>Input table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabla de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3279"/>
         <source>Import</source>
-        <translation>Importar</translation>
+        <translation type="unfinished">Importar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3281"/>
@@ -19650,7 +19650,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation>Importar coordenadas y propiedades de puntos de control desde el nodo de tabla.
+        <translation type="unfinished">Importar coordenadas y propiedades de puntos de control desde el nodo de tabla.
 Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, seleccionado, visible, bloqueado, descripción.</translation>
     </message>
 </context>
