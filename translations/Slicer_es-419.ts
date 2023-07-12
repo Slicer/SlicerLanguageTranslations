@@ -253,40 +253,40 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished">Normalización de la intensidad de la imagen de salida</translation>
+        <translation>Normalización de la intensidad de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation type="unfinished">Parámetros para normalizar las imágenes de salida</translation>
+        <translation>Parámetros para normalizar las imágenes de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished">Percentil superior</translation>
+        <translation>Percentil superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished">Percentil inferior</translation>
+        <translation>Percentil inferior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished">Intensidad de salida superior</translation>
+        <translation>Intensidad de salida superior</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished">Menor intensidad de salida</translation>
+        <translation>Menor intensidad de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished">Escala relativa</translation>
+        <translation>Escala relativa</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
@@ -296,17 +296,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished">Percentil de intensidad superior (0,99 por defecto)</translation>
+        <translation>Percentil de intensidad superior (0,99 por defecto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished">Percentil de intensidad inferior (0,01 por defecto)</translation>
+        <translation>Percentil de intensidad inferior (0,01 por defecto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation>No recorte los valores fuera de este rango para que sean el &quot;Valor exterior&quot;.</translation>
+        <translation>No recorte los valores fuera de este rango para que sean el “Valor exterior”.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
@@ -460,7 +460,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation>useAlineaciónDeCentrodeCabeza</translation>
+        <translation>useAlineaciónDeCentroDeCabeza</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
@@ -1382,17 +1382,17 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">Imagen a Warp</translation>
+        <translation>Imagen a deformar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
         <source>Reference Image</source>
-        <translation type="unfinished">Imagen de referencia</translation>
+        <translation>Imagen de referencia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation type="unfinished">Imagen de referencia utilizada únicamente para definir el espacio de salida. Si no se especifica, la deformación se realiza en el mismo espacio que la imagen a deformar.</translation>
+        <translation>Imagen de referencia utilizada únicamente para definir el espacio de salida. Si no se especifica, la deformación se realiza en el mismo espacio que la imagen a deformar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
@@ -1402,33 +1402,33 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
         <source>Resulting deformed image parameters</source>
-        <translation type="unfinished">Parámetros de la imagen deformada resultante</translation>
+        <translation>Parámetros de la imagen deformada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation type="unfinished">Imagen de salida</translation>
+        <translation>Imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
         <source>Pixel Type</source>
-        <translation type="unfinished">Tipo de píxel</translation>
+        <translation>Tipo de píxel</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished">Imagen deformada resultante</translation>
+        <translation>Imagen deformada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
         <source>Specifies the pixel type for the input/output images.  If the type is &quot;input&quot;, then infer from the input image.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished">Especifica el tipo de píxel para las imágenes de entrada/salida.  Si el tipo es &quot;entrada&quot;, se infiere a partir de la imagen de entrada.  El tipo de píxel &quot;binario&quot; utiliza un algoritmo modificado por el que la imagen se lee como unsigned char, se crea un mapa de distancias con signo, se remuestrea el mapa de distancias con signo y, a continuación, se escribe en el disco una imagen umbralizada de tipo unsigned char.</translation>
+        <translation>Especifica el tipo de píxel para las imágenes de entrada/salida.  Si el tipo es “entrada”, se infiere a partir de la imagen de entrada.  El tipo de píxel “binario” utiliza un algoritmo modificado por el que la imagen se lee como carácter sin signo, se crea un mapa de distancias con signo, se remuestrea el mapa de distancias con signo y, a continuación, se escribe en el disco una imagen umbralizada de tipo carácter sin signo.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>memoria intermedia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
@@ -1438,67 +1438,67 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished">ushort</translation>
+        <translation>ushort</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation type="unfinished">int</translation>
+        <translation>int</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished">uint</translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation type="unfinished">uchar</translation>
+        <translation>uchar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished">binario</translation>
+        <translation>binario</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished">entrada</translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
         <source>Warping Parameters</source>
-        <translation type="unfinished">Parámetros de deformación</translation>
+        <translation>Parámetros de deformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished">Parámetros utilizados para definir el origen de la deformación de la imagen</translation>
+        <translation>Parámetros utilizados para definir el origen de la deformación de la imagen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
         <source>Displacement Field (deprecated)</source>
-        <translation type="unfinished">Campo de desplazamiento (obsoleto)</translation>
+        <translation>Campo de desplazamiento (obsoleto)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished">Transformar archivo</translation>
+        <translation>Archivo de transformación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">Modo de interpolación</translation>
+        <translation>Modo de interpolación</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished">¿Calcular la transformada inversa de una transformación dada?</translation>
+        <translation>¿Calcular la transformada inversa de una transformación dada?</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
         <source>Default Value</source>
-        <translation type="unfinished">Valor por defecto</translation>
+        <translation>Valor por defecto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
