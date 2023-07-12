@@ -1631,63 +1631,63 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">Inputs</translation>
+        <translation>Entradas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished">Parámetros para especificar la imagen a deformar y el espacio de imagen resultante</translation>
+        <translation>Parámetros para especificar la imagen a deformar y el espacio de imagen resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">Imagen a deformar</translation>
+        <translation>Imagen a deformar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
         <source>Image To Scale</source>
-        <translation type="unfinished">Imagen a escala</translation>
+        <translation>Imagen a escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">Outputs</translation>
+        <translation>Salidas</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
         <source>Resulting scaled image parameters</source>
-        <translation type="unfinished">Parámetros de la imagen escalada resultante</translation>
+        <translation>Parámetros de la imagen escalada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished">Imagen de salida</translation>
+        <translation>Imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
         <source>Pixel Type</source>
-        <translation type="unfinished">Tipo de píxel</translation>
+        <translation>Tipo de píxel</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation type="unfinished">Imagen escalada resultante</translation>
+        <translation>Imagen a escala resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished">Especifica el tipo de píxel para las imágenes de entrada/salida.  El tipo de píxel &quot;binario&quot; utiliza un algoritmo modificado por el que la imagen se lee como unsigned char, se crea un mapa de distancias con signo, se remuestrea el mapa de distancias con signo y, a continuación, se escribe en el disco una imagen umbralizada de tipo unsigned char.</translation>
+        <translation>Especifica el tipo de píxel para las imágenes de entrada/salida.  El tipo de píxel &quot;binario&quot; utiliza un algoritmo modificado por el que la imagen se lee como carácter sin signo se crea un mapa de distancias con signo, se remuestrea el mapa de distancias con signo y, a continuación, se escribe en el disco una imagen umbralizada de tipo carácter sin signo.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation type="unfinished">memoria intermedia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation type="unfinished">short</translation>
+        <translation>corto</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
@@ -1717,22 +1717,22 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"/>
         <source>Scaling Parameters</source>
-        <translation type="unfinished">Parámetros de escala</translation>
+        <translation>Parámetros de escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation type="unfinished">Parámetros utilizados para definir la escala de la imagen de salida</translation>
+        <translation>Parámetros utilizados para definir la escala de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
         <source>Scale Factor</source>
-        <translation type="unfinished">Factor de escala</translation>
+        <translation>Factor de escala</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation type="unfinished">El factor de escala para el espaciado de la imagen.</translation>
+        <translation>El factor de escala para el espaciado de la imagen.</translation>
     </message>
 </context>
 <context>
@@ -1740,43 +1740,43 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation type="unfinished">Rotación de tiras (BRAINS)</translation>
+        <translation>Rotación de tiras (CEREBROS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation type="unfinished">Leer una imagen, escribir la misma imagen con la matriz de rotación de identidad más un archivo de transformación ITK</translation>
+        <translation>Leer una imagen, escribir la misma imagen con la matriz de rotación de identidad más un archivo de transformación ITK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">Parámetros de entrada</translation>
+        <translation>Parámetros de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">Imagen a deformar</translation>
+        <translation>Imagen a deformar</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished">Imagen de salida</translation>
+        <translation>Imagen de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished">Transformar archivo</translation>
+        <translation>Transformar archivo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished">Imagen deformada resultante</translation>
+        <translation>Imagen deformada resultante</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation type="unfinished">Nombre del archivo de transformación</translation>
+        <translation>Nombre del archivo de transformación</translation>
     </message>
 </context>
 <context>
@@ -1784,7 +1784,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished">Transformar Convertir (BRAINS)</translation>
+        <translation>Transformar Convertir (CEREBROS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
@@ -1805,32 +1805,32 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
         <source>Transform File Name To Convert</source>
-        <translation type="unfinished">Transformar nombre de archivo a convertir</translation>
+        <translation>Transformar nombre de archivo a convertir</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation type="unfinished">Imagen de referencia</translation>
+        <translation>Imagen de referencia</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
         <source>Output displacement field</source>
-        <translation type="unfinished">Campo de desplazamiento de salida</translation>
+        <translation>Campo de desplazamiento de salida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished">Nombre del archivo de transformación para guardar la transformación convertida</translation>
+        <translation>Nombre del archivo de transformación para guardar la transformación convertida</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation type="unfinished">El tipo de transformación de destino. Debe ser compatible con el tipo de transformación de entrada</translation>
+        <translation>El tipo de transformación de destino. Debe ser compatible con el tipo de transformación de entrada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
@@ -1841,43 +1841,43 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"/>
         <source>Affine</source>
-        <translation type="unfinished">Affine</translation>
+        <translation>Afín</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="24"/>
         <source>double</source>
-        <translation type="unfinished">double</translation>
+        <translation>doble</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
         <source>VersorRigid</source>
-        <translation type="unfinished">RígidoVersor</translation>
+        <translation>VersorRígido</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
         <source>ScaleVersor</source>
-        <translation type="unfinished">EscalaVersor</translation>
+        <translation>EscalaDeVersor</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="21"/>
         <source>ScaleSkewVersor</source>
-        <translation type="unfinished">EscalaScrewVersor</translation>
+        <translation>EscalaDeVersorInclinada</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="22"/>
         <source>DisplacementField</source>
-        <translation type="unfinished">CampoDesplazamiento</translation>
+        <translation>CampoDeDesplazamiento</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="23"/>
         <source>Same</source>
-        <translation type="unfinished">Mismo</translation>
+        <translation>Mismo</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>memoria intermedia</translation>
     </message>
 </context>
 <context>
@@ -1885,7 +1885,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="5"/>
         <source>Cast Scalar Volume</source>
-        <translation type="unfinished">Volumen escalar fundido</translation>
+        <translation>VolumenEscalarFundido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="6"/>
@@ -1899,7 +1899,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -1909,37 +1909,37 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="12"/>
         <source>Input volume, the volume to cast.</source>
-        <translation type="unfinished">Volumen de entrada, el volumen a emitir.</translation>
+        <translation>Volumen de entrada, el volumen a emitir.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation type="unfinished">Volumen de salida, convertido al nuevo tipo.</translation>
+        <translation>Volumen de salida, convertido al nuevo tipo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
         <source>Filter Settings</source>
-        <translation type="unfinished">Ajustes de filtro</translation>
+        <translation>Ajustes de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="15"/>
         <source>Output Type</source>
-        <translation type="unfinished">Tipo de salida</translation>
+        <translation>Tipo de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="16"/>
@@ -1950,22 +1950,22 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="19"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished">CarácterSinSigno</translation>
+        <translation>CarácterSinSigno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="18"/>
         <source>Char</source>
-        <translation type="unfinished">Caractér</translation>
+        <translation>Carácter</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="20"/>
         <source>Short</source>
-        <translation type="unfinished">Corto</translation>
+        <translation>Corto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="21"/>
         <source>UnsignedShort</source>
-        <translation type="unfinished">CortoSinSigno</translation>
+        <translation>CortoSinSigno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="22"/>
@@ -1980,12 +1980,12 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation type="unfinished">Float</translation>
+        <translation type="unfinished">Memoria intermedia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
         <source>Double</source>
-        <translation type="unfinished">Doble</translation>
+        <translation>Doble</translation>
     </message>
 </context>
 <context>
@@ -1993,37 +1993,37 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="4"/>
         <source>CheckerBoard Filter</source>
-        <translation type="unfinished">FiltroDeTableroDeAjedrez</translation>
+        <translation>FiltroDeTableroDeAjedrez</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="5"/>
         <source>Create a checkerboard volume of two volumes. The output volume will show the two inputs alternating according to the user supplied checkerPattern. This filter is often used to compare the results of image registration. Note that the second input is resampled to the same origin, spacing and direction before it is composed with the first input. The scalar type of the output volume will be the same as the input image scalar type.</source>
-        <translation type="unfinished">Crea un volumen en damero de dos volúmenes. El volumen de salida mostrará las dos entradas alternándose según el checkerPattern suministrado por el usuario. Este filtro se utiliza a menudo para comparar los resultados del registro de imágenes. Tenga en cuenta que la segunda entrada es remuestreada al mismo origen, espaciado y dirección antes de ser compuesta con la primera entrada. El tipo escalar del volumen de salida será el mismo que el tipo escalar de la imagen de entrada.</translation>
+        <translation>Crea un volumen en damero de dos volúmenes. El volumen de salida mostrará las dos entradas alternándose según el PatrónDeVerificador suministrado por el usuario. Este filtro se utiliza a menudo para comparar los resultados del registro de imágenes. Tenga en cuenta que la segunda entrada es remuestreada al mismo origen, espaciado y dirección antes de ser compuesta con la primera entrada. El tipo escalar del volumen de salida será el mismo que el tipo escalar de la imagen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
         <source>CheckerBoard Parameters</source>
-        <translation type="unfinished">Parámetros del CheckerBoard</translation>
+        <translation type="unfinished">Parámetros del TableroDeAjedrez</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="8"/>
         <source>Parameters for the checkerboard</source>
-        <translation type="unfinished">Parámetros del checkerboard</translation>
+        <translation>Parámetros del tablerodeajedrez</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="9"/>
         <source>Checker Pattern</source>
-        <translation type="unfinished">Patrón de cuadros</translation>
+        <translation type="unfinished">Patrón de verificador</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="10"/>
         <source>The pattern of input 1 and input 2 in the output image. The user can specify the number of checkers in each dimension. A checkerPattern of 2,2,1 means that images will alternate in every other checker in the first two dimensions. The same pattern will be used in the 3rd dimension.</source>
-        <translation type="unfinished">El patrón de la entrada 1 y la entrada 2 en la imagen de salida. El usuario puede especificar el número de fichas en cada dimensión. Un checkerPattern de 2,2,1 significa que las imágenes se alternarán en cada checker en las dos primeras dimensiones. Se utilizará el mismo patrón en la tercera dimensión.</translation>
+        <translation>El patrón de la entrada 1 y la entrada 2 en la imagen de salida. El usuario puede especificar el número de fichas en cada dimensión. Un PatrónDeVerificador de 2,2,1 significa que las imágenes se alternarán en cada checker en las dos primeras dimensiones. Se utilizará el mismo patrón en la tercera dimensión.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="11"/>
@@ -2076,17 +2076,17 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished">Crear una serie DICOM a partir de un volumen Slicer. El usuario puede especificar valores para las etiquetas DICOM seleccionadas en la interfaz de usuario. Dado el número de etiquetas que tienen las series DICOM, es imposible exponer todas las etiquetas en la interfaz de usuario. Por lo tanto, el usuario sólo puede establecer las etiquetas importantes.</translation>
+        <translation>Crear una serie DICOM a partir de un volumen Slicer. El usuario puede especificar valores para las etiquetas DICOM seleccionadas en la interfaz de usuario. Dado el número de etiquetas que tienen las series DICOM, es imposible exponer todas las etiquetas en la interfaz de usuario. Por lo tanto, el usuario sólo puede establecer las etiquetas importantes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos procede de Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation>Este módulo de comandos procede de Introspección/Ejemplos (derechos de autor) Consorcio de programas informáticos de Introspección (en inglés Insight Software Consortium)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
         <source>Input</source>
-        <translation type="unfinished">Entrada</translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="8"/>
@@ -2096,62 +2096,62 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="10"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">Volumen de entrada a remuestrear</translation>
+        <translation>Volumen de entrada a remuestrear</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="11"/>
         <source>Output</source>
-        <translation type="unfinished">Salida</translation>
+        <translation>Salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="12"/>
         <source>Output parameters</source>
-        <translation type="unfinished">Parámetros de salida</translation>
+        <translation>Parámetros de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="13"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished">Directorio DICOM</translation>
+        <translation>Directorio DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="14"/>
         <source>DICOM filename prefix</source>
-        <translation type="unfinished">Prefijo del nombre de archivo DICOM</translation>
+        <translation>Prefijo del nombre del archivo DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="15"/>
         <source>DICOM file number format</source>
-        <translation type="unfinished">Formato del número de archivo DICOM</translation>
+        <translation>Formato del número del archivo DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="16"/>
         <source>Reverse Slices</source>
-        <translation type="unfinished">Rodajas inversas</translation>
+        <translation>Cortes inversos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="17"/>
         <source>Use Compression</source>
-        <translation type="unfinished">Utilizar la compresión</translation>
+        <translation>Utilizar compresión</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="18"/>
         <source>Output Type:</source>
-        <translation type="unfinished">Tipo de salida:</translation>
+        <translation>Tipo de salida:</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="19"/>
         <source>The directory to contain the DICOM series.</source>
-        <translation type="unfinished">El directorio que contendrá las series DICOM.</translation>
+        <translation>El directorio que contendrá las series DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="20"/>
         <source>The prefix of the DICOM filename.</source>
-        <translation type="unfinished">El prefijo del nombre de archivo DICOM.</translation>
+        <translation>El prefijo del nombre del archivo DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="21"/>
@@ -2161,7 +2161,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="22"/>
         <source>Reverse the slices.</source>
-        <translation type="unfinished">Invierte las rodajas.</translation>
+        <translation>Invierta los cortes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="23"/>
@@ -2171,7 +2171,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="24"/>
         <source>Type for the new output volume.</source>
-        <translation type="unfinished">Tipo para el nuevo volumen de salida.</translation>
+        <translation>Tipo del nuevo volumen de salida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="25"/>
@@ -2183,7 +2183,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="26"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="28"/>
         <source>UnsignedChar</source>
-        <translation type="unfinished">CarácterSinSigno</translation>
+        <translation>CarácterSinSigno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="27"/>
@@ -2334,7 +2334,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="59"/>
         <source>Model</source>
-        <translation type="unfinished">Modelo</translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="60"/>
@@ -2344,12 +2344,12 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="61"/>
         <source>The date of the study (0008,0020) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished">La fecha del estudio (0008,0020) en el formato AAAAMMDD. Si se establece en &quot;[ahora]&quot;, se utiliza la fecha actual.</translation>
+        <translation>La fecha del estudio (0008,0020) en el formato AAAAMMDD. Si se establece en &quot;[ahora]&quot;, se utiliza la fecha actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="62"/>
         <source>The time of the study (0008,0030) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished">La hora del estudio (0008,0030) en el formato HHMMSS. Si se establece en &quot;[ahora]&quot;, se utiliza la hora actual.</translation>
+        <translation>La hora del estudio (0008,0030) en el formato HHMMSS. Si se establece en &quot;[ahora]&quot;, se utiliza la hora actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="63"/>
@@ -2364,48 +2364,48 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="65"/>
         <source>Modality (0008,0060)</source>
-        <translation type="unfinished">Modalidad (0008,0060)</translation>
+        <translation>Modalidad (0008,0060)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="66"/>
         <source>Manufacturer (0008,0070)</source>
-        <translation type="unfinished">Fabricante (0008,0070)</translation>
+        <translation>Fabricante (0008,0070)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="67"/>
         <source>model (0008,1090)</source>
-        <translation type="unfinished">modelo (0008,1090)</translation>
+        <translation>modelo (0008,1090)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="68"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="69"/>
         <source>CT</source>
-        <translation type="unfinished">CT</translation>
+        <translation>CT</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="70"/>
         <source>MR</source>
-        <translation type="unfinished">MR</translation>
+        <translation>MR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="71"/>
         <source>NM</source>
-        <translation type="unfinished">NM</translation>
+        <translation>NM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="72"/>
         <source>US</source>
-        <translation type="unfinished">US</translation>
+        <translation>US</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="73"/>
         <source>CR</source>
-        <translation type="unfinished">CR</translation>
+        <translation>CR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="74"/>
         <source>SC</source>
-        <translation type="unfinished">SC</translation>
+        <translation>SC</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="75"/>
@@ -2455,12 +2455,12 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="84"/>
         <source>The date of the series (0008,0021) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished">La fecha de la serie (0008,0021) en el formato AAAAMMDD. Si se establece en &quot;[ahora]&quot;, se utiliza la fecha actual.</translation>
+        <translation>La fecha de la serie (0008,0021) en el formato AAAAMMDD. Si se establece en &quot;[ahora]&quot;, se utiliza la fecha actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="85"/>
         <source>The time of the series (0008,0031) in the format HHMMSS. If set to &quot;[now]&quot; then the current time is used.</source>
-        <translation type="unfinished">La hora de la serie (0008,0031) en el formato HHMMSS. Si se establece en &quot;[ahora]&quot;, se utiliza la hora actual.</translation>
+        <translation>La hora de la serie (0008,0031) en el formato HHMMSS. Si se establece en &quot;[ahora]&quot;, se utiliza la hora actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="86"/>
@@ -2471,82 +2471,82 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="87"/>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="88"/>
         <source>HFS</source>
-        <translation type="unfinished">HFS</translation>
+        <translation>HFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="89"/>
         <source>HFP</source>
-        <translation type="unfinished">HFP</translation>
+        <translation>HFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="90"/>
         <source>HFDR</source>
-        <translation type="unfinished">HFDR</translation>
+        <translation>HFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="91"/>
         <source>HFDL</source>
-        <translation type="unfinished">HFDL</translation>
+        <translation>HFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="92"/>
         <source>FFDR</source>
-        <translation type="unfinished">FFDR</translation>
+        <translation>FFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="93"/>
         <source>FFDL</source>
-        <translation type="unfinished">FFDL</translation>
+        <translation>FFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="94"/>
         <source>FFP</source>
-        <translation type="unfinished">FFP</translation>
+        <translation>FFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="95"/>
         <source>FFS</source>
-        <translation type="unfinished">FFS</translation>
+        <translation>FFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="96"/>
         <source>LFP</source>
-        <translation type="unfinished">LFP</translation>
+        <translation>LFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="97"/>
         <source>LFS</source>
-        <translation type="unfinished">LFS</translation>
+        <translation>LFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="98"/>
         <source>RFP</source>
-        <translation type="unfinished">RFP</translation>
+        <translation>RFP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="99"/>
         <source>RFS</source>
-        <translation type="unfinished">RFS</translation>
+        <translation>RFS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="100"/>
         <source>AFDR</source>
-        <translation type="unfinished">AFDR</translation>
+        <translation>AFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="101"/>
         <source>AFDL</source>
-        <translation type="unfinished">AFDL</translation>
+        <translation>AFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="102"/>
         <source>PFDR</source>
-        <translation type="unfinished">PFDR</translation>
+        <translation>PFDR</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="103"/>
         <source>PFDL</source>
-        <translation type="unfinished">PFDL</translation>
+        <translation>PFDL</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="104"/>
@@ -2561,37 +2561,37 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="106"/>
         <source>Window center</source>
-        <translation type="unfinished">Ventana central</translation>
+        <translation>Ventana central</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="107"/>
         <source>Window width</source>
-        <translation type="unfinished">Anchura de ventana</translation>
+        <translation>Anchura de ventana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="108"/>
         <source>Rescale intercept</source>
-        <translation type="unfinished">Reescalar intercepción</translation>
+        <translation>Reescalar intercepción</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="109"/>
         <source>Rescale slope</source>
-        <translation type="unfinished">Reescalar pendiente</translation>
+        <translation>Reescalar pendiente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="110"/>
         <source>Rescale Type</source>
-        <translation type="unfinished">Tipo de reescalado</translation>
+        <translation>Tipo de reescalado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="111"/>
         <source>Content Date</source>
-        <translation type="unfinished">Fecha del Contenido</translation>
+        <translation>Fecha del contenido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="112"/>
         <source>Content Time</source>
-        <translation type="unfinished">Tiempo de contenido</translation>
+        <translation>Tiempo de contenido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="113"/>
@@ -2621,7 +2621,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="118"/>
         <source>The date of the image content (0008,0023) in the format YYYYMMDD. If set to &quot;[now]&quot; then the current date is used.</source>
-        <translation type="unfinished">La fecha del contenido de la imagen (0008,0023) en el formato AAAAMMDD. Si se establece en &quot;[ahora]&quot;, se utiliza la fecha actual.</translation>
+        <translation>La fecha del contenido de la imagen (0008,0023) en el formato AAAAMMDD. Si se establece en &quot;[ahora]&quot;, se utiliza la fecha actual.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="119"/>
@@ -2631,12 +2631,12 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="120"/>
         <source>Unique Identifiers (UIDs)</source>
-        <translation type="unfinished">Identificadores únicos (UID)</translation>
+        <translation>Identificadores únicos (UID)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="121"/>
         <source>Unique identifiers (UIDs) that allow appending frames to existing studies or series. To generate UIDs automatically, leave all of them blank.</source>
-        <translation type="unfinished">Identificadores únicos (UID) que permiten añadir marcos a estudios o series existentes. Para generar los UID automáticamente, déjelos todos en blanco.</translation>
+        <translation>Identificadores únicos (UID) que permiten añadir marcos a estudios o series existentes. Para generar los UID automáticamente, déjelos todos en blanco.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="122"/>
@@ -2651,12 +2651,12 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
         <source>Frame of Reference UID</source>
-        <translation type="unfinished">Marco de referencia UID</translation>
+        <translation>Marco de referencia UID</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
         <source>The study instance UID (0020,000d). Leave it blank to generate UIDs automatically.</source>
-        <translation type="unfinished">El UID de la instancia del estudio (0020,000d). Déjelo en blanco para generar los UID automáticamente.</translation>
+        <translation>El UID de la instancia del estudio (0020,000d). Déjelo en blanco para generar los UID automáticamente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="126"/>
@@ -2674,7 +2674,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="5"/>
         <source>Curvature Anisotropic Diffusion</source>
-        <translation type="unfinished">Difusión Anisótropa de Curvatura</translation>
+        <translation>Difusión anisótropa de curvatura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="6"/>
@@ -2697,49 +2697,49 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos procede de Perspectiva/Ejemplos (copyright) Consorcio de software de perspectiva</translation>
+        <translation>Este módulo de comandos procede de Perspectiva/Ejemplos (derechos de autor) Consorcio de software de perspectiva</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished">Parámetros de difusión anisotrópica</translation>
+        <translation>Parámetros de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished">Parámetros del algoritmo de difusión anisotrópica</translation>
+        <translation>Parámetros del algoritmo de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="10"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="14"/>
         <source>Conductance</source>
-        <translation type="unfinished">Conductancia</translation>
+        <translation>Conductancia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished">Iteraciones</translation>
+        <translation>Iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="12"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="17"/>
         <source>Time Step</source>
-        <translation type="unfinished">Paso del tiempo</translation>
+        <translation>Paso del tiempo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished">Conductancia controla la sensibilidad del término de conductancia. Por regla general, cuanto menor sea el valor, más intensamente preservará el filtro los bordes. Un valor alto causará difusión (suavizado) a través de los bordes. Tenga en cuenta que el número de iteraciones controla la cantidad de suavizado que se realiza dentro de las regiones delimitadas por los bordes.</translation>
+        <translation>Conductancia controla la sensibilidad del término de conductancia. Por regla general, cuanto menor sea el valor, más intensamente preservará el filtro los bordes. Un valor alto causará difusión (suavizado) a través de los bordes. Tenga en cuenta que el número de iteraciones controla la cantidad de suavizado que se realiza dentro de las regiones delimitadas por los bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished">Cuantas más iteraciones, más suavizado. Cada iteración lleva el mismo tiempo. Si se tardan 10 segundos en una iteración, se tardarán 100 segundos en 10 iteraciones. Tenga en cuenta que la conductancia controla cuánto suaviza cada iteración los bordes.</translation>
+        <translation>Cuantas más iteraciones, más suavizado. Cada iteración lleva el mismo tiempo. Si se tardan 10 segundos en una iteración, se tardarán 100 segundos en 10 iteraciones. Tenga en cuenta que la conductancia controla cuánto suaviza cada iteración los bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished">El paso de tiempo depende de la dimensionalidad de la imagen. En Slicer las imágenes son 3D y el paso de tiempo por defecto (.0625) proporcionará una solución estable.</translation>
+        <translation>El paso de tiempo depende de la dimensionalidad de la imagen. En Slicer las imágenes son 3D y el paso de tiempo por defecto (.0625) proporcionará una solución estable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
@@ -2754,22 +2754,22 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="22"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="23"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Salida filtrada</translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -3064,7 +3064,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
@@ -3343,7 +3343,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished">Transformada de salida</translation>
+        <translation>Transformación de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
@@ -3671,7 +3671,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
@@ -3762,12 +3762,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="25"/>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="26"/>
         <source>1D</source>
-        <translation type="unfinished">1D</translation>
+        <translation>1D</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="27"/>
         <source>2D</source>
-        <translation type="unfinished">2D</translation>
+        <translation>2D</translation>
     </message>
 </context>
 <context>
@@ -3785,12 +3785,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
@@ -3866,7 +3866,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
         <source>Translation</source>
-        <translation type="unfinished">Translation</translation>
+        <translation>Translación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
@@ -3889,12 +3889,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
@@ -3924,7 +3924,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
         <source>Input volume</source>
-        <translation type="unfinished">Input volume</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
@@ -3994,7 +3994,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
@@ -4074,12 +4074,12 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
@@ -4132,12 +4132,12 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
@@ -4180,12 +4180,12 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
@@ -4319,7 +4319,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
@@ -4364,7 +4364,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
@@ -4417,7 +4417,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
@@ -4561,7 +4561,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
@@ -4604,7 +4604,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
@@ -4717,7 +4717,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
@@ -4760,12 +4760,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
@@ -4818,12 +4818,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
@@ -4838,7 +4838,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
         <source>Models</source>
-        <translation type="unfinished">Models</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
@@ -5063,7 +5063,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5088,7 +5088,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
@@ -5141,12 +5141,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
@@ -5224,7 +5224,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
@@ -5398,12 +5398,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
+        <translation>Este trabajo es parte de la Alianza Nacional de Cómputo de Imágenes Médicas (NAMIC, por sus siglas en inglés), fundada por los Institutos Nacionales de Salud a través del Mapa de Investigación Médica, subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>IO</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
@@ -5454,22 +5454,22 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="42"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>LPS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="18"/>
         <source>Axial</source>
-        <translation type="unfinished">Axial/Transversal</translation>
+        <translation>Axial</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="19"/>
         <source>Coronal</source>
-        <translation type="unfinished">Frontal/Coronal</translation>
+        <translation>Coronal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="20"/>
         <source>Sagittal</source>
-        <translation type="unfinished">Sagittal</translation>
+        <translation>Sagital</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="21"/>
