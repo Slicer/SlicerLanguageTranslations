@@ -8491,7 +8491,7 @@ indicada pela posição do mouse.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="499"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation type="unfinished"></translation>
+        <translation>Vá para o módulo DataProbe para mais informações e opções</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
@@ -8680,42 +8680,42 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="96"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentação:</translation>
+        <translation>Segmentação:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="107"/>
         <source>Select the scalar volume for intensity statistics calculations</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o volume escalar para cálculos estatísticos de intensidade</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
         <source>Scalar volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume escalar:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="113"/>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="118"/>
         <source>Create new table</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar nova tabela</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="125"/>
         <source>Select the table where statistics will be saved into</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione a tabela na qual as estatísticas serão salvas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="128"/>
         <source>Output table:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="133"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançado</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="147"/>
@@ -8731,12 +8731,12 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="192"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao calcular os resultados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="198"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Trabalhando...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="223"/>
@@ -8772,7 +8772,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="317"/>
         <source>Finish editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concluir a edição.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="339"/>
@@ -8800,43 +8800,43 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="58"/>
         <source>Surface area in mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de superfície em mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="59"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de superfície</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="60"/>
         <source>square millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>milímetro quadrado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="63"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume em mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="64"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="69"/>
         <source>Volume</source>
-        <translation type="unfinished">Imagem</translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="65"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>milímetro cúbico</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume em cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="70"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>centímetro cúbico</translation>
     </message>
 </context>
 <context>
@@ -8845,83 +8845,83 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="402"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="403"/>
         <source>Number of voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de voxels</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="404"/>
         <source>voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>voxels</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="407"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume em mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="408"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
         <source>Volume</source>
-        <translation type="unfinished">Imagem</translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="409"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>milímetro cúbico</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="412"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume em cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>centímetro cúbico</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="416"/>
         <source>Sum of segmented voxel volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Soma dos volumes de voxels segmentados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="419"/>
         <source>Location of the centroid in RAS</source>
-        <translation type="unfinished"></translation>
+        <translation>Localização do centroide no RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
         <source>Feret diameter in mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro de Feret em mm</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="425"/>
         <source>Surface area in mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de superfície em mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="426"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de superfície</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="427"/>
         <source>square millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>milímetro quadrado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="432"/>
         <source>Segment roundness. Calculated from ratio of the area of the hypersphere by the actual area. Value of 1 represents a spherical structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Arredondamento do segmento. Calculado a partir da razão entre a área da hiperesfera e a área real. O valor de 1 representa a estrutura esférica</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="437"/>
         <source>Segment flatness. Calculated from square root of the ratio of the second smallest principal moment by the smallest. Value of 0 represents a flat structure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Achatamento do segmento. Calculado a partir da raiz quadrada da razão entre o segundo menor momento principal e o menor. O valor de 0 representa uma estrutura chata.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="443"/>
         <source>Segment elongation. Calculated from square root of the ratio of the second largest principal moment by the second smallest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alongamento do segmento. Calculado a partir da raiz quadrada da razão entre o segundo maior momento principal e o segundo menor.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="447"/>
