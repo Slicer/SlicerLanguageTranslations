@@ -14644,22 +14644,22 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="118"/>
         <source>Visibility in 3D view: </source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilité en vue 3D : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="239"/>
         <source>Visibility:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visiblilité :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="259"/>
         <source>Visibility in slice view:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilité en vue de coupes :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="266"/>
         <source>Visibility in 3D view:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilité en vue 3D :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="622"/>
@@ -15344,7 +15344,7 @@ p, li { white-space : pre-wrap ; }
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.cxx" line="56"/>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="45"/>
         <source>Developer Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils pour développeurs</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="32"/>
@@ -15636,37 +15636,37 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="86"/>
         <source>Quick Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage rapide</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="90"/>
         <source>Get Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir de l’aide</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="94"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface utilisateur</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="98"/>
         <source>Visit the Slicer Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitez le Forum Slicer</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="102"/>
         <source>Browse Tutorials</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcourir les tutoriels</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="127"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>Remerciements</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="131"/>
         <source>Report a Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Signaler un bogue</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="103"/>
@@ -15676,7 +15676,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="107"/>
         <source>Join Us on Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejoignez-nous sur Twitter</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="111"/>
@@ -23367,7 +23367,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="127"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="601"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="128"/>
@@ -23390,12 +23390,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
         <source>Delete highlighted control points</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les points de contrôle en surbrillance</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
         <source>Move current control point up</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer le point de contrôle actuel vers le haut</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="412"/>
