@@ -4662,12 +4662,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"/>
         <source>Masked Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>蒙版数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
         <source>Input volume to be masked</source>
-        <translation type="unfinished"></translation>
+        <translation>输入蒙版数据</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
@@ -4846,7 +4846,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
         <source>Create 3D surface models from segmented data.&lt;p&gt;Models are imported into Slicer under a model hierarchy node in a MRML scene. The model colors are set by the color table associated with the input volume (these colors will only be visible if you load the model scene file).&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Specify an &lt;i&gt;Input Volume&lt;/i&gt; that is a segmented label map volume. Create a new &lt;i&gt;Models&lt;/i&gt; hierarchy to provide a structure to contain the return models created from the input volume.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Create Multiple:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;If you specify a list of &lt;i&gt;Labels&lt;/i&gt;, it will over ride any start/end label settings.&lt;/p&gt;&lt;p&gt;If you click &lt;i&gt;Generate All&lt;/i&gt; it will over ride the list of labels and any start/end label settings.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Model Maker Parameters:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;You can set the number of smoothing iterations, target reduction in number of polygons (decimal percentage). Use 0 and 1 if you wish no smoothing nor decimation.&lt;br&gt;You can set the flags to split normals or generate point normals in this pane as well.&lt;br&gt;You can save a copy of the models after intermediate steps (marching cubes, smoothing, and decimation if not joint smoothing, otherwise just after decimation); these models are not saved in the mrml file, turn off deleting temporary files first in the python window:&lt;br&gt;&lt;i&gt;slicer.modules.modelmaker.cliModuleLogic().DeleteTemporaryFilesOff()&lt;/i&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">根据分割数据创建 3D 曲面模型。&lt;p&gt;模型将导入到 MRML 场景中模型层次结构节点下的切片器中。模型颜色由与输入体积关联的颜色表设置（这些颜色仅在加载模型场景文件时可见）。&lt;/p&gt;&lt;p&gt;&lt;b&gt;IO：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;指定作为分段标签映射卷的&lt;i&gt;输入卷&lt;/i&gt;。创建新的模型层次结构以提供一个结构来包含从输入卷创建的返回&lt;i&gt;模型&lt;/i&gt;。&lt;/p&gt;&lt;p&gt;&lt;b&gt;创建多个：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;如果指定标签列表，它将覆盖任何开始/结束&lt;i&gt;标签&lt;/i&gt;设置。&lt;/p&gt;&lt;p&gt;如果单击&lt;i&gt;“全部生成”&lt;/i&gt;，它将覆盖标签列表和任何开始/结束标签设置。&lt;/p&gt;&lt;p&gt;&lt;b&gt;模型制作器参数：&lt;/b&gt;&lt;/p&gt;&lt;p&gt;可以设置平滑迭代次数，目标减少多边形数量（十进制百分比）。如果不希望平滑或抽取，请使用 0 和 1。&lt;br&gt;您也可以在此窗格中将标志设置为分割法线或生成点法线。&lt;br&gt;您可以在中间步骤之后保存模型的副本（行进立方体、平滑和抽取，如果不是联合平滑，否则就在抽取之后）;这些模型不会保存在 mrml 文件中，请先在 python 窗口中关闭删除临时文件&lt;br&gt;&lt;i&gt;：slicer.modules.modelmaker.cliModuleLogic（）。DeleteTemporaryFilesOff（）&lt;/i&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="6"/>
