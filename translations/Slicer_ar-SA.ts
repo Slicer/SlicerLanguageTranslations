@@ -2713,64 +2713,64 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">تم اشتقاق وحدة الأوامر هذه من Insight / أمثلة (حقوق الطبع والنشر) اتحاد Insight للبرمجيات</translation>
+        <translation>تم اشتقاق وحدة الأوامر هذه من Insight / أمثلة (حقوق الطبع والنشر) اتحاد Insight للبرمجيات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished">معلمات الانتشار متباين الخواص</translation>
+        <translation>معلمات الانتشار متباين الخواص</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished">معلمات خوارزمية الانتشار متباين الخواص</translation>
+        <translation>معلمات خوارزمية الانتشار متباين الخواص</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="10"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="14"/>
         <source>Conductance</source>
-        <translation type="unfinished">ناقلية</translation>
+        <translation>ناقلية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished">التكرارات</translation>
+        <translation>التكرارات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="12"/>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="17"/>
         <source>Time Step</source>
-        <translation type="unfinished">خطوة زمنية</translation>
+        <translation>خطوة زمنية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished">تتحكم الناقلية في حساسية مصطلح التوصيل. كقاعدة عامة ، كلما انخفضت القيمة ، زادت قوة المرشح في الحفاظ على الحواف. ستؤدي القيمة العالية إلى الانتشار (التنعيم) عبر الحواف. لاحظ أن عدد التكرارات يتحكم في مقدار التنعيم الذي يتم داخل المناطق المحاطة بحواف.</translation>
+        <translation>تتحكم الناقلية في حساسية مصطلح التوصيل. كقاعدة عامة ، كلما انخفضت القيمة ، زادت قوة المرشح في الحفاظ على الحواف. ستؤدي القيمة العالية إلى الانتشار (التنعيم) عبر الحواف. لاحظ أن عدد التكرارات يتحكم في مقدار التنعيم الذي يتم داخل المناطق المحاطة بحواف.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="15"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished">لمزيد من التكرارات ، وأكثر سلاسة. يستغرق كل تكرار نفس القدر من الوقت. إذا استغرق الأمر 10 ثوان لتكرار واحد ، فسيستغرق الأمر 100 ثانية لتكرار 10. لاحظ أن الناقلية تتحكم في مقدار تنعيم كل تكرار عبر الحواف.</translation>
+        <translation>لمزيد من التكرارات ، وأكثر سلاسة. يستغرق كل تكرار نفس القدر من الوقت. إذا استغرق الأمر 10 ثوان لتكرار واحد ، فسيستغرق الأمر 100 ثانية لتكرار 10. لاحظ أن الناقلية تتحكم في مقدار تنعيم كل تكرار عبر الحواف.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="16"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished">تعتمد الخطوة الزمنية على أبعاد الصورة. في Slicer ، تكون الصور ثلاثية الأبعاد وستوفر الخطوة الزمنية الافتراضية (.0625) حلاً مستقرًا.</translation>
+        <translation>تعتمد الخطوة الزمنية على أبعاد الصورة. في Slicer ، تكون الصور ثلاثية الأبعاد وستوفر الخطوة الزمنية الافتراضية (.0625) حلاً مستقرًا.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="18"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="19"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال / الإخراج</translation>
+        <translation>معلمات الإدخال / الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input Volume</source>
-        <translation type="unfinished">حجم الإدخال</translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="21"/>
@@ -8768,43 +8768,43 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="58"/>
         <source>Surface area in mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة السطح في مم 2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="59"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة السطح</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="60"/>
         <source>square millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>ملليمتر مربع</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="63"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم في مم 3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="64"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="69"/>
         <source>Volume</source>
-        <translation type="unfinished">حجم</translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="65"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>ملليمتر مكعب</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم في سم 3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="70"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>سنتيمتر مكعب</translation>
     </message>
 </context>
 <context>
@@ -8813,48 +8813,48 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="402"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="403"/>
         <source>Number of voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الفوكسل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="404"/>
         <source>voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>فوكسل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="407"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم في مم 3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="408"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
         <source>Volume</source>
-        <translation type="unfinished">حجم</translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="409"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>ملليمتر مكعب</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="412"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم في سم 3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>سنتيمتر مكعب</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="416"/>
         <source>Sum of segmented voxel volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموع أحجام الفوكسل المجزأة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="419"/>
         <source>Location of the centroid in RAS</source>
-        <translation type="unfinished"></translation>
+        <translation>موقع النقطه الوسطى في RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
@@ -8864,82 +8864,82 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="425"/>
         <source>Surface area in mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة السطح في مم 2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="426"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>مساحة السطح</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="427"/>
         <source>square millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>ملليمتر مربع</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="432"/>
         <source>Segment roundness. Calculated from ratio of the area of the hypersphere by the actual area. Value of 1 represents a spherical structure</source>
-        <translation type="unfinished"></translation>
+        <translation>استدارة القطاع. محسوبة من نسبة مساحة الغلاف الفائق بالمساحة الفعلية. تمثل قيمة 1 بنية كروية</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="437"/>
         <source>Segment flatness. Calculated from square root of the ratio of the second smallest principal moment by the smallest. Value of 0 represents a flat structure.</source>
-        <translation type="unfinished"></translation>
+        <translation>جزء التسطيح. محسوبة من الجذر التربيعي لنسبة ثاني أصغر عزم رئيسي بأصغرها. تمثل القيمة 0 بنية مسطحة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="443"/>
         <source>Segment elongation. Calculated from square root of the ratio of the second largest principal moment by the second smallest.</source>
-        <translation type="unfinished"></translation>
+        <translation>استطالة القطاع. محسوبة من الجذر التربيعي لنسبة ثاني أكبر عزم رئيسي في ثاني أصغر لحظة.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="447"/>
         <source>Oriented bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>المربع المحيط الموجه</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="450"/>
         <source>Oriented bounding box origin in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>أصل المربع المحيط الموجه في إحداثيات RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="454"/>
         <source>Oriented bounding box diameter in mm</source>
-        <translation type="unfinished"></translation>
+        <translation>قطر الصندوق المحيط الموجه بالملليمتر</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="458"/>
         <source>Oriented bounding box X direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه المربع المحيط الموجه X في إحداثيات RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="462"/>
         <source>Oriented bounding box Y direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه المربع المحيط Y في إحداثيات RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="466"/>
         <source>Oriented bounding box Z direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>اتجاه المربع المحيط الموجه Z في إحداثيات RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="470"/>
         <source>Principal moments of inertia for x, y and z axes</source>
-        <translation type="unfinished"></translation>
+        <translation>اللحظات الرئيسية للقصور الذاتي للمحاور x و y و z</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="474"/>
         <source>Principal X axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>محور الدوران X الرئيسي في إحداثيات RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="478"/>
         <source>Principal Y axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>المحور Y الرئيسي للدوران في إحداثيات RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="482"/>
         <source>Principal Z axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>محور الدوران Z الرئيسي في إحداثيات RAS</translation>
     </message>
 </context>
 <context>
@@ -8948,68 +8948,68 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="147"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="148"/>
         <source>Number of voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الفوكسل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="149"/>
         <source>voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>فوكسل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="152"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم في مم 3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="153"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="158"/>
         <source>Volume</source>
-        <translation type="unfinished">حجم</translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="154"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>ملليمتر مكعب</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="157"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم في سم 3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="159"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>سنتيمتر مكعب</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="161"/>
         <source>Sum of segmented voxel volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموع أحجام الفوكسل المجزأة</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="164"/>
         <source>Minimum scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى للقيمة العددية</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="168"/>
         <source>Minimum</source>
-        <translation type="unfinished">Minimum</translation>
+        <translation>الحد الأدنى</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="171"/>
         <source>Maximum scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى للقيمة العددية</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="175"/>
         <source>Maximum</source>
-        <translation type="unfinished">Maximum</translation>
+        <translation>الحد الاقصي</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="178"/>
         <source>Mean scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط القيمة العددية</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="182"/>
@@ -9019,22 +9019,22 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="185"/>
         <source>Median scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط القيمة العددية</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="189"/>
         <source>Median</source>
-        <translation type="unfinished"></translation>
+        <translation>متوسط</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="192"/>
         <source>Standard deviation of scalar values</source>
-        <translation type="unfinished"></translation>
+        <translation>الانحراف المعياري للقيم القياسية</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="196"/>
         <source>Standard Deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>الانحراف المعياري</translation>
     </message>
 </context>
 <context>
@@ -9043,27 +9043,27 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="122"/>
         <source>{pluginName} plugin enabled</source>
         <extracomment>measurements that will be calculated by default</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تم تمكين المكون الإضافي {pluginName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="132"/>
         <source>Select measurements: </source>
-        <translation type="unfinished"></translation>
+        <translation>حدد القياسات: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="133"/>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>كل</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="136"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="139"/>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>افتراضي</translation>
     </message>
 </context>
 <context>
@@ -9071,7 +9071,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SubjectHierarchyPlugins/SegmentStatisticsSubjectHierarchyPlugin.py" line="27"/>
         <source>Calculate statistics...</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب الإحصائيات...</translation>
     </message>
 </context>
 <context>
@@ -12523,30 +12523,32 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="235"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
         <source>Update %1 representation using custom conversion parameters.
 
 Click the down-arrow button for additional operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث تمثيل %1 باستخدام معلمات التحويل المخصصة.
+
+انقر فوق زر السهم لأسفل لعمليات إضافية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="248"/>
         <source>Remove %1 representation from segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة تمثيل %1 من التجزئة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
         <source>Make source</source>
         <oldsource>Make master</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>جعل المصدر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
@@ -12558,22 +12560,24 @@ Click the down-arrow button for additional operations.</source>
         <source>Create %1 representation using default conversion parameters.
 
 Press and hold button to access advanced conversion and removal options.</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء تمثيل %1 باستخدام معلمات التحويل الافتراضية.
+
+اضغط مع الاستمرار على الزر للوصول إلى خيارات التحويل والإزالة المتقدمة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
         <source>Advanced create...</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء متقدم...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="281"/>
         <source>Create %1 representation using custom conversion parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء تمثيل %1 باستخدام معلمات التحويل المخصصة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="414"/>
         <source>Confirm source representation change</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد تغيير تمثيل المصدر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
@@ -12583,7 +12587,12 @@ This may mean losing important data that cannot be created again from the new so
 (Reminder: Source representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing source representation?</source>
-        <translation type="unfinished"></translation>
+        <translation>سيؤدي تغيير تمثيل المصدر إلى جعل تمثيل &quot;المعيار الذهبي&quot; هو التمثيل المحدد ، وسيؤدي إلى حذف جميع التمثيلات الأخرى.
+قد يعني هذا فقدان البيانات المهمة التي لا يمكن إنشاؤها مرة أخرى من تمثيل المصدر الجديد.
+
+(تذكير: تمثيل المصدر هو نوع البيانات الذي يتم حفظه على القرص ، والذي يستخدم كإدخال عند إنشاء تمثيلات أخرى)
+
+هل ترغب في المضي قدما في تغيير تمثيل المصدر؟</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="317"/>
@@ -12593,7 +12602,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="337"/>
         <source>Advanced segmentation conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل تجزئة متقدم</translation>
     </message>
     <message>
         <source>Confirm master representation change</source>
@@ -12658,7 +12667,7 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="129"/>
         <source>Layer</source>
-        <translation type="unfinished"></translation>
+        <translation>طبقة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="138"/>
@@ -12688,32 +12697,32 @@ Do you wish to proceed with changing master representation?</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="471"/>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يبدأ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="476"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>قيد التنفيذ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="480"/>
         <source>Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتمل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="484"/>
         <source>Flagged</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع علامة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1055"/>
         <source>No terminology information</source>
-        <translation type="unfinished"></translation>
+        <translation>لا توجد معلومات المصطلحات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentsModel.cxx" line="1060"/>
         <source>Invalid terminology information</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات المصطلحات غير الصالحة</translation>
     </message>
 </context>
 <context>
@@ -19084,12 +19093,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="93"/>
         <source>Color legend for the Color Table selected in Scalars section.</source>
-        <translation type="unfinished">Color legend for the Color Table selected in Scalars section.</translation>
+        <translation>وسيلة إيضاح اللون لجدول الألوان المحدد في قسم الأعداد القياسية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="96"/>
         <source>Color Legend</source>
-        <translation type="unfinished">Color Legend</translation>
+        <translation>وسيلة إيضاح اللون</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
