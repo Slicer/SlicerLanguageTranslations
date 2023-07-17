@@ -3054,12 +3054,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recorrido por el modelo de ejecución</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="5"/>
         <source>Shows one of each type of parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Muestra uno de cada tipo de parámetro.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
@@ -3069,82 +3069,82 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
         <source>Scalar Parameters (árvíztűrő tükörfúrógép)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros escalares(árvíztűrő tükörfúrógép)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"/>
         <source>Variations on scalar parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Variaciones de los parámetros escalares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetro entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetro doble</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
         <source>An integer without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un número entero sin restricciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"/>
         <source>A double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un doble con limitaciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros vectoriales</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Variaciones de los parámetros vectoriales</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetro de vector flotante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cadena Vector Parámetro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un vector de flotantes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un vector de cadenas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de enumeración</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Variaciones de los parámetros de enumeración</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enumeración de cadenas Parámetro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una enumeración de cadenas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"/>
@@ -3152,178 +3152,178 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"/>
         <source>Bill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Factura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="124"/>
         <source>Ron</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ron</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="125"/>
         <source>Eric</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eric</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="127"/>
         <source>Ross</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ross</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="28"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="128"/>
         <source>Steve</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Steve</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="29"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="129"/>
         <source>Will</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Will</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="30"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="130"/>
         <source>árvíztűrő tükörfúrógép</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">árvíztűrő tükörfúrógép</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
         <source>Boolean Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros booleanos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"/>
         <source>Variations on boolean parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Variaciones de los parámetros booleanos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
         <source>Boolean Default true</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Booleano Por defecto verdadero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
         <source>Boolean Default false</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Booleano Por defecto falso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
         <source>Boolean No Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Booleano No Predeterminado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
         <source>A boolean default true</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un booleano por defecto verdadero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"/>
         <source>A boolean default false</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un booleano por defecto falso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"/>
         <source>A boolean with no default, should be defaulting to false</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un booleano sin valor por defecto, debe ser por defecto falso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
         <source>File, Directory and Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de archivo, directorio e imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
         <source>Parameters that describe files and directories.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros que describen archivos y directorios.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"/>
         <source>Input file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fichero de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"/>
         <source>Input Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivos de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"/>
         <source>Output file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fichero de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"/>
         <source>Input directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Directorio de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
         <source>Input 4D Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrada Imagen 4D</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
         <source>An input file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un archivo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"/>
         <source>Multiple input files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Múltiples archivos de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"/>
         <source>An output file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un archivo de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"/>
         <source>An input directory. If no default is specified, the current directory is used,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un directorio de entrada. Si no se especifica ningún valor por defecto, se utiliza el directorio actual,</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
         <source>An input image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
         <source>Input 4D Image (txyz)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrada Imagen 4D (txyz)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
         <source>An output image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
         <source>Parameters that describe transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros que describen las transformaciones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"/>
         <source>Input transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Transformación de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
@@ -3363,7 +3363,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
         <source>A generic input transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una transformación de entrada genérica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
@@ -3383,7 +3383,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una transformación de salida genérica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
@@ -3403,27 +3403,27 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="73"/>
         <source>Point Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de los puntos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="74"/>
         <source>Parameters that describe point sets.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros que describen conjuntos de puntos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="75"/>
         <source>Seeds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="76"/>
         <source>Seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivo de semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="77"/>
         <source>Output seeds file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivo de semillas de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="78"/>
@@ -3433,32 +3433,32 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="79"/>
         <source>Test file of input fiducials, compared to seeds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivo de prueba de fiduciales de entrada, comparado con semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="80"/>
         <source>Output file to read back in, compare to seeds with flipped settings on first fiducial</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivo de salida para volver a leer, comparar con semillas con ajustes invertidos en la primera referencia.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="81"/>
         <source>Geometry Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros geométricos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="82"/>
         <source>Parameters that describe models.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros que describen los modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="83"/>
         <source>Input Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="84"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="85"/>
@@ -3468,62 +3468,62 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="86"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="87"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="88"/>
         <source>Generated models, under a model hierarchy node. Models are imported into Slicer under a model hierarchy node. The model hierarchy node must be created before running the model maker, by selecting Create New ModelHierarchy from the Models drop down menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelos generados, bajo un nodo de jerarquía de modelos. Los modelos se importan en Slicer bajo un nodo de jerarquía de modelos. El nodo de jerarquía de modelos debe crearse antes de ejecutar el model maker, seleccionando Crear nueva jerarquía de modelos en el menú desplegable Modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="89"/>
         <source>Index Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del índice</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="90"/>
         <source>Variations on parameters that use index rather than flags.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Variaciones de los parámetros que utilizan índices en lugar de banderas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="91"/>
         <source>First index argument</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Primer argumento de índice</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="92"/>
         <source>Second index argument</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segundo argumento de índice</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="93"/>
         <source>First index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El primer argumento del índice es una imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="94"/>
         <source>Second index argument is an image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El segundo argumento del índice es una imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="95"/>
         <source>Regions of interest</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Regiones de interés</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="96"/>
         <source>Input region list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista de regiones de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="97"/>
         <source>List of regions to process</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista de regiones a procesar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="98"/>
@@ -3543,112 +3543,112 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="101"/>
         <source>Array of FA values to process</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista de regiones a procesar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="102"/>
         <source>Array of processed (output) FA values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Matriz de valores FA procesados (de salida)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="103"/>
         <source>Generic Tables</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tablas genéricas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="104"/>
         <source>Input Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabla de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="105"/>
         <source>Output Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabla de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="106"/>
         <source>Array of Table values to process</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Matriz de valores de tabla para procesar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="107"/>
         <source>Array of processed (output) Table values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Matriz de valores de tabla procesados (salida)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="108"/>
         <source>Simple return types</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipos de retorno simples</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="109"/>
         <source>An integer return value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un valor de retorno entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="110"/>
         <source>A boolean return value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un valor de retorno booleano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
         <source>A floating point return value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un valor de retorno en coma flotante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
         <source>A double point return value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un valor de retorno de doble punto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="113"/>
         <source>A string point return value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un valor de retorno de punto de cadena</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="114"/>
         <source>An integer vector return value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un valor de retorno de vector entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="115"/>
         <source>A string enumeration return value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor de retorno de una enumeración de cadenas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="116"/>
         <source>An example of an integer return type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ejemplo de tipo de retorno entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"/>
         <source>An example of a boolean return type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ejemplo de tipo de retorno booleano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ejemplo de un tipo de retorno float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
         <source>An example of a double return type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ejemplo de un tipo de retorno doble</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"/>
         <source>An example of a string return type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ejemplo de tipo de retorno cadena</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"/>
         <source>An example of an integer vector return type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ejemplo de tipo de retorno de vector entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="122"/>
         <source>An enumeration of strings as a return type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una enumeración de cadenas como tipo de retorno</translation>
     </message>
 </context>
 <context>
@@ -3656,7 +3656,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="4"/>
         <source>Extract Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extraer esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="5"/>
@@ -3666,7 +3666,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La aplicación original de este método fue proporcionada por ETH Zurich, Laboratorio de Análisis de Imágenes de los profesores Olaf Kuebler, Gabor Szekely y Guido Gerig.  Martin Styner, de la UNC, Chapel Hill, introdujo mejoras.  El envoltorio para Slicer fue proporcionado por Pierre Seroul y Stephen Aylward de Kitware, Inc.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
@@ -3676,7 +3676,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
