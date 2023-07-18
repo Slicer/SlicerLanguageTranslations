@@ -17020,7 +17020,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="103"/>
         <source>Yellow</source>
-        <translation type="unfinished">Yellow</translation>
+        <translation>أصفر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="110"/>
@@ -17033,17 +17033,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="14"/>
         <source>DWI Display Properties</source>
-        <translation type="unfinished">DWI Display Properties</translation>
+        <translation>خصائص عرض DWI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="32"/>
         <source>Scalar Display</source>
-        <translation type="unfinished">Scalar Display</translation>
+        <translation>عرض عددي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
         <source>DWI Component:</source>
-        <translation type="unfinished">DWI Component:</translation>
+        <translation>مكون DWI:</translation>
     </message>
 </context>
 <context>
@@ -17051,12 +17051,12 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="20"/>
         <source>Report bugs and request enhancements</source>
-        <translation type="unfinished">Report bugs and request enhancements</translation>
+        <translation>الإبلاغ عن الأخطاء وطلب التحسينات</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="29"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Questions and feature requests:&lt;/span&gt; visit the &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Slicer forum&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Bug reports: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;post a new topic to the Slicer forum&lt;/span&gt;&lt;/a&gt; to tell us about your problem or submit a bug report to the &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D Slicer bugtracker&lt;/span&gt;&lt;/a&gt;. Describe the steps that lead to the error and also attach log messages.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning - if you work with patient data:&lt;/span&gt; Check that the log messages do not contain any information that may identify a patient. Send the log messages to specific people instead of sharing them publicly on a mailing list or website.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; الأسئلة وطلبات الميزات:&lt;/span&gt; تفضل بزيارة منتدى &lt;a href=&quot;https://discourse.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;مقسم طريقة العرض&lt;/span&gt;&lt;/a&gt;. &lt;/p&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; تقارير الأخطاء: &lt;/span&gt;&lt;a href=&quot;https://discourse.slicer.org/new-topic?body=Problem%20report%20for%20[appname-version-platform]:%20[please%20describe%20expected%20and%20actual%20behavior]&amp;amp;category=support&quot;&gt;%20for٪20[appname-version-platform]:%20[please٪20describe%20expected٪20and%20actual٪20behavior]&amp;amp;category=support&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;نشر موضوع جديد في منتدى مقسم طريقة العرض&lt;/span&gt;&lt;/a&gt; لإخبارنا بمشكلتك أو إرسال تقرير خطأ إلى &lt;a href=&quot;https://issues.slicer.org&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;3D مقسم طريقة عرض الأخطاء &lt;/span&gt;&lt;/a&gt;. صف الخطوات التي تؤدي إلى الخطأ وأرفق أيضا رسائل السجل. &lt;/p&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600;&quot;&gt; تحذير - إذا كنت تعمل مع بيانات المريض: &lt;/span&gt; تحقق من أن رسائل السجل لا تحتوي على أي معلومات قد تحدد هوية المريض. أرسل رسائل السجل إلى أشخاص محددين بدلا من مشاركتها بشكل عام في قائمة بريدية أو موقع ويب. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
@@ -17083,7 +17083,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="103"/>
         <source>Edit Log</source>
-        <translation type="unfinished">Edit Log</translation>
+        <translation>تحرير السجل</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="122"/>
@@ -17106,7 +17106,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/EventBroker/qSlicerEventBrokerModule.h" line="47"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>وسيط الحدث</translation>
     </message>
 </context>
 <context>
@@ -17114,22 +17114,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="20"/>
         <source>Event Broker</source>
-        <translation type="unfinished">Event Broker</translation>
+        <translation>وسيط الحدث</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="26"/>
         <source>Refresh</source>
-        <translation type="unfinished">Refresh</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="43"/>
         <source>Reset Times</source>
-        <translation type="unfinished">Reset Times</translation>
+        <translation>إعادة تعيين الأوقات</translation>
     </message>
     <message>
         <location filename="Modules/Core/Resources/UI/qSlicerEventBrokerModuleWidget.ui" line="50"/>
         <source>Show observations with Elapsed Times &gt; 0</source>
-        <translation type="unfinished">Show observations with Elapsed Times &gt; 0</translation>
+        <translation>إظهار الملاحظات مع الأوقات المنقضية &gt; 0</translation>
     </message>
 </context>
 <context>
@@ -17142,7 +17142,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="48"/>
         <source>Filename:</source>
-        <translation type="unfinished">Filename:</translation>
+        <translation>اسم الملف:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
@@ -17202,7 +17202,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
         <source>Apply transforms</source>
-        <translation type="unfinished">Apply transforms</translation>
+        <translation>تطبيق التحويلات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
@@ -17254,7 +17254,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
         <source>Filename not standard</source>
-        <translation type="unfinished">Filename not standard</translation>
+        <translation>اسم الملف غير قياسي</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
@@ -17281,7 +17281,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
         <source>Failed to export node %1; filename is empty.</source>
-        <translation type="unfinished">Failed to export node %1; filename is empty.</translation>
+        <translation>فشل تصدير العقدة %1 ؛ اسم الملف فارغ.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
@@ -17291,7 +17291,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation type="unfinished">The file %1 already exists. Do you want to replace it?</translation>
+        <translation>الملف %1 موجود بالفعل. هل تريد استبداله؟</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
@@ -17359,7 +17359,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
         <source>Tell the application to update this extension on restart.</source>
-        <translation type="unfinished">Tell the application to update this extension on restart.</translation>
+        <translation>أخبر التطبيق بتحديث هذا الامتداد عند إعادة التشغيل.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
@@ -17369,37 +17369,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
         <source>Tell the application to keep the currently installed version of this extension.</source>
-        <translation type="unfinished">Tell the application to keep the currently installed version of this extension.</translation>
+        <translation>أخبر التطبيق بالاحتفاظ بالإصدار المثبت حاليًا من هذا الامتداد.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="172"/>
         <source>Cancel Update</source>
-        <translation type="unfinished">Cancel Update</translation>
+        <translation>إلغاء التحديث</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="186"/>
         <source>Tell the application to load this extension by adding all associated module paths to the application settings.</source>
-        <translation type="unfinished">Tell the application to load this extension by adding all associated module paths to the application settings.</translation>
+        <translation>أخبر التطبيق بتحميل هذا الامتداد عن طريق إضافة جميع مسارات الوحدة المرتبطة إلى إعدادات التطبيق.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="189"/>
         <source>Enable</source>
-        <translation type="unfinished">Enable</translation>
+        <translation>تمكين</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="196"/>
         <source>Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</source>
-        <translation type="unfinished">Tell the application to skip loading of this extension by removing all associated module paths from the application settings.</translation>
+        <translation>أخبر التطبيق بتخطي تحميل هذا الامتداد عن طريق إزالة جميع مسارات الوحدة المرتبطة من إعدادات التطبيق.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="199"/>
         <source>Disable</source>
-        <translation type="unfinished">Disable</translation>
+        <translation>تعطيل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="92"/>
         <source>Tell the application to uninstall this extension when it will restart.</source>
-        <translation type="unfinished">Tell the application to uninstall this extension when it will restart.</translation>
+        <translation>أخبر التطبيق بإلغاء تثبيت هذا الامتداد عند إعادة تشغيله.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
@@ -19103,22 +19103,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="113"/>
         <source>Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</source>
-        <translation type="unfinished">Save current display property settings to defaults, will be saved for when Slicer restarts (see Application Settings)</translation>
+        <translation>حفظ إعدادات خاصية العرض الحالية إلى الإعدادات الافتراضية ، سيتم حفظها عند إعادة تشغيل أداة تقطيع الشرائح (انظر إعدادات التطبيق)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="116"/>
         <source>Save to Defaults</source>
-        <translation type="unfinished">Save to Defaults</translation>
+        <translation>حفظ في الإعدادات الافتراضية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="123"/>
         <source>Use default display properties.</source>
-        <translation type="unfinished">Use default display properties.</translation>
+        <translation>استخدم خصائص العرض الافتراضية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="126"/>
         <source>Reset to Defaults</source>
-        <translation type="unfinished">Reset to Defaults</translation>
+        <translation>إعادة التعيين إلى الإعدادات الافتراضية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="138"/>
@@ -19128,47 +19128,47 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
         <source>Interaction: </source>
-        <translation type="unfinished">Interaction: </translation>
+        <translation>تفاعل: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
         <source>Enable/disable all interactions in slice and 3D views.</source>
-        <translation type="unfinished">Enable/disable all interactions in slice and 3D views.</translation>
+        <translation>تمكين / تعطيل كافة التفاعلات في العروض التقديمية والشرائح ثلاثية الأبعاد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="206"/>
         <source>Lock the number of points allowed in the active markup.</source>
-        <translation type="unfinished">Lock the number of points allowed in the active markup.</translation>
+        <translation>قفل عدد النقاط المسموح بها في الترميز النشط.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
         <source>Jump Slices:</source>
-        <translation type="unfinished">Jump Slices:</translation>
+        <translation>شرائح القفز:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation type="unfinished">Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</translation>
+        <translation>الإزاحة: ضبط موضع مستوى الشريحة. توسيط: تعيين موضع مستوى الشريحة وتوسيط عرض الشريحة على نقطة التحكم.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
         <source>none</source>
-        <translation type="unfinished">none</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="244"/>
         <source>offset</source>
-        <translation type="unfinished">offset</translation>
+        <translation>الإزاحة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="249"/>
         <source>centered</source>
-        <translation type="unfinished">centered</translation>
+        <translation>تتمحور</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation type="unfinished">Show Slice Intersections:</translation>
+        <translation>إظهار تقاطعات الشرائح:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
@@ -19178,93 +19178,93 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="294"/>
         <source>Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</source>
-        <translation type="unfinished">Toggle visibility flag on all control points in the list. Use the drop down menu to set all to visible or invisible.</translation>
+        <translation>تبديل علامة الرؤية على جميع نقاط التحكم في القائمة. استخدم القائمة المنسدلة لتعيين الكل إلى مرئي أو غير مرئي.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="319"/>
         <source>Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</source>
-        <translation type="unfinished">Toggle selected flag on all control points in the list. Use the drop down menu to set all to selected or deselected.</translation>
+        <translation>تبديل العلامة المحددة على جميع نقاط التحكم في القائمة. استخدم القائمة المنسدلة لتعيين الكل إلى محدد أو غير محدد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="344"/>
         <source>Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</source>
-        <translation type="unfinished">Toggle lock flag on all control points in the list. Use the drop down menu to set all to locked or unlocked.</translation>
+        <translation>قم بتبديل علامة القفل على جميع نقاط التحكم في القائمة. استخدم القائمة المنسدلة لتعيين الكل على مقفل أو غير مقفل.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="372"/>
         <source>Skip placement of highlighted control point(s) from the active list (will clear current position).</source>
-        <translation type="unfinished">Skip placement of highlighted control point(s) from the active list (will clear current position).</translation>
+        <translation>تخطي وضع نقطة (نقاط) التحكم المميزة من القائمة النشطة (سيتم مسح الموضع الحالي).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="407"/>
         <source>Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</source>
-        <translation type="unfinished">Clear the position of highlighted control point(s) from the active list (the control points will not be deleted).</translation>
+        <translation>امسح موضع نقطة (نقاط) التحكم المميزة من القائمة النشطة (لن يتم حذف نقاط التحكم).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="442"/>
         <source>Delete the highlighted control point(s) from the active list</source>
-        <translation type="unfinished">Delete the highlighted control point(s) from the active list</translation>
+        <translation>احذف نقطة (نقاط) التحكم المميزة من القائمة النشطة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="477"/>
         <source>Remove all control points from the active list</source>
-        <translation type="unfinished">Remove all control points from the active list</translation>
+        <translation>إزالة جميع نقاط التحكم من القائمة النشطة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="491"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>قص</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="501"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="511"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>لصق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="520"/>
         <source>Coordinates:  </source>
-        <translation type="unfinished">Coordinates:  </translation>
+        <translation>إحداثيات:  </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="533"/>
         <source>Set visibility and coordinate system of control point positions.</source>
-        <translation type="unfinished">Set visibility and coordinate system of control point positions.</translation>
+        <translation>تعيين الرؤية وتنسيق نظام مواقع نقطة التحكم.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="537"/>
         <source>World</source>
-        <translation type="unfinished">World</translation>
+        <translation>عالم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="542"/>
         <source>Local</source>
-        <translation type="unfinished">Local</translation>
+        <translation>محلي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="547"/>
         <source>Hide</source>
-        <translation type="unfinished">Hide</translation>
+        <translation>إخفاء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="567"/>
         <source>The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</source>
-        <translation type="unfinished">The control points in the currently active markups node. Right click in a row for delete, jump, copy, move.</translation>
+        <translation>نقاط التحكم في عقدة العلامات النشطة حاليا. انقر بزر الماوس الأيمن على التوالي للحذف والقفز والنسخ والتحرك.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="570"/>
         <source>active markup control point table</source>
-        <translation type="unfinished">active markup control point table</translation>
+        <translation>جدول نقطة التحكم في الترميز النشط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="583"/>
         <source>Display, naming, volume interactions, moving up/down, adding</source>
         <oldsource>Display, naming, volume interactions, moving up/down, adding, Annotations import</oldsource>
-        <translation type="unfinished">Display, naming, volume interactions, moving up/down, adding, Annotations import</translation>
+        <translation>العرض ، التسمية ، تفاعلات الحجم ، التحرك لأعلى / لأسفل ، الإضافة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="586"/>
@@ -19275,58 +19275,58 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="615"/>
         <source>Move a highlighted control point up one spot in the list</source>
-        <translation type="unfinished">Move a highlighted control point up one spot in the list</translation>
+        <translation>انقل نقطة تحكم مميزة لأعلى في مكان واحد في القائمة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="647"/>
         <source>Move a highlighted control point down one spot in the list</source>
-        <translation type="unfinished">Move a highlighted control point down one spot in the list</translation>
+        <translation>انقل نقطة تحكم مميزة لأسفل نقطة واحدة في القائمة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="679"/>
         <source>Add a new control point to the active list, at origin</source>
-        <translation type="unfinished">Add a new control point to the active list, at origin</translation>
+        <translation>أضف نقطة تحكم جديدة إلى القائمة النشطة ، في الأصل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="692"/>
         <source>Naming</source>
-        <translation type="unfinished">Naming</translation>
+        <translation>تسمية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="698"/>
         <source>Include %N for list name, %d for number.</source>
-        <translation type="unfinished">Include %N for list name, %d for number.</translation>
+        <translation>قم بتضمين ٪N لاسم القائمة و٪d للرقم.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="701"/>
         <source>Name Format</source>
-        <translation type="unfinished">Name Format</translation>
+        <translation>تنسيق الاسم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="708"/>
         <source>Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</source>
-        <translation type="unfinished">Format for creating names of new control points, using sprintf format style. %N is replaced by the list name, %S is replaced by the markup&apos;s short name and %d by an integer.</translation>
+        <translation>تنسيق لإنشاء أسماء نقاط التحكم الجديدة ، باستخدام نمط تنسيق sprintf. يتم استبدال ٪N باسم القائمة، ويتم استبدال ٪S بالاسم المختصر للترميز و٪d بعدد صحيح.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="715"/>
         <source>Reset the name format field to the default value.</source>
-        <translation type="unfinished">Reset the name format field to the default value.</translation>
+        <translation>أعد تعيين حقل تنسيق الاسم إلى القيمة الافتراضية.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="718"/>
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation>اعاده تعيين</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="725"/>
         <source>Rename all control points in this list according to the current name format, trying to preserve numbers.</source>
-        <translation type="unfinished">Rename all control points in this list according to the current name format, trying to preserve numbers.</translation>
+        <translation>أعد تسمية جميع نقاط التحكم في هذه القائمة وفقا لتنسيق الاسم الحالي ، في محاولة للحفاظ على الأرقام.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="728"/>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="879"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>تطبيق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="747"/>
@@ -19336,12 +19336,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="756"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation>لا قياس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="763"/>
         <source>Measurement settings</source>
-        <translation type="unfinished">Measurement settings</translation>
+        <translation>إعدادات القياس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="823"/>
@@ -19351,47 +19351,47 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="832"/>
         <source>Operation:</source>
-        <translation type="unfinished">Operation:</translation>
+        <translation>عملية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="841"/>
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>تصدير</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="848"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>استيراد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="857"/>
         <source>Table:</source>
-        <translation type="unfinished">Table:</translation>
+        <translation>جدول:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="913"/>
         <source>Export coordinate system:</source>
-        <translation type="unfinished">Export coordinate system:</translation>
+        <translation>نظام إحداثيات التصدير:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="922"/>
         <source>RAS</source>
-        <translation type="unfinished">RAS</translation>
+        <translation>أيمن-أمامي-متفوق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="929"/>
         <source>LPS</source>
-        <translation type="unfinished">LPS</translation>
+        <translation>اليسار-الخلفي-العلوي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="203"/>
         <source>A module to create and manage markups in 2D and 3D. This module replaced the former Annotations module.</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة لإنشاء وإدارة العلامات ثنائية الأبعاد وثلاثية الأبعاد. حلت هذه الوحدة محل وحدة التعليقات التوضيحية السابقة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="213"/>
         <source>This work was supported by NAMIC, NAC, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم دعم هذا العمل من قبل NAMIC و NAC ومجتمع Slicer.</translation>
     </message>
 </context>
 <context>
@@ -19399,7 +19399,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="269"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>الرؤية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="299"/>
@@ -19841,7 +19841,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="30"/>
         <source>The symbol used for the markup</source>
-        <translation type="unfinished">The symbol used for the markup</translation>
+        <translation>الرمز المستخدم للترميز</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="37"/>
@@ -19866,32 +19866,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="57"/>
         <source>Triangle2D</source>
-        <translation type="unfinished">Triangle2D</translation>
+        <translation>مثلث 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="62"/>
         <source>Square2D</source>
-        <translation type="unfinished">Square2D</translation>
+        <translation>مربع 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="67"/>
         <source>Circle2D</source>
-        <translation type="unfinished">Circle2D</translation>
+        <translation>الدائرة 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="72"/>
         <source>Diamond2D</source>
-        <translation type="unfinished">Diamond2D</translation>
+        <translation>الماس ثنائي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="77"/>
         <source>Arrow2D</source>
-        <translation type="unfinished">Arrow2D</translation>
+        <translation>السهم 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="82"/>
         <source>ThickArrow2D</source>
-        <translation type="unfinished">ThickArrow2D</translation>
+        <translation>سميكة السهم 2D</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="87"/>
@@ -21232,12 +21232,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1265"/>
         <source>Slice cut:</source>
-        <translation type="unfinished">Slice cut:</translation>
+        <translation>قطع شريحة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1266"/>
         <source>Restrict cut region in slice views.</source>
-        <translation type="unfinished">Restrict cut region in slice views.</translation>
+        <translation>تقييد منطقة القطع في طرق عرض الشرائح.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1274"/>
@@ -21247,7 +21247,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
         <source>Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </source>
-        <translation type="unfinished">Apply scissor effect to all visible segments from top to bottom.                                           After pressing &apos;Apply&apos;: Please be patient - this may be time-consuming.                                           Progress will be shown as status message. </translation>
+        <translation>قم بتطبيق تأثير المقص على جميع الأجزاء المرئية من أعلى إلى أسفل.                                           بعد الضغط على &quot;تطبيق&quot;: يرجى التحلي بالصبر - قد يستغرق ذلك وقتا طويلا.                                           سيتم عرض التقدم كرسالة حالة. </translation>
     </message>
 </context>
 <context>
@@ -21260,12 +21260,12 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="32"/>
         <source>Automatically set opacities of the segments based on which contains which, so that no segment obscures another</source>
-        <translation type="unfinished">Automatically set opacities of the segments based on which contains which, so that no segment obscures another</translation>
+        <translation>قم تلقائيا بتعيين عتامة المقاطع التي تحتوي على أي منها ، بحيث لا يحجب أي مقطع آخر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="35"/>
         <source>Automatic Segment Opacities</source>
-        <translation type="unfinished">Automatic Segment Opacities</translation>
+        <translation>عتامة المقطع التلقائي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="51"/>
@@ -21275,7 +21275,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="61"/>
         <source>Color table node used to display this volume.</source>
-        <translation type="unfinished">Color table node used to display this volume.</translation>
+        <translation>عقدة جدول الألوان المستخدمة لعرض وحدة التخزين هذه.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="64"/>
@@ -23467,7 +23467,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="491"/>
         <source>Create new patient and study for DICOM export?</source>
-        <translation type="unfinished">Create new patient and study for DICOM export?</translation>
+        <translation>إنشاء مريض جديد ودراسة لتصدير DICOM؟</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="587"/>
@@ -23693,7 +23693,7 @@ If you&apos;d like to create the hierarchy manually, please click Cancel, then c
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="82"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="92"/>
         <source>Opacity</source>
-        <translation type="unfinished">العتامة:</translation>
+        <translation>العتامة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyOpacityPlugin.cxx" line="93"/>
@@ -25167,7 +25167,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/Units/Resources/UI/qSlicerUnitsSettingsPanel.ui" line="47"/>
         <source>Show advanced options</source>
-        <translation type="unfinished">Show advanced options</translation>
+        <translation>إظهار الخيارات المتقدمة</translation>
     </message>
 </context>
 <context>
@@ -25310,7 +25310,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished">خط متقاطع ناعم</translation>
+        <translation>خط متقاطع ناعم</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
@@ -25320,7 +25320,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished">خط متقاطع متوسط</translation>
+        <translation>خط متقاطع متوسط</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
@@ -25657,8 +25657,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="14"/>
         <source>Volume Rendering</source>
-        <translation>عرض الحجم
-أداء الحجم</translation>
+        <translation>عرض الحجم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="43"/>
@@ -25844,7 +25843,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="30"/>
         <source>Default rendering method</source>
-        <translation>طريقة التحصيير الافتراضية:</translation>
+        <translation>طريقة العرض الافتراضية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingSettingsPanel.ui" line="37"/>
