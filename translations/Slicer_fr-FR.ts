@@ -23385,12 +23385,12 @@ p, li { white-space: pre-wrap; }
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="130"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="604"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="410"/>
         <source>Delete highlighted control points</source>
-        <translation>Supprimer les points de contrôle en surbrillance</translation>
+        <translation>Supprimer les points de contrôle mis en évidence</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="411"/>
@@ -23400,12 +23400,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="412"/>
         <source>Move current control point down</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer le point de contrôle actuel vers le bas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerSimpleMarkupsWidget.cxx" line="413"/>
         <source>Jump slices to control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauter des coupes au point de contrôle</translation>
     </message>
 </context>
 <context>
