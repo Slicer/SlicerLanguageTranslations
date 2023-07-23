@@ -24899,7 +24899,7 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModule.h" line="55"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transforms</translation>
+        <translation>Transformaciones</translation>
     </message>
 </context>
 <context>
@@ -24907,12 +24907,12 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="20"/>
         <source>Transforms</source>
-        <translation type="unfinished">Transforms</translation>
+        <translation>Transformaciones</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
         <source>Active Transform:</source>
-        <translation type="unfinished">Active Transform:</translation>
+        <translation>Transformación activa:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
@@ -24927,52 +24927,52 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished">Transform Matrix</translation>
+        <translation type="unfinished">Matriz de transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="163"/>
         <source>Rotation</source>
-        <translation type="unfinished">Rotation</translation>
+        <translation>Rotación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="184"/>
         <source>Identity</source>
-        <translation type="unfinished">Identity</translation>
+        <translation>Identidad</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="194"/>
         <source>Invert</source>
-        <translation type="unfinished">Invert</translation>
+        <translation>Invertir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="204"/>
         <source>Split a composite transform to its components</source>
-        <translation type="unfinished">Split a composite transform to its components</translation>
+        <translation>Dividir una transformación compuesta en sus componentes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="207"/>
         <source>Split</source>
-        <translation type="unfinished">Split</translation>
+        <translation>Dividir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
         <source>Translation in global or local (rotated) reference frame</source>
-        <translation type="unfinished">Translation in global or local (rotated) reference frame</translation>
+        <translation>Traslación en el sistema de referencia global o local (girado)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="254"/>
         <source>Copy transform</source>
-        <translation type="unfinished">Copy transform</translation>
+        <translation>Copiar transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="264"/>
         <source>Paste transform</source>
-        <translation type="unfinished">Paste transform</translation>
+        <translation>Pegar transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
@@ -24982,52 +24982,52 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="309"/>
         <source>Apply transform</source>
-        <translation type="unfinished">Apply transform</translation>
+        <translation>Aplicar la transformación</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
         <source>Transformable:</source>
-        <translation type="unfinished">Transformable:</translation>
+        <translation>Transformable:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
         <source>Apply the active transform to the selected transformable nodes</source>
-        <translation type="unfinished">Apply the active transform to the selected transformable nodes</translation>
+        <translation>Aplicar la transformación activa a los nodos transformables seleccionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
         <source>Remove the active transform from the selected transformed nodes</source>
-        <translation type="unfinished">Remove the active transform from the selected transformed nodes</translation>
+        <translation>Eliminar la transformación activa de los nodos transformados seleccionados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
         <source>Harden transform</source>
-        <translation type="unfinished">Harden transform</translation>
+        <translation>Transformación endurecida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
         <source>Transformed:</source>
-        <translation type="unfinished">Transformed:</translation>
+        <translation>Transformado:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
         <source>Convert</source>
-        <translation type="unfinished">Convert</translation>
+        <translation>Convertir</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="454"/>
         <source>Reference volume:</source>
-        <translation type="unfinished">Reference volume:</translation>
+        <translation>Volumen de referencia:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
@@ -25037,42 +25037,42 @@ Do you wish to update the stored context file with the just loaded one?</transla
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
         <source>Output displacement field:</source>
-        <translation type="unfinished">Output displacement field:</translation>
+        <translation>Campo de desplazamiento de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
         <source>Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</source>
-        <translation type="unfinished">Volume or transform node that will store the displacement field. If scalar volume node is chosen then only displacement magnitude is saved. In vector volume or transform node 3D displacement vector is saved.</translation>
+        <translation>Nodo de volumen o transformación que almacenará el campo de desplazamiento. Si se elige el nodo de volumen escalar, sólo se guarda la magnitud del desplazamiento. En el volumen vectorial o nodo de transformación se guarda el vector de desplazamiento 3D.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="529"/>
         <source>Displacement Field</source>
-        <translation type="unfinished">Displacement Field</translation>
+        <translation>Campo de desplazamiento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="551"/>
         <source>Apply</source>
-        <translation type="unfinished">Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="127"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="133"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Conversion failed</source>
-        <translation type="unfinished">Conversion failed</translation>
+        <translation>Conversión fallida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/qSlicerTransformsModuleWidget.cxx" line="604"/>
         <source>Failed to convert transform. See application log for details.</source>
-        <translation type="unfinished">Failed to convert transform. See application log for details.</translation>
+        <translation>Error al convertir la transformación. Consulte el registro de la aplicación para obtener más detalles.</translation>
     </message>
 </context>
 <context>
