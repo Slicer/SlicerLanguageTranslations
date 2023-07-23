@@ -3681,47 +3681,47 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
         <source>Skeleton of the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esqueleto de la imagen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="13"/>
         <source>Skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="14"/>
         <source>Skeleton parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="15"/>
         <source>Skeleton type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="16"/>
         <source>Extract full tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extraer el árbol completo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="17"/>
         <source>Number Of Points</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de puntos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="18"/>
@@ -3741,17 +3741,17 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="21"/>
         <source>Include the full tree in the output, not just the longest branch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Incluye el árbol completo en la salida, no sólo la rama más larga.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="22"/>
         <source>Number of points used to represent the skeleton</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de puntos utilizados para representar el esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"/>
         <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre del archivo para almacenar las coordenadas de los puntos centrales (1D) del esqueleto.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
@@ -3775,12 +3775,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
         <source>Fiducial Registration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registro Fiduciario</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Calcula una transformación rígida, de similitud o afín a partir de una lista emparejada de fiduciales.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
@@ -3795,57 +3795,57 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
         <source>Fixed landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hitos fijos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
         <source>Moving landmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puntos de referencia móviles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
         <source>Save transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guardar transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
         <source>RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
         <source>Output Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mensaje de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista ordenada de puntos de referencia en la imagen fija</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
         <source>Ordered list of landmarks in the moving image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lista ordenada de hitos de la imagen en movimiento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
         <source>Save the transform that results from registration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guardar la transformación resultante del registro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
         <source>Type of transform to produce</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de transformación a producir</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
@@ -3855,13 +3855,13 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
         <source>Provides more information on the output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proporciona más información sobre la salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rígido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
@@ -3871,7 +3871,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
         <source>Similarity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Similitud</translation>
     </message>
 </context>
 <context>
@@ -3879,12 +3879,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro de imagen de desenfoque gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplicar un desenfoque gaussiano a una imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
@@ -3899,27 +3899,27 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
         <source>Sigma value in physical units (e.g., mm) of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor sigma en unidades físicas (por ejemplo, mm) del núcleo gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
@@ -3929,7 +3929,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
         <source>Blurred Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen borroso</translation>
     </message>
 </context>
 <context>
@@ -3937,59 +3937,61 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"/>
         <source>Gradient Anisotropic Diffusion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Difusión anisótropa de gradiente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"/>
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ejecuta la difusión anisotrópica de gradiente en un volumen.
+
+Los métodos de difusión anisotrópica reducen el ruido (o los detalles no deseados) en las imágenes al tiempo que preservan características específicas de la imagen, como los bordes.  Para muchas aplicaciones, se supone que las transiciones claro-oscuro (bordes) son interesantes.  Los métodos estándar de difusión isotrópica desplazan y difuminan los límites claro-oscuro.  Los métodos de difusión anisotrópica están formulados para preservar específicamente los bordes. El término de conductancia para esta implementación es una función de la magnitud del gradiente de la imagen en cada punto, reduciendo la fuerza de la difusión en los bordes. La implementación numérica de esta ecuación es similar a la descrita en el artículo de Perona-Malik, pero utiliza una técnica más robusta para la estimación de la magnitud del gradiente y se ha generalizado a N-dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este módulo de comandos procede de Insight/Examples (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del algoritmo de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conductancia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paso del tiempo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conductancia controla la sensibilidad del término de conductancia. Por regla general, cuanto menor sea el valor, más intensamente preservará el filtro los bordes. Un valor alto causará difusión (suavizado) a través de los bordes. Tenga en cuenta que el número de iteraciones controla la cantidad de suavizado que se realiza dentro de las regiones delimitadas por los bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cuantas más iteraciones, más suavizado. Cada iteración lleva el mismo tiempo. Si se tardan 10 segundos en una iteración, se tardarán 100 segundos en 10 iteraciones. Tenga en cuenta que la conductancia controla cuánto suaviza cada iteración los bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El paso de tiempo depende de la dimensionalidad de la imagen. En Slicer las imágenes son 3D y el paso de tiempo por defecto (.0625) proporcionará una solución estable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
@@ -3999,27 +4001,27 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salida filtrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
@@ -4029,12 +4031,12 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros avanzados del algoritmo de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilizar el espaciado entre imágenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
@@ -4047,7 +4049,7 @@ Anisotropic diffusion methods reduce noise (or unwanted detail) in images while 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro de imagen de relleno en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
@@ -4069,7 +4071,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GrayscaleFillholeImageFilter rellena agujeros en una imagen en escala de grises.  Los agujeros son mínimos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un agujero se extrapolan a través del agujero.
+
+Este filtro se utiliza para suavizar los mínimos locales sin afectar a los valores de los máximos locales.  Si toma la diferencia entre la salida de este filtro y la imagen original (y tal vez umbralice la diferencia por encima de un valor pequeño), obtendrá un mapa de los mínimos locales.
+
+Este filtro utiliza el itkGrayscaleGeodesicErodeImageFilter.  Proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica.  La imagen &quot;marcadora&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor máximo de píxel en la imagen de entrada.
+
+ La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, segunda edición, Springer, 2003.
+
+ Un filtro complementario, Grayscale Grind Peak, elimina los picos en las imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
@@ -4084,27 +4094,27 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4112,7 +4122,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro de imagen de pico de molienda en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
@@ -4127,7 +4137,17 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GrayscaleGrindPeakImageFilter elimina los picos de una imagen en escala de grises. Los picos son máximos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un pico se extrapolan a través del pico.
+
+Este filtro se utiliza para suavizar los máximos locales sin afectar a los valores de los mínimos locales.  Si toma la diferencia entre la salida de este filtro y la imagen original (y tal vez umbralice la diferencia por encima de un valor pequeño), obtendrá un mapa de los máximos locales.
+
+Este filtro utiliza el GrayscaleGeodesicDilateImageFilter.  Proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica.  La imagen &quot;marcadora&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor de píxel mínimo de la imagen de entrada.
+
+Este filtro es el dual del GrayscaleFillholeImageFilter que implementa el algoritmo Fillhole.  Dado que es un dual, es algo superfluo pero se proporciona por conveniencia.
+
+La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, segunda edición, Springer, 2003.
+
+Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
@@ -4142,27 +4162,27 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4170,7 +4190,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"/>
         <source>Grayscale Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelador en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
@@ -4190,17 +4210,17 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
         <source>Output Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geometría de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
@@ -4210,47 +4230,47 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
         <source>Output that contains geometry model.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salida que contiene el modelo de geometría.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"/>
         <source>Grayscale Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del Model Maker en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros utilizados para hacer modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre del modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Suave</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Decídete</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
         <source>Split Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¿Dividir las normales?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"/>
         <source>Compute Point Normals?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¿Calcular normales de punto?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
@@ -4260,17 +4280,17 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre a utilizar para este modelo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
         <source>Number of smoothing iterations. If 0, no smoothing will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de iteraciones de suavizado. Si es 0, no se realizará ningún suavizado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="24"/>
         <source>Target reduction during decimation, as a decimal percentage reduction in the number of polygons. If 0, no decimation will be done.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reducción objetivo durante el diezmado, como porcentaje decimal de reducción en el número de polígonos. Si es 0, no se realizará el diezmado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"/>
@@ -4280,7 +4300,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="26"/>
         <source>Calculate the point normals? Calculated point normals make the surface appear smooth. Without point normals, the surface will appear faceted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¿Calcular las normales de los puntos? Las normales de punto calculadas hacen que la superficie parezca lisa. Sin normales de punto, la superficie aparecerá facetada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
@@ -4290,12 +4310,12 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Depurar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"/>
         <source>Turn this flag on to log more details during execution.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Active esta opción para registrar más detalles durante la ejecución.</translation>
     </message>
 </context>
 <context>
@@ -4303,7 +4323,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"/>
         <source>Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Coincidencia de histogramas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"/>
@@ -4314,7 +4334,13 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normaliza los valores de la escala de grises de una imagen de origen basándose en los valores de la escala de grises de una imagen de referencia.  Este filtro utiliza una técnica de coincidencia de histogramas en la que los histogramas de las dos imágenes coinciden solo en un número determinado de valores cuantílicos.
+
+El filtro se diseñó originalmente para normalizar imágenes de RM del mismo protocolo de RM y de la misma parte del cuerpo. El algoritmo funciona mejor si se excluyen los píxeles de fondo de los histogramas de origen y de referencia.  Un método sencillo de exclusión del fondo consiste en excluir todos los píxeles cuyos valores de escala de grises sean inferiores al valor medio de escala de grises. ThresholdAtMeanIntensity activa este sencillo método de exclusión de fondo.
+
+ El número de puntos de coincidencia determina el número de valores cuantílicos que deben coincidir.
+
+El filtro asume que tanto la fuente como la referencia son del mismo tipo y que el tipo de imagen de entrada y de salida tienen el mismo número de dimensiones y tienen tipos de píxel escalares.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="6"/>
@@ -4324,42 +4350,42 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de correspondencia de histogramas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
         <source>Parameters for Histogram Matching</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parameters for Histogram Matching</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
         <source>Number of Histogram Levels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de niveles del histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
         <source>Number of Match Points</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de puntos de partido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"/>
         <source>Threshold at mean</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umbral a la media</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El número de niveles de hisograma a utilizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
         <source>The number of match points to use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El número de puntos de partido a utilizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si está activada, sólo se umbralizan los píxeles por encima de la media en cada volumen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
@@ -4369,12 +4395,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
@@ -4384,22 +4410,22 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
         <source>Input volume whose histogram will be matched</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada cuyo histograma se comparará</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"/>
         <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida. Es el volumen de entrada con las intensidades ajustadas al volumen de referencia.</translation>
     </message>
 </context>
 <context>
@@ -4407,12 +4433,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"/>
         <source>Image Label Combine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiqueta de imagen Combinar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
         <source>Combine two label maps into one</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Combinar dos mapas de etiquetas en uno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
@@ -4422,53 +4448,53 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
         <source>Input Label Map A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa de etiquetas de entrada A</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"/>
         <source>Input Label Map B</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrada Etiqueta Mapa B</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"/>
         <source>Output Label Map</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa de etiquetas de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
         <source>Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen del mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
         <source>Resulting Label map image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Imagen resultante del mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
         <source>Label combination options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opciones de combinación de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"/>
         <source>Selection of how to combine label maps</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selección de cómo combinar mapas de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="16"/>
         <source>First Label Overwrites Second</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La primera etiqueta sobrescribe la segunda</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="17"/>
         <source>Use first or second label when both are present</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilizar la primera o la segunda etiqueta cuando ambas estén presentes</translation>
     </message>
 </context>
 <context>
@@ -4476,87 +4502,87 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"/>
         <source>Label Map Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Suavizado de mapas de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este filtro suaviza un mapa de etiquetas binario.  Con un mapa de etiquetas como entrada, este filtro ejecuta un algoritmo antialising seguido de un algoritmo de suavizado gaussiano.  El resultado es un mapa de etiquetas suavizado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149.  Este filtro se basa en el trabajo desarrollado en la Universidad de Utah e implementado en GE Research.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
         <source>Label Selection Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de selección de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
         <source>Parameters for selecting the label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros para seleccionar la etiqueta a alisar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
         <source>Label to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiqueta para suavisar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La etiqueta para suavisar.  Todas las demás serán ignoradas.  Si el usuario no selecciona ninguna etiqueta, se elegirá por defecto la etiqueta máxima de la imagen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
         <source>AntiAliasing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros AntiAliasing</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del algoritmo AntiAliasing</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
         <source>Number of Iterations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número de iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"/>
         <source>Maximum RMS Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error RMS máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El número de iteraciones del algoritmo AntiAliasing de conjunto de niveles.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El error RMS máximo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
         <source>Gaussian Smoothing Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de suavizado gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"/>
         <source>Parameters for Gaussian Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros para el suavizado gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"/>
         <source>Sigma</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"/>
         <source>The standard deviation of the Gaussian kernel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La desviación típica del núcleo gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
@@ -4566,27 +4592,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
         <source>Input label map to smooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa de etiquetas de entrada para suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"/>
         <source>Smoothed label map</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa de etiquetas suavizado</translation>
     </message>
 </context>
 <context>
@@ -4594,12 +4620,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="5"/>
         <source>Mask Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Máscara Volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enmascara dos imágenes. La imagen de salida se pone a 0 en todas partes excepto donde esté presente la etiqueta elegida del volumen de la máscara, en cuyo caso conservará sus valores originales. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
@@ -4609,72 +4635,72 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
         <source>Input and Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrada y salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
         <source>Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de la máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"/>
         <source>Masked Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen enmascarado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
         <source>Input volume to be masked</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada a enmascarar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
         <source>Label volume containing the mask</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiqueta del volumen que contiene la máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida: Volumen de entrada enmascarado por el valor de la etiqueta del Volumen de máscara.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajustes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
         <source>Filter settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajustes del filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
         <source>Label value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor de la etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
         <source>Replace value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sustituir valor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor de la etiqueta en el Volumen Máscara que se utilizará como máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
         <source>Value to use for the output volume outside of the mask</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor a utilizar para el volumen de salida fuera de la máscara</translation>
     </message>
 </context>
 <context>
@@ -4682,37 +4708,37 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"/>
         <source>Median Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro de imagen mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El filtro MedianImageFilter se utiliza habitualmente para reducir el ruido. Este filtro es especialmente eficaz contra el ruido &quot;sal y pimienta&quot;. En otras palabras, es resistente a la presencia de valores atípicos de nivel de gris. MedianImageFilter calcula el valor de cada píxel de salida como la mediana estadística de la vecindad de valores alrededor del píxel de entrada correspondiente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este módulo de comandos procede de Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
         <source>Median Filter Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del filtro de mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"/>
         <source>Parameters for the median filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del filtro mediano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"/>
         <source>Neighborhood Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamaño del vecindario</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"/>
         <source>The size of the neighborhood in each dimension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El tamaño de la vecindad en cada dimensión</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
@@ -4722,27 +4748,27 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4750,7 +4776,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="4"/>
         <source>Merge Models</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fusionar modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
@@ -4770,37 +4796,37 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
         <source>Input/output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
         <source>Model 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"/>
         <source>Model 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"/>
         <source>Output Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
         <source>Input model 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
         <source>Input model 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modelo de salida</translation>
     </message>
 </context>
 <context>
@@ -4808,7 +4834,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
         <source>Model Maker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Creador de modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
@@ -4828,12 +4854,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -4843,12 +4869,12 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa de etiquetas de entrada. El menú desplegable Volumen de entrada se rellena con los volúmenes del mapa de etiquetas que están presentes en la escena, seleccione uno a partir del cual generar los modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabla de colores para etiquetar colores y objetos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
@@ -4858,17 +4884,17 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
         <source>Create Multiple</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crear varios</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crea más de un modelo al mismo tiempo, se utiliza para rangos continuos de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre del modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
@@ -4888,7 +4914,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
         <source>Model Maker Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros del Creador de modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
@@ -4898,57 +4924,57 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
         <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
         <source>Start Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiqueta de inicio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
         <source>End Label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiqueta final</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Saltar etiquetas sin nombre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
         <source>Joint Smoothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Suavizado de juntas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
         <source>Smooth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Suavisado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
         <source>Filter Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
         <source>Decimate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diezmar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
         <source>Split Normals</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normales divididas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
         <source>Point Normals</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normales puntuales</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
         <source>Pad</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Almohadilla</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
@@ -4978,7 +5004,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aquí puede establecer el número de iteraciones de suavizado para el suavizado Laplaciano, o el grado del polinomio que aproxima la función Sinc con ventana. Utilice 0 si no desea suavizado. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
@@ -4998,7 +5024,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Active esta opción si desea calcular los vectores normales de los puntos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
@@ -5009,12 +5035,12 @@ The filter assumes that both the source and reference are of the same type and t
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
         <source>Laplacian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laplaciano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
