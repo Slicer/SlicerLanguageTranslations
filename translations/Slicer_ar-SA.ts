@@ -1942,7 +1942,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="13"/>
         <source>Output volume, cast to the new type.</source>
-        <translation>حجم الإخراج, بث إلى النوع الجديد</translation>
+        <translation>حجم الإخراج ، يلقي إلى النوع الجديد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="14"/>
@@ -2705,10 +2705,11 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
 MCDE does not exhibit the edge enhancing properties of classic anisotropic diffusion, which can under certain conditions undergo a &apos;negative&apos; diffusion, which enhances the contrast of edges.  Equations of the form of MCDE always undergo positive diffusion, with the conductance term only varying the strength of that diffusion.
 
  Qualitatively, MCDE compares well with other non-linear diffusion techniques.  It is less sensitive to contrast than classic Perona-Malik style diffusion, and preserves finer detailed structures in images.  There is a potential speed trade-off for using this function in place of Gradient Anisotropic Diffusion.  Each iteration of the solution takes roughly twice as long.  Fewer iterations, however, may be required to reach an acceptable solution.</oldsource>
-        <translation>تنفيذ انحناء تدفق متباين الخواص على صورة باستخدام  معادلة تدفق الانحناء المعدلة (MCDE) 
- MCDE لا يعرض خصائص تحسين الحواف الكلاسيكية لتدفق المتباين الخواص,والتي يمكن أن تخضع تحت شروط معين لتدفق سلبي,مما يعزز تباين الحواف.
-المعادلات مثل MCDE  دائماً تخضع  لتدفق إيجابي,مع قيمة التوصيل فقط تغير قوة هذا تدفق
- نوعيا MCDE مقارن جيدًا مع تقنيات تدفق غير الخطية الأخرى, إنه أقل حساسية للتباين من تدفق أسلوب Perona-Malik الكلاسيكي, ويحافظ  على أدق التفاصيل الهياكل  في الصور. هناك مقايضة سرعة محتملة لاستخدام هذه الوظيفة بدلاً من تدفق متباين الخواص متدرج.يستغرق كل تكرار للحل ضعف الوقت تقريبًا.مع ذلك ، قد تكون هناك حاجة  أقل لتكرار أقل للوصول إلى حل مقبول.</translation>
+        <translation>ينفذ الانتشار متباين الخواص على صورة باستخدام معادلة انتشار الانحناء المعدلة (MCDE).
+
+لا يظهر MCDE خصائص تعزيز الحواف للانتشار متباين الخواص الكلاسيكي ، والذي يمكن أن يخضع في ظل ظروف معينة لانتشار &quot;سلبي&quot; ، مما يعزز تباين الحواف.  تخضع معادلات شكل MCDE دائما للانتشار الإيجابي ، مع تغيير مصطلح التوصيل فقط لقوة هذا الانتشار. 
+
+نوعيا ، يقارن MCDE بشكل جيد مع تقنيات الانتشار غير الخطي الأخرى.  إنه أقل حساسية للتباين من انتشار أسلوب Perona-Malik الكلاسيكي ، ويحافظ على الهياكل التفصيلية الدقيقة في الصور.  هناك مفاضلة محتملة للسرعة لاستخدام هذه الوظيفة بدلا من الانتشار المتباين الخواص المتدرج.  يستغرق كل تكرار للحل ضعف المدة تقريبا.  ومع ذلك ، قد تكون هناك حاجة إلى عدد أقل من التكرارات للوصول إلى حل مقبول.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CurvatureAnisotropicDiffusion/CurvatureAnisotropicDiffusion_tr.h" line="7"/>
@@ -6187,7 +6188,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation>نافذة سينك</translation>
+        <translation type="unfinished">ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
@@ -7726,7 +7727,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
         <source>Database location:</source>
-        <translation type="unfinished">موقع قاعدة البيانات</translation>
+        <translation>موقع قاعدة البيانات:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
@@ -7976,17 +7977,17 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
-        <translation type="unfinished">تحذير: لا يمكن العثور على {عدد_ملفات_مفقود} من {إجمالي_عدد_الملفات} من الملفات المحددة المدرجة في قاعدة البيانات على القرص.</translation>
+        <translation>تحذير: لا يمكن العثور على {missing_file_count} من الملفات المحددة {total_file_count} المدرجة في قاعدة البيانات على القرص.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
         <source>Checking {what}</source>
-        <translation type="unfinished">التحقق من {ماذا}</translation>
+        <translation>التحقق من {what}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="425"/>
         <source>Warning: {messages}</source>
-        <translation type="unfinished">تحذير: {الرسائل}</translation>
+        <translation>تحذير: {messages}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="426"/>
@@ -8006,7 +8007,7 @@ a = تحويل أفين</translation>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="568"/>
         <source>Warning in DICOM plugin {load_type} when examining loadable {name}: {message}</source>
-        <translation type="unfinished">تحذير في المكون الإضافي DICOM {نوع التحمل} عند فحص الملف القابل للتحميل {اسم}: {رسالة}</translation>
+        <translation>تحذير في المكون الإضافي DICOM {load_type} عند فحص الملف القابل للتحميل {name}: {message}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="573"/>
@@ -9360,7 +9361,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
         <source>Database location:</source>
-        <translation>موقع قاعدة البيانات</translation>
+        <translation>موقع قاعدة البيانات:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
@@ -9814,7 +9815,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="32"/>
         <source>Visibility</source>
-        <translation>رؤية:</translation>
+        <translation>رؤية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="38"/>
@@ -10016,7 +10017,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="252"/>
         <source>Resample</source>
-        <translation type="unfinished">Resample</translation>
+        <translation>إعادة العينة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="333"/>
@@ -10031,32 +10032,32 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="268"/>
         <source>Select the number of points on the resampled curve. </source>
-        <translation type="unfinished">Select the number of points on the resampled curve. </translation>
+        <translation>حدد عدد النقاط على المنحنى المعاد تشكيله. </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="271"/>
         <source>Number of resampled points: </source>
-        <translation type="unfinished">Number of resampled points: </translation>
+        <translation>عدد النقاط المعاد تشكيلها: </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="281"/>
         <source>The active curve will be resamples with the number of points specified.</source>
-        <translation type="unfinished">The active curve will be resamples with the number of points specified.</translation>
+        <translation>سيتم إعادة عينات المنحنى النشط بعدد النقاط المحددة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="303"/>
         <source>Select a node to store the resampled curve </source>
-        <translation type="unfinished">Select a node to store the resampled curve </translation>
+        <translation>حدد عقدة لتخزين المنحنى المعاد تشكيله </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="326"/>
         <source>(Overwrite current node)</source>
-        <translation type="unfinished">(Overwrite current node)</translation>
+        <translation>(الكتابة فوق العقدة الحالية)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsCurveSettingsWidget.ui" line="336"/>
         <source>Resample curve</source>
-        <translation type="unfinished">Resample curve</translation>
+        <translation>منحنى إعادة العينة</translation>
     </message>
 </context>
 <context>
@@ -10070,7 +10071,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="34"/>
         <source>Overall visibility of the selected node in all views</source>
-        <translation type="unfinished">Overall visibility of the selected node in all views</translation>
+        <translation>الرؤية الشاملة للعقدة المحددة في جميع طرق العرض</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="44"/>
@@ -10078,23 +10079,23 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacity:</translation>
+        <translation>العتامة:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
         <source>Visibility:</source>
-        <translation type="unfinished">Visibility:</translation>
+        <translation>الرؤية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="72"/>
         <source>If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</source>
-        <translation type="unfinished">If button is pressed then control point glyph size is specified in physical length unit, otherwise as percentage of window size</translation>
+        <translation>إذا تم الضغط على الزر ، فسيتم تحديد حجم الصورة الرمزية لنقطة التحكم في وحدة الطول الفعلي ، وإلا كنسبة مئوية من حجم النافذة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="75"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="354"/>
         <source>absolute</source>
-        <translation type="unfinished">absolute</translation>
+        <translation>مطلق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="91"/>
@@ -10111,12 +10112,12 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="137"/>
         <source>Text Display</source>
-        <translation type="unfinished">Text Display</translation>
+        <translation>عرض النص</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="148"/>
         <source>Bold</source>
-        <translation type="unfinished">Bold</translation>
+        <translation>ثخين</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="155"/>
@@ -10126,7 +10127,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="162"/>
         <source>Shadow</source>
-        <translation type="unfinished">Shadow</translation>
+        <translation>الظل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="177"/>
@@ -10136,17 +10137,17 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="193"/>
         <source>Opacity</source>
-        <translation>العتامة:</translation>
+        <translation>العتامة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="215"/>
         <source>Background:</source>
-        <translation type="unfinished">Background:</translation>
+        <translation>خلفية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="228"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished">Select views in which to show this node. All unchecked shows in all 3D and 2D views.</translation>
+        <translation>حدد طرق العرض لإظهار هذه العقدة. جميع العروض التي لم يتم التحقق منها في جميع طرق العرض ثلاثية الأبعاد وثنائية الأبعاد.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="235"/>
@@ -10156,12 +10157,12 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="242"/>
         <source>2D Display</source>
-        <translation type="unfinished">2D Display</translation>
+        <translation>شاشة ثنائية الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
         <source>Fill:</source>
-        <translation type="unfinished">Fill:</translation>
+        <translation>يملأ:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
@@ -17137,7 +17138,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="23"/>
         <source>Export node</source>
-        <translation type="unfinished">Export node</translation>
+        <translation>عقدة التصدير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="48"/>
@@ -17147,57 +17148,57 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="62"/>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>الدليل:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="75"/>
         <source>Destination directory</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الوجهة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="82"/>
         <source>Export formats:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيقات التصدير:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="89"/>
         <source>Options:</source>
-        <translation type="unfinished">Options:</translation>
+        <translation>خيارات:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
         <source>Include nodes directly under the selected item in the hierarchy.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتضمين العقد مباشرة أسفل العنصر المحدد في التسلسل الهرمي.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="117"/>
         <source>Include children</source>
-        <translation type="unfinished"></translation>
+        <translation>تشمل الأطفال</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="124"/>
         <source>Include all nodes in the selected item in the hierarchy, including in subfolders.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتضمين كافة العقد في العنصر المحدد في التسلسل الهرمي، بما في ذلك المجلدات الفرعية.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="127"/>
         <source>Recursively include children</source>
-        <translation type="unfinished"></translation>
+        <translation>تشمل الأطفال بشكل متكرر</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="134"/>
         <source>Create subdirectory structure based on node hierarchy. Uncheck this to export all nodes directly into the target directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنشاء بنية دليل فرعي بناء على التسلسل الهرمي للعقدة. قم بإلغاء تحديد هذا لتصدير جميع العقد مباشرة إلى الدليل الهدف.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="137"/>
         <source>Export folder structure</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير بنية المجلد</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="144"/>
         <source>Temporarily harden any transforms for export</source>
-        <translation type="unfinished"></translation>
+        <translation>تصلب مؤقتا أي تحويلات للتصدير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="147"/>
@@ -17207,22 +17208,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="136"/>
         <source>Select a format</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد تنسيقا</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="171"/>
         <source>Export format:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق التصدير:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="409"/>
         <source>Output folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>مجلد الإخراج:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>التصدير</translation>
     </message>
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
@@ -17239,17 +17240,17 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="741"/>
         <source>When exporting multiple nodes, filenames are automatically set</source>
-        <translation type="unfinished"></translation>
+        <translation>عند تصدير عقد متعددة ، يتم تعيين أسماء الملفات تلقائيا</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="743"/>
         <source>&lt;automatic&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;automatic&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="757"/>
         <source>Export </source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="879"/>
@@ -17259,24 +17260,24 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="880"/>
         <source>The following filename is recommended:</source>
-        <translation type="unfinished"></translation>
+        <translation>يوصى باستخدام اسم الملف التالي:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="884"/>
         <source>Accept recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>قبول الموصى بها</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="885"/>
         <source>Keep my filename</source>
-        <translation type="unfinished"></translation>
+        <translation>احتفظ باسم الملف الخاص بي</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="948"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1050"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1058"/>
         <source>Export Error</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في التصدير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
@@ -17286,7 +17287,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
         <source>File Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف موجود</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
@@ -17297,37 +17298,37 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1070"/>
         <source>Export Information</source>
-        <translation type="unfinished"></translation>
+        <translation>معلومات التصدير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
         <source>Nothing was exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تصدير أي شيء.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1044"/>
         <source>Error encountered while exporting.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمت مصادفة خطأ أثناء التصدير.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1065"/>
         <source>Export Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير التصدير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1223"/>
         <source>Export an individual node</source>
-        <translation type="unfinished">Export an individual node</translation>
+        <translation>تصدير عقدة فردية</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
         <source>Export error</source>
-        <translation type="unfinished">Export error</translation>
+        <translation>خطأ في التصدير</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1245"/>
         <source>There is nothing to export.</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد شيء للتصدير.</translation>
     </message>
 </context>
 <context>
@@ -17339,22 +17340,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="38"/>
         <source>Install this extension (requires restart).</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتثبيت هذا الامتداد (يتطلب إعادة التشغيل).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="41"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="52"/>
         <source>Click this button to add bookmark this extension. Bookmarked extension will appear in all application versions for easy reinstallation.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر فوق هذا الزر لإضافة إشارة مرجعية لهذا الامتداد. سيظهر الامتداد الذي تم وضع إشارة مرجعية عليه في جميع إصدارات التطبيق لسهولة إعادة التثبيت.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="67"/>
         <source>Click to remove the bookmark.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر لإزالة الإشارة المرجعية.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="159"/>
@@ -17364,7 +17365,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="162"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="169"/>
@@ -17404,22 +17405,22 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="14"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>التمديدات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="95"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>إلغاء التثبيت</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="102"/>
         <source>Tell the application to keep this extension installed.</source>
-        <translation type="unfinished">Tell the application to keep this extension installed.</translation>
+        <translation>أخبر التطبيق بالحفاظ على هذا الامتداد مثبتًا.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsButtonBox.ui" line="105"/>
         <source>Cancel Uninstall</source>
-        <translation type="unfinished">Cancel Uninstall</translation>
+        <translation>إلغاء إلغاء التثبيت</translation>
     </message>
 </context>
 <context>
