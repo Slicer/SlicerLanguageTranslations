@@ -8777,17 +8777,17 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="339"/>
         <source>Edit {pluginName} plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Edite os parâmetros do plug-in {pluginName}:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="619"/>
         <source>Computed by {pluginName} Statistics plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculado pelo plug-in de estatística {pluginName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="950"/>
         <source>Add Data</source>
-        <translation type="unfinished">Adicionar dados</translation>
+        <translation>Adicionar dados</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="953"/>
@@ -8926,52 +8926,52 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="447"/>
         <source>Oriented bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Caixa delimitadora orientada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="450"/>
         <source>Oriented bounding box origin in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Origem da caixa delimitadora orientada em coordenadas RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="454"/>
         <source>Oriented bounding box diameter in mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Diâmetro da caixa delimitadora orientada em mm</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="458"/>
         <source>Oriented bounding box X direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção X da caixa delimitadora orientada em coordenadas RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="462"/>
         <source>Oriented bounding box Y direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção Y da caixa delimitadora orientada em coordenadas RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="466"/>
         <source>Oriented bounding box Z direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Direção Z da caixa delimitadora orientada em coordenadas RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="470"/>
         <source>Principal moments of inertia for x, y and z axes</source>
-        <translation type="unfinished"></translation>
+        <translation>Momentos principais de inércia para os eixos x, y e z</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="474"/>
         <source>Principal X axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo principal X de rotação em coordenadas RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="478"/>
         <source>Principal Y axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo principal Y de rotação em coordenadas RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="482"/>
         <source>Principal Z axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Eixo principal Z de rotação em coordenadas RAS</translation>
     </message>
 </context>
 <context>
@@ -8980,12 +8980,12 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="147"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="148"/>
         <source>Number of voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de voxels</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="149"/>
         <source>voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>voxels</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="152"/>
