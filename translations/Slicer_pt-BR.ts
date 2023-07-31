@@ -8792,7 +8792,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="953"/>
         <source>Load Scene</source>
-        <translation type="unfinished">Carregar Cena</translation>
+        <translation>Carregar Cena</translation>
     </message>
 </context>
 <context>
@@ -8990,83 +8990,83 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="152"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume em mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="153"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="158"/>
         <source>Volume</source>
-        <translation type="unfinished">Imagem</translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="154"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>milímetro cúbico</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="157"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume em cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="159"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>centímetro cúbico</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="161"/>
         <source>Sum of segmented voxel volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Soma dos volumes de vóxel segmentado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="164"/>
         <source>Minimum scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor escalar mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="168"/>
         <source>Minimum</source>
-        <translation type="unfinished">Mínimo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="171"/>
         <source>Maximum scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor escalar máximo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="175"/>
         <source>Maximum</source>
-        <translation type="unfinished">Máximo</translation>
+        <translation>Máximo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="178"/>
         <source>Mean scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor escalar médio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="182"/>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Média</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="185"/>
         <source>Median scalar value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor escalar médio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="189"/>
         <source>Median</source>
-        <translation type="unfinished"></translation>
+        <translation>Médio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="192"/>
         <source>Standard deviation of scalar values</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvio padrão de valores escalares</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ScalarVolumeSegmentStatisticsPlugin.py" line="196"/>
         <source>Standard Deviation</source>
-        <translation type="unfinished"></translation>
+        <translation>Desvio padrão</translation>
     </message>
 </context>
 <context>
@@ -9075,17 +9075,17 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="122"/>
         <source>{pluginName} plugin enabled</source>
         <extracomment>measurements that will be calculated by default</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>plug-in {pluginName} ativado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="132"/>
         <source>Select measurements: </source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione as medidas: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="133"/>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>todos</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="136"/>
@@ -9095,7 +9095,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="139"/>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>padrão</translation>
     </message>
 </context>
 <context>
@@ -9103,7 +9103,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SubjectHierarchyPlugins/SegmentStatisticsSubjectHierarchyPlugin.py" line="27"/>
         <source>Calculate statistics...</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcular estatísticas...</translation>
     </message>
 </context>
 <context>
@@ -9234,7 +9234,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
         <source>inputVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de entrada</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
