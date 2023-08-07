@@ -9090,7 +9090,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="136"/>
         <source>none</source>
-        <translation type="unfinished">nenhum</translation>
+        <translation>nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="139"/>
@@ -9249,7 +9249,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
         <source>imageThreshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiar da imagem</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -9269,7 +9269,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
         <source>thresholdedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume limiarizado</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
@@ -9284,7 +9284,7 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
         <source>invertedVolume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume invertido</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
@@ -9804,17 +9804,17 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="69"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="73"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacidade</translation>
+        <translation>Opacidade</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
