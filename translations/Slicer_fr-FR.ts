@@ -1429,7 +1429,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished">Image déformée résultante</translation>
+        <translation>Résultat de l&apos;image déformée</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
@@ -6291,7 +6291,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished">Selectionner en quel ordre les transforms son lu</translation>
+        <translation>La transformation suivant la transformation BSpline n&apos;est pas définie comme une transformation globale pour la transformation BSpline.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
