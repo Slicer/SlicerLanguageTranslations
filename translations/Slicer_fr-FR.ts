@@ -7378,32 +7378,32 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres d&apos;entrée/sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volume d&apos;entrée</translation>
+        <translation>Volume d&apos;entrée</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volume d&apos;entrée à filtrer</translation>
+        <translation>Volume d&apos;entrée à filtrer</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Sortie filtrée</translation>
+        <translation>Sortie filtrée</translation>
     </message>
 </context>
 <context>
@@ -7411,77 +7411,77 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Soustraction des volumes scalaires</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soustraction de deux images. Bien que tous les types d&apos;images soient pris en charge en entrée, seuls les types signés sont produits. Les deux images ne doivent pas nécessairement avoir les mêmes dimensions.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Ce travail est mené dans le cadre de la National Alliance for Medical Image Computing (NAMIC), financée par les National Institutes of Health par le biais du programme NIH Roadmap for Medical Research, subvention U54 EB005149.</translation>
+        <translation>Ce travail fait partie de la National Alliance for Medical Image Computing (NAMIC), financée par les National Institutes of Health par le biais de la feuille de route des NIH pour la recherche médicale, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres d &apos; entrée/sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Volume d&apos;entée 1</translation>
+        <translation>Volume d&apos;entée 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Volume d&apos;entrée 2</translation>
+        <translation>Volume d&apos;entrée 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volume d&apos;entrée 1</translation>
+        <translation>Volume d&apos;entrée 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Volume d&apos;entrée 2</translation>
+        <translation>Volume d&apos;entrée 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume1 - Volume2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">Contrôles</translation>
+        <translation>Contrôles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Contrôler le fonctionnement du module</translation>
+        <translation>Contrôler le fonctionnement du module</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Ordre d&apos;interpolation</translation>
+        <translation>Ordre d&apos;interpolation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Ordre d&apos;interpolation si deux images sont dans des cadres de coordonnées différents ou ont un échantillonnage différent.</translation>
+        <translation>Ordre d&apos;interpolation si deux images sont dans des cadres de coordonnées différents ou ont un échantillonnage différent.</translation>
     </message>
 </context>
 <context>
@@ -7489,128 +7489,128 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume scalaire de seuil</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Seuil d&apos;une image.&lt;/p&gt;&lt;p&gt;Définissez les valeurs d&apos;image sur une valeur extérieure spécifiée par l&apos;utilisateur si elles sont inférieures, supérieures ou comprises entre des valeurs de seuil simples.&lt;/p&gt;&lt;p&gt;Seuil supérieur&#xa0;: les valeurs supérieures à ou égale à la valeur de seuil sont définies sur OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow&#xa0;: les valeurs inférieures ou égales à la valeur de seuil sont définies sur OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside&#xa0;: les valeurs en dehors de la plage inférieure -Upper sont définis sur OutsideValue.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Ce travail est mené dans le cadre de la National Alliance for Medical Image Computing (NAMIC), financée par les National Institutes of Health par le biais du programme NIH Roadmap for Medical Research, subvention U54 EB005149.</translation>
+        <translation>Ce travail fait partie de la National Alliance for Medical Image Computing (NAMIC), financée par les National Institutes of Health par le biais de la feuille de route des NIH pour la recherche médicale, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished">IO</translation>
+        <translation>E/S</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres d &apos; entrée/sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volume d&apos;entrée</translation>
+        <translation>Volume d&apos;entrée</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
         <source>Input volume</source>
-        <translation type="unfinished">Volume d&apos;entrée</translation>
+        <translation>Volume d&apos;entrée</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume d &apos; entrée seuil</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished">Paramètres de filtre</translation>
+        <translation>Paramètres de filtre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
         <source>Threshold Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de seuil</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
         <source>Threshold Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur seuil</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Basse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation>Supérieur</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
         <source>Outside Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur extérieure</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
         <source>Negate Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuil de négation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quel type de seuil effectuer. Si l&apos;extérieur est sélectionné, utilise les valeurs supérieures et inférieures. Si Au-dessous est sélectionné, utilise le ThresholdValue, si Au-dessus est sélectionné, utilise le ThresholdValue.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
         <source>Threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur seuil</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
         <source>Lower threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur seuil inférieure</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
         <source>Upper threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur limite supérieure</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished"></translation>
+        <translation>Définissez les voxels sur cette valeur s&apos;ils se situent en dehors de la plage de seuil</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
         <source>Swap the outside value with the inside value.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échangez la valeur extérieure avec la valeur intérieure.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Extérieur</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation>Ci-dessous</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"/>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation>Au-dessus de</translation>
     </message>
 </context>
 <context>
