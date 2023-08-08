@@ -7328,27 +7328,27 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
         <source>Number of iterations</source>
-        <translation type="unfinished">Nombre d&apos;itérations</translation>
+        <translation>Nombre d&apos;itérations</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
         <source>Multiplier</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicateur</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon de voisinage</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
         <source>Output Label Value</source>
-        <translation type="unfinished">Valeur de l&apos;étiquette de sortie</translation>
+        <translation>Valeur de l&apos;étiquette de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished">Graines</translation>
+        <translation>Graines</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
