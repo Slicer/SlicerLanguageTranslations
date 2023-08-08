@@ -6291,7 +6291,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation>La transformation suivant la transformation BSpline n&apos;est pas définie comme une transformation globale pour la transformation BSpline.</translation>
+        <translation>Le transform suivi du transform BSpline  n&apos;est pas fixer comme un transfomr bulk pour le transfomr BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
