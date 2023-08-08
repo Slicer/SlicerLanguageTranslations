@@ -1611,7 +1611,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation>Nombre de threads</translation>
+        <translation>Nombre de fils</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
@@ -6291,12 +6291,12 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation>Le transform suivi du transform BSpline  n&apos;est pas fixer comme un transfomr bulk pour le transfomr BSpline</translation>
+        <translation>Le transform suivi du transform BSpline n&apos;est pas fixer comme un transfomr bulk pour le transfomr BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;orientation de l&apos;espace entre la transformation et l&apos;image est différente (RAS/LPS) (Avertissement : ne sélectionnez pas si la transformation est un nœud de transformation dans la Coupe 3)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6337,22 +6337,22 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Centre de rotation (seulement pour les transfoms rigid et affine)</translation>
+        <translation>Centre de rotation (seulement pour les transformations rigides et affines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le centre de la transformation au centre de l&apos;image d&apos;entrée (seulement pour les transformations rigides et affines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>Image à utiliser pour centrer la transformation (utilisé seulement si &quot;Transformation centrée&quot; est sélectionné)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverser la transformation avant de l&apos;appliquer de l&apos;image de sortie à l&apos;image d&apos;entrée (uniquement pour les transformations rigides et affines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
@@ -6363,22 +6363,22 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de sortie manuels</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de l&apos;image de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
@@ -6388,7 +6388,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
         <source>Origin</source>
-        <translation type="unfinished">Origine</translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
@@ -6428,7 +6428,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">Nombre de fils</translation>
+        <translation>Nombre de fils</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
@@ -6453,12 +6453,12 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres utilisés pour l&apos;interpolation Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonction de fenêtre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
@@ -6474,53 +6474,58 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fonction de fenêtre
+h = Hamming
+c = Cosine
+w = Welch
+l = Lanczos
+b = Blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"/>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>h</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"/>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation>w</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"/>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation>l</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>b</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de la fonction d&apos;interpolation BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres utilisés pour l&apos;interpolation BSpline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre des splines</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre des splines (L&apos;ordre de ligne peut être de 0 à 5)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
@@ -6535,30 +6540,32 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Type de transformation</translation>
+        <translation>Type de transformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 paramètres de la matrice de transformation par rangées ( --dernière 3 étant la traduction- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Algorithme de transformation
+rt = Transformation Rigide
+a = Transformée affine</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"/>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation>rt</translation>
     </message>
 </context>
 <context>
@@ -6566,7 +6573,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Rééchantillonner le volume scalaire/vecteur/DWI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
@@ -6580,7 +6587,11 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ce module implémente le rééchantillonnage d&apos;images et d&apos;images vectorielles grâce à l&apos;utilisation d&apos;itk Transforms. Il peut également de gérer le rééchantillonnage d&apos;images IRM pondérées en diffusion. Le &quot;rééchantillonnage&quot; est effectué en coordonnées spatiales, et non en coordonnées pixel/grille. Il est très important de s&apos;assurer que l&apos;espacement des images est correctement défini sur les images concernées. L&apos;interpolateur est nécessaire car le mappage d&apos;un espace à l&apos;autre nécessitera souvent une évaluation de l&apos;intensité de l&apos;image à des positions hors grille.
+
+Avertissement&#xa0;: Pour rééchantillonner les images DWMR, utilisez les fichiers d&apos;entrée et de sortie nrrd.
+
+Avertissement&#xa0;: Ne pas utiliser pour rééchantillonner les images de tenseur de diffusion, les tenseurs ne seraient pas réorientés</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
@@ -6650,7 +6661,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="19"/>
         <source>Displacement or H-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacement ou H-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
@@ -6660,13 +6671,13 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
         <source>Set if the deformation field is an h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir si le champ de déformation est un h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="22"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="24"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>h-Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="23"/>
@@ -6697,12 +6708,12 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="30"/>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>nn</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="31"/>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation>ws</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="32"/>
@@ -6849,22 +6860,22 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="62"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement le long de chaque dimension (0 signifie utiliser l&apos;espacement d&apos;entrée)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="63"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille le long de chaque dimension (0 signifie utiliser la taille d&apos;entrée)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="64"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Origine de l&apos;image de sortie</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 paramètres de la matrice de direction par lignes (ijk à LPS si transformée LPS, ijk à RAS si transformée RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"/>
@@ -6874,7 +6885,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="67"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres utilisés pour le rééchantillonnage</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
