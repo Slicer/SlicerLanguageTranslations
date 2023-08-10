@@ -4438,7 +4438,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
         <source>Combine two label maps into one</source>
-        <translation type="unfinished">Combinar dos mapas de etiquetas en uno</translation>
+        <translation>Combinar dos mapas de etiquetas en uno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="6"/>
@@ -4448,53 +4448,53 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="7"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="8"/>
         <source>Input Label Map A</source>
-        <translation type="unfinished">Mapa de etiquetas de entrada A</translation>
+        <translation>Mapa de etiquetas de entrada A</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="9"/>
         <source>Input Label Map B</source>
-        <translation type="unfinished">Entrada Etiqueta Mapa B</translation>
+        <translation>Entrada Etiqueta Mapa B</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="10"/>
         <source>Output Label Map</source>
-        <translation type="unfinished">Mapa de etiquetas de salida</translation>
+        <translation>Mapa de etiquetas de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="11"/>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="12"/>
         <source>Label map image</source>
-        <translation type="unfinished">Imagen del mapa de etiquetas</translation>
+        <translation>Imagen del mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="13"/>
         <source>Resulting Label map image</source>
-        <translation type="unfinished">Imagen resultante del mapa de etiquetas</translation>
+        <translation>Imagen resultante del mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="14"/>
         <source>Label combination options</source>
-        <translation type="unfinished">Opciones de combinación de etiquetas</translation>
+        <translation>Opciones de combinación de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="15"/>
         <source>Selection of how to combine label maps</source>
-        <translation type="unfinished">Selección de cómo combinar mapas de etiquetas</translation>
+        <translation>Selección de cómo combinar mapas de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="16"/>
         <source>First Label Overwrites Second</source>
-        <translation type="unfinished">La primera etiqueta sobrescribe la segunda</translation>
+        <translation>La primera etiqueta sobrescribe la segunda</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="17"/>
         <source>Use first or second label when both are present</source>
-        <translation type="unfinished">Utilizar la primera o la segunda etiqueta cuando ambas estén presentes</translation>
+        <translation>Utilizar la primera o la segunda etiqueta cuando ambas estén presentes</translation>
     </message>
 </context>
 <context>
@@ -4502,87 +4502,87 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="4"/>
         <source>Label Map Smoothing</source>
-        <translation type="unfinished">Suavizado de mapas de etiquetas</translation>
+        <translation>Suavizado de mapas de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="5"/>
         <source>This filter smoothes a binary label map.  With a label map as input, this filter runs an anti-alising algorithm followed by a Gaussian smoothing algorithm.  The output is a smoothed label map.</source>
-        <translation type="unfinished">Este filtro suaviza un mapa de etiquetas binario.  Con un mapa de etiquetas como entrada, este filtro ejecuta un algoritmo antialising seguido de un algoritmo de suavizado gaussiano.  El resultado es un mapa de etiquetas suavizado.</translation>
+        <translation>Este filtro suaviza un mapa de etiquetas binario.  Con un mapa de etiquetas como entrada, este filtro ejecuta un algoritmo de suavizado espacial seguido de un algoritmo de suavizado gaussiano.  El resultado es un mapa de etiquetas suavizado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.  This filter is based on work developed at the University of Utah, and implemented at GE Research.</source>
-        <translation type="unfinished">Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149.  Este filtro se basa en el trabajo desarrollado en la Universidad de Utah e implementado en GE Research.</translation>
+        <translation>Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (por sus siglas en inglés NAMIC), financiada por los Institutos Nacionales de Salud a través de la NIH Hoja de ruta para la Investigación Médica, Subvención U54 EB005149.  Este filtro se basa en el trabajo desarrollado en la Universidad de Utah e implementado en Investigación GE.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="7"/>
         <source>Label Selection Parameters</source>
-        <translation type="unfinished">Parámetros de selección de etiquetas</translation>
+        <translation>Parámetros de selección de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="8"/>
         <source>Parameters for selecting the label to smooth</source>
-        <translation type="unfinished">Parámetros para seleccionar la etiqueta a alisar</translation>
+        <translation>Parámetros para seleccionar la etiqueta a alisar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="9"/>
         <source>Label to smooth</source>
-        <translation type="unfinished">Etiqueta para suavisar</translation>
+        <translation>Etiqueta para suavisar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="10"/>
         <source>The label to smooth.  All others will be ignored.  If no label is selected by the user, the maximum label in the image is chosen by default.</source>
-        <translation type="unfinished">La etiqueta para suavisar.  Todas las demás serán ignoradas.  Si el usuario no selecciona ninguna etiqueta, se elegirá por defecto la etiqueta máxima de la imagen.</translation>
+        <translation>La etiqueta para suavisar.  Todas las demás serán ignoradas.  Si el usuario no selecciona ninguna etiqueta, se elegirá por defecto la etiqueta máxima de la imagen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="11"/>
         <source>AntiAliasing Parameters</source>
-        <translation type="unfinished">Parámetros AntiAliasing</translation>
+        <translation>Parámetros Antidistorsión</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="12"/>
         <source>Parameters for the AntiAliasing algorithm</source>
-        <translation type="unfinished">Parámetros del algoritmo AntiAliasing</translation>
+        <translation>Parámetros del algoritmo Antidistorsión</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="13"/>
         <source>Number of Iterations</source>
-        <translation type="unfinished">Número de iteraciones</translation>
+        <translation>Número de iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="14"/>
         <source>Maximum RMS Error</source>
-        <translation type="unfinished">Error RMS máximo</translation>
+        <translation>Error máximo RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="15"/>
         <source>The number of iterations of the level set AntiAliasing algorithm</source>
-        <translation type="unfinished">El número de iteraciones del algoritmo AntiAliasing de conjunto de niveles.</translation>
+        <translation>El número de iteraciones del algoritmo Antidistorción de conjunto de niveles.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="16"/>
         <source>The maximum RMS error.</source>
-        <translation type="unfinished">El error RMS máximo.</translation>
+        <translation>El error máximo RMS.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="17"/>
         <source>Gaussian Smoothing Parameters</source>
-        <translation type="unfinished">Parámetros de suavizado gaussiano</translation>
+        <translation>Parámetros de suavizado gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="18"/>
         <source>Parameters for Gaussian Smoothing</source>
-        <translation type="unfinished">Parámetros para el suavizado gaussiano</translation>
+        <translation>Parámetros para el suavizado gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="19"/>
         <source>Sigma</source>
-        <translation type="unfinished">Sigma</translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="20"/>
         <source>The standard deviation of the Gaussian kernel</source>
-        <translation type="unfinished">La desviación típica del núcleo gaussiano</translation>
+        <translation>La desviación típica del núcleo gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="21"/>
@@ -4592,27 +4592,27 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="22"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="23"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="24"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="25"/>
         <source>Input label map to smooth</source>
-        <translation type="unfinished">Mapa de etiquetas de entrada para suavizar</translation>
+        <translation>Mapa de etiquetas de entrada para suavizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/LabelMapSmoothing/LabelMapSmoothing_tr.h" line="26"/>
         <source>Smoothed label map</source>
-        <translation type="unfinished">Mapa de etiquetas suavizado</translation>
+        <translation>Mapa de etiquetas suavizado</translation>
     </message>
 </context>
 <context>
@@ -4620,12 +4620,12 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="5"/>
         <source>Mask Scalar Volume</source>
-        <translation type="unfinished">Máscara Volumen escalar</translation>
+        <translation>Máscara Volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="6"/>
         <source>Masks two images. The output image is set to 0 everywhere except where the chosen label from the mask volume is present, at which point it will retain it&apos;s original values. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">Enmascara dos imágenes. La imagen de salida se pone a 0 en todas partes excepto donde esté presente la etiqueta elegida del volumen de la máscara, en cuyo caso conservará sus valores originales. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
+        <translation>Enmascara dos imágenes. La imagen de salida se pone a 0 en todas partes excepto donde esté presente la etiqueta elegida del volumen de la máscara, en cuyo caso conservará sus valores originales. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="7"/>
@@ -4635,72 +4635,72 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="8"/>
         <source>Input and Output</source>
-        <translation type="unfinished">Entrada y salida</translation>
+        <translation>Entrada y salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="11"/>
         <source>Mask Volume</source>
-        <translation type="unfinished">Volumen de la máscara</translation>
+        <translation>Volumen de la máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="12"/>
         <source>Masked Volume</source>
-        <translation type="unfinished">Volumen enmascarado</translation>
+        <translation>Volumen enmascarado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="13"/>
         <source>Input volume to be masked</source>
-        <translation type="unfinished">Volumen de entrada a enmascarar</translation>
+        <translation>Volumen de entrada a enmascarar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="14"/>
         <source>Label volume containing the mask</source>
-        <translation type="unfinished">Etiqueta del volumen que contiene la máscara</translation>
+        <translation>Etiqueta del volumen que contiene la máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="15"/>
         <source>Output volume: Input Volume masked by label value from Mask Volume</source>
-        <translation type="unfinished">Volumen de salida: Volumen de entrada enmascarado por el valor de la etiqueta del Volumen de máscara.</translation>
+        <translation>Volumen de salida: Volumen de entrada enmascarado por el valor de la etiqueta del Volumen de máscara.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="16"/>
         <source>Settings</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="17"/>
         <source>Filter settings</source>
-        <translation type="unfinished">Ajustes del filtro</translation>
+        <translation>Ajustes del filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="18"/>
         <source>Label value</source>
-        <translation type="unfinished">Valor de la etiqueta</translation>
+        <translation>Valor de la etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="19"/>
         <source>Replace value</source>
-        <translation type="unfinished">Sustituir valor</translation>
+        <translation>Sustituir valor</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="20"/>
         <source>Label value in the Mask Volume to use as the mask</source>
-        <translation type="unfinished">Valor de la etiqueta en el Volumen Máscara que se utilizará como máscara</translation>
+        <translation>Valor de la etiqueta en el Volumen Máscara que se utilizará como máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MaskScalarVolume/MaskScalarVolume_tr.h" line="21"/>
         <source>Value to use for the output volume outside of the mask</source>
-        <translation type="unfinished">Valor a utilizar para el volumen de salida fuera de la máscara</translation>
+        <translation>Valor a utilizar para el volumen de salida fuera de la máscara</translation>
     </message>
 </context>
 <context>
@@ -4708,37 +4708,37 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="5"/>
         <source>Median Image Filter</source>
-        <translation type="unfinished">Filtro de imagen mediana</translation>
+        <translation>Filtro de imagen mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="6"/>
         <source>The MedianImageFilter is commonly used as a robust approach for noise reduction. This filter is particularly efficient against &quot;salt-and-pepper&quot; noise. In other words, it is robust to the presence of gray-level outliers. MedianImageFilter computes the value of each output pixel as the statistical median of the neighborhood of values around the corresponding input pixel.</source>
-        <translation type="unfinished">El filtro MedianImageFilter se utiliza habitualmente para reducir el ruido. Este filtro es especialmente eficaz contra el ruido &quot;sal y pimienta&quot;. En otras palabras, es resistente a la presencia de valores atípicos de nivel de gris. MedianImageFilter calcula el valor de cada píxel de salida como la mediana estadística de la vecindad de valores alrededor del píxel de entrada correspondiente.</translation>
+        <translation>El filtro: FiltroDeImagenMediana, se utiliza habitualmente para reducir el ruido. Este filtro es especialmente eficaz contra el ruido &quot;sal y pimienta&quot;. En otras palabras, es resistente a la presencia de valores atípicos de nivel de gris. El FiltroDeImagenMediana calcula el valor de cada píxel de salida como la mediana estadística de la vecindad de valores alrededor del píxel de entrada correspondiente.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos procede de Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium</translation>
+        <translation>Este módulo de comandos procede de Insight/Ejemplos/Filtrado/FiltroDeImagenMedia ( derechos de autor) del Consorcio de Software Insight</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="8"/>
         <source>Median Filter Parameters</source>
-        <translation type="unfinished">Parámetros del filtro de mediana</translation>
+        <translation>Parámetros del filtro de mediana</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="9"/>
         <source>Parameters for the median filter</source>
-        <translation type="unfinished">Parámetros del filtro mediano</translation>
+        <translation>Parámetros del filtro mediano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="10"/>
         <source>Neighborhood Size</source>
-        <translation type="unfinished">Tamaño del vecindario</translation>
+        <translation>Tamaño del entorno</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="11"/>
         <source>The size of the neighborhood in each dimension</source>
-        <translation type="unfinished">El tamaño de la vecindad en cada dimensión</translation>
+        <translation>El tamaño del entorno en cada dimensión</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="12"/>
@@ -4748,27 +4748,27 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="13"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="14"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="16"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MedianImageFilter/MedianImageFilter_tr.h" line="17"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Salida filtrada</translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4776,7 +4776,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="4"/>
         <source>Merge Models</source>
-        <translation type="unfinished">Fusionar modelos</translation>
+        <translation>Fusionar modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="5"/>
@@ -4796,37 +4796,37 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="8"/>
         <source>Input/output</source>
-        <translation type="unfinished">Entrada/salida</translation>
+        <translation>Entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="9"/>
         <source>Model 1</source>
-        <translation type="unfinished">Modelo 1</translation>
+        <translation>Modelo 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="10"/>
         <source>Model 2</source>
-        <translation type="unfinished">Modelo 2</translation>
+        <translation>Modelo 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="11"/>
         <source>Output Model</source>
-        <translation type="unfinished">Modelo de salida</translation>
+        <translation>Modelo de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="12"/>
         <source>Input model 1</source>
-        <translation type="unfinished">Modelo de entrada 1</translation>
+        <translation>Modelo de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="13"/>
         <source>Input model 2</source>
-        <translation type="unfinished">Modelo de entrada 2</translation>
+        <translation>Modelo de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MergeModels/MergeModels_tr.h" line="14"/>
         <source>Output model</source>
-        <translation type="unfinished">Modelo de salida</translation>
+        <translation>Modelo de salida</translation>
     </message>
 </context>
 <context>
@@ -4834,7 +4834,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="4"/>
         <source>Model Maker</source>
-        <translation type="unfinished">Creador de modelos</translation>
+        <translation>Creador de modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="5"/>
@@ -4854,12 +4854,12 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="10"/>
@@ -4869,12 +4869,12 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="11"/>
         <source>Input label map. The Input Volume drop down menu is populated with the label map volumes that are present in the scene, select one from which to generate models.</source>
-        <translation type="unfinished">Mapa de etiquetas de entrada. El menú desplegable Volumen de entrada se rellena con los volúmenes del mapa de etiquetas que están presentes en la escena, seleccione uno a partir del cual generar los modelos.</translation>
+        <translation>Mapa de etiquetas de entrada. El menú desplegable Volumen de entrada se rellena con los volúmenes del mapa de etiquetas que están presentes en la escena, seleccione uno a partir del cual generar los modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="12"/>
         <source>Color table to make labels to colors and objects</source>
-        <translation type="unfinished">Tabla de colores para etiquetar colores y objetos</translation>
+        <translation>Tabla de colores para etiquetar colores y objetos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="13"/>
@@ -4884,17 +4884,17 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="14"/>
         <source>Create Multiple</source>
-        <translation type="unfinished">Crear varios</translation>
+        <translation>Crear varios</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="15"/>
         <source>Create more than one model at the same time, used for continuous ranges of labels.</source>
-        <translation type="unfinished">Crea más de un modelo al mismo tiempo, se utiliza para rangos continuos de etiquetas.</translation>
+        <translation>Crea más de un modelo al mismo tiempo, se utiliza para rangos continuos de etiquetas.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished">Nombre del modelo</translation>
+        <translation>Nombre del modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="17"/>
@@ -4914,7 +4914,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="20"/>
         <source>Model Maker Parameters</source>
-        <translation type="unfinished">Parámetros del Creador de modelos</translation>
+        <translation>Parámetros del Creador de modelos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="21"/>
@@ -4924,27 +4924,27 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="22"/>
         <source>Labels</source>
-        <translation type="unfinished">Etiquetas</translation>
+        <translation>Etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="23"/>
         <source>Start Label</source>
-        <translation type="unfinished">Etiqueta de inicio</translation>
+        <translation>Etiqueta de inicio</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="24"/>
         <source>End Label</source>
-        <translation type="unfinished">Etiqueta final</translation>
+        <translation>Etiqueta final</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="25"/>
         <source>Skip Un-Named Labels</source>
-        <translation type="unfinished">Saltar etiquetas sin nombre</translation>
+        <translation>Saltar etiquetas sin nombre</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="26"/>
         <source>Joint Smoothing</source>
-        <translation type="unfinished">Suavizado de juntas</translation>
+        <translation>Suavizado de corte</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
