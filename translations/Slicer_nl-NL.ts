@@ -6,17 +6,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg Scalaire Volumes toe</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voegt twee afbeeldingen toe. Ondanks dat alle soorten afbeeldingen zijn gebaseerd op invoer, zijn alleen ondertekende soorten geproduceerd. De twee afbeeldingen hebben niet dezelfde dimensies.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Dit werk maakt deel uit van de National Alliance for Medical Image Computing (NAMIC), gefinancierd door de National Institutes of Health via de NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
+        <translation type="unfinished">Dit werk maakt deel uit van de Nationale Alliantie voor Medische afbeeldingen Computers(NAMAC), gefinancierd door de Nationale institutie van Gezondheid via het NIG stappenplan voor medisch onderzoek, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
