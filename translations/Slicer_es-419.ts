@@ -2198,7 +2198,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="31"/>
         <source>Int</source>
-        <translation type="unfinished">Int</translation>
+        <translation>Entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="32"/>
@@ -3623,32 +3623,32 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="117"/>
         <source>An example of a boolean return type</source>
-        <translation type="unfinished">Ejemplo de tipo de retorno booleano</translation>
+        <translation>Ejemplo de tipo de retorno booleano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation type="unfinished">Ejemplo de un tipo de retorno float</translation>
+        <translation>Ejemplo de un tipo de retorno flotante</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
         <source>An example of a double return type</source>
-        <translation type="unfinished">Ejemplo de un tipo de retorno doble</translation>
+        <translation>Ejemplo de un tipo de retorno doble</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="120"/>
         <source>An example of a string return type</source>
-        <translation type="unfinished">Ejemplo de tipo de retorno cadena</translation>
+        <translation>Ejemplo de tipo de retorno cadena</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="121"/>
         <source>An example of an integer vector return type</source>
-        <translation type="unfinished">Ejemplo de tipo de retorno de vector entero</translation>
+        <translation>Ejemplo de tipo de retorno de vector entero</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="122"/>
         <source>An enumeration of strings as a return type</source>
-        <translation type="unfinished">Una enumeración de cadenas como tipo de retorno</translation>
+        <translation>Una enumeración de cadenas como tipo de retorno</translation>
     </message>
 </context>
 <context>
@@ -3656,7 +3656,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="4"/>
         <source>Extract Skeleton</source>
-        <translation type="unfinished">Extraer esqueleto</translation>
+        <translation>Extraer esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="5"/>
@@ -3666,7 +3666,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="6"/>
         <source>The original implementation of this method was provided by ETH Zurich, Image Analysis Laboratory of Profs Olaf Kuebler, Gabor Szekely and Guido Gerig.  Martin Styner at UNC, Chapel Hill made enhancements.  Wrapping for Slicer was provided by Pierre Seroul and Stephen Aylward at Kitware, Inc.</source>
-        <translation type="unfinished">La aplicación original de este método fue proporcionada por ETH Zurich, Laboratorio de Análisis de Imágenes de los profesores Olaf Kuebler, Gabor Szekely y Guido Gerig.  Martin Styner, de la UNC, Chapel Hill, introdujo mejoras.  El envoltorio para Slicer fue proporcionado por Pierre Seroul y Stephen Aylward de Kitware, Inc.</translation>
+        <translation>La aplicación original de este método fue proporcionada por ETH Zurich, Laboratorio de Análisis de Imágenes de los profesores Olaf Kuebler, Gabor Szekely y Guido Gerig.  Martin Styner, de la UNC, Chapel Hill, introdujo mejoras.  El envoltorio para Slicer fue proporcionado por Pierre Seroul y Stephen Aylward de Kitware, Inc.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="7"/>
@@ -3676,52 +3676,52 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished">Imagen de entrada</translation>
+        <translation>Imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="10"/>
         <source>Output Image</source>
-        <translation type="unfinished">Imagen de salida</translation>
+        <translation>Imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="11"/>
         <source>Input image</source>
-        <translation type="unfinished">Imagen de entrada</translation>
+        <translation>Imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="12"/>
         <source>Skeleton of the input image.</source>
-        <translation type="unfinished">Esqueleto de la imagen de entrada.</translation>
+        <translation>Esqueleto de la imagen de entrada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="13"/>
         <source>Skeleton</source>
-        <translation type="unfinished">Esqueleto</translation>
+        <translation>Esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="14"/>
         <source>Skeleton parameters</source>
-        <translation type="unfinished">Parámetros del esqueleto</translation>
+        <translation>Parámetros del esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="15"/>
         <source>Skeleton type</source>
-        <translation type="unfinished">Tipo de esqueleto</translation>
+        <translation>Tipo de esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="16"/>
         <source>Extract full tree</source>
-        <translation type="unfinished">Extraer el árbol completo</translation>
+        <translation>Extraer el árbol completo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="17"/>
         <source>Number Of Points</source>
-        <translation type="unfinished">Número de puntos</translation>
+        <translation>Número de puntos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="18"/>
@@ -3741,17 +3741,17 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="21"/>
         <source>Include the full tree in the output, not just the longest branch.</source>
-        <translation type="unfinished">Incluye el árbol completo en la salida, no sólo la rama más larga.</translation>
+        <translation>Incluye el árbol completo en la salida, no sólo la rama más larga.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="22"/>
         <source>Number of points used to represent the skeleton</source>
-        <translation type="unfinished">Número de puntos utilizados para representar el esqueleto</translation>
+        <translation>Número de puntos utilizados para representar el esqueleto</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="23"/>
         <source>Name of the file to store the coordinates of the central (1D) skeleton points</source>
-        <translation type="unfinished">Nombre del archivo para almacenar las coordenadas de los puntos centrales (1D) del esqueleto.</translation>
+        <translation>Nombre del archivo para almacenar las coordenadas de los puntos centrales (1D) del esqueleto.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExtractSkeleton/ExtractSkeleton_tr.h" line="24"/>
@@ -3775,12 +3775,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="5"/>
         <source>Fiducial Registration</source>
-        <translation type="unfinished">Registro Fiduciario</translation>
+        <translation>Registro Fiduciario</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="6"/>
         <source>Computes a rigid, similarity or affine transform from a matched list of fiducials</source>
-        <translation type="unfinished">Calcula una transformación rígida, de similitud o afín a partir de una lista emparejada de fiduciales.</translation>
+        <translation>Calcula una transformación rígida, de similitud o afín a partir de una lista emparejada de fiduciales.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
@@ -3795,57 +3795,57 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="10"/>
         <source>Fixed landmarks</source>
-        <translation type="unfinished">Hitos fijos</translation>
+        <translation>Puntos de referencia fijos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="11"/>
         <source>Moving landmarks</source>
-        <translation type="unfinished">Puntos de referencia móviles</translation>
+        <translation>Puntos de referencia móviles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="12"/>
         <source>Save transform</source>
-        <translation type="unfinished">Guardar transformación</translation>
+        <translation>Guardar transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="13"/>
         <source>Transform Type</source>
-        <translation type="unfinished">Tipo de transformación</translation>
+        <translation>Tipo de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="14"/>
         <source>RMS Error</source>
-        <translation type="unfinished">Error RMS</translation>
+        <translation>Error RMS</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="15"/>
         <source>Output Message</source>
-        <translation type="unfinished">Mensaje de salida</translation>
+        <translation>Mensaje de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="16"/>
         <source>Ordered list of landmarks in the fixed image</source>
-        <translation type="unfinished">Lista ordenada de puntos de referencia en la imagen fija</translation>
+        <translation>Lista ordenada de puntos de referencia en la imagen fija</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="17"/>
         <source>Ordered list of landmarks in the moving image</source>
-        <translation type="unfinished">Lista ordenada de hitos de la imagen en movimiento</translation>
+        <translation>Lista ordenada de puntos de referencia de la imagen en movimiento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="18"/>
         <source>Save the transform that results from registration</source>
-        <translation type="unfinished">Guardar la transformación resultante del registro</translation>
+        <translation>Guardar la transformación resultante del registro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="19"/>
         <source>Type of transform to produce</source>
-        <translation type="unfinished">Tipo de transformación a producir</translation>
+        <translation>Tipo de transformación a producir</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="20"/>
@@ -3855,13 +3855,13 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="21"/>
         <source>Provides more information on the output</source>
-        <translation type="unfinished">Proporciona más información sobre la salida</translation>
+        <translation>Proporciona más información sobre la salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="22"/>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="24"/>
         <source>Rigid</source>
-        <translation type="unfinished">Rígido</translation>
+        <translation>Rígido</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="23"/>
@@ -3871,7 +3871,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="25"/>
         <source>Similarity</source>
-        <translation type="unfinished">Similitud</translation>
+        <translation>Similitud</translation>
     </message>
 </context>
 <context>
@@ -3879,12 +3879,12 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="5"/>
         <source>Gaussian Blur Image Filter</source>
-        <translation type="unfinished">Filtro de imagen de desenfoque gaussiano</translation>
+        <translation>Filtro de imagen de desenfoque gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="6"/>
         <source>Apply a gaussian blur to an image</source>
-        <translation type="unfinished">Aplicar un desenfoque gaussiano a una imagen</translation>
+        <translation>Aplicar un desenfoque gaussiano a una imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
@@ -3899,27 +3899,27 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="10"/>
         <source>Sigma</source>
-        <translation type="unfinished">Sigma</translation>
+        <translation>Sigma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="11"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="13"/>
         <source>Sigma value in physical units (e.g., mm) of the Gaussian kernel</source>
-        <translation type="unfinished">Valor sigma en unidades físicas (por ejemplo, mm) del núcleo gaussiano</translation>
+        <translation>Valor sigma en unidades físicas (por ejemplo, mm) del núcleo gaussiano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="14"/>
@@ -3929,7 +3929,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="15"/>
         <source>Blurred Volume</source>
-        <translation type="unfinished">Volumen borroso</translation>
+        <translation>Volumen borroso</translation>
     </message>
 </context>
 <context>
@@ -3937,61 +3937,61 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="5"/>
         <source>Gradient Anisotropic Diffusion</source>
-        <translation type="unfinished">Difusión anisótropa de gradiente</translation>
+        <translation>Difusión anisótropa de gradiente</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="6"/>
         <source>Runs gradient anisotropic diffusion on a volume.
 
 Anisotropic diffusion methods reduce noise (or unwanted detail) in images while preserving specific image features, like edges.  For many applications, there is an assumption that light-dark transitions (edges) are interesting.  Standard isotropic diffusion methods move and blur light-dark boundaries.  Anisotropic diffusion methods are formulated to specifically preserve edges. The conductance term for this implementation is a function of the gradient magnitude of the image at each point, reducing the strength of diffusion at edges. The numerical implementation of this equation is similar to that described in the Perona-Malik paper, but uses a more robust technique for gradient magnitude estimation and has been generalized to N-dimensions.</source>
-        <translation type="unfinished">Ejecuta la difusión anisotrópica de gradiente en un volumen.
+        <translation>Ejecuta la difusión anisotrópica de gradiente en un volumen.
 
 Los métodos de difusión anisotrópica reducen el ruido (o los detalles no deseados) en las imágenes al tiempo que preservan características específicas de la imagen, como los bordes.  Para muchas aplicaciones, se supone que las transiciones claro-oscuro (bordes) son interesantes.  Los métodos estándar de difusión isotrópica desplazan y difuminan los límites claro-oscuro.  Los métodos de difusión anisotrópica están formulados para preservar específicamente los bordes. El término de conductancia para esta implementación es una función de la magnitud del gradiente de la imagen en cada punto, reduciendo la fuerza de la difusión en los bordes. La implementación numérica de esta ecuación es similar a la descrita en el artículo de Perona-Malik, pero utiliza una técnica más robusta para la estimación de la magnitud del gradiente y se ha generalizado a N-dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos procede de Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation type="unfinished">Este módulo de comandos proviene de Insight/Ejemplos ( derechos de autor) Consorcio Insight Software</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
         <source>Anisotropic Diffusion Parameters</source>
-        <translation type="unfinished">Parámetros de difusión anisotrópica</translation>
+        <translation>Parámetros de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="9"/>
         <source>Parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished">Parámetros del algoritmo de difusión anisotrópica</translation>
+        <translation>Parámetros del algoritmo de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="10"/>
         <source>Conductance</source>
-        <translation type="unfinished">Conductancia</translation>
+        <translation>Conductancia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="11"/>
         <source>Iterations</source>
-        <translation type="unfinished">Iteraciones</translation>
+        <translation>Iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="12"/>
         <source>Time Step</source>
-        <translation type="unfinished">Paso del tiempo</translation>
+        <translation>Paso del tiempo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="13"/>
         <source>Conductance controls the sensitivity of the conductance term. As a general rule, the lower the value, the more strongly the filter preserves edges. A high value will cause diffusion (smoothing) across edges. Note that the number of iterations controls how much smoothing is done within regions bounded by edges.</source>
-        <translation type="unfinished">Conductancia controla la sensibilidad del término de conductancia. Por regla general, cuanto menor sea el valor, más intensamente preservará el filtro los bordes. Un valor alto causará difusión (suavizado) a través de los bordes. Tenga en cuenta que el número de iteraciones controla la cantidad de suavizado que se realiza dentro de las regiones delimitadas por los bordes.</translation>
+        <translation>Conductancia, controla la sensibilidad del término de conductancia. Por regla general, cuanto menor sea el valor, más intensamente preservará el filtro los bordes. Un valor alto causará difusión (suavizado) a través de los bordes. Tenga en cuenta que el número de iteraciones controla la cantidad de suavizado que se realiza dentro de las regiones delimitadas por los bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="14"/>
         <source>The more iterations, the more smoothing. Each iteration takes the same amount of time. If it takes 10 seconds for one iteration, then it will take 100 seconds for 10 iterations. Note that the conductance controls how much each iteration smooths across edges.</source>
-        <translation type="unfinished">Cuantas más iteraciones, más suavizado. Cada iteración lleva el mismo tiempo. Si se tardan 10 segundos en una iteración, se tardarán 100 segundos en 10 iteraciones. Tenga en cuenta que la conductancia controla cuánto suaviza cada iteración los bordes.</translation>
+        <translation>Cuantas más iteraciones, más suavizado. Cada iteración lleva el mismo tiempo. Si se tardan 10 segundos en una iteración, se tardarán 100 segundos en 10 iteraciones. Tenga en cuenta que la conductancia controla cuánto suaviza cada iteración los bordes.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="15"/>
         <source>The time step depends on the dimensionality of the image. In Slicer the images are 3D and the default (.0625) time step will provide a stable solution.</source>
-        <translation type="unfinished">El paso de tiempo depende de la dimensionalidad de la imagen. En Slicer las imágenes son 3D y el paso de tiempo por defecto (.0625) proporcionará una solución estable.</translation>
+        <translation>El paso de tiempo depende de la dimensionalidad de la imagen. En Slicer las imágenes son 3D y el paso de tiempo por defecto (.0625) proporcionará una solución estable.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="16"/>
@@ -4001,27 +4001,27 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="17"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="18"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="21"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Salida filtrada</translation>
+        <translation>Salida filtrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="22"/>
@@ -4031,12 +4031,12 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="23"/>
         <source>Advanced parameters for the anisotropic diffusion algorithm</source>
-        <translation type="unfinished">Parámetros avanzados del algoritmo de difusión anisotrópica</translation>
+        <translation>Parámetros avanzados del algoritmo de difusión anisotrópica</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="24"/>
         <source>Use image spacing</source>
-        <translation type="unfinished">Utilizar el espaciado entre imágenes</translation>
+        <translation>Utilizar el espaciado entre imágenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="25"/>
@@ -4049,7 +4049,7 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="5"/>
         <source>Grayscale Fill Hole Image Filter</source>
-        <translation type="unfinished">Filtro de imagen de relleno en escala de grises</translation>
+        <translation>Filtro de imagen de relleno en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="6"/>
@@ -4071,15 +4071,15 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished">GrayscaleFillholeImageFilter rellena agujeros en una imagen en escala de grises.  Los agujeros son mínimos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un agujero se extrapolan a través del agujero.
+        <translation type="unfinished">FiltroDeImagenDeRellenoDeEscalaDeGrises  rellena agujeros en una imagen en escala de grises.  Los agujeros son mínimos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un agujero se extrapolan a través del agujero.
 
 Este filtro se utiliza para suavizar los mínimos locales sin afectar a los valores de los máximos locales.  Si toma la diferencia entre la salida de este filtro y la imagen original (y tal vez umbralice la diferencia por encima de un valor pequeño), obtendrá un mapa de los mínimos locales.
 
-Este filtro utiliza el itkGrayscaleGeodesicErodeImageFilter.  Proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica.  La imagen &quot;marcadora&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor máximo de píxel en la imagen de entrada.
+Este filtro utiliza el FiltroDeImagenitkEscalaDeGrisesGeodésicaErode.  Proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica.  La imagen &quot;marcadora&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor máximo de píxel en la imagen de entrada.
 
- La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, segunda edición, Springer, 2003.
+ La morfología geodésica y el algoritmo Rellenos e describen en el capítulo 6 del libro de Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, segunda edición, Springer, 2003.
 
- Un filtro complementario, Grayscale Grind Peak, elimina los picos en las imágenes en escala de grises.</translation>
+ Un filtro complementario, Escala de grises Grind Peak, elimina los picos en las imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
@@ -4094,27 +4094,27 @@ Este filtro utiliza el itkGrayscaleGeodesicErodeImageFilter.  Proporciona su pro
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Salida filtrada</translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4122,7 +4122,7 @@ Este filtro utiliza el itkGrayscaleGeodesicErodeImageFilter.  Proporciona su pro
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="5"/>
         <source>Grayscale Grind Peak Image Filter</source>
-        <translation type="unfinished">Filtro de imagen de pico de molienda en escala de grises</translation>
+        <translation>Filtro de imagen de Grind Peak en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="6"/>
@@ -4137,17 +4137,17 @@ This filter is the dual to the GrayscaleFillholeImageFilter which implements the
 Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</source>
-        <translation type="unfinished">GrayscaleGrindPeakImageFilter elimina los picos de una imagen en escala de grises. Los picos son máximos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un pico se extrapolan a través del pico.
+        <translation>FiltroDeImagenEscalaDeGrisesGrindPeak elimina los picos de una imagen en escala de grises. Los picos son máximos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un pico se extrapolan a través del pico.
 
 Este filtro se utiliza para suavizar los máximos locales sin afectar a los valores de los mínimos locales.  Si toma la diferencia entre la salida de este filtro y la imagen original (y tal vez umbralice la diferencia por encima de un valor pequeño), obtendrá un mapa de los máximos locales.
 
-Este filtro utiliza el GrayscaleGeodesicDilateImageFilter.  Proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica.  La imagen &quot;marcadora&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor de píxel mínimo de la imagen de entrada.
+Este filtro utiliza el FiltroDeImagenEscalaDeGrisesGrindPeak .  Proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica.  La imagen &quot;marcadora&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor de píxel mínimo de la imagen de entrada.
 
-Este filtro es el dual del GrayscaleFillholeImageFilter que implementa el algoritmo Fillhole.  Dado que es un dual, es algo superfluo pero se proporciona por conveniencia.
+Este filtro es el dual del FiltroDeImagenDeRellenoDeEscalaDeGrises que implementa el algoritmo Relleno.  Dado que es un dual, es algo superfluo pero se proporciona por conveniencia.
 
 La morfología geodésica y el algoritmo Fillhole se describen en el capítulo 6 del libro de Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, segunda edición, Springer, 2003.
 
-Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en escala de grises.</translation>
+Un filtro complementario, Relleno de Escala de Grises, rellena agujeros en imágenes en escala de grises.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
@@ -4162,27 +4162,27 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="12"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="13"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Salida filtrada</translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -4190,7 +4190,7 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="4"/>
         <source>Grayscale Model Maker</source>
-        <translation type="unfinished">Modelador en escala de grises</translation>
+        <translation>Creador de modelos en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="5"/>
@@ -4210,17 +4210,17 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="10"/>
         <source>Output Geometry</source>
-        <translation type="unfinished">Geometría de salida</translation>
+        <translation>Geometría de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="11"/>
@@ -4230,47 +4230,47 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="12"/>
         <source>Output that contains geometry model.</source>
-        <translation type="unfinished">Salida que contiene el modelo de geometría.</translation>
+        <translation>Salida que contiene el modelo de geometría.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="13"/>
         <source>Grayscale Model Maker Parameters</source>
-        <translation type="unfinished">Parámetros del Model Maker en escala de grises</translation>
+        <translation>Parámetros del Creador de modelo en escala de grises</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="14"/>
         <source>Parameters used for making models.</source>
-        <translation type="unfinished">Parámetros utilizados para hacer modelos.</translation>
+        <translation>Parámetros utilizados para hacer modelos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="15"/>
         <source>Threshold</source>
-        <translation type="unfinished">Umbral</translation>
+        <translation>Umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="16"/>
         <source>Model Name</source>
-        <translation type="unfinished">Nombre del modelo</translation>
+        <translation>Nombre del modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="17"/>
         <source>Smooth</source>
-        <translation type="unfinished">Suave</translation>
+        <translation>Suave</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="18"/>
         <source>Decimate</source>
-        <translation type="unfinished">Decídete</translation>
+        <translation>Diezmar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="19"/>
         <source>Split Normals?</source>
-        <translation type="unfinished">¿Dividir las normales?</translation>
+        <translation>¿Dividir las normales?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="20"/>
         <source>Compute Point Normals?</source>
-        <translation type="unfinished">¿Calcular normales de punto?</translation>
+        <translation>¿Calcular normales de punto?</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="21"/>
@@ -4280,17 +4280,17 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="22"/>
         <source>Name to use for this model.</source>
-        <translation type="unfinished">Nombre a utilizar para este modelo.</translation>
+        <translation>Nombre a utilizar para este modelo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="23"/>
         <source>Number of smoothing iterations. If 0, no smoothing will be done.</source>
-        <translation type="unfinished">Número de iteraciones de suavizado. Si es 0, no se realizará ningún suavizado.</translation>
+        <translation>Número de iteraciones de suavizado. Si es 0, no se realizará ningún suavizado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="24"/>
         <source>Target reduction during decimation, as a decimal percentage reduction in the number of polygons. If 0, no decimation will be done.</source>
-        <translation type="unfinished">Reducción objetivo durante el diezmado, como porcentaje decimal de reducción en el número de polígonos. Si es 0, no se realizará el diezmado.</translation>
+        <translation>Reducción objetivo durante el diezmado, como porcentaje decimal de reducción en el número de polígonos. Si es 0, no se realizará el diezmado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="25"/>
@@ -4300,7 +4300,7 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="26"/>
         <source>Calculate the point normals? Calculated point normals make the surface appear smooth. Without point normals, the surface will appear faceted.</source>
-        <translation type="unfinished">¿Calcular las normales de los puntos? Las normales de punto calculadas hacen que la superficie parezca lisa. Sin normales de punto, la superficie aparecerá facetada.</translation>
+        <translation>¿Calcular las normales de los puntos? Las normales de punto calculadas hacen que la superficie parezca lisa. Sin normales de punto, la superficie aparecerá facetada.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="27"/>
@@ -4310,12 +4310,12 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="28"/>
         <source>Debug</source>
-        <translation type="unfinished">Depurar</translation>
+        <translation>Depurar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="29"/>
         <source>Turn this flag on to log more details during execution.</source>
-        <translation type="unfinished">Active esta opción para registrar más detalles durante la ejecución.</translation>
+        <translation>Active esta opción para registrar más detalles durante la ejecución.</translation>
     </message>
 </context>
 <context>
@@ -4323,7 +4323,7 @@ Un filtro complementario, Grayscale Fill Hole, rellena agujeros en imágenes en 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="4"/>
         <source>Histogram Matching</source>
-        <translation type="unfinished">Coincidencia de histogramas</translation>
+        <translation>Coincidencia de histogramas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="5"/>
@@ -4334,9 +4334,9 @@ The filter was originally designed to normalize MR images of the sameMR protocol
  Number of match points governs the number of quantile values to be matched.
 
 The filter assumes that both the source and reference are of the same type and that the input and output image type have the same number of dimension and have scalar pixel types.</source>
-        <translation type="unfinished">Normaliza los valores de la escala de grises de una imagen de origen basándose en los valores de la escala de grises de una imagen de referencia.  Este filtro utiliza una técnica de coincidencia de histogramas en la que los histogramas de las dos imágenes coinciden solo en un número determinado de valores cuantílicos.
+        <translation>Normaliza los valores de la escala de grises de una imagen de origen basándose en los valores de la escala de grises de una imagen de referencia.  Este filtro utiliza una técnica de coincidencia de histogramas en la que los histogramas de las dos imágenes coinciden solo en un número determinado de valores cuantílicos.
 
-El filtro se diseñó originalmente para normalizar imágenes de RM del mismo protocolo de RM y de la misma parte del cuerpo. El algoritmo funciona mejor si se excluyen los píxeles de fondo de los histogramas de origen y de referencia.  Un método sencillo de exclusión del fondo consiste en excluir todos los píxeles cuyos valores de escala de grises sean inferiores al valor medio de escala de grises. ThresholdAtMeanIntensity activa este sencillo método de exclusión de fondo.
+El filtro se diseñó originalmente para normalizar imágenes de RM del mismo protocolo de RM y de la misma parte del cuerpo. El algoritmo funciona mejor si se excluyen los píxeles de fondo de los histogramas de origen y de referencia.  Un método sencillo de exclusión del fondo consiste en excluir todos los píxeles cuyos valores de escala de grises sean inferiores al valor medio de escala de grises. UmbralAIntensidadMedia activa este sencillo método de exclusión de fondo.
 
  El número de puntos de coincidencia determina el número de valores cuantílicos que deben coincidir.
 
@@ -4350,42 +4350,42 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="7"/>
         <source>Histogram Matching Parameters</source>
-        <translation type="unfinished">Parámetros de correspondencia de histogramas</translation>
+        <translation>Parámetros de correspondencia de histogramas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="8"/>
         <source>Parameters for Histogram Matching</source>
-        <translation type="unfinished">Parameters for Histogram Matching</translation>
+        <translation>Parámetros para la comparación de histogramas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="9"/>
         <source>Number of Histogram Levels</source>
-        <translation type="unfinished">Número de niveles del histograma</translation>
+        <translation>Número de niveles del histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="10"/>
         <source>Number of Match Points</source>
-        <translation type="unfinished">Número de puntos de partido</translation>
+        <translation>Número de puntos de partida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="11"/>
         <source>Threshold at mean</source>
-        <translation type="unfinished">Umbral a la media</translation>
+        <translation>Umbral a la media</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="12"/>
         <source>The number of hisogram levels to use</source>
-        <translation type="unfinished">El número de niveles de hisograma a utilizar</translation>
+        <translation>El número de niveles de hisograma a utilizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="13"/>
         <source>The number of match points to use</source>
-        <translation type="unfinished">El número de puntos de partido a utilizar</translation>
+        <translation>El número de puntos de partido a utilizar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="14"/>
         <source>If on, only pixels above the mean in each volume are thresholded.</source>
-        <translation type="unfinished">Si está activada, sólo se umbralizan los píxeles por encima de la media en cada volumen.</translation>
+        <translation>Si está activada, sólo se umbralizan los píxeles por encima de la media en cada volumen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="15"/>
@@ -4395,12 +4395,12 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="16"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="17"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="18"/>
@@ -4410,22 +4410,22 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="19"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="20"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="21"/>
         <source>Input volume whose histogram will be matched</source>
-        <translation type="unfinished">Volumen de entrada cuyo histograma se comparará</translation>
+        <translation>Volumen de entrada cuyo histograma se comparará</translation>
     </message>
     <message>
         <location filename="Modules/CLI/HistogramMatching/HistogramMatching_tr.h" line="22"/>
         <source>Output volume. This is the input volume with intensities matched to the reference volume.</source>
-        <translation type="unfinished">Volumen de salida. Es el volumen de entrada con las intensidades ajustadas al volumen de referencia.</translation>
+        <translation>Volumen de salida. Es el volumen de entrada con las intensidades ajustadas al volumen de referencia.</translation>
     </message>
 </context>
 <context>
@@ -4433,7 +4433,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="4"/>
         <source>Image Label Combine</source>
-        <translation type="unfinished">Etiqueta de imagen Combinar</translation>
+        <translation>Combinar Etiqueta de Imagen</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ImageLabelCombine/ImageLabelCombine_tr.h" line="5"/>
@@ -4949,32 +4949,32 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="27"/>
         <source>Smooth</source>
-        <translation type="unfinished">Suavisado</translation>
+        <translation>Suavizado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="28"/>
         <source>Filter Type</source>
-        <translation type="unfinished">Tipo de filtro</translation>
+        <translation>Tipo de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="29"/>
         <source>Decimate</source>
-        <translation type="unfinished">Diezmar</translation>
+        <translation>Diezmar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="30"/>
         <source>Split Normals</source>
-        <translation type="unfinished">Normales divididas</translation>
+        <translation>Normales divididas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="31"/>
         <source>Point Normals</source>
-        <translation type="unfinished">Normales puntuales</translation>
+        <translation>Normales puntuales</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="32"/>
         <source>Pad</source>
-        <translation type="unfinished">Almohadilla</translation>
+        <translation>Almohadilla</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="33"/>
@@ -5004,7 +5004,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="38"/>
         <source>Here you can set the number of smoothing iterations for Laplacian smoothing, or the degree of the polynomial approximating the windowed Sinc function. Use 0 if you wish no smoothing. </source>
-        <translation type="unfinished">Aquí puede establecer el número de iteraciones de suavizado para el suavizado Laplaciano, o el grado del polinomio que aproxima la función Sinc con ventana. Utilice 0 si no desea suavizado. </translation>
+        <translation>Aquí puede establecer el número de iteraciones de suavizado para el suavizado Laplaciano, o el grado del polinomio que aproxima la función Sinc con ventana. Utilice 0 si no desea suavizado. </translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="39"/>
@@ -5024,7 +5024,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="42"/>
         <source>Turn this flag on if you wish to calculate the normal vectors for the points.</source>
-        <translation type="unfinished">Active esta opción si desea calcular los vectores normales de los puntos.</translation>
+        <translation>Active esta opción si desea calcular los vectores normales de los puntos.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="43"/>
@@ -5035,23 +5035,23 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="44"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="45"/>
         <source>Sinc</source>
-        <translation type="unfinished">Sinc</translation>
+        <translation>Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="46"/>
         <source>Laplacian</source>
-        <translation type="unfinished">Laplaciano</translation>
+        <translation>Laplaciano</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="47"/>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="50"/>
         <source>Debug</source>
-        <translation type="unfinished">Depurar</translation>
+        <translation>Depurar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="48"/>
         <source>Color Hierarchy</source>
-        <translation type="unfinished">Jerarquía de colores</translation>
+        <translation>Jerarquía de colores</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="49"/>
@@ -5071,7 +5071,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelMaker/ModelMaker_tr.h" line="53"/>
         <source>turn this flag on in order to see debugging output (look in the Error Log window that is accessed via the View menu)</source>
-        <translation type="unfinished">active esta opción para ver los resultados de la depuración (consulte la ventana Registro de errores a la que se accede a través del menú Ver).</translation>
+        <translation>active esta opción para ver los resultados de la depuración (consulte la ventana Registro de errores a la que se accede a través del menú Ver).</translation>
     </message>
 </context>
 <context>
@@ -5079,12 +5079,12 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
         <source>Model To LabelMap</source>
-        <translation type="unfinished">Modelo a LabelMap</translation>
+        <translation type="unfinished">Modelo de mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
         <source>Intersects an input model with a reference volume and produces an output label map, filling voxels inside the model with the specified label value.</source>
-        <translation type="unfinished">Interseca un modelo de entrada con un volumen de referencia y produce un mapa de etiquetas de salida, rellenando los vóxeles dentro del modelo con el valor de etiqueta especificado.</translation>
+        <translation>Intersecte un modelo de entrada con un volumen de referencia y produce un mapa de etiquetas de salida, rellenando los vóxeles dentro del modelo con el valor de etiqueta especificado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
@@ -5094,22 +5094,22 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
         <source>Settings</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="8"/>
         <source>Parameter settings</source>
-        <translation type="unfinished">Configuración de los parámetros</translation>
+        <translation>Ajustes de los parámetros</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="9"/>
         <source>Label value</source>
-        <translation type="unfinished">Valor de la etiqueta</translation>
+        <translation>Valor de la etiqueta</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="10"/>
         <source>The unsigned char label value to use in the output label map.</source>
-        <translation type="unfinished">El valor de la etiqueta unsigned char a utilizar en el mapa de etiquetas de salida.</translation>
+        <translation>El valor de la etiqueta unsigned char a utilizar en el mapa de etiquetas de salida.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="11"/>
@@ -5119,37 +5119,37 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="12"/>
         <source>Input/output</source>
-        <translation type="unfinished">Entrada/salida</translation>
+        <translation>Entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="13"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="14"/>
         <source>Model</source>
-        <translation type="unfinished">Modelo</translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="15"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="16"/>
         <source>Output volume will have the same origin, spacing, axis directions, and extent as this volume.</source>
-        <translation type="unfinished">El volumen de salida tendrá el mismo origen, espaciado, direcciones de los ejes y extensión que este volumen.</translation>
+        <translation>El volumen de salida tendrá el mismo origen, espaciado, direcciones de los ejes y extensión que este volumen.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="17"/>
         <source>Input model</source>
-        <translation type="unfinished">Modelo de entrada</translation>
+        <translation>Modelo de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="18"/>
         <source>Unsigned char label map volume</source>
-        <translation type="unfinished">Volumen de mapa de etiqueta de caracteres sin etiqueta</translation>
+        <translation>Volumen de mapa de etiqueta de caracteres sin etiqueta</translation>
     </message>
 </context>
 <context>
@@ -5157,12 +5157,12 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="5"/>
         <source>Multiply Scalar Volumes</source>
-        <translation type="unfinished">Multiplicar volúmenes escalares</translation>
+        <translation>Multiplicar volúmenes escalares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="6"/>
         <source>Multiplies two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">Multiplica dos imágenes. Aunque se admiten todos los tipos de imagen en la entrada, sólo se producen los tipos con signo. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
+        <translation>Multiplica dos imágenes. Aunque se admiten todos los tipos de imagen en la entrada, sólo se producen los tipos con signo. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
@@ -5177,57 +5177,57 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Volumen de entrada 2</translation>
+        <translation>Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Volumen de entrada 2</translation>
+        <translation>Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="15"/>
         <source>Volume1 * Volume2</source>
-        <translation type="unfinished">Volumen1 * Volumen2</translation>
+        <translation>Volumen1 * Volumen2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">Controles</translation>
+        <translation>Controles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Controla el funcionamiento del módulo</translation>
+        <translation>Controla el funcionamiento del módulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Orden de interpolación</translation>
+        <translation>Orden de interpolación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Orden de interpolación si dos imágenes están en diferentes marcos de coordenadas o tienen diferente muestreo.</translation>
+        <translation>Orden de interpolación si dos imágenes están en diferentes marcos de coordenadas o tienen diferente muestreo.</translation>
     </message>
 </context>
 <context>
@@ -5235,7 +5235,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="4"/>
         <source>N4ITK MRI Bias correction</source>
-        <translation type="unfinished">N4ITK MRI Corrección de sesgos</translation>
+        <translation>Corrección de sesgos N4ITK MRI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
@@ -5245,7 +5245,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
         <source>The development of this module was partially supported by NIH grants R01 AA016748-01, R01 CA111288 and U01 CA151261 as well as by NA-MIC, NAC, NCIGT and the Slicer community.</source>
-        <translation type="unfinished">El desarrollo de este módulo ha contado con el apoyo parcial de las subvenciones R01 AA016748-01, R01 CA111288 y U01 CA151261 de los NIH, así como de NA-MIC, NAC, NCIGT y la comunidad Slicer.</translation>
+        <translation>El desarrollo de este módulo ha contado con el apoyo parcial de las subvenciones R01 AA016748-01, R01 CA111288 y U01 CA151261 de los NIH, así como de NA-MIC, NAC, NCIGT y la comunidad Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="7"/>
@@ -5255,52 +5255,52 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="9"/>
         <source>Input Image</source>
-        <translation type="unfinished">Imagen de entrada</translation>
+        <translation>Imagen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="10"/>
         <source>Mask Image</source>
-        <translation type="unfinished">Imagen de máscara</translation>
+        <translation>Imagen de máscara</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="12"/>
         <source>Output bias field image</source>
-        <translation type="unfinished">Imagen del campo de polarización de salida</translation>
+        <translation>Imagen del campo de polarización de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="13"/>
         <source>Input image where you observe signal inhomegeneity</source>
-        <translation type="unfinished">Imagen de entrada en la que se observa la falta de homogeneidad de la señal</translation>
+        <translation>Imagen de entrada en la que se observa la falta de homogeneidad de la señal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="14"/>
         <source>Binary mask that defines the structure of your interest. NOTE: This parameter is OPTIONAL. If the mask is not specified, the module will use internally Otsu thresholding to define this mask. Better processing results can often be obtained when a meaningful mask is defined.</source>
-        <translation type="unfinished">Máscara binaria que define la estructura de su interés. NOTA: Este parámetro es OPCIONAL. Si no se especifica la máscara, el módulo utilizará internamente el umbral de Otsu para definir esta máscara. A menudo se pueden obtener mejores resultados de procesamiento cuando se define una máscara significativa.</translation>
+        <translation>Máscara binaria que define la estructura de su interés. NOTA: Este parámetro es OPCIONAL. Si no se especifica la máscara, el módulo utilizará internamente el umbral de Otsu para definir esta máscara. A menudo se pueden obtener mejores resultados de procesamiento cuando se define una máscara significativa.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="15"/>
         <source>Result of processing</source>
-        <translation type="unfinished">Resultado del tratamiento</translation>
+        <translation>Resultado del tratamiento</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="16"/>
         <source>Recovered bias field (OPTIONAL)</source>
-        <translation type="unfinished">Campo de sesgo recuperado (OPCIONAL)</translation>
+        <translation>Campo de sesgo recuperado (OPCIONAL)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="17"/>
         <source>N4 Parameters</source>
-        <translation type="unfinished">Parámetros N4</translation>
+        <translation>Parámetros N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="18"/>
@@ -5315,7 +5315,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="20"/>
         <source>Bias field Full Width at Half Maximum</source>
-        <translation type="unfinished">Campo de polarización Anchura total a la mitad del máximo</translation>
+        <translation>Campo de polarización Anchura total a la mitad del máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="21"/>
@@ -5330,27 +5330,27 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="23"/>
         <source>Bias field Full Width at Half Maximum. Zero implies use of the default value.</source>
-        <translation type="unfinished">Campo Bias Ancho completo a la mitad del máximo. Cero implica el uso del valor por defecto.</translation>
+        <translation>Campo Bias Ancho completo a la mitad del máximo. Cero implica el uso del valor por defecto.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="24"/>
         <source>Advanced N4 Parameters</source>
-        <translation type="unfinished">Parámetros avanzados de N4</translation>
+        <translation>Parámetros avanzados de N4</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="25"/>
         <source>Advanced parameters of the algorithm</source>
-        <translation type="unfinished">Parámetros avanzados del algoritmo</translation>
+        <translation>Parámetros avanzados del algoritmo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="26"/>
         <source>Number of iterations</source>
-        <translation type="unfinished">Número de iteraciones</translation>
+        <translation>Número de iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="27"/>
         <source>Convergence threshold</source>
-        <translation type="unfinished">Umbral de convergencia</translation>
+        <translation>Umbral de convergencia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="28"/>
@@ -5360,33 +5360,33 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="29"/>
         <source>Shrink factor</source>
-        <translation type="unfinished">Factor de contracción</translation>
+        <translation>Factor de contracción</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="30"/>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="37"/>
         <source>Weight Image</source>
-        <translation type="unfinished">Imagen de peso</translation>
+        <translation>Imagen de peso</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="31"/>
         <source>Wiener filter noise</source>
-        <translation type="unfinished">Ruido del filtro de Wiener</translation>
+        <translation>Ruido del filtro de Wiener</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="32"/>
         <source>Number of histogram bins</source>
-        <translation type="unfinished">Número de intervalos del histograma</translation>
+        <translation>Número de intervalos del histograma</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="33"/>
         <source>Maximum number of iterations at each level of resolution. Larger values will increase execution time, but may lead to better results.</source>
-        <translation type="unfinished">Número máximo de iteraciones en cada nivel de resolución. Los valores más grandes aumentarán el tiempo de ejecución, pero pueden conducir a mejores resultados.</translation>
+        <translation>Número máximo de iteraciones en cada nivel de resolución. Los valores más grandes aumentarán el tiempo de ejecución, pero pueden conducir a mejores resultados.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="34"/>
         <source>Stopping criterion for the iterative bias estimation. Larger values will lead to smaller execution time.</source>
-        <translation type="unfinished">Criterio de parada para la estimación iterativa del sesgo. Los valores más altos reducirán el tiempo de ejecución.</translation>
+        <translation>Criterio de parada para la estimación iterativa del sesgo. Los valores más altos reducirán el tiempo de ejecución.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="35"/>
@@ -5396,17 +5396,17 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation type="unfinished">Define cuánto debe aumentarse la muestra de la imagen antes de estimar el campo de inhomogeneidad. Auméntelo si desea reducir el tiempo de ejecución. 1 corresponde a la resolución original. Valores mayores reducirán significativamente el tiempo de cálculo.</translation>
+        <translation>Define cuánto debe aumentarse la muestra de la imagen antes de estimar el campo de inhomogeneidadi. Auméntelo si desea reducir el tiempo de ejecución. 1 corresponde a la resolución original. Valores mayores reducirán significativamente el tiempo de cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
         <source>Wiener filter noise. Zero implies use of the default value.</source>
-        <translation type="unfinished">Ruido del filtro Wiener. Cero implica el uso del valor por defecto.</translation>
+        <translation>Ruido del filtro Wiener. Cero implica el uso del valor por defecto.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="39"/>
         <source>Number of histogram bins. Zero implies use of the default value.</source>
-        <translation type="unfinished">Número de bins del histograma. Cero implica el uso del valor por defecto.</translation>
+        <translation>Número de bins del histograma. Cero implica el uso del valor por defecto.</translation>
     </message>
 </context>
 <context>
@@ -5414,7 +5414,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="4"/>
         <source>Orient Scalar Volume</source>
-        <translation type="unfinished">Orientar el volumen escalar</translation>
+        <translation>Orientar el volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="5"/>
@@ -5434,47 +5434,47 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="9"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="11"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="12"/>
         <source>The oriented volume</source>
-        <translation type="unfinished">El volumen orientado</translation>
+        <translation>El volumen orientado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="13"/>
         <source>Orientation Parameters</source>
-        <translation type="unfinished">Parámetros de orientación</translation>
+        <translation>Parámetros de orientación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="14"/>
         <source>Orientation of output</source>
-        <translation type="unfinished">Orientación de la salida</translation>
+        <translation>Orientación de la salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="15"/>
         <source>Orientation</source>
-        <translation type="unfinished">Orientación</translation>
+        <translation>Orientación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="16"/>
         <source>Orientation choices</source>
-        <translation type="unfinished">Opciones de orientación</translation>
+        <translation>Opciones de orientación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="17"/>
@@ -5525,72 +5525,72 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="26"/>
         <source>LIA</source>
-        <translation type="unfinished">LIA</translation>
+        <translation>LIA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="27"/>
         <source>RSA</source>
-        <translation type="unfinished">RSA</translation>
+        <translation>RSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="28"/>
         <source>LSA</source>
-        <translation type="unfinished">LSA</translation>
+        <translation>LSA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="29"/>
         <source>IRP</source>
-        <translation type="unfinished">IRP</translation>
+        <translation>IRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="30"/>
         <source>ILP</source>
-        <translation type="unfinished">ILP</translation>
+        <translation>ILP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="31"/>
         <source>SRP</source>
-        <translation type="unfinished">SRP</translation>
+        <translation>SRP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="32"/>
         <source>SLP</source>
-        <translation type="unfinished">SLP</translation>
+        <translation>SLP</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="33"/>
         <source>IRA</source>
-        <translation type="unfinished">IRA</translation>
+        <translation>IRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="34"/>
         <source>ILA</source>
-        <translation type="unfinished">ILA</translation>
+        <translation>ILA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="35"/>
         <source>SRA</source>
-        <translation type="unfinished">SRA</translation>
+        <translation>SRA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="36"/>
         <source>SLA</source>
-        <translation type="unfinished">SLA</translation>
+        <translation>SLA</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="37"/>
         <source>RPI</source>
-        <translation type="unfinished">RPI</translation>
+        <translation>RPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="38"/>
         <source>LPI</source>
-        <translation type="unfinished">LPI</translation>
+        <translation>LPI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="39"/>
         <source>RAI</source>
-        <translation type="unfinished">RAI</translation>
+        <translation>RAI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="40"/>
