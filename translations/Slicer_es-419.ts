@@ -3951,7 +3951,7 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos proviene de Insight/Ejemplos ( derechos de autor) Consorcio Insight Software</translation>
+        <translation type="unfinished">Este módulo de comandos proviene de Insight/Ejemplos (derechos de autor) Consorcio Insight Software</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
@@ -4077,7 +4077,7 @@ Este filtro se utiliza para suavizar los mínimos locales sin afectar a los valo
 
 Este filtro utiliza el FiltroDeImagenitkEscalaDeGrisesGeodésicaErode.  Proporciona su propia entrada como entrada de &quot;máscara&quot; para la erosión geodésica.  La imagen &quot;marcadora&quot; para la erosión geodésica se construye de forma que los píxeles de los límites coincidan con los píxeles de los límites de la imagen de entrada y los píxeles interiores se ajusten al valor máximo de píxel en la imagen de entrada.
 
- La morfología geodésica y el algoritmo Rellenos e describen en el capítulo 6 del libro de Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, segunda edición, Springer, 2003.
+ La morfología geodésica y el algoritmo Rellenos se describen en el capítulo 6 del libro de Pierre Soille &quot;Morphological Image Analysis: Principles and Applications&quot;, segunda edición, Springer, 2003.
 
  Un filtro complementario, Escala de grises Grind Peak, elimina los picos en las imágenes en escala de grises.</translation>
     </message>
@@ -5079,7 +5079,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="4"/>
         <source>Model To LabelMap</source>
-        <translation type="unfinished">Modelo de mapa de etiquetas</translation>
+        <translation>Modelo de mapa de etiquetas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="5"/>
@@ -5396,7 +5396,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="36"/>
         <source>Defines how much the image should be upsampled before estimating the inhomogeneity field. Increase if you want to reduce the execution time. 1 corresponds to the original resolution. Larger values will significantly reduce the computation time.</source>
-        <translation>Define cuánto debe aumentarse la muestra de la imagen antes de estimar el campo de inhomogeneidadi. Auméntelo si desea reducir el tiempo de ejecución. 1 corresponde a la resolución original. Valores mayores reducirán significativamente el tiempo de cálculo.</translation>
+        <translation>Define cuánto debe aumentarse la muestra de la imagen antes de estimar el campo de inhomogeneidad. Auméntelo si desea reducir el tiempo de ejecución. 1 corresponde a la resolución original. Valores mayores reducirán significativamente el tiempo de cálculo.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="38"/>
