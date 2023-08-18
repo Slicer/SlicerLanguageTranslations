@@ -6,12 +6,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation>Adicionar imagens escalares</translation>
+        <translation>Adicionar volumes escalares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation>Adiciona duas imagens. Embora todos os tipos de imagem sejam suportados, somente tipos com sinal serão produzidos. As duas imagems não precisam ter as mesmas dimensões.</translation>
+        <translation>Adiciona duas imagens. Embora todos os tipos de imagem sejam suportados na entrada, somente os tipos com sinal serão produzidos. As duas imagens não precisam ter as mesmas dimensões.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
@@ -8485,7 +8485,7 @@ indicada pela posição do mouse.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
@@ -11972,7 +11972,7 @@ deve definir &quot;face -verso&quot; e &quot;face-frente&quot; para OFF nas opç
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1041"/>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1042"/>
@@ -11987,21 +11987,22 @@ Change source representation to binary labelmap?</source>
         <oldsource>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
 
 Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">A edição requer a representação fonte do mapa de rótulos binário, mas atualmente a representação fonte é %1. Alterar a representação fonte requer conversão. Alguns detalhes podem se perder durante o processo de conversão.
+        <translation>A edição requer a representação mestre do mapa de rótulos binário, mas atualmente a representação mestre é %1. Alterar a representação mestre requer conversão. Alguns detalhes podem se perder durante o processo de conversão.
 
-Alterar a representação fonte para mapa de rótulos binários?</translation>
+Alterar a representação mestre para mapa de rótulos binários?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1375"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">Alterar a representação mestre para o mapa de rótulos binário?</translation>
+        <translation>Alterar a representação mestre para o mapa de rótulos binário?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1396"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao criar uma representação de mapa de rótulos binário na segmentação %1 para edição!
+Para mais informações, confira o módulo Segmentações.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1398"/>
@@ -12016,7 +12017,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3488"/>
         <source>Export segments to files</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar segmentos para os arquivos</translation>
     </message>
 </context>
 <context>
@@ -12099,32 +12100,32 @@ Please see Segmentations module for details.</source>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="107"/>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="254"/>
         <source>Cost</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Custo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="159"/>
         <source>Invalid segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentação inválida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="187"/>
         <source>Invalid representation</source>
-        <translation type="unfinished"></translation>
+        <translation>Representação inválida</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="233"/>
         <source>No path available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum caminho disponível!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="300"/>
         <source>No path selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum caminho selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="319"/>
         <source>No parameters for selected path</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem parâmetros para o caminho selecionado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="356"/>
@@ -12134,7 +12135,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="403"/>
         <source>Failed to convert %1 to %2!</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao converter %1 para %2!</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationConversionParametersWidget.cxx" line="404"/>
@@ -12249,12 +12250,12 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="208"/>
         <source>Selected segment: none</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar segmento: nenhum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationDisplayNodeWidget.cxx" line="260"/>
         <source>Selected segment: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmento selecionado: %1</translation>
     </message>
 </context>
 <context>
@@ -12387,14 +12388,16 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="297"/>
         <source>Exporting may erase data</source>
-        <translation type="unfinished"></translation>
+        <translation>A exportação pode apagar dados</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationFileExportWidget.cxx" line="303"/>
         <source>The current segmentation does not completely fit into the new geometry.
 Do you want to crop the segmentation?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A segmentação atual não se ajusta completamente à nova geometria.
+Deseja cortar a segmentação?
+</translation>
     </message>
 </context>
 <context>
@@ -12402,27 +12405,27 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="86"/>
         <source>Segmentation geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria de segmentação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="102"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="105"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="162"/>
         <source>Set reference image geometry and resample all segment labelmaps</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir a geometria da imagem de referência e reamostrar todos os mapas segmentados de rótulos</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryDialog.cxx" line="166"/>
         <source>Set reference image geometry (do not resample)</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir a geometria da imagem de referência (sem reamostrar)</translation>
     </message>
 </context>
 <context>
@@ -12507,12 +12510,12 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="177"/>
         <source>The current segmentation may not fit into the new geometry.</source>
-        <translation type="unfinished"></translation>
+        <translation>A segmentação atual talvez não se ajuste à nova geometria.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationGeometryWidget.cxx" line="411"/>
         <source>No segmentation node specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum nó de segmentação especificado!</translation>
     </message>
 </context>
 <context>
@@ -12540,9 +12543,9 @@ Do you want to crop the segmentation?
         <oldsource>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</oldsource>
-        <translation type="unfinished">Esta é a representação principal.
+        <translation>Esta é a representação principal.
   1. Esta representação é salva no disco
-  2. Se esta representação for modificada, as outras são apagadas</translation>
+  2. Se esta representação for modificada, as outras serão limpadas</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="215"/>
@@ -12557,7 +12560,7 @@ Do you want to crop the segmentation?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="235"/>
         <source>Update</source>
-        <translation type="unfinished">Atualização</translation>
+        <translation>Atualização</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="236"/>
