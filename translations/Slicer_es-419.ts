@@ -11345,7 +11345,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="24"/>
         <source>Select the PlotChartNode which handles the general Properties of the Plot and allow to select multiple PlotSeriesNodes.</source>
-        <translation type="unfinished">Seleccione el PlotChartNode, que gestiona las propiedades generales del gráfico y permite seleccionar varios PlotSeriesNodes.</translation>
+        <translation type="unfinished">Seleccione el NodoDeTrazadoDeGráfico, que gestiona las propiedades generales del gráfico y permite seleccionar varios NodoDeSeriesDeTrazado.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="51"/>
@@ -11380,7 +11380,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="111"/>
         <source>This combobox allows to change the Type for all the active PlotSeriesNodes. If a value is chosen, all the PlotSeriesNodes referenced by the PlotChartNode will be updated with the new value. </source>
-        <translation type="unfinished">Este cuadro combinado permite cambiar el Tipo para todos los PlotSeriesNodes activos. Si se elige un valor, todos los PlotSeriesNodes referenciados por el PlotChartNode se actualizarán con el nuevo valor. </translation>
+        <translation type="unfinished">Este cuadro combinado permite cambiar el Tipo para todos los NodoDeSeriesDeTrazado activos. Si se elige un valor, todos los NodoDeSeriesDeTrazado referenciados por el NodoDeTrazadoDeGráfico se actualizarán con el nuevo valor. </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="118"/>
@@ -18213,12 +18213,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="14"/>
         <source>Foo bar</source>
-        <translation type="unfinished">Foo bar</translation>
+        <translation>Foo bar</translation>
     </message>
     <message>
         <location filename="Extensions/Testing/LoadableExtensionTemplate/LoadableModuleTemplate/Resources/UI/qSlicerLoadableModuleTemplateFooBarWidget.ui" line="23"/>
         <source>Foo Bar</source>
-        <translation type="unfinished">Foo Bar</translation>
+        <translation>Foo Bar</translation>
     </message>
 </context>
 <context>
