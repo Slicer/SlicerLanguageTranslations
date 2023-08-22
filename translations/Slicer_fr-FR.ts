@@ -7298,12 +7298,12 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
         <source>Smoothing iterations</source>
-        <translation type="unfinished"></translation>
+        <translation>Itérations de lissage</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
         <source>Timestep</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalle de temps</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
