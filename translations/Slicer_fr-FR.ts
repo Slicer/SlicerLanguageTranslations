@@ -6393,7 +6393,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrice de direction</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
@@ -6413,7 +6413,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 paramètres de la matrice de direction par lignes (ijk à LPS si transformée LPS, ijk à RAS si transformée RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
@@ -6448,7 +6448,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de la fonction d&apos;interpolation Sinc fenêtrée</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
@@ -6910,12 +6910,12 @@ Avertissement&#xa0;: Ne pas utiliser pour rééchantillonner les images de tense
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de la fonction d&apos;interpolation Sinc fenêtrée</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres utilisés pour l&apos;interpolation Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
@@ -6936,7 +6936,12 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fonction de fenêtre
+h = Hamming
+c = Cosinus
+w = Welch
+l = Lanczos
+b = Homme noir</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="76"/>
@@ -6978,7 +6983,7 @@ b = Blackman</oldsource>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="84"/>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="85"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordre des splines</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="86"/>
@@ -6993,7 +6998,7 @@ b = Blackman</oldsource>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="88"/>
         <source>Transform</source>
-        <translation type="unfinished">Transformer</translation>
+        <translation>Transformation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="89"/>
@@ -7031,12 +7036,12 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="6"/>
         <source>Resampling an image is an important task in image analysis. It is especially important in the frame of image registration. This module implements image resampling through the use of itk Transforms. This module uses an Identity Transform. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions. Several interpolators are available: linear, nearest neighbor, bspline and five flavors of sinc. The sinc interpolators, although more precise, are much slower than the linear and nearest neighbor interpolator. To resample label volumnes, nearest neighbor interpolation should be used exclusively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le rééchantillonnage d&apos;une image est une tâche importante dans l&apos;analyse d&apos;images. C’est particulièrement important dans le cadre de l’enregistrement d’images. Ce module implémente le rééchantillonnage d&apos;images grâce à l&apos;utilisation de transformations itk. Ce module utilise une transformation d&apos;identité. Le rééchantillonnage est contrôlé par l’espacement de sortie. Le « rééchantillonnage » est effectué en coordonnées spatiales, et non en coordonnées pixel/grille. Il est très important de s&apos;assurer que l&apos;espacement des images est correctement défini sur les images concernées. L&apos;interpolateur est nécessaire car le mappage d&apos;un espace à l&apos;autre nécessitera souvent une évaluation de l&apos;intensité de l&apos;image à des positions hors grille. Plusieurs interpolateurs sont disponibles&#xa0;: linéaire, voisin le plus proche, bspline et cinq saveurs de sinc. Les interpolateurs sinc, bien que plus précis, sont beaucoup plus lents que l&apos;interpolateur linéaire et du plus proche voisin. Pour rééchantillonner les volumes d&apos;étiquettes, l&apos;interpolation du voisin le plus proche doit être utilisée exclusivement.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Ce travail est mené dans le cadre de la National Alliance for Medical Image Computing (NAMIC), financée par les National Institutes of Health par le biais du programme NIH Roadmap for Medical Research, subvention U54 EB005149.</translation>
+        <translation>Ce travail est mené dans le cadre de la National Alliance for Medical Image Computing (NAMIC), financée par les National Institutes of Health par le biais du programme NIH Roadmap for Medical Research, subvention U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7066,7 +7071,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="13"/>
         <source>Sampling algorithm (linear, nearest neighbor, bspline(cubic)  or windowed sinc). There are several sinc algorithms available as described in the following publication: Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever: Quantitative Comparison of Sinc-Approximating Kernels for Medical Image Interpolation. MICCAI 1999, pp. 210-217. Each window has a radius of 3;</source>
-        <translation type="unfinished"></translation>
+        <translation>Algorithme d&apos;échantillonnage (linéaire, voisin le plus proche, bspline(cubic) ou sinc fenêtré). Il existe plusieurs algorithmes sinc disponibles comme décrit dans la publication suivante : Erik H. W. Meijering, Wiro J. Niessen, Josien P. W. Pluim, Max A. Viergever : Quantitative Comparaison of Sinc-Approximation Kernels for Medical Image Interpolation. MICCAI 1999, p. 210-217. Chaque fenêtre a un rayon de 3&#xa0;;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="14"/>
@@ -7087,7 +7092,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="18"/>
         <source>hamming</source>
-        <translation type="unfinished"></translation>
+        <translation>marteler</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="19"/>
@@ -7132,7 +7137,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="27"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished">Volume d&apos;entrée à rééchantillonner</translation>
+        <translation>Volume d&apos;entrée à rééchantillonner</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="28"/>
@@ -7273,7 +7278,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="5"/>
         <source>Simple Region Growing Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentation croissante d’une région simple</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="6"/>
@@ -7318,7 +7323,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished">Paramètres de Segmentation</translation>
+        <translation>Paramètres de Segmentation</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
@@ -7879,7 +7884,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume US amélioré</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
@@ -7897,12 +7902,12 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="31"/>
         <source>GE ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="116"/>
         <source>GE Invenia ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation>GE Invenia ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
@@ -8133,7 +8138,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="86"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Générez un nouvel UID d&apos;instance de série pour chaque répertoire et définissez-le dans tous les fichiers de ce même répertoire. Activez cette option pour forcer le placement de toutes les images d&apos;un dossier dans un seul volume.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="87"/>
@@ -8143,7 +8148,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Générer des identifiants de patients, d&apos;études et de séries manquants. On suppose que tous les fichiers d&apos;un répertoire appartiennent à la même série. Corrige l&apos;erreur causée par une anonymisation trop agressive ou des convertisseurs d&apos;image DICOM incorrects.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="94"/>
@@ -8153,7 +8158,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="99"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished"></translation>
+        <translation>Générez une « séquence de position d&apos;image » pour les fichiers multi-images qui n&apos;ont que le champ « SliceThickness ». Corrige une erreur dans les scanners Dolphin 3D CBCT.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
@@ -8163,7 +8168,7 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="127"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, certaines informations identifiables du patient seront supprimées des fichiers DICOM corrigés. Il existe de nombreux champs permettant d&apos;identifier un patient, cette fonction ne les supprime pas tous.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="128"/>
@@ -8326,27 +8331,27 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="27"/>
         <source>Slicer Data Bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensemble de données de la coupeuse</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="75"/>
         <source>Contains a Slicer scene</source>
-        <translation type="unfinished"></translation>
+        <translation>Contient une scène Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="168"/>
         <source>Slicer data bundle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensemble de données Slicer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="169"/>
         <source>Creates a series that embeds the entire Slicer scene in a private DICOM tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Crée une série qui intègre l&apos;intégralité de la scène Slicer dans une balise DICOM privée</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMSlicerDataBundlePlugin.py" line="181"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiérarchie de sujets invalide</translation>
     </message>
 </context>
 <context>
@@ -8613,7 +8618,7 @@ Le module Sonde de données est utilisé pour obtenir des informations sur la po
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SubjectHierarchyPlugins/SegmentEditorSubjectHierarchyPlugin.py" line="106"/>
         <source>_Segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>_Segmentation</translation>
     </message>
 </context>
 <context>
@@ -8621,7 +8626,7 @@ Le module Sonde de données est utilisé pour obtenir des informations sur la po
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="23"/>
         <source>Segment Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiques sectorielles</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="37"/>
@@ -8636,39 +8641,51 @@ Requires segment labelmap representation and selection of a scalar volume
 Closed surface statistics (CS): surface mm2, volume mm3, volume cm3 (computed from closed surface).
 Requires segment closed surface representation.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Utilisez ce module pour calculer les comptages et les volumes des segments ainsi que les statistiques sur le volume de fond en niveaux de gris.
+Champs calculés&#xa0;:
+Segment labelmap statistics (LM) : nombre de voxels, volume mm3, volume cm3.
+Nécessite une représentation labelmap de segment.
+Statistiques de volume scalaire (SV) : nombre de voxels, volume mm3, volume cm3 (où les segments chevauchent le volume scalaire),
+min, max, moyenne, stdev (statistiques d&apos;intensité).
+Nécessite une représentation labelmap du segment et la sélection d&apos;un volume scalaire
+Statistiques de surface fermée (CS)&#xa0;: surface mm2, volume mm3, volume cm3 (calculé à partir de la surface fermée).
+Nécessite une représentation de surface fermée par segment.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="42"/>
         <source>
 Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www.slicer.org for details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.slicer.org pour plus de détails.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="79"/>
         <source>Pick parameter set</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir un jeu de paramètres</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="85"/>
         <source>Inputs</source>
-        <translation type="unfinished">Entrées</translation>
+        <translation>Entrées</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="95"/>
         <source>Pick the segmentation to compute statistics for</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la segmentation pour laquelle calculer les statistiques</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="96"/>
         <source>Segmentation:</source>
-        <translation type="unfinished">Segmentation :</translation>
+        <translation>Segmentation :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="107"/>
         <source>Select the scalar volume for intensity statistics calculations</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le volume scalaire pour les calculs de statistiques d&apos;intensité</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="108"/>
@@ -8688,7 +8705,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="125"/>
         <source>Select the table where statistics will be saved into</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la table dans laquelle les statistiques seront enregistrées</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="128"/>
@@ -8709,17 +8726,17 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="149"/>
         <source>Calculate Statistics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculer des statistiques.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="192"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du calcul des résultats.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="198"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonctionnement...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="223"/>
@@ -8729,53 +8746,53 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="225"/>
         <source>{pluginName} Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>{pluginName} Statistiques</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="228"/>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="297"/>
         <source>Edit Segment Statistics Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les paramètres des statistiques de segment</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="313"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="338"/>
         <source>Edit segment statistics plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les paramètres du plug-in de statistiques de segment&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="315"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Fait</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="317"/>
         <source>Finish editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminez l&apos;édition.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="339"/>
         <source>Edit {pluginName} plugin parameters:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifiez les paramètres du plug-in {pluginName}&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="619"/>
         <source>Computed by {pluginName} Statistics plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculé par le plug-in de statistiques {pluginName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="950"/>
         <source>Add Data</source>
-        <translation type="unfinished">Charger des Données</translation>
+        <translation>Charger des Données</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="953"/>
         <source>Load Scene</source>
-        <translation type="unfinished">Charger la scène</translation>
+        <translation>Charger la scène</translation>
     </message>
 </context>
 <context>
@@ -8783,43 +8800,43 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="58"/>
         <source>Surface area in mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie en mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="59"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="60"/>
         <source>square millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>millimètre carré</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="63"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume en mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="64"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="69"/>
         <source>Volume</source>
-        <translation type="unfinished">Volume</translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="65"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>millimètre cube</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="68"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume en cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/ClosedSurfaceSegmentStatisticsPlugin.py" line="70"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>centimètre cube</translation>
     </message>
 </context>
 <context>
@@ -8833,103 +8850,103 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="404"/>
         <source>voxels</source>
-        <translation type="unfinished"></translation>
+        <translation>voxels</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="407"/>
         <source>Volume in mm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume en mm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="408"/>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="413"/>
         <source>Volume</source>
-        <translation type="unfinished">Volume</translation>
+        <translation>Volume</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="409"/>
         <source>cubic millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>millimètre cube</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="412"/>
         <source>Volume in cm3</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume en cm3</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="414"/>
         <source>cubic centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>centimètre cube</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="416"/>
         <source>Sum of segmented voxel volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Somme des volumes de voxels segmentés</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="419"/>
         <source>Location of the centroid in RAS</source>
-        <translation type="unfinished"></translation>
+        <translation>Emplacement du centre de gravité dans RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="422"/>
         <source>Feret diameter in mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamètre du féret en mm</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="425"/>
         <source>Surface area in mm2</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie en mm2</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="426"/>
         <source>Surface area</source>
-        <translation type="unfinished"></translation>
+        <translation>Superficie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="427"/>
         <source>square millimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>millimètre carré</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="432"/>
         <source>Segment roundness. Calculated from ratio of the area of the hypersphere by the actual area. Value of 1 represents a spherical structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Rondeur des segments. Calculé à partir du rapport de la surface de l&apos;hypersphère par la surface réelle. La valeur de 1 représente une structure sphérique</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="437"/>
         <source>Segment flatness. Calculated from square root of the ratio of the second smallest principal moment by the smallest. Value of 0 represents a flat structure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Planéité des segments. Calculé à partir de la racine carrée du rapport du deuxième plus petit moment principal par le plus petit. La valeur 0 représente une structure plate.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="443"/>
         <source>Segment elongation. Calculated from square root of the ratio of the second largest principal moment by the second smallest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Allongement des segments. Calculé à partir de la racine carrée du rapport du deuxième plus grand moment principal par le deuxième plus petit.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="447"/>
         <source>Oriented bounding box</source>
-        <translation type="unfinished"></translation>
+        <translation>Boîte englobante orientée</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="450"/>
         <source>Oriented bounding box origin in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Origine du cadre de délimitation orienté en coordonnées RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="454"/>
         <source>Oriented bounding box diameter in mm</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamètre du cadre de délimitation orienté en mm</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="458"/>
         <source>Oriented bounding box X direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction X du cadre de délimitation orienté en coordonnées RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="462"/>
         <source>Oriented bounding box Y direction in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction Y du cadre de délimitation orienté en coordonnées RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="466"/>
@@ -15298,12 +15315,12 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="37"/>
         <source>Auto</source>
-        <translation type="unfinished">Automatique</translation>
+        <translation>Automatique</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="42"/>
         <source>Manual</source>
-        <translation type="unfinished">Manuel</translation>
+        <translation>Manuel</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
@@ -15336,7 +15353,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="67"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished">Une nouvelle version de l&apos;application est disponible&#xa0;: %1</translation>
+        <translation>Une nouvelle version de l&apos;application est disponible&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="75"/>
@@ -15346,7 +15363,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Base/QTApp/qSlicerAboutDialog.cxx" line="76"/>
         <source>Visit the %1 to check if a new version is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitez le %1 pour vérifier si une nouvelle version est disponible.</translation>
     </message>
 </context>
 <context>
@@ -15371,7 +15388,7 @@ p, li { white-space : pre-wrap ; }
         <location filename="Modules/Loadable/Texts/qSlicerTextsModule.cxx" line="65"/>
         <location filename="Modules/Loadable/Units/qSlicerUnitsModule.cxx" line="99"/>
         <source>Informatics</source>
-        <translation type="unfinished">Informatique</translation>
+        <translation>Informatique</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModulesMenu.cxx" line="73"/>
