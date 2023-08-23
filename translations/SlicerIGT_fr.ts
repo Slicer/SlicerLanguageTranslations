@@ -26,22 +26,22 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="74"/>
         <source>Model to watch:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle à regarder :</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="84"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>Transformation de l&apos;info-bulle (en RAS)&#xa0;: </translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
@@ -51,42 +51,42 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="161"/>
         <source>Display line to closest point</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la ligne jusqu&apos;au point le plus proche</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="178"/>
         <source>Line to closest point color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de la ligne jusqu&apos;au point le plus proche</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="188"/>
         <source>Display warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la couleur d’avertissement</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="205"/>
         <source>Warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur d&apos;avertissement</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="212"/>
         <source>Play warning sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Jouer un son d&apos;avertissement</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du texte de la ligne au point le plus proche&#xa0;:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
         <source>Line to closest point thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur de la ligne au point le plus proche&#xa0;:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance d&apos;avertissement de violation (mm)&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -94,167 +94,167 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de module</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="22"/>
         <source>Parameter Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de paramètre&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="29"/>
         <source>Sampling Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Noeud d&apos;échantillonnage&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="36"/>
         <source>Points will be collected according to the origin of this coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les points seront collectés selon l&apos;origine de ce système de coordonnées.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLBSplineTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLBSplineTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLGridTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLGridTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="57"/>
         <source>vtkMRMLCollectPointsNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLCollectPointsNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
         <source>Toggle visibility of the output node</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer la visibilité du nœud de sortie</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="71"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="85"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="82"/>
         <source>Delete the last point from the output node (hold click to see the option delete all)</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimez le dernier point du nœud de sortie (maintenez le clic enfoncé pour voir l&apos;option Supprimer tout)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="96"/>
         <source>Store points in either a markups or a model node</source>
-        <translation type="unfinished"></translation>
+        <translation>Stocker les points dans des annotations ou dans un nœud de modèle</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsCurveNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="116"/>
         <source>Change the color of the output node</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la couleur du nœud de sortie</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="128"/>
         <source>Output Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="137"/>
         <source>Collect points either one at a time, or collect them automatically (tick the checkbox).</source>
-        <translation type="unfinished"></translation>
+        <translation>Collectez des points soit un à la fois, soit collectez-les automatiquement (cochez la case).</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="140"/>
         <source>Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>Collecter</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
         <source>Label Base:</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de l&apos;étiquette&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="163"/>
         <source>Markups will be numbered according to the current counter (incremented automatically)</source>
-        <translation type="unfinished"></translation>
+        <translation>Les majorations seront numérotées en fonction du compteur actuel (incrémenté automatiquement)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="170"/>
         <source>Minimum Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distance minimale&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="177"/>
         <source>Next Label Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numéro d&apos;étiquette suivant&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="184"/>
         <source>Markups will have labels that begin with this text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les annotations auront des étiquettes qui commencent par ce texte.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="187"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="194"/>
         <source>Specify a minimum distance before a new point is automatically collected (Auto-Collect mode only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécifiez une distance minimale avant qu&apos;un nouveau point soit automatiquement collecté (mode de collecte automatique uniquement)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
         <source>Points will be collected relative to the anchor coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les points seront collectés par rapport au système de coordonnées d&apos;ancrage.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="225"/>
         <source>Anchor Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud d&apos;ancrage&#xa0;:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="252"/>
         <source>Delete All Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les points</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="255"/>
         <source>Delete all points from the node</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les points du nœud</translation>
     </message>
 </context>
 <context>
@@ -262,17 +262,17 @@
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="97"/>
         <source>Delete options</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les options</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="521"/>
         <source>Auto-Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>Collecte automatique</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="527"/>
         <source>Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>Collecter</translation>
     </message>
 </context>
 <context>
@@ -280,17 +280,17 @@
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="33"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer des modèles</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="39"/>
         <source>Needle model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle d&apos;aiguille</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="67"/>
@@ -305,58 +305,58 @@
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="393"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="444"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>longueur</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="99"/>
         <source>Tip radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon de pointe&#xa0;:</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="106"/>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur : </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="113"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="403"/>
         <source>Radius: </source>
-        <translation type="unfinished"></translation>
+        <translation>Rayon : </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="120"/>
         <source>Depth markers: </source>
-        <translation type="unfinished"></translation>
+        <translation>Marqueurs de profondeur&#xa0;: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="133"/>
         <source>Create needle</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une aiguille</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="165"/>
         <source>Coordinate system model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de système de coordonnées</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="177"/>
         <source>Create coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un système de coordonnées</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="184"/>
         <source>Axis length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur d&apos;axe : </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="191"/>
         <source>Thickness: </source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur : </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="239"/>
         <source>Cube model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle cubique</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="264"/>
