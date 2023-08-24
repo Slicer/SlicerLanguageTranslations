@@ -66,12 +66,12 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished"></translation>
+        <translation>계산의 미세 조정을 위한 고급 파라미터.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>두 이미지의 형상(원점, 간격, 축 방향 또는 범위) 이 다를 경우 사용되는 다항식 보간 순서: 0 = 최근접 보간, 1 = 선형 보간, 2 = 2차 보간, 3 = 3차 보간.</translation>
     </message>
     <message>
         <source>Controls</source>
