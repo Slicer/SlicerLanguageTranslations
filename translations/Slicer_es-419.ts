@@ -22488,9 +22488,9 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
         <source>Specify documentation location.
 Available placeholders: {language}, {version}.
 Default: https://slicer.readthedocs.io/{language}/{version}</source>
-        <translation type="unfinished">Specify documentation location.
-Available placeholders: {language}, {version}.
-Default: https://slicer.readthedocs.io/{language}/{version}</translation>
+        <translation type="unfinished">Especifique la ubicación de la documentación.
+Marcadores de posición disponibles: {language}, {version}
+Por defecto: https://slicer.readthedocs.io/{language}/{version}</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
@@ -22501,12 +22501,12 @@ Default: https://slicer.readthedocs.io/{language}/{version}</translation>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
         <source>Python script that is executed after the application is started</source>
-        <translation type="unfinished">Script Python que se ejecuta después de iniciar la aplicación</translation>
+        <translation>Script Python que se ejecuta después de iniciar la aplicación</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="147"/>
         <source>Application startup script:</source>
-        <translation type="unfinished">Script de inicio de la aplicación:</translation>
+        <translation>Script de inicio de la aplicación:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="169"/>
@@ -22523,9 +22523,9 @@ Default: https://slicer.readthedocs.io/{language}/{version}</translation>
         <source>Specify URL for module documentation.
 Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
 Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</source>
-        <translation type="unfinished">Specify URL for module documentation.
-Available placeholders: {documentationbaseurl}, {lowercasemodulename}.
-Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</translation>
+        <translation>Especifique la URL de la documentación del módulo.
+Marcadores de posición disponibles: {documentationbaseurl}, {lowercasemodulename}.
+Por defecto: {documentationbaseurl}/guía_usuario/módulos/{lowercasemodulename}.html</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="197"/>
@@ -22640,7 +22640,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished">Skip loading of builtin:</translation>
+        <translation type="unfinished">Omitir la carga del builtin:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
@@ -22675,12 +22675,13 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Rutas de módulos adicionales:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
         <source>Paths</source>
-        <translation type="unfinished">Rutas</translation>
+        <translation>Rutas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="289"/>
@@ -22716,7 +22717,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="415"/>
         <source>To load</source>
-        <translation type="unfinished">Cargar</translation>
+        <translation>Cargar</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="434"/>
@@ -22851,7 +22852,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="49"/>
         <source>Font:</source>
         <oldsource>Shell font:</oldsource>
-        <translation type="unfinished">tipo de caracteres:</translation>
+        <translation>Fuente:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="63"/>
@@ -22874,7 +22875,7 @@ Default: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="14"/>
         <source>StyleSettings</source>
-        <translation type="unfinished">StyleSettings</translation>
+        <translation>AjustesDeEstilo</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="23"/>
