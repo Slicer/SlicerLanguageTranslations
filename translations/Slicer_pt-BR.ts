@@ -12567,7 +12567,9 @@ Deseja cortar a segmentação?
         <source>Update %1 representation using custom conversion parameters.
 
 Click the down-arrow button for additional operations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar a representação %1 utilizando parâmetros de conversão personalizados.
+
+Clique no botão de seta para baixo para operações adicionais.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="247"/>
@@ -12577,30 +12579,32 @@ Click the down-arrow button for additional operations.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="248"/>
         <source>Remove %1 representation from segmentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover a representação %1 da segmentação</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="258"/>
         <source>Make source</source>
         <oldsource>Make master</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gerar fonte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="268"/>
         <source>Create</source>
-        <translation type="unfinished">Criar</translation>
+        <translation>Criar</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="269"/>
         <source>Create %1 representation using default conversion parameters.
 
 Press and hold button to access advanced conversion and removal options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar a representação %1 utilizando os parâmetros de conversão padrões.
+
+Pressione e segure o botão para acessar as opções avançadas de conversão e remoção.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="280"/>
         <source>Advanced create...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criação avançada...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="281"/>
