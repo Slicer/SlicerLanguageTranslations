@@ -19408,23 +19408,23 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="299"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="302"/>
         <source>Lock</source>
-        <translation type="unfinished">Lock</translation>
+        <translation>قفل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="327"/>
         <source>Selected</source>
-        <translation type="unfinished">Selected</translation>
+        <translation>مختارة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>مغلق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="201"/>
         <source>Visible</source>
-        <translation type="unfinished">Visible</translation>
+        <translation>مرئي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="202"/>
@@ -19455,95 +19455,95 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="206"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>المنصب</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="272"/>
         <source>Visibility On</source>
-        <translation type="unfinished"></translation>
+        <translation>الرؤية على</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="273"/>
         <source>Set visibility flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط علامة الرؤية على تشغيل لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="281"/>
         <source>Visibility Off</source>
-        <translation type="unfinished"></translation>
+        <translation>الرؤية معطلة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="282"/>
         <source>Set visibility flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط علامة الرؤية على إيقاف لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="303"/>
         <source>Set lock flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط علامة القفل على تشغيل لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="310"/>
         <source>Unlock</source>
-        <translation type="unfinished"></translation>
+        <translation>الغاء القفل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="311"/>
         <source>Set lock flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط علامة القفل على إيقاف لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="330"/>
         <source>Selected On</source>
-        <translation type="unfinished"></translation>
+        <translation>تم التحديد على</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="331"/>
         <source>Set selected flag to on for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين العلامة المحددة على تشغيل لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="339"/>
         <source>Selected Off</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تحديد إيقاف التشغيل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="340"/>
         <source>Set selected flag to off for all control points in the active markup</source>
-        <translation type="unfinished"></translation>
+        <translation>تعيين العلم المحدد إلى إيقاف لجميع نقاط التحكم في الترميز النشط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="375"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="379"/>
         <source>Cut</source>
-        <translation type="unfinished">Cut</translation>
+        <translation>قص</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="385"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="389"/>
         <source>Copy</source>
-        <translation type="unfinished">Copy</translation>
+        <translation>نسخ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="395"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="399"/>
         <source>Paste</source>
-        <translation type="unfinished">Paste</translation>
+        <translation>لصق</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="480"/>
         <source>Click in this column to select/deselect control points for passing to CLI modules</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر في هذا العمود لتحديد / إلغاء تحديد نقاط التحكم لتمريرها إلى وحدات كلي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="486"/>
         <source>Click in this column to lock/unlock control points to prevent them from being moved by mistake</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر في هذا العمود لقفل / فتح نقاط التحكم لمنع نقلها عن طريق الخطأ</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="492"/>
         <source>Click in this column to show/hide control points in 2D and 3D</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر في هذا العمود لإظهار / إخفاء نقاط التحكم في 2د و 3د</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="498"/>
@@ -19553,134 +19553,139 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 - Skip: &apos;Place multiple control points&apos; mode skips over the control point entry
 - Restore: Set the control point position to its last known set position
 - Clear: Clear the defined control point position, but do not delete the control point</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر في هذا العمود لتعديل حالة موضع نقطة التحكم.
+
+- تحرير: أدخل وضع المكان لتعديل موضع نقطة التحكم في طرق عرض الشريحة
+- تخطي:&apos; وضع نقاط مراقبة متعددة &apos; وضع يتخطى على دخول نقطة التحكم
+- استعادة: اضبط موضع نقطة التحكم على آخر موضع محدد معروف
+- واضح: امسح موضع نقطة التحكم المحددة ، لكن لا تحذف نقطة التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="816"/>
         <source>Create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1003"/>
         <source>Click to unlock this control point list so points can be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر لإلغاء قفل قائمة نقاط التحكم هذه حتى يمكن تحريك النقاط بالماوس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1008"/>
         <source>Click to lock this control point list so points cannot be moved by the mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر لقفل قائمة نقاط التحكم هذه بحيث لا يمكن تحريك النقاط بواسطة الماوس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1014"/>
         <source>Click to unlock the number of control points so points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر لإلغاء تأمين عدد نقاط التحكم حتى يمكن إضافة النقاط أو حذفها</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1021"/>
         <source>Click to lock the number of control points so no points can be added or deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر لقفل عدد نقاط التحكم حتى لا يمكن إضافة أو حذف أي نقاط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1614"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1822"/>
         <source>Confirm control point deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>تأكيد حذف نقطة التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1615"/>
         <source>Delete %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف %1 نقاط التحكم من هذه القائمة؟</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1621"/>
         <source>Delete</source>
-        <translation type="unfinished">Delete</translation>
+        <translation>يحذف</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1823"/>
         <source>Delete all %1 control points from this list?</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف الكل %1 نقاط التحكم من هذه القائمة؟</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="1830"/>
         <source>Delete All</source>
-        <translation type="unfinished">Delete All</translation>
+        <translation>حذف الكل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2290"/>
         <source>Delete highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف نقطة(نقاط)التحكم المميزة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2297"/>
         <source>Jump slices</source>
-        <translation type="unfinished">الانتقال إلى شرائح</translation>
+        <translation>الانتقال إلى شرائح</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2304"/>
         <source>Refocus all cameras</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تركيز جميع الكاميرات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2322"/>
         <source>Edit position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>تحرير موضع نقطة (نقاط) التحكم المميزة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2328"/>
         <source>Skip placement of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي موضع نقطة(نقاط)التحكم المميزة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2334"/>
         <source>Restore position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>استعادة موضع نقطة (نقاط) التحكم المميزة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2340"/>
         <source>Clear position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>موضع واضح لنقطة (نقاط) التحكم المميزة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2454"/>
         <source>Summed linear distance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>لخص المسافة الخطية: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3158"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3186"/>
         <source>No measurement</source>
-        <translation type="unfinished">No measurement</translation>
+        <translation>لا قياس</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3203"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ممكن</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3271"/>
         <source>Output table:</source>
-        <translation type="unfinished">جدول الإخراج:</translation>
+        <translation>جدول الإخراج:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3272"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3273"/>
         <source>Export control points coordinates and properties to table.</source>
-        <translation type="unfinished">Export control points coordinates and properties to table.</translation>
+        <translation>نقاط مراقبة الصادرات الإحداثيات والخصائص إلى الجدول.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3278"/>
         <source>Input table:</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول الإدخال:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3279"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="3281"/>
@@ -19688,8 +19693,8 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
 Table column names: label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</source>
         <oldsource>Import control points coordinates and properties from table node.
 Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</oldsource>
-        <translation type="unfinished">Import control points coordinates and properties from table node.
-Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, locked, description.</translation>
+        <translation>استيراد نقاط التحكم إحداثيات وخصائص من عقدة الجدول.
+أسماء أعمدة الجدول: تسمية ، r, a, s, (or l, p, s) ، محددة ، مختارة ، مرئية ، مقفلة ، الوصف.</translation>
     </message>
 </context>
 <context>
@@ -21135,102 +21140,102 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1202"/>
         <source>Erase inside</source>
-        <translation type="unfinished"></translation>
+        <translation>محو داخل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1203"/>
         <source>Erase outside</source>
-        <translation type="unfinished"></translation>
+        <translation>محو خارج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1204"/>
         <source>Fill inside</source>
-        <translation type="unfinished"></translation>
+        <translation>ملء داخل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1205"/>
         <source>Fill outside</source>
-        <translation type="unfinished"></translation>
+        <translation>ملء خارج</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1207"/>
         <source>Operation:</source>
-        <translation type="unfinished"></translation>
+        <translation>العملية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1224"/>
         <source>Free-form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل حر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1225"/>
         <source>Circle</source>
-        <translation type="unfinished"></translation>
+        <translation>الدائرة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1226"/>
         <source>Rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>مستطيل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1227"/>
         <source>Centered</source>
-        <translation type="unfinished">Centered</translation>
+        <translation>تتمحور</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1229"/>
         <source>If checked, click position sets the circle or rectangle center, otherwise click position is at the shape boundary.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا تم تحديده ، فانقر فوق موضع يحدد مركز الدائرة أو المستطيل ، وإلا فإن موضع النقر يكون عند حدود الشكل.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1231"/>
         <source>Shape:</source>
-        <translation type="unfinished"></translation>
+        <translation>الشكل:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1248"/>
         <source>Unlimited</source>
-        <translation type="unfinished">Unlimited</translation>
+        <translation>غير محدود</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1249"/>
         <source>Cut through the entire segmentation. Only used for slice views.</source>
-        <translation type="unfinished">Cut through the entire segmentation. Only used for slice views.</translation>
+        <translation>قطع من خلال تجزئة كامل. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1250"/>
         <source>Positive</source>
-        <translation type="unfinished">Positive</translation>
+        <translation>إيجابي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1251"/>
         <source>Only positive side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only positive side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation>يتم تضمين الجانب الإيجابي فقط من الطائرة شريحة في منطقة قطع. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1252"/>
         <source>Negative</source>
-        <translation type="unfinished">Negative</translation>
+        <translation>سلبي</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1253"/>
         <source>Only negative side of the slice plane is included in cut region. Only used for slice views.</source>
-        <translation type="unfinished">Only negative side of the slice plane is included in cut region. Only used for slice views.</translation>
+        <translation>يتم تضمين الجانب السلبي فقط من الطائرة شريحة في منطقة قطع. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1254"/>
         <source>Symmetric</source>
-        <translation type="unfinished">Symmetric</translation>
+        <translation>متماثل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1255"/>
         <source>Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</source>
-        <translation type="unfinished">Cut region is limited to the specified thickness around the slice plane. Only used for slice views.</translation>
+        <translation>تقتصر منطقة القطع على السماكة المحددة حول مستوى الشريحة. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1258"/>
         <source>Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</source>
-        <translation type="unfinished">Thickness of the cut region. 0 means that only the current slice is included. Only used for slice views.</translation>
+        <translation>سمك منطقة القطع. 0 يعني أنه يتم تضمين الشريحة الحالية فقط. تستخدم فقط لوجهات النظر شريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1265"/>
@@ -21245,7 +21250,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1274"/>
         <source>Apply to visible segments:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنطبق على شرائح مرئية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorScissorsEffect.cxx" line="1275"/>
@@ -21273,7 +21278,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="51"/>
         <source>Color node:</source>
-        <translation type="unfinished">Color node:</translation>
+        <translation>عقدة اللون:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="61"/>
@@ -21338,7 +21343,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="138"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="164"/>
@@ -21378,7 +21383,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="310"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="335"/>
@@ -21388,7 +21393,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="338"/>
         <source>+&gt;</source>
-        <translation type="unfinished">+&gt;</translation>
+        <translation>+&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
@@ -21398,7 +21403,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
         <source>&lt;+</source>
-        <translation type="unfinished">&lt;+</translation>
+        <translation>&lt;+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
@@ -21408,7 +21413,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="394"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="416"/>
