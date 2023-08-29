@@ -22401,7 +22401,7 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="107"/>
         <source>Extensions frontend server URL:</source>
-        <translation>URL del servidor frontend de extensiones:</translation>
+        <translation>Dirección URL del servidor &quot;front end&quot; de extensiones:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="117"/>
