@@ -6284,12 +6284,12 @@ Preservación de la dirección principal (PPD)</translation>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"/>
         <source>output-to-input</source>
-        <translation type="unfinished">de salida a entrada</translation>
+        <translation>salida-entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation type="unfinished">entrada-salida</translation>
+        <translation>entrada-salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
@@ -6375,7 +6375,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished">Matriz de dirección</translation>
+        <translation>Matriz de dirección</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
