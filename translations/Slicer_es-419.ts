@@ -6243,32 +6243,32 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished">Parámetros de transformación avanzados</translation>
+        <translation>Parámetros de transformación avanzados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished">Normalmente, estos parámetros no deben modificarse</translation>
+        <translation>Normalmente, estos parámetros no deben modificarse</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished">Orden de transformación</translation>
+        <translation>Orden de transformación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished">No es una transformación masiva</translation>
+        <translation>No es una transformación masiva</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished">Espacio Incoherencia de Orientación (entre la transformación y la imagen)</translation>
+        <translation>Inconsistencia de orientación espacial (entre la transformación y la imagen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished">Seleccionar el orden de lectura de las transformaciones</translation>
+        <translation>Seleccionar el orden de lectura de las transformaciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
@@ -6278,7 +6278,7 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished">La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Slicer3, no seleccionar)</translation>
+        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de transformación en Slicer3, no seleccionar)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
@@ -6294,78 +6294,78 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
         <source>Advanced Rigid/Affine Parameters</source>
-        <translation type="unfinished">Parámetros rígidos/afines avanzados</translation>
+        <translation>Parámetros rígidos/afines avanzados</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"/>
         <source>Rotation Center</source>
-        <translation type="unfinished">Centro de rotación</translation>
+        <translation>Centro de rotación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished">Transformación centrada</translation>
+        <translation>Transformación centrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation type="unfinished">Centro de imágenes</translation>
+        <translation>Centro de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
         <source>Inverse Transformation</source>
-        <translation type="unfinished">Transformación inversa</translation>
+        <translation>Transformación inversa</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Centro de rotación (sólo para transformaciones rígidas y afines)</translation>
+        <translation>Centro de rotación (sólo para transformaciones rígidas y afines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Establecer el centro de la transformación en el centro de la imagen de entrada (sólo para transformaciones rígidas y afines)</translation>
+        <translation>Establecer el centro de la transformación en el centro de la imagen de entrada (sólo para transformaciones rígidas y afines)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished">Imagen que se utilizará para centrar la transformación (sólo se utiliza si está seleccionada la opción &quot;Transformación centrada&quot;)</translation>
+        <translation>Imagen que se utilizará para centrar la transformación (sólo se utiliza si está seleccionada la opción &quot;Transformación centrada&quot;)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished">Invertir la transformación antes de aplicarla de la imagen de salida a la imagen de entrada (sólo para transformaciones rígidas y afines).</translation>
+        <translation>Invertir la transformación antes de aplicarla, de la imagen de salida a la imagen de entrada (sólo para transformaciones rígidas y afines).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished">entrada</translation>
+        <translation>entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished">salida</translation>
+        <translation>salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished">Parámetros de salida manual</translation>
+        <translation>Parámetros de salida manual</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished">Parámetros de la imagen de salida</translation>
+        <translation>Parámetros de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished">Espaciado</translation>
+        <translation>Espaciado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
@@ -6380,22 +6380,22 @@ Preservación de la dirección principal (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished">Espaciado a lo largo de cada dimensión (0 significa utilizar el espaciado de entrada)</translation>
+        <translation>Espaciado a lo largo de cada dimensión (0 significa utilizar el espaciado de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished">Tamaño en cada dimensión (0 significa utilizar el tamaño de entrada)</translation>
+        <translation>Tamaño en cada dimensión (0 significa utilizar el tamaño de entrada)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished">Origen de la salida Imagen</translation>
+        <translation>Origen de la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished">9 parámetros de la matriz de dirección por filas (ijk a LPS si transformación LPS, ijk a RAS si transformación RAS)</translation>
+        <translation>9 parámetros de la matriz de dirección por filas (ijk a LPS si se transforma en LPS, ijk a RAS si se transforma en RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
@@ -6456,7 +6456,7 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished">Función de ventana
+        <translation>Función de ventana
 h = Hamming
 c = Coseno
 w = Welch
