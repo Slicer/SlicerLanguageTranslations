@@ -8956,22 +8956,22 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="470"/>
         <source>Principal moments of inertia for x, y and z axes</source>
-        <translation type="unfinished"></translation>
+        <translation>Principaux moments d&apos;inertie pour les axes x, y et z</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="474"/>
         <source>Principal X axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Axe de rotation X principal en coordonnées RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="478"/>
         <source>Principal Y axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Axe Y principal de rotation en coordonnées RAS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/LabelmapSegmentStatisticsPlugin.py" line="482"/>
         <source>Principal Z axis of rotation in RAS coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Axe de rotation Z principal en coordonnées RAS</translation>
     </message>
 </context>
 <context>
@@ -10598,7 +10598,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="498"/>
         <source>Create new %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau %1</translation>
     </message>
 </context>
 <context>
@@ -24978,7 +24978,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="74"/>
         <source>Contents</source>
-        <translation type="unfinished">Contenu</translation>
+        <translation>Contenu</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="90"/>
@@ -24993,7 +24993,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="102"/>
         <source>Auto-save edits to the text node</source>
-        <translation type="unfinished">Sauvegarde automatique des modifications apportées au nœud de texte</translation>
+        <translation>Enregistrer automatiquement les modifications dans le nœud de texte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="109"/>
@@ -25019,17 +25019,17 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="35"/>
         <source>Active Transform:</source>
-        <translation type="unfinished">Transformation active :</translation>
+        <translation>Transformation active :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="65"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="92"/>
         <source>Edit</source>
-        <translation type="unfinished">Modifier</translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="110"/>
@@ -25044,12 +25044,12 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="184"/>
         <source>Identity</source>
-        <translation type="unfinished">Identité</translation>
+        <translation>Identité</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="194"/>
         <source>Invert</source>
-        <translation type="unfinished">Inverser</translation>
+        <translation>Inverser</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="204"/>
@@ -25064,22 +25064,22 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="214"/>
         <source>Translation in global or local (rotated) reference frame</source>
-        <translation type="unfinished">Translation dans le cadre de référence global ou local (rotation)</translation>
+        <translation>Traduction dans un référentiel global ou local (pivoté)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="217"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="254"/>
         <source>Copy transform</source>
-        <translation type="unfinished">Copier la transformation</translation>
+        <translation>Copier la transformation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="264"/>
         <source>Paste transform</source>
-        <translation type="unfinished">Coller la transformation</translation>
+        <translation>Coller la transformation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="282"/>
@@ -25089,22 +25089,22 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="309"/>
         <source>Apply transform</source>
-        <translation type="unfinished">Appliquer la transformation</translation>
+        <translation>Appliquer la transformation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="317"/>
         <source>Transformable:</source>
-        <translation type="unfinished">Transformable :</translation>
+        <translation>Transformable :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="361"/>
         <source>Apply the active transform to the selected transformable nodes</source>
-        <translation type="unfinished">Appliquer la transformation active aux nœuds transformables sélectionnés</translation>
+        <translation>Appliquer la transformation active aux nœuds transformables sélectionnés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="364"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="371"/>
@@ -25114,7 +25114,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="374"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="381"/>
@@ -25124,7 +25124,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="399"/>
         <source>Transformed:</source>
-        <translation type="unfinished">Transformé :</translation>
+        <translation>Transformé :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="439"/>
@@ -25228,7 +25228,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/ViewControllers/qSlicerViewControllersModule.h" line="50"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les contrôleurs</translation>
     </message>
 </context>
 <context>
@@ -25240,7 +25240,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="14"/>
         <source>View Controllers</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les contrôleurs</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/ViewControllers/Resources/UI/qSlicerViewControllersModuleWidget.ui" line="20"/>
@@ -25278,92 +25278,92 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="62"/>
         <source>No jump slices</source>
-        <translation type="unfinished">Pas de saut des coupes</translation>
+        <translation>Pas de saut des coupes</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="63"/>
         <source>Slice views are not repositioned when crosshair is moved.</source>
-        <translation type="unfinished">Les vues des coupes ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
+        <translation>Les vues des coupes ne sont pas repositionnées lorsque le réticule est déplacé.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation type="unfinished">Saut de coupes - décalage</translation>
+        <translation>Saut de coupes - décalage</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
         <source>Slice view planes are shifted to match crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">Les plans d&apos;affichage des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+        <translation>Les plans de vue des coupes sont décalés pour correspondre à la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="73"/>
         <source>Jump slices - centered</source>
-        <translation type="unfinished">saut des coupes - centré</translation>
+        <translation>saut des coupes - centré</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="74"/>
         <source>Slice views are centered on crosshair position (even if crosshair is not displayed).</source>
-        <translation type="unfinished">Les vues des coupes sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
+        <translation>Les vues de coupe sont centrées sur la position du réticule (même si le réticule n&apos;est pas affiché).</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="94"/>
         <source>No crosshair</source>
-        <translation type="unfinished">Pas de réticule</translation>
+        <translation>Pas de réticule</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="95"/>
         <source>No crosshair displayed.</source>
-        <translation type="unfinished">Aucun réticule affiché.</translation>
+        <translation>Aucun réticule affiché.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="99"/>
         <source>Basic crosshair</source>
-        <translation type="unfinished">Réticule de base</translation>
+        <translation>Réticule de base</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="100"/>
         <source>Basic crosshair extending across the field of view with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Réticule de base s&apos;étendant sur le champ de vision avec un petit espace à la position du réticule.</translation>
+        <translation>Réticule de base s&apos;étendant sur le champ de vision avec un petit espace à la position du réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="105"/>
         <source>Basic + intersection</source>
-        <translation type="unfinished">Basique + intersection</translation>
+        <translation>Basique + intersection</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="106"/>
         <source>Basic crosshair extending across the field of view.</source>
-        <translation type="unfinished">Réticule de base s&apos;étendant sur le champ de vision.</translation>
+        <translation>Réticule de base s&apos;étendant sur le champ de vision.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="110"/>
         <source>Small basic crosshair</source>
-        <translation type="unfinished">Petit réticule de base</translation>
+        <translation>Petit réticule de base</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="111"/>
         <source>Small crosshair with a small gap at the crosshair position.</source>
-        <translation type="unfinished">Petit réticule avec un petit espace à la position du réticule.</translation>
+        <translation>Petit réticule avec un petit espace à la position du réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="115"/>
         <source>Small basic + intersection</source>
-        <translation type="unfinished">Petite basique + intersection</translation>
+        <translation>Petite basique + intersection</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="116"/>
         <source>Small crosshair.</source>
-        <translation type="unfinished">Petit réticule.</translation>
+        <translation>Petit réticule.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="146"/>
         <source>Fine crosshair</source>
-        <translation type="unfinished">Réticule fin</translation>
+        <translation>Réticule fin</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="147"/>
         <source>Fine crosshair.</source>
-        <translation type="unfinished">Réticule fin.</translation>
+        <translation>Réticule fin.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="151"/>
@@ -25373,17 +25373,17 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="152"/>
         <source>Medium crosshair.</source>
-        <translation type="unfinished">Réticule moyen.</translation>
+        <translation>Réticule moyen.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="156"/>
         <source>Thick crosshair</source>
-        <translation type="unfinished">Réticule épais</translation>
+        <translation>Réticule épais</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="157"/>
         <source>Thick crosshair.</source>
-        <translation type="unfinished">Réticule épais.</translation>
+        <translation>Réticule épais.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="176"/>
