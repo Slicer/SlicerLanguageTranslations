@@ -20414,7 +20414,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="375"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Placer un point de contrôle</translation>
+        <translation>Placer un point de contrôle</translation>
     </message>
 </context>
 <context>
@@ -20479,17 +20479,17 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="78"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite avec ombrage</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="80"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Projection d&apos;intensité maximale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="82"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Projection d&apos;intensité minimale</translation>
     </message>
 </context>
 <context>
@@ -20510,7 +20510,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Plots/qSlicerPlotsModule.h" line="47"/>
         <source>Plots</source>
-        <translation type="unfinished">Tracé</translation>
+        <translation>Parcelles</translation>
     </message>
 </context>
 <context>
@@ -20569,7 +20569,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="45"/>
         <source>Reformat</source>
-        <translation type="unfinished">Reformater</translation>
+        <translation>Reformater</translation>
     </message>
 </context>
 <context>
@@ -20635,22 +20635,22 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="251"/>
         <source>LR</source>
-        <translation type="unfinished">LR</translation>
+        <translation>LR</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="277"/>
         <source>PA</source>
-        <translation type="unfinished">PA</translation>
+        <translation>PA</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="303"/>
         <source>IS</source>
-        <translation type="unfinished">IS</translation>
+        <translation>IS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <source>Slice orientation (Axial, Sagittal, Coronal, Reformat).</source>
-        <translation type="unfinished">Orientation des coupes (Axial, Sagittal, Coronal, Reformate).</translation>
+        <translation>Orientation des coupes (Axiale, Sagittale, Coronale, Reformate).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="367"/>
@@ -20705,7 +20705,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="489"/>
         <source>Lock reformat widget&apos;s normal to the camera one. </source>
-        <translation type="unfinished">Verrouillez le widget de reformatage normal à celui de l&apos;appareil photo. </translation>
+        <translation>Verrouillez le widget de reformatage normal à celui de l&apos;appareil photo. </translation>
     </message>
 </context>
 <context>
@@ -20713,7 +20713,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="14"/>
         <source>Save Scene and Unsaved Data</source>
-        <translation type="unfinished">Enregistrer la scène et les données non enregistrées</translation>
+        <translation>Enregistrer la scène et les données non enregistrées</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="24"/>
@@ -20748,7 +20748,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="108"/>
         <source>Directory</source>
-        <translation type="unfinished">Annuaire</translation>
+        <translation>Annuaire</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="113"/>
@@ -20773,7 +20773,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="136"/>
         <source>Create a Medical Record Bundle containing the scene</source>
-        <translation type="unfinished">Créer un ensemble de dossiers médicaux contenant la scène</translation>
+        <translation>Créer un ensemble de dossiers médicaux contenant la scène</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSaveDataDialog.ui" line="156"/>
@@ -20786,13 +20786,13 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1133"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1140"/>
         <source>Modified</source>
-        <translation type="unfinished">Modifié</translation>
+        <translation>Modifié</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="595"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="889"/>
         <source>Not Modified</source>
-        <translation type="unfinished">Non modifié</translation>
+        <translation>Non modifié</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="648"/>
@@ -20807,17 +20807,17 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="725"/>
         <source>Scene file was not saved because user chose not to overwrite existing file: %1.</source>
-        <translation type="unfinished">Le fichier de scène n’a pas été enregistré car l’utilisateur a choisi de ne pas remplacer le fichier existant : %1.</translation>
+        <translation>Le fichier de scène n’a pas été enregistré car l’utilisateur a choisi de ne pas remplacer le fichier existant : %1.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="814"/>
         <source>Node %1 not saved, file name is empty.</source>
-        <translation type="unfinished">Le nœud %1 n&apos;a pas été enregistré, le nom du fichier est vide.</translation>
+        <translation>Le nœud %1 n&apos;a pas été enregistré, le nom du fichier est vide.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="824"/>
         <source>Node %1 was not saved because user chose not to overwrite existing file: %2.</source>
-        <translation type="unfinished">Le nœud %1 n’a pas été enregistré car l’utilisateur a choisi de ne pas remplacer le fichier existant : %2.</translation>
+        <translation>Le nœud %1 n’a pas été enregistré car l’utilisateur a choisi de ne pas remplacer le fichier existant : %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="862"/>
@@ -20827,13 +20827,13 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="867"/>
         <source>Failed to save node %1 to file %2.</source>
-        <translation type="unfinished">Échec de l&apos;enregistrement du nœud %1 dans le fichier %2.</translation>
+        <translation>Échec de l&apos;enregistrement du nœud %1 dans le fichier %2.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="916"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1120"/>
         <source>Scene</source>
-        <translation type="unfinished">Scène</translation>
+        <translation>Scène</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1432"/>
@@ -20843,12 +20843,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1465"/>
         <source>Saving file...</source>
-        <translation type="unfinished">Enregistrement du fichier...</translation>
+        <translation>Enregistrement du fichier...</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1466"/>
         <source>The file: %1 already exists. Do you want to replace it ?</source>
-        <translation type="unfinished">Le fichier&#xa0;: %1 existe déjà. Voulez-vous le remplacer ?</translation>
+        <translation>Le fichier&#xa0;: %1 existe déjà. Voulez-vous le remplacer ?</translation>
     </message>
 </context>
 <context>
@@ -20926,7 +20926,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="65"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="103"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">Scène MRML</translation>
+        <translation>Scène MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneReader.cxx" line="134"/>
@@ -20954,7 +20954,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/SceneViews/qSlicerSceneViewsModule.h" line="40"/>
         <source>Views</source>
-        <translation type="unfinished">Vues</translation>
+        <translation>Vues</translation>
     </message>
 </context>
 <context>
@@ -20962,7 +20962,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleDialog.cxx" line="31"/>
         <source>3D Slicer SceneView</source>
-        <translation type="unfinished">Vue de la scène 3D Slicer</translation>
+        <translation>Vue de la scène 3D Slicer</translation>
     </message>
 </context>
 <context>
@@ -20986,7 +20986,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="117"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SceneViews/GUI/qSlicerSceneViewsModuleWidget.cxx" line="182"/>
@@ -21013,12 +21013,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="63"/>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="83"/>
         <source>MRML Scene</source>
-        <translation type="unfinished">Scène MRML</translation>
+        <translation>Scène MRML</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="84"/>
         <source>Medical Reality Bundle</source>
-        <translation type="unfinished">Données de réalité médicale</translation>
+        <translation>Données de réalité médicale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Data/qSlicerSceneWriter.cxx" line="85"/>
@@ -21082,7 +21082,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorEraseEffect.cxx" line="74"/>
         <source>&lt;html&gt;Erase from current segment with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; erase from segment around the mouse pointer.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;Effacer le segment actuel avec un pinceau rond&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Glisser-déposer avec le bouton gauche&#xa0;:&lt;/b&gt; effacer du segment autour du pointeur de la souris.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Maj + molette de la souris&lt;/b&gt; ou &lt;b&gt;touches +/-&#xa0;:&lt;/b&gt; ajustez la taille du pinceau.&lt;/li&gt;&lt;li&gt;&lt;b&gt; Ctrl + molette de la souris&#xa0;:&lt;/b&gt; zoom avant/arrière de la vue en tranche.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;L&apos;édition est disponible à la fois dans les vues en tranche et en 3D.&lt;p&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -21090,7 +21090,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="992"/>
         <source>&lt;html&gt;Paint with a round brush&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Left-button drag-and-drop:&lt;/b&gt; paint strokes.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Shift + mouse wheel&lt;/b&gt; or &lt;b&gt;+/- keys:&lt;/b&gt; adjust brush size.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + mouse wheel:&lt;/b&gt; slice view zoom in/out.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Editing is available both in slice and 3D views.&lt;p&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;Peignez avec un pinceau rond&lt;br&gt;.&lt;p&gt;&lt;ul style=&quot;margin: 0&quot;&gt;&lt;li&gt;&lt;b&gt;Glisser-déposer avec le bouton gauche&#xa0;:&lt;/b&gt; traits de peinture.&lt;/li &gt;&lt;li&gt;&lt;b&gt;Maj + molette de la souris&lt;/b&gt; ou &lt;b&gt;touches +/-&#xa0;:&lt;/b&gt; ajustez la taille du pinceau.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ctrl + molette de la souris&#xa0;:&lt;/b &gt; zoom avant/arrière de la vue en tranche.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;L&apos;édition est disponible à la fois dans les vues en tranche et en 3D.&lt;p&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1415"/>
@@ -21418,7 +21418,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="310"/>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="335"/>
@@ -21428,7 +21428,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="338"/>
         <source>+&gt;</source>
-        <translation type="unfinished">+&gt;</translation>
+        <translation>+&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="363"/>
@@ -21438,7 +21438,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="366"/>
         <source>&lt;+</source>
-        <translation type="unfinished">&lt;+</translation>
+        <translation>&lt;+</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="391"/>
@@ -21585,7 +21585,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="777"/>
         <source>Force collapse to single layer:</source>
-        <translation type="unfinished">Forcer la réduction à une seule couche :</translation>
+        <translation>Forcer la réduction à une seule couche :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="784"/>
@@ -21600,17 +21600,17 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="803"/>
         <source>Collapse labelmap layers</source>
-        <translation type="unfinished">Réduire les couches de la carte d&apos;étiquettes</translation>
+        <translation>Réduire les couches de la carte d&apos;étiquettes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="100"/>
         <source>Segmentations module manages segmentations. Each segmentation can contain multiple segments, which correspond to one structure or ROI. Each segment can contain multiple data representations for the same structure, and the module supports automatic conversion between these representations as well as advanced display settings and import/export features.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le module Segmentations gère les segmentations. Chaque segmentation peut contenir plusieurs segments, qui correspondent à une structure ou ROI. Chaque segment peut contenir plusieurs représentations de données pour la même structure, et le module prend en charge la conversion automatique entre ces représentations ainsi que les paramètres d&apos;affichage avancés et les fonctionnalités d&apos;importation/exportation.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="113"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail fait partie du projet SparKit, financé par le programme ACRU d&apos;Action Cancer Ontario (ACO) et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO).</translation>
     </message>
 </context>
 <context>
@@ -21667,7 +21667,7 @@ Note: This may result in unwanted data loss in %5.</source>
 Would you like to change the master representation of &apos;%5&apos; to &apos;%1&apos;?
 
 Note: This may result in unwanted data loss in %5.</oldsource>
-        <translation type="unfinished">Impossible de convertir la représentation de la source principale &apos;%1&apos; en cible principal &apos;%2&apos;, donc impossible de copier le segment &apos;%3&apos; de la segmentation &apos;%4&apos; vers &apos;%5&apos;.
+        <translation>Impossible de convertir la représentation de la source principale &apos;%1&apos; en cible principal &apos;%2&apos;, donc impossible de copier le segment &apos;%3&apos; de la segmentation &apos;%4&apos; vers &apos;%5&apos;.
 
 souhaitez-vous remplacer la représentation principale de &apos;%5&apos; par &apos;%1&apos; ?
 
@@ -21696,7 +21696,7 @@ Remarque : Cela peut entraîner une perte de données indésirable dans %5.</tra
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="924"/>
         <source>Segmentations/AlwaysCropDuringSegmentationNodeExport</source>
-        <translation type="unfinished"></translation>
+        <translation>Segmentations/AlwaysCropDuringSegmentationNodeExport</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="925"/>
@@ -21743,7 +21743,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1080"/>
         <source>Failed to import labelmap volume</source>
-        <translation type="unfinished">Échec de l&apos;importation du volume labelmap</translation>
+        <translation>Échec de l&apos;importation du volume labelmap</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModuleWidget.cxx" line="1089"/>
@@ -21831,7 +21831,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="89"/>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="176"/>
         <source>(set)</source>
-        <translation type="unfinished">(set)</translation>
+        <translation>(définirEnsemble)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="96"/>
@@ -21861,7 +21861,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="100"/>
         <source>Ask user</source>
-        <translation type="unfinished">Demander à l&apos;utilisateur</translation>
+        <translation>Demander à l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsSettingsPanel.cxx" line="101"/>
@@ -21879,22 +21879,22 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.h" line="61"/>
         <source>Sequences</source>
-        <translation type="unfinished">Séquences</translation>
+        <translation>Séquences</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="107"/>
         <source>Sequence browser</source>
-        <translation type="unfinished">Navigateur de séquences</translation>
+        <translation>Navigateur de séquences</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="168"/>
         <source>This is a module for creating, recording, and replaying node sequences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il s&apos;agit d&apos;un module permettant de créer, d&apos;enregistrer et de rejouer des séquences de nœuds.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="174"/>
         <source>This work was funded by CCO ACRU and OCAIRO grants.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail a été financé par les subventions CCO ACRU et OCAIRO.</translation>
     </message>
 </context>
 <context>
@@ -21946,7 +21946,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="128"/>
         <source>Remove the selected sequence(s) from the browser.</source>
-        <translation type="unfinished">Supprime la ou les séquences sélectionnées du navigateur.</translation>
+        <translation>Supprime la ou les séquences sélectionnées du navigateur.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="156"/>
@@ -22001,7 +22001,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="227"/>
         <source>Plotting</source>
-        <translation type="unfinished">Traçage</translation>
+        <translation>Traçage</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="242"/>
@@ -22042,7 +22042,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
         <source>Maximum</source>
         <extracomment>Record all node changes</extracomment>
-        <translation type="unfinished">Maximum</translation>
+        <translation>Maximum</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="355"/>
@@ -22158,7 +22158,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="302"/>
         <source>Signal Intensity</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensité du signal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModuleWidget.cxx" line="303"/>
