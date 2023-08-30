@@ -6578,7 +6578,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation type="unfinished">Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC, por sus siglas en inglés), financiada por los Institutos Nacionales de Salud a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -6872,7 +6872,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
         <source>Number Of Thread</source>
-        <translation type="unfinished">Número de cadenas</translation>
+        <translation>Número de hilos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"/>
@@ -6882,7 +6882,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished">Número de cadenas utilizadas para calcular la imagen de salida</translation>
+        <translation>Número de hilos utilizadas para calcular la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
@@ -7089,12 +7089,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="21"/>
         <source>lanczos</source>
-        <translation type="unfinished">lanczos</translation>
+        <translation>lanczos</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="22"/>
         <source>blackman</source>
-        <translation type="unfinished">blackman</translation>
+        <translation>blackman</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="23"/>
@@ -7142,7 +7142,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health</source>
-        <translation type="unfinished">Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud.</translation>
+        <translation>Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC, por sus siglas en inglés), financiada por los Institutos Nacionales de Salud</translation>
     </message>
     <message>
         <location filename="Modules/CLI/RobustStatisticsSegmenter/RobustStatisticsSegmenter_tr.h" line="8"/>
@@ -7270,7 +7270,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos procede de Insight/Examples (copyright) Insight Software Consortium</translation>
+        <translation type="unfinished">Este módulo de comandos procede de Insight/Ejemplos(copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
@@ -7285,82 +7285,82 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="10"/>
         <source>Smoothing iterations</source>
-        <translation type="unfinished">Iteraciones de suavizado</translation>
+        <translation>Iteraciones de suavizado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="11"/>
         <source>Timestep</source>
-        <translation type="unfinished">Temporizador</translation>
+        <translation>Temporizador</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="12"/>
         <source>Number of smoothing iterations</source>
-        <translation type="unfinished">Número de iteraciones de suavizado</translation>
+        <translation>Número de iteraciones de suavizado</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="13"/>
         <source>Timestep for curvature flow</source>
-        <translation type="unfinished">Escala de tiempo para el flujo de curvatura</translation>
+        <translation>Escala de tiempo para el flujo de curvatura</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="14"/>
         <source>Segmentation Parameters</source>
-        <translation type="unfinished">Parámetros de segmentación</translation>
+        <translation>Parámetros de segmentación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="15"/>
         <source>Parameters to prescribe the region growing</source>
-        <translation type="unfinished">Parámetros para prescribir la región en crecimiento</translation>
+        <translation>Parámetros para definir el crecimiento de la región</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="16"/>
         <source>Number of iterations</source>
-        <translation type="unfinished">Número de iteraciones</translation>
+        <translation>Número de iteraciones</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="17"/>
         <source>Multiplier</source>
-        <translation type="unfinished">Multiplicador</translation>
+        <translation>Multiplicador</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="18"/>
         <source>Neighborhood Radius</source>
-        <translation type="unfinished">Radio de vecindad</translation>
+        <translation>Radio de vecindad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="19"/>
         <source>Output Label Value</source>
-        <translation type="unfinished">Etiqueta de salida Valor</translation>
+        <translation>Valor de la etiqueta de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="20"/>
         <source>Seeds</source>
-        <translation type="unfinished">Semillas</translation>
+        <translation>Semillas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="21"/>
         <source>Number of iterations of region growing</source>
-        <translation type="unfinished">Número de iteraciones de crecimiento de la región</translation>
+        <translation>Número de iteraciones de crecimiento de la región</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="22"/>
         <source>Number of standard deviations to include in intensity model</source>
-        <translation type="unfinished">Número de desviaciones estándar a incluir en el modelo de intensidad</translation>
+        <translation>Número de desviaciones estándar a incluir en el modelo de intensidad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="23"/>
         <source>The radius of the neighborhood over which to calculate intensity model</source>
-        <translation type="unfinished">El radio de la vecindad sobre el que calcular el modelo de intensidad</translation>
+        <translation>El radio de entorno sobre el que calcular el modelo de intensidad</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="24"/>
         <source>The integer value (0-255) to use for the segmentation results. This will determine the color of the segmentation that will be generated by the Region growing algorithm</source>
-        <translation type="unfinished">El valor entero (0-255) a utilizar para los resultados de la segmentación. Esto determinará el color de la segmentación que será generada por el algoritmo de crecimiento de la región.</translation>
+        <translation>El valor entero (0-255) a utilizar para los resultados de la segmentación. Esto determinará el color de la segmentación que será generada por el algoritmo de crecimiento de la región.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="25"/>
         <source>Seed point(s) for region growing</source>
-        <translation type="unfinished">Punto(s) semillero(s) para el cultivo en la región</translation>
+        <translation>Punto(s) semillero(s) para el cultivo en la región</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="26"/>
@@ -7370,27 +7370,27 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="27"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="28"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="29"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="30"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="31"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Salida filtrada</translation>
+        <translation>Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -7398,12 +7398,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="5"/>
         <source>Subtract Scalar Volumes</source>
-        <translation type="unfinished">Restar volúmenes escalares</translation>
+        <translation>Restar volúmenes escalares</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="6"/>
         <source>Subtracts two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">Resta dos imágenes. Aunque se admiten todos los tipos de imagen en la entrada, sólo se producen los tipos con signo. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
+        <translation>Restar dos imágenes. Aunque se admiten todos los tipos de imagen en la entrada, sólo se producen los tipos con signo. No es necesario que las dos imágenes tengan las mismas dimensiones.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
@@ -7418,22 +7418,22 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">Volumen de entrada 2</translation>
+        <translation>Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="12"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
@@ -22658,7 +22658,7 @@ Por defecto: {documentationbaseurl}/guía_usuario/módulos/{lowercasemodulename}
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="99"/>
         <source>Skip loading of builtin:</source>
-        <translation type="unfinished">Omitir la carga del builtin:</translation>
+        <translation>Omitir la carga del builtin:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
@@ -22693,8 +22693,7 @@ Por defecto: {documentationbaseurl}/guía_usuario/módulos/{lowercasemodulename}
 &lt;/body&gt;&lt;/html&gt;
 </source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Additional module paths:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Rutas de módulos adicionales:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;(drag-and-drop&lt;br/&gt;files or folders)&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="283"/>
@@ -24116,7 +24115,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
         <source>Patient tags in item name:</source>
-        <translation type="unfinished">Etiquetas de paciente en el nombre del artículo:</translation>
+        <translation type="unfinished">Etiquetas del paciente en el nombre del artículo:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="101"/>
@@ -24497,7 +24496,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation type="unfinished">memoria intermedia</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
@@ -24507,7 +24506,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="98"/>
         <source>signed char</source>
-        <translation type="unfinished">carácter con signo</translation>
+        <translation>carácter con signo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="103"/>
@@ -24537,32 +24536,32 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="128"/>
         <source>unsigned char</source>
-        <translation type="unfinished">carácter sin signo</translation>
+        <translation>carácter sin signo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="133"/>
         <source>unsigned short</source>
-        <translation type="unfinished">unsigned short</translation>
+        <translation type="unfinished">carácter corto sin signo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="138"/>
         <source>unsigned int</source>
-        <translation type="unfinished">int sin signo</translation>
+        <translation>int sin signo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="143"/>
         <source>unsigned long</source>
-        <translation type="unfinished">unsigned long</translation>
+        <translation>carácter largo sin signo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="148"/>
         <source>unsigned long long</source>
-        <translation type="unfinished">unsigned long long</translation>
+        <translation type="unfinished">carácter largo largo sin signo</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="153"/>
         <source>unsigned __int64</source>
-        <translation type="unfinished">sin signo __int64</translation>
+        <translation>sin signo __int64</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="161"/>
