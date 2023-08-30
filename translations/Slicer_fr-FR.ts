@@ -19654,12 +19654,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2297"/>
         <source>Jump slices</source>
-        <translation type="unfinished">Sauter des coupes</translation>
+        <translation>Sauter des coupes</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2304"/>
         <source>Refocus all cameras</source>
-        <translation type="unfinished"></translation>
+        <translation>Recentrer toutes les caméras</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2322"/>
