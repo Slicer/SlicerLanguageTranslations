@@ -24707,7 +24707,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModule.h" line="47"/>
         <source>Tables</source>
-        <translation type="unfinished">Tables</translation>
+        <translation>Tables</translation>
     </message>
 </context>
 <context>
@@ -24715,7 +24715,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="20"/>
         <source>Tables</source>
-        <translation type="unfinished">Tables</translation>
+        <translation>Tables</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="71"/>
@@ -24743,7 +24743,7 @@ Balises&#xa0;: %5</translation>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="282"/>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="296"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Resources/UI/qSlicerTablesModuleWidget.ui" line="127"/>
@@ -24804,12 +24804,12 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="207"/>
         <source>Click to unlock this table so that values can be modified</source>
-        <translation type="unfinished">Cliquez pour déverrouiller cette table afin que les valeurs puissent être modifiées</translation>
+        <translation>Cliquez pour déverrouiller cette table afin que les valeurs puissent être modifiées</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesModuleWidget.cxx" line="212"/>
         <source>Click to lock this table to prevent modification of the values in the user interface</source>
-        <translation type="unfinished">Cliquez pour verrouiller cette table afin d’empêcher la modification des valeurs dans l’interface utilisateur</translation>
+        <translation>Cliquez pour verrouiller cette table afin d’empêcher la modification des valeurs dans l’interface utilisateur</translation>
     </message>
 </context>
 <context>
@@ -24817,7 +24817,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="147"/>
         <source>Table reading failed: no file extension specified: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la lecture de la table&#xa0;: aucune extension de fichier spécifiée&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="162"/>
@@ -24832,7 +24832,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
         <source>Failed to read table from  &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la lecture du tableau de &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -24854,7 +24854,7 @@ Balises&#xa0;: %5</translation>
         <location filename="Utilities/Templates/Modules/Loadable/qSlicerTemplateKeyModule.h" line="43"/>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/qSlicerTemplateKeyModule.h" line="43"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>CléModèle</translation>
     </message>
 </context>
 <context>
@@ -24866,7 +24866,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="14"/>
         <source>TemplateKey</source>
-        <translation type="unfinished"></translation>
+        <translation>CléDeModèle</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Loadable/Resources/UI/qSlicerTemplateKeyModuleWidget.ui" line="20"/>
