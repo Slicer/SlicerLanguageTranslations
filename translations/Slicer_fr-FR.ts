@@ -17930,12 +17930,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="107"/>
         <source>Extensions manager requires &lt;em&gt;3D Slicer&lt;/em&gt; to be installed. Open the disk image (.dmg) file, drag &lt;em&gt;Slicer.app&lt;/em&gt; into the the &lt;em&gt;Applications&lt;/em&gt; folder, and launch &lt;em&gt;3D Slicer&lt;/em&gt; from the &lt;em&gt;Applications&lt;/em&gt; folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le gestionnaire d&apos;extensions nécessite l&apos;installation de &lt;em&gt;3D Slicer&lt;/em&gt;. Ouvrez le fichier image disque (.dmg), faites glisser &lt;em&gt;Slicer.app&lt;/em&gt; dans le dossier &lt;em&gt;Applications&lt;/em&gt; et lancez &lt;em&gt;3D Slicer&lt;/em&gt; depuis &lt;em&gt; Dossier Applications&lt;/em&gt;.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="111"/>
         <source>Check that &lt;b&gt;3D Slicer&lt;/b&gt; is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifiez que &lt;b&gt;3D Slicer&lt;/b&gt; est correctement installé.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsServerWidget.cxx" line="114"/>
@@ -18053,7 +18053,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="78"/>
         <source>All</source>
-        <translation type="unfinished">Tout</translation>
+        <translation>Tout</translation>
     </message>
 </context>
 <context>
@@ -18150,17 +18150,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="77"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation>Composite avec ombrage</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="79"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Projection d&apos;intensité maximale</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="81"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation>Projection d&apos;intensité minimale</translation>
     </message>
 </context>
 <context>
