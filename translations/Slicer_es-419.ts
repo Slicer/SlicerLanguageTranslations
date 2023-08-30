@@ -6527,7 +6527,7 @@ b = Blackman</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished">12 parámetros de la matriz de transformación por filas ( --los 3 últimos son traducciones-- )</translation>
+        <translation>12 parámetros de la matriz de transformación por filas ( --los 3 últimos son traducciones-- )</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
@@ -6555,7 +6555,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished">Remuestrear volumen escalar/vectorial/DWI</translation>
+        <translation>Remuestrear volumen escalar/vectorial/DWI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
@@ -6569,7 +6569,7 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished">Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El &quot;remuestreo&quot; se realiza en coordenadas espaciales, no en coordenadas de píxel/rejilla. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
+        <translation>Este módulo implementa el remuestreo de imágenes y de imágenes vectoriales mediante el uso de transformaciones itk. También puede manejar el remuestreo de imágenes de resonancia magnética ponderada por difusión. El “remuestreo” se realiza en coordenadas espaciales, no en coordenadas de píxel/rejilla. Es muy importante asegurarse de que el espaciado de la imagen está correctamente configurado en las imágenes implicadas. El interpolador es necesario, ya que el mapeo de un espacio a otro requerirá a menudo la evaluación de la intensidad de la imagen en posiciones no cuadriculadas.
 
 Advertencia: Para remuestrear imágenes DWMR, utilice archivos de entrada y salida nrrd.
 
@@ -6578,7 +6578,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por los National Institutes of Health a través de la NIH Roadmap for Medical Research, Grant U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation type="unfinished">Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC), financiada por los Institutos Nacionales de Salud a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -6648,7 +6648,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="20"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation>Fichero que contiene el campo de deformación (imagen vectorial 3D que contiene vectores con 3 componentes)</translation>
+        <translation>Archivo que contiene el campo de deformación (imagen vectorial 3D que contiene vectores con 3 componentes)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="21"/>
@@ -6725,7 +6725,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="37"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation>Espacio Incoherencia de orientación (entre la transformación y la imagen)</translation>
+        <translation>Inconsistencia de orientación espacial (entre la transformación y la imagen)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="38"/>
@@ -6740,7 +6740,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="40"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de Transformación en Slicer3, no seleccionar)</translation>
+        <translation>La orientación espacial entre la transformación y la imagen es diferente (RAS/LPS) (advertencia: si la transformación es un Nodo de transformación en Slicer3, no seleccionar)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="41"/>
@@ -6827,7 +6827,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="59"/>
         <source>Size</source>
-        <translation>Talla</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="60"/>
@@ -6857,7 +6857,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="65"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished">9 parámetros de la matriz de dirección por filas (ijk a LPS si transformación LPS, ijk a RAS si transformación RAS)</translation>
+        <translation>9 parámetros de la matriz de dirección por filas (ijk a LPS si se transforma en LPS, ijk a RAS si se transforma en RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="66"/>
@@ -6872,7 +6872,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="68"/>
         <source>Number Of Thread</source>
-        <translation>Número de hilos</translation>
+        <translation type="unfinished">Número de cadenas</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="69"/>
@@ -6882,7 +6882,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation>Número de hilos utilizados para calcular la imagen de salida</translation>
+        <translation type="unfinished">Número de cadenas utilizadas para calcular la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
@@ -6892,12 +6892,12 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="72"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation>Parámetros de la función de interpolación Sinc con ventanas</translation>
+        <translation>Parámetros de la función de interpolación Ventana Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="73"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation>Parámetros utilizados para la interpolación Windowed Sinc</translation>
+        <translation>Parámetros utilizados para la interpolación Ventana Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="74"/>
@@ -6918,7 +6918,7 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished">Función de ventana
+        <translation>Función de ventana
 h = Hamming
 c = Coseno
 w = Welch
