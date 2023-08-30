@@ -20328,7 +20328,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModulesListView.cxx" line="152"/>
         <source>Requires:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prérequis :</translation>
     </message>
 </context>
 <context>
@@ -20346,37 +20346,37 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="97"/>
         <source>Adjust</source>
-        <translation type="unfinished">Ajuster</translation>
+        <translation>Ajuster</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="98"/>
         <source>Adjust window/level by click-and-drag in a slice viewer.</source>
-        <translation type="unfinished">Ajuster la fenêtre/le niveau en cliquant-glissant dans une visionneuse de coupes.</translation>
+        <translation>Ajuster la fenêtre/le niveau en cliquant-glissant dans une visionneuse de coupes.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="102"/>
         <source>Select region</source>
-        <translation type="unfinished">Sélectionner une région</translation>
+        <translation>Sélectionner une région</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="103"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region corner.</source>
-        <translation type="unfinished">Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de coupes. La position du clic est utilisée comme coin de la région.</translation>
+        <translation>Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de coupes. La position du clic est utilisée comme coin de la région.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="108"/>
         <source>Select region - centered</source>
-        <translation type="unfinished">Sélectionner une région - centrée</translation>
+        <translation>Sélectionner une région - centrée</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="109"/>
         <source>Set window level based on a rectangular region, specified by click-and-drag in a slice viewer. Click position is used as region center.</source>
-        <translation type="unfinished">Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de tranches. La position du clic est utilisée comme centre de la région.</translation>
+        <translation>Définir le niveau de la fenêtre en fonction d&apos;une région rectangulaire, spécifiée par cliquer-glisser dans une visionneuse de tranches. La position du clic est utilisée comme centre de la région.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="125"/>
         <source>Adjust window/level</source>
-        <translation type="unfinished">Ajuster la fenêtre/le niveau</translation>
+        <translation>Ajuster la fenêtre/le niveau</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerMouseModeToolBar.cxx" line="131"/>
