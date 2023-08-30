@@ -19664,22 +19664,22 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2322"/>
         <source>Edit position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la position du ou des points de contrôle en surbrillance</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2328"/>
         <source>Skip placement of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer le placement des points de contrôle en surbrillance</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2334"/>
         <source>Restore position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer la position du ou des points de contrôle en surbrillance</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2340"/>
         <source>Clear position of highlighted control point(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer la position du ou des points de contrôle en surbrillance</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModuleWidget.cxx" line="2454"/>
