@@ -20158,12 +20158,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation type="unfinished">&amp;Essai</translation>
+        <translation>&amp;Expérimentation</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
-        <translation type="unfinished">Passer au module</translation>
+        <translation>Passer au module</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
@@ -20188,7 +20188,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>Python scriptable chargeable</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
