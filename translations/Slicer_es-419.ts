@@ -3951,7 +3951,7 @@ Los métodos de difusión anisotrópica reducen el ruido (o los detalles no dese
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos proviene de Insight/Ejemplos (derechos de autor) Consorcio Insight Software</translation>
+        <translation>Este módulo de comandos proviene de Insight/Ejemplos (derechos de autor) Consorcio Insight Software</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GradientAnisotropicDiffusion/GradientAnisotropicDiffusion_tr.h" line="8"/>
