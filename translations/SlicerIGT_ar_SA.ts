@@ -6,87 +6,87 @@
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
         <source>Breach warning</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير خرق</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="25"/>
         <source>Parameter set:</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة المعلمة:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="35"/>
         <source>vtkMRMLBreachWarningNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLBreachWarningNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="64"/>
         <source>Inputs</source>
-        <translation type="unfinished"></translation>
+        <translation>المدخلات</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="74"/>
         <source>Model to watch:</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج لمشاهدة:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="84"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="102"/>
         <source>Tool tip (to RAS) transform: </source>
-        <translation type="unfinished"></translation>
+        <translation>تلميح أداة (إلى RAS) تحويل: </translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="112"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="149"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="161"/>
         <source>Display line to closest point</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض الخط إلى أقرب نقطة</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="178"/>
         <source>Line to closest point color</source>
-        <translation type="unfinished"></translation>
+        <translation>خط لأقرب نقطة اللون</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="188"/>
         <source>Display warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض تحذير اللون</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="205"/>
         <source>Warning color</source>
-        <translation type="unfinished"></translation>
+        <translation>لون التحذير</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="212"/>
         <source>Play warning sound</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل صوت التحذير</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="222"/>
         <source>Line to closest point text size:</source>
-        <translation type="unfinished"></translation>
+        <translation>خط لأقرب نقطة حجم النص:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="242"/>
         <source>Line to closest point thickness:</source>
-        <translation type="unfinished"></translation>
+        <translation>خط لأقرب نقطة سمك:</translation>
     </message>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>مسافة تحذير الاختراق (مم):</translation>
     </message>
 </context>
 <context>
@@ -94,137 +94,137 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>قالب الوحدة</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="22"/>
         <source>Parameter Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة المعلمة:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="29"/>
         <source>Sampling Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة أخذ العينات:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="36"/>
         <source>Points will be collected according to the origin of this coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم جمع النقاط وفقا لأصل نظام الإحداثيات هذا.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLBSplineTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLBSplineTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLGridTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLGridTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="39"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="207"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="57"/>
         <source>vtkMRMLCollectPointsNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLCollectPointsNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="68"/>
         <source>Toggle visibility of the output node</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل رؤية عقدة الإخراج</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="71"/>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="85"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="82"/>
         <source>Delete the last point from the output node (hold click to see the option delete all)</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف النقطة الأخيرة من عقدة الإخراج (اضغط باستمرار لرؤية الخيار حذف الكل)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="96"/>
         <source>Store points in either a markups or a model node</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتخزين النقاط إما في العلامات أو عقدة النموذج</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsFiducialNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsFiducialNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLModelNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLModelNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="99"/>
         <source>vtkMRMLMarkupsCurveNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsCurveNode</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="116"/>
         <source>Change the color of the output node</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير لون عقدة الإخراج</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="128"/>
         <source>Output Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة الإخراج:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="137"/>
         <source>Collect points either one at a time, or collect them automatically (tick the checkbox).</source>
-        <translation type="unfinished"></translation>
+        <translation>اجمع النقاط إما واحدة تلو الأخرى ، أو اجمعها تلقائيا (حدد مربع الاختيار).</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="140"/>
         <source>Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>جمع</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="147"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="156"/>
         <source>Label Base:</source>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة التسمية:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="163"/>
         <source>Markups will be numbered according to the current counter (incremented automatically)</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم ترقيم العلامات وفقا للعداد الحالي (يتم زيادتها تلقائيا)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="170"/>
         <source>Minimum Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى للمسافة:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="177"/>
         <source>Next Label Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم التسمية التالي:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="184"/>
         <source>Markups will have labels that begin with this text.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيكون للترميز تسميات تبدأ بهذا النص.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="187"/>
@@ -234,27 +234,27 @@
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="194"/>
         <source>Specify a minimum distance before a new point is automatically collected (Auto-Collect mode only)</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد مسافة دنيا قبل جمع نقطة جديدة تلقائيا (وضع التجميع التلقائي فقط)</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="204"/>
         <source>Points will be collected relative to the anchor coordinate system.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم جمع النقاط بالنسبة لنظام إحداثيات المرساة.</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="225"/>
         <source>Anchor Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة مرساة:</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="252"/>
         <source>Delete All Points</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف جميع النقاط</translation>
     </message>
     <message>
         <location filename="CollectPoints/Resources/UI/qSlicerCollectPointsModule.ui" line="255"/>
         <source>Delete all points from the node</source>
-        <translation type="unfinished"></translation>
+        <translation>احذف جميع النقاط من العقدة</translation>
     </message>
 </context>
 <context>
@@ -262,17 +262,17 @@
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="97"/>
         <source>Delete options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات الحذف</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="521"/>
         <source>Auto-Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>جمع تلقائي</translation>
     </message>
     <message>
         <location filename="CollectPoints/qSlicerCollectPointsModuleWidget.cxx" line="527"/>
         <source>Collect</source>
-        <translation type="unfinished"></translation>
+        <translation>جمع</translation>
     </message>
 </context>
 <context>
@@ -280,17 +280,17 @@
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="33"/>
         <source>Create models</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء نماذج</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="39"/>
         <source>Needle model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإبرة</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="67"/>
@@ -305,78 +305,78 @@
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="393"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="444"/>
         <source>length</source>
-        <translation type="unfinished"></translation>
+        <translation>الطول</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="99"/>
         <source>Tip radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميح دائرة نصف قطرها:</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="106"/>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation>الطول: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="113"/>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="403"/>
         <source>Radius: </source>
-        <translation type="unfinished"></translation>
+        <translation>نصف القطر: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="120"/>
         <source>Depth markers: </source>
-        <translation type="unfinished"></translation>
+        <translation>علامات العمق: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="133"/>
         <source>Create needle</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء إبرة</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="165"/>
         <source>Coordinate system model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج نظام الإحداثيات</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="177"/>
         <source>Create coordinate system</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء نظام إحداثيات</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="184"/>
         <source>Axis length: </source>
-        <translation type="unfinished"></translation>
+        <translation>طول المحور: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="191"/>
         <source>Thickness: </source>
-        <translation type="unfinished"></translation>
+        <translation>سمك: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="239"/>
         <source>Cube model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج مكعب</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="264"/>
         <source>R-L length: </source>
-        <translation type="unfinished"></translation>
+        <translation>طول R-L: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="277"/>
         <source>Create cube</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء مكعب</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="284"/>
         <source>S-I length: </source>
-        <translation type="unfinished"></translation>
+        <translation>طول S-I: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="291"/>
         <source>A-P length: </source>
-        <translation type="unfinished"></translation>
+        <translation>طول A-P: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="339"/>
