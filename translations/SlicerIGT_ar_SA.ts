@@ -381,32 +381,32 @@
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="339"/>
         <source>Cylinder model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج اسطوانة</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="370"/>
         <source>Create cylinder</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء اسطوانة</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="377"/>
         <source>Height: </source>
-        <translation type="unfinished"></translation>
+        <translation>الارتفاع: </translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="413"/>
         <source>Sphere model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج المجال</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="425"/>
         <source>Create sphere</source>
-        <translation type="unfinished"></translation>
+        <translation>إنشاء المجال</translation>
     </message>
     <message>
         <location filename="CreateModels/Resources/UI/qSlicerCreateModelsModule.ui" line="454"/>
         <source>Radius:</source>
-        <translation type="unfinished"></translation>
+        <translation>نصف القطر:</translation>
     </message>
 </context>
 <context>
