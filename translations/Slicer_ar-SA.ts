@@ -11537,85 +11537,85 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="14"/>
         <source>Scalars Display</source>
-        <translation type="unfinished">Scalars Display</translation>
+        <translation>عرض العددية</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible:</translation>
+        <translation>مرئية:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="46"/>
         <source>Active Scalar:</source>
-        <translation type="unfinished">Active Scalar:</translation>
+        <translation>مقياس نشط:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="56"/>
         <source>Color Table:</source>
-        <translation type="unfinished">Color Table:</translation>
+        <translation>جدول الألوان:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="66"/>
         <source>Scalar Range Mode:</source>
-        <translation type="unfinished">Scalar Range Mode:</translation>
+        <translation>وضع النطاق العددي:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="73"/>
         <source>Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</source>
-        <translation type="unfinished">Set the scalar range mode flag. Data (auto) updates the Display Scalar Range from the scalar range of the data. Direct color mapping option bypasses lookup table and uses scalar values as RGB color.</translation>
+        <translation>اضبط علامة وضع النطاق القياسي. البيانات (تلقائيًا) بتحديث عرض مجموعة العددية من مجموعة العددية للبيانات. خيار تعيين اللون المباشر يتجاوز جدول البحث ويستخدم القيم العددية كلون RGB.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="80"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>يدوي</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="85"/>
         <source>Data scalar range (auto)</source>
-        <translation type="unfinished">Data scalar range (auto)</translation>
+        <translation>نطاق البيانات القياسي (تلقائي)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="90"/>
         <source>Color table (LUT)</source>
-        <translation type="unfinished">Color table (LUT)</translation>
+        <translation>جدول الألوان (LUT)</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="95"/>
         <source>Data type</source>
-        <translation type="unfinished">Data type</translation>
+        <translation>نوع بيانات</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="100"/>
         <source>Direct color mapping</source>
-        <translation type="unfinished">Direct color mapping</translation>
+        <translation>تعيين الألوان المباشر</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="108"/>
         <source>Displayed Range:</source>
-        <translation type="unfinished">Displayed Range:</translation>
+        <translation>النطاق المعروض:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="115"/>
         <source>Set the display scalar range, used when the Display option is selected.</source>
-        <translation type="unfinished">Set the display scalar range, used when the Display option is selected.</translation>
+        <translation>اضبط نطاق العرض القياسي، استخدم عند اختيار خيار العرض.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="122"/>
         <source>Threshold:</source>
-        <translation type="unfinished">Threshold:</translation>
+        <translation>العتبة:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="135"/>
         <source>Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
 should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</source>
-        <translation type="unfinished">Apply thresholding to your displayed model based on its scalar values. Some cells normals might be flipped, in which case you
-should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Representation options to visualize all cells.</translation>
+        <translation>طبق العتبة على نموذجك المعروض بناءً على قيمه القياسية. قد تنقلب بعض الخلايا الطبيعية، وفي هذه الحالة أنت
+يجب أن يضبط «الوجه الخلفي» و «الواجهة الأمامية» على OFF في خيارات التمثيل لتصور جميع الخلايا.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="143"/>
         <source>Range used to threshold scalar values.</source>
-        <translation type="unfinished">Range used to threshold scalar values.</translation>
+        <translation>النطاق المستخدم لعتبة القيم القياسية.</translation>
     </message>
 </context>
 <context>
@@ -11627,27 +11627,27 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="14"/>
         <source>Scene Factory</source>
-        <translation type="unfinished"></translation>
+        <translation>مصنع المشهد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="20"/>
         <source>New Scene</source>
-        <translation type="unfinished">New Scene</translation>
+        <translation>مشهد جديد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="27"/>
         <source>Delete Scene</source>
-        <translation type="unfinished">Delete Scene</translation>
+        <translation>احذف المشهد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="44"/>
         <source>New Node</source>
-        <translation type="unfinished">New Node</translation>
+        <translation>عقدة جديدة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSceneFactoryWidget.ui" line="61"/>
         <source>Delete Node</source>
-        <translation type="unfinished">Delete Node</translation>
+        <translation>احذف العقدة</translation>
     </message>
 </context>
 <context>
@@ -11655,7 +11655,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneHierarchyModel.cxx" line="395"/>
         <source>Checked: Force color to children</source>
-        <translation type="unfinished">Checked: Force color to children</translation>
+        <translation>فحص: قوة اللون للأطفال</translation>
     </message>
 </context>
 <context>
@@ -11663,7 +11663,7 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSceneViewMenu.cxx" line="257"/>
         <source>No scene views</source>
-        <translation type="unfinished">No scene views</translation>
+        <translation>لا مناظر للمشهد</translation>
     </message>
 </context>
 <context>
@@ -11671,77 +11671,77 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="20"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>الإسم:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="30"/>
         <source>Thumbnail:</source>
-        <translation type="unfinished">Thumbnail:</translation>
+        <translation>صورة مصغرة:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="44"/>
         <source>Full layout</source>
-        <translation type="unfinished">Full layout</translation>
+        <translation>تخطيط كامل</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="58"/>
         <source>3D View</source>
-        <translation type="unfinished">3D View</translation>
+        <translation>العرض ثلاثي الأبعاد</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="72"/>
         <source>Red Slice View</source>
-        <translation type="unfinished">Red Slice View</translation>
+        <translation>عرض الشريحة الحمراء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="83"/>
         <source>Yellow Slice View</source>
-        <translation type="unfinished">Yellow Slice View</translation>
+        <translation>منظر الشرائح الصفراء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="94"/>
         <source>Green Slice View</source>
-        <translation type="unfinished">Green Slice View</translation>
+        <translation>منظر الشريحة الخضراء</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="138"/>
         <source>Scale factor:</source>
-        <translation type="unfinished">Scale factor:</translation>
+        <translation>عامل المقياس:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="145"/>
         <source>Adjust the Magnification factor.</source>
-        <translation type="unfinished">Adjust the Magnification factor.</translation>
+        <translation>اضبط عامل التكبير.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="154"/>
         <source>x</source>
-        <translation type="unfinished">x</translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="173"/>
         <source>Save As...:</source>
-        <translation type="unfinished">Save As...:</translation>
+        <translation>حفظ مثل...:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="180"/>
         <source>Description:</source>
-        <translation type="unfinished">Description:</translation>
+        <translation>الوصف:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScreenShotDialog.ui" line="203"/>
         <source>Save snapshot via File Save. Edit in Annotations module.</source>
-        <translation type="unfinished">Save snapshot via File Save. Edit in Annotations module.</translation>
+        <translation>حفظ لقطة عبر حفظ الملفات. تحرير في وحدة الشروح.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="425"/>
         <source>Save File</source>
-        <translation type="unfinished">Save File</translation>
+        <translation>حفظ ملف</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLScreenShotDialog.cxx" line="426"/>
         <source>Images (*.png *.jpg)</source>
-        <translation type="unfinished">Images (*.png *.jpg)</translation>
+        <translation>الصور (* .png * .jpg)</translation>
     </message>
 </context>
 <context>
@@ -11931,22 +11931,22 @@ should set &quot;backface&quot; and &quot;frontface&quot; to OFF in the Represen
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="416"/>
         <source>Import/export nodes...</source>
-        <translation type="unfinished"></translation>
+        <translation>عقد الاستيراد/التصدير...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="419"/>
         <source>Export to files...</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير إلى ملفات...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1041"/>
         <source>None</source>
-        <translation type="unfinished">لا شيء</translation>
+        <translation>لا شيء</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1042"/>
         <source>No editing</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تحرير</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1370"/>
@@ -11956,19 +11956,22 @@ Change source representation to binary labelmap?</source>
         <oldsource>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
 
 Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>يتطلب التحرير تمثيل مصدر خريطة ثنائية، ولكن تمثيل المصدر حاليًا هو %1. يتطلب تغيير تمثيل المصدر التحويل. قد تضيع بعض التفاصيل أثناء عملية التحويل.
+
+تغيير تمثيل المصدر لخريطة الملصقات الثنائية ؟</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1375"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">تغيير التمثيل الرئيسي إلى خريطة التسمية الثنائية؟</translation>
+        <translation>تغيير التمثيل الرئيسي إلى خريطة التسمية الثنائية؟</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1396"/>
         <source>Failed to create binary labelmap representation in segmentation %1 for editing!
 Please see Segmentations module for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل في إنشاء تمثيل خريطة التسمية الثنائية في تجزئة %1 للتحرير!
+يرجى الاطلاع على وحدة التقسيم للحصول على التفاصيل.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1398"/>
@@ -11983,7 +11986,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="3488"/>
         <source>Export segments to files</source>
-        <translation type="unfinished"></translation>
+        <translation>قطاعات التصدير إلى الملفات</translation>
     </message>
 </context>
 <context>
@@ -11991,7 +11994,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="14"/>
         <source>qMRMLSegmentSelectorWidget</source>
-        <translation type="unfinished">qMRMLSegmentSelectorWidget</translation>
+        <translation>qMRMLSegmentSelectorWidget</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSegmentSelectorWidget.ui" line="106"/>
@@ -12004,7 +12007,7 @@ Please see Segmentations module for details.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="14"/>
         <source>Segmentation conversion parameters</source>
-        <translation type="unfinished">Segmentation conversion parameters</translation>
+        <translation>معلمات تحويل التجزئة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationConversionParametersWidget.ui" line="37"/>
@@ -19702,86 +19705,86 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="20"/>
         <source>Place markups</source>
-        <translation type="unfinished">Place markups</translation>
+        <translation>ضع العلامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="35"/>
         <source>Select the display color.</source>
-        <translation type="unfinished">Select the display color.</translation>
+        <translation>حدد لون العرض.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="57"/>
         <source>Place a control point</source>
-        <translation type="unfinished">Place a control point</translation>
+        <translation>ضع نقطة تحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="60"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="86"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="106"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="83"/>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="549"/>
         <source>Delete last added control point</source>
-        <translation type="unfinished">Delete last added control point</translation>
+        <translation>حذف آخر نقطة تحكم مضافة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="103"/>
         <source>Click for more options</source>
-        <translation type="unfinished">Click for more options</translation>
+        <translation>انقر لمزيد من الخيارات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="123"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="126"/>
         <source>Place multiple control points</source>
-        <translation type="unfinished">Place multiple control points</translation>
+        <translation>ضع نقاط تحكم متعددة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="135"/>
         <source>Delete all control points</source>
-        <translation type="unfinished">Delete all control points</translation>
+        <translation>تحذف جميع نقاط التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="138"/>
         <source>Delete all control points in the list</source>
-        <translation type="unfinished">Delete all control points in the list</translation>
+        <translation>حذف جميع نقاط التحكم في القائمة</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="147"/>
         <source>Clear last control point position</source>
-        <translation type="unfinished">Clear last control point position</translation>
+        <translation>مسح آخر نقطة تحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="150"/>
         <source>Clear the position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished">Clear the position of the last control point placed (the control point will not be deleted).</translation>
+        <translation>توضيح موقع نقطة التحكم الأخيرة الموضوعة (لن يتم حذف نقطة التحكم).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="160"/>
         <source>Clear all control point positions</source>
-        <translation type="unfinished">Clear all control point positions</translation>
+        <translation>مسح جميع مواقع نقاط التحكم</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="163"/>
         <source>Clear the position of all control points in the list (the control points will not be deleted).</source>
-        <translation type="unfinished">Clear the position of all control points in the list (the control points will not be deleted).</translation>
+        <translation>توضيح موقع جميع نقاط المراقبة في القائمة (لن تحذف نقاط المراقبة).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="173"/>
         <source>Visibility</source>
-        <translation type="unfinished">Visibility</translation>
+        <translation>رؤية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="176"/>
         <source>Toggle markup visibility</source>
-        <translation>تبديل رؤية العلامات</translation>
+        <translation>تبديل ترميز الرؤية</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="186"/>
         <source>Locked</source>
-        <translation type="unfinished">Locked</translation>
+        <translation>مقفل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="189"/>
@@ -19791,32 +19794,32 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="199"/>
         <source>Control point number locked</source>
-        <translation type="unfinished">Control point number locked</translation>
+        <translation>رقم نقطة التحكم مقفل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qSlicerMarkupsPlaceWidget.ui" line="202"/>
         <source>Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</source>
-        <translation type="unfinished">Toggle control point number lock. If locked then it is not possible to add or delete control points. Instead of deleting, position control points can be unset.</translation>
+        <translation>تبديل نقطة تحكم قفل الرقم. إذا كان مغلقا فلا يمكن إضافة أو حذف نقاط التحكم. بدلاً من الحذف، يمكن حذف نقاط التحكم في الموقع.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="137"/>
         <source>Place options</source>
-        <translation type="unfinished">Place options</translation>
+        <translation>خيارات المكان</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="148"/>
         <source>Delete options</source>
-        <translation type="unfinished">Delete options</translation>
+        <translation>حذف الخيارات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="165"/>
         <source>More options</source>
-        <translation type="unfinished">More options</translation>
+        <translation>المزيد من الخيارات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qSlicerMarkupsPlaceWidget.cxx" line="543"/>
         <source>Unset position of the last control point placed (the control point will not be deleted).</source>
-        <translation type="unfinished"></translation>
+        <translation>الموضع غير المأذون به لنقطة التحكم الأخيرة الموضوعة (لن تحذف نقطة التحكم).</translation>
     </message>
 </context>
 <context>
@@ -20118,77 +20121,77 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
         <source>Show testing modules. Useful for software testing and troubleshooting.</source>
-        <translation type="unfinished">Show testing modules. Useful for software testing and troubleshooting.</translation>
+        <translation>أظهر وحدات الاختبار. مفيد لاختبار البرامج واستكشاف الأخطاء وإصلاحها.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation type="unfinished">&amp;Testing</translation>
+        <translation>اختبار</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
         <source>Switch to module</source>
-        <translation type="unfinished">Switch to module</translation>
+        <translation>تبديل إلى وحدة</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="205"/>
         <source>Category:</source>
-        <translation type="unfinished"></translation>
+        <translation>الفئة:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="244"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>المساهمين:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="251"/>
         <source>Internal name:</source>
-        <translation type="unfinished"></translation>
+        <translation>الاسم الداخلي:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="255"/>
         <source>Unknown type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع غير معروف</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="259"/>
         <source>Python Scripted Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>بايثون كتابتها للتحميل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="263"/>
         <source>C++ Loadable</source>
-        <translation type="unfinished"></translation>
+        <translation>C++ قابل للتحميل</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="267"/>
         <source>Command-Line Interface (CLI)</source>
-        <translation type="unfinished"></translation>
+        <translation>واجهة خط الأوامر (CLI)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="271"/>
         <source>built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>مدمج</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
-        <translation type="unfinished">Type:</translation>
+        <translation>نوع:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
         <source>Require:</source>
-        <translation type="unfinished"></translation>
+        <translation>تطلب:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="282"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>الموقع:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="291"/>
         <source>%1 module is not loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تحميل وحدة %1</translation>
     </message>
 </context>
 <context>
