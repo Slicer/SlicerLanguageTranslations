@@ -7867,12 +7867,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La carga de este tipo de imagen es experimental. Por favor, verifique la geometría de la imagen e informar de cualquier problema se encuentra.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de ultrasonidos</translation>
     </message>
 </context>
 <context>
@@ -7880,17 +7880,17 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="31"/>
         <source>GE ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GE ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="116"/>
         <source>GE Invenia ABUS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GE Invenia ABUS</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La carga de este tipo de imagen es experimental. Por favor, compruebe el tamaño de la imagen y la orientación e informar de cualquier problema se encuentra.</translation>
     </message>
 </context>
 <context>
@@ -7898,7 +7898,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="35"/>
         <source>Image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Secuencia de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
@@ -7909,7 +7909,7 @@ a = Transformada Afín</translation>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="186"/>
         <source>{modality} image sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">{modalidad} secuencia de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="167"/>
@@ -8066,97 +8066,97 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="25"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parcheador DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Solucionar problemas comunes en archivos DICOM. Este módulo puede ayudar a arreglar los archivos DICOM que Slicer no puede importar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="38"/>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este archivo fue desarrollado originariamente por Andras Lasso, PerkLab.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="52"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="60"/>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Directorio DICOM de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="65"/>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Directorio DICOM de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="70"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sustituye los nombres de archivos y carpetas por nombres generados automáticamente. Corrige los errores causados por la ruta de archivo containins caracteres especiales o ser demasiado largo.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="71"/>
         <source>Normalize file names</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normalizar nombres de archivo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="78"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generar nombre e ID de paciente a partir del primer archivo de un directorio y forzar a que todos los demás archivos del mismo directorio tengan el mismo nombre e ID de paciente. Active esta opción si se crea un directorio de pacientes independiente para cada archivo parcheado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="79"/>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forzar el mismo nombre e ID de paciente en cada directorio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="86"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generar un nuevo UID de instancia de serie para cada directorio y establecerlo en todos los archivos de ese mismo directorio. Active esta opción para forzar la colocación de todos los fotogramas de una carpeta en un único volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="87"/>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forzar el mismo UID de instancia de serie en cada directorio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generar IDs de pacientes, estudios y series que faltan. Se asume que todos los archivos de un directorio pertenecen a la misma serie. Corrige errores causados por una anonimización demasiado agresiva o convertidores de imágenes DICOM incorrectos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="94"/>
         <source>Generate missing patient/study/series IDs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generar ID de pacientes/estudios/series que faltan</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="99"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generar &apos;secuencia de posición de imagen&apos; para archivos multi-frame que sólo tienen campo &apos;SliceThickness&apos;. Corrige error en escáneres Dolphin 3D CBCT.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Generar posición de corte para volúmenes multitrama</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="127"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Si está marcada, se eliminará de los archivos DICOM parcheados cierta información identificable del paciente. Hay muchos campos que pueden identificar a un paciente, esta función no los elimina todos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="128"/>
         <source>Partially anonymize</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anonimizar parcialmente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="135"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arreglar los archivos DICOM en el directorio de entrada y escribirlos en el directorio de salida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="142"/>
@@ -8166,18 +8166,18 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="162"/>
         <source>Unexpected error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error inesperado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="259"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paciente no especificado {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="325"/>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="537"/>
         <source>Unspecified Patient</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paciente no especificado</translation>
     </message>
 </context>
 <context>
@@ -8185,7 +8185,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="32"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
@@ -8195,7 +8195,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enfoque lector DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
@@ -8205,7 +8205,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">por defecto (aplicar transformación de regularización)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="91"/>
@@ -8215,12 +8215,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
         <source>apply regularization transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">aplicar la transformación de regularización</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Regularización de la geometría de adquisición:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="100"/>
