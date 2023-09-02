@@ -7438,37 +7438,37 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen1 - Volumen2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Controles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Controla el funcionamiento del módulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orden de interpolación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orden de interpolación si dos imágenes están en diferentes marcos de coordenadas o tienen diferente muestreo.</translation>
     </message>
 </context>
 <context>
@@ -7476,12 +7476,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umbral de volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
         <source>&lt;p&gt;Threshold an image.&lt;/p&gt;&lt;p&gt;Set image values to a user-specified outside value if they are below, above, or between simple threshold values.&lt;/p&gt;&lt;p&gt;ThresholdAbove: The values greater than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: The values less than or equal to the threshold value are set to OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: The values outside the range Lower-Upper are set to OutsideValue.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;Umbralizar una imagen.&lt;/p&gt;&lt;p&gt;Establece los valores de la imagen a un valor exterior especificado por el usuario si están por debajo, por encima o entre valores umbral simples.&lt;/p&gt;&lt;p&gt;UmbralSuperior: Los valores mayores o iguales al valor umbral se establecen en OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdBelow: Los valores menores o iguales al valor umbral se establecen en OutsideValue.&lt;/p&gt;&lt;p&gt;ThresholdOutside: Los valores fuera del rango Inferior-Superior se establecen en OutsideValue.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
@@ -7496,17 +7496,17 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
@@ -7516,88 +7516,88 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umbral de volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajustes de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
         <source>Threshold Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tipo de umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
         <source>Threshold Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor de umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Más bajo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
         <source>Outside Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor exterior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
         <source>Negate Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Negar el umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Qué tipo de umbral realizar. Si se selecciona Fuera, utiliza los valores Superior e Inferior. Si se selecciona Por debajo, utiliza el Valor del umbral, si se selecciona Por encima, utiliza el valor  Valor del Umbral.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
         <source>Threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor del umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
         <source>Lower threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor del umbral inferior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
         <source>Upper threshold value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor del umbral superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Establece los vóxeles en este valor si quedan fuera del rango del umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
         <source>Swap the outside value with the inside value.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intercambia el valor exterior con el interior.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="26"/>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="29"/>
         <source>Outside</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En el exterior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="27"/>
         <source>Below</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abajo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="28"/>
         <source>Above</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Por encima de</translation>
     </message>
 </context>
 <context>
@@ -7605,37 +7605,37 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="4"/>
         <source>Voting Binary Hole Filling Image Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtro binario de imagen de relleno de agujeros por votación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplica una operación de votación para rellenar cavidades. Puede utilizarse para suavizar contornos y rellenar huecos en imágenes binarias. Esta técnica se utiliza con frecuencia al segmentar órganos completos que pueden tener conductos o vasculatura que no se hayan incluido en la segmentación inicial, por ejemplo, pulmones, riñones, hígado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este módulo de comandos se ha creado a partir de Perspectiva/Ejemplos/Filtrado/FiltroBinarioDeImagenDeRellenoDeAgujerosPorVotación (copyright) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros binarios de relleno de agujeros</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros para el relleno de agujeros</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
         <source>Maximum Radius</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Radio máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
         <source>Majority Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umbral de Mayoría</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
@@ -7650,22 +7650,22 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El radio de un agujero a rellenar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El número de píxeles por encima del 50% que decidirá si un píxel apagado se enciende o no. Por ejemplo, si la vecindad de un píxel tiene 124 píxeles (excluyéndose a sí mismo), el 50% será 62, y si establece un umbral de Mayoría de 5, eso significa que el filtro requerirá que 67 o más píxeles vecinos estén en ON para que el píxel actual en OFF pase a ON.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El valor asociado al fondo (no al objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor asociado al primer plano (objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
@@ -7675,27 +7675,27 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salida filtrada</translation>
     </message>
 </context>
 <context>
@@ -7713,7 +7713,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este trabajo cuenta con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
@@ -7728,7 +7728,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajustes genéricos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
@@ -7738,47 +7738,47 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajustes generales DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Determina si las series DICOM referenciadas se ofrecen al cargar DICOM, o el comportamiento automático si la interacción está desactivada. La selección interactiva de series referenciadas es la selección por defecto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Ask user</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preguntar al usuario</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Siempre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="370"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nunca</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="372"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carga serie referenciada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registra más detalles durante las operaciones DICOM. Útil para investigar problemas de carga DICOM, pero puede afectar al rendimiento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registro detallado:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Directorio DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
@@ -7793,12 +7793,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No es posible importar archivos cuyos nombres contengan caracteres especiales (no ASCII). Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Intentar importar desde la ubicación actual de todos modos?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se admite la importación desde carpetas con caracteres especiales (no ASCII) en el nombre. Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Intenta importar desde la ubicación actual?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
@@ -7818,28 +7818,28 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
         <source>not started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">no iniciado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="857"/>
         <source>starting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inicio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">desconocido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>running at port %s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ejecutándose en el puerto %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="878"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Archivo DICOM recibido: {nombre de archivo}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="941"/>
@@ -7862,7 +7862,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mayor volumen en EE.UU.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
