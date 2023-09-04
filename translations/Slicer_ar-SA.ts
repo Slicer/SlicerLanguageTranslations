@@ -18275,28 +18275,28 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
         <source>Load/Save</source>
-        <translation type="unfinished">Load/Save</translation>
+        <translation>تحميل / حفظ</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="87"/>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="529"/>
         <source>Favorite Modules</source>
-        <translation type="unfinished">Favorite Modules</translation>
+        <translation>الوحدات المفضلة</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="98"/>
         <source>Undo Redo ToolBar</source>
-        <translation type="unfinished">Undo Redo ToolBar</translation>
+        <translation>التراجع عن شريط أدوات الإعادة</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="109"/>
         <source>Layout Selection</source>
-        <translation type="unfinished">Layout Selection</translation>
+        <translation>اختيار التصميم</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="123"/>
         <source>Mouse Interaction</source>
-        <translation type="unfinished">Mouse Interaction</translation>
+        <translation>تفاعل الفأر</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="137"/>
@@ -18306,17 +18306,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="148"/>
         <source>Crosshair Selection</source>
-        <translation type="unfinished">Crosshair Selection</translation>
+        <translation>اختيار التقاطع</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="159"/>
         <source>Extensions</source>
-        <translation type="unfinished">Extensions</translation>
+        <translation>ملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="171"/>
         <source>Layout ToolBar</source>
-        <translation type="unfinished">Layout ToolBar</translation>
+        <translation>شريط أدوات التصميم</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="218"/>
@@ -18327,7 +18327,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="222"/>
         <source>Recent</source>
         <oldsource>Recently Loaded</oldsource>
-        <translation type="unfinished">Recently Loaded</translation>
+        <translation>الأخيرة</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="236"/>
