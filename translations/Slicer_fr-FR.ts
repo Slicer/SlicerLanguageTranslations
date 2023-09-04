@@ -9814,7 +9814,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
         <source>Opacity</source>
-        <translation type="unfinished">Opacité</translation>
+        <translation>Opacité</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="161"/>
@@ -9899,7 +9899,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="175"/>
         <source>3D Visibility:</source>
         <oldsource>3D Visible:</oldsource>
-        <translation type="unfinished">Visibilité 3D :</translation>
+        <translation>Visibilité 3D :</translation>
     </message>
 </context>
 <context>
@@ -10288,12 +10288,12 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="118"/>
         <source>unconstrained</source>
-        <translation type="unfinished">non contraint</translation>
+        <translation>sans contrainte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsDisplayNodeWidget.cxx" line="119"/>
         <source>snap to visible surface</source>
-        <translation type="unfinished">accrocher à la surface visible</translation>
+        <translation>accrocher à la surface visible</translation>
     </message>
 </context>
 <context>
@@ -10607,7 +10607,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="14"/>
         <source>Model Display Properties</source>
         <oldsource>Model Display Node</oldsource>
-        <translation type="unfinished">Nœud d&apos;affichage du modèle</translation>
+        <translation>Nœud d&apos;affichage du modèle</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="32"/>
@@ -11094,7 +11094,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés du graphique de tracé</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
@@ -11233,7 +11233,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="14"/>
         <source>Plot Series Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés de la série de tracés</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="35"/>
@@ -11400,7 +11400,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="63"/>
         <source>Add/Remove plots data series to/from the current chart.</source>
-        <translation type="unfinished">Ajoutez/supprimez des séries de données de tracés vers/depuis le graphique actuel.</translation>
+        <translation>Ajoutez/supprimez des séries de données de tracés vers/depuis le graphique actuel.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="90"/>
@@ -11527,7 +11527,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="20"/>
         <source>ROI Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés de la ROI</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="31"/>
@@ -11574,7 +11574,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="32"/>
         <source>Visibility:</source>
         <oldsource>Visible:</oldsource>
-        <translation type="unfinished">Visible :</translation>
+        <translation>Visibilité :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLScalarsDisplayWidget.ui" line="46"/>
@@ -11987,15 +11987,15 @@ Change source representation to binary labelmap?</source>
         <oldsource>Editing requires binary labelmap master representation, but currently the master representation is %1. Changing the master representation requires conversion. Some details may be lost during conversion process.
 
 Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">L&apos;édition nécessite une représentation maître carteEtiquette binaire, mais actuellement la représentation maître est %1. La modification de la représentation principale nécessite une conversion. Certains détails peuvent être perdus pendant le processus de conversion.
+        <translation>L&apos;édition nécessite une représentation maître carte Etiquette binaire, mais actuellement la représentation maître est %1. La modification de la représentation principale nécessite une conversion. Certains détails peuvent être perdus pendant le processus de conversion.
 
-Changer la représentation principale encarteEtiquette binaire&#xa0;?</translation>
+Changer la représentation principale encarte Etiquette binaire&#xa0;?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1375"/>
         <source>Change source representation to binary labelmap?</source>
         <oldsource>Change master representation to binary labelmap?</oldsource>
-        <translation type="unfinished">Changer la représentation principale en carte d&apos;étiquettes binaires ?</translation>
+        <translation>Changer la représentation principale en carte d&apos;étiquettes binaires ?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentEditorWidget.cxx" line="1396"/>
@@ -12543,7 +12543,7 @@ Voulez-vous recadrer la segmentation ?
         <oldsource>This is the master representation.
   1. This representation is saved on disk
   2. If this representation is modified, the others are cleared</oldsource>
-        <translation type="unfinished">C&apos;est la représentation maîtresse.
+        <translation>C&apos;est la représentation maîtresse.
    1. Cette représentation est enregistrée sur disque
    2. Si cette représentation est modifiée, les autres sont effacées</translation>
     </message>
@@ -12624,7 +12624,12 @@ This may mean losing important data that cannot be created again from the new so
 (Reminder: Source representation is the data type which is saved to disk, and which is used as input when creating other representations)
 
 Do you wish to proceed with changing source representation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Changer la représentation source fera de la représentation du « standard de référence » celle sélectionnée, ce qui entraînera la suppression de toutes les autres représentations. 
+Cela peut signifier la perte de données importantes qui ne peuvent pas être recréées à partir de la nouvelle représentation source.
+
+(Rappel : La représentation source est le type de données qui est enregistré sur le disque et qui est utilisé comme entrée lors de la création d&apos;autres représentations.)
+
+Souhaitez-vous continuer à changer la représentation source ?</translation>
     </message>
     <message>
         <source>Failed to convert %1 to %2!
@@ -12674,7 +12679,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="74"/>
         <source>Surface smoothing</source>
-        <translation type="unfinished">Lissage de la Surface</translation>
+        <translation>Lissage de la Surface</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationShow3DButton.cxx" line="76"/>
@@ -12964,7 +12969,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="70"/>
         <source>Unit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unité :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="90"/>
