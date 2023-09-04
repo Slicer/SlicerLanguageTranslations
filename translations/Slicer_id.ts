@@ -9083,7 +9083,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="170"/>
         <source>Times</source>
-        <translation>Times</translation>
+        <translation>Waktu</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbeLib/Resources/UI/settings.ui" line="180"/>
