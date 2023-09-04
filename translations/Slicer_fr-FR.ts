@@ -9465,7 +9465,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="65"/>
         <source>Pick the output to the algorithm.</source>
-        <translation type="unfinished">Choisissez la sortie de l&apos;algorithme.</translation>
+        <translation>Choisissez la sortie de l&apos;algorithme.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/Resources/UI/VectorToScalarVolume.ui" line="116"/>
@@ -9757,7 +9757,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="302"/>
         <source>Short side length of the color legend, relative to view size</source>
         <oldsource>Short side length of the color legend, as percentage of view size</oldsource>
-        <translation type="unfinished">Longueur du côté court de la légende des couleurs, en pourcentage de la taille de la vue</translation>
+        <translation>Longueur du côté court de la légende des couleurs, en pourcentage de la taille de la vue</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="295"/>
