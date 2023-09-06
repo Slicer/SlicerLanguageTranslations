@@ -9846,12 +9846,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visibility:</source>
         <oldsource>Slice &amp;Intersections Visible:</oldsource>
-        <translation>Corte &amp; intersección visibles:</translation>
+        <translation>Corte &amp;intersección visibles:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
         <source>Slice Intersections &amp;Thickness:</source>
-        <translation>Intersecciones y grosor de corte:</translation>
+        <translation>Intersecciones y &amp;grosor de corte:</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="116"/>
@@ -15617,7 +15617,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="76"/>
         <source>&amp;Keyboard Shortcuts Reference</source>
         <oldsource>&amp;Keyboard Shortcuts</oldsource>
-        <translation>&amp; Referencia a los atajos de teclado</translation>
+        <translation>&amp;Referencia a los atajos de teclado</translation>
     </message>
     <message>
         <location filename="Applications/SlicerApp/qSlicerAppMainWindow.cxx" line="77"/>
@@ -17237,7 +17237,7 @@ Si no se marcó, el conjunto de datos exportado se añadirán a la base de datos
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="426"/>
         <source>&amp;Export</source>
-        <translation>&amp; Exportar</translation>
+        <translation>&amp;Exportar</translation>
     </message>
     <message numerus="yes">
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
@@ -18340,12 +18340,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="236"/>
         <source>&amp;Edit</source>
-        <translation>&amp; Editar</translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="249"/>
         <source>&amp;View</source>
-        <translation>&amp; Vista</translation>
+        <translation>&amp;Vista</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="253"/>
@@ -18356,7 +18356,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="291"/>
         <source>&amp;Toolbars</source>
-        <translation>&amp; Barra de herramientas</translation>
+        <translation>&amp;Barra de herramientas</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="296"/>
@@ -18366,7 +18366,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="314"/>
         <source>&amp;Help</source>
-        <translation>&amp; Ayuda</translation>
+        <translation>&amp;Ayuda</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="328"/>
@@ -18412,7 +18412,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="379"/>
         <source>&amp;Add Data</source>
-        <translation>y añadir datos</translation>
+        <translation>&amp;Añadir datos</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="385"/>
@@ -18492,7 +18492,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="468"/>
         <source>E&amp;xit</source>
-        <translation>&amp; Salida</translation>
+        <translation>&amp;Salida</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="471"/>
@@ -18627,7 +18627,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="603"/>
         <source>&amp;Maximize view</source>
-        <translation>&amp; Maximizar vista</translation>
+        <translation>&amp;Maximizar vista</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="606"/>
@@ -18642,7 +18642,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="614"/>
         <source>&amp;Error Log</source>
-        <translation>&amp; Registro de errores</translation>
+        <translation>&amp;Registro de errores</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="617"/>
@@ -20124,7 +20124,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="96"/>
         <source>&amp;Built-in</source>
-        <translation>e Integrado</translation>
+        <translation>&amp;Integrado</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="109"/>
@@ -20134,7 +20134,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModuleFinderDialog.ui" line="112"/>
         <source>&amp;Testing</source>
-        <translation>&amp; Pruebas</translation>
+        <translation>&amp;Pruebas</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="109"/>
@@ -22798,7 +22798,7 @@ Por defecto: {documentationbaseurl}/guía_usuario/módulos/{lowercasemodulename}
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Favorite Modules:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Modulos Favoritos:&lt;/p&gt;&lt;p style=&quot;margin-left: 10px;&quot;&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt;Drag &amp;amp; drop modules&lt;br/&gt;from &lt;/span&gt;&lt;span style=&quot; font-size:small;&quot;&gt;Modules&lt;/span&gt;&lt;span style=&quot; font-size:small; font-style:italic;&quot;&gt; list&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="756"/>
@@ -26124,7 +26124,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.cxx" line="63"/>
         <source>This work was supported by NA-MIC, NAC, BIRN, NCIGT, CTSC and the Slicer Community. See &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org&lt;/a&gt; for details. We would also like to express our sincere thanks to members of the Slicer User Community who have helped us to design the contents of this Welcome Module, and whose feedback continues to improve functionality, usability and Slicer user experience.</source>
-        <translation>Este trabajo se respaldó por NA-MIC, NAC, BIRN, NCIGT, CTSC y la comunidad Slicer. Vea &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org2&lt;/a&gt; para más detalles. También nos gustaría expresar nuestra más sincera gratitud a los miembros de la Comunidad de usuarios de Slicer quienes nos han ayudado a diseñar el contenido del Módulo de Bienvenida, y cuyos comentarios siguen mejorando la funcionalidad, la facilidad de uso y la experiencia del usuario de Slicer.</translation>
+        <translation>Este trabajo es respaldado por NA-MIC, NAC, BIRN, NCIGT, CTSC y la comunidad Slicer. Vea &lt;a href=&quot;https://www.slicer.org&quot;&gt;https://www.slicer.org2&lt;/a&gt; para más detalles. También nos gustaría expresar nuestra más sincera gratitud a los miembros de la Comunidad de usuarios de Slicer quienes nos han ayudado a diseñar el contenido del Módulo de Bienvenida, y cuyos comentarios siguen mejorando la funcionalidad, la facilidad de uso y la experiencia del usuario de Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModule.h" line="48"/>
@@ -26148,7 +26148,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="59"/>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="461"/>
         <source>Raise the &quot;Extensions Manager&quot; wizard that allows to find, download and install Slicer extensions.&lt;br&gt;&lt;br&gt;An extension is a delivery package bundling together one or more Slicer modules.&lt;br&gt;&lt;br&gt;After installing an extension, the associated modules will be available in the module selector.</source>
-        <translation>Utilice el asistente &quot;Administrador de extensiones&quot; que permite encontrar, descargar e instalar extensiones de Slicer.&lt;br&gt;&lt;br&gt;Una extensión es un paquete que conjunta uno o más módulos de Slicer.&lt;br&gt;&lt;br&gt;Tras instalar una extensión, los módulos asociados estarán disponibles en el selector de módulos.</translation>
+        <translation>Utilice el asistente &quot;Administrador de extensiones&quot; que permite encontrar, descargar e instalar extensiones de Slicer.&lt;br&gt;&lt;br&gt;Una extensión es un paquete que integra uno o más módulos de Slicer.&lt;br&gt;&lt;br&gt;Tras instalar una extensión, los módulos asociados estarán disponibles en el selector de módulos.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/Resources/UI/qSlicerWelcomeModuleWidget.ui" line="124"/>
