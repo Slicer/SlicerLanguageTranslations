@@ -1198,7 +1198,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="87"/>
         <source>Harden</source>
-        <translation type="unfinished"></translation>
+        <translation>Durcir</translation>
     </message>
 </context>
 <context>
@@ -1206,22 +1206,22 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="14"/>
         <source>Module Template</source>
-        <translation type="unfinished"></translation>
+        <translation>module Modèle</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="20"/>
         <source>Select what kind of operation to perform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le type d&apos;opération à effectuer.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="37"/>
         <source>Source Transform Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœuds de transformation source</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="46"/>
         <source>Select which transform you want to add below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la transformation que vous souhaitez ajouter ci-dessous.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="49"/>
@@ -1234,7 +1234,7 @@
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="452"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="563"/>
         <source>vtkMRMLLinearTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLLinearTransformNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="64"/>
@@ -1269,28 +1269,28 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="133"/>
         <source>Input &apos;Forward&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de transformation «&#xa0;avant&#xa0;» d&apos;entrée&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="140"/>
         <source>The transform node *from* which the output is based (e.g. Source in SourceToTarget)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de transformation *à partir duquel* la sortie est basée (par exemple, Source dans SourceToTarget)</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="165"/>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="560"/>
         <source>The forward transform; what should be inverted.</source>
-        <translation type="unfinished"></translation>
+        <translation>La transformation vers l&apos;avant&#xa0;; ce qui devrait être inversé.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="186"/>
         <source>This stores all parameters for transform processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceci stocke tous les paramètres pour le traitement de la transformation.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="189"/>
         <source>vtkMRMLTransformProcessorNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformProcessorNode</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="204"/>
@@ -1320,122 +1320,122 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="262"/>
         <source>Faster</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus rapide</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="296"/>
         <source>Parameter Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de paramètre</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="303"/>
         <source>The transform node *to* which the output is based (e.g. Target in SourceToTarget)</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nœud de transformation *sur lequel* la sortie est basée (par exemple, Target dans SourceToTarget)</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="334"/>
         <source>Input &apos;To&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée du nœud de transformation « Vers »&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="341"/>
         <source>Output Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de transformation de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="348"/>
         <source>Advanced Translation Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de traduction avancées</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="364"/>
         <source>Copy X</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier X</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="374"/>
         <source>Copy Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier Y</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="394"/>
         <source>Copy Z</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier Z</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="417"/>
         <source>Input &apos;Anchor&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de transformation d&apos;entrée «&#xa0;Anchor&#xa0;»&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="424"/>
         <source>The output will be expressed relative to this anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>La sortie sera exprimée par rapport à cette ancre</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="442"/>
         <source>Input &apos;From&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée du nœud de transformation «&#xa0;De&#xa0;»&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="449"/>
         <source>The initial state for the transform</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;état initial de la transformation</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="470"/>
         <source>Advanced Rotation Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de rotation avancées</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="476"/>
         <source>Dependent Axes Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode axes dépendants</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="492"/>
         <source>Primary Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Axe principal</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="502"/>
         <source>Secondary Axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Axe secondaire</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="509"/>
         <source>Rotation Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode rotation</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="519"/>
         <source>Input &apos;Initial&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de transformation «&#xa0;initial&#xa0;»&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="526"/>
         <source>Processing Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de traitement&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="533"/>
         <source>Click to manually update, click the checkbox to enable automatic updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour mettre à jour manuellement, cochez la case pour activer les mises à jour automatiques</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="536"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="546"/>
         <source>Input &apos;Changed&apos; Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de transformation d&apos;entrée «&#xa0;Modifié&#xa0;»&#xa0;:</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="553"/>
         <source>Input Transform Node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de transformation d&apos;entrée&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -1444,12 +1444,12 @@
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="397"/>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="414"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="TransformProcessor/qSlicerTransformProcessorModuleWidget.cxx" line="405"/>
         <source>Auto-update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour automatique</translation>
     </message>
 </context>
 <context>
@@ -1457,47 +1457,47 @@
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="26"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="32"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Saisir</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="40"/>
         <source>Ultrasound image: </source>
-        <translation type="unfinished"></translation>
+        <translation>Image échographique : </translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="47"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="70"/>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôles</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="84"/>
         <source>Add snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un instantané</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="93"/>
         <source>Preserve image window and level attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver la fenêtre d&apos;image et les attributs de niveau</translation>
     </message>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="109"/>
         <source>Clear snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les instantanés</translation>
     </message>
 </context>
 <context>
@@ -1505,111 +1505,111 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="22"/>
         <source>Volume reconstruction node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de reconstruction de volume&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="29"/>
         <source>vtkMRMLVolumeReconstructionNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLVolumeReconstructionNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="43"/>
         <source>Volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruction de volumes</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="60"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="376"/>
         <source>Input sequence browser containing the images and transforms used for volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigateur de séquences d&apos;entrée contenant les images et les transformations utilisées pour la reconstruction du volume</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="63"/>
         <source>Input sequence browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigateur de séquence d&apos;entrée&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="70"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="80"/>
         <source>Output reconstructed volume node</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie du nœud de volume reconstruit</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="73"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de volume de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="83"/>
         <source>vtkMRMLScalarVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLScalarVolumeNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="98"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="116"/>
         <source>Region of interest in which the volume should be reconstructed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Région d&apos;intérêt dans laquelle le volume doit être reconstruit.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="101"/>
         <source>ROI node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud ROI&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
         <source>vtkMRMLAnnotationROINode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLAnnotationROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="119"/>
         <source>vtkMRMLMarkupsROINode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLMarkupsROINode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="138"/>
         <source>ROI node visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilité du nœud ROI</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="161"/>
         <source>Output image spacing for each dimension of the reconstructed volume.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement des images de sortie pour chaque dimension du volume reconstruit.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="164"/>
         <source>Output spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="173"/>
         <source>Output image spacing for &quot;I&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement des images de sortie pour la dimension &quot;I&quot; du volume reconstruit</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="189"/>
         <source>Output image spacing for &quot;J&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement des images de sortie pour la dimension &quot;J&quot; du volume reconstruit</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="205"/>
         <source>Output image spacing for &quot;K&quot; dimension of the reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement des images de sortie pour la dimension &quot;K&quot; du volume reconstruit</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="223"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="233"/>
         <source>Interpolation mode used for performing the volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode d&apos;interpolation utilisé pour effectuer la reconstruction du volume</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="226"/>
         <source>Interpolation mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode d&apos;interpolation&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="240"/>
