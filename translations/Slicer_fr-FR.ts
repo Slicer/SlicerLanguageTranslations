@@ -2668,7 +2668,7 @@ Permet de diffuser le même type que le volume d&apos;entrée.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="124"/>
         <source>Frame of Reference UID</source>
-        <translation>L&apos;UID du cadre de référence</translation>
+        <translation>l&apos;UID du cadre de référence</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="125"/>
