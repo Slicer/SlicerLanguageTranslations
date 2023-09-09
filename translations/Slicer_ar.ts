@@ -6,17 +6,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="5"/>
         <source>Add Scalar Volumes</source>
-        <translation type="unfinished">إضافة وحدات تخزين عددية</translation>
+        <translation>إضافة وحدات تخزين عددية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="6"/>
         <source>Adds two images. Although all image types are supported on input, only signed types are produced. The two images do not have to have the same dimensions.</source>
-        <translation type="unfinished">انه يضيف صورتين. على الرغم من أن جميع أنواع الصور تم دعمها عند الإدخال، إلا أنه يتم إنتاج الأنواع التي تم التوقيع عليها فقط. لا يجب أن يكون للصورتين نفس الأبعاد.</translation>
+        <translation>انه يضيف صورتين. على الرغم من أن جميع أنواع الصور تم دعمها عند الإدخال، إلا أنه يتم إنتاج الأنواع التي تم التوقيع عليها فقط. لا يجب أن يكون للصورتين نفس الأبعاد.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="8"/>
@@ -26,17 +26,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال/الإخراج</translation>
+        <translation>معلمات الإدخال/الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="10"/>
         <source>Input Volume 1</source>
-        <translation type="unfinished">حجم الإدخال 1</translation>
+        <translation>حجم الإدخال 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="11"/>
         <source>Input Volume 2</source>
-        <translation type="unfinished">حجم الإدخال ٢</translation>
+        <translation>حجم الإدخال ٢</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="12"/>
@@ -46,37 +46,37 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">حجم الإدخال ١</translation>
+        <translation>حجم الإدخال ١</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">حجم الإدخال ٢</translation>
+        <translation>حجم الإدخال ٢</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="15"/>
         <source>Volume1 + Volume2</source>
-        <translation type="unfinished">المجلد 1 + المجلد 2</translation>
+        <translation>المجلد 1 + المجلد 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation type="unfinished">المعلمات المتقدمة لضبط الحساب.</translation>
+        <translation>المعلمات المتقدمة لضبط الحساب.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished">ترتيب الاستيفاء متعدد الحدود الذي يتم استخدامه إذا كانت هناك صورتان لهما هندسة مختلفة (الأصل أو التباعد أو اتجاهات المحور أو الامتدادات): 0 = أقرب جار، 1 = خطي، 2 = تربيعي، 3 = استيفاء مكعب.</translation>
+        <translation>ترتيب الاستيفاء متعدد الحدود الذي يتم استخدامه إذا كانت هناك صورتان لهما هندسة مختلفة (الأصل أو التباعد أو اتجاهات المحور أو الامتدادات): 0 = أقرب جار، 1 = خطي، 2 = تربيعي، 3 = استيفاء مكعب.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">ترتيب الاستيفاء</translation>
+        <translation>ترتيب الاستيفاء</translation>
     </message>
 </context>
 <context>
@@ -84,42 +84,42 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="5"/>
         <source>DWI Cleanup (BRAINS)</source>
-        <translation type="unfinished">تنظيف DWI (العقول)</translation>
+        <translation>تنظيف DWI (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="6"/>
         <source>Remove bad gradients/volumes from DWI NRRD file.</source>
-        <translation type="unfinished">إزالة التدرجات/وحدات التخزين السيئة من ملف DWI NRRD.</translation>
+        <translation>إزالة التدرجات/وحدات التخزين السيئة من ملف DWI NRRD.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="7"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">معلمات الإدخال</translation>
+        <translation>معلمات الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="8"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">حجم صورة الإدخال</translation>
+        <translation>حجم صورة الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished">تمت إزالة ملف NRRD مع التدرجات السيئة.</translation>
+        <translation>تمت إزالة ملف NRRD مع التدرجات السيئة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation type="unfinished">قائمة وحدات التخزين التدرج سيئة</translation>
+        <translation>قائمة وحدات التخزين التدرج سيئة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished">المطلوب: الصورة المدخلة هي صورة NRRD رباعية الأبعاد.</translation>
+        <translation>المطلوب: الصورة المدخلة هي صورة NRRD رباعية الأبعاد.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
         <source>given a list of </source>
-        <translation type="unfinished">نظرا لقائمة </translation>
+        <translation>نظرا لقائمة </translation>
     </message>
 </context>
 <context>
@@ -127,197 +127,197 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="5"/>
         <source>Brain Deface from T1/T2 image (BRAINS)</source>
-        <translation type="unfinished">‏تشويه الدماغ من صورة T1/T2 (BRAINS)</translation>
+        <translation>‏تشويه الدماغ من صورة T1/T2 (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="6"/>
         <source>This program: 1) will deface images from a set of images.  Inputs must be ACPC aligned, and AC, PC, LE, RE provided.</source>
-        <translation type="unfinished">هذا البرنامج : 1) يقوم بتشويه الصور من مجموعة صور . يجب أن تكون المدخلات متوافقة مع ACPC، كما يجب توفير AC وPC وLE وRE.</translation>
+        <translation>هذا البرنامج : 1) يقوم بتشويه الصور من مجموعة صور . يجب أن تكون المدخلات متوافقة مع ACPC، كما يجب توفير AC وPC وLE وRE.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="7"/>
         <source>This work was developed by the University of Iowa Department of Electrical and Computer Engineering.</source>
-        <translation type="unfinished">تم تطوير هذا العمل من قبل قسم الهندسة الكهربائية وهندسة الحاسبات بجامعة أيوا.</translation>
+        <translation>تم تطوير هذا العمل من قبل قسم الهندسة الكهربائية وهندسة الحاسبات بجامعة أيوا.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="8"/>
         <source>Input Images</source>
-        <translation type="unfinished">صور الإدخال</translation>
+        <translation>صور الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="9"/>
         <source>First Image, Second Image and Mask Image</source>
-        <translation type="unfinished">الصورة الأولى والصورة الثانية وصورة القناع</translation>
+        <translation>الصورة الأولى والصورة الثانية وصورة القناع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="10"/>
         <source>Landmarks File</source>
-        <translation type="unfinished">ملف المعالم</translation>
+        <translation>ملف المعالم</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="11"/>
         <source>Source Reference Image</source>
-        <translation type="unfinished">الصورة المرجعية المصدر</translation>
+        <translation>الصورة المرجعية المصدر</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="12"/>
         <source>Source Passive Images Image</source>
-        <translation type="unfinished">مصدر الصور السلبية الصورة</translation>
+        <translation>مصدر الصور السلبية الصورة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="13"/>
         <source>Optional Mask</source>
-        <translation type="unfinished">قناع اختياري</translation>
+        <translation>قناع اختياري</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="14"/>
         <source>Input Landmark File with LE, and RE points defined in physical locations</source>
-        <translation type="unfinished">أدخل ملف المعالم بنقاط LE وRE المحددة في المواقع الفعلية</translation>
+        <translation>أدخل ملف المعالم بنقاط LE وRE المحددة في المواقع الفعلية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="15"/>
         <source>Input images, all images must be in the exact same physical space, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished">الصور المدخلة، يجب أن تكون جميع الصور في نفس المساحة الفعلية تمامًا، وأن تكون متوافقة مع ACPC ومتسقة مع المعالم</translation>
+        <translation>الصور المدخلة، يجب أن تكون جميع الصور في نفس المساحة الفعلية تمامًا، وأن تكون متوافقة مع ACPC ومتسقة مع المعالم</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="16"/>
         <source>Input images not used in generating masks, all images must be in the exact same physical space as inputVolumes, ACPC aligned and consistent with landmarks.</source>
-        <translation type="unfinished">لا يتم استخدام صور الإدخال في إنشاء الأقنعة، ويجب أن تكون جميع الصور في نفس المساحة الفعلية تمامًا مثل وحدات تخزين الإدخال، ومحاذاة ACPC ومتسقة مع المعالم.</translation>
+        <translation>لا يتم استخدام صور الإدخال في إنشاء الأقنعة، ويجب أن تكون جميع الصور في نفس المساحة الفعلية تمامًا مثل وحدات تخزين الإدخال، ومحاذاة ACPC ومتسقة مع المعالم.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="17"/>
         <source>Optional pre-generated mask to use.</source>
-        <translation type="unfinished">قناع اختياري تم إنشاؤه مسبقًا للاستخدام.</translation>
+        <translation>قناع اختياري تم إنشاؤه مسبقًا للاستخدام.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="18"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="20"/>
         <source>blur</source>
-        <translation type="unfinished">طمس</translation>
+        <translation>طمس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="19"/>
         <source>zero</source>
-        <translation type="unfinished">صفر</translation>
+        <translation>صفر</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="21"/>
         <source>Output Files</source>
-        <translation type="unfinished">ملفات الإخراج</translation>
+        <translation>ملفات الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="22"/>
         <source>Outputs from both MUSH generation and brain volume mask creation</source>
-        <translation type="unfinished">المخرجات من كل من توليد MUSH وإنشاء قناع حجم الدماغ</translation>
+        <translation>المخرجات من كل من توليد MUSH وإنشاء قناع حجم الدماغ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="23"/>
         <source>brain volume mask</source>
-        <translation type="unfinished">قناع حجم الدماغ</translation>
+        <translation>قناع حجم الدماغ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="24"/>
         <source>OutputDirectory</source>
-        <translation type="unfinished">دليل الإخراج</translation>
+        <translation>دليل الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="25"/>
         <source>The brain volume mask generated from the MUSH image</source>
-        <translation type="unfinished">قناع حجم الدماغ المتولد من صورة MUSH</translation>
+        <translation>قناع حجم الدماغ المتولد من صورة MUSH</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="26"/>
         <source>The output directory to writing the defaced input files</source>
-        <translation type="unfinished">دليل الإخراج لكتابة ملفات الإدخال المشوهة</translation>
+        <translation>دليل الإخراج لكتابة ملفات الإدخال المشوهة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="27"/>
         <source>Run Mode</source>
-        <translation type="unfinished">وضع التشغيل</translation>
+        <translation>وضع التشغيل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="28"/>
         <source>Modify the program to only generate a mask</source>
-        <translation type="unfinished">قم بتعديل البرنامج لإنشاء قناع فقط</translation>
+        <translation>قم بتعديل البرنامج لإنشاء قناع فقط</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="29"/>
         <source>No Mask Application</source>
-        <translation type="unfinished">لا يوجد تطبيق قناع</translation>
+        <translation>لا يوجد تطبيق قناع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="30"/>
         <source>Do not apply the mask to the input images used to generate the mask</source>
-        <translation type="unfinished">لا تقم بتطبيق القناع على الصور المدخلة المستخدمة لإنشاء القناع</translation>
+        <translation>لا تقم بتطبيق القناع على الصور المدخلة المستخدمة لإنشاء القناع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="31"/>
         <source>Output Image Intensity Normalization</source>
-        <translation type="unfinished">تطبيع كثافة صورة الإخراج</translation>
+        <translation>تطبيع كثافة صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="32"/>
         <source>Parameters for normalizing the output images.</source>
-        <translation type="unfinished">معلمات لتطبيع الصور الناتجة</translation>
+        <translation>معلمات لتطبيع الصور الناتجة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="33"/>
         <source>Upper Percentile</source>
-        <translation type="unfinished">المئوي العلوي
+        <translation>المئوي العلوي
 عربي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="34"/>
         <source>Lower Percentile</source>
-        <translation type="unfinished">النسبة المئوية السفلى</translation>
+        <translation>النسبة المئوية السفلى</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="35"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="37"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="42"/>
         <source>Upper Output Intensity</source>
-        <translation type="unfinished">كثافة الإخراج العلوي</translation>
+        <translation>كثافة الإخراج العلوي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="36"/>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="43"/>
         <source>Lower Output Intensity</source>
-        <translation type="unfinished">انخفاض كثافة الانتاج</translation>
+        <translation>انخفاض كثافة الانتاج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="38"/>
         <source>Relative Scaling</source>
-        <translation type="unfinished">التحجيم النسبي</translation>
+        <translation>التحجيم النسبي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="39"/>
         <source>Debug Level</source>
-        <translation type="unfinished">التحجيم النسبي</translation>
+        <translation>التحجيم النسبي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="40"/>
         <source>Upper Intensity Percentile (0.99 default)</source>
-        <translation type="unfinished">النسبة المئوية للكثافة العليا (0.99 الافتراضي)</translation>
+        <translation>النسبة المئوية للكثافة العليا (0.99 الافتراضي)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="41"/>
         <source>Lower Intensity Percentile (0.01 default)</source>
-        <translation type="unfinished">النسبة المئوية للكثافة المنخفضة (0.01 الافتراضي)</translation>
+        <translation>النسبة المئوية للكثافة المنخفضة (0.01 الافتراضي)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="44"/>
         <source>Do not clip Values outside of this range to be the &quot;Outside Value&quot;</source>
-        <translation type="unfinished">لا تقم بقص القيم خارج هذا النطاق لتكون &quot;القيمة الخارجية&quot;</translation>
+        <translation>لا تقم بقص القيم خارج هذا النطاق لتكون &quot;القيمة الخارجية&quot;</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="45"/>
         <source>Do not scale to the relative percentiles of the output scale</source>
-        <translation type="unfinished">لا تقم بالقياس إلى النسب المئوية النسبية لمقياس الإخراج</translation>
+        <translation>لا تقم بالقياس إلى النسب المئوية النسبية لمقياس الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDeface_tr.h" line="46"/>
         <source>Level of Debugging (0=None)</source>
-        <translation type="unfinished">مستوى التصحيح (0=لا شيء)</translation>
+        <translation>مستوى التصحيح (0=لا شيء)</translation>
     </message>
 </context>
 <context>
@@ -325,163 +325,163 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="4"/>
         <source>General Registration (BRAINS)</source>
-        <translation type="unfinished">التسجيل العام (العقول)</translation>
+        <translation>التسجيل العام (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="5"/>
         <source>Register a three-dimensional volume to a reference volume (Mattes Mutual Information by default). Method described in BRAINSFit: Mutual Information Registrations of Whole-Brain 3D Images, Using the Insight Toolkit, Johnson H.J., Harris G., Williams K., The Insight Journal, 2007. https://hdl.handle.net/1926/1291</source>
-        <translation type="unfinished">قم بتسجيل مجلد ثلاثي الأبعاد في مجلد مرجعي (معلومات Mattes المتبادلة بشكل افتراضي). الطريقة الموضحة في BRAINSFit: تسجيلات المعلومات المتبادلة لصور الدماغ الكامل ثلاثية الأبعاد، باستخدام مجموعة أدوات Insight، Johnson H.J.، Harris G.، Williams K.، The Insight Journal، 2007. https://hdl.handle.net/1926/1291</translation>
+        <translation>قم بتسجيل مجلد ثلاثي الأبعاد في مجلد مرجعي (معلومات Mattes المتبادلة بشكل افتراضي). الطريقة الموضحة في BRAINSFit: تسجيلات المعلومات المتبادلة لصور الدماغ الكامل ثلاثية الأبعاد، باستخدام مجموعة أدوات Insight، Johnson H.J.، Harris G.، Williams K.، The Insight Journal، 2007. https://hdl.handle.net/1926/1291</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation type="unfinished">هانز جونسون (1،3،4)؛ كينت ويليامز(1); جريجوري هاريس (1)، فنسنت ماجنوتا (1،2،3)؛ أندريه فيدوروف (5)؛ علي غيور(4) 1=جامعة أيوا قسم الطب النفسي، 2=جامعة أيوا قسم الأشعة، 3=جامعة أيوا قسم الهندسة الطبية الحيوية، 4=جامعة أيوا قسم الهندسة الكهربائية وهندسة الحاسبات، 5=مختبر التخطيط الجراحي ، هارفارد  </translation>
+        <translation>هانز جونسون (1،3،4)؛ كينت ويليامز(1); جريجوري هاريس (1)، فنسنت ماجنوتا (1،2،3)؛ أندريه فيدوروف (5)؛ علي غيور(4) 1=جامعة أيوا قسم الطب النفسي، 2=جامعة أيوا قسم الأشعة، 3=جامعة أيوا قسم الهندسة الطبية الحيوية، 4=جامعة أيوا قسم الهندسة الكهربائية وهندسة الحاسبات، 5=مختبر التخطيط الجراحي ، هارفارد  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
         <source>Input Images</source>
-        <translation type="unfinished">صور الإدخال</translation>
+        <translation>صور الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="8"/>
         <source>Fixed Image Volume</source>
-        <translation type="unfinished">حجم الصورة الثابتة</translation>
+        <translation>حجم الصورة الثابتة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="9"/>
         <source>Moving Image Volume</source>
-        <translation type="unfinished">نقل حجم الصورة</translation>
+        <translation>نقل حجم الصورة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="10"/>
         <source>Percentage Of Samples</source>
-        <translation type="unfinished">نسبة العينات</translation>
+        <translation>نسبة العينات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="11"/>
         <source>B-Spline Grid Size</source>
-        <translation type="unfinished">حجم الشبكة B-Spline</translation>
+        <translation>حجم الشبكة B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="12"/>
         <source>Input fixed image (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished">إدخال صورة ثابتة (سيتم تحويل الصورة المتحركة إلى مساحة الصورة هذه).</translation>
+        <translation>إدخال صورة ثابتة (سيتم تحويل الصورة المتحركة إلى مساحة الصورة هذه).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="13"/>
         <source>Input moving image (this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished">إدخال صورة متحركة (سيتم تحويل هذه الصورة إلى مساحة الصورة الثابتة).</translation>
+        <translation>إدخال صورة متحركة (سيتم تحويل هذه الصورة إلى مساحة الصورة الثابتة).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="14"/>
         <source>Fraction of voxels of the fixed image that will be used for registration. The number has to be larger than zero and less or equal to one. Higher values increase the computation time but may give more accurate results. You can also limit the sampling focus with ROI masks and ROIAUTO mask generation. The default is 0.002 (use approximately 0.2% of voxels, resulting in 100000 samples in a 512x512x192 volume) to provide a very fast registration in most cases. Typical values range from 0.01 (1%) for low detail images to 0.2 (20%) for high detail images.</source>
-        <translation type="unfinished">جزء من وحدات فوكسل الصورة الثابتة التي سيتم استخدامها للتسجيل. يجب أن يكون الرقم أكبر من صفر وأقل أو يساوي واحدًا. تزيد القيم الأعلى من وقت الحساب ولكنها قد تعطي نتائج أكثر دقة. يمكنك أيضًا الحد من تركيز العينات باستخدام أقنعة ROI وإنشاء قناع ROIAUTO. الافتراضي هو 0.002 (استخدم حوالي 0.2% من وحدات البكسل، مما يؤدي إلى 100000 عينة بحجم 512x512x192) لتوفير تسجيل سريع جدًا في معظم الحالات. تتراوح القيم النموذجية من 0.01 (1%) للصور منخفضة التفاصيل إلى 0.2 (20%) للصور عالية التفاصيل.</translation>
+        <translation>جزء من وحدات فوكسل الصورة الثابتة التي سيتم استخدامها للتسجيل. يجب أن يكون الرقم أكبر من صفر وأقل أو يساوي واحدًا. تزيد القيم الأعلى من وقت الحساب ولكنها قد تعطي نتائج أكثر دقة. يمكنك أيضًا الحد من تركيز العينات باستخدام أقنعة ROI وإنشاء قناع ROIAUTO. الافتراضي هو 0.002 (استخدم حوالي 0.2% من وحدات البكسل، مما يؤدي إلى 100000 عينة بحجم 512x512x192) لتوفير تسجيل سريع جدًا في معظم الحالات. تتراوح القيم النموذجية من 0.01 (1%) للصور منخفضة التفاصيل إلى 0.2 (20%) للصور عالية التفاصيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="15"/>
         <source>Number of BSpline grid subdivisions along each axis of the fixed image, centered on the image space. Values must be 3 or higher for the BSpline to be correctly computed.</source>
-        <translation type="unfinished">عدد التقسيمات الفرعية لشبكة BSpline على طول كل محور من محاور الصورة الثابتة، المتمركزة في مساحة الصورة. يجب أن تكون القيم 3 أو أعلى حتى يتم حساب BSpline بشكل صحيح.</translation>
+        <translation>عدد التقسيمات الفرعية لشبكة BSpline على طول كل محور من محاور الصورة الثابتة، المتمركزة في مساحة الصورة. يجب أن تكون القيم 3 أو أعلى حتى يتم حساب BSpline بشكل صحيح.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="16"/>
         <source>Output Settings (At least one output must be specified)</source>
-        <translation type="unfinished">إعدادات المخرجات (يجب تحديد مخرج واحد على الأقل)</translation>
+        <translation>إعدادات المخرجات (يجب تحديد مخرج واحد على الأقل)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="17"/>
         <source>Slicer Linear Transform</source>
-        <translation type="unfinished">التحويل الخطي القطاعي</translation>
+        <translation>التحويل الخطي القطاعي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="18"/>
         <source>Slicer BSpline Transform</source>
-        <translation type="unfinished">تحويل القطاعة BSpline</translation>
+        <translation>تحويل القطاعة BSpline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="19"/>
         <source>Output Image Volume</source>
-        <translation type="unfinished">حجم الصورة الناتج</translation>
+        <translation>حجم الصورة الناتج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="20"/>
         <source>(optional) Output estimated transform - in case the computed transform is not BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished">(اختياري) التحويل المقدر للإخراج - في حالة أن التحويل المحسوب ليس BSpline. ملاحظة: يجب عليك تعيين كائن إخراج واحد على الأقل (حجم التحويل و/أو الإخراج).</translation>
+        <translation>(اختياري) التحويل المقدر للإخراج - في حالة أن التحويل المحسوب ليس BSpline. ملاحظة: يجب عليك تعيين كائن إخراج واحد على الأقل (حجم التحويل و/أو الإخراج).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="21"/>
         <source>(optional) Output estimated transform - in case the computed transform is BSpline. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished">(اختياري) التحويل المقدر للإخراج - في حالة أن التحويل المحسوب هو BSpline. ملاحظة: يجب عليك تعيين كائن إخراج واحد على الأقل (حجم التحويل و/أو الإخراج</translation>
+        <translation>(اختياري) التحويل المقدر للإخراج - في حالة أن التحويل المحسوب هو BSpline. ملاحظة: يجب عليك تعيين كائن إخراج واحد على الأقل (حجم التحويل و/أو الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="22"/>
         <source>(optional) Output image: the moving image warped to the fixed image space. NOTE: You must set at least one output object (transform and/or output volume).</source>
-        <translation type="unfinished">(اختياري) صورة الإخراج: الصورة المتحركة مشوهة إلى مساحة الصورة الثابتة. ملاحظة: يجب عليك تعيين كائن إخراج واحد على الأقل (حجم التحويل و/أو الإخراج).</translation>
+        <translation>(اختياري) صورة الإخراج: الصورة المتحركة مشوهة إلى مساحة الصورة الثابتة. ملاحظة: يجب عليك تعيين كائن إخراج واحد على الأقل (حجم التحويل و/أو الإخراج).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="23"/>
         <source>Transform Initialization Settings</source>
-        <translation type="unfinished">تحويل إعدادات التهيئة</translation>
+        <translation>تحويل إعدادات التهيئة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="24"/>
         <source>Options for initializing transform parameters.</source>
-        <translation type="unfinished">خيارات لتهيئة معلمات التحويل</translation>
+        <translation>خيارات لتهيئة معلمات التحويل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="25"/>
         <source>Initialization transform</source>
-        <translation type="unfinished">تحويل التهيئة</translation>
+        <translation>تحويل التهيئة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="26"/>
         <source>Initialize Transform Mode</source>
-        <translation type="unfinished">تهيئة وضع التحويل</translation>
+        <translation>تهيئة وضع التحويل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="27"/>
         <source>Transform to be applied to the moving image to initialize the registration.  This can only be used if Initialize Transform Mode is Off.</source>
-        <translation type="unfinished">سيتم تطبيق التحويل على الصورة المتحركة لبدء التسجيل. لا يمكن استخدام هذا إلا في حالة إيقاف تشغيل وضع التحويل الأولي</translation>
+        <translation>سيتم تطبيق التحويل على الصورة المتحركة لبدء التسجيل. لا يمكن استخدام هذا إلا في حالة إيقاف تشغيل وضع التحويل الأولي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="28"/>
         <source>Determine how to initialize the transform center.  useMomentsAlign assumes that the center of mass of the images represent similar structures.  useCenterOfHeadAlign attempts to use the top of head and shape of neck to drive a center of mass estimate. useGeometryAlign on assumes that the center of the voxel lattice of the images represent similar structures.  Off assumes that the physical space of the images are close.  This flag is mutually exclusive with the Initialization transform.</source>
-        <translation type="unfinished">تحديد كيفية تهيئة مركز التحويل. يفترض useMomentsAlign أن مركز كتلة الصور يمثل هياكل مماثلة. يحاول useCenterOfHeadAlign استخدام الجزء العلوي من الرأس وشكل الرقبة لدفع مركز تقدير الكتلة. يفترض استخدام GeometryAlign أن مركز شبكة فوكسل للصور يمثل هياكل مماثلة. يفترض Off أن المساحة الفعلية للصور قريبة. هذه العلامة متنافية مع تحويل التهيئة.</translation>
+        <translation>تحديد كيفية تهيئة مركز التحويل. يفترض useMomentsAlign أن مركز كتلة الصور يمثل هياكل مماثلة. يحاول useCenterOfHeadAlign استخدام الجزء العلوي من الرأس وشكل الرقبة لدفع مركز تقدير الكتلة. يفترض استخدام GeometryAlign أن مركز شبكة فوكسل للصور يمثل هياكل مماثلة. يفترض Off أن المساحة الفعلية للصور قريبة. هذه العلامة متنافية مع تحويل التهيئة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="29"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="30"/>
         <source>Off</source>
-        <translation type="unfinished">عن</translation>
+        <translation>عن</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="31"/>
         <source>useMomentsAlign</source>
-        <translation type="unfinished">استخدام لحظة محاذاة</translation>
+        <translation>استخدام لحظة محاذاة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="32"/>
         <source>useCenterOfHeadAlign</source>
-        <translation type="unfinished">استخدم مركز محاذاة الرأس</translation>
+        <translation>استخدم مركز محاذاة الرأس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="33"/>
         <source>useGeometryAlign</source>
-        <translation type="unfinished">استخدام محاذاة الهندسة</translation>
+        <translation>استخدام محاذاة الهندسة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="34"/>
         <source>useCenterOfROIAlign</source>
-        <translation type="unfinished">استخدام مركز ROIAlign</translation>
+        <translation>استخدام مركز ROIAlign</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="35"/>
         <source>Registration Phases (Check one or more, executed in order listed)</source>
-        <translation type="unfinished">مراحل التسجيل (حدد واحدة أو أكثر، ويتم تنفيذها بالترتيب المذكور)</translation>
+        <translation>مراحل التسجيل (حدد واحدة أو أكثر، ويتم تنفيذها بالترتيب المذكور)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="36"/>
         <source>Each of the registration phases will be used to initialize the next phase</source>
-        <translation type="unfinished">سيتم استخدام كل مرحلة من مراحل التسجيل لتهيئة المرحلة التالية</translation>
+        <translation>سيتم استخدام كل مرحلة من مراحل التسجيل لتهيئة المرحلة التالية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="37"/>
@@ -491,469 +491,469 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="38"/>
         <source>Rigid+Scale(7 DOF)</source>
-        <translation type="unfinished">جامدة + مقياس (7 DOF)</translation>
+        <translation>جامدة + مقياس (7 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="39"/>
         <source>Rigid+Scale+Skew(10 DOF)</source>
-        <translation type="unfinished">جامدة + مقياس + انحراف (10 DOF)</translation>
+        <translation>جامدة + مقياس + انحراف (10 DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="40"/>
         <source>Affine(12 DOF)</source>
-        <translation type="unfinished">أفين(12 شعبة الشؤون المالية)</translation>
+        <translation>أفين(12 شعبة الشؤون المالية)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="41"/>
         <source>BSpline (&gt;27 DOF)</source>
-        <translation type="unfinished">بسبلاين (&gt; 27 شعبة الشؤون المالية)</translation>
+        <translation>بسبلاين (&gt; 27 شعبة الشؤون المالية)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="42"/>
         <source>SyN</source>
-        <translation type="unfinished">مزامنة</translation>
+        <translation>مزامنة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="43"/>
         <source>Composite (many DOF)</source>
-        <translation type="unfinished">مركب (متعدد DOF)</translation>
+        <translation>مركب (متعدد DOF)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="44"/>
         <source>Perform a rigid registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">قم بإجراء تسجيل صارم كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
+        <translation>قم بإجراء تسجيل صارم كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="45"/>
         <source>Perform a ScaleVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">قم بإجراء تسجيل ScaleVersor3D كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.
+        <translation>قم بإجراء تسجيل ScaleVersor3D كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.
 qum bi&apos;iijra&apos; tasjil ScaleVe</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="46"/>
         <source>Perform a ScaleSkewVersor3D registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">قم بإجراء تسجيل ScaleSkewVersor3D كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
+        <translation>قم بإجراء تسجيل ScaleSkewVersor3D كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="47"/>
         <source>Perform an Affine registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">قم بإجراء تسجيل Affine كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
+        <translation>قم بإجراء تسجيل Affine كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="48"/>
         <source>Perform a BSpline registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">قم بإجراء تسجيل BSpline كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
+        <translation>قم بإجراء تسجيل BSpline كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="49"/>
         <source>Perform a SyN registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">قم بإجراء تسجيل SyN كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها</translation>
+        <translation>قم بإجراء تسجيل SyN كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="50"/>
         <source>Perform a Composite registration as part of the sequential registration steps.  This family of options overrides the use of transformType if any of them are set.</source>
-        <translation type="unfinished">قم بإجراء تسجيل مركب كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
+        <translation>قم بإجراء تسجيل مركب كجزء من خطوات التسجيل التسلسلية. تتجاوز مجموعة الخيارات هذه استخدام TransformType إذا تم تعيين أي منها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="51"/>
         <source>Image Mask and Pre-Processing</source>
-        <translation type="unfinished">قناع الصورة والمعالجة المسبقة</translation>
+        <translation>قناع الصورة والمعالجة المسبقة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="52"/>
         <source>Masking Option</source>
-        <translation type="unfinished">خيار اخفاء</translation>
+        <translation>خيار اخفاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="53"/>
         <source>(ROI) Masking input fixed</source>
-        <translation type="unfinished">(ROI) تم إصلاح إدخال الإخفاء</translation>
+        <translation>(ROI) تم إصلاح إدخال الإخفاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="54"/>
         <source>(ROI) Masking input moving</source>
-        <translation type="unfinished">(ROI) إخفاء المدخلات المتحركة</translation>
+        <translation>(ROI) إخفاء المدخلات المتحركة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="55"/>
         <source>(ROIAUTO) Output fixed mask</source>
-        <translation type="unfinished">ROCKAUTO) إخراج قناع ثابت</translation>
+        <translation>ROCKAUTO) إخراج قناع ثابت</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="56"/>
         <source>(ROIAUTO) Output moving mask</source>
-        <translation type="unfinished">(ROCKAUTO) قناع متحرك للإخراج</translation>
+        <translation>(ROCKAUTO) قناع متحرك للإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="57"/>
         <source>Define BSpline grid over the ROI bounding box</source>
-        <translation type="unfinished">تحديد شبكة B Spline عبر المربع المحيط بعائد الاستثمار</translation>
+        <translation>تحديد شبكة B Spline عبر المربع المحيط بعائد الاستثمار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="58"/>
         <source>Histogram Match</source>
-        <translation type="unfinished">مطابقة الرسم البياني</translation>
+        <translation>مطابقة الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="59"/>
         <source>Median Filter Size</source>
-        <translation type="unfinished">متوسط حجم الفلتر</translation>
+        <translation>متوسط حجم الفلتر</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="60"/>
         <source>Remove Intensity Outliers value at one tail</source>
-        <translation type="unfinished">قم بإزالة قيمة القيم المتطرفة للكثافة بذيل واحد</translation>
+        <translation>قم بإزالة قيمة القيم المتطرفة للكثافة بذيل واحد</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="61"/>
         <source>Specifies a mask to only consider a certain image region for the registration.  If ROIAUTO is chosen, then the mask is computed using Otsu thresholding and hole filling. If ROI is chosen then the mask has to be specified as in input.</source>
-        <translation type="unfinished">يحدد قناعًا للنظر فقط في منطقة صورة معينة للتسجيل. إذا تم اختيار ROIAUTO، فسيتم حساب القناع باستخدام عتبة Otsu وملء الثقب. إذا تم اختيار عائد الاستثمار (ROI)، فيجب تحديد القناع كما هو الحال في الإدخال.</translation>
+        <translation>يحدد قناعًا للنظر فقط في منطقة صورة معينة للتسجيل. إذا تم اختيار ROIAUTO، فسيتم حساب القناع باستخدام عتبة Otsu وملء الثقب. إذا تم اختيار عائد الاستثمار (ROI)، فيجب تحديد القناع كما هو الحال في الإدخال.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="62"/>
         <source>Fixed Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished">حجم القناع الثنائي للصورة الثابتة، مطلوب إذا كان خيار الإخفاء هو ROI. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
+        <translation>حجم القناع الثنائي للصورة الثابتة، مطلوب إذا كان خيار الإخفاء هو ROI. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="63"/>
         <source>Moving Image binary mask volume, required if Masking Option is ROI. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished">حجم القناع الثنائي للصورة المتحركة، مطلوب إذا كان خيار الإخفاء هو ROI. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
+        <translation>حجم القناع الثنائي للصورة المتحركة، مطلوب إذا كان خيار الإخفاء هو ROI. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="64"/>
         <source>ROI that is automatically computed from the fixed image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished">عائد الاستثمار الذي يتم حسابه تلقائيًا من الصورة الثابتة. متاح فقط إذا كان خيار الإخفاء هو ROIAUTO. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
+        <translation>عائد الاستثمار الذي يتم حسابه تلقائيًا من الصورة الثابتة. متاح فقط إذا كان خيار الإخفاء هو ROIAUTO. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="65"/>
         <source>ROI that is automatically computed from the moving image. Only available if Masking Option is ROIAUTO. Image areas where the mask volume has zero value are ignored during the registration.</source>
-        <translation type="unfinished">عائد الاستثمار (ROI) الذي يتم حسابه تلقائيًا من الصورة المتحركة. متاح فقط إذا كان خيار الإخفاء هو ROIAUTO. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
+        <translation>عائد الاستثمار (ROI) الذي يتم حسابه تلقائيًا من الصورة المتحركة. متاح فقط إذا كان خيار الإخفاء هو ROIAUTO. يتم تجاهل مناطق الصورة التي يكون حجم القناع فيها بقيمة صفر أثناء التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="66"/>
         <source>If enabled then the bounding box of the input ROIs defines the BSpline grid support region. Otherwise the BSpline grid support region is the whole fixed image.</source>
-        <translation type="unfinished">إذا تم تمكينه، فإن المربع المحيط لعائدات الاستثمار المدخلة يحدد منطقة دعم شبكة BSpline. وإلا فإن منطقة دعم شبكة BSpline هي الصورة الثابتة بأكملها.</translation>
+        <translation>إذا تم تمكينه، فإن المربع المحيط لعائدات الاستثمار المدخلة يحدد منطقة دعم شبكة BSpline. وإلا فإن منطقة دعم شبكة BSpline هي الصورة الثابتة بأكملها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="67"/>
         <source>Apply histogram matching operation for the input images to make them more similar.  This is suitable for images of the same modality that may have different brightness or contrast, but the same overall intensity profile. Do NOT use if registering images from different modalities.</source>
-        <translation type="unfinished">قم بتطبيق عملية مطابقة الرسم البياني للصور المدخلة لجعلها أكثر تشابهاً. وهذا مناسب للصور من نفس الطريقة التي قد يكون لها سطوع أو تباين مختلف، ولكن نفس ملف تعريف الكثافة الإجمالي. لا تستخدمه في حالة تسجيل الصور من طرق مختلفة.</translation>
+        <translation>قم بتطبيق عملية مطابقة الرسم البياني للصور المدخلة لجعلها أكثر تشابهاً. وهذا مناسب للصور من نفس الطريقة التي قد يكون لها سطوع أو تباين مختلف، ولكن نفس ملف تعريف الكثافة الإجمالي. لا تستخدمه في حالة تسجيل الصور من طرق مختلفة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="68"/>
         <source>Apply median filtering to reduce noise in the input volumes. The 3 values specify the radius for the optional MedianImageFilter preprocessing in all 3 directions (in voxels).</source>
-        <translation type="unfinished">قم بتطبيق التصفية المتوسطة لتقليل الضوضاء في أحجام الإدخال. تحدد القيم الثلاثة نصف القطر للمعالجة المسبقة الاختيارية لـ MedianImageFilter في جميع الاتجاهات الثلاثة (بالوحدات فوكسل).</translation>
+        <translation>قم بتطبيق التصفية المتوسطة لتقليل الضوضاء في أحجام الإدخال. تحدد القيم الثلاثة نصف القطر للمعالجة المسبقة الاختيارية لـ MedianImageFilter في جميع الاتجاهات الثلاثة (بالوحدات فوكسل).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="69"/>
         <source>Remove very high and very low intensity voxels from the input volumes. The parameter specifies the half percentage to decide outliers of image intensities. The default value is zero, which means no outlier removal. If the value of 0.005 is given, the 0.005% of both tails will be thrown away, so 0.01% of intensities in total would be ignored in the statistic calculation.</source>
-        <translation type="unfinished">قم بإزالة وحدات voxels ذات الكثافة العالية والمنخفضة جدًا من وحدات تخزين الإدخال. تحدد المعلمة نسبة النصف لتحديد القيم المتطرفة لشدة الصورة. القيمة الافتراضية هي صفر، مما يعني عدم إزالة القيم المتطرفة. إذا تم إعطاء قيمة 0.005، فسيتم التخلص من 0.005% من كلا الطرفين، لذلك سيتم تجاهل 0.01% من الكثافات الإجمالية في الحساب الإحصائي.</translation>
+        <translation>قم بإزالة وحدات voxels ذات الكثافة العالية والمنخفضة جدًا من وحدات تخزين الإدخال. تحدد المعلمة نسبة النصف لتحديد القيم المتطرفة لشدة الصورة. القيمة الافتراضية هي صفر، مما يعني عدم إزالة القيم المتطرفة. إذا تم إعطاء قيمة 0.005، فسيتم التخلص من 0.005% من كلا الطرفين، لذلك سيتم تجاهل 0.01% من الكثافات الإجمالية في الحساب الإحصائي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="70"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="71"/>
         <source>NOMASK</source>
-        <translation type="unfinished">لاقناع</translation>
+        <translation>لاقناع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="72"/>
         <source>ROIAUTO</source>
-        <translation type="unfinished">روكوتو</translation>
+        <translation>روكوتو</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="73"/>
         <source>ROI</source>
-        <translation type="unfinished">طلب للحصول على معلومات</translation>
+        <translation>طلب للحصول على معلومات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="74"/>
         <source>Advanced Output Settings</source>
-        <translation type="unfinished">إعدادات الإخراج المتقدمة</translation>
+        <translation>إعدادات الإخراج المتقدمة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="75"/>
         <source>Fixed Image Volume 2</source>
-        <translation type="unfinished">حجم الصورة الثابتة 2</translation>
+        <translation>حجم الصورة الثابتة 2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="76"/>
         <source>Moving Image Volume2</source>
-        <translation type="unfinished">نقل حجم الصورة2</translation>
+        <translation>نقل حجم الصورة2</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="77"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished">نوع بكسل صورة الإخراج</translation>
+        <translation>نوع بكسل صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="78"/>
         <source>Background Fill Value</source>
-        <translation type="unfinished">قيمة تعبئة الخلفية</translation>
+        <translation>قيمة تعبئة الخلفية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="79"/>
         <source>Scale Output Values</source>
-        <translation type="unfinished">مقياس قيم الإخراج</translation>
+        <translation>مقياس قيم الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="80"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">وضع الاستيفاء</translation>
+        <translation>وضع الاستيفاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="81"/>
         <source>Input fixed image that will be used for multimodal registration. (the moving image will be transformed into this image space).</source>
-        <translation type="unfinished">أدخل الصورة الثابتة التي سيتم استخدامها للتسجيل متعدد الوسائط. (سيتم تحويل الصورة المتحركة إلى مساحة الصورة هذه).</translation>
+        <translation>أدخل الصورة الثابتة التي سيتم استخدامها للتسجيل متعدد الوسائط. (سيتم تحويل الصورة المتحركة إلى مساحة الصورة هذه).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="82"/>
         <source>Input moving image that will be used for multimodal registration(this image will be transformed into the fixed image space).</source>
-        <translation type="unfinished">إدخال الصورة المتحركة التي سيتم استخدامها للتسجيل متعدد الوسائط (سيتم تحويل هذه الصورة إلى مساحة الصورة الثابتة).</translation>
+        <translation>إدخال الصورة المتحركة التي سيتم استخدامها للتسجيل متعدد الوسائط (سيتم تحويل هذه الصورة إلى مساحة الصورة الثابتة).</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="83"/>
         <source>Data type for representing a voxel of the Output Volume.</source>
-        <translation type="unfinished">نوع البيانات لتمثيل فوكسل لحجم الإخراج.</translation>
+        <translation>نوع البيانات لتمثيل فوكسل لحجم الإخراج.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="84"/>
         <source>This value will be used for filling those areas of the output image that have no corresponding voxels in the input moving image.</source>
-        <translation type="unfinished">سيتم استخدام هذه القيمة لملء تلك المناطق من الصورة الناتجة التي لا تحتوي على وحدات فوكسل مقابلة في الصورة المتحركة المدخلة.</translation>
+        <translation>سيتم استخدام هذه القيمة لملء تلك المناطق من الصورة الناتجة التي لا تحتوي على وحدات فوكسل مقابلة في الصورة المتحركة المدخلة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="85"/>
         <source>If true, and the voxel values do not fit within the minimum and maximum values of the desired outputVolumePixelType, then linearly scale the min/max output image voxel values to fit within the min/max range of the outputVolumePixelType.</source>
-        <translation type="unfinished">إذا كان صحيحًا، ولم تتناسب قيم فوكسل مع الحد الأدنى والحد الأقصى لقيم مخرجات فولوميبكسيلتيبي المرغوبة، فقم بقياس قيم فوكسل صورة الإخراج الدنيا/القصوى خطيًا لتناسب نطاق الحد الأدنى/الحد الأقصى لإخراج فولوميبيكسيلتيبي.</translation>
+        <translation>إذا كان صحيحًا، ولم تتناسب قيم فوكسل مع الحد الأدنى والحد الأقصى لقيم مخرجات فولوميبكسيلتيبي المرغوبة، فقم بقياس قيم فوكسل صورة الإخراج الدنيا/القصوى خطيًا لتناسب نطاق الحد الأدنى/الحد الأقصى لإخراج فولوميبيكسيلتيبي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="86"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, NearestNeighbor, BSpline, WindowedSinc, Hamming, Cosine, Welch, Lanczos, or ResampleInPlace.  The ResampleInPlace option will create an image with the same discrete voxel values and will adjust the origin and direction of the physical space interpretation.</source>
-        <translation type="unfinished">نوع الاستيفاء الذي سيتم استخدامه عند تطبيق التحويل على الحجم المتحرك. الخيارات هي Linear أو NearestNeighbor أو BSpline أو WindowedSinc أو Hamming أو Cosine أو Welch أو Lanczos أو ResampleInPlace. سيقوم خيار ResampleInPlace بإنشاء صورة بنفس قيم فوكسل المنفصلة وسيقوم بضبط أصل واتجاه تفسير المساحة المادية.</translation>
+        <translation>نوع الاستيفاء الذي سيتم استخدامه عند تطبيق التحويل على الحجم المتحرك. الخيارات هي Linear أو NearestNeighbor أو BSpline أو WindowedSinc أو Hamming أو Cosine أو Welch أو Lanczos أو ResampleInPlace. سيقوم خيار ResampleInPlace بإنشاء صورة بنفس قيم فوكسل المنفصلة وسيقوم بضبط أصل واتجاه تفسير المساحة المادية.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation type="unfinished">يطفو</translation>
+        <translation>يطفو</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="96"/>
         <source>Linear</source>
-        <translation type="unfinished">خطي</translation>
+        <translation>خطي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="90"/>
         <source>short</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>القصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="91"/>
         <source>ushort</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="92"/>
         <source>int</source>
-        <translation type="unfinished">مثير للاهتمام</translation>
+        <translation>مثير للاهتمام</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="93"/>
         <source>uint</source>
-        <translation type="unfinished">uint</translation>
+        <translation>uint</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="94"/>
         <source>uchar</source>
-        <translation type="unfinished">يطير</translation>
+        <translation>يطير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="95"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished">اقرب جار</translation>
+        <translation>اقرب جار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="97"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished">إعادة تشكيل InPlace</translation>
+        <translation>إعادة تشكيل InPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="98"/>
         <source>BSpline</source>
-        <translation type="unfinished">ب سبلين</translation>
+        <translation>ب سبلين</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="99"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished">سينك ذات نوافذ</translation>
+        <translation>سينك ذات نوافذ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="100"/>
         <source>Hamming</source>
-        <translation type="unfinished">هامينج
+        <translation>هامينج
 عربي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="101"/>
         <source>Cosine</source>
-        <translation type="unfinished">جيب التمام</translation>
+        <translation>جيب التمام</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="102"/>
         <source>Welch</source>
-        <translation type="unfinished">ويلش</translation>
+        <translation>ويلش</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="103"/>
         <source>Lanczos</source>
-        <translation type="unfinished">لانكزوس</translation>
+        <translation>لانكزوس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="104"/>
         <source>Blackman</source>
-        <translation type="unfinished">رجل اسود</translation>
+        <translation>رجل اسود</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="105"/>
         <source>Advanced Optimization Settings</source>
-        <translation type="unfinished">إعدادات التحسين المتقدمة</translation>
+        <translation>إعدادات التحسين المتقدمة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="106"/>
         <source>Max Iterations</source>
-        <translation type="unfinished">التكرارات القصوى</translation>
+        <translation>التكرارات القصوى</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="107"/>
         <source>Maximum Step Length</source>
-        <translation type="unfinished">الحد الأقصى لطول الخطوة</translation>
+        <translation>الحد الأقصى لطول الخطوة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="108"/>
         <source>Minimum Step Length</source>
-        <translation type="unfinished">الحد الأدنى لطول الخطوة</translation>
+        <translation>الحد الأدنى لطول الخطوة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="109"/>
         <source>Relaxation Factor</source>
-        <translation type="unfinished">عامل الاسترخاء</translation>
+        <translation>عامل الاسترخاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="110"/>
         <source>Transform Scale</source>
-        <translation type="unfinished">مقياس التحويل</translation>
+        <translation>مقياس التحويل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="111"/>
         <source>Reproportion Scale</source>
-        <translation type="unfinished">مقياس التناسب</translation>
+        <translation>مقياس التناسب</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="112"/>
         <source>Skew Scale</source>
-        <translation type="unfinished">مقياس الانحراف</translation>
+        <translation>مقياس الانحراف</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="113"/>
         <source>Maximum B-Spline Displacement</source>
-        <translation type="unfinished">الحد الأقصى لإزاحة B-Spline</translation>
+        <translation>الحد الأقصى لإزاحة B-Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="114"/>
         <source>The maximum number of iterations to try before stopping the optimization. When using a lower value (500-1000) then the registration is forced to terminate earlier but there is a higher risk of stopping before an optimal solution is reached.</source>
-        <translation type="unfinished">الحد الأقصى لعدد التكرارات التي يجب تجربتها قبل إيقاف التحسين. عند استخدام قيمة أقل (500-1000)، فسيتم إجبار التسجيل على الإنهاء مبكرًا ولكن هناك خطر أكبر للتوقف قبل الوصول إلى الحل الأمثل.</translation>
+        <translation>الحد الأقصى لعدد التكرارات التي يجب تجربتها قبل إيقاف التحسين. عند استخدام قيمة أقل (500-1000)، فسيتم إجبار التسجيل على الإنهاء مبكرًا ولكن هناك خطر أكبر للتوقف قبل الوصول إلى الحل الأمثل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="115"/>
         <source>Starting step length of the optimizer. In general, higher values allow for recovering larger initial misalignments but there is an increased chance that the registration will not converge.</source>
-        <translation type="unfinished">طول خطوة البدء للمُحسِّن. بشكل عام، تسمح القيم الأعلى باستعادة اختلالات أولية أكبر ولكن هناك فرصة متزايدة لعدم تقارب التسجيل.</translation>
+        <translation>طول خطوة البدء للمُحسِّن. بشكل عام، تسمح القيم الأعلى باستعادة اختلالات أولية أكبر ولكن هناك فرصة متزايدة لعدم تقارب التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="116"/>
         <source>Each step in the optimization takes steps at least this big.  When none are possible, registration is complete. Smaller values allows the optimizer to make smaller adjustments, but the registration time may increase.</source>
-        <translation type="unfinished">كل خطوة في التحسين تتطلب خطوات بهذا الحجم على الأقل. عندما لا يكون ذلك ممكنًا، يكتمل التسجيل. تسمح القيم الأصغر للمُحسِّن بإجراء تعديلات أصغر، ولكن قد يزيد وقت التسجيل.</translation>
+        <translation>كل خطوة في التحسين تتطلب خطوات بهذا الحجم على الأقل. عندما لا يكون ذلك ممكنًا، يكتمل التسجيل. تسمح القيم الأصغر للمُحسِّن بإجراء تعديلات أصغر، ولكن قد يزيد وقت التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="117"/>
         <source>Specifies how quickly the optimization step length is decreased during registration. The value must be larger than 0 and smaller than 1. Larger values result in slower step size decrease, which allow for recovering larger initial misalignments but it increases the registration time and the chance that the registration will not converge.</source>
-        <translation type="unfinished">يحدد مدى سرعة تقليل طول خطوة التحسين أثناء التسجيل. يجب أن تكون القيمة أكبر من 0 وأصغر من 1. تؤدي القيم الأكبر إلى تقليل حجم الخطوة بشكل أبطأ، مما يسمح باستعادة المحاذاة الخاطئة الأكبر حجمًا ولكنها تزيد من وقت التسجيل وفرصة عدم تقارب التسجيل.</translation>
+        <translation>يحدد مدى سرعة تقليل طول خطوة التحسين أثناء التسجيل. يجب أن تكون القيمة أكبر من 0 وأصغر من 1. تؤدي القيم الأكبر إلى تقليل حجم الخطوة بشكل أبطأ، مما يسمح باستعادة المحاذاة الخاطئة الأكبر حجمًا ولكنها تزيد من وقت التسجيل وفرصة عدم تقارب التسجيل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="118"/>
         <source>How much to scale up changes in position (in mm) compared to unit rotational changes (in radians) -- decrease this to allow for more rotation in the search pattern.</source>
-        <translation type="unfinished">مقدار زيادة التغييرات في الموضع (بالمم) مقارنة بتغيرات دوران الوحدة (بالراديان) - قم بتقليل هذا للسماح بمزيد من التدوير في نمط البحث.</translation>
+        <translation>مقدار زيادة التغييرات في الموضع (بالمم) مقارنة بتغيرات دوران الوحدة (بالراديان) - قم بتقليل هذا للسماح بمزيد من التدوير في نمط البحث.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="119"/>
         <source>ScaleVersor3D &apos;Scale&apos; compensation factor.  Increase this to allow for more rescaling in a ScaleVersor3D or ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished">عامل تعويض ScaleVersor3D &quot;Scale&quot;. قم بزيادة هذا للسماح بإعادة القياس بشكل أكبر في نمط البحث ScaleVersor3D أو ScaleSkewVersor3D. 1.0 يعمل بشكل جيد مع مقياس ترجمة 1000.0</translation>
+        <translation>عامل تعويض ScaleVersor3D &quot;Scale&quot;. قم بزيادة هذا للسماح بإعادة القياس بشكل أكبر في نمط البحث ScaleVersor3D أو ScaleSkewVersor3D. 1.0 يعمل بشكل جيد مع مقياس ترجمة 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="120"/>
         <source>ScaleSkewVersor3D Skew compensation factor.  Increase this to allow for more skew in a ScaleSkewVersor3D search pattern.  1.0 works well with a translationScale of 1000.0</source>
-        <translation type="unfinished">عامل تعويض ScaleSkewVersor3D. قم بزيادة هذا للسماح بمزيد من الانحراف في نمط بحث ScaleSkewVersor3D. 1.0 يعمل بشكل جيد مع مقياس ترجمة 1000.0</translation>
+        <translation>عامل تعويض ScaleSkewVersor3D. قم بزيادة هذا للسماح بمزيد من الانحراف في نمط بحث ScaleSkewVersor3D. 1.0 يعمل بشكل جيد مع مقياس ترجمة 1000.0</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation type="unfinished">الحد الأقصى المسموح به للإزاحات في الإحداثيات المادية للصورة (مم) لشبكة التحكم BSpline على طول كل محور. تشير القيمة 0.0 إلى أن المشكلة يجب أن تكون غير محدودة. ملاحظة: هذا يقيد الجزء BSpline فقط، ولا يحد من الإزاحة من التحويل المجمع المرتبط. يمكن أن يؤدي هذا إلى تقليل وقت الحساب بشكل كبير في مُحسِّن BSpline.
+        <translation>الحد الأقصى المسموح به للإزاحات في الإحداثيات المادية للصورة (مم) لشبكة التحكم BSpline على طول كل محور. تشير القيمة 0.0 إلى أن المشكلة يجب أن تكون غير محدودة. ملاحظة: هذا يقيد الجزء BSpline فقط، ولا يحد من الإزاحة من التحويل المجمع المرتبط. يمكن أن يؤدي هذا إلى تقليل وقت الحساب بشكل كبير في مُحسِّن BSpline.
       </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="122"/>
         <source>Expert-only Parameters</source>
-        <translation type="unfinished">معلمات الخبراء فقط</translation>
+        <translation>معلمات الخبراء فقط</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="123"/>
         <source>Fixed Image Time Index</source>
-        <translation type="unfinished">مؤشر وقت الصورة الثابتة</translation>
+        <translation>مؤشر وقت الصورة الثابتة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="124"/>
         <source>Moving Image Time Index</source>
-        <translation type="unfinished">مؤشر وقت الصورة المتحركة</translation>
+        <translation>مؤشر وقت الصورة المتحركة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="125"/>
         <source>Histogram bin count</source>
-        <translation type="unfinished">عدد صناديق الرسم البياني</translation>
+        <translation>عدد صناديق الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="126"/>
         <source>Histogram match point count</source>
-        <translation type="unfinished">عدد نقاط مطابقة الرسم البياني</translation>
+        <translation>عدد نقاط مطابقة الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="127"/>
         <source>Cost Metric</source>
-        <translation type="unfinished">مقياس التكلفة</translation>
+        <translation>مقياس التكلفة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="128"/>
         <source>Inferior Cut Off From Center</source>
-        <translation type="unfinished">قطع أدنى من المركز</translation>
+        <translation>قطع أدنى من المركز</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="129"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished">حجم ROCKAuto الموسع</translation>
+        <translation>حجم ROCKAuto الموسع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="130"/>
         <source>ROIAuto Closing Size</source>
-        <translation type="unfinished">روك حجم الإغلاق التلقائي</translation>
+        <translation>روك حجم الإغلاق التلقائي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="131"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished">عدد العينات</translation>
+        <translation>عدد العينات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="132"/>
         <source>Stripped Output Transform</source>
-        <translation type="unfinished">تجريد تحويل الإخراج</translation>
+        <translation>تجريد تحويل الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="133"/>
@@ -963,215 +963,215 @@ qum bi&apos;iijra&apos; tasjil ScaleVe</translation>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="134"/>
         <source>Output Transform</source>
-        <translation type="unfinished">تحويل الإخراج</translation>
+        <translation>تحويل الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="135"/>
         <source>Pass warped moving image to BSpline registration filter</source>
-        <translation type="unfinished">قم بتمرير الصورة المتحركة الملتوية إلى مرشح تسجيل B Spline</translation>
+        <translation>قم بتمرير الصورة المتحركة الملتوية إلى مرشح تسجيل B Spline</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="136"/>
         <source>writes the output registration transforms in single precision</source>
-        <translation type="unfinished">يكتب تحويلات تسجيل الإخراج بدقة واحدة</translation>
+        <translation>يكتب تحويلات تسجيل الإخراج بدقة واحدة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="137"/>
         <source>The index in the time series for the 3D fixed image to fit. Only allowed if the fixed input volume is 4-dimensional.</source>
-        <translation type="unfinished">الفهرس الموجود في السلسلة الزمنية للصورة الثابتة ثلاثية الأبعاد التي تناسبها. مسموح به فقط إذا كان حجم الإدخال الثابت رباعي الأبعاد.</translation>
+        <translation>الفهرس الموجود في السلسلة الزمنية للصورة الثابتة ثلاثية الأبعاد التي تناسبها. مسموح به فقط إذا كان حجم الإدخال الثابت رباعي الأبعاد.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="138"/>
         <source>The index in the time series for the 3D moving image to fit. Only allowed if the moving input volume is 4-dimensional</source>
-        <translation type="unfinished">الفهرس الموجود في السلسلة الزمنية لملاءمة الصورة المتحركة ثلاثية الأبعاد. مسموح به فقط إذا كان حجم الإدخال المتحرك رباعي الأبعاد</translation>
+        <translation>الفهرس الموجود في السلسلة الزمنية لملاءمة الصورة المتحركة ثلاثية الأبعاد. مسموح به فقط إذا كان حجم الإدخال المتحرك رباعي الأبعاد</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="139"/>
         <source>The number of histogram levels used for mutual information metric estimation.</source>
-        <translation type="unfinished">عدد مستويات الرسم البياني المستخدمة لتقدير قياس المعلومات المتبادلة.</translation>
+        <translation>عدد مستويات الرسم البياني المستخدمة لتقدير قياس المعلومات المتبادلة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="140"/>
         <source>Number of histogram match points used for mutual information metric estimation.</source>
-        <translation type="unfinished">عدد نقاط تطابق الرسم البياني المستخدمة لتقدير مقياس المعلومات المتبادلة.</translation>
+        <translation>عدد نقاط تطابق الرسم البياني المستخدمة لتقدير مقياس المعلومات المتبادلة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="141"/>
         <source>The cost metric to be used during fitting. Defaults to MMI. Options are MMI (Mattes Mutual Information), MSE (Mean Square Error), NC (Normalized Correlation), MC (Match Cardinality for binary images)</source>
-        <translation type="unfinished">مقياس التكلفة الذي سيتم استخدامه أثناء التركيب. الإعدادات الافتراضية لMMI. الخيارات هي MMI (معلومات Mattes المتبادلة)، MSE (متوسط خطأ مربع)، NC (الارتباط المطبيع)، MC (مطابقة أصل الصور الثنائية)</translation>
+        <translation>مقياس التكلفة الذي سيتم استخدامه أثناء التركيب. الإعدادات الافتراضية لMMI. الخيارات هي MMI (معلومات Mattes المتبادلة)، MSE (متوسط خطأ مربع)، NC (الارتباط المطبيع)، MC (مطابقة أصل الصور الثنائية)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="142"/>
         <source>If Initialize Transform Mode is set to useCenterOfHeadAlign or Masking Option is ROIAUTO then this value defines the how much is cut of from the inferior part of the image. The cut-off distance is specified in millimeters, relative to the image center. If the value is 1000 or larger then no cut-off performed.</source>
-        <translation type="unfinished">إذا تم تعيين تهيئة وضع التحويل على useCenterOfHeadAlign أو خيار Masking على ROIAUTO، فإن هذه القيمة تحدد مقدار القطع من الجزء السفلي من الصورة. يتم تحديد مسافة القطع بالملليمتر، بالنسبة إلى مركز الصورة. إذا كانت القيمة 1000 أو أكبر، فلن يتم إجراء أي قطع.</translation>
+        <translation>إذا تم تعيين تهيئة وضع التحويل على useCenterOfHeadAlign أو خيار Masking على ROIAUTO، فإن هذه القيمة تحدد مقدار القطع من الجزء السفلي من الصورة. يتم تحديد مسافة القطع بالملليمتر، بالنسبة إلى مركز الصورة. إذا كانت القيمة 1000 أو أكبر، فلن يتم إجراء أي قطع.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="143"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  A setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished">تكون هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة. فهو يحدد حجم التمدد النهائي لالتقاط جزء من الخلفية خارج منطقة الأنسجة. لقد ثبت أن إعداد 10 مم يساعد في تنظيم نوع تسجيل BSpline بحيث تكون هناك بعض قيود الخلفية لتتناسب مع حواف الرأس بشكل أفضل.</translation>
+        <translation>تكون هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة. فهو يحدد حجم التمدد النهائي لالتقاط جزء من الخلفية خارج منطقة الأنسجة. لقد ثبت أن إعداد 10 مم يساعد في تنظيم نوع تسجيل BSpline بحيث تكون هناك بعض قيود الخلفية لتتناسب مع حواف الرأس بشكل أفضل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="144"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the hole closing size in mm.  It is rounded up to the nearest whole pixel size in each direction. The default is to use a closing size of 9mm.  For mouse data this value may need to be reset to 0.9 or smaller.</source>
-        <translation type="unfinished">تكون هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة. يحدد حجم إغلاق الثقب بالملليمتر. يتم تقريبه إلى أقرب حجم بكسل كامل في كل اتجاه. الافتراضي هو استخدام حجم إغلاق 9 مم. بالنسبة لبيانات الماوس، قد يلزم إعادة تعيين هذه القيمة إلى 0.9 أو أصغر.</translation>
+        <translation>تكون هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة. يحدد حجم إغلاق الثقب بالملليمتر. يتم تقريبه إلى أقرب حجم بكسل كامل في كل اتجاه. الافتراضي هو استخدام حجم إغلاق 9 مم. بالنسبة لبيانات الماوس، قد يلزم إعادة تعيين هذه القيمة إلى 0.9 أو أصغر.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="145"/>
         <source>The number of voxels sampled for mutual information computation.  Increase this for higher accuracy, at the cost of longer computation time.
 NOTE that it is suggested to use samplingPercentage instead of this option. However, if set to non-zero, numberOfSamples overwrites the samplingPercentage option.  </source>
-        <translation type="unfinished">عدد وحدات البكسل التي تم أخذ عينات منها لحساب المعلومات المتبادلة. قم بزيادة هذا للحصول على دقة أعلى، على حساب وقت حسابي أطول.
+        <translation>عدد وحدات البكسل التي تم أخذ عينات منها لحساب المعلومات المتبادلة. قم بزيادة هذا للحصول على دقة أعلى، على حساب وقت حسابي أطول.
 لاحظ أنه يُقترح استخدام samplingPercentage بدلاً من هذا الخيار. ومع ذلك، إذا تم تعيينه على قيمة غير صفرية، فسيقوم numberOfSamples بالكتابة فوق خيار samplingPercentage.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="146"/>
         <source>Rigid component of the estimated affine transform. Can be used to rigidly register the moving image to the fixed image. NOTE:  This value is overridden if either bsplineTransform or linearTransform is set.</source>
-        <translation type="unfinished">مكون جامد للتحويل المقدر. يمكن استخدامه لتسجيل الصورة المتحركة بشكل صارم على الصورة الثابتة. ملاحظة: يتم تجاوز هذه القيمة إذا تم تعيين bsplineTransform أو LinearTransform.</translation>
+        <translation>مكون جامد للتحويل المقدر. يمكن استخدامه لتسجيل الصورة المتحركة بشكل صارم على الصورة الثابتة. ملاحظة: يتم تجاوز هذه القيمة إذا تم تعيين bsplineTransform أو LinearTransform.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="147"/>
         <source>Specifies a list of registration types to be used.  The valid types are, Rigid, ScaleVersor3D, ScaleSkewVersor3D, Affine, BSpline and SyN.  Specifying more than one in a comma separated list will initialize the next stage with the previous results. If registrationClass flag is used, it overrides this parameter setting.</source>
-        <translation type="unfinished">يحدد قائمة بأنواع التسجيل التي سيتم استخدامها. الأنواع الصالحة هي Rigid وScaleVersor3D وScaleSkewVersor3D وAffine وBSpline وSyN. سيؤدي تحديد أكثر من واحد في قائمة مفصولة بفواصل إلى تهيئة المرحلة التالية بالنتائج السابقة. إذا تم استخدام علامة فئة التسجيل، فإنها تتجاوز إعداد المعلمة هذا.</translation>
+        <translation>يحدد قائمة بأنواع التسجيل التي سيتم استخدامها. الأنواع الصالحة هي Rigid وScaleVersor3D وScaleSkewVersor3D وAffine وBSpline وSyN. سيؤدي تحديد أكثر من واحد في قائمة مفصولة بفواصل إلى تهيئة المرحلة التالية بالنتائج السابقة. إذا تم استخدام علامة فئة التسجيل، فإنها تتجاوز إعداد المعلمة هذا.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="148"/>
         <source>(optional) Filename to which save the (optional) estimated transform. NOTE: You must select either the outputTransform or the outputVolume option.</source>
-        <translation type="unfinished">(اختياري) اسم الملف الذي يتم حفظ التحويل المقدر (اختياري) إليه. ملاحظة: يجب عليك تحديد إما خيار تحويل الإخراج أو خيار حجم الإخراج.</translation>
+        <translation>(اختياري) اسم الملف الذي يتم حفظ التحويل المقدر (اختياري) إليه. ملاحظة: يجب عليك تحديد إما خيار تحويل الإخراج أو خيار حجم الإخراج.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="149"/>
         <source>If this flag is ON, the current generic composite transform, resulted from the linear registration stages, is set to initialize the follow nonlinear registration process. However, by the default behavior, the moving image is first warped based on the existent transform before it is passed to the BSpline registration filter. It is done to speed up the BSpline registration by reducing the computations of composite transform Jacobian.</source>
-        <translation type="unfinished">إذا كانت هذه العلامة قيد التشغيل، فسيتم تعيين التحويل المركب العام الحالي، الناتج عن مراحل التسجيل الخطية، لبدء عملية التسجيل غير الخطية التالية. ومع ذلك، وفقًا للسلوك الافتراضي، يتم أولاً تشويه الصورة المتحركة استنادًا إلى التحويل الموجود قبل تمريرها إلى مرشح تسجيل BSpline. يتم ذلك لتسريع تسجيل BSpline عن طريق تقليل حسابات التحويل المركب جاكوبيان.</translation>
+        <translation>إذا كانت هذه العلامة قيد التشغيل، فسيتم تعيين التحويل المركب العام الحالي، الناتج عن مراحل التسجيل الخطية، لبدء عملية التسجيل غير الخطية التالية. ومع ذلك، وفقًا للسلوك الافتراضي، يتم أولاً تشويه الصورة المتحركة استنادًا إلى التحويل الموجود قبل تمريرها إلى مرشح تسجيل BSpline. يتم ذلك لتسريع تسجيل BSpline عن طريق تقليل حسابات التحويل المركب جاكوبيان.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation type="unfinished">افتراضيًا، تتم كتابة تحويلات تسجيل الإخراج (إما التحويل المركب للإخراج أو كل مكون تحويل) على القرص بدقة مضاعفة. إذا كانت هذه العلامة قيد التشغيل، فستتم كتابة تحويلات الإخراج بدقة مفردة (عائمة). إنه مهم بشكل خاص إذا كان تحويل الإخراج عبارة عن تحويل حقل إزاحة، أو كان تحويلًا مركبًا يتضمن عدة حقول إزاحة.</translation>
+        <translation>افتراضيًا، تتم كتابة تحويلات تسجيل الإخراج (إما التحويل المركب للإخراج أو كل مكون تحويل) على القرص بدقة مضاعفة. إذا كانت هذه العلامة قيد التشغيل، فستتم كتابة تحويلات الإخراج بدقة مفردة (عائمة). إنه مهم بشكل خاص إذا كان تحويل الإخراج عبارة عن تحويل حقل إزاحة، أو كان تحويلًا مركبًا يتضمن عدة حقول إزاحة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="152"/>
         <source>MMI</source>
-        <translation type="unfinished">إم إم آي</translation>
+        <translation>إم إم آي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="153"/>
         <source>MSE</source>
-        <translation type="unfinished">م س ي</translation>
+        <translation>م س ي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="154"/>
         <source>NC</source>
-        <translation type="unfinished">ن سي</translation>
+        <translation>ن سي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="155"/>
         <source>MIH</source>
-        <translation type="unfinished">م اي اتش</translation>
+        <translation>م اي اتش</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="156"/>
         <source>Debugging Parameters</source>
-        <translation type="unfinished">معلمات التصحيح</translation>
+        <translation>معلمات التصحيح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="157"/>
         <source>Failure Exit Code</source>
-        <translation type="unfinished">رمز الخروج الفشل</translation>
+        <translation>رمز الخروج الفشل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="158"/>
         <source>Write Transform On Failure</source>
-        <translation type="unfinished">كتابة التحويل عند الفشل</translation>
+        <translation>كتابة التحويل عند الفشل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">عدد المواضيع</translation>
+        <translation>عدد المواضيع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
         <source>Debug option</source>
-        <translation type="unfinished">خيار التصحيح</translation>
+        <translation>خيار التصحيح</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="161"/>
         <source>Set Sampling Strategy</source>
-        <translation type="unfinished">تعيين استراتيجية أخذ العينات</translation>
+        <translation>تعيين استراتيجية أخذ العينات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="162"/>
         <source>Log File Report</source>
-        <translation type="unfinished">تقرير ملف السجل</translation>
+        <translation>تقرير ملف السجل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="163"/>
         <source>If the fit fails, exit with this status code.  (It can be used to force a successfult exit status of (0) if the registration fails due to reaching the maximum number of iterations.</source>
-        <translation type="unfinished">إذا فشلت الملاءمة، قم بالخروج باستخدام رمز الحالة هذا. (يمكن استخدامه لفرض حالة خروج ناجحة (0) في حالة فشل التسجيل بسبب الوصول إلى الحد الأقصى لعدد التكرارات</translation>
+        <translation>إذا فشلت الملاءمة، قم بالخروج باستخدام رمز الحالة هذا. (يمكن استخدامه لفرض حالة خروج ناجحة (0) في حالة فشل التسجيل بسبب الوصول إلى الحد الأقصى لعدد التكرارات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="164"/>
         <source>Flag to save the final transform even if the numberOfIterations are reached without convergence. (Intended for use when --failureExitCode 0 )</source>
-        <translation type="unfinished">ضع علامة لحفظ التحويل النهائي حتى لو تم الوصول إلى عدد التكرارات دون تقارب. (مخصص للاستخدام عند --failure رمز الخروج 0)</translation>
+        <translation>ضع علامة لحفظ التحويل النهائي حتى لو تم الوصول إلى عدد التكرارات دون تقارب. (مخصص للاستخدام عند --failure رمز الخروج 0)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="165"/>
         <source>Explicitly specify the maximum number of threads to use. (default is auto-detected)</source>
-        <translation type="unfinished">حدد بوضوح الحد الأقصى لعدد مؤشرات الترابط التي سيتم استخدامها. (يتم اكتشاف الافتراضي تلقائيًا)</translation>
+        <translation>حدد بوضوح الحد الأقصى لعدد مؤشرات الترابط التي سيتم استخدامها. (يتم اكتشاف الافتراضي تلقائيًا)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="166"/>
         <source>Display debug messages, and produce debug intermediate results.  0=OFF, 1=Minimal, 10=Maximum debugging.</source>
-        <translation type="unfinished">عرض رسائل تصحيح الأخطاء وإنتاج نتائج تصحيح متوسطة. 0=إيقاف، 1=الحد الأدنى، 10=الحد الأقصى لتصحيح الأخطاء.</translation>
+        <translation>عرض رسائل تصحيح الأخطاء وإنتاج نتائج تصحيح متوسطة. 0=إيقاف، 1=الحد الأدنى، 10=الحد الأقصى لتصحيح الأخطاء.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="167"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the CostFunctionConvergenceFactor. Algorithm terminates when the reduction in cost function is less than (factor * epsmcj) where epsmch is the machine precision. Typical values for factor: 1e+12 for low accuracy; 1e+7 for moderate accuracy and 1e+1 for extremely high accuracy.  1e+9 seems to work well.
       </source>
-        <translation type="unfinished">من itkLBFGSBOptimizer.h: قم بتعيين/احصل على CostFunctionConvergenceFactor. تنتهي الخوارزمية عندما يكون التخفيض في دالة التكلفة أقل من (العامل * epsmcj) حيث epsmch هي دقة الآلة. القيم النموذجية للعامل: 1e+12 للدقة المنخفضة؛ 1e+7 للحصول على دقة متوسطة و1e+1 للحصول على دقة عالية للغاية. يبدو أن 1e+9 يعمل بشكل جيد.
+        <translation>من itkLBFGSBOptimizer.h: قم بتعيين/احصل على CostFunctionConvergenceFactor. تنتهي الخوارزمية عندما يكون التخفيض في دالة التكلفة أقل من (العامل * epsmcj) حيث epsmch هي دقة الآلة. القيم النموذجية للعامل: 1e+12 للدقة المنخفضة؛ 1e+7 للحصول على دقة متوسطة و1e+1 للحصول على دقة عالية للغاية. يبدو أن 1e+9 يعمل بشكل جيد.
       </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="168"/>
         <source>From itkLBFGSBOptimizer.h: Set/Get the ProjectedGradientTolerance. Algorithm terminates when the project gradient is below the tolerance. Default lbfgsb value is 1e-5, but 1e-4 seems to work well.
       </source>
-        <translation type="unfinished">من itk LBFGS Optimizer.h: قم بتعيين/احصل على تسامح التدرج المتوقع. تنتهي الخوارزمية عندما يكون تدرج المشروع أقل من التسامح. القيمة الافتراضية lbfgsb هي 1e-5، ولكن يبدو أن 1e-4 تعمل بشكل جيد.
+        <translation>من itk LBFGS Optimizer.h: قم بتعيين/احصل على تسامح التدرج المتوقع. تنتهي الخوارزمية عندما يكون تدرج المشروع أقل من التسامح. القيمة الافتراضية lbfgsb هي 1e-5، ولكن يبدو أن 1e-4 تعمل بشكل جيد.
       </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="169"/>
         <source>Maximum number of evaluations for line search in lbfgsb optimizer.</source>
-        <translation type="unfinished">الحد الأقصى لعدد التقييمات للبحث عن الخط في مُحسِّن lbfgs.</translation>
+        <translation>الحد الأقصى لعدد التقييمات للبحث عن الخط في مُحسِّن lbfgs.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="170"/>
         <source>Maximum number of corrections in lbfgsb optimizer.</source>
-        <translation type="unfinished">الحد الأقصى لعدد التصحيحات في مُحسِّن lbfgs.</translation>
+        <translation>الحد الأقصى لعدد التصحيحات في مُحسِّن lbfgs.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="171"/>
         <source>Display intermediate image volumes for debugging.  NOTE:  This is not part of the standard build system, and probably does nothing on your installation.</source>
-        <translation type="unfinished">عرض أحجام الصور المتوسطة لتصحيح الأخطاء. ملاحظة: هذا ليس جزءًا من نظام البناء القياسي، وربما لا يفعل شيئًا في عملية التثبيت لديك.</translation>
+        <translation>عرض أحجام الصور المتوسطة لتصحيح الأخطاء. ملاحظة: هذا ليس جزءًا من نظام البناء القياسي، وربما لا يفعل شيئًا في عملية التثبيت لديك.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="172"/>
         <source>Prompt the user to hit enter each time an image is sent to the DebugImageViewer</source>
-        <translation type="unfinished">اطلب من المستخدم الضغط على زر الإدخال في كل مرة يتم فيها إرسال صورة إلى Debug Image Viewer</translation>
+        <translation>اطلب من المستخدم الضغط على زر الإدخال في كل مرة يتم فيها إرسال صورة إلى Debug Image Viewer</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="173"/>
         <source>It defines the method that registration filter uses to sample the input fixed image. Only Random is supported for now.</source>
-        <translation type="unfinished">وهو يحدد الطريقة التي يستخدمها مرشح التسجيل لأخذ عينات من الصورة الثابتة للإدخال. يتم دعم Random فقط في الوقت الحالي.</translation>
+        <translation>وهو يحدد الطريقة التي يستخدمها مرشح التسجيل لأخذ عينات من الصورة الثابتة للإدخال. يتم دعم Random فقط في الوقت الحالي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="174"/>
         <source>A file to write out final information report in CSV file: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName,MovingMaskName</source>
-        <translation type="unfinished">ملف لكتابة تقرير المعلومات النهائي في ملف CSV: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName</translation>
+        <translation>ملف لكتابة تقرير المعلومات النهائي في ملف CSV: MetricName,MetricValue,FixedImageName,FixedMaskName,MovingImageName</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="175"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="176"/>
         <source>Random</source>
-        <translation type="unfinished">عشوائي</translation>
+        <translation>عشوائي</translation>
     </message>
 </context>
 <context>
@@ -1179,34 +1179,34 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="5"/>
         <source>Foreground masking (BRAINS)</source>
-        <translation type="unfinished">إخفاء المقدمة (BRAINS)</translation>
+        <translation>إخفاء المقدمة (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="6"/>
         <source>This program is used to create a mask over the most prominent foreground region in an image.  This is accomplished via a combination of otsu thresholding and a closing operation.
   </source>
-        <translation type="unfinished">يستخدم هذا البرنامج لإنشاء قناع فوق المنطقة الأمامية الأبرز في الصورة. يتم تحقيق ذلك من خلال الجمع بين عتبة أوتسو وعملية الإغلاق.
+        <translation>يستخدم هذا البرنامج لإنشاء قناع فوق المنطقة الأمامية الأبرز في الصورة. يتم تحقيق ذلك من خلال الجمع بين عتبة أوتسو وعملية الإغلاق.
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="7"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5), fedorov -at- bwh.harvard.edu (Slicer integration); (1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard)  </source>
-        <translation type="unfinished">هانز جونسون (1،3،4)؛ كينت ويليامز(1); جريجوري هاريس (1)، فنسنت ماجنوتا (1،2،3)؛ أندريه فيدوروف(5)، fedorov -at- bwh.harvard.edu (تكامل القطاعة)؛ (1= قسم الطب النفسي بجامعة أيوا، 2= قسم الأشعة بجامعة أيوا، 3= قسم الهندسة الطبية الحيوية بجامعة أيوا، 4= قسم الهندسة الكهربائية وهندسة الحاسبات بجامعة أيوا، 5= مختبر التخطيط الجراحي، هارفارد)  </translation>
+        <translation>هانز جونسون (1،3،4)؛ كينت ويليامز(1); جريجوري هاريس (1)، فنسنت ماجنوتا (1،2،3)؛ أندريه فيدوروف(5)، fedorov -at- bwh.harvard.edu (تكامل القطاعة)؛ (1= قسم الطب النفسي بجامعة أيوا، 2= قسم الأشعة بجامعة أيوا، 3= قسم الهندسة الطبية الحيوية بجامعة أيوا، 4= قسم الهندسة الكهربائية وهندسة الحاسبات بجامعة أيوا، 5= مختبر التخطيط الجراحي، هارفارد)  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">اي و</translation>
+        <translation>اي و</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال/الإخراج</translation>
+        <translation>معلمات الإدخال/الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="10"/>
         <source>Input Image Volume</source>
-        <translation type="unfinished">حجم صورة الإدخال</translation>
+        <translation>حجم صورة الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="11"/>
@@ -1216,138 +1216,138 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="12"/>
         <source>Output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة المخرجات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="13"/>
         <source>Mask Output</source>
-        <translation type="unfinished"></translation>
+        <translation>قناع الاخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="14"/>
         <source>Output Image Clipped by ROI</source>
-        <translation type="unfinished"></translation>
+        <translation>تم قص صورة الإخراج بواسطة ROI</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="15"/>
         <source>The input image for finding the largest region filled mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة الإدخال للعثور على أكبر قناع مملوء بالمنطقة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="16"/>
         <source>The ROI automatically found from the input image.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم العثور على عائد الاستثمار تلقائيًا من الصورة المدخلة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="17"/>
         <source>The inputVolume with optional [maskOutput|cropOutput] to the region of the brain mask.</source>
-        <translation type="unfinished">حجم الإدخال مع [قناع الإخراج|إخراج المحاصيل] الاختياري لمنطقة قناع الدماغ.</translation>
+        <translation>حجم الإدخال مع [قناع الإخراج|إخراج المحاصيل] الاختياري لمنطقة قناع الدماغ.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="18"/>
         <source>The inputVolume multiplied by the ROI mask.</source>
-        <translation type="unfinished">حجم الإدخال مضروبًا في قناع ROI.</translation>
+        <translation>حجم الإدخال مضروبًا في قناع ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="19"/>
         <source>The inputVolume cropped to the region of the ROI mask.</source>
-        <translation type="unfinished">تم اقتصاص حجم الإدخال إلى منطقة قناع ROI.</translation>
+        <translation>تم اقتصاص حجم الإدخال إلى منطقة قناع ROI.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="20"/>
         <source>Configuration Parameters</source>
-        <translation type="unfinished">معلمات التكوين</translation>
+        <translation>معلمات التكوين</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="21"/>
         <source>Otsu Percentile Threshold</source>
-        <translation type="unfinished">عتبة أوتسو المئوية</translation>
+        <translation>عتبة أوتسو المئوية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="22"/>
         <source>Otsu Correction Factor</source>
-        <translation type="unfinished">عامل تصحيح أوتسو</translation>
+        <translation>عامل تصحيح أوتسو</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="23"/>
         <source>Closing Size</source>
-        <translation type="unfinished">حجم الاغلاق</translation>
+        <translation>حجم الاغلاق</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="24"/>
         <source>ROIAuto Dilate Size</source>
-        <translation type="unfinished">حجم ROCKAuto الموسع</translation>
+        <translation>حجم ROCKAuto الموسع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="25"/>
         <source>Output Image Pixel Type</source>
-        <translation type="unfinished">نوع بكسل صورة الإخراج</translation>
+        <translation>نوع بكسل صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">عدد المواضيع</translation>
+        <translation>عدد المواضيع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
         <source>Parameter to the Otsu threshold algorithm.</source>
-        <translation type="unfinished">معلمة لخوارزمية عتبة أوتسو.</translation>
+        <translation>معلمة لخوارزمية عتبة أوتسو.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="28"/>
         <source>A factor to scale the Otsu algorithm&apos;s result threshold, in case clipping mangles the image.</source>
-        <translation type="unfinished">عامل لقياس عتبة نتيجة خوارزمية Otsu، في حالة تشويه الصورة.</translation>
+        <translation>عامل لقياس عتبة نتيجة خوارزمية Otsu، في حالة تشويه الصورة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="29"/>
         <source>The Closing Size (in millimeters) for largest connected filled mask.  This value is divided by image spacing and rounded to the next largest voxel number.</source>
-        <translation type="unfinished">حجم الإغلاق (بالملليمترات) لأكبر قناع مملوء متصل. يتم تقسيم هذه القيمة على تباعد الصور وتقريبها إلى أكبر رقم فوكسل تالي.</translation>
+        <translation>حجم الإغلاق (بالملليمترات) لأكبر قناع مملوء متصل. يتم تقسيم هذه القيمة على تباعد الصور وتقريبها إلى أكبر رقم فوكسل تالي.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation type="unfinished">تكون هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة. فهو يحدد حجم التمدد النهائي لالتقاط جزء من الخلفية خارج منطقة الأنسجة. عند ضبط 10 مم، تبين أنه يساعد في تنظيم نوع تسجيل BSpline بحيث تكون هناك بعض القيود في الخلفية لتتناسب مع حواف الرأس بشكل أفضل.</translation>
+        <translation>تكون هذه العلامة ذات صلة فقط عند استخدام وضع ROIAUTO لتهيئة الأقنعة. فهو يحدد حجم التمدد النهائي لالتقاط جزء من الخلفية خارج منطقة الأنسجة. عند ضبط 10 مم، تبين أنه يساعد في تنظيم نوع تسجيل BSpline بحيث تكون هناك بعض القيود في الخلفية لتتناسب مع حواف الرأس بشكل أفضل.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
         <source>The output image Pixel Type is the scalar datatype for representation of the Output Volume.</source>
-        <translation type="unfinished">صورة الإخراج Pixel Type هي نوع البيانات العددية لتمثيل حجم الإخراج.</translation>
+        <translation>صورة الإخراج Pixel Type هي نوع البيانات العددية لتمثيل حجم الإخراج.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished">حدد بوضوح الحد الأقصى لعدد مؤشرات الترابط التي سيتم استخدامها.</translation>
+        <translation>حدد بوضوح الحد الأقصى لعدد مؤشرات الترابط التي سيتم استخدامها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="35"/>
         <source>short</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation type="unfinished">يطفو</translation>
+        <translation>طفى</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
         <source>ushort</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="37"/>
         <source>int</source>
-        <translation type="unfinished">اي ان تي</translation>
+        <translation>اي ان تي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="38"/>
         <source>uint</source>
-        <translation type="unfinished">يو اي ان تي</translation>
+        <translation>يو اي ان تي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="39"/>
         <source>uchar</source>
-        <translation type="unfinished">يو سي اتش ا ار</translation>
+        <translation>يو سي اتش ا ار</translation>
     </message>
 </context>
 <context>
@@ -1355,259 +1355,259 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="4"/>
         <source>Resample Image (BRAINS)</source>
-        <translation type="unfinished">إعادة تشكيل الصورة (العقول)</translation>
+        <translation>إعادة تشكيل الصورة (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="5"/>
         <source>
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
-        <translation type="unfinished">
+        <translation>
     يجمع هذا البرنامج ثلاث مهام معالجة صور شائعة تتضمن جميعها إعادة تشكيل حجم الصورة: إعادة التشكيل إلى دقة جديدة وتباعد، وتطبيق تحويل (باستخدام آليات IO لتحويل ITK) والتشويه (باستخدام حقل تشوه الصورة المتجه).
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished">تم دعم تطوير هذه الأداة بتمويل من المنح NS050568 وNS40068 من المعهد الوطني للاضطرابات العصبية والسكتة الدماغية والمنح MH31593، MH40856، من المعهد الوطني للصحة العقلية.  </translation>
+        <translation>تم دعم تطوير هذه الأداة بتمويل من المنح NS050568 وNS40068 من المعهد الوطني للاضطرابات العصبية والسكتة الدماغية والمنح MH31593، MH40856، من المعهد الوطني للصحة العقلية.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">مدخلات</translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished">معلمات لتحديد الصورة للالتواء ومساحة الصورة الناتجة</translation>
+        <translation>معلمات لتحديد الصورة للالتواء ومساحة الصورة الناتجة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="9"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="11"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">الصورة للاعوجاج</translation>
+        <translation>الصورة للاعوجاج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="10"/>
         <source>Reference Image</source>
-        <translation type="unfinished">صورة المرجعية</translation>
+        <translation>صورة المرجعية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="12"/>
         <source>Reference image used only to define the output space. If not specified, the warping is done in the same space as the image to warp.</source>
-        <translation type="unfinished">الصورة المرجعية تستخدم فقط لتحديد مساحة الإخراج. إذا لم يتم تحديده، فسيتم إجراء الالتواء في نفس مساحة الصورة المراد الالتواء بها.</translation>
+        <translation>الصورة المرجعية تستخدم فقط لتحديد مساحة الإخراج. إذا لم يتم تحديده، فسيتم إجراء الالتواء في نفس مساحة الصورة المراد الالتواء بها.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="13"/>
         <source>Outputs</source>
-        <translation type="unfinished">مخرجات</translation>
+        <translation>مخرجات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="14"/>
         <source>Resulting deformed image parameters</source>
-        <translation type="unfinished">الناتجة معلمات الصورة المشوهة</translation>
+        <translation>الناتجة معلمات الصورة المشوهة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="15"/>
         <source>Output Image</source>
-        <translation type="unfinished">صورة المخرجات</translation>
+        <translation>صورة المخرجات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="16"/>
         <source>Pixel Type</source>
-        <translation type="unfinished">نوع البكسل</translation>
+        <translation>نوع البكسل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="17"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished">الناتجة صورة مشوهة</translation>
+        <translation>الناتجة صورة مشوهة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="18"/>
         <source>Specifies the pixel type for the input/output images.  If the type is &quot;input&quot;, then infer from the input image.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished">يحدد نوع البكسل لصور الإدخال/الإخراج. إذا كان النوع &quot;إدخال&quot;، فاستنتج من صورة الإدخال. يستخدم نوع البكسل &quot;الثنائي&quot; خوارزمية معدلة حيث تتم قراءة الصورة على أنها حرف غير موقع، ويتم إنشاء خريطة مسافة موقعة، وإعادة تشكيل خريطة المسافة الموقعة، ثم تتم كتابة صورة ذات عتبة من النوع حرف غير موقع على القرص.</translation>
+        <translation>يحدد نوع البكسل لصور الإدخال/الإخراج. إذا كان النوع &quot;إدخال&quot;، فاستنتج من صورة الإدخال. يستخدم نوع البكسل &quot;الثنائي&quot; خوارزمية معدلة حيث تتم قراءة الصورة على أنها حرف غير موقع، ويتم إنشاء خريطة مسافة موقعة، وإعادة تشكيل خريطة المسافة الموقعة، ثم تتم كتابة صورة ذات عتبة من النوع حرف غير موقع على القرص.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation type="unfinished">يطفو</translation>
+        <translation>طفى</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
         <source>short</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="22"/>
         <source>ushort</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="23"/>
         <source>int</source>
-        <translation type="unfinished">اي ان تي</translation>
+        <translation>ممتع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="24"/>
         <source>uint</source>
-        <translation type="unfinished">يو اي ان تي</translation>
+        <translation>يو اي ان تي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="25"/>
         <source>uchar</source>
-        <translation type="unfinished">يو سي اتش ا ار</translation>
+        <translation>يو سي اتش ا ار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="26"/>
         <source>binary</source>
-        <translation type="unfinished">ثنائي</translation>
+        <translation>ثنائي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="27"/>
         <source>input</source>
-        <translation type="unfinished">مدخلات</translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="28"/>
         <source>Warping Parameters</source>
-        <translation type="unfinished">معلمات التشويه</translation>
+        <translation>معلمات التشويه</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="29"/>
         <source>Parameters used to define home the image is warped</source>
-        <translation type="unfinished">المعلمات المستخدمة لتحديد الصفحة الرئيسية مشوهة الصورة</translation>
+        <translation>المعلمات المستخدمة لتحديد الصفحة الرئيسية مشوهة الصورة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="30"/>
         <source>Displacement Field (deprecated)</source>
-        <translation type="unfinished">حقل الإزاحة (مهمل)</translation>
+        <translation>حقل الإزاحة (مهمل)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="31"/>
         <source>Transform file</source>
-        <translation type="unfinished">تحويل الملف</translation>
+        <translation>تحويل الملف</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="32"/>
         <source>Interpolation Mode</source>
-        <translation type="unfinished">وضع الاستيفاء</translation>
+        <translation>وضع الاستيفاء</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="33"/>
         <source>Compute inverse transform of given transformation?</source>
-        <translation type="unfinished">حساب التحويل العكسي للتحويل المعطى؟</translation>
+        <translation>حساب التحويل العكسي للتحويل المعطى؟</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="34"/>
         <source>Default Value</source>
-        <translation type="unfinished">القيمة الافتراضية</translation>
+        <translation>القيمة الافتراضية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="35"/>
         <source>Displacement Field to be used to warp the image (ITKv3 or earlier)</source>
-        <translation type="unfinished">حقل الإزاحة الذي سيتم استخدامه لتشويه الصورة (ITv3 أو إصدار سابق)</translation>
+        <translation>حقل الإزاحة الذي سيتم استخدامه لتشويه الصورة (ITv3 أو إصدار سابق)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="36"/>
         <source>Filename for the BRAINSFit transform (ITKv3 or earlier) or composite transform file (ITKv4)</source>
-        <translation type="unfinished">اسم الملف لملف BRAIN Fit_transform (ITv3 أو إصدار سابق) أو ملف التحويل المركب (ITv4)</translation>
+        <translation>اسم الملف لملف BRAIN Fit_transform (ITv3 أو إصدار سابق) أو ملف التحويل المركب (ITv4)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="37"/>
         <source>Type of interpolation to be used when applying transform to moving volume.  Options are Linear, ResampleInPlace, NearestNeighbor, BSpline, or WindowedSinc</source>
-        <translation type="unfinished">نوع الاستيفاء الذي سيتم استخدامه عند تطبيق التحويل على الحجم المتحرك. الخيارات هي Linear أو Resample InPlace أو Nearest Neighbor أو Spline أو Windowed Sinc</translation>
+        <translation>نوع الاستيفاء الذي سيتم استخدامه عند تطبيق التحويل على الحجم المتحرك. الخيارات هي Linear أو Resample InPlace أو Nearest Neighbor أو Spline أو Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="38"/>
         <source>True/False is to compute inverse of given transformation. Default is false</source>
-        <translation type="unfinished">صحيح/خطأ هو حساب معكوس التحويل المعطى. الافتراضي خطأ</translation>
+        <translation>صحيح/خطأ هو حساب معكوس التحويل المعطى. الافتراضي خطأ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="39"/>
         <source>Default voxel value</source>
-        <translation type="unfinished">قيمة فوكسل الافتراضية</translation>
+        <translation>قيمة فوكسل الافتراضية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="40"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="42"/>
         <source>Linear</source>
-        <translation type="unfinished">خطي</translation>
+        <translation>خطي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="41"/>
         <source>NearestNeighbor</source>
-        <translation type="unfinished">اقرب جار</translation>
+        <translation>اقرب جار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="43"/>
         <source>ResampleInPlace</source>
-        <translation type="unfinished">إعادة تشكيل InPlace</translation>
+        <translation>إعادة تشكيل InPlace</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="44"/>
         <source>BSpline</source>
-        <translation type="unfinished">ب سبلين</translation>
+        <translation>ب سبلين</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="45"/>
         <source>WindowedSinc</source>
-        <translation type="unfinished">سينك ذات نوافذ</translation>
+        <translation>سينك ذات نوافذ</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="46"/>
         <source>Hamming</source>
-        <translation type="unfinished">هامينج</translation>
+        <translation>هامينج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="47"/>
         <source>Cosine</source>
-        <translation type="unfinished">جيب التمام</translation>
+        <translation>جيب التمام</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="48"/>
         <source>Welch</source>
-        <translation type="unfinished">ويلش</translation>
+        <translation>ويلش</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="49"/>
         <source>Lanczos</source>
-        <translation type="unfinished">لانكزوس</translation>
+        <translation>لانكزوس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="50"/>
         <source>Blackman</source>
-        <translation type="unfinished">رجل اسود</translation>
+        <translation>رجل اسود</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="51"/>
         <source>Advanced Options</source>
-        <translation type="unfinished">خيارات متقدمة</translation>
+        <translation>خيارات متقدمة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="52"/>
         <source>Add Grids</source>
-        <translation type="unfinished">إضافة شبكات</translation>
+        <translation>إضافة شبكات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="53"/>
         <source>Add warped grid to output image to help show the deformation that occurred with specified spacing.   A spacing of 0 in a dimension indicates that grid lines should be rendered to fall exactly (i.e. do not allow displacements off that plane).  This is useful for making a 2D image of grid lines from the 3D space</source>
-        <translation type="unfinished">أضف شبكة مشوهة إلى الصورة الناتجة للمساعدة في إظهار التشوه الذي حدث مع التباعد المحدد. يشير التباعد بمقدار 0 في البعد إلى أنه يجب جعل خطوط الشبكة تسقط تمامًا (أي لا تسمح بعمليات الإزاحة خارج هذا المستوى). يعد هذا مفيدًا لإنشاء صورة ثنائية الأبعاد لخطوط الشبكة من المساحة ثلاثية الأبعاد</translation>
+        <translation>أضف شبكة مشوهة إلى الصورة الناتجة للمساعدة في إظهار التشوه الذي حدث مع التباعد المحدد. يشير التباعد بمقدار 0 في البعد إلى أنه يجب جعل خطوط الشبكة تسقط تمامًا (أي لا تسمح بعمليات الإزاحة خارج هذا المستوى). يعد هذا مفيدًا لإنشاء صورة ثنائية الأبعاد لخطوط الشبكة من المساحة ثلاثية الأبعاد</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="54"/>
         <source>Multiprocessing Control</source>
-        <translation type="unfinished">التحكم في المعالجة المتعددة</translation>
+        <translation>التحكم في المعالجة المتعددة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="55"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished">عدد المواضيع</translation>
+        <translation>عدد المواضيع</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation type="unfinished">حدد بوضوح الحد الأقصى لعدد مؤشرات الترابط التي سيتم استخدامها.</translation>
+        <translation>حدد بوضوح الحد الأقصى لعدد مؤشرات الترابط التي سيتم استخدامها.</translation>
     </message>
 </context>
 <context>
@@ -1615,127 +1615,127 @@ NOTE that it is suggested to use samplingPercentage instead of this option. Howe
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="4"/>
         <source>Resize Image (BRAINS)</source>
-        <translation type="unfinished">تغيير حجم الصورة (العقول)</translation>
+        <translation>تغيير حجم الصورة (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="5"/>
         <source>
 This program is useful for downsampling an image by a constant scale factor.
   </source>
-        <translation type="unfinished">
+        <translation>
 يعد هذا البرنامج مفيدًا لاختزال الصورة بواسطة عامل مقياس ثابت.
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="6"/>
         <source>The development of this tool was supported by funding from grants NS050568 and NS40068 from the National Institute of Neurological Disorders and Stroke and grants MH31593, MH40856, from the National Institute of Mental Health.  </source>
-        <translation type="unfinished">تم دعم تطوير هذه الأداة بتمويل من المنح NS050568 وNS40068 من المعهد الوطني للاضطرابات العصبية والسكتة الدماغية والمنح MH31593، MH40856، من المعهد الوطني للصحة العقلية.  </translation>
+        <translation>تم دعم تطوير هذه الأداة بتمويل من المنح NS050568 وNS40068 من المعهد الوطني للاضطرابات العصبية والسكتة الدماغية والمنح MH31593، MH40856، من المعهد الوطني للصحة العقلية.  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="7"/>
         <source>Inputs</source>
-        <translation type="unfinished">مدخلات</translation>
+        <translation>مدخلات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="8"/>
         <source>Parameters for specifying the image to warp and resulting image space</source>
-        <translation type="unfinished">معلمات لتحديد الصورة للالتواء ومساحة الصورة الناتجة</translation>
+        <translation>معلمات لتحديد الصورة للالتواء ومساحة الصورة الناتجة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="9"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">الصورة للاعوجاج</translation>
+        <translation>الصورة للاعوجاج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="10"/>
         <source>Image To Scale</source>
-        <translation type="unfinished">الصورة للقياس</translation>
+        <translation>الصورة للقياس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="11"/>
         <source>Outputs</source>
-        <translation type="unfinished">مخرجات</translation>
+        <translation>مخرجات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="12"/>
         <source>Resulting scaled image parameters</source>
-        <translation type="unfinished">الناتجة معلمات الصورة تحجيمها</translation>
+        <translation>الناتجة معلمات الصورة تحجيمها</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="13"/>
         <source>Output Image</source>
-        <translation type="unfinished">صورة المخرجات</translation>
+        <translation>صورة المخرجات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="14"/>
         <source>Pixel Type</source>
-        <translation type="unfinished">نوع البكسل</translation>
+        <translation>نوع البكسل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="15"/>
         <source>Resulting scaled image</source>
-        <translation type="unfinished">النتيجة تحجيم الصورة</translation>
+        <translation>النتيجة تحجيم الصورة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="16"/>
         <source>Specifies the pixel type for the input/output images.  The &quot;binary&quot; pixel type uses a modified algorithm whereby the image is read in as unsigned char, a signed distance map is created, signed distance map is resampled, and then a thresholded image of type unsigned char is written to disk.</source>
-        <translation type="unfinished">يحدد نوع البكسل لصور الإدخال/الإخراج. يستخدم نوع البكسل &quot;الثنائي&quot; خوارزمية معدلة حيث تتم قراءة الصورة على أنها حرف غير موقع، ويتم إنشاء خريطة مسافة موقعة، وإعادة تشكيل خريطة المسافة الموقعة، ثم تتم كتابة صورة ذات عتبة من النوع حرف غير موقع على القرص.</translation>
+        <translation>يحدد نوع البكسل لصور الإدخال/الإخراج. يستخدم نوع البكسل &quot;الثنائي&quot; خوارزمية معدلة حيث تتم قراءة الصورة على أنها حرف غير موقع، ويتم إنشاء خريطة مسافة موقعة، وإعادة تشكيل خريطة المسافة الموقعة، ثم تتم كتابة صورة ذات عتبة من النوع حرف غير موقع على القرص.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation type="unfinished">يطفو</translation>
+        <translation>يطفو</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
         <source>short</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="20"/>
         <source>ushort</source>
-        <translation type="unfinished">قصير</translation>
+        <translation>قصير</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="21"/>
         <source>int</source>
-        <translation type="unfinished">اي ان تي</translation>
+        <translation>اي ان تي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="22"/>
         <source>uint</source>
-        <translation type="unfinished">يو اي ان تي</translation>
+        <translation>يو اي ان تي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="23"/>
         <source>uchar</source>
-        <translation type="unfinished">يو سي اتش ا ار</translation>
+        <translation>يو سي اتش ا ار</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="24"/>
         <source>binary</source>
-        <translation type="unfinished">ثنائي</translation>
+        <translation>ثنائي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="25"/>
         <source>Scaling Parameters</source>
-        <translation type="unfinished">معلمات القياس</translation>
+        <translation>معلمات القياس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="26"/>
         <source>Parameters used to define the scaling of the output image</source>
-        <translation type="unfinished">المعلمات المستخدمة لتحديد حجم الصورة الناتجة</translation>
+        <translation>المعلمات المستخدمة لتحديد حجم الصورة الناتجة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="27"/>
         <source>Scale Factor</source>
-        <translation type="unfinished">عامل المقياس</translation>
+        <translation>عامل المقياس</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="28"/>
         <source>The scale factor for the image spacing.</source>
-        <translation type="unfinished">عامل الحجم لتباعد الصورة</translation>
+        <translation>عامل الحجم لتباعد الصورة</translation>
     </message>
 </context>
 <context>
@@ -1743,43 +1743,43 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="4"/>
         <source>Strip Rotation (BRAINS)</source>
-        <translation type="unfinished">دوران الشريط (العقول)</translation>
+        <translation>دوران الشريط (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="5"/>
         <source>Read an Image, write out same image with identity rotation matrix plus an ITK transform file</source>
-        <translation type="unfinished">اقرأ صورة، واكتب نفس الصورة باستخدام مصفوفة تدوير الهوية بالإضافة إلى ملف تحويل ITK</translation>
+        <translation>اقرأ صورة، واكتب نفس الصورة باستخدام مصفوفة تدوير الهوية بالإضافة إلى ملف تحويل ITK</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="6"/>
         <source>Input Parameters</source>
-        <translation type="unfinished">معلمات الإدخال</translation>
+        <translation>معلمات الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="7"/>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="10"/>
         <source>Image To Warp</source>
-        <translation type="unfinished">الصورة للاعوجاج</translation>
+        <translation>الصورة للاعوجاج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="8"/>
         <source>Output Image</source>
-        <translation type="unfinished">صورة الإخراج</translation>
+        <translation>صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="9"/>
         <source>Transform file</source>
-        <translation type="unfinished">تحويل الملف</translation>
+        <translation>تحويل الملف</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="11"/>
         <source>Resulting deformed image</source>
-        <translation type="unfinished">الناتجة صورة مشوهة</translation>
+        <translation>الناتجة صورة مشوهة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSStripRotation_tr.h" line="12"/>
         <source>Filename for the transform file</source>
-        <translation type="unfinished">اسم الملف لملف التحويل</translation>
+        <translation>اسم الملف لملف التحويل</translation>
     </message>
 </context>
 <context>
@@ -1787,77 +1787,77 @@ This program is useful for downsampling an image by a constant scale factor.
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="5"/>
         <source>Transform Convert (BRAINS)</source>
-        <translation type="unfinished">تحويل تحويل (العقول)</translation>
+        <translation>تحويل تحويل (العقول)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="6"/>
         <source>Convert ITK transforms to higher order transforms</source>
-        <translation type="unfinished">تحويل تحويلات ITK إلى تحويلات ذات ترتيب أعلى</translation>
+        <translation>تحويل تحويلات ITK إلى تحويلات ذات ترتيب أعلى</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="7"/>
         <source>
   </source>
-        <translation type="unfinished">
+        <translation>
   ..
   </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="8"/>
         <source>IO</source>
-        <translation type="unfinished">اي او</translation>
+        <translation>اي او</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">معلمات الإدخال/الإخراج</translation>
+        <translation>معلمات الإدخال/الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="10"/>
         <source>Transform File Name To Convert</source>
-        <translation type="unfinished">تحويل اسم الملف للتحويل</translation>
+        <translation>تحويل اسم الملف للتحويل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="11"/>
         <source>Reference image</source>
-        <translation type="unfinished">صورة المرجعية</translation>
+        <translation>صورة المرجعية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="12"/>
         <source>Output displacement field</source>
-        <translation type="unfinished">مجال إزاحة الإخراج</translation>
+        <translation>مجال إزاحة الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="13"/>
         <source>Transform File Name To Save ConvertedTransform</source>
-        <translation type="unfinished">تحويل اسم الملف لحفظ التحويل المحول</translation>
+        <translation>تحويل اسم الملف لحفظ التحويل المحول</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="14"/>
         <source>The target transformation type. Must be conversion-compatible with the input transform type</source>
-        <translation type="unfinished">نوع التحويل المستهدف يجب أن يكون متوافقًا مع التحويل مع نوع تحويل الإدخال</translation>
+        <translation>نوع التحويل المستهدف يجب أن يكون متوافقًا مع التحويل مع نوع تحويل الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="15"/>
         <source>Precision type of the output transform. It can be either single precision or double precision</source>
-        <translation type="unfinished">نوع الدقة لتحويل الإخراج. يمكن أن تكون دقة واحدة أو دقة مزدوجة</translation>
+        <translation>نوع الدقة لتحويل الإخراج. يمكن أن تكون دقة واحدة أو دقة مزدوجة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="16"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="18"/>
         <source>Affine</source>
-        <translation type="unfinished">نسيب</translation>
+        <translation>نسيب</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="24"/>
         <source>double</source>
-        <translation type="unfinished">مزدوج</translation>
+        <translation>مزدوج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="19"/>
         <source>VersorRigid</source>
-        <translation type="unfinished">VersorRigid</translation>
+        <translation>VersorRigid</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="20"/>
@@ -1904,7 +1904,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="8"/>
@@ -2008,7 +2008,7 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CheckerBoardFilter/CheckerBoardFilter_tr.h" line="7"/>
@@ -2956,102 +2956,102 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="41"/>
         <source>Options to control the output.</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات للتحكم في الإخراج.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="42"/>
         <source>Write Protocol Gradients File</source>
-        <translation type="unfinished"></translation>
+        <translation>كتابة ملف تدرجات البروتوكول</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="43"/>
         <source>Use Identity Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم إطار قياس الهوية</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="44"/>
         <source>Use BMatrix Gradient Directions</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم اتجاهات مصفوفة التدرج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="45"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الإخراج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="46"/>
         <source>Small Gradient Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>عتبة التدرج الصغيرة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="47"/>
         <source>Transpose Input BVectors</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل المدخلات ب المتجهات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="48"/>
         <source>Allow lossy image conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>السماح بتحويل الصور المفقودة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="49"/>
         <source>Write the protocol gradients to a file suffixed by &quot;.txt&quot; as they were specified in the procol by multiplying each diffusion gradient direction by the measurement frame.  This file is for debugging purposes only, the format is not fixed, and will likely change as debugging of new dicom formats is necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب تدرجات البروتوكول إلى ملف مُلحق بـ &quot;.txt&quot; كما تم تحديدها في procol بضرب كل اتجاه تدرج نشر بإطار القياس. هذا الملف مخصص لأغراض تصحيح الأخطاء فقط، والتنسيق غير ثابت، ومن المحتمل أن يتغير نظرًا لضرورة تصحيح أخطاء تنسيقات dicom الجديدة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="50"/>
         <source>Adjust all the gradients so that the measurement frame is an identity matrix.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط جميع التدرجات بحيث يكون إطار القياس عبارة عن مصفوفة هوية.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="51"/>
         <source>Fill the nhdr header with the gradient directions and bvalues computed out of the BMatrix. Only changes behavior for Siemens data.  In some cases the standard public gradients are not properly computed.  The gradients can be empirically computed from the private BMatrix fields.  In some cases the private BMatrix is consistent with the public grandients, but not in all cases, when it exists BMatrix is usually most robust.</source>
-        <translation type="unfinished"></translation>
+        <translation>املأ رأس nhdr باتجاهات التدرج والقيم b المحسوبة من BMatrix. يغير سلوك بيانات شركة Siemens فقط. في بعض الحالات، لا يتم حساب التدرجات العامة القياسية بشكل صحيح. يمكن حساب التدرجات تجريبيًا من حقول BMatrix الخاصة. في بعض الحالات تكون BMatrix الخاصة متسقة مع الأحفاد العامة، ولكن ليس في جميع الحالات، عندما تكون BMatrix موجودة تكون عادةً الأكثر قوة.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="52"/>
         <source>Directory holding the output NRRD file</source>
-        <translation type="unfinished"></translation>
+        <translation>الدليل الذي يحمل ملف الإخراج NRRD</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="53"/>
         <source>If a gradient magnitude is greater than 0 and less than smallGradientThreshold, then DWIConvert will display an error message and quit, unless the useBMatrixGradientDirections option is set.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كان حجم التدرج أكبر من 0 وأقل من SmallGradientThreshold، فسوف يعرض DWIConvert رسالة خطأ ويخرج، ما لم يتم تعيين خيار useBMatrixGradientDirections.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="54"/>
         <source>FSL input BVectors are expected to be encoded in the input file as one vector per line. If it is not the case, use this option to transpose the file as it is read</source>
-        <translation type="unfinished"></translation>
+        <translation>من المتوقع أن يتم ترميز BVectors لإدخال FSL في ملف الإدخال كمتجه واحد لكل سطر. إذا لم يكن الأمر كذلك، استخدم هذا الخيار لتبديل موضع الملف أثناء قراءته</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الإخراج الوحيد المدعوم هو &quot;قصير&quot;. قد يؤدي التحويل من صور من نوع مختلف إلى فقدان البيانات بسبب التقريب أو الاقتطاع. استخدم بحذر!</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
         <source>DEPRECATED THESE DO NOT WORK</source>
-        <translation type="unfinished"></translation>
+        <translation>إهمال هذه لا تعمل</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="57"/>
         <source>Gradient Vector File</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف ناقل التدرج</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="58"/>
         <source>Output fMRI file</source>
-        <translation type="unfinished"></translation>
+        <translation>إخراج ملف الرنين المغناطيسي الوظيفي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="59"/>
         <source>DEPRECATED:  Use --inputBVector --inputBValue files Text file giving gradient vectors</source>
-        <translation type="unfinished"></translation>
+        <translation>مهمل: استخدم ملفات --inputBVector --inputBValue ملف نصي يعطي متجهات متدرجة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="60"/>
         <source>DEPRECATED:  No support or testing.  Output a NRRD file, but without gradients</source>
-        <translation type="unfinished"></translation>
+        <translation>مهملة: لا يوجد دعم أو اختبار. إخراج ملف NRRD، ولكن بدون تدرجات</translation>
     </message>
 </context>
 <context>
@@ -3059,97 +3059,97 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="4"/>
         <source>Execution Model Tour</source>
-        <translation type="unfinished"></translation>
+        <translation>جولة نموذجية للتنفيذ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="5"/>
         <source>Shows one of each type of parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>يظهر واحدًا من كل نوع من المعلمات.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="7"/>
         <source>Scalar Parameters (árvíztűrő tükörfúrógép)</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات العددية (árvíztűrő tükörfúrógép)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="8"/>
         <source>Variations on scalar parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في المعلمات العددية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="9"/>
         <source>Integer Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة عدد صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="10"/>
         <source>Double Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمة المزدوجة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="11"/>
         <source>An integer without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد صحيح بدون قيود</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="12"/>
         <source>A double with constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>مزدوج مع القيود</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="13"/>
         <source>Vector Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات المتجهات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="14"/>
         <source>Variations on vector parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في معلمات المتجهات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>تعويم المتجهات المعلمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
         <source>String Vector Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة ناقل السلسلة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation type="unfinished"></translation>
+        <translation>ناقل للعوامات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
         <source>A vector of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>ناقل من السلاسل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="19"/>
         <source>Enumeration Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التعداد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="20"/>
         <source>Variations on enumeration parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في معلمات التعداد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="21"/>
         <source>String Enumeration Parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمة تعداد السلسلة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="22"/>
         <source>An enumeration of strings</source>
-        <translation type="unfinished"></translation>
+        <translation>تعداد السلاسل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="23"/>
@@ -3157,248 +3157,248 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="123"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="126"/>
         <source>Bill</source>
-        <translation type="unfinished"></translation>
+        <translation>فاتورة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="24"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="124"/>
         <source>Ron</source>
-        <translation type="unfinished"></translation>
+        <translation>رون</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="25"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="125"/>
         <source>Eric</source>
-        <translation type="unfinished"></translation>
+        <translation>إريك</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="27"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="127"/>
         <source>Ross</source>
-        <translation type="unfinished"></translation>
+        <translation>روز</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="28"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="128"/>
         <source>Steve</source>
-        <translation type="unfinished"></translation>
+        <translation>ستيف</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="29"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="129"/>
         <source>Will</source>
-        <translation type="unfinished"></translation>
+        <translation>سوف</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="30"/>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="130"/>
         <source>árvíztűrő tükörfúrógép</source>
-        <translation type="unfinished"></translation>
+        <translation>مثقاب مرآة مقاوم للفيضانات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="31"/>
         <source>Boolean Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المنطقية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="32"/>
         <source>Variations on boolean parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختلافات في المعلمات المنطقية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="33"/>
         <source>Boolean Default true</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة الافتراضية المنطقية صحيحة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="34"/>
         <source>Boolean Default false</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة الافتراضية المنطقية خاطئة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="35"/>
         <source>Boolean No Default</source>
-        <translation type="unfinished"></translation>
+        <translation>منطقية لا افتراضية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="36"/>
         <source>A boolean default true</source>
-        <translation type="unfinished"></translation>
+        <translation>افتراضي منطقي صحيح</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="37"/>
         <source>A boolean default false</source>
-        <translation type="unfinished"></translation>
+        <translation>افتراضي منطقي خطأ</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="38"/>
         <source>A boolean with no default, should be defaulting to false</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة المنطقية التي لا تحتوي على افتراضي، يجب أن تكون افتراضية كاذبة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="39"/>
         <source>File, Directory and Image Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الملف والدليل والصورة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="40"/>
         <source>Parameters that describe files and directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات التي تصف الملفات والدلائل.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="41"/>
         <source>Input file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="42"/>
         <source>Input Files</source>
-        <translation type="unfinished"></translation>
+        <translation>ملفات الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="43"/>
         <source>Output file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف الاخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="44"/>
         <source>Input directory</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="45"/>
         <source>Input image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="46"/>
         <source>Input 4D Image</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال صورة 4D</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="47"/>
         <source>Output image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة المخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="48"/>
         <source>An input file</source>
-        <translation type="unfinished"></translation>
+        <translation>الملف المدخل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="49"/>
         <source>Multiple input files</source>
-        <translation type="unfinished"></translation>
+        <translation>ملفات الإدخال المتعددة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="50"/>
         <source>An output file</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="51"/>
         <source>An input directory. If no default is specified, the current directory is used,</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل الإدخال. إذا لم يتم تحديد أي افتراضي، فسيتم استخدام الدليل الحالي،</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="52"/>
         <source>An input image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="53"/>
         <source>Input 4D Image (txyz)</source>
-        <translation type="unfinished"></translation>
+        <translation>إدخال صورة رباعية الأبعاد (txyz)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="54"/>
         <source>An output image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة المخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="55"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المعلمات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="56"/>
         <source>Parameters that describe transforms.</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات التي تصف التحويلات.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="57"/>
         <source>Input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="58"/>
         <source>Input transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإدخال الخطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="59"/>
         <source>Input transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المدخلات غير الخطية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="60"/>
         <source>Input transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>خط تحويل ب الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="61"/>
         <source>Output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="62"/>
         <source>Output transform linear</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج الخطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="63"/>
         <source>Output transform nonlinear</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج غير الخطية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="64"/>
         <source>Output transform bspline</source>
-        <translation type="unfinished"></translation>
+        <translation>خط تحويل الإخراج ب</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="65"/>
         <source>A generic input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المدخلات العامة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="66"/>
         <source>A linear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المدخلات الخطية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="67"/>
         <source>A nonlinear input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المدخلات غير الخطية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="68"/>
         <source>A bspline input transform</source>
-        <translation type="unfinished"></translation>
+        <translation>أ ب تحويل المدخلات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="69"/>
         <source>A generic output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج العام</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="70"/>
         <source>A linear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج الخطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="71"/>
         <source>A nonlinear output transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل الإخراج غير الخطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="72"/>
@@ -3790,7 +3790,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/FiducialRegistration/FiducialRegistration_tr.h" line="8"/>
@@ -3894,7 +3894,7 @@ MCDE does not exhibit the edge enhancing properties of classic anisotropic diffu
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GaussianBlurImageFilter/GaussianBlurImageFilter_tr.h" line="8"/>
@@ -4092,7 +4092,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleFillHoleImageFilter/GrayscaleFillHoleImageFilter_tr.h" line="8"/>
@@ -4160,7 +4160,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleGrindPeakImageFilter/GrayscaleGrindPeakImageFilter_tr.h" line="8"/>
@@ -4208,7 +4208,7 @@ A companion filter, Grayscale Fill Hole, fills holes in grayscale images.</sourc
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/GrayscaleModelMaker/GrayscaleModelMaker_tr.h" line="7"/>
@@ -5097,7 +5097,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ModelToLabelMap/ModelToLabelMap_tr.h" line="7"/>
@@ -5175,7 +5175,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/MultiplyScalarVolumes/MultiplyScalarVolumes_tr.h" line="8"/>
@@ -5432,7 +5432,7 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="7"/>
@@ -5648,97 +5648,97 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="50"/>
         <source>PLS</source>
-        <translation type="unfinished"></translation>
+        <translation>بي ل س</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="51"/>
         <source>ARS</source>
-        <translation type="unfinished"></translation>
+        <translation>ارس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="52"/>
         <source>ALS</source>
-        <translation type="unfinished"></translation>
+        <translation>الس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="53"/>
         <source>IPR</source>
-        <translation type="unfinished"></translation>
+        <translation>ابر</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="54"/>
         <source>SPR</source>
-        <translation type="unfinished"></translation>
+        <translation>سبر</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="55"/>
         <source>IAR</source>
-        <translation type="unfinished"></translation>
+        <translation>اير</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="56"/>
         <source>SAR</source>
-        <translation type="unfinished"></translation>
+        <translation>سار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="57"/>
         <source>IPL</source>
-        <translation type="unfinished"></translation>
+        <translation>اي بي ل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="58"/>
         <source>SPL</source>
-        <translation type="unfinished"></translation>
+        <translation>سبل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="59"/>
         <source>IAL</source>
-        <translation type="unfinished"></translation>
+        <translation>اي ال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="60"/>
         <source>SAL</source>
-        <translation type="unfinished"></translation>
+        <translation>سال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="61"/>
         <source>PIR</source>
-        <translation type="unfinished"></translation>
+        <translation>بي لي ار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="62"/>
         <source>PSR</source>
-        <translation type="unfinished"></translation>
+        <translation>بي س ار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="63"/>
         <source>AIR</source>
-        <translation type="unfinished"></translation>
+        <translation>ا اي ار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="64"/>
         <source>ASR</source>
-        <translation type="unfinished"></translation>
+        <translation>ا ي ار</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="65"/>
         <source>PIL</source>
-        <translation type="unfinished"></translation>
+        <translation>بي أي ل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="66"/>
         <source>PSL</source>
-        <translation type="unfinished"></translation>
+        <translation>بي س ل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="67"/>
         <source>AIL</source>
-        <translation type="unfinished"></translation>
+        <translation>ا اي ل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/OrientScalarVolume/OrientScalarVolume_tr.h" line="68"/>
         <source>ASL</source>
-        <translation type="unfinished"></translation>
+        <translation>ا اس ل</translation>
     </message>
 </context>
 <context>
@@ -5746,132 +5746,132 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="4"/>
         <source>PET Standard Uptake Value Computation</source>
-        <translation type="unfinished"></translation>
+        <translation>حساب قيمة الامتصاص القياسي لـ PET</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="5"/>
         <source>Computes the standardized uptake value based on body weight. Takes an input PET image in DICOM and NRRD format (DICOM header must contain Radiopharmaceutical parameters). Produces a CSV file that contains patientID, studyDate, dose, labelID, suvmin, suvmax, suvmean, labelName for each volume of interest. It also displays some of the information as output strings in the GUI, the CSV file is optional in that case. The CSV file is appended to on each execution of the CLI.</source>
-        <translation type="unfinished"></translation>
+        <translation>يحسب قيمة الامتصاص الموحدة على أساس وزن الجسم. يأخذ صورة PET المدخلة بتنسيق DICOM وNRRD (يجب أن يحتوي رأس DICOM على معلمات صيدلانية إشعاعية). يُنتج ملف CSV يحتوي على معرف المريض، وتاريخ الدراسة، والجرعة، ومعرف التسمية، وsuvmin، وsuvmax، وsuvmean، وlabelName لكل مجلد محل اهتمام. كما يعرض أيضًا بعض المعلومات كسلاسل إخراج في واجهة المستخدم الرسومية، ويكون ملف CSV اختياريًا في هذه الحالة. يتم إلحاق ملف CSV بكل تنفيذ لواجهة سطر الأوامر (CLI).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تمويل هذا العمل من قبل محفز هارفارد، والتحالف الوطني لحوسبة الصور الطبية (NAMIC)، الذي تموله المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للأبحاث الطبية، Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
         <source>Image and Information</source>
-        <translation type="unfinished"></translation>
+        <translation>الصورة والمعلومات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="9"/>
         <source>PET DICOM volume path</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار حجم PET DICOM</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="10"/>
         <source>Input PET Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار حجم PET</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="11"/>
         <source>Input VOI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم إدخال VOI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="12"/>
         <source>Input path to a directory containing a PET volume containing DICOM header information for SUV computation</source>
-        <translation type="unfinished"></translation>
+        <translation>مسار الإدخال إلى دليل يحتوي على وحدة تخزين PET تحتوي على معلومات رأس DICOM لحساب سيارات الدفع الرباعي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="13"/>
         <source>Input PET volume for SUVbw computation (must be the same volume as pointed to by the DICOM path!).</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم إدخال PET لحساب SUVbw (يجب أن يكون بنفس الحجم المشار إليه بواسطة مسار DICOM!).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="14"/>
         <source>Input label volume containing the volumes of interest</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم تسمية الإدخال الذي يحتوي على كميات الفائدة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="15"/>
         <source>Color table to to map labels to colors and names</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول الألوان لتعيين التسميات للألوان والأسماء</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="16"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>المخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="17"/>
         <source>The Output file collects the information on disk from the output label, suv max/mean/min output stringsin the gui, plus some extra information from the DICOM header.</source>
-        <translation type="unfinished"></translation>
+        <translation>يقوم ملف الإخراج بجمع المعلومات الموجودة على القرص من ملصق الإخراج، وسلسلة الإخراج suv max/mean/min في واجهة المستخدم الرسومية، بالإضافة إلى بعض المعلومات الإضافية من رأس DICOM.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="18"/>
         <source>Output table</source>
-        <translation type="unfinished"></translation>
+        <translation>طاولة المخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="19"/>
         <source>Output Label</source>
-        <translation type="unfinished"></translation>
+        <translation>تسمية الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="20"/>
         <source>Output Label Value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة تسمية الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="21"/>
         <source>SUV Max</source>
-        <translation type="unfinished"></translation>
+        <translation>سيارات الدفع الرباعي ماكس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="22"/>
         <source>SUV Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>سيارات الدفع الرباعي يعني</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="23"/>
         <source>SUV Minimum</source>
-        <translation type="unfinished"></translation>
+        <translation>سيارات الدفع الرباعي الحد الأدنى</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="24"/>
         <source>A table holding the output SUV values in comma separated lines, one per label. Optional.</source>
-        <translation type="unfinished"></translation>
+        <translation>جدول يحتوي على قيم SUV الناتجة في أسطر مفصولة بفواصل، واحد لكل تسمية. خياري.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="25"/>
         <source>List of labels for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة التسميات التي تم حساب قيم سيارات الدفع الرباعي (SUV) لها</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="26"/>
         <source>List of label values for which SUV values were computed</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة قيم الملصقات التي تم حساب قيم سيارات الدفع الرباعي (SUV) لها</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="27"/>
         <source>SUV max for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>سيارات الدفع الرباعي كحد أقصى لكل تسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="28"/>
         <source>SUV mean for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>سيارات الدفع الرباعي تعني لكل تسمية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="29"/>
         <source>SUV minimum for each label</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى لسيارات الدفع الرباعي لكل تسمية</translation>
     </message>
 </context>
 <context>
@@ -5879,99 +5879,100 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="4"/>
         <source>Registration Metric Test (BRAINS)</source>
-        <translation type="unfinished"></translation>
+        <translation>اختبار التسجيل المتري (BRAINS)</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="5"/>
         <source>Compare Mattes/MSQ metric value for two input images and a possible input BSpline transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>قارن القيمة المترية Mattes/MSQ لصورتين مدخلتين وتحويل BSpline محتمل للإدخال.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="6"/>
         <source>
   </source>
-        <translation type="unfinished"></translation>
+        <translation>
+  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>اي او</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="8"/>
         <source>Input parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="9"/>
         <source>Transform File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل اسم الملف</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="10"/>
         <source>Fixed image</source>
-        <translation type="unfinished"></translation>
+        <translation>صورة ثابتة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="11"/>
         <source>Moving image</source>
-        <translation type="unfinished"></translation>
+        <translation>الصور المتحركة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="12"/>
         <source>Input transform that is use to warp moving image before metric comparison.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المدخلات المستخدم لتشويه الصورة المتحركة قبل المقارنة المترية.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="13"/>
         <source>Input variables</source>
-        <translation type="unfinished"></translation>
+        <translation>متغيرات الإدخال</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="14"/>
         <source>Metric type and input parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع المقياس ومعلمات الإدخال.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="15"/>
         <source>Metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع متري</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="16"/>
         <source>Number Of Samples</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد العينات</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="17"/>
         <source>Number Of Histogram Bins</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد صناديق الرسم البياني</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="18"/>
         <source>Comparison metric type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع مقياس المقارنة</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="19"/>
         <source>The number of voxels sampled for metric evaluation.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد وحدات البكسل التي تم أخذ عينات منها للتقييم المتري.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="20"/>
         <source>The number of histogram bins when MMI (Mattes) is metric type.</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد صناديق الرسم البياني عندما يكون MMI (Mattes) من النوع المتري.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="21"/>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="22"/>
         <source>MMI</source>
-        <translation type="unfinished"></translation>
+        <translation>م م اي</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/PerformMetricTest_tr.h" line="23"/>
         <source>MSE</source>
-        <translation type="unfinished"></translation>
+        <translation>م اس ي</translation>
     </message>
 </context>
 <context>
@@ -5979,63 +5980,63 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="4"/>
         <source>Probe Volume With Model</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم التحقيق مع النموذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="5"/>
         <source>Paint a model by a volume (using vtkProbeFilter).</source>
-        <translation type="unfinished"></translation>
+        <translation>قم برسم نموذج حسب الحجم (باستخدام vtkProbeFilter).</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="6"/>
         <source>BWH, NCIGT/LMI</source>
-        <translation type="unfinished"></translation>
+        <translation>بوه، نسيرت/لمي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="7"/>
         <source>IO</source>
-        <translation type="unfinished"></translation>
+        <translation>اي او</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الإدخال/الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="9"/>
         <source>Input volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم المدخلات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="10"/>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="14"/>
         <source>Input model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الادخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="11"/>
         <source>Output model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الاخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="12"/>
         <source>Output array name</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم صفيف الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="13"/>
         <source>Volume to use to &quot;paint&quot; the model</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم الذي سيتم استخدامه &quot;لطلاء&quot; النموذج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="15"/>
         <source>Output &quot;painted&quot; model</source>
-        <translation type="unfinished"></translation>
+        <translation>نموذج الإخراج &quot;المرسوم&quot;.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ProbeVolumeWithModel/ProbeVolumeWithModel_tr.h" line="16"/>
         <source>Name of the array that will contain the voxel values.</source>
-        <translation type="unfinished"></translation>
+        <translation>اسم المصفوفة التي ستحتوي على قيم فوكسل.</translation>
     </message>
 </context>
 <context>
@@ -6043,185 +6044,185 @@ The filter assumes that both the source and reference are of the same type and t
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="5"/>
         <source>Resample DTI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشكيل حجم DTI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="6"/>
         <source>Resampling an image is a very important task in image analysis. It is especially important in the frame of image registration. This module implements DT image resampling through the use of itk Transforms. The resampling is controlled by the Output Spacing. &quot;Resampling&quot; is performed in space coordinates, not pixel/grid coordinates. It is quite important to ensure that image spacing is properly set on the images involved. The interpolator is required since the mapping from one space to the other will often require evaluation of the intensity of the image at non-grid positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعد إعادة تشكيل الصورة مهمة مهمة جدًا في تحليل الصور. إنه مهم بشكل خاص في إطار تسجيل الصور. تقوم هذه الوحدة بتنفيذ إعادة تشكيل صورة DT من خلال استخدام تحويلات itk. يتم التحكم في إعادة التشكيل عن طريق تباعد الإخراج. يتم تنفيذ &quot;إعادة التشكيل&quot; في إحداثيات الفضاء، وليس في إحداثيات البكسل/الشبكة. من المهم جدًا التأكد من ضبط تباعد الصور بشكل صحيح على الصور المعنية. إن أداة الإقحام مطلوبة نظرًا لأن التعيين من مساحة إلى أخرى سيتطلب غالبًا تقييم شدة الصورة في المواضع غير الشبكية.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>يعد هذا العمل جزءًا من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، الذي تموله المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للأبحاث الطبية، Grant U54 EB005149. يمكن الحصول على معلومات عن المراكز الوطنية للحوسبة الطبية الحيوية من http://nihroadmap.nih.gov/bioinformatics</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="8"/>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>المدخلات/المخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="9"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الإدخال/الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="10"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="11"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الاخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="12"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم المرجعي (لضبط معلمات الإخراج)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="13"/>
         <source>Input volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال المراد إعادة تشكيله</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="14"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم معاد تشكيله</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="15"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم المرجعي (التباعد، الحجم، الاتجاه، الأصل)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="16"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المعلمات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="17"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المستخدمة لتحويل صورة الإدخال إلى صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="18"/>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة التحويل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="19"/>
         <source>Deformation Field Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم مجال التشوه</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="20"/>
         <source>Displacement or h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>النزوح أو ح-المجال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="21"/>
         <source>File containing the deformation field (3D vector image containing vectors with 3 components)</source>
-        <translation type="unfinished"></translation>
+        <translation>ملف يحتوي على مجال التشوه (صورة متجهة ثلاثية الأبعاد تحتوي على نواقل ذات 3 مكونات)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="22"/>
         <source>Set if the deformation field is an -Field</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعة حقل التشوه هي -Field</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="23"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="25"/>
         <source>h-Field</source>
-        <translation type="unfinished"></translation>
+        <translation>ح-الحقل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="24"/>
         <source>displacement</source>
-        <translation type="unfinished"></translation>
+        <translation>الإزاحة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="26"/>
         <source>Processing Options</source>
-        <translation type="unfinished"></translation>
+        <translation>خيارات المعالجة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="27"/>
         <source>Interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>إقحام</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="28"/>
         <source>No Measurement Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد إطار القياس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="29"/>
         <source>Tensors Correction</source>
-        <translation type="unfinished"></translation>
+        <translation>تصحيح التوترات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="30"/>
         <source>Sampling algorithm (linear , nn (nearest neighbor), ws (WindowedSinc), bs (BSpline) )</source>
-        <translation type="unfinished"></translation>
+        <translation>خوارزمية أخذ العينات (الخطية، nn (أقرب جار)، ws (WindowedSinc)، bs (BSpline))</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="31"/>
         <source>Do not use the measurement frame that is in the input image to transform the tensors. Uses the image orientation instead</source>
-        <translation type="unfinished"></translation>
+        <translation>لا تستخدم إطار القياس الموجود في الصورة المدخلة لتحويل الموترات. يستخدم اتجاه الصورة بدلاً من ذلك</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="32"/>
         <source>Correct the tensors if computed tensor is not semi-definite positive</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتصحيح الموترات إذا لم يكن الموتر المحسوب موجبًا شبه محدد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="33"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="35"/>
         <source>linear</source>
-        <translation type="unfinished"></translation>
+        <translation>خطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="34"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="39"/>
         <source>zero</source>
-        <translation type="unfinished"></translation>
+        <translation>صفر</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="36"/>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>ن ن</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="37"/>
         <source>ws</source>
-        <translation type="unfinished"></translation>
+        <translation>واس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="38"/>
         <source>bs</source>
-        <translation type="unfinished"></translation>
+        <translation>بي س</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="40"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>لااحد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="41"/>
         <source>abs</source>
-        <translation type="unfinished"></translation>
+        <translation>ابس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="42"/>
         <source>nearest</source>
-        <translation type="unfinished"></translation>
+        <translation>الاقرب</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="43"/>
         <source>Tensor Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع تحويل الموتر</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="44"/>
@@ -6229,225 +6230,225 @@ The filter assumes that both the source and reference are of the same type and t
 Preservation of the Principal Direction (PPD)</source>
         <oldsource>Finite Strain (FS) or
 Preservation of the Principal Direction (PPD)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>سلالة محدودة (للحفاظ على الاتجاه الرئيسي (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation type="unfinished"></translation>
+        <translation>يختار بين طريقتين لتحويل الموترات: السلالة المحدودة (FS)، أسرع ولكن أقل دقة، أو الحفاظ على الاتجاه الرئيسي (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="47"/>
         <source>PPD</source>
-        <translation type="unfinished"></translation>
+        <translation>ببد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="48"/>
         <source>FS</source>
-        <translation type="unfinished"></translation>
+        <translation>فس</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="49"/>
         <source>Advanced Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات التحويل المتقدمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="50"/>
         <source>Those parameters should normally not be modified</source>
-        <translation type="unfinished"></translation>
+        <translation>ويجب عادةً عدم تعديل هذه المعلمات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="51"/>
         <source>Transforms Order</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل النظام</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="52"/>
         <source>Not a Bulk Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>ليس تحويل بالجملة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="53"/>
         <source>Space Orientation inconsistency (between transform and image)</source>
-        <translation type="unfinished"></translation>
+        <translation>عدم تناسق اتجاه الفضاء (بين التحويل والصورة)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="54"/>
         <source>Select in what order the transforms are read</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الترتيب الذي تتم به قراءة التحويلات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="55"/>
         <source>The transform following the BSpline transform is not set as a bulk transform for the BSpline transform</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين التحويل الذي يلي تحويل B Spline كتحويل مجمع لتحويل B Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="56"/>
         <source>Space Orientation between transform and image is different (RAS/LPS) (warning: if the transform is a Transform Node in Slicer3, do not select)</source>
-        <translation type="unfinished"></translation>
+        <translation>يختلف اتجاه المسافة بين التحويل والصورة (RAS/LPS) (تحذير: إذا كان التحويل عبارة عن عقدة تحويل في Slicer، فلا تقم بالتحديد)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="57"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="59"/>
         <source>output-to-input</source>
-        <translation type="unfinished"></translation>
+        <translation>الإخراج إلى الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="58"/>
         <source>input-to-output</source>
-        <translation type="unfinished"></translation>
+        <translation>الإدخا ل إلى الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="60"/>
         <source>Advanced Rigid/Affine Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات جامدة/أفينية متقدمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="61"/>
         <source>Rotation Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز الدوران</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="62"/>
         <source>Centered Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل مركزي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="63"/>
         <source>Image Center</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز الصورة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="64"/>
         <source>Inverse Transformation</source>
-        <translation type="unfinished"></translation>
+        <translation>التحول العكسي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="65"/>
         <source>Center of rotation (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>مركز الدوران (فقط للتحويلات الصلبة والتقاربية)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="66"/>
         <source>Set the center of the transformation to the center of the input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>اضبط مركز التحويل على مركز الصورة المدخلة (فقط للتحويلات الصلبة والمتقاربة)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="67"/>
         <source>Image to use to center the transform (used only if &quot;Centered Transform&quot; is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>الصورة المراد استخدامها لتوسيط التحويل (تُستخدم فقط في حالة تحديد &quot;توسيط التحويل&quot;)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="68"/>
         <source>Inverse the transformation before applying it from output image to input image (only for rigid and affine transforms)</source>
-        <translation type="unfinished"></translation>
+        <translation>عكس التحويل قبل تطبيقه من صورة الإخراج إلى صورة الإدخال (فقط للتحويلات الصلبة والمتقاربة)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="69"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="70"/>
         <source>input</source>
-        <translation type="unfinished"></translation>
+        <translation>ادخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="71"/>
         <source>output</source>
-        <translation type="unfinished"></translation>
+        <translation>اخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="72"/>
         <source>Manual Output Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الإخراج اليدوي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="73"/>
         <source>Parameters of the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="74"/>
         <source>Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>تباعد</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="75"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="76"/>
         <source>Origin</source>
-        <translation type="unfinished"></translation>
+        <translation>الاصل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="77"/>
         <source>Direction Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>مصفوفة الاتجاه</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="78"/>
         <source>Spacing along each dimension (0 means use input spacing)</source>
-        <translation type="unfinished"></translation>
+        <translation>التباعد على طول كل بُعد (0 يعني استخدام تباعد الإدخال)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="79"/>
         <source>Size along each dimension (0 means use input size)</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم على طول كل بُعد (0 يعني استخدام حجم الإدخال)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="80"/>
         <source>Origin of the output Image</source>
-        <translation type="unfinished"></translation>
+        <translation>أصل صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="81"/>
         <source>9 parameters of the direction matrix by rows (ijk to LPS if LPS transform, ijk to RAS if RAS transform)</source>
-        <translation type="unfinished"></translation>
+        <translation>9 معلمات لمصفوفة الاتجاه حسب الصفوف (ijk إلى LPS في حالة تحويل LPS، وijk إلى RAS في حالة تحويل RAS)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="82"/>
         <source>Advanced Resampling Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات إعادة التشكيل المتقدمة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="83"/>
         <source>Parameters used for resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المستخدمة لإعادة أخذ العينات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="84"/>
         <source>Number Of Threads</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد المواضيع</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="85"/>
         <source>Default Pixel Value</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة البكسل الافتراضية</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="86"/>
         <source>Number of thread used to compute the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>عدد الخيوط المستخدمة لحساب الصورة الناتجة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="87"/>
         <source>Default pixel value for samples falling outside of the input region</source>
-        <translation type="unfinished"></translation>
+        <translation>قيمة البكسل الافتراضية للعينات التي تقع خارج منطقة الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="88"/>
         <source>Windowed Sinc Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات وظيفة الاستيفاء Sinc ذات الإطارات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="89"/>
         <source>Parameters used for the Windowed Sinc interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المستخدمة لاستكمال Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="90"/>
         <source>Window Function</source>
-        <translation type="unfinished"></translation>
+        <translation>وظيفة النافذة</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="91"/>
@@ -6463,91 +6464,98 @@ c = Cosine
 w = Welch
 l = Lanczos
 b = Blackman</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>وظيفة النافذة
+ح = هامينغ
+ج = جيب التمام
+ث = ولش
+ل = لانكزوس
+ب = بلاكمان</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="92"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="94"/>
         <source>c</source>
-        <translation type="unfinished"></translation>
+        <translation>سي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="93"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>ه</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="95"/>
         <source>w</source>
-        <translation type="unfinished"></translation>
+        <translation>و</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="96"/>
         <source>l</source>
-        <translation type="unfinished"></translation>
+        <translation>ل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="97"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>بي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="98"/>
         <source>BSpline Interpolate Function Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>B معلمات وظيفة الاستيفاء الخطي</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="99"/>
         <source>Parameters used for the BSpline interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المستخدمة في الاستيفاء B Spline</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="100"/>
         <source>Spline Order</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب الخط</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="101"/>
         <source>Spline Order (Spline order may be from 0 to 5)</source>
-        <translation type="unfinished"></translation>
+        <translation>ترتيب الشريحة (قد يكون ترتيب الشريحة من 0 إلى 5)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="102"/>
         <source>Manual Transform (Used only if no transform node set)</source>
-        <translation type="unfinished"></translation>
+        <translation>التحويل اليدوي (يستخدم فقط في حالة عدم تعيين عقدة التحويل)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="103"/>
         <source>Transform Matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>مصفوفة التحويل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="104"/>
         <source>Transform Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع التحويل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="105"/>
         <source>12 parameters of the transform matrix by rows ( --last 3 being translation-- )</source>
-        <translation type="unfinished"></translation>
+        <translation>12 معلمة لمصفوفة التحويل حسب الصفوف ( --آخر 3 هي الترجمة-)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="106"/>
         <source>Transform algorithm
 rt = Rigid Transform
 a = Affine Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>خوارزمية التحويل
+rt = تحويل جامد
+أ = تحويل أفيني</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="107"/>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="109"/>
         <source>a</source>
-        <translation type="unfinished"></translation>
+        <translation>ا</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="108"/>
         <source>rt</source>
-        <translation type="unfinished"></translation>
+        <translation>رت</translation>
     </message>
 </context>
 <context>
@@ -6555,7 +6563,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="4"/>
         <source>Resample Scalar/Vector/DWI Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تشكيل الحجم العددي/المتجه/DWI</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="5"/>
@@ -6569,67 +6577,72 @@ Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be r
 Warning: To resample DWMR Images, use nrrd input and output files.
 
 Warning: Do not use to resample Diffusion Tensor Images, tensors would  not be reoriented</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>تقوم هذه الوحدة بتنفيذ إعادة تشكيل الصور والصور المتجهة من خلال استخدام تحويلات itk. ويمكنه أيضًا التعامل مع إعادة تشكيل صور التصوير بالرنين المغناطيسي الموزونة بالانتشار. يتم تنفيذ &quot;إعادة التشكيل&quot; في إحداثيات الفضاء، وليس في إحداثيات البكسل/الشبكة. من المهم جدًا التأكد من ضبط تباعد الصور بشكل صحيح على الصور المعنية. إن أداة الإقحام مطلوبة نظرًا لأن التعيين من مساحة إلى أخرى سيتطلب غالبًا تقييم شدة الصورة في المواضع غير الشبكية.
+
+تحذير: لإعادة تشكيل صور DWMR، استخدم ملفات الإدخال والإخراج nrrd.
+
+تحذير: لا تستخدم لإعادة تشكيل صور Tensor الانتشار، فلن يتم إعادة توجيه الموترات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished"></translation>
+        <translation>يعد هذا العمل جزءًا من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، الذي تموله المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للأبحاث الطبية، Grant U54 EB005149. يمكن الحصول على معلومات عن المراكز الوطنية للحوسبة الطبية الحيوية من http://nihroadmap.nih.gov/bioinformatics
+yueadu hadha aleamal</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
         <source>Input/Output</source>
-        <translation type="unfinished"></translation>
+        <translation>المدخلات/المخرجات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات الإدخال/الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الاخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="11"/>
         <source>Reference Volume (To Set Output Parameters)</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم المرجعي (لضبط معلمات الإخراج)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="12"/>
         <source>Input Volume to be resampled</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الإدخال المراد إعادة تشكيله</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="13"/>
         <source>Resampled Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم معاد تشكيله</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="14"/>
         <source>Reference Volume (spacing,size,orientation,origin)</source>
-        <translation type="unfinished"></translation>
+        <translation>الحجم المرجعي (التباعد، الحجم، الاتجاه، الأصل)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="15"/>
         <source>Transform Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>تحويل المعلمات</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="16"/>
         <source>Parameters used to transform the input image into the output image</source>
-        <translation type="unfinished"></translation>
+        <translation>المعلمات المستخدمة لتحويل صورة الإدخال إلى صورة الإخراج</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="17"/>
         <source>Transform Node</source>
-        <translation type="unfinished"></translation>
+        <translation>عقدة التحويل</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="18"/>
@@ -7012,7 +7025,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVolume/ResampleScalarVolume_tr.h" line="8"/>
@@ -7397,7 +7410,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="7"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="8"/>
@@ -7475,7 +7488,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
+        <translation>هذا العمل جزء من التحالف الوطني لحوسبة الصور الطبية (NAMIC)، بتمويل من المعاهد الوطنية للصحة من خلال خارطة طريق المعاهد الوطنية للصحة للبحوث الطبية، منحة U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="7"/>
@@ -7707,7 +7720,7 @@ a = Affine Transform</source>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
         <source>Add DICOM Data</source>
-        <translation type="unfinished">إضافة بيانات DICOM</translation>
+        <translation>إضافة بيانات DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="277"/>
@@ -8739,7 +8752,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="950"/>
         <source>Add Data</source>
-        <translation type="unfinished">إضافة بيانات</translation>
+        <translation>إضافة بيانات</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="953"/>
@@ -9702,7 +9715,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="283"/>
         <source>Size:</source>
-        <translation type="unfinished">الحجم:</translation>
+        <translation>الحجم:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="292"/>
@@ -10062,7 +10075,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="424"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="491"/>
         <source>Opacity:</source>
-        <translation type="unfinished">معدل الشفافية:</translation>
+        <translation>معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="63"/>
@@ -10306,7 +10319,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="148"/>
         <source>Opacity:</source>
-        <translation type="unfinished">معدل الشفافية:</translation>
+        <translation>معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="155"/>
@@ -10348,7 +10361,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="140"/>
         <source>Size:</source>
-        <translation type="unfinished">الحجم:</translation>
+        <translation>الحجم:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="153"/>
@@ -10410,7 +10423,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="72"/>
         <source>Size:</source>
-        <translation type="unfinished">الحجم:</translation>
+        <translation>الحجم:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="87"/>
@@ -10455,7 +10468,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="242"/>
         <source>Opacity:</source>
-        <translation type="unfinished">معدل الشفافية:</translation>
+        <translation>معدل الشفافية:</translation>
     </message>
 </context>
 <context>
@@ -10574,7 +10587,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="52"/>
         <source>Points</source>
-        <translation type="unfinished">نقاط</translation>
+        <translation>نقاط</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="57"/>
@@ -10723,7 +10736,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="374"/>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="536"/>
         <source>Opacity:</source>
-        <translation type="unfinished">معدل الشفافية:</translation>
+        <translation>معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="406"/>
@@ -10860,7 +10873,7 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="212"/>
         <source>Lines</source>
-        <translation type="unfinished">الأسطر</translation>
+        <translation>الأسطر</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLModelInfoWidget.ui" line="239"/>
@@ -13026,7 +13039,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="510"/>
         <source>Reformat</source>
-        <translation type="unfinished">استمارة</translation>
+        <translation>استمارة</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="518"/>
@@ -13405,7 +13418,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="495"/>
         <source>Reformat</source>
-        <translation type="unfinished">استمارة</translation>
+        <translation>إعادة تشكيل</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="510"/>
@@ -13557,7 +13570,7 @@ Do you wish to proceed with changing source representation?</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="69"/>
         <source>Reformat</source>
-        <translation type="unfinished">استمارة</translation>
+        <translation>إعادة تشكيل</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
@@ -15451,7 +15464,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerAnnotationModuleIOOptionsWidget.ui" line="50"/>
         <source>ROI</source>
-        <translation type="unfinished">طلب للحصول على معلومات</translation>
+        <translation>طلب للحصول على معلومات</translation>
     </message>
 </context>
 <context>
@@ -16602,7 +16615,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="49"/>
         <source>Opacity:</source>
-        <translation type="unfinished">معدل الشفافية:</translation>
+        <translation>معدل الشفافية:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
@@ -16627,7 +16640,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
         <source>Lines</source>
-        <translation type="unfinished">الأسطر</translation>
+        <translation>الأسطر</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="118"/>
@@ -17662,7 +17675,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExtensionsManagerWidget.ui" line="56"/>
         <source>Install Extensions</source>
-        <translation type="unfinished">تثبيت الملحقات</translation>
+        <translation>تثبيت الملحقات</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsManagerWidget.cxx" line="271"/>
@@ -18932,7 +18945,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.cxx" line="143"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsModule.h" line="56"/>
         <source>Markups</source>
-        <translation type="unfinished">علامات</translation>
+        <translation>علامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="28"/>
@@ -19671,7 +19684,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="92"/>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="93"/>
         <source>Markups</source>
-        <translation type="unfinished">علامات</translation>
+        <translation>علامات</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/qSlicerMarkupsReader.cxx" line="94"/>
@@ -20014,7 +20027,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
-        <translation type="unfinished">النوع:</translation>
+        <translation>النوع:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
@@ -20344,7 +20357,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModule.h" line="45"/>
         <source>Reformat</source>
-        <translation type="unfinished">استمارة</translation>
+        <translation>إعادة تشكيل</translation>
     </message>
 </context>
 <context>
@@ -20355,7 +20368,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Modules/Loadable/Reformat/qSlicerReformatModuleWidget.cxx" line="110"/>
         <source>Reformat</source>
         <oldsource>Form</oldsource>
-        <translation type="unfinished">استمارة</translation>
+        <translation>إعادة تشكيل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
@@ -21255,7 +21268,7 @@ Please choose an empty directory.</source>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="529"/>
         <source>Type:</source>
-        <translation type="unfinished">النوع:</translation>
+        <translation>النوع:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="536"/>
@@ -21646,7 +21659,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="107"/>
         <source>Sequence browser</source>
-        <translation type="unfinished">متصفح متسلسل</translation>
+        <translation>متصفح متسلسل</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="168"/>
@@ -25279,7 +25292,7 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="487"/>
         <source>ROI</source>
-        <translation type="unfinished">طلب للحصول على معلومات</translation>
+        <translation>طلب للحصول على معلومات</translation>
     </message>
 </context>
 <context>
@@ -25832,17 +25845,17 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="108"/>
         <source>No updates were found.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على تحديثات.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Raising %1 Module:</source>
-        <translation type="unfinished"></translation>
+        <translation>رفع الوحدة النمطية %1:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
         <source>Unfortunately, this requested module is not available in this Slicer session.</source>
-        <translation type="unfinished"></translation>
+        <translation>لسوء الحظ، هذه الوحدة المطلوبة غير متوفرة في جلسة Slicer هذه.</translation>
     </message>
     <message numerus="yes">
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="388"/>
@@ -25860,12 +25873,12 @@ This should only used by advanced users who understand the consequences of chang
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="390"/>
         <source>Use Extensions Manager to update these extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم مدير الإضافات لتحديث هذه الإضافات:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="424"/>
         <source>New application version is available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار التطبيق الجديد متوفر: %1</translation>
     </message>
 </context>
 </TS>
