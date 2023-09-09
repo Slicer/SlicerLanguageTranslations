@@ -8636,7 +8636,7 @@ Requires segment closed surface representation.
 إحصائيات خريطة الورقة (LM): عدد وحدات البكسل، مم3، حجم سم3.
 لا بد من تمثيل الخريطة المقطعية.
 إحصائيات العدد العددي (SV): عدد الفكسل، مم 3، الحجم سم 3 (حيث تتداخل مع الحجم العددي)،
-الحد، الحد الأقصى، الأفقي، ستديف (سترونج الشدة).
+ الحد الأقصى، الأفقي، ستديف (سترونج الشدة).
 لا بد من تحديد منطقة المشكلة لعدم العدد الكبير
 إحصائيات سطح المغلق (CS): السطح مم2، حجم مم3، سم3 (محسوب من سطح المغلق).
 يشترط تمثيل جزء المغلف من السطح.
@@ -8647,7 +8647,9 @@ Requires segment closed surface representation.
         <source>
 Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www.slicer.org for details.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+بدعم من NA-MIC، وNAC، وBIN، وNIGHT، ومجتمع Slicer. راجع https://www.slicer.org للحصول على التفاصيل.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatistics.py" line="79"/>
