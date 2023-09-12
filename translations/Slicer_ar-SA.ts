@@ -21138,11 +21138,11 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="737"/>
         <source>Export %n node(s)</source>
         <translation>
+            <numerusform>Export %n node</numerusform>
+            <numerusform>Export %n nodes</numerusform>
             <numerusform></numerusform>
-            <numerusform>تصدير% n عقدة</numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
-            <numerusform>تصدير% n عقد</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -30761,11 +30761,11 @@ This should only used by advanced users who understand the consequences of chang
         <source>%1 extension update is available</source>
         <comment>%1 extension updates are available</comment>
         <translation>
+            <numerusform>%1 extension update is available</numerusform>
+            <numerusform>%1 extension update is available</numerusform>
             <numerusform></numerusform>
-            <numerusform>تحديث التمديد%1 متاح</numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
-            <numerusform>تحديث التمديد%1 متاح</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
