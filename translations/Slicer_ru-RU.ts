@@ -20677,7 +20677,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="916"/>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1120"/>
         <source>Scene</source>
-        <translation type="unfinished">Scene</translation>
+        <translation>Сцена</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSaveDataDialog.cxx" line="1432"/>
