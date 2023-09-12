@@ -20103,7 +20103,7 @@ Table column names : label, r, a, s, (or l, p, s), defined, selected, visible, l
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="99"/>
         <source>Modules:</source>
-        <translation type="unfinished">Modules:</translation>
+        <translation>Модули:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleSelectorToolBar.cxx" line="109"/>
