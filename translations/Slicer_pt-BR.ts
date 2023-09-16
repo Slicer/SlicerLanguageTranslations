@@ -12614,7 +12614,7 @@ Pressione e segure o botão para acessar as opções avançadas de conversão e 
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="414"/>
         <source>Confirm source representation change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar a alteração da representação da fonte</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/qMRMLSegmentationRepresentationsListView.cxx" line="415"/>
