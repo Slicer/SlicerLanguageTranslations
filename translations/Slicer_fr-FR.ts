@@ -17634,7 +17634,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1599"/>
         <source>Retrieving %1 extension files (extensionId: %2)</source>
-        <translation>Récupération des fichiers d&apos;extension %1 (extensionId : %2)</translation>
+        <translation>Récupération des fichiers de l&apos;extension %1 (ID de l&apos;extension : %2)</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1630"/>
