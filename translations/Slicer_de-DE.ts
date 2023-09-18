@@ -61,17 +61,17 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="16"/>
         <source>Advanced</source>
-        <translation>fortgeschritten</translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="17"/>
         <source>Advanced parameters for fine-tune the computation.</source>
-        <translation>Fortgeschritten</translation>
+        <translation>Erweiterte Parameter für die Feinabstimmung der Berechnung.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordnung der polynomialen Interpolation, die verwendet wird, wenn zwei Bilder unterschiedliche Geometrien aufweisen (Ursprung, Abstand, Achsenrichtungen oder Ausmaße): 0 = nächster Nachbar, 1 = linear, 2 = quadratisch, 3 = kubische Interpolation.</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -84,7 +84,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation>Interpolationsbefehl</translation>
+        <translation>Interpolationsreihenfolge</translation>
     </message>
     <message>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
@@ -116,17 +116,17 @@
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="9"/>
         <source>NRRD File with bad gradients removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>NRRD-Datei mit entfernten schlechten Gradienten.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="10"/>
         <source>list of bad gradient volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste der schlechten Gradientenvolumen</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="11"/>
         <source>Required: input image is a 4D NRRD image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erforderlich: Eingabebild ist ein 4D NRRD-Bild.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSDWICleanup_tr.h" line="12"/>
