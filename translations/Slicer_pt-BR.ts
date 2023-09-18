@@ -26284,7 +26284,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html&quot;&gt;Interface do Usuário&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html#mouse-keyboard-shortcuts&quot;&gt;Botões do Mouse, &amp;quot;Teclas-Atalho&amp;quot; e Atalhos do Teclado &lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#tutorials&quot;&gt;Tutoriais de Navegação&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;Contact Us&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Contate-nos&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/&quot;&gt;Visite o Forum do Slicer &lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://twitter.com/3dslicerapp&quot;&gt;Junte-se a Nós no Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://discourse.slicer.org/c/support/feature-requests/9&quot;&gt;Busca Pedidos de Novos Recursos&lt;/a&gt;&lt;/li&gt;
