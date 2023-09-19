@@ -16246,7 +16246,7 @@ Graphics capabilities of this computer:
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="662"/>
         <source>%1 load failed.</source>
-        <translation>％1のロードに失敗しました。</translation>
+        <translation>%1 ％1のロードに失敗しました。</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerCoreIOManager.cxx" line="832"/>
