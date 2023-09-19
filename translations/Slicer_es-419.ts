@@ -7839,7 +7839,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="878"/>
         <source>Received DICOM file: {filename}</source>
-        <translation type="unfinished">Archivo DICOM recibido: {nombre de archivo}</translation>
+        <translation>Archivo DICOM recibido: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="941"/>
@@ -7909,12 +7909,12 @@ a = Transformada Afín</translation>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="186"/>
         <source>{modality} image sequence</source>
-        <translation type="unfinished">{modalidad} secuencia de imágenes</translation>
+        <translation>{modality} secuencia de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="167"/>
         <source>{modality} image sequence ({count} planes)</source>
-        <translation>{modalidad} secuencia de imágenes ({contar} planos)</translation>
+        <translation>{modality} secuencia de imágenes ({count} planos)</translation>
     </message>
 </context>
 <context>
@@ -8256,7 +8256,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation type="unfinished">{contar} archivos, agrupados por {etiqueta} = {valor}. Primer fichero: {nombre del archivo}</translation>
+        <translation>{count} archivos, agrupados por {tag} = {value}. Primer fichero: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="299"/>
@@ -9759,7 +9759,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="352"/>
         <source>Title properties</source>
-        <translation>Propiedades del volumen</translation>
+        <translation>Propiedades de título</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Widgets/Resources/UI/qMRMLColorLegendDisplayNodeWidget.ui" line="371"/>
