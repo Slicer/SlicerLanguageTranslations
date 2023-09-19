@@ -17443,7 +17443,7 @@ If unchecked, the exported dataset will be added to the DICOM database.</source>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="716"/>
         <source>Failed to open extensions settings file %1</source>
-        <translation>확장설정파일% 1을열기 실패</translation>
+        <translation>확장설정파일% 1을열기 실패 %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="754"/>
