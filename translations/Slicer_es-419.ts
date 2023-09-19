@@ -8256,7 +8256,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation>{count} archivos, agrupados por {tag} = {value}. Primer fichero: {filename}</translation>
+        <translation>{count} archivos, agrupados por {tag} = {value}. Primer archivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="299"/>
@@ -12606,6 +12606,7 @@ Do you wish to proceed with changing source representation?</source>
 Esto puede significar la pérdida de datos importantes que no pueden crearse de nuevo a partir de la nueva representación fuente.
 
 (Recordatorio: La representación de origen es el tipo de datos que se guarda en el disco, y que se utiliza como entrada al crear otras representaciones)
+
 ¿Desea proceder a cambiar la representación de la fuente?</translation>
     </message>
     <message>
@@ -13061,7 +13062,7 @@ Do you wish to proceed with changing master representation?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="457"/>
         <source>Toggle slice visibility in the 3D view.</source>
-        <translation>Cambiar visibilidad de tajada en  vista 3D</translation>
+        <translation>Cambiar visibilidad de corte en vista 3D.</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="488"/>
@@ -22672,7 +22673,7 @@ Por defecto: {documentationbaseurl}/guía_usuario/módulos/{lowercasemodulename}
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="127"/>
         <source>To temporarily disable, pass --disable-builtin-loadable-modules on the command line</source>
-        <translation>Para desactivar temporalmente, seleccione  --desactivar-módulos-cargables-integrados en la línea de comando</translation>
+        <translation>Para desactivar temporalmente, seleccione --desactivar-módulos-cargables-integrados en la línea de comando</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="137"/>
@@ -25235,7 +25236,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="67"/>
         <source>Jump slices - offset</source>
-        <translation type="unfinished">Cortes de salto -  desplazamiento</translation>
+        <translation>Cortes de salto - desplazamiento</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerViewersToolBar.cxx" line="68"/>
