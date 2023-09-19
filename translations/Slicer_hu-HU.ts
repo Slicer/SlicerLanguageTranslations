@@ -2068,12 +2068,12 @@ Allows casting to the same type as the input volume.</source>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="4"/>
         <source>Create a DICOM Series</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM kép készítése</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="5"/>
         <source>Create a DICOM Series from a Slicer volume. User can specify values for selected DICOM tags in the UI. Given the number of tags DICOM series have, it is impossible to expose all tags in UI. So only important tags can be set by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>DICOM fájl létrehozása egy kép fájlból. A felhasználó megadhatja bizonyos DICOM mezők értékeit. Tekintettel a DICOM mezők számára, lehetetlen mindegyiket szerkeszthetővé tenni, ezért csak a legfontosabbak módosíthatóak.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
@@ -26267,6 +26267,7 @@ This should only used by advanced users who understand the consequences of chang
         <comment>%1 extension updates are available</comment>
         <translation>
             <numerusform>Frissítés elérhető %1 bővítményhez</numerusform>
+            <numerusform>Frissítések elérhetőek %1 bővítményhez</numerusform>
         </translation>
     </message>
     <message>
