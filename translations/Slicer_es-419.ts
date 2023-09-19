@@ -8251,7 +8251,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="187"/>
         <source>{count} files, first file: {filename}</source>
-        <translation type="unfinished">{count} archivos, primer archivo: {nombre del archivo}</translation>
+        <translation>{count} archivos, primer archivo: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
