@@ -8256,7 +8256,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="261"/>
         <source>{count} files, grouped by {tag} = {value}. First file: {filename}</source>
-        <translation>{count} archivos, agrupados por {tag} = {value}. Primer archivo: {filename}</translation>
+        <translation>{count} files, grouped by {tag} = {value}. First file: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="299"/>
