@@ -7576,7 +7576,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation>Establece los vóxeles en este valor si quedan fuera del rango del umbral</translation>
+        <translation>Establece los vóxeles en este valor si quedan fuera del límite de referencia</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
