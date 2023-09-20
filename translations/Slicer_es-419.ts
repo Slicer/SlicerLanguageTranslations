@@ -5240,7 +5240,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation type="unfinished">Realiza la corrección del sesgo de la imagen utilizando el algoritmo N4. Este módulo se basa en los filtros ITK aportados en la siguiente publicación:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 Enero-Junio, https://hdl.handle.net/10380/3053</translation>
+        <translation>Realiza la corrección del sesgo de la imagen utilizando el algoritmo N4. Este módulo se basa en los filtros ITK aportados en la siguiente publicación:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 Enero-Junio, https://hdl.handle.net/10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
