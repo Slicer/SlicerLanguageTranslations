@@ -4071,7 +4071,7 @@ This filter uses the itkGrayscaleGeodesicErodeImageFilter.  It provides its own 
  Geodesic morphology and the Fillhole algorithm is described in Chapter 6 of Pierre Soille&apos;s book &quot;Morphological Image Analysis: Principles and Applications&quot;, Second Edition, Springer, 2003.
 
  A companion filter, Grayscale Grind Peak, removes peaks in grayscale images.</oldsource>
-        <translation type="unfinished">FiltroDeImagenDeRellenoDeEscalaDeGrises  rellena agujeros en una imagen en escala de grises.  Los agujeros son mínimos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un agujero se extrapolan a través del agujero.
+        <translation>El filtro de imagen de relleno de escala de grises  rellena agujeros en una imagen en escala de grises.  Los agujeros son mínimos locales en la topografía de la escala de grises que no están conectados a los límites de la imagen. Los valores de nivel de gris adyacentes a un agujero se extrapolan a través del agujero.
 
 Este filtro se utiliza para suavizar los mínimos locales sin afectar a los valores de los máximos locales.  Si toma la diferencia entre la salida de este filtro y la imagen original (y tal vez umbralice la diferencia por encima de un valor pequeño), obtendrá un mapa de los mínimos locales.
 
