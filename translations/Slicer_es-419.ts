@@ -1604,7 +1604,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="56"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation>Especifica explícitamente el número máximo de cadenas a utilizar.</translation>
+        <translation>Especifica explícitamente el número máximo de hilos a utilizar.</translation>
     </message>
 </context>
 <context>
@@ -6882,7 +6882,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="70"/>
         <source>Number of thread used to compute the output image</source>
-        <translation>Número de hilos utilizadas para calcular la imagen de salida</translation>
+        <translation>Número de hilos utilizados para calcular la imagen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="71"/>
