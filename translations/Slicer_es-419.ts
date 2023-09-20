@@ -8131,7 +8131,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="94"/>
         <source>Generate missing patient/study/series IDs</source>
-        <translation type="unfinished">Generar ID de pacientes/estudios/series que faltan</translation>
+        <translation>Generar ID de pacientes/estudios/series que faltan</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="99"/>
@@ -8141,22 +8141,22 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation type="unfinished">Generar posición de corte para volúmenes multitrama</translation>
+        <translation>Generar posición de corte para volúmenes multifotograma</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="127"/>
         <source>If checked, then some patient identifiable information will be removed from the patched DICOM files. There are many fields that can identify a patient, this function does not remove all of them.</source>
-        <translation type="unfinished">Si está marcada, se eliminará de los archivos DICOM parcheados cierta información identificable del paciente. Hay muchos campos que pueden identificar a un paciente, esta función no los elimina todos.</translation>
+        <translation>Si se marcó, entonces cierta información identificable del paciente será eliminada de los archivos parchados DICOM. Hay muchos campos que pueden identificar a un paciente, esta función no los elimina todos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="128"/>
         <source>Partially anonymize</source>
-        <translation type="unfinished">Anonimizar parcialmente</translation>
+        <translation>Anonimizar parcialmente</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="135"/>
         <source>Fix DICOM files in input directory and write them to output directory</source>
-        <translation type="unfinished">Arreglar los archivos DICOM en el directorio de entrada y escribirlos en el directorio de salida</translation>
+        <translation>Arreglar los archivos DICOM en el directorio de entrada y escribirlos en el directorio de salida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="142"/>
@@ -8166,7 +8166,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="162"/>
         <source>Unexpected error.</source>
-        <translation type="unfinished">Error inesperado.</translation>
+        <translation>Error inesperado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="259"/>
@@ -8177,7 +8177,7 @@ a = Transformada Afín</translation>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="325"/>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="537"/>
         <source>Unspecified Patient</source>
-        <translation type="unfinished">Paciente no especificado</translation>
+        <translation>Paciente no especificado</translation>
     </message>
 </context>
 <context>
@@ -8185,7 +8185,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="32"/>
         <source>Scalar Volume</source>
-        <translation type="unfinished">Volumen escalar</translation>
+        <translation>Volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
@@ -8195,7 +8195,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="80"/>
         <source>DICOM reader approach:</source>
-        <translation type="unfinished">Enfoque lector DICOM:</translation>
+        <translation>Enfoque lector DICOM:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
@@ -8301,7 +8301,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="684"/>
         <source>Creating DICOM files from scalar volume failed. See the application log for details.</source>
-        <translation type="unfinished">Error al crear archivos DICOM desde un volumen escalar. Consulte el registro de la aplicación para obtener más información.</translation>
+        <translation>Error al crear archivos DICOM desde un volumen escalar. Consulte el registro de la aplicación para obtener más información.</translation>
     </message>
 </context>
 <context>
@@ -8337,12 +8337,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="26"/>
         <source>Volume Sequence</source>
-        <translation type="unfinished">Secuencia de volumen</translation>
+        <translation>Secuencia de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="96"/>
         <source>Creates a series of DICOM files from volume sequences</source>
-        <translation type="unfinished">Crea una serie de archivos DICOM a partir de secuencias de volúmenes</translation>
+        <translation>Crea una serie de archivos DICOM a partir de secuencias de volúmenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
@@ -8357,17 +8357,17 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="103"/>
         <source>Unknown manufacturer</source>
-        <translation type="unfinished">Fabricante desconocido</translation>
+        <translation>Fabricante desconocido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="104"/>
         <source>Unknown model</source>
-        <translation type="unfinished">Modelo desconocido</translation>
+        <translation>Modelo desconocido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="157"/>
         <source>Invalid subject hierarchy</source>
-        <translation type="unfinished">Jerarquía de materias no válida</translation>
+        <translation>Jerarquía de materias no válida</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="161"/>
@@ -11072,7 +11072,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="14"/>
         <source>Plot Chart Properties</source>
-        <translation type="unfinished">Propiedades del Gráfico</translation>
+        <translation type="unfinished">Propiedades del gráfico</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
