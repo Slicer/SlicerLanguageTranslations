@@ -7561,22 +7561,22 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
         <source>Threshold value</source>
-        <translation type="unfinished">Valor del umbral</translation>
+        <translation>Valor del umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="22"/>
         <source>Lower threshold value</source>
-        <translation type="unfinished">Valor del umbral inferior</translation>
+        <translation>Valor del umbral inferior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="23"/>
         <source>Upper threshold value</source>
-        <translation type="unfinished">Valor del umbral superior</translation>
+        <translation>Valor del umbral superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="24"/>
         <source>Set the voxels to this value if they fall outside the threshold range</source>
-        <translation type="unfinished">Establece los vóxeles en este valor si quedan fuera del rango del umbral</translation>
+        <translation>Establece los vóxeles en este valor si quedan fuera del rango del umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="25"/>
