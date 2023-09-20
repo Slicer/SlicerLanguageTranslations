@@ -7516,42 +7516,42 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="12"/>
         <source>Thresholded input volume</source>
-        <translation type="unfinished">Umbral de volumen de entrada</translation>
+        <translation>Umbral de volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="13"/>
         <source>Filter Settings</source>
-        <translation type="unfinished">Ajustes de filtro</translation>
+        <translation>Ajustes de filtro</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="14"/>
         <source>Threshold Type</source>
-        <translation type="unfinished">Tipo de umbral</translation>
+        <translation>Tipo de umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="15"/>
         <source>Threshold Value</source>
-        <translation type="unfinished">Valor de umbral</translation>
+        <translation>Valor de umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="16"/>
         <source>Lower</source>
-        <translation type="unfinished">Más bajo</translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="17"/>
         <source>Upper</source>
-        <translation type="unfinished">Superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="18"/>
         <source>Outside Value</source>
-        <translation type="unfinished">Valor exterior</translation>
+        <translation>Valor externo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="19"/>
         <source>Negate Threshold</source>
-        <translation type="unfinished">Negar el umbral</translation>
+        <translation>Negar el umbral</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
