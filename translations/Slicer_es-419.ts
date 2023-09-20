@@ -7768,7 +7768,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation>Registra más detalles durante las operaciones DICOM. Útil para investigar problemas de carga DICOM, pero puede afectar al rendimiento.</translation>
+        <translation>Registre más detalles durante las operaciones DICOM. Útil para investigar problemas de carga DICOM, pero puede afectar al rendimiento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
@@ -7890,7 +7890,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMGeAbusPlugin.py" line="117"/>
         <source>Loading of this image type is experimental. Please verify image size and orientation and report any problem is found.</source>
-        <translation type="unfinished">La carga de este tipo de imagen es experimental. Por favor, compruebe el tamaño de la imagen y la orientación e informar de cualquier problema se encuentra.</translation>
+        <translation>La carga de este tipo de imagen es experimental. Por favor, compruebe el tamaño de la imagen y la orientación e informar de cualquier problema se encuentra.</translation>
     </message>
 </context>
 <context>
@@ -7898,7 +7898,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="35"/>
         <source>Image sequence</source>
-        <translation type="unfinished">Secuencia de imágenes</translation>
+        <translation>Secuencia de imágenes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMImageSequencePlugin.py" line="153"/>
@@ -8066,67 +8066,67 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="25"/>
         <source>DICOM Patcher</source>
-        <translation type="unfinished">Parcheador DICOM</translation>
+        <translation>Parcheador DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="29"/>
         <source>Fix common issues in DICOM files. This module may help fixing DICOM files that Slicer fails to import.</source>
-        <translation type="unfinished">Solucionar problemas comunes en archivos DICOM. Este módulo puede ayudar a arreglar los archivos DICOM que Slicer no puede importar.</translation>
+        <translation>Solucionar problemas comunes en archivos DICOM. Este módulo puede ayudar a arreglar los archivos DICOM que Slicer no puede importar.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="38"/>
         <source>This file was originally developed by Andras Lasso, PerkLab.</source>
-        <translation type="unfinished">Este archivo fue desarrollado originariamente por Andras Lasso, PerkLab.</translation>
+        <translation>Este archivo fue desarrollado originariamente por Andras Lasso, PerkLab.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="52"/>
         <source>Parameters</source>
-        <translation type="unfinished">Parámetros</translation>
+        <translation>Parámetros</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="60"/>
         <source>Input DICOM directory:</source>
-        <translation type="unfinished">Directorio DICOM de entrada:</translation>
+        <translation>Directorio DICOM de entrada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="65"/>
         <source>Output DICOM directory:</source>
-        <translation type="unfinished">Directorio DICOM de salida:</translation>
+        <translation>Directorio DICOM de salida:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="70"/>
         <source>Replace file and folder names with automatically generated names. Fixes errors caused by file path containins special characters or being too long.</source>
-        <translation type="unfinished">Sustituye los nombres de archivos y carpetas por nombres generados automáticamente. Corrige los errores causados por la ruta de archivo containins caracteres especiales o ser demasiado largo.</translation>
+        <translation>Sustituya los nombres de archivos y carpetas por nombres generados automáticamente. Corrija los errores causados por la ruta de archivo que contienen caracteres especiales o son demasiado largos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="71"/>
         <source>Normalize file names</source>
-        <translation type="unfinished">Normalizar nombres de archivo</translation>
+        <translation>Normalizar nombres de archivo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="78"/>
         <source>Generate patient name and ID from the first file in a directory and force all other files in the same directory to have the same patient name and ID. Enable this option if a separate patient directory is created for each patched file.</source>
-        <translation type="unfinished">Generar nombre e ID de paciente a partir del primer archivo de un directorio y forzar a que todos los demás archivos del mismo directorio tengan el mismo nombre e ID de paciente. Active esta opción si se crea un directorio de pacientes independiente para cada archivo parcheado.</translation>
+        <translation>Generar nombre e ID de paciente a partir del primer archivo de un directorio y forzar a que todos los demás archivos del mismo directorio tengan el mismo nombre e ID de paciente. Active esta opción si se crea un directorio de pacientes independiente para cada archivo parcheado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="79"/>
         <source>Force same patient name and ID in each directory</source>
-        <translation type="unfinished">Forzar el mismo nombre e ID de paciente en cada directorio</translation>
+        <translation>Forzar el mismo nombre e ID de paciente en cada directorio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="86"/>
         <source>Generate a new series instance UID for each directory and set it in all files in that same directory. Enable this option to force placing all frames in a folder into a single volume.</source>
-        <translation type="unfinished">Generar un nuevo UID de instancia de serie para cada directorio y establecerlo en todos los archivos de ese mismo directorio. Active esta opción para forzar la colocación de todos los fotogramas de una carpeta en un único volumen.</translation>
+        <translation>Generar un nuevo UID de instancia de serie para cada directorio y establecerlo en todos los archivos de ese mismo directorio. Active esta opción para forzar la colocación de todos los fotogramas de una carpeta en un único volumen.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="87"/>
         <source>Force same series instance UID in each directory</source>
-        <translation type="unfinished">Forzar el mismo UID de instancia de serie en cada directorio</translation>
+        <translation>Forzar el mismo UID de instancia de serie en cada directorio</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation type="unfinished">Generar IDs de pacientes, estudios y series que faltan. Se asume que todos los archivos de un directorio pertenecen a la misma serie. Corrige errores causados por una anonimización demasiado agresiva o convertidores de imágenes DICOM incorrectos.</translation>
+        <translation>Generar IDs de pacientes, estudios y series que faltan. Se asume que todos los archivos de un directorio pertenecen a la misma serie. Corrija errores causados por una anonimización demasiado agresiva o convertidores de imágenes DICOM incorrectos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="94"/>
@@ -8374,22 +8374,22 @@ a = Transformada Afín</translation>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="167"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="173"/>
         <source>Series &apos;{itemName}&apos; cannot be exported as volume sequence</source>
-        <translation type="unfinished">La serie &apos;{itemName}&apos; no puede exportarse como secuencia de volumen</translation>
+        <translation>La serie &apos;{itemName}&apos; no puede exportarse como secuencia de volumen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="180"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="185"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">No se puede obtener el paciente para la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se puede obtener el paciente para la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="214"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
+        <translation>Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
     </message>
 </context>
 <context>
@@ -9212,7 +9212,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="47"/>
         <source>inputVolume</source>
-        <translation type="unfinished">VolumenDeEntrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="54"/>
@@ -9227,7 +9227,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="76"/>
         <source>imageThreshold</source>
-        <translation type="unfinished">UmbralDeImagen</translation>
+        <translation>Umbral de imagen</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="86"/>
@@ -9247,7 +9247,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="119"/>
         <source>thresholdedVolume</source>
-        <translation type="unfinished">VolumenUmbralizado</translation>
+        <translation>Volumen umbralizado</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="126"/>
@@ -9262,7 +9262,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="153"/>
         <source>invertedVolume</source>
-        <translation type="unfinished">VolumenInvertido</translation>
+        <translation>Volumen invertido</translation>
     </message>
     <message>
         <location filename="Utilities/Templates/Modules/Scripted/Resources/UI/TemplateKey.ui" line="163"/>
@@ -9782,12 +9782,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="69"/>
         <source>Color</source>
-        <translation type="unfinished">Color</translation>
+        <translation>Color</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="73"/>
         <source>Label</source>
-        <translation type="unfinished">Etiqueta</translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLColorModel.cxx" line="77"/>
@@ -10279,7 +10279,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="20"/>
         <source>qMRMLMarkupsFiducialProjectionPropertyWidget</source>
-        <translation type="unfinished">qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
+        <translation>qMRMLMarkupsFiducialProjectionPropertyWidget</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
@@ -10571,12 +10571,12 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="97"/>
         <source>Select active markup</source>
-        <translation type="unfinished">Seleccionar marca activa</translation>
+        <translation>Seleccionar marca activa</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/qMRMLMarkupsToolBar.cxx" line="498"/>
         <source>Create new %1</source>
-        <translation type="unfinished">Crear nuevo %1</translation>
+        <translation>Crear nuevo %1</translation>
     </message>
 </context>
 <context>
@@ -10914,7 +10914,7 @@ Con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer. Consulte https:/
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="26"/>
         <source>qMRMLNodeAttributeTableView</source>
-        <translation type="unfinished">qMRMLNodeAttributeTableView</translation>
+        <translation>qMRMLNodeAttributeTableView</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLNodeAttributeTableView.ui" line="53"/>
@@ -23023,7 +23023,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;CPersonalice la fuente y el tamaño de la aplicación según sus preferencias.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;Personalice la fuente y el tamaño de la aplicación según sus preferencias.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
