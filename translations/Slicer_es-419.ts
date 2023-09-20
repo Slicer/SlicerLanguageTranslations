@@ -1303,7 +1303,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="30"/>
         <source>This flag is only relevant when using ROIAUTO mode for initializing masks.  It defines the final dilation size to capture a bit of background outside the tissue region.  At setting of 10mm has been shown to help regularize a BSpline registration type so that there is some background constraints to match the edges of the head better.</source>
-        <translation>Esta bandera sólo es relevante cuando se utiliza el modo ROIAUTO para inicializar las máscaras.  Define el tamaño de dilatación final para capturar un poco de fondo fuera de la región de tejido.  Se ha demostrado que un ajuste de 10mm ayuda a regularizar un tipo de registro BSpline para que haya algunas restricciones de fondo con el propósito de que coincida mejor con los bordes de la cabeza.</translation>
+        <translation>Esta bandera sólo es relevante cuando se utiliza el modo AUTOROI para inicializar las máscaras.  Define el tamaño de dilatación final para capturar un poco de fondo fuera de la región de tejido.  Se ha demostrado que un ajuste de 10mm ayuda a regularizar un tipo de registro BSpline para que haya algunas restricciones de fondo con el propósito de que coincida mejor con los bordes de la cabeza.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="31"/>
@@ -2081,7 +2081,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation>Este módulo de comandos procede de Introspección/Ejemplos (derechos de autor) Consorcio de programas informáticos de Introspección (en inglés Insight Software Consortium)</translation>
+        <translation>Este módulo de comandos procede de Insight/Examples (derechos de autor) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CreateDICOMSeries/CreateDICOMSeries_tr.h" line="7"/>
