@@ -5748,7 +5748,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo está financiado por el Harvard Catalyst, y la National Alliance for Medical Image Computing (NAMIC), financiado por los National Institutes of Health a través de la Hoja de Ruta NIH para la Investigación Médica, Subvención U54 EB005149.</translation>
+        <translation>Este trabajo está financiado por el Harvard Catalyst, y la National Alliance for Medical Image Computing (NAMIC), financiado por los National Institutes of Health a través de la Hoja de Ruta NIH para la Investigación Médica, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
@@ -6578,7 +6578,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Este trabajo forma parte de la National Alliance for Medical Image Computing  (NAMIC, por sus siglas en inglés), financiada por los National Institutes of Health a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los National Centers for Biomedical Computing en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation>Este trabajo forma parte de la National Alliance for Medical Image Computing (NAMIC), financiada por National Institutes of Health a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los National Centers for Biomedical Computing en http://nihroadmap.nih.gov/bioinformatics.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -7270,7 +7270,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="7"/>
         <source>This command module was derived from Insight/Examples (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos procede de Insight/Ejemplos(copyright) Insight Software Consortium</translation>
+        <translation>Este módulo de comandos procede de Insight/Examples(derechos de autor) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SimpleRegionGrowingSegmentation/SimpleRegionGrowingSegmentation_tr.h" line="8"/>
@@ -7496,17 +7496,17 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="8"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="9"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="10"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="11"/>
