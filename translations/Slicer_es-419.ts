@@ -7610,7 +7610,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="5"/>
         <source>Applies a voting operation in order to fill-in cavities. This can be used for smoothing contours and for filling holes in binary images. This technique is used frequently when segmenting complete organs that may have ducts or vasculature that may not have been included in the initial segmentation, e.g. lungs, kidneys, liver.</source>
-        <translation type="unfinished">Aplica una operación de votación para rellenar cavidades. Puede utilizarse para suavizar contornos y rellenar huecos en imágenes binarias. Esta técnica se utiliza con frecuencia al segmentar órganos completos que pueden tener conductos o vasculatura que no se hayan incluido en la segmentación inicial, por ejemplo, pulmones, riñones, hígado.</translation>
+        <translation>Aplica una operación de votación para rellenar cavidades. Puede utilizarse para suavizar contornos y rellenar huecos en imágenes binarias. Esta técnica se utiliza con frecuencia al segmentar órganos completos que pueden tener conductos o vasculatura que no se hayan incluido en la segmentación inicial, por ejemplo, pulmones, riñones, hígado.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
@@ -7763,7 +7763,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="372"/>
         <source>Load referenced series:</source>
-        <translation>Carga serie referenciada:</translation>
+        <translation>Cargar serie referenciada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
