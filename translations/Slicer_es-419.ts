@@ -5748,7 +5748,7 @@ El filtro asume que tanto la fuente como la referencia son del mismo tipo y que 
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="6"/>
         <source>This work is funded by the Harvard Catalyst, and the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished">Este trabajo está financiado por el Harvard Catalyst, y la Alianza Nacional para la Informática de Imágenes Médicas (NAMIC), financiado por los Institutos Nacionales de Salud a través de la Hoja de Ruta NIH para la Investigación Médica, Subvención U54 EB005149.</translation>
+        <translation type="unfinished">Este trabajo está financiado por el Harvard Catalyst, y la National Alliance for Medical Image Computing (NAMIC), financiado por los National Institutes of Health a través de la Hoja de Ruta NIH para la Investigación Médica, Subvención U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/PETStandardUptakeValueComputation/PETStandardUptakeValueComputation_tr.h" line="7"/>
@@ -6578,7 +6578,7 @@ Advertencia: No utilizar para remuestrear imágenes de tensor de difusión, los 
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="6"/>
         <source>This work is part of the National Alliance for Medical Image Computing (NAMIC), funded by the National Institutes of Health through the NIH Roadmap for Medical Research, Grant U54 EB005149. Information on the National Centers for Biomedical Computing can be obtained from http://nihroadmap.nih.gov/bioinformatics</source>
-        <translation type="unfinished">Este trabajo forma parte de la Alianza Nacional para la Computación de Imágenes Médicas (NAMIC, por sus siglas en inglés), financiada por los Institutos Nacionales de Salud a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los Centros Nacionales de Informática Biomédica en http://nihroadmap.nih.gov/bioinformatics.</translation>
+        <translation type="unfinished">Este trabajo forma parte de la National Alliance for Medical Image Computing  (NAMIC, por sus siglas en inglés), financiada por los National Institutes of Health a través de la Hoja de Ruta de los NIH para la Investigación Médica, Subvención U54 EB005149. Puede obtenerse información sobre los National Centers for Biomedical Computing en http://nihroadmap.nih.gov/bioinformatics.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleScalarVectorDWIVolume/ResampleScalarVectorDWIVolume_tr.h" line="7"/>
@@ -7438,37 +7438,37 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="13"/>
         <source>Input volume 1</source>
-        <translation type="unfinished">Volumen de entrada 1</translation>
+        <translation>Volumen de entrada 1</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="14"/>
         <source>Input volume 2</source>
-        <translation type="unfinished">Volumen de entrada 2</translation>
+        <translation>Volumen de entrada 2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="15"/>
         <source>Volume1 - Volume2</source>
-        <translation type="unfinished">Volumen1 - Volumen2</translation>
+        <translation>Volumen1 - Volumen2</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="16"/>
         <source>Controls</source>
-        <translation type="unfinished">Controles</translation>
+        <translation>Controles</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="17"/>
         <source>Control how the module operates</source>
-        <translation type="unfinished">Controla el funcionamiento del módulo</translation>
+        <translation>Controla el funcionamiento del módulo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="18"/>
         <source>Interpolation order</source>
-        <translation type="unfinished">Orden de interpolación</translation>
+        <translation>Orden de interpolación</translation>
     </message>
     <message>
         <location filename="Modules/CLI/SubtractScalarVolumes/SubtractScalarVolumes_tr.h" line="19"/>
         <source>Interpolation order if two images are in different coordinate frames or have different sampling.</source>
-        <translation type="unfinished">Orden de interpolación si dos imágenes están en diferentes marcos de coordenadas o tienen diferente muestreo.</translation>
+        <translation>Orden de interpolación si dos imágenes están en diferentes marcos de coordenadas o tienen diferente muestreo.</translation>
     </message>
 </context>
 <context>
@@ -7476,7 +7476,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="4"/>
         <source>Threshold Scalar Volume</source>
-        <translation type="unfinished">Umbral de volumen escalar</translation>
+        <translation>Umbral de volumen escalar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="5"/>
