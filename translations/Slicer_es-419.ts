@@ -7768,17 +7768,17 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Log more details during DICOM operations. Useful for investigating DICOM loading issues but may impact performance.</source>
-        <translation type="unfinished">Registra más detalles durante las operaciones DICOM. Útil para investigar problemas de carga DICOM, pero puede afectar al rendimiento.</translation>
+        <translation>Registra más detalles durante las operaciones DICOM. Útil para investigar problemas de carga DICOM, pero puede afectar al rendimiento.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
         <source>Detailed logging:</source>
-        <translation type="unfinished">Registro detallado:</translation>
+        <translation>Registro detallado:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="419"/>
         <source>DICOM Directory</source>
-        <translation type="unfinished">Directorio DICOM</translation>
+        <translation>Directorio DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="420"/>
@@ -7793,12 +7793,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="525"/>
         <source>Import of files that have special (non-ASCII) characters in their names is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished">No es posible importar archivos cuyos nombres contengan caracteres especiales (no ASCII). Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Intentar importar desde la ubicación actual de todos modos?</translation>
+        <translation>No es posible importar archivos cuyos nombres contengan caracteres especiales (no ASCII). Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Quiere intentar importar desde la ubicación actual de todos modos?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="577"/>
         <source>Import from folders with special (non-ASCII) characters in the name is not supported. It is recommended to move files into a different folder and retry. Try to import from current location anyway?</source>
-        <translation type="unfinished">No se admite la importación desde carpetas con caracteres especiales (no ASCII) en el nombre. Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Intenta importar desde la ubicación actual?</translation>
+        <translation>No se admite la importación desde carpetas con caracteres especiales (no ASCII) en el nombre. Se recomienda mover los archivos a otra carpeta y volver a intentarlo. ¿Quiere intentar importar desde la ubicación actual?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="637"/>
@@ -7818,23 +7818,23 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="850"/>
         <source>not started</source>
-        <translation type="unfinished">no iniciado</translation>
+        <translation>no iniciado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="857"/>
         <source>starting</source>
-        <translation type="unfinished">Inicio</translation>
+        <translation>iniciando</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>unknown</source>
         <extracomment>used when port number is not defined</extracomment>
-        <translation type="unfinished">desconocido</translation>
+        <translation>desconocido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="862"/>
         <source>running at port %s</source>
-        <translation type="unfinished">ejecutándose en el puerto %s</translation>
+        <translation>ejecutándose en el puerto %s</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="878"/>
@@ -7862,17 +7862,17 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="25"/>
         <source>Enhanced US volume</source>
-        <translation type="unfinished">Mayor volumen en EE.UU.</translation>
+        <translation>Mayor volumen en EE.UU.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="92"/>
         <source>Loading of this image type is experimental. Please verify image geometry and report any problem is found.</source>
-        <translation type="unfinished">La carga de este tipo de imagen es experimental. Por favor, verifique la geometría de la imagen e informar de cualquier problema se encuentra.</translation>
+        <translation>La carga de este tipo de imagen es experimental. Por favor, verifique la geometría de la imagen e informar de cualquier problema encontrado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMEnhancedUSVolumePlugin.py" line="93"/>
         <source>Ultrasound volume</source>
-        <translation type="unfinished">Volumen de ultrasonidos</translation>
+        <translation>Volumen de ultrasonidos</translation>
     </message>
 </context>
 <context>
