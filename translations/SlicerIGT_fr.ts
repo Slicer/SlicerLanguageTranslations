@@ -1168,7 +1168,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="20"/>
         <source>Form</source>
-        <translation>Forme</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="48"/>
@@ -1178,7 +1178,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="51"/>
         <source>vtkMRMLTransformableNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformableNode</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="68"/>
@@ -1193,7 +1193,7 @@
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="84"/>
         <source>Harden transform to selected nodes.</source>
-        <translation>Durcir la transformation en nœuds sélectionnés.</translation>
+        <translation>Renforcez la transformation sur les nœuds sélectionnés.</translation>
     </message>
     <message>
         <location filename="FiducialRegistrationWizard/Widgets/Resources/UI/qSlicerTransformPreviewWidget.ui" line="87"/>
@@ -1259,7 +1259,7 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="97"/>
         <source>The node in which to store the result.</source>
-        <translation>Le noeud dans lequel stocker le résultat.</translation>
+        <translation>Le nœud dans lequel stocker le résultat.</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="115"/>
@@ -1315,7 +1315,7 @@
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="255"/>
         <source>Smoother</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus lisse</translation>
     </message>
     <message>
         <location filename="TransformProcessor/Resources/UI/qSlicerTransformProcessorModule.ui" line="262"/>
@@ -1624,171 +1624,171 @@
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="253"/>
         <source>Optimization mode (turn off optimization only if it is not stable on your architecture)</source>
-        <translation>Mode d&apos;optimisation (désactiver l&apos;optimisation seulement si elle n&apos;est pas stable sur votre architecture)</translation>
+        <translation>Mode d&apos;optimisation (désactivez l&apos;optimisation uniquement si elle n&apos;est pas stable sur votre architecture)</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="260"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="270"/>
         <source>Method for compounding overlapping input pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Méthode de composition de pixels d&apos;entrée qui se chevauchent</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="263"/>
         <source>Compounding mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de composition&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="277"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="287"/>
         <source>Indicates if hole filling should be applied on reconstructed volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Indique si le remplissage des trous doit être appliqué sur le volume reconstruit</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="280"/>
         <source>Fill holes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissez les trous&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="297"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="307"/>
         <source>Number of threads used for processing the data (Choose 0 for maximum speed). The reconstruction result is slightly different if more than one thread is used because due to interpolation and rounding errors is influenced by the order the pixels are processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de threads utilisés pour traiter les données (choisissez 0 pour la vitesse maximale). Le résultat de la reconstruction est légèrement différent si plusieurs threads sont utilisés car, en raison des erreurs d&apos;interpolation et d&apos;arrondi, il est influencé par l&apos;ordre dans lequel les pixels sont traités.</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="300"/>
         <source>Number of threads:</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nombre de fils :</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="317"/>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="327"/>
         <source>Only every N images from the input will be used in the reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Seules toutes les N images de l&apos;entrée seront utilisées dans la reconstruction</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="320"/>
         <source>Skip interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalle de saut&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="334"/>
         <source>Live update interval:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalle de mise à jour en direct&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="344"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="354"/>
         <source>Input volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de volume d&apos;entrée&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="361"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLVolumeNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="379"/>
         <source>vtkMRMLSequenceBrowserNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLSequenceBrowserNode</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="394"/>
         <source>Input method:</source>
-        <translation type="unfinished"></translation>
+        <translation>Procédé d&apos;entrée :</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="403"/>
         <source>Recorded sequence reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruction de séquence enregistrée</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="413"/>
         <source>Live volume reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruction du volume en direct</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="451"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Coupure</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="460"/>
         <source> Crop rectangle origin (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Origine du rectangle de recadrage (en pixels).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="463"/>
         <source>Clip rectangle origin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Origine du rectangle de découpage&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="475"/>
         <source> Crop rectangle origin X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Recadrer le composant X d&apos;origine du rectangle (en pixels).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="491"/>
         <source> Crop rectangle origin Y component(in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation> Recadrer le composant Y d&apos;origine du rectangle (en pixels).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="506"/>
         <source>Crop rectangle size (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du rectangle de recadrage (en pixels).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="509"/>
         <source>Clip rectangle size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du rectangle du clip&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="521"/>
         <source>Crop rectangle size X component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Recadrer le composant X de taille du rectangle (en pixels).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="534"/>
         <source>Crop rectangle size Y component (in pixels).</source>
-        <translation type="unfinished"></translation>
+        <translation>Recadrer le composant Y de taille du rectangle (en pixels).</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="555"/>
         <source>Fan angles</source>
-        <translation type="unfinished"></translation>
+        <translation>Angles de ventilateur</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="561"/>
         <source>Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Seule la région comprise entre les deux angles d&apos;éventail sera reconstruite</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="564"/>
         <source>Fan angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle du ventilateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="573"/>
         <source>First fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier angle d&apos;éventail utilisé pour le détourage. Seule la région comprise entre les deux angles d&apos;éventail sera reconstruite</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="580"/>
         <source>Second fan angle used for clipping. Only the region within  the two fan angles will be reconstructed</source>
-        <translation type="unfinished"></translation>
+        <translation>Deuxième angle d&apos;éventail utilisé pour le détourage. Seule la région comprise entre les deux angles d&apos;éventail sera reconstruite</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="600"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="607"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
 </context>
 <context>
@@ -1796,22 +1796,22 @@
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="20"/>
         <source>Reslicing Driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilote de retranchage</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="31"/>
         <source>Advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options avancées</translation>
     </message>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="40"/>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Montrer les options avancées</translation>
     </message>
 </context>
 <context>
@@ -1819,102 +1819,102 @@
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="37"/>
         <source>Watchdog node: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de surveillance&#xa0;: </translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="47"/>
         <source>vtkMRMLWatchdogNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLWatchdogNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="64"/>
         <source>Observed nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœuds observés</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLTransformNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="81"/>
         <source>vtkMRMLVolumeNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLTransformNode</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="109"/>
         <source>Add the selected node to the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter le nœud sélectionné à la liste des nœuds surveillés</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="112"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="141"/>
         <source>Remove the node selected in the table from the list of watched nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le nœud sélectionné dans le tableau de la liste des nœuds surveillés</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="163"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="180"/>
         <source>&amp;Visible:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visible :</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="197"/>
         <source>View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir :</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="204"/>
         <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez les vues dans lesquelles afficher ce nœud. Tous les affichages non cochés dans toutes les vues 3D et 2D.</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="211"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacité :</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="234"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de l&apos;arrière plan</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="255"/>
         <source>Text Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur du texte&#xa0;:</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="273"/>
         <source>Font size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de police</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="283"/>
         <source> pt</source>
-        <translation type="unfinished"></translation>
+        <translation> pt</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="307"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Événements</translation>
     </message>
     <message>
         <location filename="Watchdog/Resources/UI/qSlicerWatchdogModuleWidget.ui" line="316"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Watch transform modified event:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Regarder l&apos;événement modifié de transformation&#xa0;:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 </TS>
