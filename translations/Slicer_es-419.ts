@@ -7615,27 +7615,27 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="6"/>
         <source>This command module was derived from Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter (copyright) Insight Software Consortium</source>
-        <translation type="unfinished">Este módulo de comandos se ha creado a partir de Perspectiva/Ejemplos/Filtrado/FiltroBinarioDeImagenDeRellenoDeAgujerosPorVotación (copyright) Insight Software Consortium</translation>
+        <translation type="unfinished">Este módulo de comandos se ha creado a partir de Insight/Examples/Filtering/VotingBinaryHoleFillingImageFilter(derechos de autor) Insight Software Consortium</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="7"/>
         <source>Binary Hole Filling Parameters</source>
-        <translation type="unfinished">Parámetros binarios de relleno de agujeros</translation>
+        <translation>Parámetros binarios de relleno de agujeros</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="8"/>
         <source>Parameters for Hole Filling</source>
-        <translation type="unfinished">Parámetros para el relleno de agujeros</translation>
+        <translation>Parámetros para el relleno de agujeros</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="9"/>
         <source>Maximum Radius</source>
-        <translation type="unfinished">Radio máximo</translation>
+        <translation>Radio máximo</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="10"/>
         <source>Majority Threshold</source>
-        <translation type="unfinished">Umbral de Mayoría</translation>
+        <translation>Umbral de mayoría</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="11"/>
@@ -7650,22 +7650,22 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="13"/>
         <source>The radius of a hole to be filled</source>
-        <translation type="unfinished">El radio de un agujero a rellenar</translation>
+        <translation>El radio de un agujero a rellenar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="14"/>
         <source>The number of pixels over 50% that will decide whether an OFF pixel will become ON or not. For example, if the neighborhood of a pixel has 124 pixels (excluding itself), the 50% will be 62, and if you set a Majority threshold of 5, that means that the filter will require 67 or more neighbor pixels to be ON in order to switch the current OFF pixel to ON.</source>
-        <translation type="unfinished">El número de píxeles por encima del 50% que decidirá si un píxel apagado se enciende o no. Por ejemplo, si la vecindad de un píxel tiene 124 píxeles (excluyéndose a sí mismo), el 50% será 62, y si establece un umbral de Mayoría de 5, eso significa que el filtro requerirá que 67 o más píxeles vecinos estén en ON para que el píxel actual en OFF pase a ON.</translation>
+        <translation>El número de píxeles por encima del 50% es el que decidirá si un píxel apagado se enciende o no. Por ejemplo, si el entorno de un píxel tiene 124 píxeles (excluyéndose a sí mismo), el 50% será 62, y si establece un umbral de mayoría de 5, eso significa que el filtro requerirá que 67 o más píxeles vecinos estén en ON para que el píxel actual en OFF pase a ON.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="15"/>
         <source>The value associated with the background (not object)</source>
-        <translation type="unfinished">El valor asociado al fondo (no al objeto)</translation>
+        <translation>El valor asociado al fondo (no al objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="16"/>
         <source>The value associated with the foreground (object)</source>
-        <translation type="unfinished">Valor asociado al primer plano (objeto)</translation>
+        <translation>Valor asociado al primer plano (objeto)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="17"/>
@@ -7675,27 +7675,27 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="18"/>
         <source>Input/output parameters</source>
-        <translation type="unfinished">Parámetros de entrada/salida</translation>
+        <translation>Parámetros de entrada/salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="19"/>
         <source>Input Volume</source>
-        <translation type="unfinished">Volumen de entrada</translation>
+        <translation>Volumen de entrada</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="20"/>
         <source>Output Volume</source>
-        <translation type="unfinished">Volumen de salida</translation>
+        <translation>Volumen de salida</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="21"/>
         <source>Input volume to be filtered</source>
-        <translation type="unfinished">Volumen de entrada a filtrar</translation>
+        <translation>Volumen de entrada a filtrar</translation>
     </message>
     <message>
         <location filename="Modules/CLI/VotingBinaryHoleFillingImageFilter/VotingBinaryHoleFillingImageFilter_tr.h" line="22"/>
         <source>Output filtered</source>
-        <translation type="unfinished">Salida filtrada</translation>
+        <translation>Filtrado de salida</translation>
     </message>
 </context>
 <context>
@@ -7713,7 +7713,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="37"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.</source>
-        <translation type="unfinished">Este trabajo cuenta con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer.</translation>
+        <translation>Este trabajo cuenta con el apoyo de NA-MIC, NAC, BIRN, NCIGT y la comunidad Slicer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="246"/>
@@ -7728,7 +7728,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="352"/>
         <source>Generic DICOM settings</source>
-        <translation type="unfinished">Ajustes genéricos DICOM</translation>
+        <translation>Ajustes genéricos DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="355"/>
@@ -7738,32 +7738,32 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="358"/>
         <source>DICOM general settings</source>
-        <translation type="unfinished">Ajustes generales DICOM</translation>
+        <translation>Ajustes generales DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Determines whether referenced DICOM series are offered when loading DICOM, or the automatic behavior if interaction is disabled. Interactive selection of referenced series is the default selection</source>
-        <translation type="unfinished">Determina si las series DICOM referenciadas se ofrecen al cargar DICOM, o el comportamiento automático si la interacción está desactivada. La selección interactiva de series referenciadas es la selección por defecto</translation>
+        <translation>Determina si las series DICOM referenciadas se ofrecen al cargar DICOM, o el comportamiento automático si la interacción está desactivada. La selección interactiva de series referenciadas es la selección por defecto</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="368"/>
         <source>Ask user</source>
-        <translation type="unfinished">Preguntar al usuario</translation>
+        <translation>Preguntar al usuario</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="369"/>
         <source>Always</source>
-        <translation type="unfinished">Siempre</translation>
+        <translation>Siempre</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="370"/>
         <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="372"/>
         <source>Load referenced series:</source>
-        <translation type="unfinished">Carga serie referenciada:</translation>
+        <translation>Carga serie referenciada:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/DICOM.py" line="381"/>
