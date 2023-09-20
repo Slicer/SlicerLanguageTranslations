@@ -7556,7 +7556,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="20"/>
         <source>What kind of threshold to perform. If Outside is selected, uses Upper and Lower values. If Below is selected, uses the ThresholdValue, if Above is selected, uses the ThresholdValue.</source>
-        <translation type="unfinished">Qué tipo de umbral realizar. Si se selecciona Fuera, utiliza los valores Superior e Inferior. Si se selecciona Por debajo, utiliza el Valor del umbral, si se selecciona Por encima, utiliza el valor  Valor del Umbral.</translation>
+        <translation>Qué tipo de umbral realizar. Si se selecciona Externo, utilice los valores Superior e Inferior. Si se selecciona Por debajo, utilice el Valor del umbral, si se selecciona Por encima, utilice el Valor del umbral.</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ThresholdScalarVolume/ThresholdScalarVolume_tr.h" line="21"/>
