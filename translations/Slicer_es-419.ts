@@ -1083,7 +1083,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="159"/>
         <source>Number Of Threads</source>
-        <translation>Número de cadenas</translation>
+        <translation>Número de hilos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="160"/>
@@ -1283,7 +1283,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="26"/>
         <source>Number Of Threads</source>
-        <translation>Número de cadenas</translation>
+        <translation>Número de hilos</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="27"/>
@@ -1313,7 +1313,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="32"/>
         <source>Explicitly specify the maximum number of threads to use.</source>
-        <translation>Especifique explícitamente el número máximo de cadenas a utilizar.</translation>
+        <translation>Especifique explícitamente el número máximo de hilos a utilizar.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="33"/>
