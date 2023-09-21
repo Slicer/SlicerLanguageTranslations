@@ -8126,7 +8126,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="93"/>
         <source>Generate missing patient, study, series IDs. It is assumed that all files in a directory belong to the same series. Fixes error caused by too aggressive anonymization or incorrect DICOM image converters.</source>
-        <translation>Generar IDs de pacientes, estudios y series que faltan. Se asume que todos los archivos de un directorio pertenecen a la misma serie. Corrija errores causados por una anonimización demasiado agresiva o convertidores de imágenes DICOM incorrectos.</translation>
+        <translation>Generar IDs de pacientes, estudios y series que faltan. Se asume que todos los archivos de un directorio pertenecen a la misma serie. Corrija errores causados por una anonimización demasiado agresiva o conversores de imágenes DICOM incorrectos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="94"/>
@@ -8136,12 +8136,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="99"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished">Generar ‘secuencia de posición de imagen’ para archivos multi-imagen que sólo tienen campo ‘SliceThickness’. Corrige error en escáneres Dolphin 3D CBCT.</translation>
+        <translation>Generar ‘secuencia de posición de imagen’ para archivos multi-frame que sólo tienen campo ‘SliceThickness’. Corrige error en escáneres Dolphin 3D CBCT.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation>Generar posición de corte para volúmenes multi-imagen</translation>
+        <translation>Generar posición de corte para volúmenes de multi-frame</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="127"/>
@@ -15218,7 +15218,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation>Ventana / Valores Preestablecidos:</translation>
+        <translation>Preajustes de ventana/nivel:</translation>
     </message>
 </context>
 <context>
@@ -16042,7 +16042,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="70"/>
         <source>Parameter set:</source>
-        <translation type="unfinished">Parámetros establecidos:</translation>
+        <translation>Conjunto de parámetros:</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/Resources/UI/qSlicerCLIModuleWidget.ui" line="104"/>
@@ -16423,7 +16423,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="25"/>
         <source>Crop Volume</source>
-        <translation>Volumen de cultivo</translation>
+        <translation>Recortar volumen</translation>
     </message>
 </context>
 <context>
@@ -16432,7 +16432,7 @@ Capacidades gráficas de este ordenador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
         <source>Crop Volume</source>
-        <translation>Volumen de cultivo</translation>
+        <translation>Recortar volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
@@ -16457,7 +16457,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
-        <translation>Cortar volumen ROI</translation>
+        <translation>Recortar volumen ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
@@ -16483,7 +16483,7 @@ Capacidades gráficas de este ordenador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="586"/>
         <source>Cropped volume</source>
-        <translation>Volumen reducido</translation>
+        <translation>Volumen recortado</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="279"/>
@@ -21747,7 +21747,7 @@ Lo más probable es que el segmento no pueda convertirse en una representación 
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsNodeWriterOptionsWidget.cxx" line="48"/>
         <source>If enabled then segmentation labelmap representation is cropped to the minimum necessary size. This saves storage space but changes voxel coordinate system (physical coordinate system is not affected).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se activa, la representación del mapa de etiquetas de segmentación se recorta al tamaño mínimo necesario. Esto ahorra espacio de almacenamiento pero cambia el sistema de coordenadas de los vóxeles (el sistema de coordenadas físicas no se ve afectado).</translation>
     </message>
 </context>
 <context>
@@ -24506,7 +24506,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished">memoria intermedia</translation>
+        <translation type="unfinished">float</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
