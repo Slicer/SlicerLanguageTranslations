@@ -8141,7 +8141,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
         <source>Generate slice position for multi-frame volumes</source>
-        <translation>Generar posición de corte para volúmenes multifotograma</translation>
+        <translation>Generar posición de corte para volúmenes multi-imagen</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="127"/>
@@ -8266,7 +8266,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="558"/>
         <source>Creates a series of DICOM files from scalar volumes</source>
-        <translation type="unfinished">Crea una serie de archivos DICOM a partir de volúmenes escalares</translation>
+        <translation>Crea una serie de archivos DICOM a partir de volúmenes escalares</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="586"/>
@@ -8276,22 +8276,22 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="590"/>
         <source>Series &apos;{itemName}&apos; cannot be exported</source>
-        <translation type="unfinished">La serie &apos;{itemName}&apos; no se puede exportar</translation>
+        <translation>La serie &apos;{itemName}&apos; no se puede exportar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="607"/>
         <source>Unable to get study for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se ha podido obtener el estudio de la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="612"/>
         <source>Unable to get patient for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">No se puede obtener el paciente de la serie &apos;{volumeName}&apos;.</translation>
+        <translation>No se puede obtener el paciente de la serie &apos;{volumeName}&apos;.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="658"/>
         <source>Empty modality for series &apos;{volumeName}&apos;</source>
-        <translation type="unfinished">Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
+        <translation>Modalidad vacía para la serie &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="672"/>
@@ -8347,7 +8347,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="101"/>
         <source>Volume sequence of {count} frames</source>
-        <translation type="unfinished">Secuencia de volumen de {count} fotogramas</translation>
+        <translation>Secuencia de volumen de {count} fotogramas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMVolumeSequencePlugin.py" line="102"/>
@@ -20213,7 +20213,7 @@ Nombres de las columnas de la tabla: etiqueta, r, a, s, (o l, p, s), definido, s
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="77"/>
         <source>Help &amp;&amp; Acknowledgement</source>
-        <translation>Ayuda y Reconocimiento</translation>
+        <translation>Ayuda y reconocimiento</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerModulePanel.ui" line="93"/>
@@ -24380,7 +24380,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="163"/>
         <source>Window/level presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Preajustes de ventana/nivel</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="187"/>
