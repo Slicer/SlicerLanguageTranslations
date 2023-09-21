@@ -25769,7 +25769,7 @@ Esto sólo debe ser utilizado por usuarios avanzados que entienden las consecuen
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="35"/>
         <source>Preset:</source>
-        <translation>Preajustar:</translation>
+        <translation>Filtro:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingPresetComboBox.ui" line="45"/>
