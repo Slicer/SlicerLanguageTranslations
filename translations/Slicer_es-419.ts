@@ -732,7 +732,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="87"/>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="89"/>
         <source>float</source>
-        <translation>memoria intermedia</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="88"/>
@@ -1042,7 +1042,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="150"/>
         <source>By default, the output registration transforms (either the output composite transform or each transform component) are written to the disk in double precision. If this flag is ON, the output transforms will be written in single (float) precision. It is especially important if the output transform is a displacement field transform, or it is a composite transform that includes several displacement fields.</source>
-        <translation>Por defecto, las transformaciones de registro de salida (ya sea la transformación compuesta de salida o cada componente de transformación) se escriben en el disco en doble precisión. Si esta opción está activada, las transformaciones de salida se escribirán en precisión simple (flotante). Esto es especialmente importante si la transformada de salida es una transformada de campo de desplazamiento, o es una transformada compuesta que incluye varios campos de desplazamiento.</translation>
+        <translation>Por defecto, las transformaciones de registro de salida (ya sea la transformación compuesta de salida o cada componente de transformación) se escriben en el disco en doble precisión. Si esta opción está activada, las transformaciones de salida se escribirán en precisión simple (float). Esto es especialmente importante si la transformada de salida es una transformada de campo de desplazamiento, o es una transformada compuesta que incluye varios campos de desplazamiento.</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="151"/>
@@ -1324,7 +1324,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="34"/>
         <source>float</source>
-        <translation>flotador</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSROIAuto_tr.h" line="36"/>
@@ -1428,7 +1428,7 @@ Tenga en cuenta que se sugiere utilizar porcentajeDeMuestreo en lugar de esta op
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="19"/>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="20"/>
         <source>float</source>
-        <translation>memoria intermedia</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResample_tr.h" line="21"/>
@@ -1682,7 +1682,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="17"/>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="18"/>
         <source>float</source>
-        <translation>memoria intermedia</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSResize_tr.h" line="19"/>
@@ -1877,7 +1877,7 @@ Este programa es útil para reducir el tamaño de una imagen con un factor de es
     <message>
         <location filename="Docs/_extracli/BRAINSTransformConvert_tr.h" line="25"/>
         <source>float</source>
-        <translation>memoria intermedia</translation>
+        <translation>float</translation>
     </message>
 </context>
 <context>
@@ -1980,7 +1980,7 @@ Permite la conversión al mismo tipo que el volumen de entrada.</translation>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="24"/>
         <source>Float</source>
-        <translation>Memoria intermedia</translation>
+        <translation>Float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/CastScalarVolume/CastScalarVolume_tr.h" line="25"/>
@@ -3109,7 +3109,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="15"/>
         <source>Float Vector Parameter</source>
-        <translation>Parámetro de vector flotante</translation>
+        <translation>Parámetro de vector float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="16"/>
@@ -3119,7 +3119,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="17"/>
         <source>A vector of floats</source>
-        <translation>Un vector de punto flotante</translation>
+        <translation>Un vector de punto float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="18"/>
@@ -3593,7 +3593,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="111"/>
         <source>A floating point return value</source>
-        <translation>Un valor de retorno en coma flotante</translation>
+        <translation>Un valor de retorno en coma float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="112"/>
@@ -3628,7 +3628,7 @@ La MCDE no presenta las propiedades de mejora de los bordes de la difusión anis
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="118"/>
         <source>An example of a float return type</source>
-        <translation>Ejemplo de un tipo de retorno flotante</translation>
+        <translation>Ejemplo de un tipo de retorno float</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ExecutionModelTour/ExecutionModelTour_tr.h" line="119"/>
@@ -24506,7 +24506,7 @@ Tags: %5</source>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="88"/>
         <source>float</source>
-        <translation type="unfinished">float</translation>
+        <translation>float</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="93"/>
