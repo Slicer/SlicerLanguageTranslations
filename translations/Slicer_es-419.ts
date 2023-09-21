@@ -8136,7 +8136,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="99"/>
         <source>Generate &apos;image position sequence&apos; for multi-frame files that only have &apos;SliceThickness&apos; field. Fixes error in Dolphin 3D CBCT scanners.</source>
-        <translation type="unfinished">Generar &apos;secuencia de posición de imagen&apos; para archivos multi-frame que sólo tienen campo &apos;SliceThickness&apos;. Corrige error en escáneres Dolphin 3D CBCT.</translation>
+        <translation type="unfinished">Generar ‘secuencia de posición de imagen’ para archivos multi-imagen que sólo tienen campo ‘SliceThickness’. Corrige error en escáneres Dolphin 3D CBCT.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="100"/>
@@ -8171,7 +8171,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="259"/>
         <source>Unspecified Patient {patientIndex}</source>
-        <translation type="unfinished">Paciente no especificado {patientIndex}</translation>
+        <translation>Paciente no especificado {patientIndex}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPatcher/DICOMPatcher.py" line="325"/>
@@ -8205,7 +8205,7 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="90"/>
         <source>default (apply regularization transform)</source>
-        <translation type="unfinished">por defecto (aplicar transformación de regularización)</translation>
+        <translation>por defecto (aplicar transformación de regularización)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="91"/>
@@ -8215,18 +8215,18 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="92"/>
         <source>apply regularization transform</source>
-        <translation type="unfinished">aplicar la transformación de regularización</translation>
+        <translation>aplicar la transformación de regularización</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="96"/>
         <source>Acquisition geometry regularization:</source>
-        <translation type="unfinished">Regularización de la geometría de adquisición:</translation>
+        <translation>Regularización de la geometría de adquisición:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="100"/>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="113"/>
         <source>DICOM examination settings</source>
-        <translation type="unfinished">Ajustes del examen DICOM</translation>
+        <translation>Ajustes del examen DICOM</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="108"/>
@@ -8236,12 +8236,12 @@ a = Transformada Afín</translation>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="108"/>
         <source>Allow loading subseries by time:</source>
-        <translation type="unfinished">Permitir cargar subseries por tiempo:</translation>
+        <translation>Permitir cargar subseries por tiempo:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="129"/>
         <source>First volume is {imageScalarType1}, but second is {imageScalarType2}</source>
-        <translation type="unfinished">El primer volumen es {imageScalarType1}, pero el segundo es {imageScalarType2}.</translation>
+        <translation>El primer volumen es {imageScalarType1}, pero el segundo es {imageScalarType2}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py" line="134"/>
