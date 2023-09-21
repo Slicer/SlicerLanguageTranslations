@@ -8401,7 +8401,7 @@ The DataProbe module is used to get information about the current RAS position b
 indicated by the mouse position.
 </source>
         <translation>
-El módulo Sonda de datos se utiliza para obtener información sobre la posición actual
+El módulo Coordenadas se utiliza para obtener información sobre la posición actual
 RAS indicada por la posición del mouse.
 </translation>
     </message>
@@ -8453,12 +8453,12 @@ RAS indicada por la posición del mouse.
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="293"/>
         <source>Data Probe: {sceneName}</source>
-        <translation>Sonda de datos: {sceneName}</translation>
+        <translation>Coordenadas: {sceneName}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="297"/>
         <source>Data Probe</source>
-        <translation>Sonda de datos</translation>
+        <translation>Coordenadas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="327"/>
@@ -8469,7 +8469,7 @@ RAS indicada por la posición del mouse.
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="410"/>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="499"/>
         <source>Go to the DataProbe module for more information and options</source>
-        <translation>Vaya al módulo Sonda de datos para más información y opciones</translation>
+        <translation>Vaya al módulo Coordenadas para más información y opciones</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DataProbe/DataProbe.py" line="424"/>
@@ -18279,7 +18279,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="60"/>
         <source>Data Probe</source>
-        <translation>Sonda de datos</translation>
+        <translation>Coordenadas</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="73"/>
