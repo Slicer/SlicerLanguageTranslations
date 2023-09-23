@@ -924,7 +924,7 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1232"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1310"/>
         <source>View DICOM metadata</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visualizar metadatos DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1161"/>
