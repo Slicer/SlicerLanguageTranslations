@@ -2025,12 +2025,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="59"/>
         <source>Patients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacientes:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="85"/>
         <source>Studies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estudios:</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="111"/>
