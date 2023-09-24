@@ -611,52 +611,52 @@
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="102"/>
         <source>Use markups output coordinates:</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم إحداثيات إخراج الترميز:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="109"/>
         <source>Output landmarks (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>معالم الإخراج (اختياري):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="132"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>معلمات</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="138"/>
         <source>Acquisition Rate (Hz):</source>
-        <translation type="unfinished"></translation>
+        <translation>معدل الاستحواذ (هرتز):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="145"/>
         <source>Filter window time (s):</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفية نافذة الوقت (ق):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="152"/>
         <source>Detection time(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت (أوقات) الكشف:</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="159"/>
         <source>Stylus shaft minimum displacement (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى لإزاحة عمود القلم (مم):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="166"/>
         <source>Stylus tip maximum displacement (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>الإزاحة القصوى لطرف القلم (مم):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="173"/>
         <source>Minimum landmark distance (mm):</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأدنى لمسافة المعالم (مم):</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="270"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>ابدأ</translation>
     </message>
 </context>
 <context>
@@ -664,37 +664,37 @@
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="25"/>
         <source>Paths:</source>
-        <translation type="unfinished"></translation>
+        <translation>مسارات:</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="32"/>
         <source>vtkMRMLPathPlannerTrajectoryNode</source>
-        <translation type="unfinished"></translation>
+        <translation>vtkMRMLPathPlannerTrajectoryNode</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="37"/>
         <source>Trajectory list</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة المسار</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="49"/>
         <source>Planning</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطيط</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="83"/>
         <source>Add path</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف المسار</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerModuleWidget.ui" line="93"/>
         <source>Visualization</source>
-        <translation type="unfinished"></translation>
+        <translation>التصور</translation>
     </message>
 </context>
 <context>
@@ -702,32 +702,32 @@
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="22"/>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>نشط</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="42"/>
         <source>Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة:</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="49"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="56"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>مم</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="78"/>
         <source>Perpendicular</source>
-        <translation type="unfinished"></translation>
+        <translation>عمودي</translation>
     </message>
     <message>
         <location filename="PathExplorer/Resources/UI/qSlicerPathExplorerReslicingWidget.ui" line="88"/>
