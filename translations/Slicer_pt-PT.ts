@@ -21488,7 +21488,7 @@ Please choose an empty directory.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/qSlicerSegmentationsModule.cxx" line="113"/>
         <source>This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Cancer Care Ontario (CCO) e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).</translation>
     </message>
 </context>
 <context>
@@ -21762,7 +21762,7 @@ Most probably the segment cannot be converted into closed surface representation
     <message>
         <location filename="Modules/Loadable/Sequences/qSlicerSequencesModule.cxx" line="174"/>
         <source>This work was funded by CCO ACRU and OCAIRO grants.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este trabalho foi financiado por bolsas CCO ACRU e OCAIRO.</translation>
     </message>
 </context>
 <context>
