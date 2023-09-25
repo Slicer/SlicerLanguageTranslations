@@ -1908,7 +1908,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="74"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Séries</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMQueryWidget.ui" line="77"/>
@@ -2058,7 +2058,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMTableManager.ui" line="111"/>
         <source>Series:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Séries:</translation>
     </message>
 </context>
 <context>
@@ -2129,7 +2129,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="51"/>
         <source>Study ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID do estudo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="52"/>
@@ -2144,7 +2144,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="54"/>
         <source>Study description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Descrição do estudo</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="55"/>
@@ -2174,7 +2174,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="61"/>
         <source>Series</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="62"/>
@@ -2184,12 +2184,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
         <source>Series date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data da série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="64"/>
         <source>Series time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horário da Série</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="65"/>
