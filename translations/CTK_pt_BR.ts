@@ -917,7 +917,11 @@ Study Description: %2
 Series Description: %3
 Do you want to remove the series from the DICOM database?</source>
         <extracomment>%1, %2 and %3 represents respectively the patient name, the study and the series descriptions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Os arquivos para a seguinte série não estão disponíveis no disco:
+Nome do paciente: %1
+Descrição do estudo: %2
+Descrição da série: %3
+Você quer remover a série do banco de dados DICOM?</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
@@ -2067,7 +2071,7 @@ Halting export.</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="40"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="48"/>
         <source>Patient name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome do paciente</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="41"/>
