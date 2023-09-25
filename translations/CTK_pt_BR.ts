@@ -96,7 +96,7 @@ Fechar o aplicativo cancelará todos os cálculos em andamento.</translation>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="385"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="390"/>
