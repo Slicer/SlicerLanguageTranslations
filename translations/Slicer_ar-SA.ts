@@ -10276,22 +10276,22 @@ Supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. See https://www
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="41"/>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="135"/>
         <source>If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</source>
-        <translation type="unfinished">If enabled then all control points will be displayed in 2D viewers, by projecting them to the slice plane.</translation>
+        <translation>إذا تم تمكينها، فسيتم عرض جميع نقاط التحكم في المشاهدين ثنائي الأبعاد، عن طريق عرضها على مستوى الشريحة.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="44"/>
         <source>Projection Visibility:</source>
-        <translation type="unfinished">Projection Visibility:</translation>
+        <translation>رؤية الإسقاط:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="51"/>
         <source>Color of the projected control points on 2D viewers</source>
-        <translation type="unfinished">Color of the projected control points on 2D viewers</translation>
+        <translation>لون نقاط التحكم المتوقعة على المشاهدين ثنائي الأبعاد</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
         <source>Projection Color:</source>
-        <translation type="unfinished">Projection Color:</translation>
+        <translation>لون الإسقاط:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
