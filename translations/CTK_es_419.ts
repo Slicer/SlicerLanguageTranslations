@@ -821,12 +821,12 @@ due to:
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="263"/>
         <source>Remove selected series from database</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar series de la base de datos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="271"/>
         <source>Repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="274"/>
@@ -2142,7 +2142,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="57"/>
         <source>Institution</source>
-        <translation type="unfinished">Instituto</translation>
+        <translation>Institución</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="58"/>
@@ -2162,7 +2162,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="62"/>
         <source>Series #</source>
-        <translation type="unfinished">Número de series</translation>
+        <translation>Número de serie</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMTableView.cpp" line="63"/>
