@@ -2,6 +2,685 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr">
 <context>
+    <name>CLI_AddScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSFit</name>
+    <message>
+        <source>Off</source>
+        <translation type="obsolete">Désactivé</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSROIAuto</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResample</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Entrées</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResize</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Entrées</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSTransformConvert</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CastScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CheckerBoardFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CreateDICOMSeries</name>
+    <message>
+        <source>Input</source>
+        <translation type="obsolete">Saisir</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_CurvatureAnisotropicDiffusion</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ExtractSkeleton</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>1D</source>
+        <translation type="obsolete">1D</translation>
+    </message>
+    <message>
+        <source>2D</source>
+        <translation type="obsolete">2D</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_FiducialRegistration</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Rigid</source>
+        <translation type="obsolete">Rigide</translation>
+    </message>
+    <message>
+        <source>Similarity</source>
+        <translation type="obsolete">Similarité</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GaussianBlurImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GradientAnisotropicDiffusion</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleFillHoleImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleGrindPeakImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_GrayscaleModelMaker</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_HistogramMatching</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ImageLabelCombine</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_LabelMapSmoothing</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MaskScalarVolume</name>
+    <message>
+        <source>Settings</source>
+        <translation type="obsolete">Paramètres</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MedianImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MergeModels</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelMaker</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ModelToLabelMap</name>
+    <message>
+        <source>Settings</source>
+        <translation type="obsolete">Paramètres</translation>
+    </message>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_MultiplyScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <translation type="obsolete">Contrôles</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_N4ITKBiasFieldCorrection</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_OrientScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Axial</source>
+        <translation type="obsolete">Axiale</translation>
+    </message>
+    <message>
+        <source>Coronal</source>
+        <translation type="obsolete">Coronaire</translation>
+    </message>
+    <message>
+        <source>Sagittal</source>
+        <translation type="obsolete">Sagittale</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_PerformMetricTest</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ProbeVolumeWithModel</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ResampleScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_RobustStatisticsSegmenter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SimpleRegionGrowingSegmentation</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_SubtractScalarVolumes</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <translation type="obsolete">Contrôles</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_ThresholdScalarVolume</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_VotingBinaryHoleFillingImageFilter</name>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+</context>
+<context>
+    <name>CropVolumeSequence</name>
+    <message>
+        <source>Parameters</source>
+        <translation type="obsolete">Paramètres</translation>
+    </message>
+</context>
+<context>
+    <name>DICOMLib.DICOMBrowser</name>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>DICOMPatcher</name>
+    <message>
+        <source>Parameters</source>
+        <translation type="obsolete">Paramètres</translation>
+    </message>
+</context>
+<context>
+    <name>Form</name>
+    <message>
+        <source>Form</source>
+        <translation type="obsolete">Formulaire</translation>
+    </message>
+</context>
+<context>
+    <name>ScenePerformance</name>
+    <message>
+        <source>Results</source>
+        <translation type="obsolete">Résultats</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenCapture</name>
+    <message>
+        <source>Input</source>
+        <translation type="obsolete">Saisir</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>Output volume node:</source>
+        <translation type="obsolete">Nœud de volume de sortie&#xa0;:</translation>
+    </message>
+    <message>
+        <source>Opacity:</source>
+        <translation type="obsolete">Opacité :</translation>
+    </message>
+</context>
+<context>
+    <name>SegmentStatistics</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Entrées</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
+    <name>Settings</name>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="obsolete">2</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="obsolete">3</translation>
+    </message>
+</context>
+<context>
+    <name>TemplateKey</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Entrées</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
+    <name>VectorToScalarVolume</name>
+    <message>
+        <source>Parameters</source>
+        <translation type="obsolete">Paramètres</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLColorLegendDisplayNodeWidget</name>
+    <message>
+        <source>View:</source>
+        <translation type="obsolete">Voir :</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLDisplayNodeWidget</name>
+    <message>
+        <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
+        <translation type="obsolete">Sélectionnez les vues dans lesquelles afficher ce nœud. Tous les affichages non cochés dans toutes les vues 3D et 2D.</translation>
+    </message>
+    <message>
+        <source>View:</source>
+        <translation type="obsolete">Voir :</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLMarkupsCurveSettingsWidget</name>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLMarkupsDisplayNodeWidget</name>
+    <message>
+        <source>Opacity:</source>
+        <translation type="obsolete">Opacité :</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
+        <translation type="obsolete">Sélectionnez les vues dans lesquelles afficher ce nœud. Tous les affichages non cochés dans toutes les vues 3D et 2D.</translation>
+    </message>
+    <message>
+        <source>View:</source>
+        <translation type="obsolete">Voir :</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLMarkupsFiducialProjectionPropertyWidget</name>
+    <message>
+        <source>Opacity:</source>
+        <translation type="obsolete">Opacité :</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLMarkupsPlaneWidget</name>
+    <message>
+        <source>Opacity:</source>
+        <translation type="obsolete">Opacité :</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLModelDisplayNodeWidget</name>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>Opacity:</source>
+        <translation type="obsolete">Opacité :</translation>
+    </message>
+    <message>
+        <source>Mode:</source>
+        <translation type="obsolete">Mode :</translation>
+    </message>
+    <message>
+        <source>Select views in which to show this node. All unchecked shows in all 3D and 2D views.</source>
+        <translation type="obsolete">Sélectionnez les vues dans lesquelles afficher ce nœud. Tous les affichages non cochés dans toutes les vues 3D et 2D.</translation>
+    </message>
+    <message>
+        <source>View:</source>
+        <translation type="obsolete">Voir :</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLModelInfoWidget</name>
+    <message>
+        <source>0</source>
+        <translation type="obsolete">0</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLNodeAttributeTableWidget</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Ajouter</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLPlotViewControllerWidget</name>
+    <message>
+        <source>P</source>
+        <translation type="obsolete">P</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLScalarsDisplayWidget</name>
+    <message>
+        <source>Manual</source>
+        <translation type="obsolete">Manuel</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLSegmentEditorWidget</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Ajouter</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLSegmentationDisplayNodeWidget</name>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLSegmentationRepresentationsListView</name>
+    <message>
+        <source>Update</source>
+        <translation type="obsolete">Mise à jour</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLSliceControllerWidget</name>
+    <message>
+        <source>Axial</source>
+        <translation type="obsolete">Axiale</translation>
+    </message>
+    <message>
+        <source>Sagittal</source>
+        <translation type="obsolete">Sagittale</translation>
+    </message>
+    <message>
+        <source>Coronal</source>
+        <translation type="obsolete">Coronaire</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
+        <source>Advanced options</source>
+        <translation type="obsolete">Options avancées</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Ajouter</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLSliceControllerWidgetPrivate</name>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLSliceInformationWidget</name>
+    <message>
+        <source>Axial</source>
+        <translation type="obsolete">Axiale</translation>
+    </message>
+    <message>
+        <source>Sagittal</source>
+        <translation type="obsolete">Sagittale</translation>
+    </message>
+    <message>
+        <source>Coronal</source>
+        <translation type="obsolete">Coronaire</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="obsolete">Manuel</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLTableViewControllerWidget</name>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLThreeDViewControllerWidget</name>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLTransformDisplayNodeWidget</name>
+    <message>
+        <source>Visualization</source>
+        <translation type="obsolete">Visualisation</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>1 2 3 4</source>
+        <translation type="obsolete">1 2 3 4</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLVolumeInfoWidget</name>
+    <message>
+        <source>0,0,0</source>
+        <translation type="obsolete">0,0,0</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLVolumeThresholdWidget</name>
+    <message>
+        <source>Auto</source>
+        <translation type="obsolete">Auto</translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="obsolete">Manuel</translation>
+    </message>
+    <message>
+        <source>Off</source>
+        <translation type="obsolete">Désactivé</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+</context>
+<context>
+    <name>qMRMLWindowLevelWidget</name>
+    <message>
+        <source>Auto</source>
+        <translation type="obsolete">Auto</translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="obsolete">Manuel</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerBreachWarningModule</name>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
@@ -87,6 +766,31 @@
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
         <translation>Distance d&apos;avertissement de violation (mm)&#xa0;:</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerCLIModuleWidget</name>
+    <message>
+        <source>Parameter set:</source>
+        <translation type="obsolete">Jeu de paramètres&#xa0;:</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerCLIProgressBar</name>
+    <message>
+        <source>Status:</source>
+        <translation type="obsolete">Statut :</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerCamerasModuleWidget</name>
+    <message>
+        <source>View:</source>
+        <translation type="obsolete">Voir :</translation>
     </message>
 </context>
 <context>
@@ -410,6 +1114,43 @@
     </message>
 </context>
 <context>
+    <name>qSlicerCropVolumeModuleWidget</name>
+    <message>
+        <source>Parameter set:</source>
+        <translation type="obsolete">Jeu de paramètres&#xa0;:</translation>
+    </message>
+    <message>
+        <source>IO</source>
+        <translation type="obsolete">E/S</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>0,0,0</source>
+        <translation type="obsolete">0,0,0</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerDTISliceDisplayWidget</name>
+    <message>
+        <source>Opacity:</source>
+        <translation type="obsolete">Opacité :</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerExtensionsButtonBox</name>
+    <message>
+        <source>Update</source>
+        <translation type="obsolete">Mise à jour</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerFiducialRegistrationWizardModule</name>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="14"/>
@@ -657,6 +1398,61 @@
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="270"/>
         <source>Start</source>
         <translation>Commencer</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerLoadableModuleTemplateFooBarWidget</name>
+    <message>
+        <source>Foo bar</source>
+        <translation type="obsolete">Foo bar</translation>
+    </message>
+    <message>
+        <source>Foo Bar</source>
+        <translation type="obsolete">Foo Bar</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerLoadableModuleTemplateModuleWidget</name>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerMarkupsModule</name>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="obsolete">Réinitialiser</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerMarkupsPlaceWidget</name>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
+        <source>Delete options</source>
+        <translation type="obsolete">Supprimer les options</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerModelsModuleWidget</name>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
     </message>
 </context>
 <context>
@@ -1052,6 +1848,25 @@
     </message>
 </context>
 <context>
+    <name>qSlicerReformatModuleWidget</name>
+    <message>
+        <source>Rotation:</source>
+        <translation type="obsolete">Rotation :</translation>
+    </message>
+    <message>
+        <source>Axial</source>
+        <translation type="obsolete">Axiale</translation>
+    </message>
+    <message>
+        <source>Sagittal</source>
+        <translation type="obsolete">Sagittale</translation>
+    </message>
+    <message>
+        <source>Coronal</source>
+        <translation type="obsolete">Coronaire</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerReslicePropertyWidget</name>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerReslicePropertyWidget.ui" line="26"/>
@@ -1161,6 +1976,114 @@
         <location filename="VolumeResliceDriver/Widgets/qSlicerReslicePropertyWidget.cxx" line="111"/>
         <source>1</source>
         <translation>1</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSegmentEditorPaintEffect</name>
+    <message>
+        <source>mm</source>
+        <translation type="obsolete">mm</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSegmentationsModule</name>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="obsolete">0</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSequencesModuleWidget</name>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSettingsModulesPanel</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Ajouter</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSettingsStylesPanel</name>
+    <message>
+        <source>Add</source>
+        <translation type="obsolete">Ajouter</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSubjectHierarchySettingsPanel</name>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSuperLoadableModuleTemplateFooBarWidget</name>
+    <message>
+        <source>Foo bar</source>
+        <translation type="obsolete">Foo bar</translation>
+    </message>
+    <message>
+        <source>Foo Bar</source>
+        <translation type="obsolete">Foo Bar</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerSuperLoadableModuleTemplateModuleWidget</name>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerTablesModuleWidget</name>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerTemplateKeyFooBarWidget</name>
+    <message>
+        <source>Foo bar</source>
+        <translation type="obsolete">Foo bar</translation>
+    </message>
+    <message>
+        <source>Foo Bar</source>
+        <translation type="obsolete">Foo Bar</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerTemplateKeyModuleWidget</name>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerTextsModuleWidget</name>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
     </message>
 </context>
 <context>
@@ -1453,6 +2376,21 @@
     </message>
 </context>
 <context>
+    <name>qSlicerTransformsModuleWidget</name>
+    <message>
+        <source>...</source>
+        <translation type="obsolete">...</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="obsolete">Appliquer</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerUltrasoundSnapshotsModule</name>
     <message>
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="20"/>
@@ -1498,6 +2436,20 @@
         <location filename="UltrasoundSnapshots/Resources/UI/qSlicerUltrasoundSnapshotsModule.ui" line="109"/>
         <source>Clear snapshots</source>
         <translation>Effacer les instantanés</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerUnitsSettingsPanel</name>
+    <message>
+        <source>Show advanced options</source>
+        <translation type="obsolete">Montrer les options avancées</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerViewControllersModuleWidget</name>
+    <message>
+        <source>Advanced</source>
+        <translation type="obsolete">Avancé</translation>
     </message>
 </context>
 <context>
@@ -1792,6 +2744,21 @@
     </message>
 </context>
 <context>
+    <name>qSlicerVolumeRenderingModuleWidget</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Entrées</translation>
+    </message>
+    <message>
+        <source>View:</source>
+        <translation type="obsolete">Voir :</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerVolumeResliceDriverModule</name>
     <message>
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="14"/>
@@ -1812,6 +2779,13 @@
         <location filename="VolumeResliceDriver/Resources/UI/qSlicerVolumeResliceDriverModule.ui" line="40"/>
         <source>Show advanced options</source>
         <translation>Montrer les options avancées</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerVolumesModuleWidget</name>
+    <message>
+        <source>Display</source>
+        <translation type="obsolete">Afficher</translation>
     </message>
 </context>
 <context>

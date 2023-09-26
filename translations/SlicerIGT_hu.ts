@@ -2,6 +2,55 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="hu">
 <context>
+    <name>CLI_BRAINSResample</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Bemenetek</translation>
+    </message>
+</context>
+<context>
+    <name>CLI_BRAINSResize</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Bemenetek</translation>
+    </message>
+</context>
+<context>
+    <name>CropVolumeSequence</name>
+    <message>
+        <source>Parameters</source>
+        <translation type="obsolete">Paraméterek</translation>
+    </message>
+</context>
+<context>
+    <name>DICOMPatcher</name>
+    <message>
+        <source>Parameters</source>
+        <translation type="obsolete">Paraméterek</translation>
+    </message>
+</context>
+<context>
+    <name>SegmentStatistics</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Bemenetek</translation>
+    </message>
+</context>
+<context>
+    <name>TemplateKey</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Bemenetek</translation>
+    </message>
+</context>
+<context>
+    <name>VectorToScalarVolume</name>
+    <message>
+        <source>Parameters</source>
+        <translation type="obsolete">Paraméterek</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerBreachWarningModule</name>
     <message>
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="17"/>
@@ -87,6 +136,13 @@
         <location filename="BreachWarning/Resources/UI/qSlicerBreachWarningModule.ui" line="265"/>
         <source>Breach warning distance (mm):</source>
         <translation>Közelségre figyelmeztetés távolsága (mm):</translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerCLIModuleWidget</name>
+    <message>
+        <source>Parameter set:</source>
+        <translation type="obsolete">Paraméterkészlet:</translation>
     </message>
 </context>
 <context>
@@ -410,6 +466,13 @@
     </message>
 </context>
 <context>
+    <name>qSlicerCropVolumeModuleWidget</name>
+    <message>
+        <source>Parameter set:</source>
+        <translation type="obsolete">Paraméterkészlet:</translation>
+    </message>
+</context>
+<context>
     <name>qSlicerFiducialRegistrationWizardModule</name>
     <message>
         <location filename="FiducialRegistrationWizard/Resources/UI/qSlicerFiducialRegistrationWizardModule.ui" line="14"/>
@@ -621,7 +684,7 @@
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="132"/>
         <source>Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paraméterek</translation>
     </message>
     <message>
         <location filename="LandmarkDetection/Resources/UI/qSlicerLandmarkDetectionModuleWidget.ui" line="138"/>
@@ -1789,6 +1852,13 @@
         <location filename="VolumeReconstruction/Resources/UI/qSlicerVolumeReconstructionModule.ui" line="607"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>qSlicerVolumeRenderingModuleWidget</name>
+    <message>
+        <source>Inputs</source>
+        <translation type="obsolete">Bemenetek</translation>
     </message>
 </context>
 <context>

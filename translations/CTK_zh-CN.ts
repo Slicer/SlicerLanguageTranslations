@@ -68,25 +68,25 @@
 <context>
     <name>ctkCLModuleExplorerMainWindow</name>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="204"/>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="196"/>
         <source>Closing %1 running modules</source>
         <extracomment>%1 is the number of running modules</extracomment>
         <translation>关闭正在运行的 %1 模块</translation>
     </message>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="205"/>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="197"/>
         <source>Some modules are still running.
 Closing the application will cancel all current computations.</source>
         <translation>一些模块仍在运行。
 关闭应用程序将取消所有当前的计算。</translation>
     </message>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="291"/>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="283"/>
         <source>Load modules...</source>
         <translation>加载模块...</translation>
     </message>
     <message>
-        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="443"/>
+        <location filename="Applications/ctkCommandLineModuleExplorer/ctkCmdLineModuleExplorerMainWindow.cpp" line="435"/>
         <source>Failed while checking XML:</source>
         <translation>检查 XML 时失败：</translation>
     </message>
@@ -94,12 +94,12 @@ Closing the application will cancel all current computations.</source>
 <context>
     <name>ctkCheckableComboBox</name>
     <message>
-        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="385"/>
+        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="375"/>
         <source>All</source>
         <translation>所有</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="390"/>
+        <location filename="Libs/Widgets/ctkCheckableComboBox.cpp" line="380"/>
         <source>None</source>
         <translation>无</translation>
     </message>
@@ -786,8 +786,8 @@ due to:
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="177"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="271"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1127"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1128"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -798,7 +798,7 @@ due to:
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/Resources/UI/ctkDICOMBrowser.ui" line="219"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="385"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="386"/>
         <source>Import</source>
         <translation>导入</translation>
     </message>
@@ -858,76 +858,76 @@ due to:
         <translation>检查本地数据库中与图像相关的所有文件在磁盘上是否可用。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="271"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="272"/>
         <source>DICOM Schema Update</source>
         <translation>DICOM模式更新</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="274"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="275"/>
         <source>Initialization...</source>
         <translation>初始化...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="365"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="366"/>
         <source>Add Link</source>
         <translation>添加链接</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="366"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="367"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="368"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="369"/>
         <source>Indicate if the files should be copied to the local database directory or if only links should be created ?</source>
         <translation>指示是否应将文件复制到本地数据库目录，或者是否应仅创建链接？</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="370"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="371"/>
         <source>Import Directory Mode:</source>
         <translation>导入目录模式：</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="386"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="387"/>
         <source>Import DICOM files from directory ...</source>
         <translation>从目录中导入DICOM文件...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="391"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="392"/>
         <source>DICOM File Metadata</source>
         <translation>DICOM文件元数据</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="584"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="585"/>
         <source>Failed to create new database in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>在文件夹%1 中创建新数据库失败。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="640"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="668"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="641"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="669"/>
         <source>No valid DICOM database found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>在文件夹 %1 中找不到有效的 DICOM 数据库。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="688"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="689"/>
         <source>Incompatible DICOM database version found in folder %1.</source>
         <extracomment>%1 is the folder path</extracomment>
         <translation>在文件夹%1 中发现不兼容的DICOM数据库版本。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="831"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="832"/>
         <source>Database Repair</source>
         <translation>数据库修复</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="861"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="862"/>
         <source>All the files in the local database are available.</source>
         <translation>本地数据库中的所有文件都可用。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="888"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="889"/>
         <source>The files for the following series are not available on the disk: 
 Patient Name: %1
 Study Description: %2
@@ -946,101 +946,101 @@ Do you want to remove the series from the DICOM database?</oldsource>
 你想从DICOM数据库中删除该系列吗？</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1092"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1093"/>
         <source>Do you want to delete the following selected items?</source>
         <translation>是否要删除以下选定项目？</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1126"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1166"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1240"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1318"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1127"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1167"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1241"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1319"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1158"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1232"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1310"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1159"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1233"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1311"/>
         <source>View DICOM metadata</source>
         <translation>查看DICOM元数据</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1161"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1162"/>
         <source>View DICOM metadata of %1 selected patients</source>
         <translation>查看 %1 选定患者的 DICOM 元数据</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1169"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1170"/>
         <source>Delete %1 selected patients</source>
         <translation>删除 %1 选定的患者</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1174"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1248"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1326"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1175"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1249"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1327"/>
         <source>Export to file system</source>
         <translation>导出到文件系统</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1177"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1178"/>
         <source>Export %1 selected patients to file system</source>
         <translation>将 %1 选定的患者导出到文件系统</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1182"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1256"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1334"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1183"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1257"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1335"/>
         <source>Send to DICOM server</source>
         <translation>发送到DICOM服务器</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1185"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1186"/>
         <source>Send %1 selected patients to DICOM server</source>
         <translation>将 %1 选定的患者发送到 DICOM 服务器</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1235"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1236"/>
         <source>View DICOM metadata of %1 selected studies</source>
         <translation>查看%1 所选研究的DICOM元数据</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1243"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1244"/>
         <source>Delete %1 selected studies</source>
         <translation>删除%1 选定的研究报告</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1251"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1252"/>
         <source>Export %1 selected studies to file system</source>
         <translation>将%1 选定的研究报告导出到文件系统</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1259"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1260"/>
         <source>Send %1 selected studies to DICOM server</source>
         <translation>将%1 选择的研究报告发送至DICOM服务器</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1313"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1314"/>
         <source>View DICOM metadata of %1 selected series</source>
         <translation>查看%1 所选系列的DICOM元数据</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1321"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1322"/>
         <source>Delete %1 selected series</source>
         <translation>删除%1 所选系列</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1329"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1330"/>
         <source>Export %1 selected series to file system</source>
         <translation>导出%1 所选系列到文件系统</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1337"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1338"/>
         <source>Send %1 selected series to DICOM server</source>
         <translation>发送%1 所选系列到DICOM服务器</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1421"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1422"/>
         <source>Unable to create export destination directory:
 
 %1
@@ -1054,23 +1054,23 @@ Halting export.</source>
 停止导出。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1436"/>
         <source>DICOM Export</source>
         <translation>DICOM 导出</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1435"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1436"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1441"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1442"/>
         <source>Exporting series %1</source>
         <extracomment>%1 is the series number</extracomment>
         <translation>导出系列 %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1458"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1459"/>
         <source>Export source file not found:
 
 %1
@@ -1088,7 +1088,7 @@ Error may be fixed via Repair.</source>
 错误可以通过修复修复。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1471"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1472"/>
         <source>Export destination file already exists:
 
 %1
@@ -1102,7 +1102,7 @@ Halting export.</source>
 停止导出。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1486"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1487"/>
         <source>Failed to copy
 
 %1
@@ -1124,12 +1124,12 @@ Halting export.</source>
 停止导出。</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1516"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1517"/>
         <source>Updating database displayed fields...</source>
         <translation>更新数据库显示字段...</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1790"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1791"/>
         <source>Import completed: added %1 patients, %2 studies, %3 series, %4 instances.</source>
         <extracomment>Arguments correspond to the number of patients, studies, series and instancies</extracomment>
         <translation>导入完成：添加了%1 患者，%2 研究，%3 系列，%4 实例。</translation>
@@ -1896,23 +1896,23 @@ Halting export.</source>
 %1</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="434"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="398"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="433"/>
         <source>Query Retrieve</source>
         <translation>查询检索</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="399"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="398"/>
         <source>Retrieve failed.  Keep trying?</source>
         <translation>检索失败。  继续尝试？</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="429"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="428"/>
         <source>Retrieve Process Finished</source>
         <translation>检索过程已完成</translation>
     </message>
     <message>
-        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="432"/>
+        <location filename="Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp" line="431"/>
         <source>Retrieve Process Canceled</source>
         <translation>检索过程被取消</translation>
     </message>
@@ -2341,29 +2341,34 @@ Halting export.</source>
         <translation>日志信息</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="22"/>
+        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="37"/>
         <source>&amp;All</source>
         <translation>&amp;全部</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="32"/>
+        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="47"/>
         <source>&amp;Errors</source>
         <translation>&amp;错误</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="42"/>
+        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="57"/>
         <source>&amp;Warnings</source>
         <translation>&amp;警告</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="52"/>
+        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="67"/>
         <source>&amp;Messages</source>
         <translation>&amp;信息</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="69"/>
+        <location filename="Libs/Widgets/Resources/UI/ctkErrorLogWidget.ui" line="84"/>
         <source>&amp;Clear</source>
         <translation>&amp;清除</translation>
+    </message>
+    <message>
+        <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
+        <source>Select messages in the list to see details here.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3304,22 +3309,22 @@ Halting export.</source>
 <context>
     <name>ctkPathLineEdit</name>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="328"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="336"/>
         <source>Open a dialog</source>
         <translation>打开对话框</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="638"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="646"/>
         <source>Select a file to save </source>
         <translation>选择要保存的文件 </translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="653"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="661"/>
         <source>Open a file</source>
         <translation>打开文件</translation>
     </message>
     <message>
-        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="669"/>
+        <location filename="Libs/Widgets/ctkPathLineEdit.cpp" line="677"/>
         <source>Select a directory...</source>
         <translation>选择一个目录...</translation>
     </message>
@@ -4112,7 +4117,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ctkSearchBox</name>
     <message>
-        <location filename="Libs/Widgets/ctkSearchBox.cpp" line="76"/>
+        <location filename="Libs/Widgets/ctkSearchBox.cpp" line="72"/>
         <source>Search...</source>
         <translation>搜索。。。</translation>
     </message>
@@ -4202,12 +4207,12 @@ all settings to their default values?
 <context>
     <name>ctkTestPluginMTAttrPwdActivator</name>
     <message>
-        <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="30"/>
+        <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
         <source>Object</source>
         <translation>对象</translation>
     </message>
     <message>
-        <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="31"/>
+        <location filename="Libs/PluginFramework/Testing/MetaTypeTestPlugins/pluginAttrPwd_test/ctkTestPluginMTAttrPwdActivator.cpp" line="32"/>
         <source>My object class definition</source>
         <translation>我的对象类定义</translation>
     </message>
@@ -4232,7 +4237,7 @@ all settings to their default values?
 <context>
     <name>ctkVTKAbstractView</name>
     <message>
-        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="516"/>
+        <location filename="Libs/Visualization/VTK/Widgets/ctkVTKAbstractView.cpp" line="520"/>
         <source>FPS: %1(%2s)</source>
         <translation>FPS:%1(%2s)</translation>
     </message>
