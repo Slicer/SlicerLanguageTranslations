@@ -2660,7 +2660,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Difuso:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
