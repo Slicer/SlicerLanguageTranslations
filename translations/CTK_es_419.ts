@@ -923,7 +923,7 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1241"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1319"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1159"/>
@@ -947,7 +947,7 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1249"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1327"/>
         <source>Export to file system</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar al sistema de archivos</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1178"/>
@@ -959,7 +959,7 @@ Do you want to remove the series from the DICOM database?</source>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1257"/>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1335"/>
         <source>Send to DICOM server</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar al servidor DICOM</translation>
     </message>
     <message>
         <location filename="Libs/DICOM/Widgets/ctkDICOMBrowser.cpp" line="1186"/>
@@ -4692,7 +4692,7 @@ Do you want to restore the settings?</source>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="59"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <location filename="Libs/XNAT/Widgets/ctkXnatLoginDialog.ui" line="99"/>
