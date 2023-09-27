@@ -25453,7 +25453,7 @@ Note: This may result in unwanted data loss in %4.</oldsource>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="382"/>
         <source>None)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nenhum)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentationsPlugin.cxx" line="397"/>
@@ -27166,7 +27166,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="82"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished">Renderização de volume Módulo fornece ferramentas avançadas para alternar renderização de volume interativo de conjuntos de dados.&lt;br/&gt;Se suportado, renderização de volume acelerada por hardware é disponibilizada. O módulo permite a seleção de funções de transferência predefinidas para colorir e definir a opacidade dos dados de uma forma adequada a tarefas e ferramentas para personalizar as funções de transferência que especificam esses parâmetros.&lt;br/&gt;</translation>
+        <translation type="unfinished">O módulo de Renderização de Volume fornece ferramentas avançadas para alternar renderização de volume interativo de conjuntos de dados.&lt;br/&gt;Se suportado, renderização de volume acelerada por hardware é disponibilizada. O módulo permite a seleção de funções de transferência predefinidas para colorir e definir a opacidade dos dados de uma forma adequada a tarefas e ferramentas para personalizar as funções de transferência que especificam esses parâmetros.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="103"/>
