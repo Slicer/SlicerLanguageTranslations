@@ -7721,14 +7721,16 @@ a = Transformada Afim</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este módulo pode cortar e remodelar uma sequência de volume para reduzir o seu tamanho para renderização e processamento mais rápidos.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="40"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Esse arquivo foi originalmente desenvolvido por Andras Lasso
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="54"/>
@@ -7738,42 +7740,42 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="70"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escolha um nó de sequência de volumes que serão cortados e redimensionado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="71"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sequência de volume de entrada: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="83"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Sobrescrever entrada)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="86"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escolha um nó de sequência onde os volumes recortados e redimensionados serão armazenados.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sequência de volume de saída: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="102"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecione os parâmetros de corte de volumes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vá para o módulo de Corte de Volume para editar parâmetros de corte.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="112"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configurações de corte de volume: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
@@ -8484,7 +8486,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="71"/>
         <source>Install Slicer Diffusion Tools (SlicerDMRI)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instalar Ferramentas de Difusão do Slicer (SlicerDMRI)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="80"/>
@@ -8493,22 +8495,26 @@ This file was originally developed by Andras Lasso
     Technology For Brain Cancer Research), and made possible by NA-MIC, NAC,
     BIRN, NCIGT, and the Slicer Community.
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+    SlicerDMRI apoiado pelo NIH NCI ITCR U01CA199459 (Open Source Diffusion MRI
+   Technology For Brain Cancer Research), e possível por NA-MIC, NAC,
+   BIRN, NCIGT e a Comunidade Slicer.
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="101"/>
         <source>Installs the &quot;SlicerDMRI&quot; extension from the Diffusion category.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instala a extensão &quot;SlicerDMRI&quot; da categoria Difusão.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="117"/>
         <source>SlicerDMRI is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O SlicerDMRI já está instalado.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="127"/>
         <source>Restart to complete SlicerDMRI installation?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reiniciar para concluir a instalação do SlicerDMRI?</translation>
     </message>
 </context>
 <context>
@@ -8628,7 +8634,11 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Este trabalho é apoiado por PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
+(Ver &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
+NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="74"/>
@@ -8638,33 +8648,33 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="83"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecione uma câmera que voará ao longo deste caminho.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="95"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="106"/>
         <source>Select a fiducial list to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecione uma lista fiducial para definir pontos de controle para a trajetória.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="100"/>
         <source>Input Fiducials:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrada de Fiducials:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="112"/>
         <source>Output Path:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Caminho de saída:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="115"/>
         <source>Create path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Criar caminho</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="117"/>
         <source>Create the path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Criar o caminho.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
@@ -8674,7 +8684,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="134"/>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Quadro:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="142"/>
@@ -8694,7 +8704,7 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="163"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reproduzir</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="165"/>
@@ -8763,7 +8773,9 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Este módulo fornece conjuntos de dados que podem ser usados para testar o Slicer 3D.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="94"/>
@@ -8780,7 +8792,19 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;p&gt; Este trabalho foi financiado em parte pelo Cancer Care Ontario
+e pelo Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)&lt;/p&gt;
+
+&lt;p&gt;Os conjuntos de dados MRHead, CBCT-MR Head e CT-MR Brain foram doados ao projeto 3D Slicer pelas pessoas visíveis nas imagens, para serem utilizados sem quaisquer restrições. &lt;/p&gt;
+
+&lt;p&gt;O conjunto de dados CTLiver é proviniente de &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;Projeto de Decatlo médico&lt;/a&gt; (imagesTr/liver_100.nii.gz na coleção Task03_Liver)
+com licença de copyright (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), permitindo que os dados sejam compartilhados, distribuídos e melhorados.&lt;/p&gt;
+
+&lt;p&gt;O conjunto de dados CTA abdomen (Panoramix) é proviniente de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;Osirix DICOM biblioteca de imagem&lt;/a&gt;
+e está exclusivamente disponível para pesquisa e ensino. Você não está autorizado a redistribuí-lo ou vendê-lo, ou
+usá-lo para fins comerciais.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="109"/>
@@ -8790,7 +8814,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="110"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vá para o módulo SampleData para baixar dados da rede</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="509"/>
@@ -8800,110 +8824,111 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="510"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desenvolvimento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="631"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Falha para criar pasta de cache {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="633"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A pasta de cache {path} não é gravável</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="677"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Download falhou (tentativa {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="716"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregamento falhou (tentativa {current} de {total}). Incapaz de apagar e tentar carregar
+novamente{path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="720"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregamento falhou (tentativa {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="850"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Baixado {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="866"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Requisitando download {name} de {uri} ...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="869"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Download finalizado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Download falhou: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="872"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Falha para baixar {uri} para {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="875"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="887"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verificando checksum</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verificação de checksum falhou. Checksum calculado {currentChecksum} diferente do checksum esperado {expectedChecksum}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="884"/>
         <source>Checksum OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Checksum OK</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="890"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O arquivo já existe em cache, mas o checksum é diferente. Baixando-o novamente.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="895"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O arquivo já existe e o checksum está OK - reutilizando-o.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="898"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O arquivo já existe em cache - reutilizando-o.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="902"/>
         <source>Requesting load {uri}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Requisitando carga {uri}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="921"/>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregamento falhou!</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="908"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregamento finalizado</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Requisitando carga {name} de {uri} ...</translation>
     </message>
 </context>
 <context>
@@ -8994,7 +9019,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="26"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Captura de tela</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="33"/>
@@ -9002,7 +9027,10 @@ use it for commercial purposes.&lt;/p&gt;
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Este módulo capta sequências de imagens e vídeos
+de conteúdo dinâmico mostrado em 3D e visualizadores de fatia.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="45"/>
@@ -9010,7 +9038,10 @@ from dynamic contents shown in 3D and slice viewers.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Este trabalho foi financiado por Cancer Care Ontario
+e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="76"/>
@@ -9020,32 +9051,32 @@ and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCA
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="89"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture of all views&apos; option in output section is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esta fatia ou vista 3D será atualizada durante a captura. Apenas esta visualização será capturada a menos que a opção &quot;Captura de todas as visualizações&quot; na seção de saída esteja ativada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="90"/>
         <source>Main view: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visão principal: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="94"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se verificado, todas as vistas serão capturadas. Se desmarcado, somente a visualização selecionada será capturada.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>Capture all views:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Capture todas as visões:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="99"/>
         <source>Select the property that will be adjusted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecione a propriedade que será ajustada</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
         <source>Animation mode:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modo de animação:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="103"/>
@@ -17441,17 +17472,17 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="76"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Composto com Sombreamento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="78"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projeção de máxima intensidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerCPURayCastVolumeRenderingPropertiesWidget.cxx" line="80"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projeção de Mínima Intensidade</translation>
     </message>
 </context>
 <context>
@@ -21794,17 +21825,17 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="78"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Composto com Sombreamento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="80"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projeção de máxima intensidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerMultiVolumeRenderingPropertiesWidget.cxx" line="82"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projeção de Mínima Intensidade</translation>
     </message>
 </context>
 <context>
@@ -24913,27 +24944,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="106"/>
         <source>Create new subject</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Criar um indivíduo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="111"/>
         <source>Create child study</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Criar estudo filho</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="116"/>
         <source>Convert folder to subject</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Converter pasta para indivíduo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="121"/>
         <source>Convert folder to study</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Converter pasta para estudo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="126"/>
         <source>Export to DICOM...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exportar para DICOM...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDICOMPlugin.cxx" line="515"/>
@@ -25813,12 +25844,12 @@ Nota: Se você escolher não, a transformação aplicada será simplesmente subs
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="93"/>
         <source>Show in 3D views as volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar em visualizações 3D como renderização de volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="98"/>
         <source>Volume rendering options...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opções de renderização de volume...</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumeRenderingPlugin.cxx" line="100"/>
@@ -27106,27 +27137,27 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="82"/>
         <source>Volume Rendering Module provides advanced tools for toggling interactive volume rendering of datasets.&lt;br/&gt;If supported, hardware accelerated volume rendering is made available.The module permits selection of preset transfer functions to colorize and set opacity of data in a task-appropriate way, and tools to customize the transfer functions that specify these parameters.&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Renderização de volume Módulo fornece ferramentas avançadas para alternar renderização de volume interativo de conjuntos de dados.&lt;br/&gt;Se suportado, renderização de volume acelerada por hardware é disponibilizada. O módulo permite a seleção de funções de transferência predefinidas para colorir e definir a opacidade dos dados de uma forma adequada a tarefas e ferramentas para personalizar as funções de transferência que especificam esses parâmetros.&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="103"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este trabalho é apoiado por NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer. Algumas das funções de transferência foram contribuídas pela Kitware Inc. (VolView)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="144"/>
         <source>Volume rendering</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Renderização de volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="151"/>
         <source>Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Função de Transferência</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="156"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propriedade do Shader</translation>
     </message>
 </context>
 <context>
@@ -27302,7 +27333,7 @@ Isto somente deve ser usado por usuários avançados que entendem as consequênc
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="83"/>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingReader.cxx" line="97"/>
         <source>Transfer Function</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Função de Transferência</translation>
     </message>
 </context>
 <context>
