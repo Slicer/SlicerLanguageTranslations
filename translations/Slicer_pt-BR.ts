@@ -8745,12 +8745,12 @@ NA-MIC, NAC, BIRN, NCIGT e a Comunidade Slicer.
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
         <source>Failed to load file: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Falha ao carregar arquivo: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="139"/>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erro de sintaxe na linha {line}</translation>
     </message>
 </context>
 <context>
@@ -9081,22 +9081,22 @@ e o Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="103"/>
         <source>Start sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desvio do varrimento inicial:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="109"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deslocação da varredura do corte inicial.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="113"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desvio do varrimento final:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="119"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deslocação da varredura do corte final.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="123"/>
