@@ -9665,7 +9665,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="15"/>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="117"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor de Segmento</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="23"/>
@@ -9674,7 +9674,12 @@ This module allows editing segmentation objects by directly drawing and using se
 Representations other than the labelmap one (which is used for editing) are automatically updated real-time,
 so for example the closed surface can be visualized as edited in the 3D view.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Este módulo permite editar objetos de segmentação através do desenho direto e usando ferramentas de segmentação nos segmentos contidos.
+As representações diferentes do mapa de etiquetas (que é utilizado para a edição) são atualizadas automaticamente em tempo real,
+por exemplo, a superfície fechada pode ser visualizada como editada na visualização 3D.
+.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="29"/>
@@ -9682,12 +9687,15 @@ so for example the closed surface can be visualized as edited in the 3D view.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Cancer Care Ontario (CCO)
+e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="117"/>
         <source>Segment Editor is not compatible with slice viewers in light box mode.Views are being reset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O Editor de Segmento não é compatível com visualizadores de fatia no modo caixa de luz. As visualizações estão a ser reiniciadas.</translation>
     </message>
 </context>
 <context>
@@ -10196,7 +10204,10 @@ Apoiado pela NA-MIC, NAC, BIRN, NCIGT e pela Comunidade Slicer . Consulte https:
 The SelfTests module allows developers to provide built-in self-tests (BIST) for slicer so that users can tell
 if their installed version of slicer are running as designed.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+O módulo SelfTests permite que os desenvolvedores forneçam auto-teste integrado (BIST) para slicer para que os usuários possam contar
+se a versão instalada do slicer está rodando como projetada.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="53"/>
@@ -10204,7 +10215,10 @@ if their installed version of slicer are running as designed.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Este trabalho faz parte do projeto SparKit, financiado pelo programa ACRU do Cancer Care Ontario (CCO)
+e Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
+</translation>
     </message>
 </context>
 <context>
@@ -10584,7 +10598,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="58"/>
         <source>Vector to Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vetor para Volume Escalar</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="74"/>
@@ -10599,7 +10613,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+    &lt;p&gt; Faça um volume escalar (1 componente) de um volume vetorial.&lt;/p&gt;
+
+    &lt;p&gt;Ele fornece vários modos de conversão:&lt;/p&gt;
+
+    &lt;ul&gt;
+    &lt;li&gt;extrair componentes únicos de qualquer imagem vetorial.&lt;/li&gt;
+    &lt;li&gt; converter imagens RGB para escalar usando luminância como implementado em vtkImageLuminance (scalar = 0.30*R + 0.59*G + 0.11*B).&lt;/li&gt;
+    &lt;li&gt; computa a média de todos os componentes.&lt;/li&gt;
+    &lt;/ul&gt;
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="86"/>
@@ -10608,37 +10632,41 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Desenvolvido por Steve Pieper, Isomics, Inc.,
+parcialmente financiado pela bolsa NIH 3P41RR013218-12S1 (NAC) e faz parte da National Alliance
+for Medical Image Computing (NA-MIC), financiado pelos Institutos Nacionais de Saúde através do
+NIH Roadmap for Medical Research, Grant U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="87"/>
         <source>Luminance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Luminância</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(RGB,RGBA) Luminância dos três primeiros componentes: 0,30*R + 0,59*G + 0,11*B + 0,0*A)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="91"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Média</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="92"/>
         <source>Average all the components.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Média de todos os componentes.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="95"/>
         <source>Single Component Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extração de Componente Único</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="96"/>
         <source>Extract single component</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extrair componente único</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="271"/>
@@ -10653,7 +10681,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="275"/>
         <source>Please select a component to extract</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Por favor, selecione um componente para extrair</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="301"/>
@@ -10663,27 +10691,27 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="339"/>
         <source>no input volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nenhum nó de volume de entrada definido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="343"/>
         <source>no output volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nenhum nó de volume de saída definido</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">volume de entrada e saída são os mesmos. Crie um novo volume para a saída para evitar este erro.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="366"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">componente para extrair ({componentSelected}) é inválido. A imagem tem apenas os componentes {componentsTotal}.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="375"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">entrada tem apenas os componentes {componentsTotal}, mas requer pelo menos 3 componentes para conversão de luminância.</translation>
     </message>
 </context>
 <context>
@@ -14347,7 +14375,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
         <source>Show slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar reconstrução de superfície</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="649"/>
@@ -14698,7 +14726,7 @@ Deseja prosseguir com a alteração da representação principal?</translation>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1234"/>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soma</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1237"/>
@@ -17955,17 +17983,17 @@ Capacidades gráficas deste computador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="125"/>
         <source>Input ROI is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entrada ROI está sob uma transformação não-linear.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="138"/>
         <source>Output volume is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volume de saída está sob uma transformação não-linear.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="149"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolação está desabilitada e o volume de entrada está sob uma transformação não-linear</translation>
     </message>
     <message>
         <source>Input ROI is under a non-linear tansform.</source>
@@ -18958,17 +18986,17 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1765"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você quer instalar &apos;%1&apos; agora?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1766"/>
         <source>Install extension ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instalar extensão?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1783"/>
         <source>Failed to install %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Falha para instalar a extensão %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1806"/>
