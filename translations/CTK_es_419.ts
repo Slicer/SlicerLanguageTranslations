@@ -2644,17 +2644,17 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
         <source>Ambient:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambiental:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="102"/>
         <source>Diffuse:</source>
-        <translation type="unfinished"></translation>
+        <translation>Difuso:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="122"/>
         <source>Specular:</source>
-        <translation type="unfinished"></translation>
+        <translation>Especular:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="139"/>
@@ -2664,7 +2664,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="142"/>
         <source>Power:</source>
-        <translation type="unfinished"></translation>
+        <translation>Intensidad:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="165"/>
@@ -2674,22 +2674,22 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="179"/>
         <source>Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualización:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="211"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preajuste:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="260"/>
         <source>Metallic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Metalidad:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="267"/>
         <source>Roughness:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rugosidad:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="294"/>
