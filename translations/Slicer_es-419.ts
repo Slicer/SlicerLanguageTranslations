@@ -17837,7 +17837,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="436"/>
         <source>Windowed Sinc</source>
-        <translation>Sinc-enventanado</translation>
+        <translation>Windowed Sinc</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="445"/>
