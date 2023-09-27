@@ -71,7 +71,7 @@
     <message>
         <location filename="Modules/CLI/AddScalarVolumes/AddScalarVolumes_tr.h" line="19"/>
         <source>Order of the polynomial interpolation that is used if two images have different geometry (origin, spacing, axis directions, or extents): 0 = nearest neighbor, 1 = linear, 2 = quadratic, 3 = cubic interpolation.</source>
-        <translation>Ordre de l&apos;interpolation polynomiale qui est utilisée si deux images ont une géométrie différente (origine, espacement, direction de l&apos;axe, ou d&apos;étendue)&#x202f;: 0 = plus proche voisin, 1 = linéaire, 2 = quadratique, 3 = interpolation cubique.</translation>
+        <translation>Ordre de l&apos;interpolation polynomiale qui est utilisée si deux images ont une géométrie différente (origine, espacement, direction de l&apos;axe, ou d&apos;étendue) : 0 = plus proche voisin, 1 = linéaire, 2 = quadratique, 3 = interpolation cubique.</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -346,7 +346,7 @@
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="6"/>
         <source>Hans Johnson(1,3,4); Kent Williams(1); Gregory Harris(1), Vincent Magnotta(1,2,3);  Andriy Fedorov(5); Ali Ghayoor(4) 1=University of Iowa Department of Psychiatry, 2=University of Iowa Department of Radiology, 3=University of Iowa Department of Biomedical Engineering, 4=University of Iowa Department of Electrical and Computer Engineering, 5=Surgical Planning Lab, Harvard  </source>
-        <translation>Hans Johnson(1,3,4)&#x202f;; Kent Williams(1)&#x202f;; Grégory Harris(1), Vincent Magnotta(1,2,3)&#x202f;; Andriy Fedorov(5)&#x202f;; Ali Ghayoor (4) 1 = Département de psychiatrie de l&apos;Université de l&apos;Iowa, 2 = Département de radiologie de l&apos;Université de l&apos;Iowa, 3 = Département de génie biomédical de l&apos;Université de l&apos;Iowa, 4 = Département de génie électrique et informatique de l&apos;Université de l&apos;Iowa, 5 = Laboratoire de planification chirurgicale , Harvard  </translation>
+        <translation>Hans Johnson(1,3,4) ; Kent Williams(1) ; Grégory Harris(1), Vincent Magnotta(1,2,3) ; Andriy Fedorov(5) ; Ali Ghayoor (4) 1 = Département de psychiatrie de l&apos;Université de l&apos;Iowa, 2 = Département de radiologie de l&apos;Université de l&apos;Iowa, 3 = Département de génie biomédical de l&apos;Université de l&apos;Iowa, 4 = Département de génie électrique et informatique de l&apos;Université de l&apos;Iowa, 5 = Laboratoire de planification chirurgicale , Harvard  </translation>
     </message>
     <message>
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="7"/>
@@ -906,7 +906,7 @@
         <location filename="Docs/_extracli/BRAINSFit_tr.h" line="121"/>
         <source>Maximum allowed displacements in image physical coordinates (mm) for BSpline control grid along each axis.  A value of 0.0 indicates that the problem should be unbounded.  NOTE:  This only constrains the BSpline portion, and does not limit the displacement from the associated bulk transform.  This can lead to a substantial reduction in computation time in the BSpline optimizer.
       </source>
-        <translation>Déplacements maximum autorisés dans les coordonnées physiques de l&apos;image (mm) pour la grille de contrôle BSpline le long de chaque axe. Une valeur de 0,0 indique que le problème doit être illimité. REMARQUE&#x202f;: Cela ne limite que la partie BSpline et ne limite pas le déplacement de la transformation en bloc associée. Cela peut conduire à une réduction substantielle du temps de calcul dans l&apos;optimiseur BSpline.
+        <translation>Déplacements maximum autorisés dans les coordonnées physiques de l&apos;image (mm) pour la grille de contrôle BSpline le long de chaque axe. Une valeur de 0,0 indique que le problème doit être illimité. REMARQUE : Cela ne limite que la partie BSpline et ne limite pas le déplacement de la transformation en bloc associée. Cela peut conduire à une réduction substantielle du temps de calcul dans l&apos;optimiseur BSpline.
       </translation>
     </message>
     <message>
@@ -1372,7 +1372,7 @@ REMARQUE qu&apos;il est suggéré d&apos;utiliser samplingPercentage au lieu de 
     This program collects together three common image processing tasks that all involve resampling an image volume: Resampling to a new resolution and spacing, applying a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </source>
         <translation>
-    Cet programe collect ensemble trois  three tâches de traitement d&apos;images commun qui impliquent tout  rééchantillonnage un volume d&apos;image&#x202f;: Rééchantillonnage à une nouvelle résolution et à un nouvel espacement, appliquent a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
+    Cet programe collect ensemble trois  three tâches de traitement d&apos;images commun qui impliquent tout  rééchantillonnage un volume d&apos;image : Rééchantillonnage à une nouvelle résolution et à un nouvel espacement, appliquent a transformation (using an ITK transform IO mechanisms) and Warping (using a vector image deformation field).
   </translation>
     </message>
     <message>
@@ -3038,7 +3038,7 @@ Le MCDE ne présente pas les propriétés d&apos;amélioration des bords de la d
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="55"/>
         <source>The only supported output type is &apos;short&apos;. Conversion from images of a different type may cause data loss due to rounding or truncation. Use with caution!</source>
-        <translation>Le seul type de sortie pris en charge est « court ». La conversion à partir d&apos;images d&apos;un type différent peut entraîner une perte de données due à l&apos;arrondi ou à la troncature. Utiliser avec précaution&#x202f;!</translation>
+        <translation>Le seul type de sortie pris en charge est « court ». La conversion à partir d&apos;images d&apos;un type différent peut entraîner une perte de données due à l&apos;arrondi ou à la troncature. Utiliser avec précaution !</translation>
     </message>
     <message>
         <location filename="Docs/_extracli/DWIConvert_tr.h" line="56"/>
@@ -4094,7 +4094,7 @@ Ce filtre est utilisé pour lisser les minima locaux sans affecter les valeurs d
 
 Ce filtre utilise le itkGrayscaleGeodesicErodeImageFilter. Il fournit sa propre entrée en tant qu&apos;entrée &quot;masque&quot; à l&apos;érosion géodésique. L&apos;image &quot;marqueur&quot; pour l&apos;érosion géodésique est construite de sorte que les pixels limites correspondent aux pixels limites de l&apos;image d&apos;entrée et que les pixels intérieurs soient réglés sur la valeur de pixel maximale dans l&apos;image d&apos;entrée.
 
-  La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis&#x202f;: Principles and Applications&quot;, Second Edition, Springer, 2003.
+  La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis : Principles and Applications&quot;, Second Edition, Springer, 2003.
 
   Un filtre compagnon, Grayscale Grind Peak, supprime les pics dans les images en niveaux de gris.</translation>
     </message>
@@ -4162,7 +4162,7 @@ Ce filtre utilise le GrayscaleGeodesicDilateImageFilter. Il fournit sa propre en
 
 Ce filtre est le double du GrayscaleFillholeImageFilter qui implémente l&apos;algorithme Fillhole. Comme il s&apos;agit d&apos;un double, il est un peu superflu mais est fourni par commodité.
 
-La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis&#x202f;: Principles and Applications&quot;, Second Edition, Springer, 2003.
+La morphologie géodésique et l&apos;algorithme Fillhole sont décrits dans le chapitre 6 du livre de Pierre Soille &quot;Morphological Image Analysis : Principles and Applications&quot;, Second Edition, Springer, 2003.
 
 Un filtre compagnon, Grayscale Fill Hole, comble les trous dans les images en niveaux de gris.</translation>
     </message>
@@ -5257,7 +5257,7 @@ Le filtre suppose que la source et la référence sont du même type et que les 
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="5"/>
         <source>Performs image bias correction using N4 algorithm. This module is based on the ITK filters contributed in the following publication:  Tustison N, Gee J &quot;N4ITK: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https://hdl.handle.net/10380/3053</source>
-        <translation>Effectue une correction du biais d&apos;image à l&apos;aide de l&apos;algorithme N4. Ce module est basé sur les filtres ITK contribués dans la publication suivante&#x202f;: Tustison N, Gee J &quot;N4ITK&#x202f;: Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https&#x202f;://hdl.handle.net /10380/3053</translation>
+        <translation>Effectue une correction du biais d&apos;image à l&apos;aide de l&apos;algorithme N4. Ce module est basé sur les filtres ITK contribués dans la publication suivante : Tustison N, Gee J &quot;N4ITK : Nick&apos;s N3 ITK Implementation For MRI Bias Field Correction&quot;, The Insight Journal 2009 January-June, https ://hdl.handle.net /10380/3053</translation>
     </message>
     <message>
         <location filename="Modules/CLI/N4ITKBiasFieldCorrection/N4ITKBiasFieldCorrection_tr.h" line="6"/>
@@ -6245,7 +6245,7 @@ Préservation de la direction principale (PPD)</translation>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="45"/>
         <source>Chooses between 2 methods to transform the tensors: Finite Strain (FS), faster but less accurate, or Preservation of the Principal Direction (PPD)</source>
-        <translation>Choisi entre 2 methodes pour transformer les tensors&#x202f;: Finite Strain (FS), plus vite mais moins précis ou Preservation of the Principal Direction (PPD)</translation>
+        <translation>Choisi entre 2 methodes pour transformer les tensors : Finite Strain (FS), plus vite mais moins précis ou Preservation of the Principal Direction (PPD)</translation>
     </message>
     <message>
         <location filename="Modules/CLI/ResampleDTIVolume/ResampleDTIVolume_tr.h" line="46"/>
@@ -7721,64 +7721,66 @@ a = transformation affine</translation>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="29"/>
         <source>This module can crop and resample a volume sequence to reduce its size for faster rendering and processing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce module peut recadrer et rééchantillonner une séquence de volume pour réduire sa taille pour un rendu et un traitement plus rapides.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="40"/>
         <source>
 This file was originally developed by Andras Lasso
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce fichier a été initialement développé par Andras Lasso
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="54"/>
         <source>Parameters</source>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="70"/>
         <source>Pick a sequence node of volumes that will be cropped and resampled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nœud de séquence de volumes qui sera recadré et rééchantillonné.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="71"/>
         <source>Input volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Séquence du volume d&apos;entrée&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="83"/>
         <source>(Overwrite input)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ecraser l&apos;entrée)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="86"/>
         <source>Pick a sequence node where the cropped and resampled volumes will be stored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un nœud de séquence où les volumes recadrés et rééchantillonnés seront stockés.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="87"/>
         <source>Output volume sequence: </source>
-        <translation type="unfinished"></translation>
+        <translation>Séquence du volume de sortie&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="102"/>
         <source>Select a crop volumes parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez les paramètres des volumes de récolte.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="109"/>
         <source>Go to Crop Volume module to edit cropping parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Accédez au module Crop Volume pour modifier les paramètres de recadrage.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="112"/>
         <source>Crop volume settings: </source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres du volume de recadrage&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/CropVolumeSequence/CropVolumeSequence.py" line="119"/>
         <source>Run the algorithm.</source>
-        <translation type="unfinished">Exécutez l&apos;algorithme.</translation>
+        <translation>Exécutez l&apos;algorithme.</translation>
     </message>
 </context>
 <context>
@@ -8070,7 +8072,7 @@ This file was originally developed by Andras Lasso
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="403"/>
         <source>{missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</source>
         <oldsource>Warning: {missing_file_count} of {total_file_count} selected files listed in the database cannot be found on disk.</oldsource>
-        <translation type="unfinished">Avertissement : {missing_file_count} des fichiers sélectionnés {total_file_count} répertoriés dans la base de données sont introuvables sur le disque.</translation>
+        <translation>Avertissement : {missing_file_count} des fichiers sélectionnés {total_file_count} répertoriés dans la base de données sont introuvables sur le disque.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOMLib/DICOMBrowser.py" line="410"/>
@@ -8484,7 +8486,7 @@ This file was originally developed by Andras Lasso
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="71"/>
         <source>Install Slicer Diffusion Tools (SlicerDMRI)</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer les outils de diffusion Slicer (SlicerDMRI)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="80"/>
@@ -8493,22 +8495,26 @@ This file was originally developed by Andras Lasso
     Technology For Brain Cancer Research), and made possible by NA-MIC, NAC,
     BIRN, NCIGT, and the Slicer Community.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    SlicerDMRI pris en charge par NIH NCI ITCR U01CA199459 (IRM de diffusion Open Source
+    Technology For Brain Cancer Research), et rendu possible par NA-MIC, NAC,
+    BIRN, NCIGT et la communauté Slicer.
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="101"/>
         <source>Installs the &quot;SlicerDMRI&quot; extension from the Diffusion category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installe l&apos;extension &quot;SlicerDMRI&quot; de la catégorie Diffusion.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="117"/>
         <source>SlicerDMRI is already installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerDMRI est déjà installé.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DMRIInstall/DMRIInstall.py" line="127"/>
         <source>Restart to complete SlicerDMRI installation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer pour terminer l&apos;installation de SlicerDMRI&#xa0;?</translation>
     </message>
 </context>
 <context>
@@ -8606,7 +8612,7 @@ Le module Sonde de données est utilisé pour obtenir des informations sur la po
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="25"/>
         <source>Endoscopy</source>
-        <translation type="unfinished">Endoscopie</translation>
+        <translation>Endoscopie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="37"/>
@@ -8619,7 +8625,15 @@ The Frame Skip slider speeds up the animation by skipping points on the path.
 The Frame Delay slider slows down the animation by adding more time between frames.
 The View Angle provides is used to approximate the optics of an endoscopy system.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Créez un modèle de chemin sous la forme d&apos;une interpolation spline d&apos;un ensemble de points de référence.
+Choisissez la caméra à modifier par le chemin et la liste de repères définissant les points de contrôle.
+Cliquer sur &quot;Créer un chemin&quot; créera un modèle de chemin et activera le panneau de survol.
+Vous pouvez faire défiler manuellement le chemin avec le curseur Cadre. Le bouton Lecture/Pause active le survol animé.
+Le curseur Frame Skip accélère l’animation en sautant des points sur le chemin.
+Le curseur Frame Delay ralentit l’animation en ajoutant plus de temps entre les images.
+L&apos;angle de vue fourni est utilisé pour se rapprocher de l&apos;optique d&apos;un système d&apos;endoscopie.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="50"/>
@@ -8628,78 +8642,82 @@ This work is supported by PAR-07-249: R01CA131718 NA-MIC Virtual Colonoscopy
 (See &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
 NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce travail est soutenu par PAR-07-249&#xa0;: R01CA131718 Coloscopie virtuelle NA-MIC
+(Voir &lt;a&gt;https://www.na-mic.org/Wiki/index.php/NA-MIC_NCBC_Collaboration:NA-MIC_virtual_colonoscopy&lt;/a&gt;)
+NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="74"/>
         <source>Path</source>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="83"/>
         <source>Select a camera that will fly along this path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une caméra qui volera le long de ce chemin.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="95"/>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="106"/>
         <source>Select a fiducial list to define control points for the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez une liste de repères pour définir les points de contrôle du chemin.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="100"/>
         <source>Input Fiducials:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicateurs d&apos;entrée&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="112"/>
         <source>Output Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="115"/>
         <source>Create path</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un chemin</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="117"/>
         <source>Create the path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez le chemin.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="124"/>
         <source>Flythrough</source>
-        <translation type="unfinished"></translation>
+        <translation>VolerAtravers</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="134"/>
         <source>Frame:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadre :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="142"/>
         <source>Frame skip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Saut d&apos;image&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="152"/>
         <source>Frame delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Retard de trame&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="160"/>
         <source>View Angle:</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle de vue :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="163"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Jouer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/Endoscopy/Endoscopy.py" line="165"/>
         <source>Fly through path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Volez à travers le chemin.</translation>
     </message>
 </context>
 <context>
@@ -8715,32 +8733,32 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="17"/>
         <source>Import ITK-Snap label description</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer la description de l&apos;étiquette ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="21"/>
         <source>Load ITK-Snap label description file (.label or .txt).</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargez le fichier de description de l&apos;étiquette ITK-Snap (.label ou .txt).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="43"/>
         <source>ITK-Snap label description file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier de description des étiquettes ITK-Snap</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="72"/>
         <source>Segmentation</source>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentation</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="87"/>
         <source>Failed to load file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement du fichier&#xa0;: </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ImportItkSnapLabel/ImportItkSnapLabel.py" line="139"/>
         <source>Syntax error in line {line}</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de syntaxe à la ligne {line}</translation>
     </message>
 </context>
 <context>
@@ -8763,7 +8781,9 @@ NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community.
         <source>
 This module provides data sets that can be used for testing 3D Slicer.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module fournit des ensembles de données qui peuvent être utilisés pour tester 3D Slicer.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="94"/>
@@ -8780,130 +8800,142 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Ce travail a été financé en partie par Action Cancer Ontario.
+et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)&lt;/p&gt;
+
+&lt;p&gt;Les ensembles de données MRHead, CBCT-MR Head et CT-MR Brain ont été donnés au projet 3D Slicer par les personnes visibles sur les images, pour être utilisés sans aucune restriction.&lt;/p&gt;
+
+&lt;p&gt;L&apos;ensemble de données CTLiver provient du &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;projet Medical Decathlon&lt;/a&gt; (imagesTr/liver_100.nii.gz dans la collection Task03_Liver).
+avec une licence de droit d&apos;auteur permissive (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), permettant le partage et la distribution des données et amélioré.&lt;/p&gt;
+
+&lt;p&gt;L&apos;ensemble de données CTA sur l&apos;abdomen (Panoramix) provient de la &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt;bibliothèque d&apos;images Osirix DICOM&lt;/a&gt;
+et est exclusivement disponible pour la recherche et l’enseignement. Vous n&apos;êtes pas autorisé à le redistribuer ou à le vendre, ou
+utilisez-le à des fins commerciales.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="109"/>
         <source>Download Sample Data</source>
-        <translation type="unfinished">Télécharger des exemples de données</translation>
+        <translation>Télécharger des exemples de données</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="110"/>
         <source>Go to the SampleData module to download data from the network</source>
-        <translation type="unfinished"></translation>
+        <translation>Accédez au module SampleData pour télécharger les données du réseau</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="509"/>
         <source>General</source>
-        <translation type="unfinished">Général</translation>
+        <translation>Général</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="510"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Développement</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="631"/>
         <source>Failed to create cache folder {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la création du dossier de cache {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="633"/>
         <source>Cache folder {path} is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation>Le dossier cache {path} n&apos;est pas accessible en écriture</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="677"/>
         <source>Download failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement (tentative {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="716"/>
         <source>Load failed (attempt {current} of {total}). Unable to delete and try again loading {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement (tentative {current} de {total}). Impossible de supprimer et réessayer en chargeant {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="720"/>
         <source>Load failed (attempt {current} of {total})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement (tentative {current} de {total})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="850"/>
         <source>Downloaded {sizeCompleted} ({percentCompleted}% of {sizeTotal})...</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargé {sizeCompleted} ({percentCompleted}% de {sizeTotal})...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="866"/>
         <source>Requesting download {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de téléchargement de {name} depuis {uri}...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="869"/>
         <source>Download finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement terminé</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="871"/>
         <source>Download failed: {errorMessage}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement&#xa0;: {errorMessage}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="872"/>
         <source>Failed to download {uri} to {filePath}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement de {uri} vers {filePath}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="875"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="887"/>
         <source>Verifying checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérification de la somme de contrôle</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="879"/>
         <source>Checksum verification failed. Computed checksum {currentChecksum} different from expected checksum {expectedChecksum}</source>
-        <translation type="unfinished"></translation>
+        <translation>La vérification de la somme de contrôle a échoué. La somme de contrôle calculée {currentChecksum} est différente de la somme de contrôle attendue {expectedChecksum}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="884"/>
         <source>Checksum OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Somme de contrôle OK</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="890"/>
         <source>File already exists in cache but checksum is different - re-downloading it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier existe déjà dans le cache mais la somme de contrôle est différente - retéléchargez-le.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="895"/>
         <source>File already exists and checksum is OK - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier existe déjà et la somme de contrôle est OK - je le réutilise.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="898"/>
         <source>File already exists in cache - reusing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier existe déjà dans le cache - je le réutilise.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="902"/>
         <source>Requesting load {uri}</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de chargement {uri}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="906"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="921"/>
         <source>Load failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement raté !</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="908"/>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="924"/>
         <source>Load finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement terminé</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="912"/>
         <source>Requesting load {name} from {uri} ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de chargement de {name} à partir de {uri}...</translation>
     </message>
 </context>
 <context>
@@ -8994,7 +9026,7 @@ use it for commercial purposes.&lt;/p&gt;
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="26"/>
         <source>Screen Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="33"/>
@@ -9002,7 +9034,10 @@ use it for commercial purposes.&lt;/p&gt;
 This module captures image sequences and videos
 from dynamic contents shown in 3D and slice viewers.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module capture des séquences d&apos;images et des vidéos
+à partir de contenus dynamiques affichés dans les visionneuses 3D et slice.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="45"/>
@@ -9010,414 +9045,418 @@ from dynamic contents shown in 3D and slice viewers.
 This work was was funded by Cancer Care Ontario
 and the Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce travail a été financé par Action Cancer Ontario
+et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO)
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="76"/>
         <source>Input</source>
-        <translation type="unfinished">Entrée</translation>
+        <translation>Entrée</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="89"/>
         <source>This slice or 3D view will be updated during capture.Only this view will be captured unless &apos;Capture of all views&apos; option in output section is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette tranche ou vue 3D sera mise à jour lors de la capture. Seule cette vue sera capturée à moins que l&apos;option « Capture de toutes les vues » dans la section de sortie ne soit activée.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="90"/>
         <source>Main view: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vue principale : </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="94"/>
         <source>If checked, all views will be captured. If unchecked then only the selected view will be captured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, toutes les vues seront capturées. Si cette case n&apos;est pas cochée, seule la vue sélectionnée sera capturée.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="95"/>
         <source>Capture all views:</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturez toutes les vues&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="99"/>
         <source>Select the property that will be adjusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la propriété qui sera ajustée</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="100"/>
         <source>Animation mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode animation&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="103"/>
         <source>Start sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage de début de balayage&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="109"/>
         <source>Start slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrez le décalage du balayage de tranche.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="113"/>
         <source>End sweep offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage de fin de balayage&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="119"/>
         <source>End slice sweep offset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Décalage de balayage de tranche de fin.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="123"/>
         <source>Rotation range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plage de rotation&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="130"/>
         <source>View rotation range, relative to current view orientation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plage de rotation de la vue, par rapport à l&apos;orientation actuelle de la vue.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="134"/>
         <source>Rotation axis:</source>
-        <translation type="unfinished">Axe de rotation :</translation>
+        <translation>Axe de rotation :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="137"/>
         <source>Yaw</source>
-        <translation type="unfinished"></translation>
+        <translation>Embardée</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="138"/>
         <source>Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="142"/>
         <source>Sequence:</source>
-        <translation type="unfinished">Séquence :</translation>
+        <translation>Séquence :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="150"/>
         <source>Items defined by this sequence browser will be replayed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les éléments définis par ce navigateur de séquences seront relus.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="154"/>
         <source>Start index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indice de départ&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="158"/>
         <source>First item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Premier élément de la séquence à capturer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="162"/>
         <source>End index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indice de fin&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="166"/>
         <source>Last item in the sequence to capture.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dernier élément de la séquence à capturer.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="174"/>
         <source>Output</source>
-        <translation type="unfinished">Sortie</translation>
+        <translation>Sortie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="179"/>
         <source>Select how captured images will be saved. Video mode requires setting of ffmpeg executable path in Advanced section.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la manière dont les images capturées seront enregistrées. Le mode vidéo nécessite la définition du chemin de l&apos;exécutable ffmpeg dans la section Avancé.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="180"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="702"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="787"/>
         <source>image series</source>
-        <translation type="unfinished"></translation>
+        <translation>série d&apos;images</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="181"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="479"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="666"/>
         <source>video</source>
-        <translation type="unfinished"></translation>
+        <translation>vidéo</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="182"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="480"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="782"/>
         <source>lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>image de la visionneuse</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="183"/>
         <source>Output type:</source>
-        <translation type="unfinished">Type de sortie :</translation>
+        <translation>Type de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="193"/>
         <source>Number of images extracted between start and stop positions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;images extraites entre les positions de début et d&apos;arrêt.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="197"/>
         <source>single</source>
-        <translation type="unfinished"></translation>
+        <translation>unique</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="203"/>
         <source>Capture a single image of current state only.
 New filename is generated for each captured image (no files are overwritten).</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturez une seule image de l’état actuel uniquement.
+Un nouveau nom de fichier est généré pour chaque image capturée (aucun fichier n&apos;est écrasé).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="206"/>
         <source>Number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre d&apos;images&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="212"/>
         <source>Output directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="218"/>
         <source>String that defines file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaîne qui définit le nom et le type du fichier.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="220"/>
         <source>SlicerCapture.avi</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCapture.avi</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="223"/>
         <source>String that defines output lightbox file name and type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaîne qui définit le nom et le type du fichier Lightbox de sortie.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="225"/>
         <source>SlicerCaptureLightbox.png</source>
-        <translation type="unfinished"></translation>
+        <translation>SlicerCaptureLightbox.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="230"/>
         <source>Output file name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du fichier de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="237"/>
         <source>Video format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format vidéo :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="246"/>
         <source>Length of the exported video in seconds (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Durée de la vidéo exportée en secondes (sans retour en arrière ni répétition).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="248"/>
         <source>Video length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Durée de la vidéo&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="257"/>
         <source>Frame rate in frames per second.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fréquence d&apos;images en images par seconde.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="259"/>
         <source>Video frame rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Frame rate vidéo :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="266"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avancé</translation>
+        <translation>Avancé</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="272"/>
         <source>If checked, image series will be generated playing forward and then backward.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, une série d&apos;images sera générée en jouant en avant puis en arrière.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="273"/>
         <source>Forward-backward:</source>
-        <translation type="unfinished"></translation>
+        <translation>En avant en arrière :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="282"/>
         <source>Number of times image series are repeated. Useful for making short videos longer for playback in software that does not support looped playback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de fois où les séries d’images sont répétées. Utile pour créer des vidéos courtes plus longues à lire dans un logiciel qui ne prend pas en charge la lecture en boucle.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="283"/>
         <source>Repeat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Répéter :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="291"/>
         <source>Set the path to ffmpeg executable. Download from: https://www.ffmpeg.org/</source>
-        <translation type="unfinished"></translation>
+        <translation>Définissez le chemin d&apos;accès à l&apos;exécutable ffmpeg. Télécharger depuis&#xa0;: https://www.ffmpeg.org/</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="292"/>
         <source>ffmpeg executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>exécutable ffmpeg&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="296"/>
         <source>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Set valid ffmpeg executable path! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Help...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Définissez un chemin d&apos;accès exécutable ffmpeg valide&#xa0;! &lt;a href=&quot;https://slicer.readthedocs.io/en/latest/user_guide/modules/screencapture.html#setting-up-ffmpeg&quot;&gt;Aide...&lt;/a&gt;&lt;/font&gt;&lt;/b&gt; &lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="304"/>
         <source>Additional video conversion options passed to ffmpeg. Parameters -i (input files), -y(overwrite without asking), -r (frame rate), -start_number are specified by the module and thereforeshould not be included in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Options de conversion vidéo supplémentaires transmises à ffmpeg. Les paramètres -i (fichiers d&apos;entrée), -y (écraser sans demander), -r (cadence d&apos;images), -start_number sont spécifiés par le module et ne doivent donc pas être inclus dans cette liste.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="305"/>
         <source>Video extra options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Options supplémentaires vidéo&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="309"/>
         <source>String that defines file name, type, and numbering scheme. Default: image%05d.png.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaîne qui définit le nom, le type et le schéma de numérotation du fichier. Par défaut&#xa0;: image%05d.png.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>image_%05d.png</source>
-        <translation type="unfinished"></translation>
+        <translation>image_%05d.png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="311"/>
         <source>Image file name pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de nom de fichier image&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="319"/>
         <source>Number of columns in lightbox image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de colonnes dans l&apos;image lightbox</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="320"/>
         <source>Lightbox image columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonnes d&apos;images Lightbox&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="326"/>
         <source>Maximum number of images to be captured (without backward steps and repeating).</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre maximum d&apos;images à capturer (sans retour en arrière ni répétition).</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="327"/>
         <source>Maximum number of images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre maximum d&apos;images&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="332"/>
         <source>Screenshot</source>
-        <translation type="unfinished">Capture d&apos;écran</translation>
+        <translation>Capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="336"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un nœud de volume pour stocker l&apos;image capturée dans la scène au lieu de simplement l&apos;écrire immédiatement sur le disque. Nécessite que la sortie « Nombre d’images » soit définie sur 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
         <source>Output volume node:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de volume de sortie&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="342"/>
         <source>If checked, images will be captured with view controllers visible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, les images seront capturées avec les contrôleurs de vue visibles.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="343"/>
         <source>View controllers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les contrôleurs&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="347"/>
         <source>If checked, images will be captured with transparent background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, les images seront capturées avec un arrière-plan transparent.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="348"/>
         <source>Transparent background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrière-plan transparent :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="354"/>
         <source>If checked, selected watermark image will be added to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette case est cochée, l’image en filigrane sélectionnée sera ajoutée à toutes les images exportées.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="359"/>
         <source>Add a watermark image to all exported images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajoutez une image en filigrane à toutes les images exportées.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="373"/>
         <source>Size scaling applied to the watermark image. 100% is original size</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à l&apos;échelle de la taille appliquée à l&apos;image du filigrane. 100&#xa0;% est la taille originale</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="387"/>
         <source>Opacity of the watermark image. 100% is fully opaque.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacité de l&apos;image du filigrane. 100 % est entièrement opaque.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="399"/>
         <source>Watermark image file in png format</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier image en filigrane au format png</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="403"/>
         <source>Position:</source>
-        <translation type="unfinished">Position :</translation>
+        <translation>Position :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="405"/>
         <source>Size:</source>
-        <translation type="unfinished">Taille :</translation>
+        <translation>Taille :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="407"/>
         <source>Opacity:</source>
-        <translation type="unfinished">Opacité :</translation>
+        <translation>Opacité :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="410"/>
         <source>Watermark image:</source>
-        <translation type="unfinished"></translation>
+        <translation>Image en filigrane&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="418"/>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturer</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="419"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="421"/>
         <source>Capture slice sweep to image sequence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturez le balayage de tranche vers la séquence d&apos;images.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="426"/>
         <source>Show created output file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le fichier de sortie créé.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="529"/>
@@ -9428,13 +9467,13 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="545"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="730"/>
         <source>slice sweep</source>
-        <translation type="unfinished"></translation>
+        <translation>balayage de coupes</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="530"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="734"/>
         <source>slice fade</source>
-        <translation type="unfinished"></translation>
+        <translation>fondu de coupe</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="532"/>
@@ -9444,7 +9483,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="566"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="737"/>
         <source>3D rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation 3D</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="534"/>
@@ -9457,27 +9496,27 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="576"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="743"/>
         <source>sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>séquence</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="686"/>
         <source>Video encoder not detected on your system. Download ffmpeg video encoder?</source>
-        <translation type="unfinished"></translation>
+        <translation>Encodeur vidéo non détecté sur votre système. Télécharger l&apos;encodeur vidéo ffmpeg&#xa0;?</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="687"/>
         <source>Download confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmation de téléchargement</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="689"/>
         <source>ffmpeg download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Le téléchargement de ffmpeg a échoué</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="713"/>
         <source>View controllers are only available to be shown when capturing all views.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les contrôleurs de vue ne peuvent être affichés que lors de la capture de toutes les vues.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="726"/>
@@ -9486,93 +9525,93 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1318"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1364"/>
         <source>Write {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Écrivez {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="728"/>
         <source>Write to volume node &apos;{volumeName}&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Écrire sur le nœud de volume &apos;{volumeName}&apos;</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="764"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="771"/>
         <source>Copy to {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier vers {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="789"/>
         <source>Done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fait.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="793"/>
         <source>Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="825"/>
         <source>H.264</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="826"/>
         <source>H.264 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>H.264 (haute qualité)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="827"/>
         <source>MPEG-4</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="828"/>
         <source>MPEG-4 (high-quality)</source>
-        <translation type="unfinished"></translation>
+        <translation>MPEG-4 (haute qualité)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="829"/>
         <source>Animated GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animé</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="830"/>
         <source>Animated GIF (grayscale)</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF animé (niveaux de gris)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1057"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1092"/>
         <source>Capture image from view failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La capture de l&apos;image à partir de la vue a échoué</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1121"/>
         <source>Invalid vector volume node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de volume vectoriel non valide.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1135"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1144"/>
         <source>Unsupported image format based on file name {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Format d&apos;image non pris en charge basé sur le nom de fichier {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1194"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1219"/>
         <source>Invalid view node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nœud de vue non valide.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1206"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1216"/>
         <source>Selected 3D view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>La vue 3D sélectionnée n&apos;est pas visible dans la présentation actuelle.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1227"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1257"/>
         <source>Selected slice view is not visible in the current layout.</source>
-        <translation type="unfinished"></translation>
+        <translation>La vue en coupe sélectionnée n&apos;est pas visible dans la présentation actuelle.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1249"/>
@@ -9580,52 +9619,52 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1342"/>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1371"/>
         <source>User requested cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;utilisateur a demandé l&apos;annulation.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1374"/>
         <source>Export to lightbox image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter vers l&apos;image lightbox...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1415"/>
         <source>Lighbox image saved to file: {filename}</source>
-        <translation type="unfinished"></translation>
+        <translation>Image Lightbox enregistrée dans un fichier&#xa0;: {filename}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1418"/>
         <source>Export to video...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter vers la vidéo...</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1424"/>
         <source>Video creation failed: ffmpeg executable path is not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la création vidéo&#xa0;: le chemin de l&apos;exécutable ffmpeg n&apos;est pas défini</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1426"/>
         <source>Video creation failed: ffmpeg executable path is invalid: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la création de la vidéo&#xa0;: le chemin de l&apos;exécutable ffmpeg n&apos;est pas valide&#xa0;: {path}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1439"/>
         <source>Start ffmpeg:</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrez ffmpeg&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1445"/>
         <source>ffmpeg error output: {error}</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie d&apos;erreur ffmpeg&#xa0;: {error}</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1446"/>
         <source>ffmpeg returned with error</source>
-        <translation type="unfinished"></translation>
+        <translation>ffmpeg renvoyé avec une erreur</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="1448"/>
         <source>Video export succeeded to file: {path}</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;exportation vidéo a réussi vers le fichier&#xa0;: {path}</translation>
     </message>
 </context>
 <context>
@@ -9634,7 +9673,7 @@ New filename is generated for each captured image (no files are overwritten).</s
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="15"/>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="117"/>
         <source>Segment Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur de segments</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="23"/>
@@ -9643,7 +9682,11 @@ This module allows editing segmentation objects by directly drawing and using se
 Representations other than the labelmap one (which is used for editing) are automatically updated real-time,
 so for example the closed surface can be visualized as edited in the 3D view.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce module permet d&apos;éditer des objets de segmentation en dessinant et en utilisant directement des outils de segmentation sur les segments contenus.
+Les représentations autres que celle du labelmap (qui est utilisée pour l&apos;édition) sont automatiquement mises à jour en temps réel,
+Ainsi, par exemple, la surface fermée peut être visualisée telle qu&apos;éditée dans la vue 3D.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="29"/>
@@ -9651,12 +9694,15 @@ so for example the closed surface can be visualized as edited in the 3D view.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce travail fait partie du projet SparKit, financé par le programme ACRU d&apos;Action Cancer Ontario (CCO).
+et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO).
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentEditor/SegmentEditor.py" line="117"/>
         <source>Segment Editor is not compatible with slice viewers in light box mode.Views are being reset.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;éditeur de segments n&apos;est pas compatible avec les visionneuses de tranches en mode caisson lumineux. Les vues sont en cours de réinitialisation.</translation>
     </message>
 </context>
 <context>
@@ -10131,7 +10177,7 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="132"/>
         <source>Select measurements: </source>
-        <translation>Sélectionner des mesures&#x202f;: - </translation>
+        <translation>Sélectionner des mesures : - </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SegmentStatistics/SegmentStatisticsPlugins/SegmentStatisticsPluginBase.py" line="133"/>
@@ -10165,7 +10211,10 @@ Soutenu par NA-MIC, NAC, BIRN, NCIGT et la communauté Slicer. Voir https://www.
 The SelfTests module allows developers to provide built-in self-tests (BIST) for slicer so that users can tell
 if their installed version of slicer are running as designed.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Le module SelfTests permet aux développeurs de fournir des autotests intégrés (BIST) pour slicer afin que les utilisateurs puissent savoir
+si leur version installée du slicer fonctionne comme prévu.
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SelfTests/SelfTests.py" line="53"/>
@@ -10173,7 +10222,10 @@ if their installed version of slicer are running as designed.
 This work is part of SparKit project, funded by Cancer Care Ontario (CCO)&apos;s ACRU program
 and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO).
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ce travail fait partie du projet SparKit, financé par le programme ACRU d&apos;Action Cancer Ontario (CCO).
+et le Consortium ontarien pour les interventions adaptatives en radio-oncologie (OCAIRO).
+</translation>
     </message>
 </context>
 <context>
@@ -10289,7 +10341,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Libs/MRML/Core/Testing/vtkMRMLI18NTest1.cxx" line="58"/>
         <source>SomeMessage</source>
-        <translation type="unfinished"></translation>
+        <translation>Quelques messages</translation>
     </message>
 </context>
 <context>
@@ -10470,7 +10522,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="212"/>
         <source>Database location:</source>
-        <translation>Emplacement de la base de données&#x202f;:</translation>
+        <translation>Emplacement de la base de données :</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/DICOM/Resources/UI/DICOM.ui" line="229"/>
@@ -10553,7 +10605,7 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="58"/>
         <source>Vector to Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume vectoriel en volume scalaire</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="74"/>
@@ -10568,7 +10620,17 @@ and Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)
     &lt;li&gt;computes the mean of all the components.&lt;/li&gt;
     &lt;/ul&gt;
     </source>
-        <translation type="unfinished"></translation>
+        <translation>
+    &lt;p&gt;Créez un volume scalaire (1 composant) à partir d&apos;un volume vectoriel.&lt;/p&gt;
+
+    &lt;p&gt;Il propose plusieurs modes de conversion&#xa0;:&lt;/p&gt;
+
+    &lt;ul&gt;
+    &lt;li&gt;extraire des composants uniques de n&apos;importe quelle image vectorielle.&lt;/li&gt;
+    &lt;li&gt;convertissez les images RVB en scalaires en utilisant la luminance telle qu&apos;implémentée dans vtkImageLuminance (scalaire = 0,30*R + 0,59*G + 0,11*B).&lt;/li&gt;
+    &lt;li&gt;calcule la moyenne de toutes les composantes.&lt;/li&gt;
+    &lt;/ul&gt;
+    </translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="86"/>
@@ -10577,82 +10639,86 @@ Developed by Steve Pieper, Isomics, Inc.,
 partially funded by NIH grant 3P41RR013218-12S1 (NAC) and is part of the National Alliance
 for Medical Image Computing (NA-MIC), funded by the National Institutes of Health through the
 NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Développé par Steve Pieper, Isomics, Inc.,
+partiellement financé par la subvention NIH 3P41RR013218-12S1 (NAC) et fait partie de l&apos;Alliance nationale
+for Medical Image Computing (NA-MIC), financé par les National Institutes of Health à travers le
+Feuille de route des NIH pour la recherche médicale, subvention U54 EB005149.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="87"/>
         <source>Luminance</source>
-        <translation type="unfinished"></translation>
+        <translation>Luminance</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="88"/>
         <source>(RGB,RGBA) Luminance from first three components: 0.30*R + 0.59*G + 0.11*B + 0.0*A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RVB, RVBA) Luminance des trois premières composantes&#xa0;: 0,30*R + 0,59*G + 0,11*B + 0,0*A)</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="91"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Moyenne</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="92"/>
         <source>Average all the components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faites la moyenne de tous les composants.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="95"/>
         <source>Single Component Extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraction d&apos;un seul composant</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="96"/>
         <source>Extract single component</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraire un seul composant</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="271"/>
         <source>Please select Input Vector Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner le volume vectoriel d&apos;entrée</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="273"/>
         <source>Please select Output Scalar Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner le volume scalaire de sortie</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="275"/>
         <source>Please select a component to extract</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez sélectionner un composant à extraire</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="301"/>
         <source>Failed to compute results.</source>
-        <translation type="unfinished">Échec du calcul des résultats.</translation>
+        <translation>Échec du calcul des résultats.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="339"/>
         <source>no input volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>aucun nœud de volume d&apos;entrée défini</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="343"/>
         <source>no output volume node defined</source>
-        <translation type="unfinished"></translation>
+        <translation>aucun nœud de volume de sortie défini</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="348"/>
         <source>input and output volume is the same. Create a new volume for output to avoid this error.</source>
-        <translation type="unfinished"></translation>
+        <translation>le volume d&apos;entrée et de sortie est le même. Créez un nouveau volume de sortie pour éviter cette erreur.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="366"/>
         <source>component to extract ({componentSelected}) is invalid. Image has only {componentsTotal} components.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le composant à extraire ({componentSelected}) n&apos;est pas valide. L&apos;image ne contient que {componentsTotal}&#xa0;composants.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/VectorToScalarVolume/VectorToScalarVolume.py" line="375"/>
         <source>input has only {componentsTotal} components but requires at least 3 components for luminance conversion.</source>
-        <translation type="unfinished"></translation>
+        <translation>l&apos;entrée n&apos;a que des composants {componentsTotal} mais nécessite au moins 3 composants pour la conversion de luminance.</translation>
     </message>
 </context>
 <context>
@@ -10696,7 +10762,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLCaptureToolBar.cxx" line="178"/>
         <source>SceneView Name:</source>
-        <translation>Nom de la vue de scène&#x202f;:</translation>
+        <translation>Nom de la vue de scène :</translation>
     </message>
 </context>
 <context>
@@ -11044,13 +11110,13 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="72"/>
         <source>&amp;Clip:</source>
-        <translation>&amp;Découpage&#x202f;:</translation>
+        <translation>&amp;Découpage :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="89"/>
         <source>Slice &amp;Intersections Visibility:</source>
         <oldsource>Slice &amp;Intersections Visible:</oldsource>
-        <translation>Coupe &amp; intersections visibles&#x202f;:</translation>
+        <translation>Coupe &amp; intersections visibles :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLDisplayNodeWidget.ui" line="106"/>
@@ -11375,7 +11441,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="266"/>
         <source>Fill:</source>
-        <translation>Remplir&#x202f;:</translation>
+        <translation>Remplir :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="273"/>
@@ -11390,12 +11456,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="318"/>
         <source>Unselected Color:</source>
-        <translation>Couleur non sélectionnée&#x202f;:</translation>
+        <translation>Couleur non sélectionnée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="325"/>
         <source>Outline:</source>
-        <translation>Contour&#x202f;:</translation>
+        <translation>Contour :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="332"/>
@@ -11410,17 +11476,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="401"/>
         <source>Line Thickness:</source>
-        <translation>Épaisseur de ligne&#x202f;:</translation>
+        <translation>Épaisseur de ligne :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="408"/>
         <source>Selected Color:</source>
-        <translation>Couleur sélectionnée&#x202f;:</translation>
+        <translation>Couleur sélectionnée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="446"/>
         <source>Control Point Labels:</source>
-        <translation>Étiquettes des points de contrôle&#x202f;:</translation>
+        <translation>Étiquettes des points de contrôle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="460"/>
@@ -11430,17 +11496,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="475"/>
         <source>Occluded Visibility:</source>
-        <translation>Visibilité occultée&#x202f;:</translation>
+        <translation>Visibilité occultée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="513"/>
         <source>Placement mode:</source>
-        <translation>Mode placement&#x202f;:</translation>
+        <translation>Mode placement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="526"/>
         <source>Properties Label:</source>
-        <translation>Libellé des propriétés&#x202f;:</translation>
+        <translation>Libellé des propriétés :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="540"/>
@@ -11450,12 +11516,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="553"/>
         <source>Glyph Size:</source>
-        <translation>Taille du glyphe&#x202f;:</translation>
+        <translation>Taille du glyphe :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="573"/>
         <source>Text Size:</source>
-        <translation>Taille du texte&#x202f;:</translation>
+        <translation>Taille du texte :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsDisplayNodeWidget.ui" line="580"/>
@@ -11504,7 +11570,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="54"/>
         <source>Projection Color:</source>
-        <translation>Couleur projection&#x202f;:</translation>
+        <translation>Couleur projection :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsFiducialProjectionPropertyWidget.ui" line="67"/>
@@ -11603,7 +11669,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="308"/>
         <source>Enable rotation:</source>
-        <translation>Activer la rotation&#x202f;:</translation>
+        <translation>Activer la rotation :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsInteractionHandleWidget.ui" line="189"/>
@@ -11655,7 +11721,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="123"/>
         <source>Bounds:</source>
-        <translation>Bornes&#x202f;:</translation>
+        <translation>Bornes :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsPlaneWidget.ui" line="138"/>
@@ -11713,17 +11779,17 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="77"/>
         <source>L-R Range:</source>
-        <translation>Plage G/D&#x202f;:</translation>
+        <translation>Plage G/D :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="720"/>
         <source>P-A Range:</source>
-        <translation>Plage P-A&#x202f;:</translation>
+        <translation>Plage P-A :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="1996"/>
         <source>I-S Range:</source>
-        <translation>Plage I-S&#x202f;:</translation>
+        <translation>Plage I-S :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Widgets/Resources/UI/qMRMLMarkupsROIWidget.ui" line="2038"/>
@@ -11767,7 +11833,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Utilities/Templates/Modules/LoadableCustomMarkups/Widgets/Resources/UI/qMRMLMarkupsTestLineWidget.ui" line="50"/>
         <source>This is a test label in a test widget!</source>
-        <translation>Ceci est une étiquette de test dans un widget de test&#x202f;!</translation>
+        <translation>Ceci est une étiquette de test dans un widget de test !</translation>
     </message>
 </context>
 <context>
@@ -11849,7 +11915,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="104"/>
         <source>Clipping:</source>
-        <translation>Découpage&#x202f;:</translation>
+        <translation>Découpage :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="113"/>
@@ -11963,7 +12029,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="413"/>
         <source>Intersection: shows intersection of the model with the slice. Projection: shows the full model projected on the slice plane with solid color. Colored projection: shows the full model projected on the slice plane, colored by distance from the slice plane (overrides Active scalar selection).</source>
-        <translation>Intersection&#x202f;: affiche l&apos;intersection du modèle avec la coupe. Projection&#x202f;: affiche le modèle complet projeté sur le plan de coupe avec une couleur unie. Projection colorée&#x202f;: affiche le modèle complet projeté sur le plan de coupe, coloré en fonction de la distance par rapport au plan de coupe (remplace la sélection scalaire active).</translation>
+        <translation>Intersection : affiche l&apos;intersection du modèle avec la coupe. Projection : affiche le modèle complet projeté sur le plan de coupe avec une couleur unie. Projection colorée : affiche le modèle complet projeté sur le plan de coupe, coloré en fonction de la distance par rapport au plan de coupe (remplace la sélection scalaire active).</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Models/Widgets/Resources/UI/qMRMLModelDisplayNodeWidget.ui" line="417"/>
@@ -12281,7 +12347,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="35"/>
         <source>Plot data series:</source>
-        <translation>Tracé des séries de données&#x202f;:</translation>
+        <translation>Tracé des séries de données :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="45"/>
@@ -12291,7 +12357,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="72"/>
         <source>Chart title:</source>
-        <translation>Titre du graphique&#x202f;:</translation>
+        <translation>Titre du graphique :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="79"/>
@@ -12301,7 +12367,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="95"/>
         <source>X axis title:</source>
-        <translation>Titre de l&apos;axe X&#x202f;:</translation>
+        <translation>Titre de l&apos;axe X :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="102"/>
@@ -12311,7 +12377,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="112"/>
         <source>X axis range:</source>
-        <translation>Plage de l&apos;axe X&#x202f;:</translation>
+        <translation>Plage de l&apos;axe X :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotChartPropertiesWidget.ui" line="121"/>
@@ -12536,12 +12602,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="279"/>
         <source>Line Style:</source>
-        <translation>Style de ligne&#x202f;:</translation>
+        <translation>Style de ligne :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="286"/>
         <source>Line Width:</source>
-        <translation>Largeur de ligne&#x202f;:</translation>
+        <translation>Largeur de ligne :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Plots/Widgets/Resources/UI/qMRMLPlotSeriesPropertiesWidget.ui" line="293"/>
@@ -12592,7 +12658,7 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="97"/>
         <source>Plot data series:</source>
-        <translation>Tracé des série de données&#x202f;:</translation>
+        <translation>Tracé des série de données :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLPlotViewControllerWidget.ui" line="104"/>
@@ -12719,12 +12785,12 @@ NIH Roadmap for Medical Research, Grant U54 EB005149.</source>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="679"/>
         <source>P-A Range:</source>
-        <translation>Gamme P-A&#x202f;:</translation>
+        <translation>Gamme P-A :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="1325"/>
         <source>I-S Range:</source>
-        <translation>Plage I-S&#x202f;:</translation>
+        <translation>Plage I-S :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLROIWidget.ui" line="2003"/>
@@ -13490,7 +13556,7 @@ Veuillez consulter le module Segmentations pour plus de détails.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="137"/>
         <source>Coordinate system: </source>
-        <translation>Système de Coordonnées&#x202f;: </translation>
+        <translation>Système de Coordonnées : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="150"/>
@@ -13555,7 +13621,7 @@ Veuillez consulter le module Segmentations pour plus de détails.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="301"/>
         <source>Use compression:</source>
-        <translation>Utiliser la compression&#x202f;:</translation>
+        <translation>Utiliser la compression :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationFileExportWidget.ui" line="308"/>
@@ -13578,7 +13644,7 @@ Veuillez consulter le module Segmentations pour plus de détails.</translation>
 Do you want to crop the segmentation?
 </source>
         <translation>La segmentation actuelle ne correspond pas complètement à la nouvelle géométrie.
-Voulez-vous recadrer la segmentation&#x202f;?
+Voulez-vous recadrer la segmentation ?
 </translation>
     </message>
 </context>
@@ -13641,7 +13707,7 @@ Voulez-vous recadrer la segmentation&#x202f;?
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="117"/>
         <source>Oversampling factor:</source>
-        <translation>Facteur de suréchantillonnage&#x202f;:</translation>
+        <translation>Facteur de suréchantillonnage :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Widgets/Resources/UI/qMRMLSegmentationGeometryWidget.ui" line="143"/>
@@ -14156,7 +14222,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="90"/>
         <source>Type:</source>
-        <translation>Type&#x202f;:</translation>
+        <translation>Type :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Widgets/Resources/UI/qMRMLSequenceEditWidget.ui" line="113"/>
@@ -14236,7 +14302,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="23"/>
         <source>Unit:</source>
-        <translation>Unité&#x202f;:</translation>
+        <translation>Unité :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Units/Widgets/Resources/UI/qMRMLSettingsUnitWidget.ui" line="33"/>
@@ -14329,7 +14395,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="632"/>
         <source>Show slab reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la reconstruction de la dalle</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="649"/>
@@ -14380,7 +14446,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="779"/>
         <source>Show Slab Reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la reconstruction de la dalle</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="787"/>
@@ -14650,42 +14716,42 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1201"/>
         <source>Max</source>
-        <translation type="unfinished">Max</translation>
+        <translation>Max</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1204"/>
         <source>Set slab reconstruction type to Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le type de reconstruction de dalle sur Max</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1212"/>
         <source>Min</source>
-        <translation type="unfinished">Min</translation>
+        <translation>Min</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1215"/>
         <source>Set slab reconstruction type to Min</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le type de reconstruction de dalle sur Min</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1223"/>
         <source>Mean</source>
-        <translation type="unfinished">Le moyen</translation>
+        <translation>Signifier</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1226"/>
         <source>Set slab reconstruction type to Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le type de reconstruction de dalle sur Moyenne</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1234"/>
         <source>Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Somme</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1237"/>
         <source>Set slab reconstruction type to Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Définir le type de reconstruction de dalle sur Somme</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceControllerWidget.ui" line="1246"/>
@@ -14861,12 +14927,12 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1579"/>
         <source>Slab Reconstruction</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruction de dalle</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/qMRMLSliceControllerWidget.cxx" line="1584"/>
         <source>Slab Thickness</source>
-        <translation type="unfinished"></translation>
+        <translation>Épaisseur de la dalle</translation>
     </message>
 </context>
 <context>
@@ -14893,7 +14959,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="43"/>
         <source>Orientation:</source>
-        <translation>Orientation&#x202f;:</translation>
+        <translation>Orientation :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="50"/>
@@ -14924,7 +14990,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="77"/>
         <source>Slice visibility:</source>
         <oldsource>Slice visible:</oldsource>
-        <translation>Visibilité des coupes&#x202f;:</translation>
+        <translation>Visibilité des coupes :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="84"/>
@@ -14966,7 +15032,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="174"/>
         <source>Field of view:</source>
-        <translation>Champ de vision&#x202f;:</translation>
+        <translation>Champ de vision :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="191"/>
@@ -14976,7 +15042,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="194"/>
         <source>Lightbox layout:</source>
-        <translation>Disposition de la lightbox&#x202f;la boîte à lumière :</translation>
+        <translation>Disposition de la lightbox la boîte à lumière :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="203"/>
@@ -15011,7 +15077,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="265"/>
         <source>Manual spacing:</source>
-        <translation>Espacement manuel&#x202f;:</translation>
+        <translation>Espacement manuel :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="275"/>
@@ -15021,7 +15087,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="288"/>
         <source>View group:</source>
-        <translation>Afficher groupe&#x202f;:</translation>
+        <translation>Afficher groupe :</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLSliceInformationWidget.ui" line="295"/>
@@ -15105,7 +15171,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="987"/>
         <source>No subject hierarchy role assigned! Please report error</source>
-        <translation>Aucun rôle de hiérarchie de sujet attribué&#x202f;! Veuillez signaler l&apos;erreur</translation>
+        <translation>Aucun rôle de hiérarchie de sujet attribué ! Veuillez signaler l&apos;erreur</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyModel.cxx" line="1153"/>
@@ -15157,12 +15223,12 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="249"/>
         <source>Hide</source>
-        <translation type="unfinished">Cacher</translation>
+        <translation>Cacher</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="252"/>
         <source>Show</source>
-        <translation type="unfinished">Afficher</translation>
+        <translation>Afficher</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="255"/>
@@ -15232,7 +15298,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2044"/>
         <source>Delete subject hierarchy branch?</source>
-        <translation>Supprimer la branche hiérarchique des sujets&#x202f;?</translation>
+        <translation>Supprimer la branche hiérarchique des sujets ?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qMRMLSubjectHierarchyTreeView.cxx" line="2045"/>
@@ -15240,7 +15306,7 @@ Souhaitez-vous procéder au changement de représentation maître ?</translation
 
 If you choose yes, the whole branch will be deleted, including all children.
 If you choose Yes to All, this question never appears again, and all subject hierarchy children are automatically deleted. This can be later changed in Application Settings.</source>
-        <translation>L&apos;élément de hiérarchie de sujets supprimé a des enfants. Voulez-vous également les supprimer&#x202f;?
+        <translation>L&apos;élément de hiérarchie de sujets supprimé a des enfants. Voulez-vous également les supprimer ?
 
 Si vous choisissez oui, toute la branche sera supprimée, y compris tous les enfants.
 Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et tous les enfants de la hiérarchie des sujets sont automatiquement supprimés. Cela peut être modifié ultérieurement dans les paramètres de l&apos;application.</translation>
@@ -15792,7 +15858,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="158"/>
         <source>Enable translation: </source>
-        <translation>Activer la traduction&#x202f;: </translation>
+        <translation>Activer la traduction : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="168"/>
@@ -15802,7 +15868,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="181"/>
         <source>Enable rotation: </source>
-        <translation>Activer la rotation&#x202f;: </translation>
+        <translation>Activer la rotation : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="191"/>
@@ -15872,7 +15938,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="454"/>
         <source>Region:</source>
-        <translation>Région&#x202f;:</translation>
+        <translation>Région :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="470"/>
@@ -15904,7 +15970,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="558"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="944"/>
         <source>Spacing:</source>
-        <translation>Espacement&#x202f;:</translation>
+        <translation>Espacement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="565"/>
@@ -15915,7 +15981,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="568"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="991"/>
         <source>Scale factor:</source>
-        <translation>Facteur d&apos;échelle&#x202f;:</translation>
+        <translation>Facteur d&apos;échelle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="575"/>
@@ -15961,7 +16027,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="650"/>
         <source>Glyph type:</source>
-        <translation>Type de symbole&#x202f;:</translation>
+        <translation>Type de symbole :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="670"/>
@@ -16005,7 +16071,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="758"/>
         <source>Diameter:</source>
-        <translation>Diamètre&#x202f;:</translation>
+        <translation>Diamètre :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="765"/>
@@ -16035,7 +16101,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="828"/>
         <source>Tip length:</source>
-        <translation>Longueur de la pointe&#x202f;:</translation>
+        <translation>Longueur de la pointe :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="835"/>
@@ -16052,7 +16118,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1073"/>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1175"/>
         <source>Resolution:</source>
-        <translation>Résolution&#x202f;:</translation>
+        <translation>Résolution :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="870"/>
@@ -16062,7 +16128,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="898"/>
         <source>Source points:</source>
-        <translation>Points sources&#x202f;:</translation>
+        <translation>Points sources :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="905"/>
@@ -16095,7 +16161,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1032"/>
         <source>3D gridline diameter:</source>
-        <translation>Diamètre du quadrillage 3D&#x202f;:</translation>
+        <translation>Diamètre du quadrillage 3D :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1070"/>
@@ -16112,7 +16178,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1114"/>
         <source>Show original grid:</source>
-        <translation>Afficher la grille d&apos;origine&#x202f;:</translation>
+        <translation>Afficher la grille d&apos;origine :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1143"/>
@@ -16123,7 +16189,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1146"/>
         <source>Levels (mm):</source>
-        <translation>Niveaux (mm)&#x202f;:</translation>
+        <translation>Niveaux (mm) :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformDisplayNodeWidget.ui" line="1162"/>
@@ -16169,7 +16235,7 @@ Si vous choisissez Oui pour tout, cette question n&apos;apparaît plus jamais et
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="60"/>
         <source>Transform from parent:</source>
-        <translation>Transformation depuis le parent&#x202f;:</translation>
+        <translation>Transformation depuis le parent :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Widgets/Resources/UI/qMRMLTransformInfoWidget.ui" line="96"/>
@@ -16500,7 +16566,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLVolumeInfoWidget.ui" line="282"/>
         <source>Window/Level Presets:</source>
-        <translation>Préconfiguartions Fenetre/Niveau&#x202f;:</translation>
+        <translation>Préconfiguartions Fenetre/Niveau :</translation>
     </message>
 </context>
 <context>
@@ -16582,7 +16648,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="57"/>
         <source>W: </source>
-        <translation>W&#x202f;: </translation>
+        <translation>W : </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="47"/>
@@ -16592,7 +16658,7 @@ p, li { white-space : pre-wrap ; }
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="97"/>
         <source>L: </source>
-        <translation>L&#x202f;: </translation>
+        <translation>L : </translation>
     </message>
     <message>
         <location filename="Libs/MRML/Widgets/Resources/UI/qMRMLWindowLevelWidget.ui" line="110"/>
@@ -17158,7 +17224,7 @@ p, li { white-space : pre-wrap ; }
         <source>The message detail is:
 
 </source>
-        <translation>Le détail du message est&#x202f;:
+        <translation>Le détail du message est :
 
 </translation>
     </message>
@@ -17166,7 +17232,7 @@ p, li { white-space : pre-wrap ; }
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="545"/>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="564"/>
         <source>Exception thrown in event: </source>
-        <translation>Exception levée dans l&apos;événement&#x202f;: </translation>
+        <translation>Exception levée dans l&apos;événement : </translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerApplication.cxx" line="553"/>
@@ -17195,10 +17261,10 @@ p, li { white-space : pre-wrap ; }
 Graphics capabilities of this computer:
 
 </source>
-        <translation>Voir plus d&apos;informations et d&apos;aide sur&#x202f;:
+        <translation>Voir plus d&apos;informations et d&apos;aide sur :
 %1/user_guide/get_help.html#slicer-application-does-not-start
 
-Capacités graphiques de cet ordinateur&#x202f;:
+Capacités graphiques de cet ordinateur :
 
 </translation>
     </message>
@@ -17421,7 +17487,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="154"/>
         <source>Status:</source>
-        <translation>Statut&#x202f;:</translation>
+        <translation>Statut :</translation>
     </message>
     <message>
         <location filename="Base/QTCLI/qSlicerCLIProgressBar.cxx" line="155"/>
@@ -17472,7 +17538,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="69"/>
         <source>Manage 3D views and cameras.&lt;br&gt;The view pulldown menu below can be used to create new views and select the active view. Switch the layout to &quot;Tabbed 3D Layout&quot; from the layout icon in the toolbar to access multiple views. The view selected in &quot;Tabbed 3D Layout&quot; becomes the active view and replaces the 3D view in all other layouts. The camera pulldown menu below can be used to set the active camera for the selected view.&lt;br&gt;WARNING: this is rather experimental at the moment (fiducials, IO/data, closing the scene are probably broken for new views).&lt;br&gt;</source>
-        <translation>Gérer les vues 3D et les caméras.&lt;br&gt;Le menu déroulant des vues ci-dessous peut être utilisé pour créer de nouvelles vues et sélectionner la vue active. Basculer la mise en page sur &quot;Mise en page 3D à onglets&quot; à partir de l&apos;icône de mise en page dans la barre d&apos;outils pour accéder à plusieurs vues. La vue sélectionnée dans « Mise en page 3D à onglets » devient la vue active et remplace la vue 3D dans toutes les autres mises en page. Le menu déroulant de la caméra ci-dessous peut être utilisé pour définir la caméra active pour la vue sélectionnée.&lt;br&gt;ATTENTION&#x202f;: ceci est plutôt expérimental pour le moment (les fiduciaires, les IO/données, la fermeture de la scène sont probablement interrompus pour les nouvelles vues).&lt;br&gt;</translation>
+        <translation>Gérer les vues 3D et les caméras.&lt;br&gt;Le menu déroulant des vues ci-dessous peut être utilisé pour créer de nouvelles vues et sélectionner la vue active. Basculer la mise en page sur &quot;Mise en page 3D à onglets&quot; à partir de l&apos;icône de mise en page dans la barre d&apos;outils pour accéder à plusieurs vues. La vue sélectionnée dans « Mise en page 3D à onglets » devient la vue active et remplace la vue 3D dans toutes les autres mises en page. Le menu déroulant de la caméra ci-dessous peut être utilisé pour définir la caméra active pour la vue sélectionnée.&lt;br&gt;ATTENTION : ceci est plutôt expérimental pour le moment (les fiduciaires, les IO/données, la fermeture de la scène sont probablement interrompus pour les nouvelles vues).&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/qSlicerCamerasModule.cxx" line="86"/>
@@ -17500,12 +17566,12 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="39"/>
         <source>View:</source>
-        <translation>Vue&#x202f;:</translation>
+        <translation>Vue :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Cameras/Resources/UI/qSlicerCamerasModuleWidget.ui" line="67"/>
         <source>Camera:</source>
-        <translation>Caméra&#x202f;:</translation>
+        <translation>Caméra :</translation>
     </message>
 </context>
 <context>
@@ -17541,7 +17607,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="122"/>
         <source>Displayable node:</source>
-        <translation>Nœud affichable&#x202f;:</translation>
+        <translation>Nœud affichable :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Colors/Resources/UI/qSlicerColorsModuleWidget.ui" line="134"/>
@@ -17737,12 +17803,12 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="135"/>
         <source>Input volume:</source>
-        <translation>Volume d&apos;entrée&#x202f;:</translation>
+        <translation>Volume d&apos;entrée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="166"/>
         <source>Input ROI:</source>
-        <translation>ROI d&apos;entrée&#x202f;:</translation>
+        <translation>ROI d&apos;entrée :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
@@ -17767,7 +17833,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="248"/>
         <source>Output volume:</source>
-        <translation>Volume de sortie&#x202f;:</translation>
+        <translation>Volume de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="267"/>
@@ -17788,7 +17854,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="325"/>
         <source>Interpolated cropping:</source>
-        <translation>Recadrage interpolé&#x202f;:</translation>
+        <translation>Recadrage interpolé :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="332"/>
@@ -17804,7 +17870,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="351"/>
         <source>Spacing scale:</source>
-        <translation>Échelle d&apos;espacement&#x202f;:</translation>
+        <translation>Échelle d&apos;espacement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="361"/>
@@ -17814,12 +17880,12 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="374"/>
         <source>Isotropic spacing:</source>
-        <translation>Espacement isotrope&#x202f;:</translation>
+        <translation>Espacement isotrope :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="394"/>
         <source>Interpolator:</source>
-        <translation>Interpolateur&#x202f;:</translation>
+        <translation>Interpolateur :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="403"/>
@@ -17860,7 +17926,7 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="445"/>
         <source>Fill value:</source>
-        <translation>Valeur de remplissage&#x202f;:</translation>
+        <translation>Valeur de remplissage :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="452"/>
@@ -17901,13 +17967,13 @@ Capacités graphiques de cet ordinateur&#x202f;:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="569"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="655"/>
         <source>Dimensions:</source>
-        <translation>Dimensions&#x202f;:</translation>
+        <translation>Dimensions :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="576"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="648"/>
         <source>Spacing:</source>
-        <translation>Espacement&#x202f;:</translation>
+        <translation>Espacement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="692"/>
@@ -17937,17 +18003,17 @@ Capacités graphiques de cet ordinateur&#x202f;:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="125"/>
         <source>Input ROI is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le retour sur investissement d&apos;entrée est soumis à une transformation non linéaire.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="138"/>
         <source>Output volume is under a non-linear transform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le volume de sortie est soumis à une transformation non linéaire.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModuleWidget.cxx" line="149"/>
         <source>Interpolation is disabled and input volume is under a non-linear transform</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;interpolation est désactivée et le volume d&apos;entrée est soumis à une transformation non linéaire</translation>
     </message>
     <message>
         <source>Input ROI is under a non-linear tansform.</source>
@@ -18067,12 +18133,12 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="72"/>
         <source>Scalar ColorMap:</source>
-        <translation>CarteCouleurs scalaire&#x202f;:</translation>
+        <translation>CarteCouleurs scalaire :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="88"/>
         <source>Color by Scalar:</source>
-        <translation>Couleur par Scalaire&#x202f;:</translation>
+        <translation>Couleur par Scalaire :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="98"/>
@@ -18082,7 +18148,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="105"/>
         <source>Glyph Type:</source>
-        <translation>Type de Symbole&#x202f;:</translation>
+        <translation>Type de Symbole :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="113"/>
@@ -18102,18 +18168,18 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="131"/>
         <source>Scale Factor:</source>
-        <translation>Facteur d&apos;échelle&#x202f;:</translation>
+        <translation>Facteur d&apos;échelle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="157"/>
         <source>Spacing:</source>
-        <translation>Espacement&#x202f;:</translation>
+        <translation>Espacement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="199"/>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="241"/>
         <source>Glyph EigenVector:</source>
-        <translation>Symbole EigenVector&#x202f;:</translation>
+        <translation>Symbole EigenVector :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDTISliceDisplayWidget.ui" line="207"/>
@@ -18187,12 +18253,12 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="509"/>
         <source>Open archive?</source>
-        <translation>Archives ouvertes&#x202f;?</translation>
+        <translation>Archives ouvertes ?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerDataDialog.cxx" line="510"/>
         <source>The selected file is a .zip archive, open it and load contents?</source>
-        <translation>Le fichier sélectionné est une archive .zip, ouvrez-le et chargez le contenu&#x202f;?</translation>
+        <translation>Le fichier sélectionné est une archive .zip, ouvrez-le et chargez le contenu ?</translation>
     </message>
 </context>
 <context>
@@ -18318,7 +18384,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="50"/>
         <source>Scalar Mode:</source>
-        <translation>Mode scalaire&#x202f;:</translation>
+        <translation>Mode scalaire :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="66"/>
@@ -18328,7 +18394,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="87"/>
         <source>Slice Visibility:</source>
-        <translation>Visibilité des coupes&#x202f;:</translation>
+        <translation>Visibilité des coupes :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionTensorVolumeDisplayWidget.ui" line="96"/>
@@ -18361,7 +18427,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerDiffusionWeightedVolumeDisplayWidget.ui" line="50"/>
         <source>DWI Component:</source>
-        <translation>Composant DWI&#x202f;:</translation>
+        <translation>Composant DWI :</translation>
     </message>
 </context>
 <context>
@@ -18379,7 +18445,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="45"/>
         <source>Recent log files:</source>
-        <translation>Fichiers journaux récents&#x202f;:</translation>
+        <translation>Fichiers journaux récents :</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="73"/>
@@ -18406,7 +18472,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerErrorReportDialog.ui" line="135"/>
         <source>Log file content:</source>
-        <translation>Contenu du fichier journal&#x202f;:</translation>
+        <translation>Contenu du fichier journal :</translation>
     </message>
 </context>
 <context>
@@ -18480,7 +18546,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="89"/>
         <source>Options:</source>
-        <translation>Options&#x202f;:</translation>
+        <translation>Options :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerExportNodeDialog.ui" line="114"/>
@@ -18595,7 +18661,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="949"/>
         <source>Failed to export node %1; filename is empty.</source>
-        <translation>Échec de l&apos;exportation du nœud %1&#x202f;; nom de fichier est vide.</translation>
+        <translation>Échec de l&apos;exportation du nœud %1 ; nom de fichier est vide.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="967"/>
@@ -18605,7 +18671,7 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="968"/>
         <source>The file %1 already exists. Do you want to replace it?</source>
-        <translation>Le fichier %1 existe déjà. Voulez-vous le remplacer&#x202f;?</translation>
+        <translation>Le fichier %1 existe déjà. Voulez-vous le remplacer ?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExportNodeDialog.cxx" line="1017"/>
@@ -18766,12 +18832,12 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="425"/>
         <source>Not found for this version of the application (r%1)</source>
-        <translation type="unfinished">Introuvable pour cette version de l’application (r%2) {1)?}</translation>
+        <translation>Introuvable pour cette version de l&apos;application (r%1)</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerExtensionsLocalWidget.cxx" line="432"/>
         <source>Incompatible with Slicer r%1 [built for r%2]</source>
-        <translation type="unfinished">Incompatible avec Slicer r%2 [conçu pour r%3] {1 ?} {2]?}</translation>
+        <translation>Incompatible avec Slicer r%1 [conçu pour r%2]</translation>
     </message>
     <message>
         <source>Not found for this version of the application (r%2)</source>
@@ -18845,12 +18911,12 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="792"/>
         <source>Extensions install directory does NOT exist: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation>Le répertoire d&apos;installation des extensions n&apos;existe PAS&#x202f;: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>Le répertoire d&apos;installation des extensions n&apos;existe PAS : &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="809"/>
         <source>Extensions install directory is expected to be readable/writable/executable: &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation>Le répertoire d&apos;installation des extensions devrait être lisible/inscriptible/exécutable&#x202f;: &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>Le répertoire d&apos;installation des extensions devrait être lisible/inscriptible/exécutable : &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="884"/>
@@ -18940,32 +19006,32 @@ Si cette option n’est pas cochée, le jeu de données (dataset) exporté sera 
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1765"/>
         <source>Do you want to install &apos;%1&apos; now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous installer &apos;%1&apos; maintenant ?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1766"/>
         <source>Install extension ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer l&apos;extension ?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1783"/>
         <source>Failed to install %1 extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;installation de l&apos;extension %1</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1806"/>
         <source>Extension %1 has been installed from server.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;extension %1 a été installée à partir du serveur.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1808"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le slicer doit être redémarré. Voulez-vous redémarrer maintenant ?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1809"/>
         <source>Restart slicer ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer le slicer&#xa0;?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1846"/>
@@ -19503,7 +19569,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="321"/>
         <source>Select a reader to use for your data:</source>
         <oldsource>Select a reader to use for your data?</oldsource>
-        <translation>Sélectionner un lecteur à utiliser pour vos données&#x202f;?</translation>
+        <translation>Sélectionner un lecteur à utiliser pour vos données ?</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerIOManager.cxx" line="450"/>
@@ -19570,7 +19636,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Volumes/Widgets/Resources/UI/qSlicerLabelMapVolumeDisplayWidget.ui" line="71"/>
         <source>Label Outline &amp;Thickness:</source>
-        <translation>Épaisseur et contour de l&apos;étiquette&#x202f;:</translation>
+        <translation>Épaisseur et contour de l&apos;étiquette :</translation>
     </message>
 </context>
 <context>
@@ -19800,7 +19866,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="437"/>
         <source>UNDER CONSTRUCTION: Save the current scene to a stand alone directory.</source>
-        <translation>EN CONSTRUCTION&#x202f;: enregistrez la scène actuelle dans un répertoire autonome.</translation>
+        <translation>EN CONSTRUCTION : enregistrez la scène actuelle dans un répertoire autonome.</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="446"/>
@@ -19875,7 +19941,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="23"/>
         <source>Module Panel</source>
-        <translation type="unfinished">Panneau de modules</translation>
+        <translation>Panneau de modules</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="511"/>
@@ -19999,7 +20065,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="615"/>
         <source>Feedback: report usability issue (www)</source>
-        <translation>Rétroaction&#x202f;: signaler un problème d&apos;utilisation (www)</translation>
+        <translation>Rétroaction : signaler un problème d&apos;utilisation (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="618"/>
@@ -20009,7 +20075,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="623"/>
         <source>Feedback: make a feature request (www)</source>
-        <translation>Rétroaction&#x202f;: faire une requête caractéristique (www)</translation>
+        <translation>Rétroaction : faire une requête caractéristique (www)</translation>
     </message>
     <message>
         <location filename="Base/QTApp/Resources/UI/qSlicerMainWindow.ui" line="626"/>
@@ -20324,12 +20390,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Journal des erreurs</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/masquer la fenêtre du journal des erreurs</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
@@ -20369,17 +20435,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="648"/>
         <source>Some data have been modified. Do you want to save them before exit?</source>
-        <translation>Certaines données ont été modifiées. Voulez-vous les enregistrer avant de quitter&#x202f;?</translation>
+        <translation>Certaines données ont été modifiées. Voulez-vous les enregistrer avant de quitter ?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="652"/>
         <source>The scene has been modified. Do you want to save it before exit?</source>
-        <translation>La scène a été modifiée. Voulez-vous l&apos;enregistrer avant de quitter&#x202f;?</translation>
+        <translation>La scène a été modifiée. Voulez-vous l&apos;enregistrer avant de quitter ?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="657"/>
         <source>Save before exit?</source>
-        <translation>Enregistrer avant de quitter&#x202f;?</translation>
+        <translation>Enregistrer avant de quitter ?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="661"/>
@@ -20394,17 +20460,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="693"/>
         <source>Some data have been modified. Do you want to save them before closing the scene?</source>
-        <translation>Certaines données ont été modifiées. Voulez-vous les enregistrer avant de fermer la scène&#x202f;?</translation>
+        <translation>Certaines données ont été modifiées. Voulez-vous les enregistrer avant de fermer la scène ?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="697"/>
         <source>The scene has been modified. Do you want to save it before closing the scene?</source>
-        <translation>La scène a été modifiée. Voulez-vous l&apos;enregistrer avant de fermer la scène&#x202f;?</translation>
+        <translation>La scène a été modifiée. Voulez-vous l&apos;enregistrer avant de fermer la scène ?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="707"/>
         <source>Save before closing scene?</source>
-        <translation>Enregistrer avant de fermer la scène&#x202f;?</translation>
+        <translation>Enregistrer avant de fermer la scène ?</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="712"/>
@@ -20494,7 +20560,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="147"/>
         <source>Interaction: </source>
-        <translation>Interaction&#x202f;: </translation>
+        <translation>Interaction : </translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="174"/>
@@ -20509,12 +20575,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="222"/>
         <source>Jump Slices:</source>
-        <translation>Saut de coupes&#x202f;:</translation>
+        <translation>Saut de coupes :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="235"/>
         <source>Offset: set slice plane position. Centered: set slice plane position and center the slice view on the control point.</source>
-        <translation>Décalage&#x202f;: définir la position du plan de coupe. Centré&#x202f;: définissez la position du plan de coupe et centrez la vue de coupe sur le point de contrôle.</translation>
+        <translation>Décalage : définir la position du plan de coupe. Centré : définissez la position du plan de coupe et centrez la vue de coupe sur le point de contrôle.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="239"/>
@@ -20534,7 +20600,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="257"/>
         <source>Show Slice Intersections:</source>
-        <translation>Afficher les intersections de coupe&#x202f;:</translation>
+        <translation>Afficher les intersections de coupe :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="264"/>
@@ -20717,7 +20783,7 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="832"/>
         <source>Operation:</source>
-        <translation>Opération&#x202f;:</translation>
+        <translation>Opération :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsModule.ui" line="841"/>
@@ -21207,7 +21273,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="23"/>
         <source>Default glyph type:</source>
-        <translation>Type de symbole par défaut&#x202f;:</translation>
+        <translation>Type de symbole par défaut :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="30"/>
@@ -21287,12 +21353,12 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="129"/>
         <source>Default unselected color:</source>
-        <translation>Couleur non sélectionnée par défaut&#x202f;:</translation>
+        <translation>Couleur non sélectionnée par défaut :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="153"/>
         <source>Default glyph scale:</source>
-        <translation>Échelle de symbole par défaut&#x202f;:</translation>
+        <translation>Échelle de symbole par défaut :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="160"/>
@@ -21302,7 +21368,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="176"/>
         <source>Default text scale:</source>
-        <translation>Échelle de texte par défaut&#x202f;:</translation>
+        <translation>Échelle de texte par défaut :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/Resources/UI/qSlicerMarkupsSettingsPanel.ui" line="183"/>
@@ -21400,7 +21466,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="74"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le module Modèles charge et ajuste les paramètres d&apos;affichage des modèles tels que la couleur, la transparence et le découpage.&lt;br&gt;Enregistrez les modèles via le menu Fichier, bouton Enregistrer.&lt;br&gt;Le bouton Ajouter un modèle 3D ou un répertoire de modèles vous permettra de charger n&apos;importe quel modèle. modèle que Slicer peut lire, ainsi que tous les modèles VTK d&apos;un répertoire. Ajouter une superposition scalaire chargera un fichier scalaire et l&apos;associera au modèle actuellement actif.&lt;br&gt;Vous pouvez ajuster les propriétés d&apos;affichage des modèles dans le volet Affichage. Sélectionnez le modèle sur lequel vous souhaitez travailler dans le menu déroulant du sélecteur de modèle. Les superpositions scalaires sont chargées avec une table de recherche de couleurs par défaut, mais peuvent être réaffectées manuellement. Une fois qu&apos;une nouvelle superposition scalaire est choisie, l&apos;ancienne carte de couleurs est toujours utilisée, elle doit donc être ajustée en conjonction avec la superposition.&lt;br&gt;Le découpage est activé pour un modèle dans le volet Affichage et les plans de coupe qui seront découpés les modèles sont sélectionnés dans le volet Découpage.&lt;br&gt;Le volet Hiérarchie des modèles vous permet de regrouper des modèles et de définir les propriétés du groupe.</translation>
     </message>
 </context>
 <context>
@@ -21541,7 +21607,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="273"/>
         <source>Type:</source>
-        <translation>Type&#x202f;:</translation>
+        <translation>Type :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerModuleFinderDialog.cxx" line="278"/>
@@ -21918,7 +21984,7 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="25"/>
         <source>Slice:</source>
-        <translation>Coupe&#x202f;:</translation>
+        <translation>Coupe :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="76"/>
@@ -21963,118 +22029,118 @@ Noms des colonnes du tableau : libellé, r, a, s, (ou l, p, s), défini, sélect
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="278"/>
         <source>Orientation</source>
-        <translation type="unfinished">Orientation</translation>
+        <translation>Orientation</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="302"/>
         <source>Rotate the slice in the current slice plane, around the slice normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Faites pivoter la tranche dans le plan de tranche actuel, autour de la normale de la tranche.</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="315"/>
         <source>Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="325"/>
         <source>In-Plane:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dans le plan&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="337"/>
         <source>Normal to LR</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal à LR</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="344"/>
         <source>Normal to PA</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal à PA</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="351"/>
         <source>Normal to IS</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal à IS</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="360"/>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="552"/>
         <source>Flip slice view horizontally (left-right)</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourner la vue de coupe horizontalement (gauche-droite)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="363"/>
         <source>Rotate to volume plane</source>
-        <translation type="unfinished">Rotation au plan de volume</translation>
+        <translation>Rotation au plan de volume</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="370"/>
         <source>Rotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="383"/>
         <source>Rotate around the slice vertical axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire pivoter autour de l&apos;axe vertical de la coupe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="405"/>
         <source>Rotate around the slice horizontal axis</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire pivoter autour de l&apos;axe horizontal de la coupe</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="421"/>
         <source>Reset to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser à&#xa0;:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="428"/>
         <source>Normal:</source>
-        <translation type="unfinished">Normale :</translation>
+        <translation>Normale :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="435"/>
         <source>Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="518"/>
         <source>Normal to Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal à la caméra</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="555"/>
         <source>Flip H</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourner H</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="562"/>
         <source>Flip slice view vertically (upside-down)</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourner la vue en coupe verticalement (à l&apos;envers)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="565"/>
         <source>Flip V</source>
-        <translation type="unfinished"></translation>
+        <translation>Retourner V</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="572"/>
         <source>Rotate slice view clockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire pivoter la vue de coupe de 90&#xa0;degrés dans le sens des aiguilles d&apos;une montre</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="575"/>
         <source>Rotate CW</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire pivoter dans le sens horaire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="582"/>
         <source>Rotate slice view counterclockwise by 90 degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire pivoter la vue en coupe de 90&#xa0;degrés dans le sens antihoraire</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="585"/>
         <source>Rotate CCW</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation dans le sens inverse des aiguilles d&apos;une montre</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -22534,7 +22600,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1421"/>
         <source>Diameter:</source>
-        <translation>Diamètre&#x202f;:</translation>
+        <translation>Diamètre :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorPaintEffect.cxx" line="1422"/>
@@ -22752,7 +22818,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="51"/>
         <source>Color node:</source>
-        <translation>Nœud de couleur&#x202f;:</translation>
+        <translation>Nœud de couleur :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsIOOptionsWidget.ui" line="61"/>
@@ -22922,12 +22988,12 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="529"/>
         <source>Type:</source>
-        <translation>Type&#x202f;:</translation>
+        <translation>Type :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="536"/>
         <source>Output:</source>
-        <translation>Sortie&#x202f;:</translation>
+        <translation>Sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="543"/>
@@ -22952,7 +23018,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="594"/>
         <source>Exported segments:</source>
-        <translation>Segments exportés&#x202f; :</translation>
+        <translation>Segments exportés  :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="602"/>
@@ -23029,7 +23095,7 @@ Veuillez choisir un répertoire vide.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="784"/>
         <source>Number of segments:</source>
-        <translation>Nombre de segments&#x202f;:</translation>
+        <translation>Nombre de segments :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsModule.ui" line="800"/>
@@ -23143,7 +23209,7 @@ Remarque : Cela peut entraîner une perte de données indésirable dans %5.</tra
 Do you want to crop the segmentation?
 </source>
         <translation>La segmentation actuelle ne correspond pas complètement à la nouvelle géométrie.
-Voulez-vous recadrer la segmentation&#x202f;?
+Voulez-vous recadrer la segmentation ?
 </translation>
     </message>
     <message>
@@ -23244,12 +23310,12 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="23"/>
         <source>Automatic segment opacities:</source>
-        <translation>Opacité automatique des segments&#x202f;:</translation>
+        <translation>Opacité automatique des segments :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="59"/>
         <source>Enable surface smoothing by default:</source>
-        <translation>Activer le lissage de surface par défaut&#x202f;:</translation>
+        <translation>Activer le lissage de surface par défaut :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Segmentations/Resources/UI/qSlicerSegmentationsSettingsPanel.ui" line="66"/>
@@ -23475,7 +23541,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="342"/>
         <source>Recording sampling mode:</source>
-        <translation>Mode d’échantillonnage d’enregistrement&#x202f;:</translation>
+        <translation>Mode d’échantillonnage d’enregistrement :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="350"/>
@@ -23509,7 +23575,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="384"/>
         <source>Index display format:</source>
-        <translation>Format d&apos;affichage des index&#x202f;:</translation>
+        <translation>Format d&apos;affichage des index :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Sequences/Resources/UI/qSlicerSequencesModuleWidget.ui" line="391"/>
@@ -23780,12 +23846,12 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="37"/>
         <source>Enable QtTesting:</source>
-        <translation>Activer QtTesting&#x202f;:</translation>
+        <translation>Activer QtTesting :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="51"/>
         <source>Self-test message delay:</source>
-        <translation>Délai message d&apos;autotest&#x202f;:</translation>
+        <translation>Délai message d&apos;autotest :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="58"/>
@@ -23801,7 +23867,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="80"/>
         <source>Qt Designer:</source>
-        <translation>Qt Designer&#x202f;:</translation>
+        <translation>Qt Designer :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="89"/>
@@ -23811,7 +23877,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="111"/>
         <source>Preserve CLI module data files:</source>
-        <translation>Conserver les fichiers de données du module CLI&#x202f;:</translation>
+        <translation>Conserver les fichiers de données du module CLI :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsDeveloperPanel.ui" line="118"/>
@@ -23874,12 +23940,12 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="97"/>
         <source>Extensions server URL:</source>
-        <translation>Extensions serveur URL&#x202f;:</translation>
+        <translation>Extensions serveur URL :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="107"/>
         <source>Extensions frontend server URL:</source>
-        <translation>Extensions frontend serveur URL&#x202f;:</translation>
+        <translation>Extensions frontend serveur URL :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsExtensionsPanel.ui" line="117"/>
@@ -23947,7 +24013,7 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="23"/>
         <source>Default scene location:</source>
-        <translation>Emplacement de la scène par défaut&#x202f;:</translation>
+        <translation>Emplacement de la scène par défaut :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="33"/>
@@ -23967,17 +24033,17 @@ Très probablement, le segment ne peut pas être converti en représentation de 
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="74"/>
         <source>Confirm on exit:</source>
-        <translation>Confirmez en quittant&#x202f;:</translation>
+        <translation>Confirmez en quittant :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="91"/>
         <source>Confirm on scene close:</source>
-        <translation>Confirmez à la fermeture de la scène&#x202f;:</translation>
+        <translation>Confirmez à la fermeture de la scène :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="108"/>
         <source>Documentation base URL:</source>
-        <translation>Documentation base URL&#x202f;:</translation>
+        <translation>Documentation base URL :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="115"/>
@@ -23992,7 +24058,7 @@ Par défaut&#xa0;: https://slicer.readthedocs.io/{language}/{version}</translati
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="137"/>
         <source>Max. number of &apos;Recent&apos; menu items:</source>
         <oldsource>Max. number of &apos;Recently Loaded&apos; menu items:</oldsource>
-        <translation>Max. nombre d&apos;éléments de menu &quot;Récents&quot;&#x202f;:</translation>
+        <translation>Max. nombre d&apos;éléments de menu &quot;Récents&quot; :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="144"/>
@@ -24002,7 +24068,7 @@ Par défaut&#xa0;: https://slicer.readthedocs.io/{language}/{version}</translati
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="147"/>
         <source>Application startup script:</source>
-        <translation>Script de démarrage de l&apos;application&#x202f;:</translation>
+        <translation>Script de démarrage de l&apos;application :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="169"/>
@@ -24012,7 +24078,7 @@ Par défaut&#xa0;: https://slicer.readthedocs.io/{language}/{version}</translati
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="181"/>
         <source>Module documentation URL:</source>
-        <translation>URL documentation du module&#x202f;:</translation>
+        <translation>URL documentation du module :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsGeneralPanel.ui" line="188"/>
@@ -24098,7 +24164,7 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="32"/>
         <source>Skip loading of any:</source>
-        <translation>Ignorez le chargement de tout&#x202f;:</translation>
+        <translation>Ignorez le chargement de tout :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="60"/>
@@ -24156,12 +24222,12 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="166"/>
         <source>Show hidden modules:</source>
-        <translation>Afficher les modules masqués&#x202f;:</translation>
+        <translation>Afficher les modules masqués :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="210"/>
         <source>Temporary directory:</source>
-        <translation>Répertoire temporaire&#x202f;:</translation>
+        <translation>Répertoire temporaire :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="238"/>
@@ -24201,7 +24267,7 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="341"/>
         <source>Modules:</source>
-        <translation>Modules&#x202f;:</translation>
+        <translation>Modules :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="403"/>
@@ -24261,12 +24327,12 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="632"/>
         <source>Default startup module:</source>
-        <translation>Module de démarrage par défaut&#x202f;:</translation>
+        <translation>Module de démarrage par défaut :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="676"/>
         <source>Add to the list by dragging modules from the above &quot;Modules&quot; list. Note: modules with no icons will not appear in the toolbar.</source>
-        <translation>Ajoutez à la liste en faisant glisser des modules depuis la liste &quot;Modules&quot; ci-dessus. Remarque&#x202f;: les modules sans icônes n&apos;apparaîtront pas dans la barre d&apos;outils.</translation>
+        <translation>Ajoutez à la liste en faisant glisser des modules depuis la liste &quot;Modules&quot; ci-dessus. Remarque : les modules sans icônes n&apos;apparaîtront pas dans la barre d&apos;outils.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsModulesPanel.ui" line="679"/>
@@ -24334,22 +24400,22 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="20"/>
         <source>General</source>
-        <translation type="unfinished">Général</translation>
+        <translation>Général</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Editor for .py files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur pour les fichiers .py&#xa0;:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Select an executable for editing .py files. If left empty then the default program associated with .py files will be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un exécutable pour modifier les fichiers .py. S&apos;il est laissé vide, le programme par défaut associé aux fichiers .py sera lancé.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="42"/>
         <source>PythonEditor</source>
-        <translation type="unfinished"></translation>
+        <translation>ÉditeurPython</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
@@ -24386,7 +24452,7 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Python editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Éditeur Python.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
@@ -24404,7 +24470,7 @@ Par défaut : {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.ht
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="23"/>
         <source>Additional style paths:</source>
-        <translation>Chemins de style supplémentaires&#x202f;:</translation>
+        <translation>Chemins de style supplémentaires :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="49"/>
@@ -24489,7 +24555,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="141"/>
         <source>Disable tooltips:</source>
-        <translation>Désactiver les info-bulles&#x202f;:</translation>
+        <translation>Désactiver les info-bulles :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="148"/>
@@ -24507,7 +24573,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="162"/>
         <source>Font and size:</source>
-        <translation>Police et taille&#x202f;:</translation>
+        <translation>Police et taille :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="169"/>
@@ -24525,7 +24591,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="180"/>
         <source>Show text under icons in toolbar buttons:</source>
-        <translation>Afficher le texte sous les icônes dans les boutons de la barre d&apos;outils&#x202f;:</translation>
+        <translation>Afficher le texte sous les icônes dans les boutons de la barre d&apos;outils :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="187"/>
@@ -24543,7 +24609,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="201"/>
         <source>Save user interface size and position on exit:</source>
-        <translation>Enregistrer la taille et la position de l&apos;interface utilisateur à la sortie&#x202f;:</translation>
+        <translation>Enregistrer la taille et la position de l&apos;interface utilisateur à la sortie :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsStylesPanel.ui" line="208"/>
@@ -24584,12 +24650,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="41"/>
         <source>Organization role:</source>
-        <translation>Rôle organisation&#x202f;:</translation>
+        <translation>Rôle organisation :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="58"/>
         <source>Login:</source>
-        <translation>Connexion&#x202f;:</translation>
+        <translation>Connexion :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="75"/>
@@ -24604,12 +24670,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="95"/>
         <source>Procedure role:</source>
-        <translation>Rôle de la procédure&#x202f;:</translation>
+        <translation>Rôle de la procédure :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="102"/>
         <source>Organization:</source>
-        <translation>Organization&#x202f;:</translation>
+        <translation>Organization :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="129"/>
@@ -24619,7 +24685,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsUserInformationPanel.ui" line="132"/>
         <source>Email:</source>
-        <translation>Email&#x202f;:</translation>
+        <translation>Email :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsUserInformationPanel.cxx" line="169"/>
@@ -24643,7 +24709,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="50"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="166"/>
         <source>Orientation marker:</source>
-        <translation>Marqueur d&apos;orientation&#x202f;:</translation>
+        <translation>Marqueur d&apos;orientation :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="94"/>
@@ -24693,7 +24759,7 @@ p, li { white-space: pre-wrap; }
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="86"/>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="223"/>
         <source>Ruler:</source>
-        <translation>Règle&#x202f;:</translation>
+        <translation>Règle :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="99"/>
@@ -24710,7 +24776,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="112"/>
         <source>View orientation:</source>
-        <translation>Orientation de la vue&#x202f;:</translation>
+        <translation>Orientation de la vue :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="129"/>
@@ -24750,7 +24816,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="287"/>
         <source>Multi-sampling (MSAA):</source>
-        <translation>Multi-échantillonnage (MSAA)&#x202f;:</translation>
+        <translation>Multi-échantillonnage (MSAA) :</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsViewsPanel.ui" line="300"/>
@@ -24910,7 +24976,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Base/QTGUI/qSlicerFileDialog.cxx" line="294"/>
         <source>Options:</source>
-        <translation>Options&#x202f;:</translation>
+        <translation>Options :</translation>
     </message>
 </context>
 <context>
@@ -25030,7 +25096,7 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyDiffusionTensorVolumesPlugin.cxx" line="180"/>
         <source>Error!</source>
-        <translation>Erreur&#x202f;!</translation>
+        <translation>Erreur !</translation>
     </message>
 </context>
 <context>
@@ -25071,12 +25137,12 @@ Cliquez sur Annuler pour créer manuellement la hiérarchie patient/étude et gl
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>Show empty folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les dossiers vides</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="119"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette option est activée, les dossiers qui ne contiennent pas de nœuds (autorisés par aucun filtre) sont affichés, sinon non.</translation>
     </message>
 </context>
 <context>
@@ -25606,7 +25672,8 @@ Remarque : cette opération peut entraîner une perte de données indésirable d
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
-        <translation type="unfinished"></translation>
+        <translation>Segment - ID&#xa0;:&#xa0;%1, Représentations&#xa0;:&#xa0;%2, Couleur&#xa0;: (%3, %4, %5)
+Balises&#xa0;: %6</translation>
     </message>
     <message>
         <source>Segment - Representations: %1, Color: (%2, %3, %4)
@@ -25651,7 +25718,7 @@ Balises&#xa0;: %5</translation>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="67"/>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="94"/>
         <source>  ID:</source>
-        <translation>  ID&#x202f;:</translation>
+        <translation>  ID :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="74"/>
@@ -25671,7 +25738,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Resources/UI/qSlicerSubjectHierarchySettingsPanel.ui" line="148"/>
         <source>  Birth date:</source>
-        <translation>  Date de naissance&#x202f;:</translation>
+        <translation>  Date de naissance :</translation>
     </message>
 </context>
 <context>
@@ -25713,7 +25780,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Transforms/SubjectHierarchyPlugins/qSlicerSubjectHierarchyTransformsPlugin.cxx" line="272"/>
         <source>Transform from parent:</source>
-        <translation>Transformation depuis le parent&#x202f;:</translation>
+        <translation>Transformation depuis le parent :</translation>
     </message>
 </context>
 <context>
@@ -25946,7 +26013,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="488"/>
         <source>Dimensions:</source>
-        <translation>Dimensions&#x202f;:</translation>
+        <translation>Dimensions :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Volumes/SubjectHierarchyPlugins/qSlicerSubjectHierarchyVolumesPlugin.cxx" line="489"/>
@@ -26012,7 +26079,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="58"/>
         <source>Data type:</source>
-        <translation>Type de données&#x202f;:</translation>
+        <translation>Type de données :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="68"/>
@@ -26117,32 +26184,32 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="177"/>
         <source>Null value:</source>
-        <translation>Valeur nulle&#x202f;:</translation>
+        <translation>Valeur nulle :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="187"/>
         <source>Long name:</source>
-        <translation>Nom long&#x202f;:</translation>
+        <translation>Nom long :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="197"/>
         <source>Description:</source>
-        <translation>Description&#x202f;:</translation>
+        <translation>Description :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="207"/>
         <source>Unit label:</source>
-        <translation>Étiquette de l’unité&#x202f;:</translation>
+        <translation>Étiquette de l’unité :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="217"/>
         <source>Component count:</source>
-        <translation>Nombre de composants&#x202f;:</translation>
+        <translation>Nombre de composants :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="238"/>
         <source>Component names:</source>
-        <translation>Noms des composants&#x202f;:</translation>
+        <translation>Noms des composants :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/Widgets/Resources/UI/qSlicerTableColumnPropertiesWidget.ui" line="248"/>
@@ -26306,7 +26373,7 @@ Balises&#xa0;: %5</translation>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="163"/>
         <source>Database Password:</source>
-        <translation>Mot de passe Base de données&#x202f;:</translation>
+        <translation>Mot de passe Base de données :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Tables/qSlicerTablesReader.cxx" line="195"/>
@@ -26426,7 +26493,7 @@ Balises&#xa0;: %5</translation>
 Do you wish to update the stored context file with the just loaded one?</source>
         <translation>Il y a un fichier avec le nom &apos;%1&apos; dans les contextes stockés.
 
-Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vient d&apos;être chargé&#x202f;?</translation>
+Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vient d&apos;être chargé ?</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Terminologies/Widgets/qSlicerTerminologyNavigatorWidget.cxx" line="1993"/>
@@ -26452,7 +26519,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="44"/>
         <source>Text node:</source>
-        <translation>Nœud de texte&#x202f;:</translation>
+        <translation>Nœud de texte :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Texts/Resources/UI/qSlicerTextsModuleWidget.ui" line="74"/>
@@ -26613,7 +26680,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="454"/>
         <source>Reference volume:</source>
-        <translation>Volume de référence&#x202f;:</translation>
+        <translation>Volume de référence :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="470"/>
@@ -26623,7 +26690,7 @@ Souhaitez-vous mettre à jour le fichier de contexte stocké avec celui qui vien
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="500"/>
         <source>Output displacement field:</source>
-        <translation>Champ de déplacement de sortie&#x202f;:</translation>
+        <translation>Champ de déplacement de sortie :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Transforms/Resources/UI/qSlicerTransformsModuleWidget.ui" line="516"/>
@@ -27170,7 +27237,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="103"/>
         <source>This work is supported by NA-MIC, NAC, BIRN, NCIGT, and the Slicer Community. Some of the transfer functions were contributed by Kitware Inc. (VolView)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce travail est soutenu par NA-MIC, NAC, BIRN, NCIGT et la Slicer Community. Certaines des fonctions de transfert ont été fournies par Kitware Inc. (VolView)</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerVolumeRenderingModule.cxx" line="144"/>
@@ -27263,7 +27330,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="309"/>
         <source>GPU memory size:</source>
-        <translation>Taille de la mémoire du GPU&#x202f;:</translation>
+        <translation>Taille de la mémoire du GPU :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Resources/UI/qSlicerVolumeRenderingModuleWidget.ui" line="316"/>
@@ -27909,7 +27976,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="180"/>
         <source>Raising %1 Module:</source>
-        <translation>Élever le module %1&#x202f;:</translation>
+        <translation>Élever le module %1 :</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SlicerWelcome/qSlicerWelcomeModuleWidget.cxx" line="181"/>
@@ -27945,7 +28012,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLColorTableStorageNode.cxx" line="331"/>
         <source>MRML Color Table</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Table des couleurs MRML</translation>
     </message>
 </context>
 <context>
@@ -27953,47 +28020,47 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="682"/>
         <source>Idle</source>
-        <translation type="unfinished">Inactif</translation>
+        <translation>Inactif</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="683"/>
         <source>Scheduled</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmé</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="684"/>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>En cours d&apos;exécution</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="685"/>
         <source>Cancelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulation</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="686"/>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulé</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="687"/>
         <source>Completing</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminer</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="688"/>
         <source>Completed</source>
-        <translation type="unfinished">Terminé</translation>
+        <translation>Terminé</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="689"/>
         <source>Completed with errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Complété avec des erreurs</translation>
     </message>
     <message>
         <location filename="Libs/MRML/CLI/vtkMRMLCommandLineModuleNode.cxx" line="693"/>
         <source>Unknown</source>
-        <translation type="unfinished">Inconnu</translation>
+        <translation>Inconnu</translation>
     </message>
 </context>
 <context>
@@ -28003,7 +28070,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLLinearTransformSequenceStorageNode.cxx" line="614"/>
         <source>Linear transform sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Séquence de transformation linéaire</translation>
     </message>
 </context>
 <context>
@@ -28013,13 +28080,13 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="798"/>
         <source>Markups Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Annotations Fiducial CSV</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsFiducialStorageNode.cxx" line="791"/>
         <source>Annotation Fiducial CSV</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>CSV de référence d&apos;annotation</translation>
     </message>
 </context>
 <context>
@@ -28031,7 +28098,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Modules/Loadable/Markups/MRML/vtkMRMLMarkupsJsonStorageNode.cxx" line="357"/>
         <source>Markups JSON</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Balisages JSON</translation>
     </message>
 </context>
 <context>
@@ -28041,68 +28108,68 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="777"/>
         <source>VTK Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maillage de polygone VTK</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="749"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="779"/>
         <source>VTK XML Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maillage de polygone XML VTK</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="751"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="794"/>
         <source>VTK Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grille non structurée VTK</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="753"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="796"/>
         <source>VTK XML Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grille non structurée XML VTK</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="755"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="757"/>
         <source>Movie.BYU Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Movie.BYU Mesh</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="759"/>
         <source>MetaIO Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maillage MetaIO</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="761"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="785"/>
         <source>Stereolithography Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maille de stéréolithographie</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="763"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="787"/>
         <source>Stanford Polygon Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maillage de polygones de Stanford</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="765"/>
         <source>AVS Unstructured Grid</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Grille non structurée AVS</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="767"/>
         <location filename="Libs/MRML/Core/vtkMRMLModelStorageNode.cxx" line="789"/>
         <source>Wavefront Mesh</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maille de front d&apos;onde</translation>
     </message>
 </context>
 <context>
@@ -28114,7 +28181,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLProceduralColorStorageNode.cxx" line="233"/>
         <source>MRML Color Function</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fonction de couleur MRML</translation>
     </message>
 </context>
 <context>
@@ -28124,7 +28191,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLSegmentationStorageNode.cxx" line="178"/>
         <source>Segmentation</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">Segmentation</translation>
+        <translation>Segmentation</translation>
     </message>
 </context>
 <context>
@@ -28136,7 +28203,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLSequenceStorageNode.cxx" line="220"/>
         <source>MRML Sequence Bundle</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ensemble de séquences MRML</translation>
     </message>
 </context>
 <context>
@@ -28146,7 +28213,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLShaderPropertyStorageNode.cxx" line="497"/>
         <source>MRML Shader Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Propriété du shader MRML</translation>
     </message>
 </context>
 <context>
@@ -28156,7 +28223,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLTableSQLiteStorageNode.cxx" line="318"/>
         <source>SQLight database</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Base de données SQLight</translation>
     </message>
 </context>
 <context>
@@ -28168,14 +28235,14 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="244"/>
         <source>Tab-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Valeurs séparées par des tabulations</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="231"/>
         <location filename="Libs/MRML/Core/vtkMRMLTableStorageNode.cxx" line="242"/>
         <source>Comma-separated values</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Valeurs séparées par des virgules</translation>
     </message>
 </context>
 <context>
@@ -28185,21 +28252,21 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="165"/>
         <source>Text file</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fichier texte</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="156"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="167"/>
         <source>XML document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Document XML</translation>
     </message>
     <message>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="158"/>
         <location filename="Libs/MRML/Core/vtkMRMLTextStorageNode.cxx" line="169"/>
         <source>JSON document</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Document JSON</translation>
     </message>
 </context>
 <context>
@@ -28210,7 +28277,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Modules/Loadable/VolumeRendering/MRML/vtkMRMLVolumePropertyStorageNode.cxx" line="229"/>
         <source>MRML Volume Property</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Propriété de volume MRML</translation>
     </message>
 </context>
 <context>
@@ -28220,7 +28287,7 @@ Cette option ne doit être utilisée que par des utilisateurs avancés qui compr
         <location filename="Libs/MRML/Core/vtkMRMLVolumeSequenceStorageNode.cxx" line="603"/>
         <source>Volume Sequence</source>
         <extracomment>File format name</extracomment>
-        <translation type="unfinished">Séquence de volume</translation>
+        <translation>Séquence de volume</translation>
     </message>
 </context>
 </TS>
