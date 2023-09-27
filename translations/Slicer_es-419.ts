@@ -8758,7 +8758,19 @@ with a permissive copyright-license (&lt;a href=&quot;https://creativecommons.or
 and is exclusively available for research and teaching. You are not authorized to redistribute or sell it, or
 use it for commercial purposes.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Este trabajo fue financiado en parte por Cancer Care Ontario 
+y por Ontario Consortium for Adaptive Interventions in Radiation Oncology (OCAIRO)&lt;/p&gt;
+
+&lt;p&gt;El conjunto de datos MRHead, CBCT-MR Head, y CT-MR Brain  fueron donados  para el proyecto 3D Slicer por las personas que ahí aparecen, para ser utilizados sin restricción alguna.&lt;/p&gt;
+
+&lt;p&gt;La base de datos CTLiver  se obtuvo de  &lt;a href=&quot;http://medicaldecathlon.com/&quot;&gt;proyecto Medical Decathlon&lt;/a&gt; (imagesTr/liver_100.nii.gz in Task03_Liver collection)
+con una licencia de derechos de autor de tipo (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;), que permite compartir, distribuir  y mejorar la base de datos .&lt;/p&gt;
+
+&lt;p&gt;La base de datos CTA abdomen (Panoramix)  se obtuvo de &lt;a href=&quot;https://www.osirix-viewer.com/resources/dicom-image-library/&quot;&gt; libreria de imágenes Osirix DICOM&lt;/a&gt;
+y está esclusivamente disponible para investigación y enseñanza . Usted no esta autorizado para distribuirla o venderla, o
+utilizarla con fines comerciales.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/SampleData/SampleData.py" line="109"/>
