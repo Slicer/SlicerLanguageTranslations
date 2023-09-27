@@ -2329,7 +2329,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecione mensagens na lista para ver detalhes aqui.</translation>
     </message>
 </context>
 <context>
