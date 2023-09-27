@@ -17695,7 +17695,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/qSlicerCropVolumeModule.h" line="25"/>
         <source>Crop Volume</source>
-        <translation>Recortar volumen</translation>
+        <translation>Cortar volumen</translation>
     </message>
 </context>
 <context>
@@ -17704,7 +17704,7 @@ Capacidades gráficas de este ordenador:
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="14"/>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="38"/>
         <source>Crop Volume</source>
-        <translation>Recortar volumen</translation>
+        <translation>Cortar volumen</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="65"/>
@@ -17729,7 +17729,7 @@ Capacidades gráficas de este ordenador:
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="184"/>
         <source>Crop Volume ROI</source>
-        <translation>Recortar volumen ROI</translation>
+        <translation>Cortar volumen ROI</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/CropVolume/Resources/UI/qSlicerCropVolumeModuleWidget.ui" line="196"/>
