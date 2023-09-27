@@ -2650,12 +2650,12 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="35"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cor:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="65"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opacidade:</translation>
     </message>
     <message>
         <location filename="Libs/Widgets/Resources/UI/ctkMaterialPropertyWidget.ui" line="85"/>
@@ -4291,7 +4291,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="70"/>
         <source>Point Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamanho do Ponto:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="90"/>
@@ -4321,12 +4321,12 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="147"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cor:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="161"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opacidade:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="181"/>
@@ -4336,7 +4336,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="195"/>
         <source>Edge Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cor da Borda:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="208"/>
@@ -4351,7 +4351,7 @@ all settings to their default values?
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="231"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolação:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKPropertyWidget.ui" line="239"/>
@@ -4520,17 +4520,17 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="33"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cor:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="43"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opacidade:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="63"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fonte:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="71"/>
@@ -4550,27 +4550,27 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="89"/>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Estilo:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="96"/>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">negrito</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="103"/>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">itálico</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="110"/>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sombra</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKTextPropertyWidget.ui" line="117"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamanho:</translation>
     </message>
 </context>
 <context>
@@ -4588,7 +4588,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKThresholdWidget.ui" line="36"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opacidade:</translation>
     </message>
 </context>
 <context>
@@ -4601,7 +4601,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="23"/>
         <source>Scalar Opacity Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapeamento de Opacidade Scalar</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="51"/>
@@ -4621,7 +4621,7 @@ Do you want to replace it ?</source>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="101"/>
         <source>Interpolation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interpolação:</translation>
     </message>
     <message>
         <location filename="Libs/Visualization/VTK/Widgets/Resources/UI/ctkVTKVolumePropertyWidget.ui" line="109"/>
