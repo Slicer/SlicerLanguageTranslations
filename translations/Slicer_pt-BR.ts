@@ -9358,7 +9358,7 @@ New filename is generated for each captured image (no files are overwritten).</s
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="336"/>
         <source>Select a volume node to store the captured image in the scene instead of just writing immediately to disk. Requires output &apos;Number of images&apos; to be set to 1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecione um nó de volume para armazenar a imagem capturada na cena em vez de apenas escrever imediatamente para o disco. Requer saída &apos;Número de imagens&apos; seja definida para 1.</translation>
     </message>
     <message>
         <location filename="Modules/Scripted/ScreenCapture/ScreenCapture.py" line="338"/>
@@ -19510,17 +19510,17 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="77"/>
         <source>Composite With Shading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Composto com sombreamento</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="79"/>
         <source>Maximum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projeção de máxima intensidade</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/Widgets/qSlicerGPURayCastVolumeRenderingPropertiesWidget.cxx" line="81"/>
         <source>Minimum Intensity Projection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projeção de mínima de intensidade</translation>
     </message>
 </context>
 <context>
@@ -22554,7 +22554,7 @@ Escolha um diretório vazio.</translation>
     <message>
         <location filename="Modules/Loadable/Segmentations/EditorEffects/qSlicerSegmentEditorAbstractEffect.cxx" line="1052"/>
         <source>The currently selected segment is hidden. Would you like to make it visible?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O segmento selecionado atualmente está oculto. Você gostaria de torná-lo visível?</translation>
     </message>
 </context>
 <context>
@@ -24874,12 +24874,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="83"/>
         <source>GPU Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propriedades do GPU Shader</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/VolumeRendering/qSlicerShaderPropertyReader.cxx" line="96"/>
         <source>Shader Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propriedades do Shader</translation>
     </message>
 </context>
 <context>
