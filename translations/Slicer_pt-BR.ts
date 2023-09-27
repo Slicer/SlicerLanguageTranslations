@@ -19001,17 +19001,17 @@ Se desmarcado, o conjunto de dados exportados será adicionado ao banco de dados
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1806"/>
         <source>Extension %1 has been installed from server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A extensão %1 foi instalada do servidor.</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1808"/>
         <source>Slicer must be restarted. Do you want to restart now ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slicer deve ser reiniciado. Deseja reiniciar agora?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1809"/>
         <source>Restart slicer ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reiniciar slicer?</translation>
     </message>
     <message>
         <location filename="Base/QTCore/qSlicerExtensionsManagerModel.cxx" line="1846"/>
@@ -20370,12 +20370,12 @@ Click OK to wait for them to complete, or choose Ignore to close the Extensions 
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="429"/>
         <source>Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Registo de erro</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="439"/>
         <source>Show/hide Error Log window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exibir/esconder janela de log de erros</translation>
     </message>
     <message>
         <location filename="Base/QTApp/qSlicerMainWindow.cxx" line="463"/>
@@ -21441,7 +21441,7 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Models/qSlicerModelsModule.cxx" line="74"/>
         <source>The Models Module loads and adjusts display parameters of models such as Color, Transparency, and Clipping.&lt;br&gt;Save models via the File menu, Save button.&lt;br&gt;The Add 3D model or a model directory button will allow you to load any model that Slicer can read, as well as all the VTK models in a directory. Add Scalar Overlay will load a scalar file and associate it with the currently active model.&lt;br&gt;You can adjust the display properties of the models in the Display pane. Select the model you wish to work on from the model selector drop down menu. Scalar overlays are loaded with a default color look up table, but can be reassigned manually. Once a new scalar overlay is chosen, currently the old color map is still used, so that must be adjusted in conjunction with the overlay.&lt;br&gt;Clipping is turned on for a model in the Display pane, and the slice planes that will clip the model are selected in the Clipping pane.&lt;br&gt;The Model Hierarchy pane allows you to group models together and set the group&apos;s properties.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O Módulo de Modelos carrega e ajusta parâmetros de exibição de modelos como Cor, Transparência e Recorte.&lt; br&gt;Salve modelos através do menu Arquivo, botão Salvar.&lt;br&gt; O botão Adicionar Modelo 3D ou um botão diretório de modelo lhe permitirá carregar qualquer modelo que o Slicer possa ler, bem como todos os modelos VTK do diretório. Adicionar Scalar Overlay vai carregar um arquivo escalar e associá-lo com o modelo atualmente ativo.&lt;br&gt; Você pode ajustar as propriedades de exibição dos modelos no painel de exibição. Selecione o modelo que você deseja trabalhar no menu de seleção de modelos. As sobreposições Scalar são carregadas com uma tabela de aparência de cor padrão, mas podem ser reatribuídas manualmente. Uma vez que uma nova sobreposição de escalar é escolhida, atualmente o mapa de cor antigo ainda é usado, de modo que deve ser ajustado em conjunto com a sobreposição.&lt;br&gt;Recorte é habilitado para um modelo no painel de exibição, e os planos de fatias que irá recortar o modelo são selecionados no painel de recorte.&lt;br&gt; O painel Hierarquia Modelo permite agrupar modelos e definir as propriedades do grupo.</translation>
     </message>
 </context>
 <context>
@@ -22009,12 +22009,12 @@ Nomes das colunas da tabela: rótulo, r, a, s, (ou l, p, s), definido, seleciona
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="302"/>
         <source>Rotate the slice in the current slice plane, around the slice normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gire a fatia no plano de fatia atual, em torno da fatia normal</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="315"/>
         <source>Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vertical:</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/Reformat/Resources/UI/qSlicerReformatModuleWidget.ui" line="325"/>
@@ -24372,17 +24372,17 @@ Padrão: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="32"/>
         <source>Editor for .py files:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor para arquivos .py:</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="39"/>
         <source>Select an executable for editing .py files. If left empty then the default program associated with .py files will be launched.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selecione um executável para editar arquivos .py. Se deixado vazio, então o programa padrão associado com arquivos .py será executado.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="42"/>
         <source>PythonEditor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor de Python</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/Resources/UI/qSlicerSettingsPythonPanel.ui" line="52"/>
@@ -24419,7 +24419,7 @@ Padrão: {documentationbaseurl}/user_guide/modules/{lowercasemodulename}.html</t
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="99"/>
         <source>Python editor.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor Python.</translation>
     </message>
     <message>
         <location filename="Base/QTGUI/qSlicerSettingsPythonPanel.cxx" line="103"/>
@@ -25104,12 +25104,12 @@ Clique em Cancelar para criar manualmente a hierarquia paciente/estudo e arrasta
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="117"/>
         <source>Show empty folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mostrar pastas vazias</translation>
     </message>
     <message>
         <location filename="Modules/Loadable/SubjectHierarchy/Widgets/qSlicerSubjectHierarchyFolderPlugin.cxx" line="119"/>
         <source>If on, then folders that do not contain nodes (allowed by any filter) are shown, otherwise not</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se habilitado, então as pastas que não contêm nós (permitidas por qualquer filtro) são mostradas, caso contrário não</translation>
     </message>
 </context>
 <context>
@@ -25616,7 +25616,8 @@ Note: This may result in unwanted data loss in %5.</oldsource>
         <location filename="Modules/Loadable/Segmentations/SubjectHierarchyPlugins/qSlicerSubjectHierarchySegmentsPlugin.cxx" line="406"/>
         <source>Segment - ID: %1, Representations: %2, Color: (%3, %4, %5)
 Tags: %6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Segmento - ID: %1, Representações: %2, Cor: (%3, %4, %5))
+Etiquetas: %6</translation>
     </message>
 </context>
 <context>
