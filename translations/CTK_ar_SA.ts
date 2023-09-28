@@ -2363,7 +2363,7 @@ Halting export.</source>
     <message>
         <location filename="Libs/Widgets/ctkErrorLogWidget.cpp" line="72"/>
         <source>Select messages in the list to see details here.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد الرسائل في القائمة لمعرفة التفاصيل هنا.</translation>
     </message>
 </context>
 <context>
